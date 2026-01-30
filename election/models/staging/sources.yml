@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw election data loaded from JSON files into DuckDB
+    schema: main
+    tables:
+      - name: constituency
+        description: Constituency information
+      
+      - name: current_candidates
+        description: Current election candidates data
+      
+      - name: districts
+        description: District information
+      
+      - name: pratakhya_election_result
+        description: Pratakhya (First Past The Post) election results
+      
+      - name: samanupatik_election_results
+        description: Samanupatik (Proportional Representation) election results
+      
+      - name: states
+        description: State/Province information
