@@ -28,8 +28,9 @@ col1.metric("FPTP Candidates", len(fptp))
 col2.metric("Proportional Candidates", len(proportional))
 col3.metric("Total", len(fptp) + len(proportional))
 
-if prev_names:
-    st.info(f"**Previous names:** {', '.join(prev_names) if isinstance(prev_names, list) else prev_names}")
+if prev_names is not None and (isinstance(prev_names, list) and len(prev_names) > 0 or hasattr(prev_names, 'size') and prev_names.size > 0):
+    names = list(prev_names) if not isinstance(prev_names, list) else prev_names
+    st.info(f"**Previous names:** {', '.join(str(n) for n in names)}")
 
 st.divider()
 
