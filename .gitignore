@@ -13,3 +13,4 @@ wheels/
 target/
 dbt_packages/
 logs/
+ocr/

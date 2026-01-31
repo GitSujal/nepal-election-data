@@ -2,23 +2,26 @@ version: 2
 
 sources:
   - name: raw
-    description: Raw election data loaded from JSON files into DuckDB
+    description: Raw election data loaded from JSON and CSV files into DuckDB
     schema: main
     tables:
       - name: constituency
-        description: Constituency information
-      
-      - name: current_candidates
-        description: Current election candidates data
-      
+        description: Constituency information with district mappings
+
+      - name: current_first_past_the_post_candidates
+        description: Candidates registered for the 2082 BS first-past-the-post (FPTP) parliamentary election
+
+      - name: current_proportional_election_candidates
+        description: Candidates registered for the 2082 BS proportional representation parliamentary election (loaded from CSV)
+
       - name: districts
-        description: District information
-      
-      - name: pratakhya_election_result
-        description: Pratakhya (First Past The Post) election results
-      
-      - name: samanupatik_election_results
-        description: Samanupatik (Proportional Representation) election results
-      
+        description: District reference data with parent state IDs
+
+      - name: past_first_past_the_post_election_result
+        description: Results of the 2079 BS first-past-the-post (FPTP) parliamentary election
+
+      - name: past_proportional_election_result
+        description: Results of the 2079 BS proportional representation parliamentary election (nested JSON with state→district→constituency→results)
+
       - name: states
-        description: State/Province information
+        description: State/Province reference data

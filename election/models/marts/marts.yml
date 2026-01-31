@@ -1,0 +1,221 @@
+version: 2
+
+models:
+  - name: dim_current_candidates
+    description: >
+      Dimension table for current (2082 BS) FPTP candidates, enriched with
+      previous (2079 BS) election performance, party merger awareness, tourist
+      candidate flag, education change tracking, and candidate type classification
+      (Chheparo / Vaguwa / Same Location / New Candidate).
+    columns:
+      - name: candidate_id
+        description: Unique identifier for the candidate
+      - name: candidate_name
+        description: Full name of the candidate (Devanagari)
+      - name: gender
+        description: Gender of the candidate
+      - name: age
+        description: Age of the candidate in years
+      - name: age_group
+        description: Age bucket (Below 30, 30-50, 50-60, 60+)
+      - name: date_of_birth
+        description: Date of birth
+      - name: father_name
+        description: Father's name
+      - name: spouse_name
+        description: Spouse's name
+      - name: qualification
+        description: Educational qualification (raw)
+      - name: qualification_level
+        description: Mapped qualification level from qualification_level_mapping seed
+      - name: institution_name
+        description: Name of educational institution
+      - name: address
+        description: Residential address
+      - name: experience
+        description: Professional experience
+      - name: other_details
+        description: Other details about the candidate
+      - name: symbol_code
+        description: Election symbol code
+      - name: symbol_name
+        description: Name of the election symbol
+      - name: political_party_name
+        description: Current political party name
+      - name: state_id
+        description: State/Province identifier
+      - name: state_name
+        description: State/Province name
+      - name: district_id
+        description: District identifier (from districts reference)
+      - name: district_name
+        description: District name where contesting
+      - name: constituency_id
+        description: Constituency identifier
+      - name: constituency_name
+        description: Constituency name
+      - name: citizenship_district
+        description: Citizenship district of the candidate
+      - name: election_status
+        description: Election status code
+      - name: current_vote_received
+        description: Votes received in the current election
+      - name: rank_position
+        description: Rank/position in results
+      - name: prev_election_votes
+        description: Votes received in the 2079 BS election
+      - name: prev_election_rank
+        description: Rank in the 2079 BS election
+      - name: prev_election_remarks
+        description: Remarks from 2079 BS election (e.g. 'Elected')
+      - name: prev_election_result
+        description: Derived result — Winner or Loser
+      - name: prev_election_party
+        description: Political party in the 2079 BS election
+      - name: prev_election_state
+        description: State contested in during 2079 BS election
+      - name: prev_election_district
+        description: District contested in during 2079 BS election
+      - name: prev_election_district_cd
+        description: District code from 2079 BS election
+      - name: prev_election_constituency_id
+        description: Constituency ID from 2079 BS election
+      - name: prev_election_casted_vote
+        description: Total votes cast in the 2079 BS constituency
+      - name: prev_election_total_voters
+        description: Total registered voters in the 2079 BS constituency
+      - name: prev_qualification
+        description: Qualification reported in 2079 BS election
+      - name: prev_qualification_level
+        description: Mapped qualification level from 2079 BS election
+      - name: is_same_party_after_merger_check
+        description: Whether the current party matches the previous party after accounting for mergers/renames
+      - name: is_tourist_candidate
+        description: Whether citizenship district differs from candidacy district
+      - name: is_education_changed
+        description: Whether qualification level changed between elections
+      - name: is_chheparo
+        description: Whether the candidate switched to a genuinely different party
+      - name: is_vaguwa
+        description: Whether the candidate moved to a different district or constituency
+      - name: candidate_type
+        description: Classification — Chheparo, Vaguwa, Same Location, or New Candidate
+
+  - name: dim_past_candidates
+    description: >
+      Dimension table for 2079 BS FPTP election candidates with cleaned column
+      names, qualification level mapping, tourist candidate flag, and election
+      result derivation (Winner/Loser).
+    columns:
+      - name: candidate_id
+        description: Unique identifier for the candidate
+      - name: candidate_name
+        description: Full name of the candidate (Devanagari)
+      - name: gender
+        description: Gender of the candidate
+      - name: age
+        description: Age at the time of the 2079 BS election
+      - name: age_group
+        description: Age bucket (Below 30, 30-50, 50-60, 60+)
+      - name: date_of_birth
+        description: Date of birth
+      - name: father_name
+        description: Father's name
+      - name: spouse_name
+        description: Spouse's name
+      - name: qualification
+        description: Educational qualification (raw)
+      - name: qualification_level
+        description: Mapped qualification level
+      - name: institution_name
+        description: Name of educational institution
+      - name: address
+        description: Residential address
+      - name: experience
+        description: Professional experience
+      - name: other_details
+        description: Other details
+      - name: party_id
+        description: Political party identifier
+      - name: symbol_id
+        description: Election symbol identifier
+      - name: symbol_name
+        description: Name of the election symbol
+      - name: political_party_name
+        description: Political party name
+      - name: election_post
+        description: Election post contested for
+      - name: state_id
+        description: State/Province identifier
+      - name: state_name
+        description: State/Province name
+      - name: district_id
+        description: District identifier (from districts reference)
+      - name: district_name
+        description: District name
+      - name: district_cd
+        description: District code
+      - name: constituency_id
+        description: Constituency identifier
+      - name: center_constituency_id
+        description: Center constituency identifier
+      - name: citizenship_district
+        description: Citizenship district
+      - name: is_tourist_candidate
+        description: Whether citizenship district differs from candidacy district
+      - name: serial_no
+        description: Serial number
+      - name: total_votes_received
+        description: Total votes received
+      - name: casted_vote
+        description: Total votes cast in the constituency
+      - name: total_voters
+        description: Total registered voters
+      - name: rank_position
+        description: Rank in results
+      - name: remarks
+        description: Result remarks (e.g. 'Elected')
+      - name: election_result
+        description: Derived result — Winner or Loser
+      - name: samudaya
+        description: Community/ethnic group
+
+  - name: dim_current_proportional_candidates
+    description: >
+      Dimension table for current (2082 BS) proportional representation
+      candidates, joined to dim_parties for party identification.
+    columns:
+      - name: serial_no
+        description: Serial number of the candidate within the party list
+      - name: full_name
+        description: Full name of the candidate (Devanagari)
+      - name: voter_id_number
+        description: Voter ID number
+      - name: gender
+        description: Gender of the candidate
+      - name: inclusive_group
+        description: Inclusive group category (e.g. आदिवासी जनजाति, मधेशी)
+      - name: citizenship_district
+        description: District of citizenship
+      - name: backward_area
+        description: Whether the candidate is from a backward area
+      - name: disability
+        description: Whether the candidate has a disability
+      - name: associated_party
+        description: Associated political party when multiple parties combine under a single symbol
+      - name: remarks
+        description: Additional remarks
+      - name: political_party_name
+        description: Political party name as listed in the source
+      - name: party_id
+        description: Party ID from dim_parties, matched on political_party_name first then associated_party as fallback
+      - name: matched_party_name
+        description: The party name that successfully matched in dim_parties
+      - name: party_previous_names
+        description: List of previous party names from dim_parties
+
+  - name: dim_parties
+    description: >
+      Dimension table of political parties with current names and lists of
+      previous names (from party_current_new_name_mapping seed) to support
+      merger/rename tracking.

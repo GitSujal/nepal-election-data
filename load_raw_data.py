@@ -1,6 +1,6 @@
 """
-Load raw JSON data from the data/ directory into DuckDB.
-Creates an election.db database with tables for each JSON file.
+Load raw JSON and CSV data from the data/ directory into DuckDB.
+Creates an election.db database with tables for each data file.
 """
 import duckdb
 from pathlib import Path
@@ -8,36 +8,43 @@ from pathlib import Path
 # Define the database path
 DB_PATH = "election/election.db"
 
-# Define the JSON files to load
-JSON_FILES = {
-    "constituency": "data/constituency.json",
-    "current_candidates": "data/current_candidates.json",
-    "districts": "data/districts.json",
-    "pratakhya_election_result": "data/pratakhya_election_result.json",
-    "samanupatik_election_results": "data/samanupatik_election_results.json",
+# Define the data files to load (supports .json and .csv)
+DATA_FILES = {
     "states": "data/states.json",
+    "districts": "data/districts.json",
+    "constituency": "data/constituency.json",
+    "current_first_past_the_post_candidates": "data/current_first_past_the_post_candidates.json",
+    "current_proportional_election_candidates": "data/current_proportional_election_candidates.csv",
+    "past_first_past_the_post_election_result": "data/past_first_past_the_post_election_result.json",
+    "past_proportional_election_result": "data/past_proportional_election_result.json"
 }
 
 def main():
-    """Load all JSON files into DuckDB."""
+    """Load all data files into DuckDB."""
     print(f"Initializing DuckDB database: {DB_PATH}")
-    
+
     # Connect to DuckDB (creates the database if it doesn't exist)
     con = duckdb.connect(DB_PATH)
-    
-    # Load each JSON file into a table
-    for table_name, json_path in JSON_FILES.items():
-        print(f"\nLoading {json_path} into table '{table_name}'...")
-        
+
+    # Load each data file into a table
+    for table_name, file_path in DATA_FILES.items():
+        print(f"\nLoading {file_path} into table '{table_name}'...")
+
         # Check if file exists
-        if not Path(json_path).exists():
-            print(f"  WARNING: File {json_path} not found, skipping...")
+        if not Path(file_path).exists():
+            print(f"  WARNING: File {file_path} not found, skipping...")
             continue
-        
-        # Create table from JSON file
+
+        # Pick the right reader based on file extension
+        if file_path.endswith(".csv"):
+            read_func = f"read_csv_auto('{file_path}')"
+        else:
+            read_func = f"read_json_auto('{file_path}')"
+
+        # Create table from data file
         con.execute(f"""
-            CREATE OR REPLACE TABLE {table_name} AS 
-            SELECT * FROM read_json_auto('{json_path}')
+            CREATE OR REPLACE TABLE {table_name} AS
+            SELECT * FROM {read_func}
         """)
         
         # Get row count

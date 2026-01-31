@@ -1,0 +1,212 @@
+version: 2
+
+models:
+  - name: stg_current_fptp_candidates
+    description: Staged current (2082 BS) first-past-the-post candidates with raw column names preserved
+    columns:
+      - name: CandidateID
+        description: Unique identifier for the candidate
+      - name: CandidateName
+        description: Full name of the candidate (Devanagari)
+      - name: AGE_YR
+        description: Age of the candidate in years
+      - name: Gender
+        description: Gender of the candidate
+      - name: PoliticalPartyName
+        description: Name of the political party
+      - name: SYMBOLCODE
+        description: Election symbol code
+      - name: SymbolName
+        description: Name of the election symbol
+      - name: CTZDIST
+        description: Citizenship district of the candidate
+      - name: DistrictName
+        description: District where the candidate is contesting
+      - name: StateName
+        description: State/Province name
+      - name: STATE_ID
+        description: State/Province identifier
+      - name: SCConstID
+        description: Sub-constituency identifier
+      - name: ConstName
+        description: Constituency name
+      - name: TotalVoteReceived
+        description: Total votes received by the candidate
+      - name: R
+        description: Rank/position of the candidate in results
+      - name: E_STATUS
+        description: Election status code
+      - name: DOB
+        description: Date of birth
+      - name: FATHER_NAME
+        description: Father's name
+      - name: SPOUCE_NAME
+        description: Spouse's name
+      - name: QUALIFICATION
+        description: Educational qualification
+      - name: NAMEOFINST
+        description: Name of educational institution
+      - name: EXPERIENCE
+        description: Professional experience
+      - name: OTHERDETAILS
+        description: Other details about the candidate
+      - name: ADDRESS
+        description: Residential address
+
+  - name: stg_current_proportional_candidates
+    description: Staged current (2082 BS) proportional representation candidates from CSV source
+    columns:
+      - name: political_party_name
+        description: Name of the political party (Devanagari)
+      - name: serial_no
+        description: Serial number of the candidate within the party list
+      - name: full_name
+        description: Full name of the candidate (Devanagari)
+      - name: voter_id_number
+        description: Voter ID number of the candidate
+      - name: gender
+        description: Gender of the candidate
+      - name: inclusive_group
+        description: Inclusive group category (e.g. आदिवासी जनजाति, मधेशी)
+      - name: citizenship_district
+        description: District of citizenship
+      - name: backward_area
+        description: Whether the candidate is from a backward area
+      - name: disability
+        description: Whether the candidate has a disability (✓ if yes)
+      - name: associated_party
+        description: Associated political party name when multiple parties combine under a single election symbol (सम्बन्धित राजनितिक दल)
+      - name: remarks
+        description: Additional remarks
+
+  - name: stg_past_fptp_election_result
+    description: Staged 2079 BS first-past-the-post election results with raw column names preserved
+    columns:
+      - name: CandidateName
+        description: Full name of the candidate (Devanagari)
+      - name: Gender
+        description: Gender of the candidate
+      - name: Age
+        description: Age of the candidate at the time of the 2079 election
+      - name: PartyID
+        description: Political party identifier
+      - name: SymbolID
+        description: Election symbol identifier
+      - name: SymbolName
+        description: Name of the election symbol
+      - name: CandidateID
+        description: Unique identifier for the candidate
+      - name: StateName
+        description: State/Province name
+      - name: PoliticalPartyName
+        description: Name of the political party
+      - name: ElectionPost
+        description: Election post the candidate contested for
+      - name: DistrictCd
+        description: District code
+      - name: DistrictName
+        description: District name
+      - name: State
+        description: State/Province identifier
+      - name: SCConstID
+        description: Sub-constituency identifier
+      - name: CenterConstID
+        description: Center constituency identifier
+      - name: SerialNo
+        description: Serial number
+      - name: TotalVoteReceived
+        description: Total votes received
+      - name: CastedVote
+        description: Total votes cast in the constituency
+      - name: TotalVoters
+        description: Total registered voters in the constituency
+      - name: Rank
+        description: Candidate's rank in results
+      - name: Remarks
+        description: Result remarks (e.g. 'Elected')
+      - name: Samudaya
+        description: Community/ethnic group
+      - name: DOB
+        description: Date of birth
+      - name: CTZDIST
+        description: Citizenship district
+      - name: FATHER_NAME
+        description: Father's name
+      - name: SPOUCE_NAME
+        description: Spouse's name
+      - name: QUALIFICATION
+        description: Educational qualification
+      - name: EXPERIENCE
+        description: Professional experience
+      - name: OTHERDETAILS
+        description: Other details
+      - name: NAMEOFINST
+        description: Name of educational institution
+      - name: ADDRESS
+        description: Residential address
+
+  - name: stg_past_proportional_election_result
+    description: Staged 2079 BS proportional representation election results, flattened from nested JSON using CROSS JOIN UNNEST
+    columns:
+      - name: state_id
+        description: State/Province identifier
+      - name: state_name
+        description: State/Province name (Devanagari)
+      - name: district_id
+        description: District identifier
+      - name: district_name
+        description: District name (Devanagari)
+      - name: constituency_id
+        description: Constituency identifier
+      - name: constituency_name
+        description: Constituency name (Devanagari)
+      - name: serial_no
+        description: Serial number of the party in the constituency
+      - name: party_id
+        description: Political party identifier
+      - name: symbol_id
+        description: Election symbol identifier
+      - name: symbol_name
+        description: Name of the election symbol
+      - name: political_party_name
+        description: Name of the political party
+      - name: district_cd
+        description: District code (from results record)
+      - name: district_name_alt
+        description: Alternative district name (from results record)
+      - name: state_id_alt
+        description: Alternative state identifier (from results record)
+      - name: sc_const_id
+        description: Sub-constituency identifier
+      - name: center_const_id
+        description: Center constituency identifier
+      - name: order_id
+        description: Display order identifier
+      - name: total_vote_received
+        description: Total votes received by the party in this constituency
+
+  - name: stg_states
+    description: Staged state/province reference data
+    columns:
+      - name: id
+        description: State/Province identifier
+      - name: name
+        description: State/Province name (Devanagari)
+
+  - name: stg_districts
+    description: Staged district reference data
+    columns:
+      - name: id
+        description: District identifier
+      - name: name
+        description: District name (Devanagari)
+      - name: parentId
+        description: Parent state/province identifier
+
+  - name: stg_constituency
+    description: Staged constituency reference data
+    columns:
+      - name: distId
+        description: Parent district identifier
+      - name: consts
+        description: Constituency data nested under the district
