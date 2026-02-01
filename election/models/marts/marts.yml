@@ -282,8 +282,124 @@ models:
           Array of tags for the constituency. Currently includes "Gadh: {party_name}"
           if the constituency is a stronghold for a particular party
 
+  - name: dim_parliament_members
+    description: >
+      Dimension table of House of Representatives members aggregated across
+      2074 and 2079 BS terms. Uses 3-tier name matching (exact → normalized →
+      manual seed mapping via parliament_member_name_mapping) to consolidate
+      the same person across terms. Tracks party switching, election types,
+      districts, and constituencies per term.
+    columns:
+      - name: parliament_member_id
+        description: Unique identifier assigned via row_number() ordered by name_np
+      - name: name_normalized
+        description: Unified normalized Devanagari name used for cross-term matching
+      - name: name_np
+        description: Display name in Nepali (from latest term)
+      - name: name_en
+        description: Display name in English (from latest term)
+      - name: gender
+        description: Gender of the member
+      - name: dob
+        description: Date of birth
+      - name: times_elected
+        description: Number of times elected to parliament (1 or 2)
+      - name: parties_np
+        description: List of distinct party names (Nepali) across terms
+      - name: parties_en
+        description: List of distinct party names (English) across terms
+      - name: is_party_switcher
+        description: Whether the member was in different parties across terms
+      - name: terms_bs
+        description: List of BS years the member was elected (e.g. [2074, 2079])
+      - name: election_types
+        description: List of election types per term (FPTP or Proportional)
+      - name: districts_np
+        description: List of district names per term
+      - name: election_areas
+        description: List of constituency numbers per term
+      - name: latest_term_bs
+        description: Most recent term (BS year)
+      - name: was_member_2074
+        description: Whether the member served in the 2074 term
+      - name: was_member_2079
+        description: Whether the member served in the 2079 term
+      - name: party_2074_np
+        description: Party name (Nepali) during 2074 term, null if not a member
+      - name: party_2079_np
+        description: Party name (Nepali) during 2079 term, null if not a member
+      - name: election_type_2074
+        description: Election type in 2074 (FPTP or Proportional)
+      - name: election_type_2079
+        description: Election type in 2079 (FPTP or Proportional)
+      - name: district_2074_np
+        description: District name (Nepali) in 2074
+      - name: district_2079_np
+        description: District name (Nepali) in 2079
+      - name: election_area_2074
+        description: Constituency number in 2074
+      - name: election_area_2079
+        description: Constituency number in 2079
+
   - name: dim_parties
     description: >
-      Dimension table of political parties with current names and lists of
-      previous names (from party_current_new_name_mapping seed) to support
-      merger/rename tracking.
+      Master dimension table of political parties with current names, lists of
+      previous names (from party_current_new_name_mapping seed), and metadata
+      from Wikipedia (symbol, leader, founding year). Includes proportional-only
+      parties not mapped to any FPTP party. Used by other marts for merger-aware
+      party comparison via list_contains(previous_names, ...).
+    columns:
+      - name: party_id
+        description: Unique identifier assigned via row_number() ordered by current_party_name
+      - name: current_party_name
+        description: Current (2082 BS) party name
+      - name: previous_names
+        description: List of previous party names from merger/rename history
+      - name: symbol_url
+        description: URL to the party's election symbol image (from Wikipedia)
+      - name: symbol_alt
+        description: Alt text for the party symbol image
+      - name: leader
+        description: Current party leader name
+      - name: founded_year
+        description: Year the party was founded
+      - name: wikipedia_url
+        description: Wikipedia URL for the party
+
+  - name: dim_parties_profile
+    description: >
+      Party-level analytical profile combining historical election performance
+      (2074 and 2079 FPTP/PR stats, parliament membership counts) with current
+      2082 candidate composition (FPTP and PR). Returns complex JSON structures
+      for history and current stats. Generates party-level tags like
+      "Budo Party" (avg age > 55), "Same Same" (>50% returning candidates),
+      "Naya Anuhar" (>50% new candidates).
+    columns:
+      - name: party_id
+        description: Party identifier from dim_parties
+      - name: party_name
+        description: Current party name
+      - name: symbol_url
+        description: URL to the party's election symbol image
+      - name: symbol_alt
+        description: Alt text for the party symbol image
+      - name: leader
+        description: Current party leader name
+      - name: founded_year
+        description: Year the party was founded
+      - name: wikipedia_url
+        description: Wikipedia URL for the party
+      - name: history_json
+        description: >
+          Nested JSON with historical performance: parliament membership counts
+          (reps_2079, fptp_reps_2079, pr_reps_2079, reps_2074, etc.), FPTP stats
+          (candidate_count, seats_won, total_votes per year), PR stats (total_votes per year)
+      - name: current_stats_json
+        description: >
+          Nested JSON with current 2082 candidate composition: FPTP aggregates
+          (avg_age, new_vs_returning, qualification/gender/district/age_group breakdowns)
+          and PR aggregates (count, gender, inclusive_group, district, disability breakdowns)
+      - name: party_tags
+        description: >
+          Array of party-level tags: "Budo Party 👴" (avg candidate age > 55),
+          "Same Same 👯" (>50% returning candidates), "Naya Anuhar 🧒" (>50% new candidates)
