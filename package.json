@@ -8,7 +8,7 @@
     "dev": "npm run prepare-db && next dev",
     "lint": "eslint .",
     "start": "next start",
-    "deploy": "npm run build && wrangler pages deploy .next/static"
+    "deploy": "npm run build && wrangler pages deploy out"
   },
   "dependencies": {
     "@duckdb/duckdb-wasm": "^1.33.1-dev18.0",

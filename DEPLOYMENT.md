@@ -47,7 +47,7 @@ This is the easiest method. Every time you push to the `main` branch, the app au
    - Choose "Connect to Git"
    - Connect to GitHub and select this repository
    - Use build command: `npm run build`
-   - Build output directory: `.next/static`
+   - Build output directory: `out`
 
 6. **Deploy**
    - Push code to main branch
@@ -80,7 +80,7 @@ Deploy directly from your machine using Wrangler CLI.
    ```bash
    npm run deploy
    ```
-   This runs `npm run build && wrangler pages deploy .next/static`
+   This runs `npm run build && wrangler pages deploy out`
 
 5. **View your site**
    - After deployment completes, you'll get a URL like:
@@ -96,7 +96,7 @@ Add environment variables in Cloudflare Pages dashboard:
 
 The deployment uses these settings:
 - **Build Command**: `npm run build`
-- **Build Output**: `.next/static`
+- **Build Output**: `out`
 - **Node Version**: 18 (or latest stable)
 
 ## Data Files

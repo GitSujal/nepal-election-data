@@ -52,5 +52,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: nepal-election-data
-          directory: .next/static
+          directory: out
           productionBranch: main
