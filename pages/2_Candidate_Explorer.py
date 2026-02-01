@@ -9,7 +9,7 @@ st.title("Candidate Explorer")
 election_type = st.sidebar.radio("Election Type", ["FPTP", "Proportional"])
 
 if election_type == "FPTP":
-    all_data = query("SELECT * FROM dim_current_candidates")
+    all_data = query("SELECT * FROM dim_fptp_candidates")
 
     states = ["All"] + sorted(all_data["state_name"].dropna().unique().tolist())
     sel_state = st.sidebar.selectbox("State", states)

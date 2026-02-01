@@ -1,11 +1,12 @@
 version: 2
 
 models:
-  - name: dim_current_candidates
+  - name: dim_fptp_candidates
     description: >
       Dimension table for current (2082 BS) FPTP candidates, enriched with
-      previous (2079 BS) election performance, party merger awareness, tourist
-      candidate flag, education change tracking, and candidate type classification
+      previous election performance (2079 and 2074 BS), parliament membership
+      history, party merger awareness, tourist candidate flag, education change
+      tracking, and candidate type classification
       (Chheparo / Vaguwa / Same Location / New Candidate).
     columns:
       - name: candidate_id
@@ -69,7 +70,7 @@ models:
       - name: prev_election_remarks
         description: Remarks from 2079 BS election (e.g. 'Elected')
       - name: prev_election_result
-        description: Derived result — Winner or Loser
+        description: Derived result — Winner or Loser (2079)
       - name: prev_election_party
         description: Political party in the 2079 BS election
       - name: prev_election_state
@@ -88,24 +89,53 @@ models:
         description: Qualification reported in 2079 BS election
       - name: prev_qualification_level
         description: Mapped qualification level from 2079 BS election
+      - name: prev_2074_election_votes
+        description: Votes received in the 2074 BS election
+      - name: prev_2074_election_result
+        description: Derived result — Winner or Loser (2074)
+      - name: prev_2074_election_party
+        description: Political party in the 2074 BS election
+      - name: prev_2074_election_district
+        description: District contested in during 2074 BS election
+      - name: prev_2074_election_constituency_id
+        description: Constituency ID from 2074 BS election
+      - name: elections_contested
+        description: Count of past FPTP elections contested (0, 1, or 2)
+      - name: was_parliament_member_2074
+        description: Whether candidate was a parliament member in 2074
+      - name: parliament_member_2074_election_type
+        description: Election type (FPTP/Proportional) for 2074 parliament term
+      - name: was_parliament_member_2079
+        description: Whether candidate was a parliament member in 2079
+      - name: parliament_member_2079_election_type
+        description: Election type (FPTP/Proportional) for 2079 parliament term
       - name: is_same_party_after_merger_check
-        description: Whether the current party matches the previous party after accounting for mergers/renames
+        description: Whether the current party matches the 2079 party after accounting for mergers/renames
+      - name: is_same_party_2074_after_merger_check
+        description: Whether the current party matches the 2074 party after accounting for mergers/renames
       - name: is_tourist_candidate
         description: Whether citizenship district differs from candidacy district
       - name: is_education_changed
-        description: Whether qualification level changed between elections
+        description: Whether qualification level changed between 2079 and current
       - name: is_chheparo
         description: Whether the candidate switched to a genuinely different party
       - name: is_vaguwa
         description: Whether the candidate moved to a different district or constituency
+      - name: is_new_candidate
+        description: Whether the candidate did not contest in any previous election
+      - name: is_loyal
+        description: Whether the candidate stayed with same party and constituency across all elections
+      - name: is_proportional_veteran
+        description: Whether the candidate was a proportional parliament member in a past election
       - name: candidate_type
         description: Classification — Chheparo, Vaguwa, Same Location, or New Candidate
 
-  - name: dim_past_candidates
+  - name: dim_fptp_2079_candidates
     description: >
-      Dimension table for 2079 BS FPTP election candidates with cleaned column
-      names, qualification level mapping, tourist candidate flag, and election
-      result derivation (Winner/Loser).
+      Dimension table for 2079 BS FPTP candidates, enriched with 2074 BS
+      previous election performance, parliament membership history, party
+      merger awareness, tourist candidate flag, and candidate type classification.
+      Same tag structure as dim_fptp_candidates but for the 2079 election cycle.
     columns:
       - name: candidate_id
         description: Unique identifier for the candidate
@@ -119,66 +149,58 @@ models:
         description: Age bucket (Below 30, 30-50, 50-60, 60+)
       - name: date_of_birth
         description: Date of birth
-      - name: father_name
-        description: Father's name
-      - name: spouse_name
-        description: Spouse's name
       - name: qualification
         description: Educational qualification (raw)
       - name: qualification_level
         description: Mapped qualification level
-      - name: institution_name
-        description: Name of educational institution
-      - name: address
-        description: Residential address
-      - name: experience
-        description: Professional experience
-      - name: other_details
-        description: Other details
-      - name: party_id
-        description: Political party identifier
-      - name: symbol_id
-        description: Election symbol identifier
-      - name: symbol_name
-        description: Name of the election symbol
       - name: political_party_name
-        description: Political party name
-      - name: election_post
-        description: Election post contested for
-      - name: state_id
-        description: State/Province identifier
+        description: Political party name in 2079
       - name: state_name
         description: State/Province name
-      - name: district_id
-        description: District identifier (from districts reference)
       - name: district_name
-        description: District name
-      - name: district_cd
-        description: District code
+        description: District name where contesting
       - name: constituency_id
         description: Constituency identifier
-      - name: center_constituency_id
-        description: Center constituency identifier
       - name: citizenship_district
         description: Citizenship district
-      - name: is_tourist_candidate
-        description: Whether citizenship district differs from candidacy district
-      - name: serial_no
-        description: Serial number
       - name: total_votes_received
-        description: Total votes received
-      - name: casted_vote
-        description: Total votes cast in the constituency
-      - name: total_voters
-        description: Total registered voters
+        description: Total votes received in 2079
       - name: rank_position
-        description: Rank in results
-      - name: remarks
-        description: Result remarks (e.g. 'Elected')
+        description: Rank in 2079 results
       - name: election_result
         description: Derived result — Winner or Loser
-      - name: samudaya
-        description: Community/ethnic group
+      - name: prev_2074_election_votes
+        description: Votes received in the 2074 BS election
+      - name: prev_2074_election_result
+        description: Derived result — Winner or Loser (2074)
+      - name: prev_2074_election_party
+        description: Political party in the 2074 BS election
+      - name: prev_2074_election_district
+        description: District contested in during 2074 BS election
+      - name: elections_contested
+        description: Count of past FPTP elections contested (0 or 1)
+      - name: was_parliament_member_2074
+        description: Whether candidate was a parliament member in 2074
+      - name: parliament_member_2074_election_type
+        description: Election type (FPTP/Proportional) for 2074 parliament term
+      - name: was_parliament_member_2079
+        description: Whether candidate was a parliament member in 2079 (this term)
+      - name: parliament_member_2079_election_type
+        description: Election type (FPTP/Proportional) for 2079 parliament term
+      - name: is_tourist_candidate
+        description: Whether citizenship district differs from candidacy district
+      - name: is_chheparo
+        description: Whether the candidate switched party compared to 2074
+      - name: is_vaguwa
+        description: Whether the candidate moved district/constituency from 2074
+      - name: is_new_candidate
+        description: Whether the candidate did not contest in 2074
+      - name: is_loyal
+        description: Whether the candidate stayed with same party and constituency from 2074
+      - name: is_proportional_veteran
+        description: Whether the candidate was a proportional parliament member in 2074
+      - name: candidate_type
+        description: Classification — Chheparo, Vaguwa, Same Location, or New Candidate
 
   - name: dim_current_proportional_candidates
     description: >
@@ -213,6 +235,52 @@ models:
         description: The party name that successfully matched in dim_parties
       - name: party_previous_names
         description: List of previous party names from dim_parties
+
+  - name: dim_constituency_profile
+    description: >
+      Dimension table for constituency profiles, containing election results
+      from both 2079 BS and 2074 BS for FPTP elections, and 2079 BS for
+      proportional elections. Each constituency stores complete results as JSON
+      objects, winning parties, and a "Gadh" tag if the same party won in both years.
+    columns:
+      - name: state_id
+        description: State/Province identifier
+      - name: state_name
+        description: State/Province name
+      - name: district_id
+        description: District identifier
+      - name: district_name
+        description: District name
+      - name: constituency_id
+        description: Constituency identifier
+      - name: constituency_name
+        description: Constituency name
+      - name: fptp_2079_results
+        description: >
+          JSON array of FPTP results from 2079 BS election, ordered by rank.
+          Each object contains: candidate_name, party_name, symbol_name, vote_count, rank, remarks
+      - name: fptp_2074_results
+        description: >
+          JSON array of FPTP results from 2074 BS election, ordered by rank.
+          Each object contains: candidate_name, party_name, symbol_name, vote_count, rank, remarks
+      - name: proportional_2079_results
+        description: >
+          JSON array of proportional election results from 2079 BS, ordered by rank.
+          Each object contains: party_name, vote_count, rank
+      - name: winning_party_2079
+        description: Party that won the FPTP election in 2079 BS
+      - name: winning_party_2074
+        description: Party that won the FPTP election in 2074 BS
+      - name: is_gadh
+        description: >
+          Flag indicating if the same party (accounting for mergers/renames)
+          won the constituency in both 2079 and 2074 FPTP elections
+      - name: gadh_party_name
+        description: Name of the party for which this constituency is a "Gadh" (stronghold)
+      - name: tags
+        description: >
+          Array of tags for the constituency. Currently includes "Gadh: {party_name}"
+          if the constituency is a stronghold for a particular party
 
   - name: dim_parties
     description: >

@@ -11,6 +11,10 @@ with party_mapping as (
       and trim({{ adapter.quote("PoliticalPartyName_current") }}) != ''
 ),
 
+party_symbols as (
+    select * from {{ ref('stg_political_party_symbols') }}
+),
+
 parties_from_fptp as (
     select
         current_party_name,
@@ -52,6 +56,14 @@ all_parties as (
 
 select
     row_number() over (order by current_party_name) as party_id,
-    current_party_name,
-    previous_names
-from all_parties
+    ap.current_party_name,
+    ap.previous_names,
+    ps.symbol_url,
+    ps.symbol_alt,
+    ps.leader,
+    ps.founded_year,
+    ps.party_url as wikipedia_url
+from all_parties ap
+left join party_symbols ps
+    on ap.current_party_name = ps.party_name_np
+    or ap.current_party_name = ps.party_name_en

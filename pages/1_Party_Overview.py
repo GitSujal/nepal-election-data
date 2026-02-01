@@ -15,7 +15,7 @@ party_row = parties[parties["current_party_name"] == selected_party].iloc[0]
 prev_names = party_row.get("previous_names")
 
 fptp = query(
-    "SELECT * FROM dim_current_candidates WHERE political_party_name = $1",
+    "SELECT * FROM dim_fptp_candidates WHERE political_party_name = $1",
     [selected_party],
 )
 proportional = query(

@@ -15,8 +15,12 @@ DATA_FILES = {
     "constituency": "data/constituency.json",
     "current_first_past_the_post_candidates": "data/current_first_past_the_post_candidates.json",
     "current_proportional_election_candidates": "data/current_proportional_election_candidates.csv",
-    "past_first_past_the_post_election_result": "data/past_first_past_the_post_election_result.json",
-    "past_proportional_election_result": "data/past_proportional_election_result.json"
+    "past_2079_first_past_the_post_election_result": "data/past_2079_first_past_the_post_election_result.json",
+    "past_2079_proportional_election_result": "data/past_2079_proportional_election_result.json",
+    "parliament_members": "data/parliament_members.json",
+    "past_2074_first_past_the_post_election_result": "data/2074_first_past_the_post_election_result.json",
+    "past_2074_proportional_election_result": "data/2074_proportional_election_result.json",
+    "political_party_symbols": "data/political_party_symbols.json"
 }
 
 def main():

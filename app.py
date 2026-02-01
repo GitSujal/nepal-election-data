@@ -8,17 +8,17 @@ st.title("Nepal Election Dashboard 2082")
 # --- Sidebar filters (FPTP only) ---
 st.sidebar.header("Filters (FPTP)")
 
-states = query("SELECT DISTINCT state_name FROM dim_current_candidates ORDER BY state_name")
+states = query("SELECT DISTINCT state_name FROM dim_fptp_candidates ORDER BY state_name")
 selected_state = st.sidebar.selectbox("State", ["All"] + states["state_name"].tolist())
 
-district_sql = "SELECT DISTINCT district_name FROM dim_current_candidates"
+district_sql = "SELECT DISTINCT district_name FROM dim_fptp_candidates"
 if selected_state != "All":
     district_sql += f" WHERE state_name = '{selected_state}'"
 district_sql += " ORDER BY district_name"
 districts = query(district_sql)
 selected_district = st.sidebar.selectbox("District", ["All"] + districts["district_name"].tolist())
 
-const_sql = "SELECT DISTINCT constituency_name FROM dim_current_candidates WHERE 1=1"
+const_sql = "SELECT DISTINCT constituency_name FROM dim_fptp_candidates WHERE 1=1"
 if selected_state != "All":
     const_sql += f" AND state_name = '{selected_state}'"
 if selected_district != "All":
@@ -39,7 +39,7 @@ where_clause = " AND ".join(where_parts)
 where_sql = f"WHERE {where_clause}" if where_clause else ""
 
 # --- Load data ---
-fptp = query(f"SELECT * FROM dim_current_candidates {where_sql}")
+fptp = query(f"SELECT * FROM dim_fptp_candidates {where_sql}")
 proportional = query("SELECT * FROM dim_current_proportional_candidates")
 parties = query("SELECT * FROM dim_parties")
 

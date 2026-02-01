@@ -79,7 +79,7 @@ models:
       - name: remarks
         description: Additional remarks
 
-  - name: stg_past_fptp_election_result
+  - name: stg_past_2079_fptp_election_result
     description: Staged 2079 BS first-past-the-post election results with raw column names preserved
     columns:
       - name: CandidateName
@@ -145,7 +145,7 @@ models:
       - name: ADDRESS
         description: Residential address
 
-  - name: stg_past_proportional_election_result
+  - name: stg_past_2079_proportional_election_result
     description: Staged 2079 BS proportional representation election results, flattened from nested JSON using CROSS JOIN UNNEST
     columns:
       - name: state_id

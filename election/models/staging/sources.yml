@@ -17,11 +17,23 @@ sources:
       - name: districts
         description: District reference data with parent state IDs
 
-      - name: past_first_past_the_post_election_result
+      - name: past_2079_first_past_the_post_election_result
         description: Results of the 2079 BS first-past-the-post (FPTP) parliamentary election
 
-      - name: past_proportional_election_result
+      - name: past_2079_proportional_election_result
         description: Results of the 2079 BS proportional representation parliamentary election (nested JSON with state→district→constituency→results)
 
       - name: states
         description: State/Province reference data
+
+      - name: past_2074_first_past_the_post_election_result
+        description: Results of the 2074 BS first-past-the-post (FPTP) parliamentary election
+
+      - name: past_2074_proportional_election_result
+        description: Results of the 2074 BS proportional representation parliamentary election. Party-level aggregate data only (no candidate or constituency breakdown).
+
+      - name: parliament_members
+        description: House of Representatives members from Nepal Parliament API (hr.parliament.gov.np), covering 2074 and 2079 BS terms
+
+      - name: political_party_symbols
+        description: Political party information from Wikipedia including symbols, leaders, and founding years
