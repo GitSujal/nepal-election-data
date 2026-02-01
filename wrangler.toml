@@ -1,0 +1,9 @@
+# Cloudflare Pages configuration for nepal-election-data
+name = "nepal-election-data"
+
+# Build configuration
+build = { command = "npm run build", cwd = "." }
+
+# Environment variables (add your own as needed)
+[env.production]
+vars = { ENVIRONMENT = "production" }
