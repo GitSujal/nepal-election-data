@@ -1,13 +1,13 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useCallback } from "react"
 import { CandidateFilter } from "@/components/candidate/candidate-filter"
+import { CandidatePreviewGrid } from "@/components/candidate/candidate-preview-grid"
 import { ProfileHeader } from "@/components/candidate/profile-header"
 import { CandidateDetails } from "@/components/candidate/candidate-details"
 import { ElectionTimeline } from "@/components/candidate/election-timeline"
 import { ElectionResultCard } from "@/components/candidate/election-result-card"
-import { Vote, Users, ChevronRight, BarChart3 } from "lucide-react"
-import { useJsonData } from "@/hooks/use-json-data"
+import { Vote, Users, ChevronRight, BarChart3, ArrowLeft } from "lucide-react"
 
 interface CandidateData {
   candidate_id: string
@@ -23,16 +23,24 @@ interface CandidateData {
 
 export default function CandidateProfilePage() {
   const [selectedCandidate, setSelectedCandidate] = useState<CandidateData | null>(null)
+  const [filteredCandidates, setFilteredCandidates] = useState<CandidateData[]>([])
 
-  const { data: allCandidates } = useJsonData<CandidateData>(
-    'dim_current_fptp_candidates'
-  )
+  const handleFilteredCandidatesChange = useCallback((candidates: CandidateData[]) => {
+    setFilteredCandidates(candidates)
+  }, [])
 
-  useEffect(() => {
-    if (allCandidates && allCandidates.length > 0 && !selectedCandidate) {
-      setSelectedCandidate(allCandidates[0])
-    }
-  }, [allCandidates, selectedCandidate])
+  const handleSelectCandidate = useCallback((candidate: CandidateData | null) => {
+    setSelectedCandidate(candidate)
+  }, [])
+
+  const handleBackToResults = () => {
+    setSelectedCandidate(null)
+  }
+
+  // Show detail view when a candidate is explicitly selected
+  const showDetail = selectedCandidate !== null
+  // Show preview grid when there are multiple filtered candidates and none is selected
+  const showPreview = !showDetail && filteredCandidates.length > 1
 
   return (
     <div className="min-h-screen bg-background">
@@ -82,7 +90,9 @@ export default function CandidateProfilePage() {
           <div className="mb-2 flex items-center gap-2 text-sm text-muted-foreground">
             <span>Home</span>
             <ChevronRight className="h-4 w-4" />
-            <span>Candidates</span>
+            <span className={showDetail ? "cursor-pointer hover:text-foreground" : "text-foreground"} onClick={showDetail ? handleBackToResults : undefined}>
+              Candidates
+            </span>
             {selectedCandidate && (
               <>
                 <ChevronRight className="h-4 w-4" />
@@ -100,12 +110,25 @@ export default function CandidateProfilePage() {
 
         {/* Filter section */}
         <CandidateFilter
-          onSelectCandidate={setSelectedCandidate}
+          onSelectCandidate={handleSelectCandidate}
+          onFilteredCandidatesChange={handleFilteredCandidatesChange}
           selectedCandidate={selectedCandidate}
         />
 
-        {/* Profile content */}
-        {selectedCandidate ? (
+        {/* Back button when viewing detail */}
+        {showDetail && filteredCandidates.length > 1 && (
+          <button
+            type="button"
+            onClick={handleBackToResults}
+            className="mt-6 flex items-center gap-2 rounded-lg border border-border px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            Back to candidates ({filteredCandidates.length})
+          </button>
+        )}
+
+        {/* Detail view */}
+        {showDetail && (
           <div className="mt-8 space-y-8">
             {/* Profile Header with badges */}
             <ProfileHeader candidate={selectedCandidate as any} />
@@ -124,7 +147,7 @@ export default function CandidateProfilePage() {
             </div>
 
             {/* Past Election Results */}
-            {(selectedCandidate.prev_election_votes || selectedCandidate.prev_2074_election_votes) && (
+            {(selectedCandidate!.prev_election_votes || selectedCandidate!.prev_2074_election_votes) && (
               <div className="space-y-6">
                 <h2 className="flex items-center gap-2 text-xl font-bold text-foreground">
                   <BarChart3 className="h-6 w-6 text-primary" />
@@ -132,19 +155,29 @@ export default function CandidateProfilePage() {
                 </h2>
 
                 {/* 2079 Results */}
-                {selectedCandidate.prev_election_votes && (
+                {selectedCandidate!.prev_election_votes && (
                   <ElectionResultCard candidate={selectedCandidate as any} year="2079" />
                 )}
 
                 {/* 2074 Results */}
-                {selectedCandidate.prev_2074_election_votes && (
+                {selectedCandidate!.prev_2074_election_votes && (
                   <ElectionResultCard candidate={selectedCandidate as any} year="2074" />
                 )}
               </div>
             )}
           </div>
-        ) : (
-          /* Empty state */
+        )}
+
+        {/* Preview grid */}
+        {showPreview && (
+          <CandidatePreviewGrid
+            candidates={filteredCandidates}
+            onSelectCandidate={handleSelectCandidate}
+          />
+        )}
+
+        {/* Empty state - no filters applied and no candidate selected */}
+        {!showDetail && !showPreview && filteredCandidates.length <= 1 && filteredCandidates.length === 0 && (
           <div className="mt-8 flex flex-col items-center justify-center rounded-2xl border border-dashed border-border bg-card/50 py-16">
             <div className="flex h-20 w-20 items-center justify-center rounded-full bg-secondary">
               <Users className="h-10 w-10 text-muted-foreground" />
