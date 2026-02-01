@@ -210,3 +210,164 @@ models:
         description: Parent district identifier
       - name: consts
         description: Constituency data nested under the district
+
+  - name: stg_past_2074_fptp_election_result
+    description: >
+      Staged 2074 BS first-past-the-post election results with raw column names preserved.
+      Simpler than 2079 results — no personal details (DOB, address, etc.) available.
+    columns:
+      - name: CandidateName
+        description: Full name of the candidate (Devanagari)
+      - name: Gender
+        description: Gender of the candidate
+      - name: Age
+        description: Age of the candidate at the time of the 2074 election
+      - name: PartyID
+        description: Political party identifier
+      - name: SymbolID
+        description: Election symbol identifier
+      - name: SymbolName
+        description: Name of the election symbol
+      - name: PoliticalPartyName
+        description: Name of the political party
+      - name: ElectionPost
+        description: Election post the candidate contested for
+      - name: DistrictName
+        description: District name
+      - name: State
+        description: State/Province identifier
+      - name: SCConstID
+        description: Sub-constituency identifier
+      - name: CenterConstID
+        description: Center constituency identifier
+      - name: SerialNo
+        description: Serial number
+      - name: TotalVoteReceived
+        description: Total votes received
+      - name: CastedVote
+        description: Total votes cast in the constituency
+      - name: TotalVoters
+        description: Total registered voters in the constituency
+      - name: Rank
+        description: Candidate's rank in results
+      - name: Remarks
+        description: Result remarks (e.g. 'Elected')
+      - name: Samudaya
+        description: Community/ethnic group
+
+  - name: stg_past_2074_proportional_election_result
+    description: >
+      Staged 2074 BS proportional representation election results.
+      Party-level aggregate data only — no candidate names, districts, or
+      constituency-level breakdown available. Each row is one party's total
+      proportional vote count.
+    columns:
+      - name: PartyID
+        description: Political party identifier
+      - name: SymbolID
+        description: Election symbol identifier
+      - name: SymbolName
+        description: Name of the election symbol
+      - name: PoliticalPartyName
+        description: Name of the political party
+      - name: SerialNo
+        description: Serial number / display order
+      - name: TotalVoteReceived
+        description: Total proportional votes received by the party nationwide
+      - name: Rank
+        description: Party's rank by vote count
+
+  - name: stg_parliament_members
+    description: >
+      Staged House of Representatives members from Nepal Parliament API
+      (hr.parliament.gov.np), covering 2074 and 2079 BS terms. Decodes
+      gender (0=Male, 1=Female), converts election type (Direct→FPTP,
+      Indirect→Proportional), and produces a name_normalized column using
+      complex Devanagari normalization for cross-term matching.
+    columns:
+      - name: member_id
+        description: Unique member identifier from the Parliament API
+      - name: code
+        description: Member code
+      - name: slug
+        description: URL slug for the member
+      - name: parliament_type
+        description: Parliament type (House of Representatives)
+      - name: member_type
+        description: Member type identifier
+      - name: status
+        description: Membership status
+      - name: gender
+        description: Decoded gender — Male, Female, or Other (raw values 0, 1 decoded)
+      - name: dob
+        description: Date of birth
+      - name: registered_date_bs
+        description: Registration date in Bikram Sambat (2074 or 2079) — used as the term identifier
+      - name: tenure_end_date
+        description: End date of the parliamentary tenure
+      - name: election_area_no
+        description: Election area / constituency number
+      - name: territory_no
+        description: Territory number
+      - name: name_np
+        description: Full name in Nepali (Devanagari)
+      - name: name_en
+        description: Full name in English
+      - name: designation_np
+        description: Designation in Nepali
+      - name: designation_en
+        description: Designation in English
+      - name: description_np
+        description: Description in Nepali
+      - name: description_en
+        description: Description in English
+      - name: district_id
+        description: District identifier
+      - name: district_code
+        description: District code
+      - name: district_name_np
+        description: District name in Nepali
+      - name: district_name_en
+        description: District name in English
+      - name: political_party_id
+        description: Political party identifier
+      - name: political_party_name_np
+        description: Political party name in Nepali
+      - name: political_party_name_en
+        description: Political party name in English
+      - name: election_type_id
+        description: Election type identifier
+      - name: election_type_np
+        description: Election type in Nepali
+      - name: election_type
+        description: >
+          Normalized election type — 'FPTP' (was 'Direct') or
+          'Proportional' (was 'Indirect')
+      - name: name_normalized
+        description: >
+          Normalized Devanagari name for cross-term matching. Strips
+          ZWJ/ZWNJ characters, whitespace, dots, parentheses, titles
+          (डा, डा०, कु, श्री), normalizes long→short vowels (ी→ि, ू→ु),
+          anusvara (ँ→ं), conjuncts (ङ्ग→ङ, ट्ट→ट, ण्ड→ंड), and
+          handles व↔ब spelling variations.
+
+  - name: stg_political_party_symbols
+    description: >
+      Staged political party information scraped from Wikipedia. Contains
+      party symbols, leader names, and founding years for matching against
+      election data.
+    columns:
+      - name: party_name_en
+        description: Party name in English
+      - name: party_name_np
+        description: Party name in Nepali (Devanagari)
+      - name: party_url
+        description: Wikipedia URL for the party
+      - name: symbol_url
+        description: URL to the party's election symbol image
+      - name: symbol_alt
+        description: Alt text for the party symbol image
+      - name: leader
+        description: Current party leader name
+      - name: founded_year
+        description: Year the party was founded
