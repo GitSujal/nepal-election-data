@@ -29,6 +29,53 @@ proportional_mapping as (
       and trim({{ adapter.quote("mapped_party_name") }}) != ''
 ),
 
+fptp_2079_losers as (
+    select distinct
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[()०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
+        as candidate_name_normalized
+    from {{ ref('stg_past_2079_fptp_election_result') }}
+    where ({{ adapter.quote("Remarks") }} != 'Elected' or {{ adapter.quote("Remarks") }} is null)
+),
+
+fptp_2074_losers as (
+    select distinct
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[()०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
+        as candidate_name_normalized
+    from {{ ref('stg_past_2074_fptp_election_result') }}
+    where ({{ adapter.quote("Remarks") }} != 'Elected' or {{ adapter.quote("Remarks") }} is null)
+),
+
+pr_stats as (
+    select
+        name_normalized,
+        times_elected,
+        len(list_filter(election_types, x -> x = 'Proportional')) as pr_times_elected,
+        election_type_2079
+    from {{ ref('dim_parliament_members') }}
+),
+
 -- Aggregate 2079 proportional results by party for comparison
 prev_2079_party_summary as (
     select
@@ -47,6 +94,25 @@ prev_2074_party_summary as (
         {{ adapter.quote("TotalVoteReceived") }} as total_votes,
         {{ adapter.quote("Rank") }} as party_rank
     from previous_2074
+),
+
+current_normalized as (
+    select
+        cc.*,
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace(full_name, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[()०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
+        as candidate_name_normalized
+    from current cc
 ),
 
 joined as (
@@ -121,6 +187,13 @@ joined as (
         pm.district_2079_np as parliament_member_2079_district,
         pm.election_area_2079 as parliament_member_2079_constituency,
 
+        -- New Stats for Varaute and Gati Chhada
+        ps.times_elected,
+        ps.pr_times_elected,
+        ps.election_type_2079 as parliament_member_2079_election_type_normalized,
+        case when lost79.candidate_name_normalized is not null then true else false end as is_fptp_2079_loser,
+        case when lost74.candidate_name_normalized is not null then true else false end as is_fptp_2074_loser,
+
         -- FPTP veteran: was FPTP parliament member in any past election
         case
             when pm.election_type_2074 = 'FPTP' or pm.election_type_2079 = 'FPTP' then true
@@ -132,7 +205,7 @@ joined as (
             when pm.election_type_2074 = 'Proportional' or pm.election_type_2079 = 'Proportional' then true
             else false
         end as is_proportional_veteran,
-
+        
         -- Check if current party is a merger/rename of previous 2079 party
         case
             when pr79.political_party_name is null then null
@@ -151,7 +224,7 @@ joined as (
             else false
         end as is_same_party_2074_after_merger_check
 
-    from current cc
+    from current_normalized cc
     -- 1. Direct match on political_party_name
     left join parties p_direct
         on cc.political_party_name = p_direct.current_party_name
@@ -174,6 +247,13 @@ joined as (
     -- Join parliament members
     left join parliament_members pm
         on cc.full_name = pm.name_np
+    -- Join new stats and losers
+    left join pr_stats ps
+        on cc.candidate_name_normalized = ps.name_normalized
+    left join fptp_2079_losers lost79
+        on cc.candidate_name_normalized = lost79.candidate_name_normalized
+    left join fptp_2074_losers lost74
+        on cc.candidate_name_normalized = lost74.candidate_name_normalized
 ),
 
 with_tags as (
@@ -285,7 +365,23 @@ with_tags as (
             when prev_2079_party_votes is not null and prev_2074_party_votes is not null
                 and prev_2079_party_votes < prev_2074_party_votes then true
             else false
-        end as is_from_declining_party
+        end as is_from_declining_party,
+
+        -- Varaute: lost 2079 FPTP and now in PR candidate list
+        -- OR lost 2074 FPTP and was a PR parliament member in 2079
+        case
+            when is_fptp_2079_loser then true
+            when is_fptp_2074_loser and parliament_member_2079_election_type_normalized = 'Proportional' then true
+            else false
+        end as is_varaute,
+
+        -- Gati chhada: PR member more than once
+        -- OR was a parliament member at least once and is currently in the PR candidate list
+        case
+            when pr_times_elected > 1 then true
+            when times_elected >= 1 then true
+            else false
+        end as is_gati_chhada
 
     from joined
 )
@@ -309,7 +405,9 @@ select
             case when is_proportional_veteran then 'Proportional Veteran' end,
             case when is_opportunist then 'Opportunist' end,
             case when is_from_improving_party then 'Improving Party' end,
-            case when is_from_declining_party then 'Declining Party' end
+            case when is_from_declining_party then 'Declining Party' end,
+            case when is_varaute then 'Varaute' end,
+            case when is_gati_chhada then 'Gati Chhada' end
         ],
         x -> x is not null
     ) as tags

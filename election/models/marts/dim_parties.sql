@@ -55,7 +55,7 @@ all_parties as (
 )
 
 select
-    row_number() over (order by current_party_name) as party_id,
+    row_number() over (order by ap.current_party_name) as party_id,
     ap.current_party_name,
     ap.previous_names,
     ps.symbol_url,
@@ -65,5 +65,11 @@ select
     ps.party_url as wikipedia_url
 from all_parties ap
 left join party_symbols ps
-    on ap.current_party_name = ps.party_name_np
-    or ap.current_party_name = ps.party_name_en
+    on trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_np, '-', ' '))
+    or trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_en, '-', ' '))
+    -- also check if any of the previous names match the symbols (normalized)
+    or list_contains(
+        list_transform(ap.previous_names, x -> trim(replace(x, '-', ' '))),
+        trim(replace(ps.party_name_np, '-', ' '))
+    )
+qualify row_number() over (partition by ap.current_party_name order by ps.party_name_np is not null desc) = 1
