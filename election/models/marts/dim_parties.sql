@@ -52,6 +52,36 @@ all_parties as (
     select * from parties_from_fptp
     union all
     select * from new_proportional_parties
+),
+
+-- Count 2079 parliament members per current party (merger-aware)
+parliament_2079_counts as (
+    select
+        ap.current_party_name,
+        count(*) as member_count_2079
+    from all_parties ap
+    inner join {{ ref('dim_parliament_members') }} pm
+        on pm.was_member_2079 = true
+        and (
+            pm.party_2079_np = ap.current_party_name
+            or list_contains(ap.previous_names, pm.party_2079_np)
+        )
+    group by ap.current_party_name
+),
+
+-- Classify parties into display order categories
+party_display_order_calc as (
+    select
+        ap.current_party_name,
+        coalesce(pc.member_count_2079, 0) as member_count_2079,
+        case
+            when coalesce(pc.member_count_2079, 0) > 0 then 1
+            when len(ap.previous_names) = 0 and coalesce(pc.member_count_2079, 0) = 0 then 2
+            else 3
+        end as category
+    from all_parties ap
+    left join parliament_2079_counts pc
+        on pc.current_party_name = ap.current_party_name
 )
 
 select
@@ -62,7 +92,8 @@ select
     ps.symbol_alt,
     ps.leader,
     ps.founded_year,
-    ps.party_url as wikipedia_url
+    ps.party_url as wikipedia_url,
+    pdo.party_display_order
 from all_parties ap
 left join party_symbols ps
     on trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_np, '-', ' '))
@@ -72,4 +103,11 @@ left join party_symbols ps
         list_transform(ap.previous_names, x -> trim(replace(x, '-', ' '))),
         trim(replace(ps.party_name_np, '-', ' '))
     )
+left join (
+    select
+        current_party_name,
+        row_number() over (order by category asc, member_count_2079 desc, current_party_name asc) as party_display_order
+    from party_display_order_calc
+) pdo
+    on pdo.current_party_name = ap.current_party_name
 qualify row_number() over (partition by ap.current_party_name order by ps.party_name_np is not null desc) = 1

@@ -54,18 +54,28 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     return unique.sort((a, b) => parseInt(a) - parseInt(b))
   }, [allCandidates, district])
 
-  // Extract parties - filtered based on current selection
+  // Extract parties - filtered based on current selection, sorted by party_display_order
   const parties = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
     if (state) filtered = filtered.filter(c => c.state_name === state)
     if (district) filtered = filtered.filter(c => c.district_name === district)
     if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
-    const unique = Array.from(new Set(filtered.map(c => c.political_party_name)))
-    return unique.sort()
+    // Build a map of party name → min display order
+    const partyOrderMap = new Map<string, number>()
+    for (const c of filtered) {
+      const order = c.party_display_order ?? 9999
+      const existing = partyOrderMap.get(c.political_party_name)
+      if (existing === undefined || order < existing) {
+        partyOrderMap.set(c.political_party_name, order)
+      }
+    }
+    return Array.from(partyOrderMap.entries())
+      .sort((a, b) => a[1] - b[1])
+      .map(([name]) => name)
   }, [allCandidates, state, district, constituency])
 
-  // Filter candidates based on selected filters
+  // Filter candidates based on selected filters, sorted by party_display_order
   const filteredCandidates = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
@@ -73,7 +83,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     if (district) filtered = filtered.filter(c => c.district_name === district)
     if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
     if (party) filtered = filtered.filter(c => c.political_party_name === party)
-    return filtered
+    return [...filtered].sort((a, b) => (a.party_display_order ?? 9999) - (b.party_display_order ?? 9999))
   }, [allCandidates, state, district, constituency, party])
 
   // Notify parent of filtered candidates

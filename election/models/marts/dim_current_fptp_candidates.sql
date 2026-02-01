@@ -499,7 +499,8 @@ select
     ) as tags,
     concat('https://result.election.gov.np/Images/Candidate/', cast(candidate_id as varchar), '.jpg') as candidate_image_url,
     concat('https://result.election.gov.np/CandidateDetail.aspx?id=', cast(candidate_id as varchar)) as candidate_profile_url,
-    dp.symbol_url as party_symbol_url
+    dp.symbol_url as party_symbol_url,
+    dp.party_display_order
 from with_tags
 left join dim_parties dp
     on dp.current_party_name = political_party_name

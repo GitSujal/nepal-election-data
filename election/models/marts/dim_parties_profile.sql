@@ -232,7 +232,8 @@ select
     p.leader,
     p.founded_year,
     p.wikipedia_url,
-    
+    p.party_display_order,
+
     -- History
     {
         '2079': {

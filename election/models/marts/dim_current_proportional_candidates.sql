@@ -138,6 +138,7 @@ joined as (
         coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id) as party_id,
         coalesce(p_direct.current_party_name, p_mapped.current_party_name, p_assoc.current_party_name) as matched_party_name,
         coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names) as party_previous_names,
+        coalesce(p_direct.party_display_order, p_mapped.party_display_order, p_assoc.party_display_order) as party_display_order,
 
         -- Previous 2079 party performance
         pr79.total_votes as prev_2079_party_votes,

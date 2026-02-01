@@ -179,6 +179,7 @@ joined as (
 
         -- Party info
         p.previous_names as party_previous_names,
+        p.party_display_order,
 
         -- Check if 2079 party is same as 2074 party (after merger check)
         case

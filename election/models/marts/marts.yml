@@ -365,6 +365,12 @@ models:
         description: Year the party was founded
       - name: wikipedia_url
         description: Wikipedia URL for the party
+      - name: party_display_order
+        description: >
+          Integer ordering for UI display. Category 1: parties with 2079 parliament
+          seats (sorted by member count desc). Category 2: new parties with no
+          previous names (alphabetical). Category 3: old parties with zero 2079
+          seats (alphabetical).
 
   - name: dim_parties_profile
     description: >

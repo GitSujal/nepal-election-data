@@ -92,6 +92,7 @@ export interface Candidate {
   is_loyal: boolean
   candidate_type: string
   tags: string[]
+  party_display_order: number | null
 }
 
 export interface Badge {
@@ -320,7 +321,8 @@ export const candidates: Candidate[] = [
     is_split_vote_candidate: false,
     is_loyal: true,
     candidate_type: "Same Location",
-    tags: ["Educated", "Loyal"]
+    tags: ["Educated", "Loyal"],
+    party_display_order: 4
   },
   {
     candidate_id: 339725,
@@ -413,7 +415,8 @@ export const candidates: Candidate[] = [
     is_split_vote_candidate: false,
     is_loyal: true,
     candidate_type: "Same Location",
-    tags: ["Educated", "Loyal"]
+    tags: ["Educated", "Loyal"],
+    party_display_order: 1
   },
   {
     candidate_id: 340452,
@@ -501,7 +504,8 @@ export const candidates: Candidate[] = [
     is_split_vote_candidate: false,
     is_loyal: true,
     candidate_type: "Same Location",
-    tags: ["Tourist", "Educated", "New Party", "Grandpa", "Loyal"]
+    tags: ["Tourist", "Educated", "New Party", "Grandpa", "Loyal"],
+    party_display_order: 2
   },
   {
     candidate_id: 340917,
@@ -592,7 +596,8 @@ export const candidates: Candidate[] = [
     is_split_vote_candidate: false,
     is_loyal: false,
     candidate_type: "Chheparo",
-    tags: ["Tourist", "Chheparo", "Vaguwa", "Educated", "Grandpa"]
+    tags: ["Tourist", "Chheparo", "Vaguwa", "Educated", "Grandpa"],
+    party_display_order: 5
   },
   {
     candidate_id: 340864,
@@ -685,7 +690,8 @@ export const candidates: Candidate[] = [
     is_split_vote_candidate: false,
     is_loyal: true,
     candidate_type: "Same Location",
-    tags: ["Educated", "Grandpa", "Loyal"]
+    tags: ["Educated", "Grandpa", "Loyal"],
+    party_display_order: 1
   }
 ]
 

@@ -7,7 +7,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 9
   },
   {
     "party_id": 2,
@@ -17,7 +18,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 10
   },
   {
     "party_id": 3,
@@ -29,7 +31,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 66
   },
   {
     "party_id": 4,
@@ -39,7 +42,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 11
   },
   {
     "party_id": 5,
@@ -49,7 +53,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 12
   },
   {
     "party_id": 6,
@@ -59,7 +64,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 13
   },
   {
     "party_id": 7,
@@ -69,7 +75,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 14
   },
   {
     "party_id": 8,
@@ -79,7 +86,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 15
   },
   {
     "party_id": 9,
@@ -89,7 +97,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 16
   },
   {
     "party_id": 10,
@@ -99,7 +108,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 17
   },
   {
     "party_id": 11,
@@ -109,7 +119,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 18
   },
   {
     "party_id": 12,
@@ -122,7 +133,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 67
   },
   {
     "party_id": 13,
@@ -132,7 +144,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 19
   },
   {
     "party_id": 14,
@@ -142,7 +155,8 @@
     "symbol_alt": "",
     "leader": "Chandra Kant Raut",
     "founded_year": "2019",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Janamat_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Janamat_Party",
+    "party_display_order": 5
   },
   {
     "party_id": 15,
@@ -152,7 +166,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 20
   },
   {
     "party_id": 16,
@@ -162,7 +177,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 21
   },
   {
     "party_id": 17,
@@ -172,7 +188,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 22
   },
   {
     "party_id": 18,
@@ -182,7 +199,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 23
   },
   {
     "party_id": 19,
@@ -194,7 +212,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 6
   },
   {
     "party_id": 20,
@@ -204,7 +223,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 24
   },
   {
     "party_id": 21,
@@ -214,7 +234,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 25
   },
   {
     "party_id": 22,
@@ -229,7 +250,8 @@
     "symbol_alt": "",
     "leader": "KP Sharma Oli",
     "founded_year": "1991",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Communist_Party_of_Nepal_(Unified_Marxist%E2%80%93Leninist)"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Communist_Party_of_Nepal_(Unified_Marxist%E2%80%93Leninist)",
+    "party_display_order": 1
   },
   {
     "party_id": 23,
@@ -239,7 +261,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 26
   },
   {
     "party_id": 24,
@@ -249,7 +272,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 27
   },
   {
     "party_id": 25,
@@ -259,7 +283,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 28
   },
   {
     "party_id": 26,
@@ -269,7 +294,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 29
   },
   {
     "party_id": 27,
@@ -279,7 +305,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 30
   },
   {
     "party_id": 28,
@@ -289,7 +316,8 @@
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Janata_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Janata_Party",
+    "party_display_order": 31
   },
   {
     "party_id": 29,
@@ -299,7 +327,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 32
   },
   {
     "party_id": 30,
@@ -311,7 +340,8 @@
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
+    "party_display_order": 68
   },
   {
     "party_id": 31,
@@ -321,7 +351,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 33
   },
   {
     "party_id": 32,
@@ -331,7 +362,8 @@
     "symbol_alt": "",
     "leader": "Narayan Man Bijukchhe",
     "founded_year": "1975",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Majdoor_Kisan_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Majdoor_Kisan_Party",
+    "party_display_order": 7
   },
   {
     "party_id": 33,
@@ -341,7 +373,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 34
   },
   {
     "party_id": 34,
@@ -351,7 +384,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 35
   },
   {
     "party_id": 35,
@@ -361,7 +395,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 36
   },
   {
     "party_id": 36,
@@ -373,7 +408,8 @@
     "symbol_alt": "",
     "leader": "Mohammad Rizwan Ansari",
     "founded_year": "2016",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Federal_Socialist_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Federal_Socialist_Party",
+    "party_display_order": 69
   },
   {
     "party_id": 37,
@@ -383,7 +419,8 @@
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Sadbhawana_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Sadbhawana_Party",
+    "party_display_order": 37
   },
   {
     "party_id": 38,
@@ -393,7 +430,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 38
   },
   {
     "party_id": 39,
@@ -408,7 +446,8 @@
     "symbol_alt": "",
     "leader": "Pushpa Kamal Dahal",
     "founded_year": "2025",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepali_Communist_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepali_Communist_Party",
+    "party_display_order": 2
   },
   {
     "party_id": 40,
@@ -418,7 +457,8 @@
     "symbol_alt": "",
     "leader": "Gagan Thapa",
     "founded_year": "1950",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepali_Congress"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepali_Congress",
+    "party_display_order": 39
   },
   {
     "party_id": 41,
@@ -428,7 +468,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 40
   },
   {
     "party_id": 42,
@@ -438,7 +479,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 41
   },
   {
     "party_id": 43,
@@ -448,7 +490,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 42
   },
   {
     "party_id": 44,
@@ -458,7 +501,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 43
   },
   {
     "party_id": 45,
@@ -468,7 +512,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 44
   },
   {
     "party_id": 46,
@@ -478,7 +523,8 @@
     "symbol_alt": "",
     "leader": "Baburam Bhattarai",
     "founded_year": "2025",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pragatisheel_Loktantrik_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pragatisheel_Loktantrik_Party",
+    "party_display_order": 45
   },
   {
     "party_id": 47,
@@ -488,7 +534,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 46
   },
   {
     "party_id": 48,
@@ -501,7 +548,8 @@
     "symbol_alt": "",
     "leader": "Mohammad Rizwan Ansari",
     "founded_year": "2016",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Federal_Socialist_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Federal_Socialist_Party",
+    "party_display_order": 70
   },
   {
     "party_id": 49,
@@ -511,7 +559,8 @@
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bahujan_Shakti_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bahujan_Shakti_Party",
+    "party_display_order": 47
   },
   {
     "party_id": 50,
@@ -521,7 +570,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 48
   },
   {
     "party_id": 51,
@@ -531,7 +581,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 49
   },
   {
     "party_id": 52,
@@ -541,7 +592,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 50
   },
   {
     "party_id": 53,
@@ -551,7 +603,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 51
   },
   {
     "party_id": 54,
@@ -561,7 +614,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 52
   },
   {
     "party_id": 55,
@@ -571,7 +625,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 53
   },
   {
     "party_id": 56,
@@ -581,7 +636,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 54
   },
   {
     "party_id": 57,
@@ -591,7 +647,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 55
   },
   {
     "party_id": 58,
@@ -601,7 +658,8 @@
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
+    "party_display_order": 56
   },
   {
     "party_id": 59,
@@ -611,7 +669,8 @@
     "symbol_alt": "",
     "leader": "Chitra Bahadur K.C.",
     "founded_year": "2006",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamorcha"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamorcha",
+    "party_display_order": 8
   },
   {
     "party_id": 60,
@@ -621,7 +680,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 57
   },
   {
     "party_id": 61,
@@ -636,7 +696,8 @@
     "symbol_alt": "",
     "leader": "Rajendra Prasad Lingden",
     "founded_year": "1990",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Prajatantra_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Prajatantra_Party",
+    "party_display_order": 4
   },
   {
     "party_id": 62,
@@ -648,7 +709,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 71
   },
   {
     "party_id": 63,
@@ -658,7 +720,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 58
   },
   {
     "party_id": 64,
@@ -670,7 +733,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 72
   },
   {
     "party_id": 65,
@@ -682,7 +746,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 73
   },
   {
     "party_id": 66,
@@ -695,7 +760,8 @@
     "symbol_alt": "",
     "leader": "Rabi Lamichhane",
     "founded_year": "2022",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Swatantra_Party"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Swatantra_Party",
+    "party_display_order": 3
   },
   {
     "party_id": 67,
@@ -705,7 +771,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 59
   },
   {
     "party_id": 68,
@@ -715,7 +782,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 60
   },
   {
     "party_id": 69,
@@ -725,7 +793,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 61
   },
   {
     "party_id": 70,
@@ -737,7 +806,8 @@
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanghiya_Loktantrik_Rastriya_Manch"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanghiya_Loktantrik_Rastriya_Manch",
+    "party_display_order": 74
   },
   {
     "party_id": 71,
@@ -750,7 +820,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 75
   },
   {
     "party_id": 72,
@@ -760,7 +831,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 62
   },
   {
     "party_id": 73,
@@ -770,7 +842,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 63
   },
   {
     "party_id": 74,
@@ -780,7 +853,8 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 64
   },
   {
     "party_id": 75,
@@ -790,6 +864,7 @@
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
-    "wikipedia_url": null
+    "wikipedia_url": null,
+    "party_display_order": 65
   }
 ]

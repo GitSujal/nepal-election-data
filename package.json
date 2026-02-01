@@ -3,15 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prepare-db": "uv run python prepare_lean_db.py",
-    "build": "npm run prepare-db && next build",
-    "dev": "npm run prepare-db && next dev",
+    "prepare-data": "uv run python export_to_json.py",
+    "build": "npm run prepare-data && next build",
+    "dev": "npm run prepare-data && next dev",
     "lint": "eslint .",
     "start": "next start",
     "deploy": "npm run build && wrangler pages deploy out"
   },
   "dependencies": {
-    "@duckdb/duckdb-wasm": "^1.33.1-dev18.0",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "1.2.2",
     "@radix-ui/react-alert-dialog": "1.1.4",
@@ -41,7 +40,6 @@
     "@radix-ui/react-toggle-group": "1.1.1",
     "@radix-ui/react-tooltip": "1.1.6",
     "@vercel/analytics": "1.3.1",
-    "apache-arrow": "^21.1.0",
     "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
