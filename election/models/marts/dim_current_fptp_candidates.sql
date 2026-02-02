@@ -249,11 +249,22 @@ bokuwa_flags as (
     group by f.{{ adapter.quote("CandidateID") }}
 ),
 
+-- Enrich candidates with their party's previous names for merger-aware matching
+fptp_with_party_history as (
+    select
+        f1.*,
+        p.previous_names as candidate_party_previous_names
+    from fptp_with_family_norms f1
+    left join parties p on p.current_party_name = f1.{{ adapter.quote("PoliticalPartyName") }}
+),
+
 -- Nepo flags: check if any family member (spouse/parent/child) is involved in politics (past or current)
+-- Only flags as nepo if the matched politician's party is the same as the candidate's party
+-- (using merger-aware comparison via dim_parties.previous_names)
 nepo_flags as (
     select
         f1.{{ adapter.quote("CandidateID") }},
-        -- Case 1: Candidate has a known politician as spouse or parent
+        -- Case 1: Candidate has a known politician as spouse or parent (with party match)
         exists (
             select 1 from known_politicians kp
             where (kp.name_normalized = f1.spouse_name_normalized or kp.name_normalized = f1.father_name_normalized)
@@ -261,15 +272,35 @@ nepo_flags as (
                   (f1.spouse_name_normalized is not null and f1.spouse_name_normalized != '')
                   or (f1.father_name_normalized is not null and f1.father_name_normalized != '')
               )
+              and (
+                  -- Direct party match
+                  kp.party_name = f1.{{ adapter.quote("PoliticalPartyName") }}
+                  -- Politician's party is a previous name of candidate's current party
+                  or (f1.candidate_party_previous_names is not null and list_contains(f1.candidate_party_previous_names, kp.party_name))
+                  -- Candidate's party is a previous name of politician's party
+                  or exists (
+                      select 1 from parties p2
+                      where p2.current_party_name = kp.party_name
+                        and list_contains(p2.previous_names, f1.{{ adapter.quote("PoliticalPartyName") }})
+                  )
+              )
         ) as has_known_relative,
-        -- Case 2: Candidate's name is mentioned as spouse or father by another candidate
+        -- Case 2: Candidate's name is mentioned as spouse or father by another candidate (with party match)
         exists (
-            select 1 from fptp_with_family_norms f2
+            select 1 from fptp_with_party_history f2
             where (f2.spouse_name_normalized = f1.candidate_name_normalized or f2.father_name_normalized = f1.candidate_name_normalized)
               and f1.candidate_name_normalized is not null
               and f1.candidate_name_normalized != ''
+              and (
+                  -- Direct party match
+                  f2.{{ adapter.quote("PoliticalPartyName") }} = f1.{{ adapter.quote("PoliticalPartyName") }}
+                  -- f2's party is a previous name of f1's current party
+                  or (f1.candidate_party_previous_names is not null and list_contains(f1.candidate_party_previous_names, f2.{{ adapter.quote("PoliticalPartyName") }}))
+                  -- f1's party is a previous name of f2's party
+                  or (f2.candidate_party_previous_names is not null and list_contains(f2.candidate_party_previous_names, f1.{{ adapter.quote("PoliticalPartyName") }}))
+              )
         ) as is_family_source
-    from fptp_with_family_norms f1
+    from fptp_with_party_history f1
 ),
 
 joined as (
