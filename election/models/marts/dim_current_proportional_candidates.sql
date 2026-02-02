@@ -82,12 +82,15 @@ fptp_spouse_pool as (
             regexp_replace(
                 regexp_replace(
                     regexp_replace(
-                        replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                        regexp_replace(
+                            replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
+                        ),
                         '[\s\.\x{00a0}]+', '', 'g'
                     ),
                     '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
                 ),
-                '[(){}[\]०-९।]+', '', 'g'
+                '[०-९।]+', '', 'g'
             ),
         'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
         as spouse_name_normalized
@@ -102,12 +105,15 @@ fptp_spouse_pool as (
             regexp_replace(
                 regexp_replace(
                     regexp_replace(
-                        replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                        regexp_replace(
+                            replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
+                        ),
                         '[\s\.\x{00a0}]+', '', 'g'
                     ),
                     '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
                 ),
-                '[(){}[\]०-९।]+', '', 'g'
+                '[०-९।]+', '', 'g'
             ),
         'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
     from {{ ref('stg_past_2079_fptp_election_result') }}
