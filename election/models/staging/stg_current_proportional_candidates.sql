@@ -26,12 +26,15 @@ renamed as (
             regexp_replace(
                 regexp_replace(
                     regexp_replace(
-                        replace(replace({{ adapter.quote("Full Name") }}, chr(8205), ''), chr(8204), ''),
+                        regexp_replace(
+                            replace(replace({{ adapter.quote("Full Name") }}, chr(8205), ''), chr(8204), ''),
+                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
+                        ),
                         '[\s\.\x{00a0}]+', '', 'g'
                     ),
                     '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
                 ),
-                '[(){}[\]०-९।]+', '', 'g'
+                '[०-९।]+', '', 'g'
             ),
         'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
         as candidate_name_normalized
