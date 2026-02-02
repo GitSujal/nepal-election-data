@@ -203,7 +203,10 @@ joined as (
         end as elections_contested,
 
         -- Party info
+        p.party_id,
         p.previous_names as party_previous_names,
+        p.symbol_url as party_symbol_url,
+        p.party_display_order,
 
         -- Check if current party is a merger/rename of previous 2079 party
         case
@@ -295,6 +298,32 @@ joined as (
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
         on cc.candidate_name_normalized = pm.name_normalized
+    qualify row_number() over (
+        partition by cc.{{ adapter.quote("CandidateID") }}
+        order by
+            -- Prefer 2079 match in same district+constituency
+            case when pr.candidate_name_normalized is not null
+                and cc.{{ adapter.quote("DistrictName") }} = pr.{{ adapter.quote("DistrictName") }}
+                and cast(cc.{{ adapter.quote("SCConstID") }} as varchar) = cast(pr.{{ adapter.quote("SCConstID") }} as varchar)
+                then 0
+                when pr.candidate_name_normalized is not null
+                and cc.{{ adapter.quote("DistrictName") }} = pr.{{ adapter.quote("DistrictName") }}
+                then 1
+                when pr.candidate_name_normalized is not null then 2
+                else 3
+            end,
+            -- Prefer 2074 match in same district+constituency
+            case when pr74.candidate_name_normalized is not null
+                and cc.{{ adapter.quote("DistrictName") }} = pr74.{{ adapter.quote("DistrictName") }}
+                and cast(cc.{{ adapter.quote("SCConstID") }} as varchar) = cast(pr74.{{ adapter.quote("SCConstID") }} as varchar)
+                then 0
+                when pr74.candidate_name_normalized is not null
+                and cc.{{ adapter.quote("DistrictName") }} = pr74.{{ adapter.quote("DistrictName") }}
+                then 1
+                when pr74.candidate_name_normalized is not null then 2
+                else 3
+            end
+    ) = 1
 ),
 
 with_tags as (
@@ -498,10 +527,5 @@ select
         x -> x is not null
     ) as tags,
     concat('https://result.election.gov.np/Images/Candidate/', cast(candidate_id as varchar), '.jpg') as candidate_image_url,
-    concat('https://result.election.gov.np/CandidateDetail.aspx?id=', cast(candidate_id as varchar)) as candidate_profile_url,
-    dp.symbol_url as party_symbol_url,
-    dp.party_display_order
+    concat('https://result.election.gov.np/CandidateDetail.aspx?id=', cast(candidate_id as varchar)) as candidate_profile_url
 from with_tags
-left join dim_parties dp
-    on dp.current_party_name = political_party_name
-    or list_contains(dp.previous_names, political_party_name)

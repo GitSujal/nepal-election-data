@@ -238,6 +238,21 @@ joined as (
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
         on cc.candidate_name_normalized = pm.name_normalized
+    qualify row_number() over (
+        partition by cc.{{ adapter.quote("CandidateID") }}
+        order by
+            -- Prefer 2074 match in same district+constituency
+            case when pr74.candidate_name_normalized is not null
+                and cc.{{ adapter.quote("DistrictName") }} = pr74.{{ adapter.quote("DistrictName") }}
+                and cast(cc.{{ adapter.quote("SCConstID") }} as varchar) = cast(pr74.{{ adapter.quote("SCConstID") }} as varchar)
+                then 0
+                when pr74.candidate_name_normalized is not null
+                and cc.{{ adapter.quote("DistrictName") }} = pr74.{{ adapter.quote("DistrictName") }}
+                then 1
+                when pr74.candidate_name_normalized is not null then 2
+                else 3
+            end
+    ) = 1
 ),
 
 with_tags as (
