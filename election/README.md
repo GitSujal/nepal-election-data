@@ -151,7 +151,7 @@ Enriched 2082 BS FPTP candidates with 3-election history (60+ columns).
 | `is_educated` | Qualification level is Bachelor or above |
 | `is_uneducated` | Qualification level is Under SLC |
 | `is_new_party` | Party did not exist in 2079 or 2074 |
-| `is_gen_z` | Age < 30 |
+| `is_gen_z` | Age <= 27 |
 | `is_grandpa` | Age > 60 |
 | `is_influential` | Was a parliament member in 2074 or 2079 |
 | `is_opportunist` | Changed party AND location between elections |

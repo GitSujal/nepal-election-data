@@ -188,8 +188,8 @@ export const badgeDefinitions: Record<string, Badge> = {
     id: "gen-z",
     name: "Gen-Z",
     nameNepali: "जेन जी",
-    description: "Under 30 years old",
-    description_np: "३० वर्ष मुनिका",
+    description: "27 years old and below",
+    description_np: "२७ वर्ष र सो मुनिका",
     icon: "sparkles",
     color: "primary"
   },
@@ -238,10 +238,10 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "medal",
     color: "gold"
   },
-  "इमानदार": {
+  "बफादार": {
     id: "loyal",
     name: "Loyal",
-    nameNepali: "इमानदार",
+    nameNepali: "बफादार",
     description: "Same party & constituency across all elections",
     description_np: "सबै चुनावमा एउटै पार्टी र क्षेत्रबाट उम्मेदवार",
     icon: "shield",
