@@ -69,25 +69,101 @@ parliament_2079_counts as (
     group by ap.current_party_name
 ),
 
+-- Check if party had candidates in any previous election (FPTP 2079, FPTP 2074, PR 2079, PR 2074)
+party_prev_fptp_2079 as (
+    select
+        ap.current_party_name,
+        count(*) as candidate_count
+    from all_parties ap
+    inner join {{ ref('stg_past_2079_fptp_election_result') }} pr
+        on pr.{{ adapter.quote("PoliticalPartyName") }} = ap.current_party_name
+        or list_contains(ap.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }})
+    group by ap.current_party_name
+),
+
+party_prev_fptp_2074 as (
+    select
+        ap.current_party_name,
+        count(*) as candidate_count
+    from all_parties ap
+    inner join {{ ref('stg_past_2074_fptp_election_result') }} pr
+        on pr.{{ adapter.quote("PoliticalPartyName") }} = ap.current_party_name
+        or list_contains(ap.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }})
+    group by ap.current_party_name
+),
+
+party_prev_pr_2079 as (
+    select
+        ap.current_party_name,
+        count(*) as candidate_count
+    from all_parties ap
+    inner join {{ ref('stg_past_2079_proportional_election_result') }} pr
+        on pr.political_party_name = ap.current_party_name
+        or list_contains(ap.previous_names, pr.political_party_name)
+    group by ap.current_party_name
+),
+
+party_prev_pr_2074 as (
+    select
+        ap.current_party_name,
+        count(*) as candidate_count
+    from all_parties ap
+    inner join {{ ref('stg_past_2074_proportional_election_result') }} pr
+        on pr.{{ adapter.quote("PoliticalPartyName") }} = ap.current_party_name
+        or list_contains(ap.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }})
+    group by ap.current_party_name
+),
+
+-- Aggregate all previous election participation
+party_history as (
+    select
+        ap.current_party_name,
+        coalesce(pf79.candidate_count, 0) + 
+        coalesce(pf74.candidate_count, 0) + 
+        coalesce(pp79.candidate_count, 0) + 
+        coalesce(pp74.candidate_count, 0) as total_prev_candidates,
+        case
+            when coalesce(pf79.candidate_count, 0) + 
+                 coalesce(pf74.candidate_count, 0) + 
+                 coalesce(pp79.candidate_count, 0) + 
+                 coalesce(pp74.candidate_count, 0) > 0 then false
+            else true
+        end as is_new_party
+    from all_parties ap
+    left join party_prev_fptp_2079 pf79
+        on pf79.current_party_name = ap.current_party_name
+    left join party_prev_fptp_2074 pf74
+        on pf74.current_party_name = ap.current_party_name
+    left join party_prev_pr_2079 pp79
+        on pp79.current_party_name = ap.current_party_name
+    left join party_prev_pr_2074 pp74
+        on pp74.current_party_name = ap.current_party_name
+),
+
 -- Classify parties into display order categories
 party_display_order_calc as (
     select
         ap.current_party_name,
         coalesce(pc.member_count_2079, 0) as member_count_2079,
+        ph.is_new_party,
         case
             when coalesce(pc.member_count_2079, 0) > 0 then 1
-            when len(ap.previous_names) = 0 and coalesce(pc.member_count_2079, 0) = 0 then 2
+            when ph.is_new_party = true and coalesce(pc.member_count_2079, 0) = 0 then 2
             else 3
         end as category
     from all_parties ap
     left join parliament_2079_counts pc
         on pc.current_party_name = ap.current_party_name
+    inner join party_history ph
+        on ph.current_party_name = ap.current_party_name
 )
 
 select
     row_number() over (order by ap.current_party_name) as party_id,
     ap.current_party_name,
     ap.previous_names,
+    ph.is_new_party,
+    ph.total_prev_candidates,
     ps.symbol_url,
     ps.symbol_alt,
     ps.leader,
@@ -95,6 +171,8 @@ select
     ps.party_url as wikipedia_url,
     pdo.party_display_order
 from all_parties ap
+inner join party_history ph
+    on ph.current_party_name = ap.current_party_name
 left join party_symbols ps
     on trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_np, '-', ' '))
     or trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_en, '-', ' '))
