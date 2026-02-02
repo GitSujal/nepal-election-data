@@ -729,7 +729,7 @@ select
             case when is_opportunist then 'अवसरवादी' end,
             case when is_split_vote_candidate then 'भोट कटुवा' end,
             case when is_proportional_veteran then 'समानुपातिक अनुभवी' end,
-            case when is_loyal then 'इमानदार' end,
+            case when is_loyal then 'बफादार' end,
             case when is_nepo then 'नातावाद' end,
             case when is_budi_bokuwa then 'बुढी बोकुवा' end,
             case when is_budo_bokuwa then 'बुढो बोकुवा' end

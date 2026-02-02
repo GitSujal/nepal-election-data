@@ -238,10 +238,10 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "medal",
     color: "gold"
   },
-  "इमानदार": {
+  "बफादार": {
     id: "loyal",
     name: "Loyal",
-    nameNepali: "इमानदार",
+    nameNepali: "बफादार",
     description: "Same party & constituency across all elections",
     description_np: "सबै चुनावमा एउटै पार्टी र क्षेत्रबाट उम्मेदवार",
     icon: "shield",
