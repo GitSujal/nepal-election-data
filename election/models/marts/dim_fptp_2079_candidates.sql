@@ -21,7 +21,7 @@ parliament_members as (
 ),
 
 qualification_levels as (
-    select
+    select distinct
         {{ adapter.quote("QUALIFICATION") }} as qualification_raw,
         {{ adapter.quote("Category") }} as qualification_level
     from {{ ref('qualification_level_mapping') }}
@@ -225,8 +225,16 @@ joined as (
     from current_with_qual cc
     left join districts d
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
-    left join previous_2074 pr74
-        on cc.candidate_name_normalized = pr74.candidate_name_normalized
+    left join lateral (
+        select *
+        from previous_2074 p
+        where p.candidate_name_normalized = cc.candidate_name_normalized
+        order by
+            -- Prefer same constituency match
+            case when p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
+                  and p.{{ adapter.quote("State") }} = cc.{{ adapter.quote("State") }} then 0 else 1 end
+        limit 1
+    ) pr74 on true
     left join parties p
         on cc.{{ adapter.quote("PoliticalPartyName") }} = p.current_party_name
     left join runner_up_2079 ru

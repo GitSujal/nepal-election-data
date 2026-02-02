@@ -72,6 +72,106 @@ prev_2074_party_summary as (
     from previous_2074
 ),
 
+-- Pool of FPTP candidates with normalized spouse names (for Bokuwa matching)
+fptp_spouse_pool as (
+    -- Current FPTP candidates
+    select distinct
+        {{ adapter.quote("Gender") }} as fptp_gender,
+        {{ adapter.quote("PoliticalPartyName") }} as fptp_party_name,
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[(){}[\]०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
+        as spouse_name_normalized
+    from {{ ref('stg_current_fptp_candidates') }}
+    where {{ adapter.quote("SPOUCE_NAME") }} is not null and trim({{ adapter.quote("SPOUCE_NAME") }}) != ''
+    union all
+    -- 2079 FPTP candidates
+    select distinct
+        {{ adapter.quote("Gender") }},
+        {{ adapter.quote("PoliticalPartyName") }},
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[(){}[\]०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
+    from {{ ref('stg_past_2079_fptp_election_result') }}
+    where {{ adapter.quote("SPOUCE_NAME") }} is not null and trim({{ adapter.quote("SPOUCE_NAME") }}) != ''
+),
+
+-- Enrich spouse pool with party previous names for merger-aware matching
+fptp_spouse_pool_enriched as (
+    select
+        sp.fptp_gender,
+        sp.fptp_party_name,
+        sp.spouse_name_normalized,
+        coalesce(pp.previous_names, []::varchar[]) as fptp_party_previous_names
+    from fptp_spouse_pool sp
+    left join parties pp on sp.fptp_party_name = pp.current_party_name
+),
+
+-- PR candidates enriched with mapped party name and associated party previous names
+pr_with_party_info as (
+    select
+        cc.serial_no,
+        cc.political_party_name,
+        cc.candidate_name_normalized,
+        cc.gender,
+        cc.associated_party,
+        pmm.mapped_party_name,
+        coalesce(p1.previous_names, []::varchar[]) as pr_party_previous_names
+    from {{ ref('stg_current_proportional_candidates') }} cc
+    left join proportional_mapping pmm on cc.political_party_name = pmm.proportional_party_name
+    left join parties p1 on cc.political_party_name = p1.current_party_name
+),
+
+-- Match PR candidates to FPTP spouse pool
+bokuwa_matches as (
+    select
+        pr.serial_no,
+        pr.political_party_name,
+        sp.fptp_gender
+    from pr_with_party_info pr
+    inner join fptp_spouse_pool_enriched sp
+        on sp.spouse_name_normalized = pr.candidate_name_normalized
+        and pr.candidate_name_normalized is not null
+        and pr.candidate_name_normalized != ''
+    where (
+        sp.fptp_party_name = pr.political_party_name
+        or sp.fptp_party_name = pr.mapped_party_name
+        or sp.fptp_party_name = pr.associated_party
+        or list_contains(sp.fptp_party_previous_names, pr.political_party_name)
+        or (pr.mapped_party_name is not null and list_contains(sp.fptp_party_previous_names, pr.mapped_party_name))
+        or list_contains(pr.pr_party_previous_names, sp.fptp_party_name)
+    )
+),
+
+-- Aggregate bokuwa flags per PR candidate
+bokuwa_flags as (
+    select
+        serial_no,
+        political_party_name,
+        bool_or(fptp_gender = 'पुरुष') as has_male_fptp_match,
+        bool_or(fptp_gender = 'महिला') as has_female_fptp_match
+    from bokuwa_matches
+    group by serial_no, political_party_name
+),
+
 current_normalized as (
     select
         cc.*,
@@ -187,7 +287,11 @@ joined as (
             when coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id) is not null
                 and list_contains(coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names), pr74.political_party_name) then true
             else false
-        end as is_same_party_2074_after_merger_check
+        end as is_same_party_2074_after_merger_check,
+
+        -- Bokuwa flags
+        case when cc.gender = 'महिला' and coalesce(bk.has_male_fptp_match, false) then true else false end as is_budi_bokuwa,
+        case when cc.gender = 'पुरुष' and coalesce(bk.has_female_fptp_match, false) then true else false end as is_budo_bokuwa
 
     from current_normalized cc
     -- 1. Direct match on political_party_name
@@ -219,6 +323,9 @@ joined as (
         on cc.candidate_name_normalized = lost79.candidate_name_normalized
     left join fptp_2074_losers lost74
         on cc.candidate_name_normalized = lost74.candidate_name_normalized
+    left join bokuwa_flags bk
+        on cc.serial_no = bk.serial_no
+        and cc.political_party_name = bk.political_party_name
 ),
 
 with_tags as (
@@ -372,7 +479,9 @@ select
             case when is_from_improving_party then 'Improving Party' end,
             case when is_from_declining_party then 'Declining Party' end,
             case when is_varaute then 'Varaute' end,
-            case when is_gati_chhada then 'Gati Chhada' end
+            case when is_gati_chhada then 'Gati Chhada' end,
+            case when is_budi_bokuwa then 'Budi Bokuwa' end,
+            case when is_budo_bokuwa then 'Budo Bokuwa' end
         ],
         x -> x is not null
     ) as tags

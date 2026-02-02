@@ -17,6 +17,8 @@ import {
   Banknote,
   Scissors,
   Medal,
+  Crown,
+  HeartHandshake,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 
@@ -35,6 +37,8 @@ const iconMap: Record<string, React.ElementType> = {
   banknote: Banknote,
   scissors: Scissors,
   medal: Medal,
+  crown: Crown,
+  "heart-handshake": HeartHandshake,
 }
 
 const colorClasses: Record<Badge["color"], string> = {

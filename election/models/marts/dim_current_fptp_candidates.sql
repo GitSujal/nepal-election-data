@@ -25,7 +25,7 @@ parliament_members as (
 ),
 
 qualification_levels as (
-    select
+    select distinct
         {{ adapter.quote("QUALIFICATION") }} as qualification_raw,
         {{ adapter.quote("Category") }} as qualification_level
     from {{ ref('qualification_level_mapping') }}
@@ -99,6 +99,170 @@ prev_runner_up_2074 as (
         max(case when {{ adapter.quote("Rank") }} = 2 then {{ adapter.quote("TotalVoteReceived") }} end) as runner_up_votes
     from previous_2074
     group by {{ adapter.quote("State") }}, {{ adapter.quote("SCConstID") }}
+),
+
+-- Pool of all known politicians with normalized names and party names
+known_politicians as (
+    -- Current FPTP candidates
+    select distinct
+        candidate_name_normalized as name_normalized,
+        {{ adapter.quote("PoliticalPartyName") }} as party_name
+    from {{ ref('stg_current_fptp_candidates') }}
+    union all
+    -- 2079 FPTP candidates
+    select distinct
+        candidate_name_normalized,
+        {{ adapter.quote("PoliticalPartyName") }}
+    from {{ ref('stg_past_2079_fptp_election_result') }}
+    union all
+    -- 2074 FPTP candidates
+    select distinct
+        candidate_name_normalized,
+        {{ adapter.quote("PoliticalPartyName") }}
+    from {{ ref('stg_past_2074_fptp_election_result') }}
+    union all
+    -- Parliament members
+    select distinct
+        name_normalized,
+        coalesce(party_2079_np, party_2074_np) as party_name
+    from {{ ref('dim_parliament_members') }}
+    where coalesce(party_2079_np, party_2074_np) is not null
+    union all
+    -- Current PR candidates
+    select distinct
+        candidate_name_normalized,
+        political_party_name
+    from {{ ref('stg_current_proportional_candidates') }}
+),
+
+-- Normalize spouse and father names for current FPTP candidates
+fptp_with_family_norms as (
+    select
+        {{ adapter.quote("CandidateID") }},
+        {{ adapter.quote("PoliticalPartyName") }},
+        -- Normalized spouse name
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[(){}[\]०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
+        as spouse_name_normalized,
+        -- Normalized father name
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("FATHER_NAME") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[(){}[\]०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
+        as father_name_normalized
+    from {{ ref('stg_current_fptp_candidates') }}
+),
+
+-- PR candidate pool with normalized names, gender, and party for Bokuwa matching
+pr_candidate_pool as (
+    select distinct
+        candidate_name_normalized as name_normalized,
+        gender as pr_gender,
+        political_party_name as pr_party_name,
+        associated_party as pr_associated_party
+    from {{ ref('stg_current_proportional_candidates') }}
+    where candidate_name_normalized is not null and candidate_name_normalized != ''
+),
+
+proportional_mapping as (
+    select
+        {{ adapter.quote("proportional_party_name") }} as proportional_party_name,
+        {{ adapter.quote("mapped_party_name") }} as mapped_party_name
+    from {{ ref('proportional_to_fptp_party_name_mapping') }}
+    where {{ adapter.quote("mapped_party_name") }} is not null
+      and trim({{ adapter.quote("mapped_party_name") }}) != ''
+),
+
+-- Bokuwa flags: FPTP candidate whose spouse is a PR candidate in same party
+bokuwa_flags as (
+    select
+        f.{{ adapter.quote("CandidateID") }},
+        bool_or(
+            pr.pr_gender = 'महिला'
+            and cc_gender.{{ adapter.quote("Gender") }} = 'पुरुष'
+        ) as is_budi_bokuwa,
+        bool_or(
+            pr.pr_gender = 'पुरुष'
+            and cc_gender.{{ adapter.quote("Gender") }} = 'महिला'
+        ) as is_budo_bokuwa
+    from fptp_with_family_norms f
+    inner join {{ ref('stg_current_fptp_candidates') }} cc_gender
+        on f.{{ adapter.quote("CandidateID") }} = cc_gender.{{ adapter.quote("CandidateID") }}
+    inner join pr_candidate_pool pr
+        on pr.name_normalized = f.spouse_name_normalized
+        and f.spouse_name_normalized is not null
+        and f.spouse_name_normalized != ''
+    left join parties pp on pr.pr_party_name = pp.current_party_name
+    left join proportional_mapping pmm on pr.pr_party_name = pmm.proportional_party_name
+    where (
+        pr.pr_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+        or pmm.mapped_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+        or pr.pr_associated_party = f.{{ adapter.quote("PoliticalPartyName") }}
+        or (pp.party_id is not null and list_contains(pp.previous_names, f.{{ adapter.quote("PoliticalPartyName") }}))
+        or exists (
+            select 1 from parties pp2
+            where pp2.current_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+              and list_contains(pp2.previous_names, pr.pr_party_name)
+        )
+    )
+    group by f.{{ adapter.quote("CandidateID") }}
+),
+
+-- Nepo flags: check if spouse or father is a known politician in same party (merger-aware)
+nepo_flags as (
+    select
+        f.{{ adapter.quote("CandidateID") }},
+        exists (
+            select 1 from known_politicians kp
+            left join parties pp on kp.party_name = pp.current_party_name
+            where kp.name_normalized = f.spouse_name_normalized
+              and f.spouse_name_normalized is not null
+              and f.spouse_name_normalized != ''
+              and (
+                  kp.party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+                  or (pp.party_id is not null and list_contains(pp.previous_names, f.{{ adapter.quote("PoliticalPartyName") }}))
+                  or exists (
+                      select 1 from parties pp2
+                      where pp2.current_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+                        and list_contains(pp2.previous_names, kp.party_name)
+                  )
+              )
+        ) as has_known_spouse,
+        exists (
+            select 1 from known_politicians kp
+            left join parties pp on kp.party_name = pp.current_party_name
+            where kp.name_normalized = f.father_name_normalized
+              and f.father_name_normalized is not null
+              and f.father_name_normalized != ''
+              and (
+                  kp.party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+                  or (pp.party_id is not null and list_contains(pp.previous_names, f.{{ adapter.quote("PoliticalPartyName") }}))
+                  or exists (
+                      select 1 from parties pp2
+                      where pp2.current_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
+                        and list_contains(pp2.previous_names, kp.party_name)
+                  )
+              )
+        ) as has_known_parent
+    from fptp_with_family_norms f
 ),
 
 joined as (
@@ -275,15 +439,39 @@ joined as (
         case
             when pm.election_type_2074 = 'Proportional' or pm.election_type_2079 = 'Proportional' then true
             else false
-        end as is_proportional_veteran
+        end as is_proportional_veteran,
+
+        -- Nepo: spouse or father is a known politician in same party
+        coalesce(nf.has_known_spouse, false) as has_known_spouse,
+        coalesce(nf.has_known_parent, false) as has_known_parent,
+
+        -- Bokuwa: spouse is a PR candidate in same party
+        coalesce(bk.is_budi_bokuwa, false) as is_budi_bokuwa,
+        coalesce(bk.is_budo_bokuwa, false) as is_budo_bokuwa
 
     from current_with_qual cc
     left join districts d
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
-    left join previous_2079_with_qual pr
-        on cc.candidate_name_normalized = pr.candidate_name_normalized
-    left join previous_2074 pr74
-        on cc.candidate_name_normalized = pr74.candidate_name_normalized
+    left join lateral (
+        select *
+        from previous_2079_with_qual p
+        where p.candidate_name_normalized = cc.candidate_name_normalized
+        order by
+            -- Prefer same constituency match
+            case when p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
+                  and p.{{ adapter.quote("DistrictCd") }} = d.{{ adapter.quote("id") }} then 0 else 1 end
+        limit 1
+    ) pr on true
+    left join lateral (
+        select *
+        from previous_2074 p
+        where p.candidate_name_normalized = cc.candidate_name_normalized
+        order by
+            -- Prefer same constituency match
+            case when p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
+                  and p.{{ adapter.quote("State") }} = cc.{{ adapter.quote("STATE_ID") }} then 0 else 1 end
+        limit 1
+    ) pr74 on true
     left join parties p
         on cc.{{ adapter.quote("PoliticalPartyName") }} = p.current_party_name
     left join prev_runner_up_2079 ru
@@ -295,6 +483,10 @@ joined as (
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
         on cc.candidate_name_normalized = pm.name_normalized
+    left join nepo_flags nf
+        on cc.{{ adapter.quote("CandidateID") }} = nf.{{ adapter.quote("CandidateID") }}
+    left join bokuwa_flags bk
+        on cc.{{ adapter.quote("CandidateID") }} = bk.{{ adapter.quote("CandidateID") }}
 ),
 
 with_tags as (
@@ -437,6 +629,12 @@ with_tags as (
             else false
         end as is_loyal,
 
+        -- Nepo: has a known politician as spouse or parent in same party
+        case
+            when has_known_spouse or has_known_parent then true
+            else false
+        end as is_nepo,
+
         -- Candidate type classification (prefer 2079 comparison, fallback to 2074)
         case
             -- 2079-based classification
@@ -493,7 +691,10 @@ select
             case when is_opportunist then 'Opportunist' end,
             case when is_split_vote_candidate then 'Split Vote' end,
             case when is_proportional_veteran then 'Proportional Veteran' end,
-            case when is_loyal then 'Loyal' end
+            case when is_loyal then 'Loyal' end,
+            case when is_nepo then 'Nepo' end,
+            case when is_budi_bokuwa then 'Budi Bokuwa' end,
+            case when is_budo_bokuwa then 'Budo Bokuwa' end
         ],
         x -> x is not null
     ) as tags,
@@ -502,6 +703,13 @@ select
     dp.symbol_url as party_symbol_url,
     dp.party_display_order
 from with_tags
-left join dim_parties dp
-    on dp.current_party_name = political_party_name
-    or list_contains(dp.previous_names, political_party_name)
+left join lateral (
+    select *
+    from dim_parties p
+    where p.current_party_name = political_party_name
+       or list_contains(p.previous_names, political_party_name)
+    order by
+        -- Prefer exact current_party_name match over previous_names match
+        case when p.current_party_name = political_party_name then 0 else 1 end
+    limit 1
+) dp on true

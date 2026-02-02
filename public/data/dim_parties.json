@@ -3,6 +3,21 @@
     "party_id": 1,
     "current_party_name": " राष्ट्रिय नागरिक पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 1,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 52
+  },
+  {
+    "party_id": 2,
+    "current_party_name": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -11,9 +26,26 @@
     "party_display_order": 9
   },
   {
-    "party_id": 2,
-    "current_party_name": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+    "party_id": 3,
+    "current_party_name": "इतिहासिक जनता पार्टी",
+    "previous_names": [
+      "इतिहासिक प्रजातान्त्रिक जनता पार्टी नेपाल"
+    ],
+    "is_new_party": false,
+    "total_prev_candidates": 1,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 53
+  },
+  {
+    "party_id": 4,
+    "current_party_name": "उज्यालो नेपाल पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -22,22 +54,11 @@
     "party_display_order": 10
   },
   {
-    "party_id": 3,
-    "current_party_name": "इतिहासिक जनता पार्टी",
-    "previous_names": [
-      "इतिहासिक प्रजातान्त्रिक जनता पार्टी नेपाल"
-    ],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 66
-  },
-  {
-    "party_id": 4,
-    "current_party_name": "उज्यालो नेपाल पार्टी",
+    "party_id": 5,
+    "current_party_name": "उन्नत लोकतन्त्र पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -46,9 +67,11 @@
     "party_display_order": 11
   },
   {
-    "party_id": 5,
-    "current_party_name": "उन्नत लोकतन्त्र पार्टी",
+    "party_id": 6,
+    "current_party_name": "एकल चुनाव चिन्ह, मोबाइल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -57,9 +80,11 @@
     "party_display_order": 12
   },
   {
-    "party_id": 6,
-    "current_party_name": "एकल चुनाव चिन्ह, मोबाइल",
+    "party_id": 7,
+    "current_party_name": "गतिशील लोकतान्त्रिक पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -68,9 +93,24 @@
     "party_display_order": 13
   },
   {
-    "party_id": 7,
-    "current_party_name": "गतिशील लोकतान्त्रिक पार्टी",
+    "party_id": 8,
+    "current_party_name": "गान्धीवादी पार्टी नेपाल",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 6,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 54
+  },
+  {
+    "party_id": 9,
+    "current_party_name": "जन अधिकार पार्टी",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -79,9 +119,11 @@
     "party_display_order": 14
   },
   {
-    "party_id": 8,
-    "current_party_name": "गान्धीवादी पार्टी नेपाल",
+    "party_id": 10,
+    "current_party_name": "जनता लोकतान्त्रिक पार्टी, नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -90,9 +132,11 @@
     "party_display_order": 15
   },
   {
-    "party_id": 9,
-    "current_party_name": "जन अधिकार पार्टी",
+    "party_id": 11,
+    "current_party_name": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -101,9 +145,27 @@
     "party_display_order": 16
   },
   {
-    "party_id": 10,
-    "current_party_name": "जनता लोकतान्त्रिक पार्टी, नेपाल",
+    "party_id": 12,
+    "current_party_name": "जनता समाजवादी पार्टी, नेपाल",
+    "previous_names": [
+      "नयाँ शक्ति पार्टी नेपाल",
+      "संघीय समाजवादी फोरम नेपाल"
+    ],
+    "is_new_party": false,
+    "total_prev_candidates": 395,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 55
+  },
+  {
+    "party_id": 13,
+    "current_party_name": "जनप्रिय लोकतान्त्रिक पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -112,45 +174,11 @@
     "party_display_order": 17
   },
   {
-    "party_id": 11,
-    "current_party_name": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 18
-  },
-  {
-    "party_id": 12,
-    "current_party_name": "जनता समाजवादी पार्टी, नेपाल",
-    "previous_names": [
-      "नयाँ शक्ति पार्टी नेपाल",
-      "संघीय समाजवादी फोरम नेपाल"
-    ],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 67
-  },
-  {
-    "party_id": 13,
-    "current_party_name": "जनप्रिय लोकतान्त्रिक पार्टी",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 19
-  },
-  {
     "party_id": 14,
     "current_party_name": "जनमत पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 207,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png",
     "symbol_alt": "",
     "leader": "Chandra Kant Raut",
@@ -162,6 +190,34 @@
     "party_id": 15,
     "current_party_name": "जनादेश पार्टी नेपाल(एकल चुनाव चिन्ह)",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 18
+  },
+  {
+    "party_id": 16,
+    "current_party_name": "जय मातृभूमि पार्टी",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 19
+  },
+  {
+    "party_id": 17,
+    "current_party_name": "त्रिमुल नेपाल",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -170,9 +226,11 @@
     "party_display_order": 20
   },
   {
-    "party_id": 16,
-    "current_party_name": "जय मातृभूमि पार्टी",
+    "party_id": 18,
+    "current_party_name": "त्रिमूल नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -181,33 +239,13 @@
     "party_display_order": 21
   },
   {
-    "party_id": 17,
-    "current_party_name": "त्रिमुल नेपाल",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 22
-  },
-  {
-    "party_id": 18,
-    "current_party_name": "त्रिमूल नेपाल",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 23
-  },
-  {
     "party_id": 19,
     "current_party_name": "नागरिक उन्मुक्ति पार्टी, नेपाल(एकल चुनाव चिन्ह)",
     "previous_names": [
       "नागरिक उन्मुक्ति पार्टी"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 195,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -219,23 +257,27 @@
     "party_id": 20,
     "current_party_name": "नागरिक शक्ति, नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 24
+    "party_display_order": 22
   },
   {
     "party_id": 21,
     "current_party_name": "नागरिक सर्वोच्चता पार्टी नेपाल(एकल चुनाव चिन्ह)",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 25
+    "party_display_order": 23
   },
   {
     "party_id": 22,
@@ -246,6 +288,8 @@
       "नेपाल कम्युनिष्ट पार्टी (माक्र्सवादी)",
       "नेपाल कम्युनिष्ट पार्टी (मार्क्सवादी लेनिनवादी)"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 510,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png",
     "symbol_alt": "",
     "leader": "KP Sharma Oli",
@@ -257,6 +301,34 @@
     "party_id": 23,
     "current_party_name": "नेपाल कम्युनिष्ट पार्टी (माक्र्सवादी)(एकल चुनाव चिन्ह)",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 24
+  },
+  {
+    "party_id": 24,
+    "current_party_name": "नेपाल कम्युनिष्ट पार्टी (मार्क्सवादी-लेनिनवादी)",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 25
+  },
+  {
+    "party_id": 25,
+    "current_party_name": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -265,9 +337,24 @@
     "party_display_order": 26
   },
   {
-    "party_id": 24,
-    "current_party_name": "नेपाल कम्युनिष्ट पार्टी (मार्क्सवादी-लेनिनवादी)",
+    "party_id": 26,
+    "current_party_name": "नेपाल कम्युनिष्ट पार्टी मार्क्सवादी (पुष्पलाल)",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 9,
+    "symbol_url": null,
+    "symbol_alt": null,
+    "leader": null,
+    "founded_year": null,
+    "wikipedia_url": null,
+    "party_display_order": 56
+  },
+  {
+    "party_id": 27,
+    "current_party_name": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -276,9 +363,24 @@
     "party_display_order": 27
   },
   {
-    "party_id": 25,
-    "current_party_name": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+    "party_id": 28,
+    "current_party_name": "नेपाल जनता पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 141,
+    "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BJP_Election_Symbol.svg/60px-BJP_Election_Symbol.svg.png",
+    "symbol_alt": "",
+    "leader": "—N/a",
+    "founded_year": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Janata_Party",
+    "party_display_order": 57
+  },
+  {
+    "party_id": 29,
+    "current_party_name": "नेपाल जनता संरक्षण पार्टी",
+    "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -287,9 +389,26 @@
     "party_display_order": 28
   },
   {
-    "party_id": 26,
-    "current_party_name": "नेपाल कम्युनिष्ट पार्टी मार्क्सवादी (पुष्पलाल)",
+    "party_id": 30,
+    "current_party_name": "नेपाल जनमुक्ति पार्टी",
+    "previous_names": [
+      "राष्ट्रिय जनमुक्ति पार्टी"
+    ],
+    "is_new_party": false,
+    "total_prev_candidates": 288,
+    "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png",
+    "symbol_alt": "",
+    "leader": "—N/a",
+    "founded_year": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
+    "party_display_order": 58
+  },
+  {
+    "party_id": 31,
+    "current_party_name": "नेपाल जनसेवा पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -298,66 +417,11 @@
     "party_display_order": 29
   },
   {
-    "party_id": 27,
-    "current_party_name": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 30
-  },
-  {
-    "party_id": 28,
-    "current_party_name": "नेपाल जनता पार्टी",
-    "previous_names": [],
-    "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BJP_Election_Symbol.svg/60px-BJP_Election_Symbol.svg.png",
-    "symbol_alt": "",
-    "leader": "—N/a",
-    "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Janata_Party",
-    "party_display_order": 31
-  },
-  {
-    "party_id": 29,
-    "current_party_name": "नेपाल जनता संरक्षण पार्टी",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 32
-  },
-  {
-    "party_id": 30,
-    "current_party_name": "नेपाल जनमुक्ति पार्टी",
-    "previous_names": [
-      "राष्ट्रिय जनमुक्ति पार्टी"
-    ],
-    "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png",
-    "symbol_alt": "",
-    "leader": "—N/a",
-    "founded_year": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
-    "party_display_order": 68
-  },
-  {
-    "party_id": 31,
-    "current_party_name": "नेपाल जनसेवा पार्टी",
-    "previous_names": [],
-    "symbol_url": null,
-    "symbol_alt": null,
-    "leader": null,
-    "founded_year": null,
-    "wikipedia_url": null,
-    "party_display_order": 33
-  },
-  {
     "party_id": 32,
     "current_party_name": "नेपाल मजदुर किसान पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 335,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png",
     "symbol_alt": "",
     "leader": "Narayan Man Bijukchhe",
@@ -369,34 +433,40 @@
     "party_id": 33,
     "current_party_name": "नेपाल मातृभूमि पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 34
+    "party_display_order": 30
   },
   {
     "party_id": 34,
     "current_party_name": "नेपाल मानवतावादी पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 35
+    "party_display_order": 31
   },
   {
     "party_id": 35,
     "current_party_name": "नेपाल लोकतान्त्रिक पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 177,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 36
+    "party_display_order": 59
   },
   {
     "party_id": 36,
@@ -404,34 +474,40 @@
     "previous_names": [
       "नेपाल संघीय समाजवादी पार्टी"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 203,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nepal_sanghiya_samajwadi_symbol.png/60px-Nepal_sanghiya_samajwadi_symbol.png",
     "symbol_alt": "",
     "leader": "Mohammad Rizwan Ansari",
     "founded_year": "2016",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Federal_Socialist_Party",
-    "party_display_order": 69
+    "party_display_order": 60
   },
   {
     "party_id": 37,
     "current_party_name": "नेपाल सद्भावना पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 7,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nepalese_Election_Symbol_Hand.svg/40px-Nepalese_Election_Symbol_Hand.svg.png",
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Sadbhawana_Party",
-    "party_display_order": 37
+    "party_display_order": 61
   },
   {
     "party_id": 38,
     "current_party_name": "नेपालका लागि नेपाली पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 184,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 38
+    "party_display_order": 62
   },
   {
     "party_id": 39,
@@ -442,6 +518,8 @@
       "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
       "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)(एकल चुनाव चिन्ह)"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 172,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png",
     "symbol_alt": "",
     "leader": "Pushpa Kamal Dahal",
@@ -453,89 +531,105 @@
     "party_id": 40,
     "current_party_name": "नेपाली काँग्रेस",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 412,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png",
     "symbol_alt": "",
     "leader": "Gagan Thapa",
     "founded_year": "1950",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nepali_Congress",
-    "party_display_order": 39
+    "party_display_order": 63
   },
   {
     "party_id": 41,
     "current_party_name": "नेपाली काँग्रेस (वी.पी.)",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 40
+    "party_display_order": 32
   },
   {
     "party_id": 42,
     "current_party_name": "नेपाली जनता दल",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 188,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 41
+    "party_display_order": 64
   },
   {
     "party_id": 43,
     "current_party_name": "नेपाली जनश्रमदान संस्कृति पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 42
+    "party_display_order": 33
   },
   {
     "party_id": 44,
     "current_party_name": "नेशनल रिपब्लिक नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 43
+    "party_display_order": 34
   },
   {
     "party_id": 45,
     "current_party_name": "पिपुल फर्ष्ट पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 44
+    "party_display_order": 35
   },
   {
     "party_id": 46,
     "current_party_name": "प्रगतिशील लोकतान्त्रिक पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nepalese_Election_Symbol_Eye.svg/60px-Nepalese_Election_Symbol_Eye.svg.png",
     "symbol_alt": "",
     "leader": "Baburam Bhattarai",
     "founded_year": "2025",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pragatisheel_Loktantrik_Party",
-    "party_display_order": 45
+    "party_display_order": 36
   },
   {
     "party_id": 47,
     "current_party_name": "प्रजातान्त्रिक पार्टी नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 46
+    "party_display_order": 37
   },
   {
     "party_id": 48,
@@ -544,127 +638,151 @@
       "नेपाल संघीय समाजवादी पार्टी",
       "बहुजन एकता पार्टी नेपाल"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 241,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nepal_sanghiya_samajwadi_symbol.png/60px-Nepal_sanghiya_samajwadi_symbol.png",
     "symbol_alt": "",
     "leader": "Mohammad Rizwan Ansari",
     "founded_year": "2016",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal_Federal_Socialist_Party",
-    "party_display_order": 70
+    "party_display_order": 65
   },
   {
     "party_id": 49,
     "current_party_name": "बहुजन शक्ति पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 185,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indian_Election_Symbol_Jug.svg/60px-Indian_Election_Symbol_Jug.svg.png",
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bahujan_Shakti_Party",
-    "party_display_order": 47
+    "party_display_order": 66
   },
   {
     "party_id": 50,
     "current_party_name": "मंगोल नेशनल अर्गनाइजेसन",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 153,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 48
+    "party_display_order": 67
   },
   {
     "party_id": 51,
     "current_party_name": "मितेरी पार्टी नेपाल",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 1,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 49
+    "party_display_order": 68
   },
   {
     "party_id": 52,
     "current_party_name": "युनाईटेड नेपाल डिमोक्रयाटीक पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 50
+    "party_display_order": 38
   },
   {
     "party_id": 53,
     "current_party_name": "राष्ट्र निर्माण दल नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 51
+    "party_display_order": 39
   },
   {
     "party_id": 54,
     "current_party_name": "राष्ट्रिय उर्जाशील पार्टी, नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 52
+    "party_display_order": 40
   },
   {
     "party_id": 55,
     "current_party_name": "राष्ट्रिय एकता दल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 53
+    "party_display_order": 41
   },
   {
     "party_id": 56,
     "current_party_name": "राष्ट्रिय जनता पार्टी नेपाल",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 66,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 54
+    "party_display_order": 69
   },
   {
     "party_id": 57,
     "current_party_name": "राष्ट्रिय जनमत पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 55
+    "party_display_order": 42
   },
   {
     "party_id": 58,
     "current_party_name": "राष्ट्रिय जनमुक्ति पार्टी",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 288,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png",
     "symbol_alt": "",
     "leader": "—N/a",
     "founded_year": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
-    "party_display_order": 56
+    "party_display_order": 70
   },
   {
     "party_id": 59,
     "current_party_name": "राष्ट्रिय जनमोर्चा",
     "previous_names": [],
+    "is_new_party": false,
+    "total_prev_candidates": 197,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RaJaMo.png/40px-RaJaMo.png",
     "symbol_alt": "",
     "leader": "Chitra Bahadur K.C.",
@@ -676,12 +794,14 @@
     "party_id": 60,
     "current_party_name": "राष्ट्रिय परिवर्तन पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 57
+    "party_display_order": 43
   },
   {
     "party_id": 61,
@@ -692,6 +812,8 @@
       "राष्ट्रिय प्रजातन्त्र पार्टी (संयुक्त)",
       "राष्ट्रिय प्रजातन्त्र पार्टी नेपाल"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 638,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png",
     "symbol_alt": "",
     "leader": "Rajendra Prasad Lingden",
@@ -705,6 +827,8 @@
     "previous_names": [
       "आमूल परिवर्तन मसिहा पार्टी नेपाल"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 102,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -716,12 +840,14 @@
     "party_id": 63,
     "current_party_name": "राष्ट्रिय मुक्ति पार्टी नेपाल(एकल चुनाव चिन्ह)",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 58
+    "party_display_order": 44
   },
   {
     "party_id": 64,
@@ -729,6 +855,8 @@
     "previous_names": [
       "राष्ट्रिय समाजवादी पार्टी नेपाल"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 3,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -742,6 +870,8 @@
     "previous_names": [
       "किरात खम्बुवान साझा पार्टी"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 29,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -756,6 +886,8 @@
       "विवेकशील साझा पार्टी",
       "साझा पार्टी नेपाल"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 372,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png",
     "symbol_alt": "",
     "leader": "Rabi Lamichhane",
@@ -767,34 +899,40 @@
     "party_id": 67,
     "current_party_name": "राष्ट्रीय गौरव पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 59
+    "party_display_order": 45
   },
   {
     "party_id": 68,
     "current_party_name": "राष्ट्रीय जनता पार्टी नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 60
+    "party_display_order": 46
   },
   {
     "party_id": 69,
     "current_party_name": "श्रम संस्कृति पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 61
+    "party_display_order": 47
   },
   {
     "party_id": 70,
@@ -802,6 +940,8 @@
     "previous_names": [
       "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च(थरुहट)"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 210,
     "symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/SLRM_Symbol.png/40px-SLRM_Symbol.png",
     "symbol_alt": "",
     "leader": "—N/a",
@@ -816,6 +956,8 @@
       "नेपाल दलित पार्टी(एकल चुनाव चिन्ह)",
       "सामाजिक एकता पार्टी(एकल चुनाव चिन्ह)"
     ],
+    "is_new_party": false,
+    "total_prev_candidates": 3,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
@@ -827,44 +969,52 @@
     "party_id": 72,
     "current_party_name": "समावेशी समाजवादी पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 62
+    "party_display_order": 48
   },
   {
     "party_id": 73,
     "current_party_name": "समावेशी समाजवादी पार्टी नेपाल",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 63
+    "party_display_order": 49
   },
   {
     "party_id": 74,
     "current_party_name": "सार्वभौम नागरिक पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 64
+    "party_display_order": 50
   },
   {
     "party_id": 75,
     "current_party_name": "स्वाभिमान पार्टी",
     "previous_names": [],
+    "is_new_party": true,
+    "total_prev_candidates": 0,
     "symbol_url": null,
     "symbol_alt": null,
     "leader": null,
     "founded_year": null,
     "wikipedia_url": null,
-    "party_display_order": 65
+    "party_display_order": 51
   }
 ]

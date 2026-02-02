@@ -90,6 +90,11 @@ export interface Candidate {
   is_opportunist: boolean
   is_split_vote_candidate: boolean
   is_loyal: boolean
+  is_nepo: boolean
+  has_known_spouse: boolean
+  has_known_parent: boolean
+  is_budi_bokuwa: boolean
+  is_budo_bokuwa: boolean
   candidate_type: string
   tags: string[]
   party_display_order: number | null
@@ -225,6 +230,30 @@ export const badgeDefinitions: Record<string, Badge> = {
     description: "Same party & constituency across all elections",
     icon: "shield",
     color: "gold"
+  },
+  "Nepo": {
+    id: "nepo",
+    name: "Nepo",
+    nameNepali: "नेपो",
+    description: "Spouse or parent is a known politician in the same party",
+    icon: "crown",
+    color: "warning"
+  },
+  "Budi Bokuwa": {
+    id: "budi-bokuwa",
+    name: "Budi Bokuwa",
+    nameNepali: "बुढी बोकुवा",
+    description: "Female PR candidate who is a male FPTP politician's spouse",
+    icon: "heart-handshake",
+    color: "destructive"
+  },
+  "Budo Bokuwa": {
+    id: "budo-bokuwa",
+    name: "Budo Bokuwa",
+    nameNepali: "बुढो बोकुवा",
+    description: "Male PR candidate who is a female FPTP politician's spouse",
+    icon: "heart-handshake",
+    color: "warning"
   }
 }
 
@@ -320,6 +349,11 @@ export const candidates: Candidate[] = [
     is_opportunist: false,
     is_split_vote_candidate: false,
     is_loyal: true,
+    is_nepo: false,
+    has_known_spouse: false,
+    has_known_parent: false,
+    is_budi_bokuwa: false,
+    is_budo_bokuwa: false,
     candidate_type: "Same Location",
     tags: ["Educated", "Loyal"],
     party_display_order: 4
@@ -414,6 +448,11 @@ export const candidates: Candidate[] = [
     is_opportunist: false,
     is_split_vote_candidate: false,
     is_loyal: true,
+    is_nepo: false,
+    has_known_spouse: false,
+    has_known_parent: false,
+    is_budi_bokuwa: false,
+    is_budo_bokuwa: false,
     candidate_type: "Same Location",
     tags: ["Educated", "Loyal"],
     party_display_order: 1
@@ -503,6 +542,11 @@ export const candidates: Candidate[] = [
     is_opportunist: false,
     is_split_vote_candidate: false,
     is_loyal: true,
+    is_nepo: false,
+    has_known_spouse: false,
+    has_known_parent: false,
+    is_budi_bokuwa: false,
+    is_budo_bokuwa: false,
     candidate_type: "Same Location",
     tags: ["Tourist", "Educated", "New Party", "Grandpa", "Loyal"],
     party_display_order: 2
@@ -595,6 +639,11 @@ export const candidates: Candidate[] = [
     is_opportunist: false,
     is_split_vote_candidate: false,
     is_loyal: false,
+    is_nepo: false,
+    has_known_spouse: false,
+    has_known_parent: false,
+    is_budi_bokuwa: false,
+    is_budo_bokuwa: false,
     candidate_type: "Chheparo",
     tags: ["Tourist", "Chheparo", "Vaguwa", "Educated", "Grandpa"],
     party_display_order: 5
@@ -689,6 +738,11 @@ export const candidates: Candidate[] = [
     is_opportunist: false,
     is_split_vote_candidate: false,
     is_loyal: true,
+    is_nepo: false,
+    has_known_spouse: false,
+    has_known_parent: false,
+    is_budi_bokuwa: false,
+    is_budo_bokuwa: false,
     candidate_type: "Same Location",
     tags: ["Educated", "Grandpa", "Loyal"],
     party_display_order: 1

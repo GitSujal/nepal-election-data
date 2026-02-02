@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { User, MapPin, Vote } from "lucide-react"
+import { User, MapPin, Vote, Building2, GitCompareArrows } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 export function NavHeader() {
@@ -18,6 +18,16 @@ export function NavHeader() {
       href: "/constituency",
       label: "निर्वाचन क्षेत्र",
       icon: MapPin,
+    },
+    {
+      href: "/party",
+      label: "पार्टी प्रोफाइल",
+      icon: Building2,
+    },
+    {
+      href: "/party-comparison",
+      label: "पार्टी तुलना",
+      icon: GitCompareArrows,
     },
   ]
 

@@ -1,8 +1,28 @@
 "use client"
 
-import { useState, useEffect, useMemo } from "react"
-import { ChevronDown, X, Filter } from "lucide-react"
+import { useState, useEffect, useMemo, useRef } from "react"
+import { ChevronDown, X, Filter, Shield, Star, GraduationCap, Plane, Repeat, Footprints, Baby, Fingerprint, PartyPopper, Sparkles, UserRound, Banknote, Scissors, Medal, Crown, HeartHandshake } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
+import { badgeDefinitions } from "@/lib/candidates-data"
+
+const iconMap: Record<string, React.ElementType> = {
+  shield: Shield,
+  star: Star,
+  "graduation-cap": GraduationCap,
+  plane: Plane,
+  repeat: Repeat,
+  footprints: Footprints,
+  baby: Baby,
+  fingerprint: Fingerprint,
+  "party-popper": PartyPopper,
+  sparkles: Sparkles,
+  "user-round": UserRound,
+  banknote: Banknote,
+  scissors: Scissors,
+  medal: Medal,
+  crown: Crown,
+  "heart-handshake": HeartHandshake,
+}
 
 interface CandidateData {
   candidate_id: string
@@ -25,6 +45,9 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
   const [district, setDistrict] = useState<string>("")
   const [constituency, setConstituency] = useState<string>("")
   const [party, setParty] = useState<string>("")
+  const [selectedBadges, setSelectedBadges] = useState<string[]>([])
+  const [badgeDropdownOpen, setBadgeDropdownOpen] = useState(false)
+  const badgeDropdownRef = useRef<HTMLDivElement>(null)
 
   // Load all candidates from JSON
   const { data: allCandidates, loading: dataLoading } = useJsonData<CandidateData>(
@@ -75,6 +98,23 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
       .map(([name]) => name)
   }, [allCandidates, state, district, constituency])
 
+  // Available badges based on current geographic/party filters
+  const availableBadges = useMemo(() => {
+    if (!allCandidates) return []
+    let filtered = allCandidates
+    if (state) filtered = filtered.filter(c => c.state_name === state)
+    if (district) filtered = filtered.filter(c => c.district_name === district)
+    if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
+    if (party) filtered = filtered.filter(c => c.political_party_name === party)
+    const badgeSet = new Set<string>()
+    for (const c of filtered) {
+      if (c.tags) {
+        for (const t of c.tags) badgeSet.add(t)
+      }
+    }
+    return Object.keys(badgeDefinitions).filter(b => badgeSet.has(b))
+  }, [allCandidates, state, district, constituency, party])
+
   // Filter candidates based on selected filters, sorted by party_display_order
   const filteredCandidates = useMemo(() => {
     if (!allCandidates) return []
@@ -83,8 +123,13 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     if (district) filtered = filtered.filter(c => c.district_name === district)
     if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
     if (party) filtered = filtered.filter(c => c.political_party_name === party)
+    if (selectedBadges.length > 0) {
+      filtered = filtered.filter(c =>
+        c.tags && selectedBadges.every(b => c.tags.includes(b))
+      )
+    }
     return [...filtered].sort((a, b) => (a.party_display_order ?? 9999) - (b.party_display_order ?? 9999))
-  }, [allCandidates, state, district, constituency, party])
+  }, [allCandidates, state, district, constituency, party, selectedBadges])
 
   // Notify parent of filtered candidates
   useEffect(() => {
@@ -128,15 +173,33 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     }
   }, [filteredCandidates, party, state, district, constituency, onSelectCandidate])
 
+  // Close badge dropdown on outside click
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (badgeDropdownRef.current && !badgeDropdownRef.current.contains(e.target as Node)) {
+        setBadgeDropdownOpen(false)
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside)
+    return () => document.removeEventListener("mousedown", handleClickOutside)
+  }, [])
+
   const handleReset = () => {
     setState("")
     setDistrict("")
     setConstituency("")
     setParty("")
+    setSelectedBadges([])
     onSelectCandidate(null)
   }
 
-  const hasActiveFilters = state || district || constituency || party
+  const toggleBadge = (badge: string) => {
+    setSelectedBadges(prev =>
+      prev.includes(badge) ? prev.filter(b => b !== badge) : [...prev, badge]
+    )
+  }
+
+  const hasActiveFilters = state || district || constituency || party || selectedBadges.length > 0
 
   return (
     <div className="rounded-2xl border border-border bg-card p-4 md:p-6">
@@ -164,7 +227,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
 
       {/* Filters grid */}
       {!dataLoading && (
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
           {/* State */}
           <div className="relative">
             <label className="mb-1 block text-xs font-medium text-muted-foreground">
@@ -242,6 +305,72 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
               <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
             </div>
           </div>
+
+          {/* Badge */}
+          <div className="relative" ref={badgeDropdownRef}>
+            <label className="mb-1 block text-xs font-medium text-muted-foreground">Badge</label>
+            <button
+              type="button"
+              onClick={() => setBadgeDropdownOpen(o => !o)}
+              className="flex w-full items-center justify-between rounded-lg border border-border bg-input px-4 py-2.5 text-left text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+            >
+              <span className={selectedBadges.length === 0 ? "text-muted-foreground" : ""}>
+                {selectedBadges.length === 0
+                  ? `All Badges (${availableBadges.length})`
+                  : `${selectedBadges.length} selected`}
+              </span>
+              <ChevronDown className="h-4 w-4 text-muted-foreground" />
+            </button>
+            {badgeDropdownOpen && (
+              <div className="absolute z-50 mt-1 max-h-64 w-full overflow-y-auto rounded-lg border border-border bg-card shadow-lg">
+                {availableBadges.map(badge => {
+                  const def = badgeDefinitions[badge]
+                  const isSelected = selectedBadges.includes(badge)
+                  const Icon = def ? iconMap[def.icon] : null
+                  return (
+                    <button
+                      key={badge}
+                      type="button"
+                      onClick={() => toggleBadge(badge)}
+                      className={`flex w-full items-center gap-2 px-3 py-2 text-left text-sm transition-colors hover:bg-secondary ${
+                        isSelected ? "bg-primary/10 font-medium" : ""
+                      }`}
+                    >
+                      <span className={`flex h-4 w-4 shrink-0 items-center justify-center rounded border ${
+                        isSelected ? "border-primary bg-primary text-primary-foreground" : "border-muted-foreground"
+                      }`}>
+                        {isSelected && <span className="text-xs">✓</span>}
+                      </span>
+                      {Icon && <Icon className="h-4 w-4 shrink-0 text-muted-foreground" />}
+                      <span>{def?.name ?? badge}</span>
+                    </button>
+                  )
+                })}
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* Selected badge chips */}
+      {selectedBadges.length > 0 && (
+        <div className="mt-3 flex flex-wrap gap-2">
+          {selectedBadges.map(badge => {
+            const def = badgeDefinitions[badge]
+            const Icon = def ? iconMap[def.icon] : null
+            return (
+              <button
+                key={badge}
+                type="button"
+                onClick={() => toggleBadge(badge)}
+                className="flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
+              >
+                {Icon && <Icon className="h-3 w-3" />}
+                <span>{def?.name ?? badge}</span>
+                <X className="h-3 w-3" />
+              </button>
+            )
+          })}
         </div>
       )}
     </div>
