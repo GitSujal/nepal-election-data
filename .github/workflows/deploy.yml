@@ -29,7 +29,6 @@ jobs:
 
       - name: Run dbt build
         run: uv run dbt build
-        working-directory: election
         env:
           DBT_PROJECT_DIR: election
           DBT_PROFILES_DIR: election
