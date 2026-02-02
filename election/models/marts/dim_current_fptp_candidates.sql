@@ -601,7 +601,7 @@ with_tags as (
 
         -- Gen-z: age under 30
         case
-            when age <= 30 then true
+            when age <= 27 then true
             else false
         end as is_gen_z,
 

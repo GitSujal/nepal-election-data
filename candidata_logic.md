@@ -75,9 +75,9 @@ The model provides full timeline data so the frontend can construct a candidate'
    - Calculation: Party exists in `dim_parties` but `previous_names` list is empty.
 
 8. **Gen-z** — Tag: `Gen-z` :young_person:
-   - A candidate under 30 years old.
+   - A candidate 27 years old and below.
    - Column: `is_gen_z`
-   - Calculation: `age < 30`
+   - Calculation: `age <= 27`
 
 9. **Grandpa** — Tag: `Grandpa` :older_adult:
    - A candidate over 60 years old.
