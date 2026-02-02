@@ -27,12 +27,6 @@ jobs:
       - name: Install Python dependencies
         run: uv sync
 
-      - name: Run dbt build
-        run: uv run dbt build
-        env:
-          DBT_PROJECT_DIR: election
-          DBT_PROFILES_DIR: election
-
       - name: Export data to JSON
         run: uv run python export_to_json.py
 
