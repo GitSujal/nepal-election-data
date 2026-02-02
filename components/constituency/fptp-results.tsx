@@ -51,7 +51,7 @@ export function FPTPResults({ results2079, results2074, year }: FPTPResultsProps
             </div>
             <div>
               <h3 className="text-lg font-semibold text-foreground">
-                प्रत्यक्ष निर्वाचन २०{year}
+                प्रत्यक्ष निर्वाचन {year}
               </h3>
               <p className="text-sm text-muted-foreground">
                 कूल मत: {totalVotes.toLocaleString("ne-NP")}

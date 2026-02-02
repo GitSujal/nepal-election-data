@@ -66,6 +66,8 @@ fptp_2079_enriched as (
     left join parties p
         on f.party_name = p.current_party_name
         or list_contains(p.previous_names, f.party_name)
+        or p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(f.party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g')
+        or list_contains(p.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(f.party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
 ),
 
 -- FPTP 2074 results
@@ -299,6 +301,8 @@ joined as (
     left join parties p
         on s79.winning_party_2079 = p.current_party_name
         or list_contains(p.previous_names, s79.winning_party_2079)
+        or p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(s79.winning_party_2079, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g')
+        or list_contains(p.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(s79.winning_party_2079, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
 ),
 
 

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500"><svg width="500" height="500" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Circle Frame (Nepal Dark Blue) -->
+  <circle cx="50" cy="50" r="42" stroke="#003893" stroke-width="5"></circle>
+  
+  <!-- Data Bars with Himalayan Tops (Crimson Red) -->
+  <path d="M32 68 L32 52 L40 55 L40 68 Z" fill="#DC143C" opacity="0.5"></path>
+  <path d="M46 68 L46 42 L54 45 L54 68 Z" fill="#DC143C" opacity="0.8"></path>
+  <path d="M60 68 L60 32 L68 35 L68 68 Z" fill="#DC143C"></path>
+
+  <!-- The Checkmark (Crimson Red) -->
+  <path d="M35 72 L52 84 L88 38" stroke="#DC143C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Minimalist Moon symbol from Nepal Flag -->
+  <circle cx="28" cy="28" r="3.5" fill="#003893"></circle>
+</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>

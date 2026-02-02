@@ -206,7 +206,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
       <div className="mb-4 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <Filter className="h-5 w-5 text-primary" />
-          <h2 className="text-lg font-semibold text-foreground">Find Candidate</h2>
+          <h2 className="text-lg font-semibold text-foreground">उम्मेदवार खोज्नुहोस्</h2>
         </div>
         {hasActiveFilters && (
           <button
@@ -215,14 +215,14 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
             className="flex items-center gap-1 rounded-lg px-3 py-1 text-sm text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
           >
             <X className="h-4 w-4" />
-            Reset
+            रिसेट
           </button>
         )}
       </div>
 
       {/* Loading state */}
       {dataLoading && (
-        <div className="text-center text-muted-foreground py-4">Loading candidates data...</div>
+        <div className="text-center text-muted-foreground py-4">उम्मेदवारहरूको विवरण लोड हुँदैछ...</div>
       )}
 
       {/* Filters grid */}
@@ -231,7 +231,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
           {/* State */}
           <div className="relative">
             <label className="mb-1 block text-xs font-medium text-muted-foreground">
-              State/Province
+              प्रदेश
             </label>
             <div className="relative">
               <select
@@ -239,7 +239,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
                 onChange={(e) => setState(e.target.value)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
-                <option value="">All States ({states.length})</option>
+                <option value="">सबै प्रदेशहरू ({states.length})</option>
                 {states.map((s) => (
                   <option key={s} value={s}>{s}</option>
                 ))}
@@ -250,7 +250,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
 
           {/* District */}
           <div className="relative">
-            <label className="mb-1 block text-xs font-medium text-muted-foreground">District</label>
+            <label className="mb-1 block text-xs font-medium text-muted-foreground">जिल्ला</label>
             <div className="relative">
               <select
                 value={district}
@@ -258,7 +258,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-50"
                 disabled={!state}
               >
-                <option value="">All Districts ({districts.length})</option>
+                <option value="">सबै जिल्लाहरू ({districts.length})</option>
                 {districts.map((d) => (
                   <option key={d} value={d}>{d}</option>
                 ))}
@@ -279,7 +279,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-50"
                 disabled={!district}
               >
-                <option value="">All Constituencies ({constituencies.length})</option>
+                <option value="">सबै निर्वाचन क्षेत्रहरू ({constituencies.length})</option>
                 {constituencies.map((c) => (
                   <option key={c} value={c}>{c}</option>
                 ))}
@@ -290,14 +290,14 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
 
           {/* Party */}
           <div className="relative">
-            <label className="mb-1 block text-xs font-medium text-muted-foreground">Party</label>
+            <label className="mb-1 block text-xs font-medium text-muted-foreground">दल</label>
             <div className="relative">
               <select
                 value={party}
                 onChange={(e) => setParty(e.target.value)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
-                <option value="">All Parties ({parties.length})</option>
+                <option value="">सबै दलहरू ({parties.length})</option>
                 {parties.map((p) => (
                   <option key={p} value={p}>{p}</option>
                 ))}
@@ -308,7 +308,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
 
           {/* Badge */}
           <div className="relative" ref={badgeDropdownRef}>
-            <label className="mb-1 block text-xs font-medium text-muted-foreground">Badge</label>
+            <label className="mb-1 block text-xs font-medium text-muted-foreground">विशेषताहरू</label>
             <button
               type="button"
               onClick={() => setBadgeDropdownOpen(o => !o)}
@@ -316,8 +316,8 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
             >
               <span className={selectedBadges.length === 0 ? "text-muted-foreground" : ""}>
                 {selectedBadges.length === 0
-                  ? `All Badges (${availableBadges.length})`
-                  : `${selectedBadges.length} selected`}
+                  ? `सबै विशेषताहरू (${availableBadges.length})`
+                  : `${selectedBadges.length} चयन गरिएको`}
               </span>
               <ChevronDown className="h-4 w-4 text-muted-foreground" />
             </button>
@@ -332,6 +332,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
                       key={badge}
                       type="button"
                       onClick={() => toggleBadge(badge)}
+                      title={def?.description_np || def?.description}
                       className={`flex w-full items-center gap-2 px-3 py-2 text-left text-sm transition-colors hover:bg-secondary ${
                         isSelected ? "bg-primary/10 font-medium" : ""
                       }`}
@@ -342,7 +343,12 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
                         {isSelected && <span className="text-xs">✓</span>}
                       </span>
                       {Icon && <Icon className="h-4 w-4 shrink-0 text-muted-foreground" />}
-                      <span>{def?.name ?? badge}</span>
+                      <div className="flex flex-col leading-tight">
+                        <span>{def?.nameNepali ?? def?.name ?? badge}</span>
+                        {def?.nameNepali && (
+                          <span className="text-[10px] text-muted-foreground">{def.name}</span>
+                        )}
+                      </div>
                     </button>
                   )
                 })}
@@ -363,11 +369,17 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
                 key={badge}
                 type="button"
                 onClick={() => toggleBadge(badge)}
+                title={def?.description_np || def?.description}
                 className="flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
               >
                 {Icon && <Icon className="h-3 w-3" />}
-                <span>{def?.name ?? badge}</span>
-                <X className="h-3 w-3" />
+                <div className="flex flex-col items-start leading-none">
+                  <span>{def?.nameNepali ?? def?.name ?? badge}</span>
+                  {def?.nameNepali && (
+                    <span className="text-[9px] opacity-70">{def.name}</span>
+                  )}
+                </div>
+                <X className="h-3 w-3 ml-0.5" />
               </button>
             )
           })}

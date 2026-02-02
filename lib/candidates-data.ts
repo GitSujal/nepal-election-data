@@ -105,157 +105,176 @@ export interface Badge {
   name: string
   nameNepali: string
   description: string
+  description_np?: string
   icon: string
   color: "gold" | "silver" | "bronze" | "primary" | "accent" | "warning" | "destructive"
 }
 
 // Badge definitions based on the 14 tags
 export const badgeDefinitions: Record<string, Badge> = {
-  "Tourist": {
+  "पर्यटक": {
     id: "tourist",
     name: "Tourist",
     nameNepali: "पर्यटक",
     description: "Candidacy district differs from citizenship district",
+    description_np: "नागरिकता जिल्लाबाट फरक निर्वाचन क्षेत्रमा उम्मेदवारी",
     icon: "plane",
     color: "accent"
   },
-  "Chheparo": {
+  "छेपारो": {
     id: "chheparo",
     name: "Chheparo",
     nameNepali: "छेपारो",
     description: "Switched parties since last election",
+    description_np: "अघिल्लो चुनावदेखि पार्टी परिवर्तन",
     icon: "repeat",
     color: "warning"
   },
-  "Vaguwa": {
+  "भगुवा": {
     id: "vaguwa",
     name: "Vaguwa",
     nameNepali: "भगुवा",
     description: "Changed constituency since last election",
+    description_np: "अघिल्लो चुनावदेखि निर्वाचन क्षेत्र परिवर्तन",
     icon: "footprints",
     color: "bronze"
   },
-  "Vaguwa (Won Prev)": {
+  "भगुवा (विजेता)": {
     id: "vaguwa-won",
     name: "Vaguwa (Won Prev)",
-    nameNepali: "भगुवा (विजयी)",
+    nameNepali: "भगुवा (विजेता)",
     description: "Changed constituency after winning previous election",
+    description_np: "अघिल्लो चुनाव जितेपछि निर्वाचन क्षेत्र परिवर्तन",
     icon: "footprints",
     color: "primary"
   },
-  "New Candidate": {
+  "नयाँ अनुहार": {
     id: "new-candidate",
     name: "New Candidate",
-    nameNepali: "नयाँ उम्मेदवार",
+    nameNepali: "नयाँ अनुहार",
     description: "First time FPTP candidate",
+    description_np: "पहिलो पटक प्रत्यक्ष उम्मेदवार",
     icon: "baby",
     color: "primary"
   },
-  "Educated": {
+  "शिक्षित": {
     id: "educated",
     name: "Educated",
     nameNepali: "शिक्षित",
     description: "High School (+2) or above qualification",
+    description_np: "उच्च माध्यमिक (+2) वा माथिको योग्यता",
     icon: "graduation-cap",
     color: "silver"
   },
-  "Uneducated": {
+  "अशिक्षित": {
     id: "uneducated",
     name: "Uneducated",
     nameNepali: "अशिक्षित",
     description: "Below High School qualification",
+    description_np: "उच्च माध्यमिक भन्दा तलको योग्यता",
     icon: "fingerprint",
     color: "bronze"
   },
-  "New Party": {
+  "नयाँ पार्टी": {
     id: "new-party",
     name: "New Party",
     nameNepali: "नयाँ पार्टी",
     description: "Party formed after last elections",
+    description_np: "अघिल्लो चुनावपछि गठन भएको पार्टी",
     icon: "party-popper",
     color: "accent"
   },
-  "Gen-z": {
+  "जेन जी": {
     id: "gen-z",
     name: "Gen-Z",
-    nameNepali: "जेन-जी",
+    nameNepali: "जेन जी",
     description: "Under 30 years old",
+    description_np: "३० वर्ष मुनिका",
     icon: "sparkles",
     color: "primary"
   },
-  "Grandpa": {
+  "हजुरबा": {
     id: "grandpa",
     name: "Grandpa",
-    nameNepali: "बाजे",
+    nameNepali: "हजुरबा",
     description: "Over 60 years old",
+    description_np: "६० वर्ष माथिका",
     icon: "user-round",
     color: "silver"
   },
-  "Influential": {
+  "प्रभावशाली": {
     id: "influential",
     name: "Influential",
     nameNepali: "प्रभावशाली",
     description: "Won previous election with 20%+ margin",
+    description_np: "२०% भन्दा बढी मतान्तरले अघिल्लो चुनाव जितेका",
     icon: "star",
     color: "gold"
   },
-  "Opportunist": {
+  "अवसरवादी": {
     id: "opportunist",
     name: "Opportunist",
     nameNepali: "अवसरवादी",
     description: "Was Independent, now with established party",
+    description_np: "पहिले स्वतन्त्र, अहिले स्थापित पार्टीसँग",
     icon: "banknote",
     color: "warning"
   },
-  "Split Vote": {
+  "भोट काट्ने": {
     id: "split-vote",
     name: "Split Vote",
-    nameNepali: "भोट बाँडेर",
+    nameNepali: "भोट काट्ने",
     description: "Got less than 3% votes in last election",
+    description_np: "भोट काट्नका लागि मात्र उठ्ने तर नजित्ने",
     icon: "scissors",
     color: "destructive"
   },
-  "Proportional Veteran": {
+  "समानुपातिक अनुभवी": {
     id: "proportional-veteran",
     name: "PR Veteran",
-    nameNepali: "समानुपातिक दिग्गज",
+    nameNepali: "समानुपातिक अनुभवी",
     description: "Parliament member via proportional list",
+    description_np: "समानुपातिकबाट पहिले संसद पदकाएका",
     icon: "medal",
     color: "gold"
   },
-  "Loyal": {
+  "इमानदार": {
     id: "loyal",
     name: "Loyal",
-    nameNepali: "वफादार",
+    nameNepali: "इमानदार",
     description: "Same party & constituency across all elections",
+    description_np: "सबै चुनावमा एउटै पार्टी र क्षेत्रबाट उम्मेदवार",
     icon: "shield",
     color: "gold"
   },
-  "Nepo": {
+  "नातावाद": {
     id: "nepo",
     name: "Nepo",
-    nameNepali: "नेपो",
-    description: "Spouse or parent is a known politician in the same party",
-    icon: "crown",
-    color: "warning"
+    nameNepali: "नातावाद",
+    description: "Politician from family with political background",
+    description_np: "राजनीतिक पृष्ठभूमि भएको परिवारका सदस्य",
+    icon: "heart-handshake",
+    color: "accent"
   },
-  "Budi Bokuwa": {
+  "बुढी बोकुवा": {
     id: "budi-bokuwa",
     name: "Budi Bokuwa",
     nameNepali: "बुढी बोकुवा",
-    description: "Female PR candidate who is a male FPTP politician's spouse",
+    description: "Candidate whose spouse is also a candidate",
+    description_np: "श्रीमती पनि उम्मेदवार भएको",
     icon: "heart-handshake",
-    color: "destructive"
+    color: "accent"
   },
-  "Budo Bokuwa": {
+  "बुढो बोकुवा": {
     id: "budo-bokuwa",
     name: "Budo Bokuwa",
     nameNepali: "बुढो बोकुवा",
-    description: "Male PR candidate who is a female FPTP politician's spouse",
+    description: "Candidate whose spouse is also a candidate",
+    description_np: "श्रीमान पनि उम्मेदवार भएको",
     icon: "heart-handshake",
-    color: "warning"
+    color: "accent"
   }
-}
+};
 
 // Sample data matching the actual JSON structure
 export const candidates: Candidate[] = [

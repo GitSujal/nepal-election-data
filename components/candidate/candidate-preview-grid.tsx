@@ -25,9 +25,9 @@ export function CandidatePreviewGrid({ candidates, onSelectCandidate }: Candidat
         <div className="flex h-20 w-20 items-center justify-center rounded-full bg-secondary">
           <Users className="h-10 w-10 text-muted-foreground" />
         </div>
-        <h3 className="mt-4 text-xl font-semibold text-foreground">No Candidates Found</h3>
+        <h3 className="mt-4 text-xl font-semibold text-foreground">कुनै उम्मेदवार फेला परेन</h3>
         <p className="mt-2 max-w-md text-center text-muted-foreground">
-          Adjust the filters above to find candidates.
+          उम्मेदवारहरू फेला पार्न माथिको फिल्टरहरू प्रयोग गर्नुहोस्।
         </p>
       </div>
     )
@@ -38,10 +38,9 @@ export function CandidatePreviewGrid({ candidates, onSelectCandidate }: Candidat
       {/* Header */}
       <div className="flex items-center justify-between">
         <p className="text-sm text-muted-foreground">
-          Showing <span className="font-semibold text-foreground">{page * PAGE_SIZE + 1}–{Math.min((page + 1) * PAGE_SIZE, candidates.length)}</span> of{" "}
-          <span className="font-semibold text-foreground">{candidates.length}</span> candidates
+          कुल <span className="font-semibold text-foreground">{candidates.length}</span> उम्मेदवारहरू मध्ये <span className="font-semibold text-foreground">{page * PAGE_SIZE + 1}–{Math.min((page + 1) * PAGE_SIZE, candidates.length)}</span> देखाइएको छ
         </p>
-        <p className="text-xs text-muted-foreground">Click a candidate to view full profile</p>
+        <p className="text-xs text-muted-foreground">पुरा विवरण हेर्न उम्मेदवारमा क्लिक गर्नुहोस्</p>
       </div>
 
       {/* Grid */}
@@ -65,7 +64,7 @@ export function CandidatePreviewGrid({ candidates, onSelectCandidate }: Candidat
             className="flex items-center gap-1 rounded-lg border border-border px-3 py-2 text-sm transition-colors hover:bg-secondary disabled:opacity-40 disabled:cursor-not-allowed"
           >
             <ChevronLeft className="h-4 w-4" />
-            Previous
+            पछाडि
           </button>
 
           <div className="flex items-center gap-1">
@@ -104,7 +103,7 @@ export function CandidatePreviewGrid({ candidates, onSelectCandidate }: Candidat
             disabled={page === totalPages - 1}
             className="flex items-center gap-1 rounded-lg border border-border px-3 py-2 text-sm transition-colors hover:bg-secondary disabled:opacity-40 disabled:cursor-not-allowed"
           >
-            Next
+            अगाडि
             <ChevronRight className="h-4 w-4" />
           </button>
         </div>

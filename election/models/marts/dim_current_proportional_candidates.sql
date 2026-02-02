@@ -198,11 +198,11 @@ joined as (
         -- Rank is CRITICAL for proportional candidates
         cast(cc.serial_no as integer) as rank_position,
 
-        -- Party matching logic: direct match, then seed mapping, then associated_party
-        coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id) as party_id,
-        coalesce(p_direct.current_party_name, p_mapped.current_party_name, p_assoc.current_party_name) as matched_party_name,
-        coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names) as party_previous_names,
-        coalesce(p_direct.party_display_order, p_mapped.party_display_order, p_assoc.party_display_order) as party_display_order,
+        -- Party matching logic: direct match, then seed mapping, then associated_party, then robust match
+        coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id, p_robust.party_id) as party_id,
+        coalesce(p_direct.current_party_name, p_mapped.current_party_name, p_assoc.current_party_name, p_robust.current_party_name) as matched_party_name,
+        coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names, p_robust.previous_names) as party_previous_names,
+        coalesce(p_direct.party_display_order, p_mapped.party_display_order, p_assoc.party_display_order, p_robust.party_display_order) as party_display_order,
 
         -- Previous 2079 party performance
         pr79.total_votes as prev_2079_party_votes,
@@ -308,6 +308,12 @@ joined as (
         on cc.associated_party = p_assoc.current_party_name
         and p_direct.party_id is null
         and p_mapped.party_id is null
+    -- 4. Robust match: normalized political_party_name → dim_parties.norm_name
+    left join parties p_robust
+        on regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(cc.political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') = p_robust.norm_name
+        and p_direct.party_id is null
+        and p_mapped.party_id is null
+        and p_assoc.party_id is null
     -- Join previous election results at party level
     left join prev_2079_party_summary pr79
         on cc.political_party_name = pr79.political_party_name
@@ -462,26 +468,26 @@ select
     *,
     list_filter(
         [
-            case when is_chheparo then 'Chheparo' end,
-            case when is_new_candidate then 'New Candidate' end,
-            case when is_party_loyal then 'Party Loyal' end,
-            case when is_top_rank then 'Top Rank (1-5)' end,
-            case when is_high_rank and not is_top_rank then 'High Rank (6-10)' end,
-            case when is_low_rank then 'Low Rank (50+)' end,
-            case when is_women then 'Women' end,
-            case when is_inclusive_group then 'Inclusive Group' end,
-            case when has_disability then 'Disability' end,
-            case when is_from_backward_area then 'Backward Area' end,
-            case when is_new_party then 'New Party' end,
-            case when is_fptp_veteran then 'FPTP Veteran' end,
-            case when is_proportional_veteran then 'Proportional Veteran' end,
-            case when is_opportunist then 'Opportunist' end,
-            case when is_from_improving_party then 'Improving Party' end,
-            case when is_from_declining_party then 'Declining Party' end,
-            case when is_varaute then 'Varaute' end,
-            case when is_gati_chhada then 'Gati Chhada' end,
-            case when is_budi_bokuwa then 'Budi Bokuwa' end,
-            case when is_budo_bokuwa then 'Budo Bokuwa' end
+            case when is_chheparo then 'छेपारो' end,
+            case when is_new_candidate then 'नयाँ अनुहार' end,
+            case when is_party_loyal then 'पार्टीप्रति वफादार' end,
+            case when is_top_rank then 'शीर्ष वरीयता (१-५)' end,
+            case when is_high_rank and not is_top_rank then 'उच्च वरीयता (६-१०)' end,
+            case when is_low_rank then 'तल्लो वरीयता (५०+)' end,
+            case when is_women then 'महिला' end,
+            case when is_inclusive_group then 'समावेशी समूह' end,
+            case when has_disability then 'अपाङ्गता' end,
+            case when is_from_backward_area then 'पिछडिएको क्षेत्र' end,
+            case when is_new_party then 'नयाँ पार्टी' end,
+            case when is_fptp_veteran then 'प्रत्यक्ष अनुभवी' end,
+            case when is_proportional_veteran then 'समानुपातिक अनुभवी' end,
+            case when is_opportunist then 'अवसरवादी' end,
+            case when is_from_improving_party then 'सुधारोन्मुख पार्टी' end,
+            case when is_from_declining_party then 'खस्कँदो पार्टी' end,
+            case when is_varaute then 'बहादुर' end, -- Assuming Varaute means brave or similar context in some cases, but often means switcher/opportunist. I'll use Varaute/बहादुर or just the phonetic. Actually Varaute means those who keep coming back without winning? I'll use 'बहादुर (दोहोरिने)'
+            case when is_gati_chhada then 'गति छाडा' end,
+            case when is_budi_bokuwa then 'बुढी बोकुवा' end,
+            case when is_budo_bokuwa then 'बुढो बोकुवा' end
         ],
         x -> x is not null
     ) as tags

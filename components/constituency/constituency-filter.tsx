@@ -97,7 +97,7 @@ export function ConstituencyFilter({ onSelect }: ConstituencyFilterProps) {
       <div className="rounded-xl border border-border bg-card p-6">
         <div className="flex items-center justify-center gap-3 py-8">
           <Loader2 className="h-5 w-5 animate-spin text-primary" />
-          <p className="text-muted-foreground">निर्वाचन क्षेत्र डेटा लोड हो रहेको छ...</p>
+          <p className="text-muted-foreground">निर्वाचन क्षेत्र डेटा लोड हुँदैछ...</p>
         </div>
       </div>
     )

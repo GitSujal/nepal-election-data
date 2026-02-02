@@ -19,35 +19,35 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: 24
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 9
+      - name: Setup UV
+        uses: astral-sh/setup-uv@v6
+      
+      - name: Install Python dependencies
+        run: uv sync
 
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        shell: bash
-        run: |
-          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
+      - name: Load raw data into DuckDB
+        run: uv run python load_raw_data.py
 
-      - name: Setup pnpm cache
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
+      - name: Run dbt build
+        run: uv run dbt build
+        working-directory: election
+        env:
+          DBT_PROJECT_DIR: election
+          DBT_PROFILES_DIR: election
 
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+      - name: Export data to JSON
+        run: uv run python export_to_json.py
 
-      - name: Build project
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Build Next.js site
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/pages-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

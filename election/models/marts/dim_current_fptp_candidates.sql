@@ -140,6 +140,20 @@ fptp_with_family_norms as (
     select
         {{ adapter.quote("CandidateID") }},
         {{ adapter.quote("PoliticalPartyName") }},
+        -- Candidate's own normalized name for reverse matching
+        replace(replace(replace(replace(replace(replace(replace(
+            regexp_replace(
+                regexp_replace(
+                    regexp_replace(
+                        replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
+                        '[\s\.\x{00a0}]+', '', 'g'
+                    ),
+                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
+                ),
+                '[(){}[\]०-९।]+', '', 'g'
+            ),
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
+        as candidate_name_normalized,
         -- Normalized spouse name
         replace(replace(replace(replace(replace(replace(replace(
             regexp_replace(
@@ -226,43 +240,27 @@ bokuwa_flags as (
     group by f.{{ adapter.quote("CandidateID") }}
 ),
 
--- Nepo flags: check if spouse or father is a known politician in same party (merger-aware)
+-- Nepo flags: check if any family member (spouse/parent/child) is involved in politics (past or current)
 nepo_flags as (
     select
-        f.{{ adapter.quote("CandidateID") }},
+        f1.{{ adapter.quote("CandidateID") }},
+        -- Case 1: Candidate has a known politician as spouse or parent
         exists (
             select 1 from known_politicians kp
-            left join parties pp on kp.party_name = pp.current_party_name
-            where kp.name_normalized = f.spouse_name_normalized
-              and f.spouse_name_normalized is not null
-              and f.spouse_name_normalized != ''
+            where (kp.name_normalized = f1.spouse_name_normalized or kp.name_normalized = f1.father_name_normalized)
               and (
-                  kp.party_name = f.{{ adapter.quote("PoliticalPartyName") }}
-                  or (pp.party_id is not null and list_contains(pp.previous_names, f.{{ adapter.quote("PoliticalPartyName") }}))
-                  or exists (
-                      select 1 from parties pp2
-                      where pp2.current_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
-                        and list_contains(pp2.previous_names, kp.party_name)
-                  )
+                  (f1.spouse_name_normalized is not null and f1.spouse_name_normalized != '')
+                  or (f1.father_name_normalized is not null and f1.father_name_normalized != '')
               )
-        ) as has_known_spouse,
+        ) as has_known_relative,
+        -- Case 2: Candidate's name is mentioned as spouse or father by another candidate
         exists (
-            select 1 from known_politicians kp
-            left join parties pp on kp.party_name = pp.current_party_name
-            where kp.name_normalized = f.father_name_normalized
-              and f.father_name_normalized is not null
-              and f.father_name_normalized != ''
-              and (
-                  kp.party_name = f.{{ adapter.quote("PoliticalPartyName") }}
-                  or (pp.party_id is not null and list_contains(pp.previous_names, f.{{ adapter.quote("PoliticalPartyName") }}))
-                  or exists (
-                      select 1 from parties pp2
-                      where pp2.current_party_name = f.{{ adapter.quote("PoliticalPartyName") }}
-                        and list_contains(pp2.previous_names, kp.party_name)
-                  )
-              )
-        ) as has_known_parent
-    from fptp_with_family_norms f
+            select 1 from fptp_with_family_norms f2
+            where (f2.spouse_name_normalized = f1.candidate_name_normalized or f2.father_name_normalized = f1.candidate_name_normalized)
+              and f1.candidate_name_normalized is not null
+              and f1.candidate_name_normalized != ''
+        ) as is_family_source
+    from fptp_with_family_norms f1
 ),
 
 joined as (
@@ -441,9 +439,9 @@ joined as (
             else false
         end as is_proportional_veteran,
 
-        -- Nepo: spouse or father is a known politician in same party
-        coalesce(nf.has_known_spouse, false) as has_known_spouse,
-        coalesce(nf.has_known_parent, false) as has_known_parent,
+        -- Nepo: involved in family politics
+        coalesce(nf.has_known_relative, false) as has_known_relative,
+        coalesce(nf.is_family_source, false) as is_family_source,
 
         -- Bokuwa: spouse is a PR candidate in same party
         coalesce(bk.is_budi_bokuwa, false) as is_budi_bokuwa,
@@ -563,13 +561,13 @@ with_tags as (
 
         -- Gen-z: age under 30
         case
-            when age < 30 then true
+            when age <= 30 then true
             else false
         end as is_gen_z,
 
         -- Grandpa: age over 60
         case
-            when age > 60 then true
+            when age >= 60 then true
             else false
         end as is_grandpa,
 
@@ -629,9 +627,9 @@ with_tags as (
             else false
         end as is_loyal,
 
-        -- Nepo: has a known politician as spouse or parent in same party
+        -- Nepo: involved in family politics
         case
-            when has_known_spouse or has_known_parent then true
+            when has_known_relative or is_family_source then true
             else false
         end as is_nepo,
 
@@ -677,24 +675,24 @@ select
     *,
     list_filter(
         [
-            case when is_tourist_candidate then 'Tourist' end,
-            case when is_chheparo then 'Chheparo' end,
-            case when is_vaguwa and is_vaguwa_prev_winner then 'Vaguwa (Won Prev)' end,
-            case when is_vaguwa and not is_vaguwa_prev_winner then 'Vaguwa' end,
-            case when is_new_candidate then 'New Candidate' end,
-            case when is_educated then 'Educated' end,
-            case when is_uneducated then 'Uneducated' end,
-            case when with_tags.is_new_party then 'New Party' end,
-            case when is_gen_z then 'Gen-z' end,
-            case when is_grandpa then 'Grandpa' end,
-            case when is_influential then 'Influential' end,
-            case when is_opportunist then 'Opportunist' end,
-            case when is_split_vote_candidate then 'Split Vote' end,
-            case when is_proportional_veteran then 'Proportional Veteran' end,
-            case when is_loyal then 'Loyal' end,
-            case when is_nepo then 'Nepo' end,
-            case when is_budi_bokuwa then 'Budi Bokuwa' end,
-            case when is_budo_bokuwa then 'Budo Bokuwa' end
+            case when is_tourist_candidate then 'पर्यटक' end,
+            case when is_chheparo then 'छेपारो' end,
+            case when is_vaguwa and is_vaguwa_prev_winner then 'भगुवा (विजेता)' end,
+            case when is_vaguwa and not is_vaguwa_prev_winner then 'भगुवा' end,
+            case when is_new_candidate then 'नयाँ अनुहार' end,
+            case when is_educated then 'शिक्षित' end,
+            case when is_uneducated then 'अशिक्षित' end,
+            case when with_tags.is_new_party then 'नयाँ पार्टी' end,
+            case when is_gen_z then 'जेन जी' end,
+            case when is_grandpa then 'हजुरबा' end,
+            case when is_influential then 'प्रभावशाली' end,
+            case when is_opportunist then 'अवसरवादी' end,
+            case when is_split_vote_candidate then 'भोट काट्ने' end,
+            case when is_proportional_veteran then 'समानुपातिक अनुभवी' end,
+            case when is_loyal then 'इमानदार' end,
+            case when is_nepo then 'नातावाद' end,
+            case when is_budi_bokuwa then 'बुढी बोकुवा' end,
+            case when is_budo_bokuwa then 'बुढो बोकुवा' end
         ],
         x -> x is not null
     ) as tags,
@@ -708,8 +706,14 @@ left join lateral (
     from dim_parties p
     where p.current_party_name = political_party_name
        or list_contains(p.previous_names, political_party_name)
+       or p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g')
+       or list_contains(p.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
     order by
-        -- Prefer exact current_party_name match over previous_names match
-        case when p.current_party_name = political_party_name then 0 else 1 end
+        -- Prefer exact current_party_name match over previous_names match, then robust match
+        case 
+            when p.current_party_name = political_party_name then 0 
+            when p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') then 1
+            else 2 
+        end
     limit 1
 ) dp on true

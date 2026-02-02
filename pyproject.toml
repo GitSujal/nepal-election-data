@@ -12,8 +12,7 @@ dependencies = [
     "pandas>=1.4.0,<3",
     "playwright>=1.57.0",
     "plotly>=6.5.2",
-    "pytest-playwright>=0.7.2",
-    "streamlit>=1.40.0",
+    "pytest-playwright>=0.7.2"
 ]
 
 [dependency-groups]

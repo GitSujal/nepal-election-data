@@ -25,47 +25,47 @@ export function CandidateDetails({ candidate }: CandidateDetailsProps) {
   const details = [
     {
       icon: GraduationCap,
-      label: "Education Level",
-      value: candidate.qualification_level || "N/A",
+      label: "शैक्षिक योग्यता",
+      value: candidate.qualification_level || "एन/ए",
       subValue: candidate.qualification,
     },
     {
       icon: Building,
-      label: "Institution",
-      value: candidate.institution_name || "N/A",
+      label: "संस्था",
+      value: candidate.institution_name || "एन/ए",
     },
     {
       icon: Briefcase,
-      label: "Experience",
-      value: candidate.experience || "Not specified",
+      label: "अनुभव",
+      value: candidate.experience || "खुलासा नगरिएको",
     },
     {
       icon: MapPin,
-      label: "Permanent Address",
+      label: "स्थायी ठेगाना",
       value: candidate.address,
     },
     {
       icon: Calendar,
-      label: "Age",
-      value: `${candidate.age} years`,
-      subValue: `Age Group: ${candidate.age_group}`,
+      label: "उमेर",
+      value: `${candidate.age} वर्ष`,
+      subValue: `उमेर समूह: ${candidate.age_group}`,
     },
     {
       icon: Users,
-      label: "Father's Name",
+      label: "बुवाको नाम",
       value: candidate.father_name,
     },
     {
       icon: Heart,
-      label: "Spouse Name",
-      value: candidate.spouse_name || "N/A",
+      label: "पति/पत्नीको नाम",
+      value: candidate.spouse_name || "एन/ए",
     },
   ]
 
   return (
     <div className="rounded-2xl border border-border bg-card p-6">
       <h2 className="mb-6 text-lg font-semibold uppercase tracking-wider text-muted-foreground">
-        Candidate Profile
+        उम्मेदवार प्रोफाइल
       </h2>
 
       <div className="space-y-5">
@@ -96,22 +96,22 @@ export function CandidateDetails({ candidate }: CandidateDetailsProps) {
       <div className="mt-8 grid grid-cols-3 gap-4 rounded-xl bg-secondary/50 p-4">
         <div className="text-center">
           <p className="text-2xl font-bold text-primary">{candidate.elections_contested}</p>
-          <p className="text-xs text-muted-foreground">Elections</p>
+          <p className="text-xs text-muted-foreground">चुनाव संख्या</p>
         </div>
         <div className="text-center">
           <p className="text-2xl font-bold text-winner">{wins}</p>
-          <p className="text-xs text-muted-foreground">Wins</p>
+          <p className="text-xs text-muted-foreground">विजय संख्या</p>
         </div>
         <div className="text-center">
           <p className="text-2xl font-bold text-accent">{candidate.tags.length}</p>
-          <p className="text-xs text-muted-foreground">Badges</p>
+          <p className="text-xs text-muted-foreground">विशेषताहरू</p>
         </div>
       </div>
 
       {/* Party History if available */}
       {candidate.party_previous_names && candidate.party_previous_names.length > 0 && (
         <div className="mt-6">
-          <p className="text-sm font-medium text-muted-foreground mb-2">Party Aliases</p>
+          <p className="text-sm font-medium text-muted-foreground mb-2">पार्टीका अन्य नामहरू</p>
           <div className="flex flex-wrap gap-2">
             {candidate.party_previous_names.slice(0, 3).map((name, idx) => (
               <span
@@ -123,7 +123,7 @@ export function CandidateDetails({ candidate }: CandidateDetailsProps) {
             ))}
             {candidate.party_previous_names.length > 3 && (
               <span className="rounded-md bg-secondary px-2 py-1 text-xs text-muted-foreground">
-                +{candidate.party_previous_names.length - 3} more
+                +{candidate.party_previous_names.length - 3} थप
               </span>
             )}
           </div>

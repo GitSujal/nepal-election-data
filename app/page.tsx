@@ -44,54 +44,15 @@ export default function CandidateProfilePage() {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Header */}
-      <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-sm">
-
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
-          <div className="flex items-center gap-2">
-            <Vote className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">VoterInfo</span>
-          </div>
-          <nav className="hidden items-center gap-6 md:flex">
-            <a
-              href="#"
-              className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-            >
-              Elections
-            </a>
-            <a
-              href="#"
-              className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-            >
-              Parties
-            </a>
-            <a href="#" className="text-sm font-medium text-primary">
-              Candidates
-            </a>
-            <a
-              href="#"
-              className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-            >
-              Results
-            </a>
-          </nav>
-          <button
-            type="button"
-            className="rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
-          >
-            Sign In
-          </button>
-        </div>
-      </header>
 
       <main className="mx-auto max-w-7xl px-4 py-6 md:py-8">
         {/* Page title */}
         <div className="mb-6">
           <div className="mb-2 flex items-center gap-2 text-sm text-muted-foreground">
-            <span>Home</span>
+            <span>गृहपृष्ठ</span>
             <ChevronRight className="h-4 w-4" />
             <span className={showDetail ? "cursor-pointer hover:text-foreground" : "text-foreground"} onClick={showDetail ? handleBackToResults : undefined}>
-              Candidates
+              उम्मेदवारहरू
             </span>
             {selectedCandidate && (
               <>
@@ -101,10 +62,10 @@ export default function CandidateProfilePage() {
             )}
           </div>
           <h1 className="text-3xl font-bold text-foreground text-balance md:text-4xl">
-            Candidate Profile
+            उम्मेदवार विवरण
           </h1>
           <p className="mt-2 text-muted-foreground">
-            Know your candidates better before you vote
+            आफ्नो मत हाल्नु अघि आफ्ना उम्मेदवारहरूलाई राम्रोसँग चिनौं
           </p>
         </div>
 
@@ -123,7 +84,7 @@ export default function CandidateProfilePage() {
             className="mt-6 flex items-center gap-2 rounded-lg border border-border px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
           >
             <ArrowLeft className="h-4 w-4" />
-            Back to candidates ({filteredCandidates.length})
+            पछाडि फर्कनुहोस् ({filteredCandidates.length})
           </button>
         )}
 
@@ -184,8 +145,7 @@ export default function CandidateProfilePage() {
             </div>
             <h3 className="mt-4 text-xl font-semibold text-foreground">No Candidate Selected</h3>
             <p className="mt-2 max-w-md text-center text-muted-foreground">
-              Use the filters above to find and select a candidate to view their detailed profile,
-              election history, and performance statistics.
+              उम्मेदवारको विस्तृत प्रोफाइल, चुनावी इतिहास र कार्यसम्पादन तथ्याङ्कहरू हेर्नको लागि माथिका फिल्टरहरू प्रयोग गरेर उम्मेदवार छनोट गर्नुहोस्।
             </p>
           </div>
         )}

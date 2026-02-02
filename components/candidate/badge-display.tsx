@@ -93,10 +93,15 @@ export function BadgeDisplay({ tags, size = "md" }: BadgeDisplayProps) {
               colorClasses[badge.color],
               sizeClasses[size]
             )}
-            title={badge.description}
+            title={badge.description_np || badge.description}
           >
             <Icon size={iconSizes[size]} />
-            <span>{badge.name}</span>
+            <div className="flex flex-col leading-tight">
+              <span>{badge.nameNepali || badge.name}</span>
+              {badge.nameNepali && (
+                <span className="text-[10px] opacity-70">{badge.name}</span>
+              )}
+            </div>
           </div>
         )
       })}
@@ -105,41 +110,83 @@ export function BadgeDisplay({ tags, size = "md" }: BadgeDisplayProps) {
 }
 
 export function BadgeShowcase({ tags }: { tags: string[] }) {
+  const [flippedIndex, setFlippedIndex] = React.useState<number | null>(null)
   const badges = tags.map((tag) => badgeDefinitions[tag]).filter(Boolean)
 
   if (badges.length === 0) {
     return (
       <div className="rounded-xl border border-dashed border-border bg-secondary/30 p-6 text-center">
-        <p className="text-muted-foreground">No badges earned yet</p>
+        <p className="text-muted-foreground">अहिलेसम्म कुनै विशेषता प्राप्त भएको छैन</p>
       </div>
     )
   }
 
   return (
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-      {badges.map((badge) => {
+      {badges.map((badge, index) => {
         const Icon = iconMap[badge.icon] || Star
+        const isFlipped = flippedIndex === index
+
         return (
           <div
             key={badge.id}
-            className={cn(
-              "group relative flex flex-col items-center gap-2 overflow-hidden rounded-xl border p-4 text-center transition-all hover:scale-[1.02]",
-              colorClasses[badge.color]
-            )}
+            className="group h-44 [perspective:1000px]"
+            onMouseEnter={() => setFlippedIndex(index)}
+            onMouseLeave={() => setFlippedIndex(null)}
+            onClick={() => setFlippedIndex(isFlipped ? null : index)}
           >
-            {/* Glow effect */}
             <div
               className={cn(
-                "absolute inset-0 bg-gradient-to-b opacity-50",
-                bgColorClasses[badge.color]
+                "relative h-full w-full transition-all duration-500 [transform-style:preserve-3d]",
+                isFlipped ? "[transform:rotateY(180deg)]" : ""
               )}
-            />
+            >
+              {/* Front Side */}
+              <div
+                className={cn(
+                  "absolute inset-0 flex flex-col items-center justify-center gap-2 rounded-xl border p-4 text-center [backface-visibility:hidden]",
+                  colorClasses[badge.color]
+                )}
+              >
+                {/* Glow effect */}
+                <div
+                  className={cn(
+                    "absolute inset-0 bg-gradient-to-b opacity-50",
+                    bgColorClasses[badge.color]
+                  )}
+                />
+                <div className="relative z-10 flex h-14 w-14 items-center justify-center rounded-full bg-background/80 shadow-lg">
+                  <Icon size={28} className="transition-transform group-hover:scale-110" />
+                </div>
+                <span className="relative z-10 text-sm font-bold">
+                  {badge.nameNepali || badge.name}
+                </span>
+                <span className="relative z-10 text-xs opacity-80">{badge.name}</span>
+              </div>
 
-            <div className="relative z-10 flex h-14 w-14 items-center justify-center rounded-full bg-background/80 shadow-lg">
-              <Icon size={28} className="transition-transform group-hover:scale-110" />
+              {/* Back Side (Description) */}
+              <div
+                className={cn(
+                  "absolute inset-0 flex flex-col items-center justify-center rounded-xl border p-4 text-center [backface-visibility:hidden] [transform:rotateY(180deg)]",
+                  colorClasses[badge.color]
+                )}
+              >
+                <div
+                  className={cn(
+                    "absolute inset-0 bg-gradient-to-b opacity-20",
+                    bgColorClasses[badge.color]
+                  )}
+                />
+                <p className="relative z-10 text-xs leading-relaxed font-medium">
+                  {badge.description_np || badge.description}
+                </p>
+                {badge.description_np && (
+                  <p className="relative z-10 mt-2 text-[10px] italic opacity-60">
+                    {badge.name}
+                  </p>
+                )}
+              </div>
             </div>
-            <span className="relative z-10 font-bold text-sm">{badge.name}</span>
-            <span className="relative z-10 text-xs opacity-80">{badge.nameNepali}</span>
           </div>
         )
       })}

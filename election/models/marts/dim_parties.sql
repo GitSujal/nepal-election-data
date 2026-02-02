@@ -49,9 +49,24 @@ new_proportional_parties as (
 ),
 
 all_parties as (
-    select * from parties_from_fptp
-    union all
-    select * from new_proportional_parties
+    select 
+        *,
+        regexp_replace(
+            lower(trim(replace(replace(replace(replace(replace(replace(current_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))),
+            '[ािीुूेैोौ्ंँ़]','','g'
+        ) as norm_name,
+        list_transform(
+            previous_names,
+            x -> regexp_replace(
+                lower(trim(replace(replace(replace(replace(replace(replace(x, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))),
+                '[ािीुूेैोौ्ंँ़]','','g'
+            )
+        ) as norm_previous_names
+    from (
+        select * from parties_from_fptp
+        union all
+        select * from new_proportional_parties
+    )
 ),
 
 -- Count 2079 parliament members per current party (merger-aware)
@@ -63,8 +78,8 @@ parliament_2079_counts as (
     inner join {{ ref('dim_parliament_members') }} pm
         on pm.was_member_2079 = true
         and (
-            pm.party_2079_np = ap.current_party_name
-            or list_contains(ap.previous_names, pm.party_2079_np)
+            regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pm.party_2079_np, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') = ap.norm_name
+            or list_contains(ap.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pm.party_2079_np, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
         )
     group by ap.current_party_name
 ),
@@ -76,8 +91,8 @@ party_prev_fptp_2079 as (
         count(*) as candidate_count
     from all_parties ap
     inner join {{ ref('stg_past_2079_fptp_election_result') }} pr
-        on pr.{{ adapter.quote("PoliticalPartyName") }} = ap.current_party_name
-        or list_contains(ap.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }})
+        on regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.PoliticalPartyName, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') = ap.norm_name
+        or list_contains(ap.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.PoliticalPartyName, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्_ंँ़]','','g'))
     group by ap.current_party_name
 ),
 
@@ -87,8 +102,8 @@ party_prev_fptp_2074 as (
         count(*) as candidate_count
     from all_parties ap
     inner join {{ ref('stg_past_2074_fptp_election_result') }} pr
-        on pr.{{ adapter.quote("PoliticalPartyName") }} = ap.current_party_name
-        or list_contains(ap.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }})
+        on regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.PoliticalPartyName, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') = ap.norm_name
+        or list_contains(ap.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.PoliticalPartyName, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
     group by ap.current_party_name
 ),
 
@@ -98,8 +113,8 @@ party_prev_pr_2079 as (
         count(*) as candidate_count
     from all_parties ap
     inner join {{ ref('stg_past_2079_proportional_election_result') }} pr
-        on pr.political_party_name = ap.current_party_name
-        or list_contains(ap.previous_names, pr.political_party_name)
+        on regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') = ap.norm_name
+        or list_contains(ap.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
     group by ap.current_party_name
 ),
 
@@ -109,8 +124,8 @@ party_prev_pr_2074 as (
         count(*) as candidate_count
     from all_parties ap
     inner join {{ ref('stg_past_2074_proportional_election_result') }} pr
-        on pr.{{ adapter.quote("PoliticalPartyName") }} = ap.current_party_name
-        or list_contains(ap.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }})
+        on regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.PoliticalPartyName, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') = ap.norm_name
+        or list_contains(ap.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(pr.PoliticalPartyName, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
     group by ap.current_party_name
 ),
 
@@ -161,7 +176,9 @@ party_display_order_calc as (
 select
     row_number() over (order by ap.current_party_name) as party_id,
     ap.current_party_name,
+    ap.norm_name,
     ap.previous_names,
+    ap.norm_previous_names,
     ph.is_new_party,
     ph.total_prev_candidates,
     ps.symbol_url,
@@ -173,14 +190,32 @@ select
 from all_parties ap
 inner join party_history ph
     on ph.current_party_name = ap.current_party_name
-left join party_symbols ps
-    on trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_np, '-', ' '))
-    or trim(replace(ap.current_party_name, '-', ' ')) = trim(replace(ps.party_name_en, '-', ' '))
-    -- also check if any of the previous names match the symbols (normalized)
-    or list_contains(
-        list_transform(ap.previous_names, x -> trim(replace(x, '-', ' '))),
-        trim(replace(ps.party_name_np, '-', ' '))
+left join (
+    -- Best effort symbol match
+    with party_variants as (
+        select 
+            ap.current_party_name,
+            unnest(list_append(ap.norm_previous_names, ap.norm_name)) as variant_norm
+        from all_parties ap
     )
+    select 
+        pv.current_party_name,
+        ps.symbol_url,
+        ps.symbol_alt,
+        ps.leader,
+        ps.founded_year,
+        ps.party_url,
+        row_number() over (partition by pv.current_party_name order by ps.party_name_np is not null desc) as rnk
+    from party_variants pv
+    inner join (
+        select 
+            *,
+            regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(party_name_np, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') as party_name_np_norm
+        from party_symbols
+    ) ps
+        on pv.variant_norm = ps.party_name_np_norm
+) ps
+    on ps.current_party_name = ap.current_party_name and ps.rnk = 1
 left join (
     select
         current_party_name,
@@ -188,4 +223,4 @@ left join (
     from party_display_order_calc
 ) pdo
     on pdo.current_party_name = ap.current_party_name
-qualify row_number() over (partition by ap.current_party_name order by ps.party_name_np is not null desc) = 1
+qualify row_number() over (partition by ap.current_party_name order by pdo.party_display_order) = 1

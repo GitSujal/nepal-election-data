@@ -237,6 +237,9 @@ joined as (
     ) pr74 on true
     left join parties p
         on cc.{{ adapter.quote("PoliticalPartyName") }} = p.current_party_name
+        or list_contains(p.previous_names, cc.{{ adapter.quote("PoliticalPartyName") }})
+        or p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(cc.{{ adapter.quote("PoliticalPartyName") }}, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g')
+        or list_contains(p.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(cc.{{ adapter.quote("PoliticalPartyName") }}, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
     left join runner_up_2079 ru
         on cc.{{ adapter.quote("State") }} = ru.{{ adapter.quote("State") }}
         and cc.{{ adapter.quote("DistrictCd") }} = ru.{{ adapter.quote("DistrictCd") }}

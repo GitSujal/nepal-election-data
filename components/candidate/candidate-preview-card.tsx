@@ -58,14 +58,16 @@ export function CandidatePreviewCard({ candidate, onClick }: CandidatePreviewCar
           </h3>
           <div className="mt-1 flex items-center gap-1.5">
             {symbolUrl && (
-              <Image
-                src={symbolUrl}
-                alt=""
-                width={16}
-                height={16}
-                className="h-4 w-4 shrink-0 object-contain"
-                unoptimized
-              />
+              <div className="flex h-5 w-5 items-center justify-center rounded-sm bg-white p-0.5 shadow-sm ring-1 ring-border/10">
+                <Image
+                  src={symbolUrl}
+                  alt=""
+                  width={16}
+                  height={16}
+                  className="h-full w-full object-contain"
+                  unoptimized
+                />
+              </div>
             )}
             <p className="truncate text-xs text-muted-foreground">
               {candidate.political_party_name}
@@ -79,15 +81,15 @@ export function CandidatePreviewCard({ candidate, onClick }: CandidatePreviewCar
 
       {/* Stats row */}
       <div className="flex items-center gap-4 border-t border-border/50 bg-secondary/30 px-4 py-2">
-        <div className="flex items-center gap-1 text-xs text-muted-foreground" title="Education">
+        <div className="flex items-center gap-1 text-xs text-muted-foreground" title="शिक्षा">
           <GraduationCap className="h-3.5 w-3.5" />
-          <span>{candidate.qualification_level || "N/A"}</span>
+          <span>{candidate.qualification_level || "एन/ए"}</span>
         </div>
-        <div className="flex items-center gap-1 text-xs text-muted-foreground" title="Elections contested">
+        <div className="flex items-center gap-1 text-xs text-muted-foreground" title="सहभागी चुनाव संख्या">
           <Vote className="h-3.5 w-3.5" />
           <span>{electionsContested}</span>
         </div>
-        <div className="flex items-center gap-1 text-xs text-muted-foreground" title="Past wins">
+        <div className="flex items-center gap-1 text-xs text-muted-foreground" title="विगतको विजय">
           <Trophy className="h-3.5 w-3.5" />
           <span>{wins}</span>
         </div>

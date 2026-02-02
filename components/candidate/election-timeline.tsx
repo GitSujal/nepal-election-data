@@ -9,7 +9,7 @@ interface ElectionTimelineProps {
 }
 
 interface TimelineEntry {
-  year: "2074" | "2079" | "2081"
+  year: "2074" | "2079" | "2082"
   type: "FPTP" | "Proportional" | null
   district: string | null
   constituency: number | null
@@ -56,9 +56,9 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
     })
   }
 
-  // 2081 current entry
+  // 2082 current entry
   entries.push({
-    year: "2081",
+    year: "2082",
     type: "FPTP",
     district: candidate.district_name,
     constituency: candidate.constituency_name,

@@ -22,12 +22,12 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
   // Determine candidate level/status based on election history
   const getLevel = () => {
     if (candidate.elections_contested >= 2 && candidate.prev_election_result === "Winner") {
-      return { label: "VETERAN", color: "bg-gold text-gold-foreground" }
+      return { label: "दिग्गज", color: "bg-gold text-gold-foreground" }
     }
     if (candidate.elections_contested >= 1) {
-      return { label: "EXPERIENCED", color: "bg-primary text-primary-foreground" }
+      return { label: "अनुभवी", color: "bg-primary text-primary-foreground" }
     }
-    return { label: "NEWCOMER", color: "bg-accent text-accent-foreground" }
+    return { label: "नयाँ", color: "bg-accent text-accent-foreground" }
   }
 
   const level = getLevel()
@@ -90,12 +90,12 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
             {/* Quick stats */}
             <div className="mt-3 flex flex-wrap items-center justify-center gap-4 md:justify-start">
               <div className="flex items-center gap-2 rounded-lg bg-secondary px-3 py-1.5">
-                <span className="text-sm text-muted-foreground">Age:</span>
+                <span className="text-sm text-muted-foreground">उमेर:</span>
                 <span className="font-semibold text-foreground">{candidate.age}</span>
               </div>
               <div className="flex items-center gap-2 rounded-lg bg-secondary px-3 py-1.5">
                 <Vote className="h-4 w-4 text-primary" />
-                <span className="text-sm text-muted-foreground">Elections:</span>
+                <span className="text-sm text-muted-foreground">चुनाव संख्या:</span>
                 <span className="font-semibold text-foreground">{candidate.elections_contested}</span>
               </div>
               {wins > 0 && (
@@ -108,7 +108,7 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
 
             {/* Party info */}
             <div className="mt-4 flex items-center justify-center gap-3 md:justify-start">
-              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-secondary">
+              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-white shadow-sm border border-border">
                 {partySymbolUrl && !symbolError ? (
                   <Image
                     src={partySymbolUrl}
@@ -151,7 +151,7 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
               <div className="mt-3 flex items-center justify-center md:justify-start">
                 <span className="flex items-center gap-2 rounded-full bg-accent/20 px-3 py-1 text-xs text-accent">
                   <MapPin className="h-3 w-3" />
-                  Citizenship from: {candidate.citizenship_district}
+                  नागरिकता जिल्ला: {candidate.citizenship_district}
                 </span>
               </div>
             )}
@@ -161,7 +161,7 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
         {/* Badges Section */}
         <div className="mt-8">
           <h2 className="mb-4 text-center text-sm font-semibold uppercase tracking-wider text-muted-foreground md:text-left">
-            Achievements & Badges
+            विशेषताहरू र ब्याजहरू
           </h2>
           <BadgeShowcase tags={candidate.tags} />
         </div>

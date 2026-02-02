@@ -6,8 +6,9 @@ import sys
 import os
 import duckdb
 
-SOURCE_DB = "/home/sujal/personal/nepal-election-data/election/election.db"
-OUTPUT_DIR = "/home/sujal/personal/nepal-election-data/public/data"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SOURCE_DB = os.path.join(SCRIPT_DIR, "election", "election.db")
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "public", "data")
 
 def export_table_to_json(db_path: str, table_name: str, output_file: str):
     """Export a DuckDB table to JSON file."""
@@ -42,6 +43,7 @@ def main():
         'dim_current_fptp_candidates',
         'dim_parties',
         'dim_constituency_profile',
+        'dim_parties_profile',
         'political_party_symbols',
     ]
 
