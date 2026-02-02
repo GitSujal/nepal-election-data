@@ -281,6 +281,32 @@ pr_2082_tags as (
         ) t1
         group by 1, 2
     ) group by 1
+),
+
+constituency_gadh as (
+    select
+        p.current_party_name,
+        count(*) as gadh_count,
+        list(c.constituency_name order by c.state_id, c.district_id, c.constituency_id) as gadh_constituencies
+    from parties p
+    inner join {{ ref('dim_constituency_profile') }} c
+        on c.is_gadh
+        and (c.gadh_party_name = p.current_party_name
+             or list_contains(p.previous_names, c.gadh_party_name))
+    group by p.current_party_name
+),
+
+constituency_pakad as (
+    select
+        p.current_party_name,
+        count(*) as pakad_count,
+        list(c.constituency_name order by c.state_id, c.district_id, c.constituency_id) as pakad_constituencies
+    from parties p
+    inner join {{ ref('dim_constituency_profile') }} c
+        on c.is_pakad
+        and (c.winning_party_2079 = p.current_party_name
+             or list_contains(p.previous_names, c.winning_party_2079))
+    group by p.current_party_name
 )
 
 -- Final joined for profile
@@ -346,7 +372,13 @@ select
             case when (cast(f82.new_candidates as double) / nullif(f82.total_candidates, 0)) > 0.6 then 'नयाँ अनुहार 🧒' end
         ],
         x -> x is not null
-    ) as party_tags
+    ) as party_tags,
+
+    -- Constituency strength
+    coalesce(cg.gadh_count, 0) as gadh_count,
+    cg.gadh_constituencies,
+    coalesce(cp.pakad_count, 0) as pakad_count,
+    cp.pakad_constituencies
 
 from parties p
 left join reps_summary rs on rs.current_party_name = p.current_party_name
@@ -367,4 +399,6 @@ left join pr_2082_dist p82d on p82d.best_party_name = p.current_party_name
 left join pr_2082_back p82b on p82b.best_party_name = p.current_party_name
 left join pr_2082_dis p82dis on p82dis.best_party_name = p.current_party_name
 left join pr_2082_tags p82t on p82t.best_party_name = p.current_party_name
+left join constituency_gadh cg on cg.current_party_name = p.current_party_name
+left join constituency_pakad cp on cp.current_party_name = p.current_party_name
 

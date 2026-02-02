@@ -358,28 +358,59 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
         </div>
       )}
 
-      {/* Selected badge chips */}
+      {/* Selected badge showcase cards */}
       {selectedBadges.length > 0 && (
-        <div className="mt-3 flex flex-wrap gap-2">
+        <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
           {selectedBadges.map(badge => {
             const def = badgeDefinitions[badge]
             const Icon = def ? iconMap[def.icon] : null
+            const color = def?.color ?? "primary"
+            const colorMap: Record<string, string> = {
+              gold: "bg-gold/20 text-gold border-gold/40",
+              silver: "bg-silver/20 text-silver border-silver/40",
+              bronze: "bg-bronze/20 text-bronze border-bronze/40",
+              primary: "bg-primary/20 text-primary border-primary/40",
+              accent: "bg-accent/20 text-accent border-accent/40",
+              warning: "bg-warning/20 text-warning border-warning/40",
+              destructive: "bg-destructive/20 text-destructive border-destructive/40",
+            }
+            const bgMap: Record<string, string> = {
+              gold: "from-gold/30 to-gold/5",
+              silver: "from-silver/30 to-silver/5",
+              bronze: "from-bronze/30 to-bronze/5",
+              primary: "from-primary/30 to-primary/5",
+              accent: "from-accent/30 to-accent/5",
+              warning: "from-warning/30 to-warning/5",
+              destructive: "from-destructive/30 to-destructive/5",
+            }
+            const count = filteredCandidates.length
             return (
               <button
                 key={badge}
                 type="button"
                 onClick={() => toggleBadge(badge)}
                 title={def?.description_np || def?.description}
-                className="flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-xs font-medium text-primary transition-colors hover:bg-primary/20"
+                className={`relative flex flex-col items-center justify-center gap-1.5 rounded-xl border p-3 text-center transition-all hover:scale-[1.02] ${colorMap[color]}`}
               >
-                {Icon && <Icon className="h-3 w-3" />}
-                <div className="flex flex-col items-start leading-none">
-                  <span>{def?.nameNepali ?? def?.name ?? badge}</span>
-                  {def?.nameNepali && (
-                    <span className="text-[9px] opacity-70">{def.name}</span>
-                  )}
+                {/* Glow background */}
+                <div className={`absolute inset-0 rounded-xl bg-gradient-to-b opacity-50 ${bgMap[color]}`} />
+                {/* Close button */}
+                <X className="absolute right-1.5 top-1.5 z-10 h-3.5 w-3.5 opacity-60 hover:opacity-100" />
+                {/* Icon */}
+                <div className="relative z-10 flex h-10 w-10 items-center justify-center rounded-full bg-background/80 shadow-md">
+                  {Icon && <Icon size={20} />}
                 </div>
-                <X className="h-3 w-3 ml-0.5" />
+                {/* Name */}
+                <span className="relative z-10 text-xs font-bold leading-tight">
+                  {def?.nameNepali ?? def?.name ?? badge}
+                </span>
+                {def?.nameNepali && (
+                  <span className="relative z-10 text-[10px] opacity-70">{def.name}</span>
+                )}
+                {/* Count */}
+                <span className="relative z-10 mt-0.5 rounded-full bg-background/80 px-2 py-0.5 text-[10px] font-semibold shadow-sm">
+                  {count} उम्मेदवार
+                </span>
               </button>
             )
           })}

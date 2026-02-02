@@ -1,11 +1,12 @@
 "use client"
 
 import { PartyProfileData } from "./party-filter"
-import { Building2, TrendingUp, TrendingDown, Minus } from "lucide-react"
+import { Building2, TrendingUp, TrendingDown, Minus, Shield, Target } from "lucide-react"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
 import Image from "next/image"
 import { Badge } from "@/components/ui/badge"
 import { cn } from "@/lib/utils"
+import { useState } from "react"
 
 interface PartyHeaderProps {
   party: PartyProfileData
@@ -14,10 +15,13 @@ interface PartyHeaderProps {
 export function PartyHeader({ party }: PartyHeaderProps) {
   const { getSymbolUrl } = usePartySymbols()
   const symbolUrl = party.symbol_url || getSymbolUrl(party.party_name)
+  const [expandedCard, setExpandedCard] = useState<string | null>(null)
 
   const reps2079 = (party.history_json?.["2079"]?.total_reps) || 0
   const reps2074 = (party.history_json?.["2074"]?.total_reps) || 0
   const trend = reps2079 - reps2074
+  const gadhCount = party.gadh_count || 0
+  const pakadCount = party.pakad_count || 0
 
   return (
     <div className="relative overflow-hidden rounded-2xl border border-border bg-card">
@@ -102,6 +106,56 @@ export function PartyHeader({ party }: PartyHeaderProps) {
             </div>
           </div>
         </div>
+
+        {/* Gadh / Pakad Cards */}
+        {(gadhCount > 0 || pakadCount > 0) && (
+          <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            {gadhCount > 0 && (
+              <div>
+                <button
+                  onClick={() => setExpandedCard(expandedCard === 'gadh' ? null : 'gadh')}
+                  className="w-full flex items-center gap-3 rounded-xl bg-emerald-500/10 border border-emerald-500/20 px-5 py-4 text-left transition-colors hover:bg-emerald-500/15"
+                >
+                  <Shield className="h-6 w-6 text-emerald-600 shrink-0" />
+                  <div>
+                    <span className="text-sm font-semibold uppercase tracking-wider text-muted-foreground">गढ</span>
+                    <span className="ml-2 text-2xl font-black text-emerald-600">{gadhCount}</span>
+                  </div>
+                  <span className="ml-auto text-xs text-muted-foreground">{expandedCard === 'gadh' ? '▲' : '▼'}</span>
+                </button>
+                {expandedCard === 'gadh' && party.gadh_constituencies && (
+                  <div className="mt-2 flex flex-wrap gap-1.5 rounded-lg border border-emerald-500/10 bg-emerald-500/5 p-3">
+                    {party.gadh_constituencies.map((c: string) => (
+                      <Badge key={c} variant="secondary" className="text-xs">{c}</Badge>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
+            {pakadCount > 0 && (
+              <div>
+                <button
+                  onClick={() => setExpandedCard(expandedCard === 'pakad' ? null : 'pakad')}
+                  className="w-full flex items-center gap-3 rounded-xl bg-amber-500/10 border border-amber-500/20 px-5 py-4 text-left transition-colors hover:bg-amber-500/15"
+                >
+                  <Target className="h-6 w-6 text-amber-600 shrink-0" />
+                  <div>
+                    <span className="text-sm font-semibold uppercase tracking-wider text-muted-foreground">पकड</span>
+                    <span className="ml-2 text-2xl font-black text-amber-600">{pakadCount}</span>
+                  </div>
+                  <span className="ml-auto text-xs text-muted-foreground">{expandedCard === 'pakad' ? '▲' : '▼'}</span>
+                </button>
+                {expandedCard === 'pakad' && party.pakad_constituencies && (
+                  <div className="mt-2 flex flex-wrap gap-1.5 rounded-lg border border-amber-500/10 bg-amber-500/5 p-3">
+                    {party.pakad_constituencies.map((c: string) => (
+                      <Badge key={c} variant="secondary" className="text-xs">{c}</Badge>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        )}
       </div>
     </div>
   )

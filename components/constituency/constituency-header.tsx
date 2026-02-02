@@ -1,7 +1,7 @@
 "use client"
 
-import { type Constituency } from "@/lib/constituency-data"
-import { MapPin, Building2, Flag, Trophy, Shield } from "lucide-react"
+import { type Constituency, parseResults } from "@/lib/constituency-data"
+import { MapPin, Building2, Flag, Trophy, Shield, Target } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface ConstituencyHeaderProps {
@@ -10,6 +10,14 @@ interface ConstituencyHeaderProps {
 
 export function ConstituencyHeader({ constituency }: ConstituencyHeaderProps) {
   const sameWinner = constituency.winning_party_2079 === constituency.winning_party_2074
+
+  // Extract labels from tags if they exist
+  const tags = Array.isArray(constituency.tags) 
+    ? constituency.tags 
+    : (typeof constituency.tags === 'string' ? parseResults<string>(constituency.tags) : [])
+    
+  const pakadTag = tags.find((t: string) => t.startsWith("Pakad: "))
+  const pakadPartyName = pakadTag ? pakadTag.replace("Pakad: ", "").trim() : null
 
   return (
     <div className="relative overflow-hidden rounded-2xl border border-border bg-card">
@@ -46,18 +54,32 @@ export function ConstituencyHeader({ constituency }: ConstituencyHeaderProps) {
             </div>
           </div>
 
-          {/* Gadh Badge (Stronghold) */}
-          {constituency.is_gadh && constituency.gadh_party_name && (
-            <div className="flex flex-col items-center rounded-xl border border-gold/30 bg-gold/10 p-4">
-              <Shield className="mb-2 h-8 w-8 text-gold" />
-              <span className="text-xs font-semibold uppercase tracking-wider text-gold">
-                गढ
-              </span>
-              <span className="mt-1 max-w-[150px] text-center text-sm font-medium text-foreground">
-                {constituency.gadh_party_name}
-              </span>
-            </div>
-          )}
+          {/* Status Badges (Gadh / Pakad) */}
+          <div className="flex flex-wrap gap-3">
+            {constituency.is_gadh && constituency.gadh_party_name && (
+              <div className="flex flex-col items-center rounded-xl border border-emerald-500/30 bg-emerald-500/10 p-4">
+                <Shield className="mb-2 h-7 w-7 text-emerald-600" />
+                <span className="text-xs font-bold uppercase tracking-wider text-emerald-600">
+                  गढ
+                </span>
+                <span className="mt-1 max-w-[120px] text-center text-[10px] font-bold leading-tight text-foreground">
+                  {constituency.gadh_party_name}
+                </span>
+              </div>
+            )}
+
+            {constituency.is_pakad && pakadPartyName && (
+              <div className="flex flex-col items-center rounded-xl border border-amber-500/30 bg-amber-500/10 p-4">
+                <Target className="mb-2 h-7 w-7 text-amber-600" />
+                <span className="text-xs font-bold uppercase tracking-wider text-amber-600">
+                  पकड
+                </span>
+                <span className="mt-1 max-w-[120px] text-center text-[10px] font-bold leading-tight text-foreground">
+                  {pakadPartyName}
+                </span>
+              </div>
+            )}
+          </div>
         </div>
 
         {/* Winner Comparison */}

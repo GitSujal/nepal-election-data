@@ -75,6 +75,7 @@ fptp_2074_raw as (
     select
         {{ adapter.quote("State") }} as state_id,
         {{ adapter.quote("DistrictName") }} as district_name,
+        d.district_id,
         {{ adapter.quote("SCConstID") }} as constituency_id,
         {{ adapter.quote("CandidateName") }} as candidate_name,
         {{ adapter.quote("PoliticalPartyName") }} as party_name,
@@ -82,13 +83,15 @@ fptp_2074_raw as (
         {{ adapter.quote("TotalVoteReceived") }} as vote_count,
         {{ adapter.quote("Remarks") }} as remarks
     from {{ ref('stg_past_2074_fptp_election_result') }}
+    left join districts d
+        on {{ adapter.quote("DistrictName") }} = d.district_name
 ),
 
 fptp_2074 as (
     select
         *,
         row_number() over (
-            partition by state_id, constituency_id 
+            partition by state_id, district_id, constituency_id
             order by vote_count desc
         ) as rank
     from fptp_2074_raw
@@ -145,6 +148,7 @@ fptp_2079_json as (
 fptp_2074_json as (
     select
         state_id,
+        district_id,
         constituency_id,
         list({
             'candidate_name': candidate_name,
@@ -155,7 +159,7 @@ fptp_2074_json as (
             'remarks': remarks
         } order by rank) as fptp_2074_results
     from fptp_2074
-    group by state_id, constituency_id
+    group by state_id, district_id, constituency_id
 ),
 
 -- Aggregate Proportional 2079 results as JSON per constituency
@@ -190,13 +194,14 @@ fptp_2079_stats as (
 fptp_2074_stats as (
     select
         state_id,
+        district_id,
         constituency_id,
         max(case when rank = 1 then party_name end) as winning_party_2074,
         max(case when rank = 1 then vote_count end) as winner_votes_2074,
         max(case when rank = 2 then vote_count end) as second_votes_2074,
         sum(vote_count) as total_votes_2074
     from fptp_2074
-    group by state_id, constituency_id
+    group by state_id, district_id, constituency_id
 ),
 
 -- Join all data together
@@ -269,10 +274,10 @@ joined as (
             else false
         end as is_swing_state,
 
-        -- Pakad: Margin > 15% in both elections
+        -- Pakad: Margin > 15% in either election (same winning party as 2079)
         case
             when (cast(s79.winner_votes_2079 - coalesce(s79.second_votes_2079, 0) as double) / nullif(s79.total_votes_2079, 0)) > 0.15
-                and (cast(s74.winner_votes_2074 - coalesce(s74.second_votes_2074, 0) as double) / nullif(s74.total_votes_2074, 0)) > 0.15
+                or (cast(s74.winner_votes_2074 - coalesce(s74.second_votes_2074, 0) as double) / nullif(s74.total_votes_2074, 0)) > 0.15
                 then true
             else false
         end as is_pakad,
@@ -287,6 +292,7 @@ joined as (
     left join fptp_2074_json f74
         on uc.constituency_id = f74.constituency_id
         and uc.state_id = f74.state_id
+        and uc.district_id = f74.district_id
     left join proportional_2079_json p79
         on uc.constituency_id = p79.constituency_id
         and uc.district_id = p79.district_id
@@ -298,6 +304,7 @@ joined as (
     left join fptp_2074_stats s74
         on uc.constituency_id = s74.constituency_id
         and uc.state_id = s74.state_id
+        and uc.district_id = s74.district_id
     left join parties p
         on s79.winning_party_2079 = p.current_party_name
         or list_contains(p.previous_names, s79.winning_party_2079)

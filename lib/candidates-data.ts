@@ -220,10 +220,10 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "banknote",
     color: "warning"
   },
-  "भोट काट्ने": {
+  "भोट कटुवा": {
     id: "split-vote",
     name: "Split Vote",
-    nameNepali: "भोट काट्ने",
+    nameNepali: "भोट कटुवा",
     description: "Got less than 3% votes in last election",
     description_np: "भोट काट्नका लागि मात्र उठ्ने तर नजित्ने",
     icon: "scissors",

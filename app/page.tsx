@@ -43,8 +43,7 @@ export default function CandidateProfilePage() {
   const showPreview = !showDetail && filteredCandidates.length > 1
 
   return (
-    <div className="min-h-screen bg-background">
-
+    <>
       <main className="mx-auto max-w-7xl px-4 py-6 md:py-8">
         {/* Page title */}
         <div className="mb-6">
@@ -150,21 +149,6 @@ export default function CandidateProfilePage() {
           </div>
         )}
       </main>
-
-      {/* Footer */}
-      <footer className="mt-16 border-t border-border bg-card">
-        <div className="mx-auto max-w-7xl px-4 py-8">
-          <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
-            <div className="flex items-center gap-2">
-              <Vote className="h-6 w-6 text-primary" />
-              <span className="font-semibold text-foreground">VoterInfo Nepal</span>
-            </div>
-            <p className="text-sm text-muted-foreground">
-              Empowering voters with transparent candidate information
-            </p>
-          </div>
-        </div>
-      </footer>
-    </div>
+    </>
   )
 }

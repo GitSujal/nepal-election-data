@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { GitCompareArrows, Building2, TrendingUp, TrendingDown, Minus } from "lucide-react"
+import { GitCompareArrows, Building2, TrendingUp, TrendingDown, Minus, Shield, Target } from "lucide-react"
 import { PartyFilter, PartyProfileData } from "@/components/party/party-filter"
 import { StatCard, StatItem } from "@/components/party/stat-card"
 import { Badge } from "@/components/ui/badge"
@@ -75,12 +75,26 @@ export default function PartyComparisonPage() {
                 label1={party1.party_name}
                 label2={party2.party_name}
               />
-              <SeatComparisonCard 
-                title="२०७४ निर्वाचन सिट" 
+              <SeatComparisonCard
+                title="२०७४ निर्वाचन सिट"
                 p1={party1.history_json?.["2074"]?.total_reps || 0}
                 p2={party2.history_json?.["2074"]?.total_reps || 0}
                 label1={party1.party_name}
                 label2={party2.party_name}
+              />
+            </div>
+            <div className="grid gap-6 md:grid-cols-2">
+              <MetricComparisonCard
+                title="गढ (Gadh)"
+                v1={party1.gadh_count || 0}
+                v2={party2.gadh_count || 0}
+                icon={<Shield className="h-5 w-5 text-emerald-600" />}
+              />
+              <MetricComparisonCard
+                title="पकड (Pakad)"
+                v1={party1.pakad_count || 0}
+                v2={party2.pakad_count || 0}
+                icon={<Target className="h-5 w-5 text-amber-600" />}
               />
             </div>
           </section>
@@ -223,7 +237,7 @@ function SeatComparisonCard({ title, p1, p2, label1, label2 }: { title: string, 
   )
 }
 
-function MetricComparisonCard({ title, v1, v2, suffix = "", type = "higher-is-better", showPlus = false }: { title: string, v1: number, v2: number, suffix?: string, type?: "higher-is-better" | "lower-is-better", showPlus?: boolean }) {
+function MetricComparisonCard({ title, v1, v2, suffix = "", type = "higher-is-better", showPlus = false, icon }: { title: string, v1: number, v2: number, suffix?: string, type?: "higher-is-better" | "lower-is-better", showPlus?: boolean, icon?: React.ReactNode }) {
     const isV1Better = type === "higher-is-better" ? v1 > v2 : v1 < v2
     const isV2Better = type === "higher-is-better" ? v2 > v1 : v2 < v1
 
@@ -234,7 +248,7 @@ function MetricComparisonCard({ title, v1, v2, suffix = "", type = "higher-is-be
 
     return (
         <div className="rounded-3xl border border-border bg-card p-8 shadow-sm">
-            <h3 className="mb-6 text-base font-black uppercase tracking-widest text-muted-foreground/80">{title}</h3>
+            <h3 className="mb-6 text-base font-black uppercase tracking-widest text-muted-foreground/80 flex items-center gap-2">{icon}{title}</h3>
             <div className="flex items-center justify-between gap-6">
                 <div className={cn(
                     "flex flex-1 flex-col items-center justify-center rounded-2xl p-6 transition-all duration-500",

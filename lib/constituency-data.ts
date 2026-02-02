@@ -29,7 +29,9 @@ export interface Constituency {
   winning_party_2074: string
   is_gadh: boolean
   gadh_party_name: string | null
-  tags: string // JSON string array
+  is_pakad: boolean
+  pakad_party_name?: string | null
+  tags: string | string[] // JSON string array or parsed array
 }
 
 // Helper to parse the Python-style string to JSON

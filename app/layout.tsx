@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import { NavHeader } from '@/components/nav-header'
+import { Footer } from '@/components/footer'
 import './globals.css'
 
 const _geist = Geist({ subsets: ["latin"] });
@@ -40,9 +41,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`font-sans antialiased`}>
+      <body className={`font-sans antialiased min-h-screen flex flex-col`} suppressHydrationWarning>
         <NavHeader />
-        {children}
+        <main className="flex-1">
+          {children}
+        </main>
+        <Footer />
         <Analytics />
       </body>
     </html>

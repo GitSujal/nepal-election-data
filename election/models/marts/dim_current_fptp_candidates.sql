@@ -727,7 +727,7 @@ select
             case when is_grandpa then 'हजुरबा' end,
             case when is_influential then 'प्रभावशाली' end,
             case when is_opportunist then 'अवसरवादी' end,
-            case when is_split_vote_candidate then 'भोट काट्ने' end,
+            case when is_split_vote_candidate then 'भोट कटुवा' end,
             case when is_proportional_veteran then 'समानुपातिक अनुभवी' end,
             case when is_loyal then 'इमानदार' end,
             case when is_nepo then 'नातावाद' end,

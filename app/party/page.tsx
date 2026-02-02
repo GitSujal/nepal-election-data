@@ -11,7 +11,7 @@ export default function PartyProfilePage() {
   const [selectedParty, setSelectedParty] = useState<PartyProfileData | null>(null)
 
   return (
-    <main className="min-h-screen bg-background">
+    <main>
       {/* Header */}
       <div className="border-b border-border bg-card/50">
         <div className="container mx-auto px-4 py-8">
