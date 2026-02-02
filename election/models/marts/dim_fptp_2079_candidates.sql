@@ -198,8 +198,8 @@ joined as (
 
         -- Is new party: party has no previous names (formed after 2074 election)
         case
-            when p.party_id is not null and len(p.previous_names) = 0 then true
-            else false
+            when p.party_id is not null then p.is_new_party
+            else true  -- If party not found in dim_parties, consider it new
         end as is_new_party,
 
         -- Parliament member details for 2074
@@ -226,7 +226,7 @@ joined as (
     left join districts d
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
     left join previous_2074 pr74
-        on cc.{{ adapter.quote("CandidateName") }} = pr74.{{ adapter.quote("CandidateName") }}
+        on cc.candidate_name_normalized = pr74.candidate_name_normalized
     left join parties p
         on cc.{{ adapter.quote("PoliticalPartyName") }} = p.current_party_name
     left join runner_up_2079 ru
@@ -237,7 +237,7 @@ joined as (
         on pr74.{{ adapter.quote("State") }} = ru74.{{ adapter.quote("State") }}
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
-        on cc.{{ adapter.quote("CandidateName") }} = pm.name_np
+        on cc.candidate_name_normalized = pm.name_normalized
 ),
 
 with_tags as (

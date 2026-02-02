@@ -31,38 +31,14 @@ proportional_mapping as (
 
 fptp_2079_losers as (
     select distinct
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[()०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
-        as candidate_name_normalized
+        candidate_name_normalized
     from {{ ref('stg_past_2079_fptp_election_result') }}
     where ({{ adapter.quote("Remarks") }} != 'Elected' or {{ adapter.quote("Remarks") }} is null)
 ),
 
 fptp_2074_losers as (
     select distinct
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[()०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
-        as candidate_name_normalized
+        candidate_name_normalized
     from {{ ref('stg_past_2074_fptp_election_result') }}
     where ({{ adapter.quote("Remarks") }} != 'Elected' or {{ adapter.quote("Remarks") }} is null)
 ),
@@ -99,19 +75,7 @@ prev_2074_party_summary as (
 current_normalized as (
     select
         cc.*,
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        replace(replace(full_name, chr(8205), ''), chr(8204), ''),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[()०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
-        as candidate_name_normalized
+        cc.candidate_name_normalized
     from current cc
 ),
 
@@ -170,8 +134,8 @@ joined as (
         -- Is new party: party has no previous names (formed after last election)
         case
             when coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id) is not null 
-                and len(coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names)) = 0 then true
-            else false
+                then coalesce(p_direct.is_new_party, p_mapped.is_new_party, p_assoc.is_new_party)
+            else true  -- If party not found in dim_parties, consider it new
         end as is_new_party,
 
         -- Parliament member details for 2074
@@ -247,7 +211,7 @@ joined as (
         on cc.political_party_name = pr74.political_party_name
     -- Join parliament members
     left join parliament_members pm
-        on cc.full_name = pm.name_np
+        on cc.candidate_name_normalized = pm.name_normalized
     -- Join new stats and losers
     left join pr_stats ps
         on cc.candidate_name_normalized = ps.name_normalized

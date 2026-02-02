@@ -45,7 +45,7 @@ renamed as (
         -- Normalized name for cross-term and cross-dataset matching
         -- Strips spaces, dots, parens, ZWJ/ZWNJ, titles (डा, डा०, कु, श्री)
         -- Normalizes long→short vowels (ी→ि, ू→ु), anusvara (ँ→ं), conjuncts (ङ्ग→ङ)
-        -- Also normalizes व↔ब (common Nepali spelling variation)
+        -- Also normalizes व↔ब, ण→न (common Nepali spelling variations)
         replace(replace(replace(replace(replace(replace(replace(
             regexp_replace(
                 regexp_replace(
@@ -57,7 +57,7 @@ renamed as (
                 ),
                 '[()०-९।]+', '', 'g'
             ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण्ड', 'ंड')
+        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
         as name_normalized
     from source
 )

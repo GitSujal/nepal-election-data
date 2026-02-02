@@ -253,8 +253,8 @@ joined as (
 
         -- Is new party: party has no previous names (formed after last election)
         case
-            when p.party_id is not null and len(p.previous_names) = 0 then true
-            else false
+            when p.party_id is not null then p.is_new_party
+            else true  -- If party not found in dim_parties, consider it new
         end as is_new_party,
 
         -- Parliament member details for 2074
@@ -281,9 +281,9 @@ joined as (
     left join districts d
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
     left join previous_2079_with_qual pr
-        on cc.{{ adapter.quote("CandidateName") }} = pr.{{ adapter.quote("CandidateName") }}
+        on cc.candidate_name_normalized = pr.candidate_name_normalized
     left join previous_2074 pr74
-        on cc.{{ adapter.quote("CandidateName") }} = pr74.{{ adapter.quote("CandidateName") }}
+        on cc.candidate_name_normalized = pr74.candidate_name_normalized
     left join parties p
         on cc.{{ adapter.quote("PoliticalPartyName") }} = p.current_party_name
     left join prev_runner_up_2079 ru
@@ -294,7 +294,7 @@ joined as (
         on pr74.{{ adapter.quote("State") }} = ru74.{{ adapter.quote("State") }}
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
-        on cc.{{ adapter.quote("CandidateName") }} = pm.name_np
+        on cc.candidate_name_normalized = pm.name_normalized
 ),
 
 with_tags as (
@@ -486,7 +486,7 @@ select
             case when is_new_candidate then 'New Candidate' end,
             case when is_educated then 'Educated' end,
             case when is_uneducated then 'Uneducated' end,
-            case when is_new_party then 'New Party' end,
+            case when with_tags.is_new_party then 'New Party' end,
             case when is_gen_z then 'Gen-z' end,
             case when is_grandpa then 'Grandpa' end,
             case when is_influential then 'Influential' end,
