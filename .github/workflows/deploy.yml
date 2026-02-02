@@ -27,9 +27,6 @@ jobs:
       - name: Install Python dependencies
         run: uv sync
 
-      - name: Load raw data into DuckDB
-        run: uv run python load_raw_data.py
-
       - name: Run dbt build
         run: uv run dbt build
         working-directory: election
