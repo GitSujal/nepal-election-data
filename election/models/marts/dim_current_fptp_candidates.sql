@@ -404,35 +404,13 @@ joined as (
         p.previous_names as party_previous_names,
 
         -- Check if current party is a merger/rename of previous 2079 party
-        case
-            when pr.{{ adapter.quote("PoliticalPartyName") }} is null then null
-            when cc.{{ adapter.quote("PoliticalPartyName") }} = pr.{{ adapter.quote("PoliticalPartyName") }} then true
-            when p.party_id is not null
-                and list_contains(p.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }}) then true
-            else false
-        end as is_same_party_after_merger_check,
+        {{ is_same_party('cc.' ~ adapter.quote("PoliticalPartyName"), 'pr.' ~ adapter.quote("PoliticalPartyName")) }} as is_same_party_after_merger_check,
 
         -- Check if current party is same as 2074 party (after merger check)
-        case
-            when pr74.{{ adapter.quote("PoliticalPartyName") }} is null then null
-            when cc.{{ adapter.quote("PoliticalPartyName") }} = pr74.{{ adapter.quote("PoliticalPartyName") }} then true
-            when p.party_id is not null
-                and list_contains(p.previous_names, pr74.{{ adapter.quote("PoliticalPartyName") }}) then true
-            else false
-        end as is_same_party_2074_after_merger_check,
+        {{ is_same_party('cc.' ~ adapter.quote("PoliticalPartyName"), 'pr74.' ~ adapter.quote("PoliticalPartyName")) }} as is_same_party_2074_after_merger_check,
 
         -- Check if 2079 party is same as 2074 party (for loyal check)
-        case
-            when pr.{{ adapter.quote("PoliticalPartyName") }} is null or pr74.{{ adapter.quote("PoliticalPartyName") }} is null then null
-            when pr.{{ adapter.quote("PoliticalPartyName") }} = pr74.{{ adapter.quote("PoliticalPartyName") }} then true
-            when p.party_id is not null
-                and list_contains(p.previous_names, pr74.{{ adapter.quote("PoliticalPartyName") }})
-                and list_contains(p.previous_names, pr.{{ adapter.quote("PoliticalPartyName") }}) then true
-            when p.party_id is not null
-                and cc.{{ adapter.quote("PoliticalPartyName") }} = pr.{{ adapter.quote("PoliticalPartyName") }}
-                and list_contains(p.previous_names, pr74.{{ adapter.quote("PoliticalPartyName") }}) then true
-            else false
-        end as is_same_party_2074_2079,
+        {{ is_same_party('pr.' ~ adapter.quote("PoliticalPartyName"), 'pr74.' ~ adapter.quote("PoliticalPartyName")) }} as is_same_party_2074_2079,
 
         -- Tourist candidate: citizenship district differs from candidacy district
         case
