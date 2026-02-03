@@ -7,7 +7,8 @@
     3. Remove spaces, dots, non-breaking spaces
     4. Remove title prefixes (डा, डा०, कु, श्री)
     5. Remove Nepali numerals and danda
-    6. Normalize Devanagari vowels and common spelling variations
+    6. Remove specific aliases (प्रचण्ड)
+    7. Normalize Devanagari vowels and common spelling variations
 
     Usage:
         {{ sanitize_candidate_name('column_name') }}
@@ -15,7 +16,7 @@
 #}
 
 {% macro sanitize_candidate_name(column_expr) %}
-replace(replace(replace(replace(replace(replace(replace(
+replace(replace(replace(replace(replace(replace(replace(replace(
     regexp_replace(
         regexp_replace(
             regexp_replace(
@@ -29,5 +30,5 @@ replace(replace(replace(replace(replace(replace(replace(
         ),
         '[०-९।]+', '', 'g'
     ),
-'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
+'प्रचण्ड', ''), 'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
 {% endmacro %}
