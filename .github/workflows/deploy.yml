@@ -27,6 +27,11 @@ jobs:
       - name: Install Python dependencies
         run: uv sync
 
+      - name: Load Raw data into Database
+        
+        run: |
+          uv run scrape_scripts/load_raw_data.py
+
       - name: Run dbt
         working-directory: election
         run: |
