@@ -27,6 +27,10 @@ jobs:
       - name: Install Python dependencies
         run: uv sync
 
+      - name: Run dbt
+        working-directory: election
+        run: |
+          uv run dbt build
 
       - name: Export data to JSON
         run: uv run python export_to_json.py
