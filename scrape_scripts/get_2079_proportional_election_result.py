@@ -56,7 +56,7 @@ def run():
                 continue
 
             for c_id in range(1, count + 1):
-                url = f"https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-{dist_id}-{c_id}.json"
+                url = f"https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-{dist_id}-{c_id}.json"
                 print(f"  Fetching {dist['name']} - Const {c_id} ({url})...", end="", flush=True)
                 
                 try:
@@ -87,7 +87,7 @@ def run():
     print(f"\nScraping Completed.")
     print(f"Total Requests: {total_requests}")
     print(f"Successful: {success_requests}")
-    print(f"Saved to 'data/samanupatik_election_result.json'")
+    print(f"Saved to 'data/past_2079_proportional_election_result.json'")
 
 if __name__ == "__main__":
     run()
