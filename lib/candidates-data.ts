@@ -1,7 +1,42 @@
-export interface Candidate {
-  candidate_id: number
+// Candidate type for tab differentiation
+export type CandidateType = "fptp" | "pr"
+
+// Base interface with shared properties
+export interface BaseCandidate {
   candidate_name: string
   gender: string
+  political_party_name: string
+  citizenship_district: string
+  rank_position: number
+  party_previous_names: string[]
+  party_display_order: number | null
+  tags: string[]
+
+  // Parliament member details
+  was_parliament_member_2074: boolean
+  parliament_member_2074_election_type: "FPTP" | "Proportional" | null
+  parliament_member_2074_party: string | null
+  parliament_member_2074_district: string | null
+  parliament_member_2074_constituency: number | null
+  was_parliament_member_2079: boolean
+  parliament_member_2079_election_type: "FPTP" | "Proportional" | null
+  parliament_member_2079_party: string | null
+  parliament_member_2079_district: string | null
+  parliament_member_2079_constituency: number | null
+
+  // Shared boolean flags
+  is_new_party: boolean
+  is_proportional_veteran: boolean
+  is_chheparo: boolean
+  is_new_candidate: boolean
+  is_opportunist: boolean
+  is_budi_bokuwa: boolean
+  is_budo_bokuwa: boolean
+}
+
+// FPTP Candidate interface (original Candidate)
+export interface Candidate extends BaseCandidate {
+  candidate_id: number
   age: number
   age_group: string
   date_of_birth: number
@@ -16,18 +51,15 @@ export interface Candidate {
   other_details: string | null
   symbol_code: number
   symbol_name: string
-  political_party_name: string
   state_id: number
   state_name: string
   district_id: number
   district_name: string
   constituency_id: number
   constituency_name: number
-  citizenship_district: string
   election_status: string | null
   current_vote_received: number
-  rank_position: number
-  
+
   // 2079 Election data
   prev_election_votes: number | null
   prev_election_rank: string | null
@@ -58,46 +90,86 @@ export interface Candidate {
   prev_2074_runner_up_votes: number | null
 
   elections_contested: number
-  party_previous_names: string[]
-  
-  // Boolean flags
+
+  // FPTP-specific boolean flags
   is_same_party_after_merger_check: boolean
   is_same_party_2074_after_merger_check: boolean
   is_same_party_2074_2079: boolean
   is_tourist_candidate: boolean
   is_education_changed: boolean
-  is_new_party: boolean
-  was_parliament_member_2074: boolean
-  parliament_member_2074_election_type: "FPTP" | "Proportional" | null
-  parliament_member_2074_party: string | null
-  parliament_member_2074_district: string | null
-  parliament_member_2074_constituency: number | null
-  was_parliament_member_2079: boolean
-  parliament_member_2079_election_type: "FPTP" | "Proportional" | null
-  parliament_member_2079_party: string | null
-  parliament_member_2079_district: string | null
-  parliament_member_2079_constituency: number | null
-  is_proportional_veteran: boolean
-  is_chheparo: boolean
   is_vaguwa: boolean
   is_vaguwa_prev_winner: boolean
-  is_new_candidate: boolean
   is_educated: boolean
   is_uneducated: boolean
   is_gen_z: boolean
   is_grandpa: boolean
   is_influential: boolean
-  is_opportunist: boolean
   is_split_vote_candidate: boolean
   is_loyal: boolean
   is_nepo: boolean
   has_known_spouse: boolean
   has_known_parent: boolean
-  is_budi_bokuwa: boolean
-  is_budo_bokuwa: boolean
   candidate_type: string
-  tags: string[]
-  party_display_order: number | null
+}
+
+// PR (Proportional) Candidate interface
+export interface PRCandidate extends BaseCandidate {
+  serial_no: number
+  voter_id_number: string
+  inclusive_group: string | null
+  backward_area: string | null
+  disability: string | null
+  associated_party: string | null
+  remarks: string | null
+  party_id: number | null
+  matched_party_name: string | null
+
+  // Party performance data
+  prev_2079_party_votes: number | null
+  prev_2079_districts_contested: number | null
+  prev_2079_states_contested: number | null
+  prev_2074_party_votes: number | null
+  prev_2074_party_rank: string | null
+  party_existed_2079: boolean
+  party_existed_2074: boolean
+  party_elections_contested: number
+
+  // Additional stats
+  times_elected: number | null
+  pr_times_elected: number | null
+  parliament_member_2079_election_type_normalized: string | null
+
+  // PR-specific boolean flags
+  is_fptp_2079_loser: boolean
+  is_fptp_2074_loser: boolean
+  is_fptp_veteran: boolean
+  is_same_party_2079_after_merger_check: boolean | null
+  is_same_party_2074_after_merger_check: boolean | null
+  is_party_loyal: boolean
+  is_high_rank: boolean
+  is_top_rank: boolean
+  is_low_rank: boolean
+  is_women: boolean
+  is_inclusive_group: boolean
+  has_disability: boolean
+  is_from_backward_area: boolean
+  is_from_improving_party: boolean
+  is_from_declining_party: boolean
+  is_varaute: boolean
+  is_gati_chhada: boolean
+}
+
+// Union type for any candidate
+export type AnyCandidate = Candidate | PRCandidate
+
+// Type guard to check if candidate is FPTP
+export function isFPTPCandidate(candidate: AnyCandidate): candidate is Candidate {
+  return 'candidate_id' in candidate
+}
+
+// Type guard to check if candidate is PR
+export function isPRCandidate(candidate: AnyCandidate): candidate is PRCandidate {
+  return 'serial_no' in candidate
 }
 
 export interface Badge {
@@ -273,6 +345,124 @@ export const badgeDefinitions: Record<string, Badge> = {
     description_np: "श्रीमान पनि उम्मेदवार भएको",
     icon: "heart-handshake",
     color: "accent"
+  },
+  // PR-specific badges
+  "पार्टीप्रति वफादार": {
+    id: "party-loyal",
+    name: "Party Loyal",
+    nameNepali: "पार्टीप्रति वफादार",
+    description: "Stayed with same party across elections",
+    description_np: "सबै चुनावमा एउटै पार्टीसँग रहेका",
+    icon: "shield",
+    color: "gold"
+  },
+  "शीर्ष वरीयता (१-५)": {
+    id: "top-rank",
+    name: "Top Rank (1-5)",
+    nameNepali: "शीर्ष वरीयता (१-५)",
+    description: "Ranked 1-5 in party list, very likely to win",
+    description_np: "पार्टी सूचीमा १-५ वरीयता, जित्ने सम्भावना उच्च",
+    icon: "crown",
+    color: "gold"
+  },
+  "उच्च वरीयता (६-१०)": {
+    id: "high-rank",
+    name: "High Rank (6-10)",
+    nameNepali: "उच्च वरीयता (६-१०)",
+    description: "Ranked 6-10 in party list",
+    description_np: "पार्टी सूचीमा ६-१० वरीयता",
+    icon: "trophy",
+    color: "silver"
+  },
+  "तल्लो वरीयता (५०+)": {
+    id: "low-rank",
+    name: "Low Rank (50+)",
+    nameNepali: "तल्लो वरीयता (५०+)",
+    description: "Ranked 50+ in party list, unlikely to win",
+    description_np: "पार्टी सूचीमा ५०+ वरीयता, जित्ने सम्भावना न्यून",
+    icon: "arrow-down",
+    color: "bronze"
+  },
+  "महिला": {
+    id: "women",
+    name: "Women",
+    nameNepali: "महिला",
+    description: "Female candidate",
+    description_np: "महिला उम्मेदवार",
+    icon: "user",
+    color: "primary"
+  },
+  "समावेशी समूह": {
+    id: "inclusive-group",
+    name: "Inclusive Group",
+    nameNepali: "समावेशी समूह",
+    description: "From inclusive/marginalized group",
+    description_np: "समावेशी/सीमान्तकृत समूहबाट",
+    icon: "users",
+    color: "primary"
+  },
+  "अपाङ्गता": {
+    id: "disability",
+    name: "Disability",
+    nameNepali: "अपाङ्गता",
+    description: "Candidate with disability",
+    description_np: "अपाङ्गता भएका उम्मेदवार",
+    icon: "accessibility",
+    color: "accent"
+  },
+  "पिछडिएको क्षेत्र": {
+    id: "backward-area",
+    name: "Backward Area",
+    nameNepali: "पिछडिएको क्षेत्र",
+    description: "From backward/underdeveloped area",
+    description_np: "पिछडिएको क्षेत्रबाट",
+    icon: "map-pin",
+    color: "bronze"
+  },
+  "प्रत्यक्ष अनुभवी": {
+    id: "fptp-veteran",
+    name: "FPTP Veteran",
+    nameNepali: "प्रत्यक्ष अनुभवी",
+    description: "Parliament member via FPTP in past",
+    description_np: "प्रत्यक्षबाट पहिले संसद पदकाएका",
+    icon: "medal",
+    color: "gold"
+  },
+  "सुधारोन्मुख पार्टी": {
+    id: "improving-party",
+    name: "Improving Party",
+    nameNepali: "सुधारोन्मुख पार्टी",
+    description: "Party improved votes from 2074 to 2079",
+    description_np: "२०७४ देखि २०७९ सम्म मत बढेको पार्टी",
+    icon: "trending-up",
+    color: "primary"
+  },
+  "खस्कँदो पार्टी": {
+    id: "declining-party",
+    name: "Declining Party",
+    nameNepali: "खस्कँदो पार्टी",
+    description: "Party lost votes from 2074 to 2079",
+    description_np: "२०७४ देखि २०७९ सम्म मत घटेको पार्टी",
+    icon: "trending-down",
+    color: "destructive"
+  },
+  "बहादुर": {
+    id: "varaute",
+    name: "Varaute",
+    nameNepali: "बहादुर",
+    description: "Lost FPTP, now in PR list",
+    description_np: "प्रत्यक्षमा हारेर समानुपातिकमा आएका",
+    icon: "rotate-ccw",
+    color: "warning"
+  },
+  "गति छाडा": {
+    id: "gati-chhada",
+    name: "Gati Chhada",
+    nameNepali: "गति छाडा",
+    description: "Multiple times parliament member or PR elected",
+    description_np: "धेरै पटक सांसद वा समानुपातिकबाट निर्वाचित",
+    icon: "zap",
+    color: "gold"
   }
 };
 

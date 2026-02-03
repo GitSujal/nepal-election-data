@@ -5,21 +5,47 @@ import json
 import sys
 import os
 import duckdb
+import numpy as np
+import pandas as pd
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SOURCE_DB = os.path.join(SCRIPT_DIR, "election", "election.db")
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "public", "data")
+
+
+def convert_value(val):
+    """Convert a value to JSON-serializable format."""
+    # Handle numpy arrays
+    if isinstance(val, np.ndarray):
+        return val.tolist()
+    # Handle pandas NA
+    if pd.isna(val):
+        return None
+    # Handle numpy types
+    if isinstance(val, (np.integer, np.int64, np.int32)):
+        return int(val)
+    if isinstance(val, (np.floating, np.float64, np.float32)):
+        return None if np.isnan(val) else float(val)
+    if isinstance(val, np.bool_):
+        return bool(val)
+    return val
+
 
 def export_table_to_json(db_path: str, table_name: str, output_file: str):
     """Export a DuckDB table to JSON file."""
     try:
         con = duckdb.connect(db_path, read_only=True)
 
-        # Read table and convert to list of dicts
-        result = con.execute(f"SELECT * FROM {table_name}").fetchall()
-        columns = [desc[0] for desc in con.description]
+        # Read table and convert to pandas DataFrame
+        df = con.execute(f"SELECT * FROM {table_name}").df()
 
-        data = [dict(zip(columns, row)) for row in result]
+        # Convert to records with proper type handling
+        data = []
+        for _, row in df.iterrows():
+            record = {}
+            for col in df.columns:
+                record[col] = convert_value(row[col])
+            data.append(record)
 
         # Write to JSON file
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -30,6 +56,8 @@ def export_table_to_json(db_path: str, table_name: str, output_file: str):
         return len(data)
     except Exception as e:
         print(f"✗ Error exporting {table_name}: {e}")
+        import traceback
+        traceback.print_exc()
         return 0
 
 def main():
@@ -41,6 +69,7 @@ def main():
     # Tables to export
     tables = [
         'dim_current_fptp_candidates',
+        'dim_current_proportional_candidates',
         'dim_parties',
         'dim_constituency_profile',
         'dim_parties_profile',

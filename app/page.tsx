@@ -7,40 +7,67 @@ import { ProfileHeader } from "@/components/candidate/profile-header"
 import { CandidateDetails } from "@/components/candidate/candidate-details"
 import { ElectionTimeline } from "@/components/candidate/election-timeline"
 import { ElectionResultCard } from "@/components/candidate/election-result-card"
-import { Vote, Users, ChevronRight, BarChart3, ArrowLeft } from "lucide-react"
+import { PRProfileHeader } from "@/components/candidate/pr-profile-header"
+import { PRCandidateDetails } from "@/components/candidate/pr-candidate-details"
+import { PRCandidatePreviewGrid } from "@/components/candidate/pr-candidate-preview-grid"
+import { PRCandidateFilter } from "@/components/candidate/pr-candidate-filter"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Users, ChevronRight, BarChart3, ArrowLeft } from "lucide-react"
+import { type CandidateType } from "@/lib/candidates-data"
 
-interface CandidateData {
-  candidate_id: string
-  candidate_name: string
-  state_name: string
-  district_name: string
-  constituency_id: number | string
-  political_party_name: string
-  prev_election_votes?: number
-  prev_2074_election_votes?: number
-  [key: string]: any
-}
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+type AnyCandidate = any
 
 export default function CandidateProfilePage() {
-  const [selectedCandidate, setSelectedCandidate] = useState<CandidateData | null>(null)
-  const [filteredCandidates, setFilteredCandidates] = useState<CandidateData[]>([])
+  const [candidateType, setCandidateType] = useState<CandidateType>("fptp")
 
-  const handleFilteredCandidatesChange = useCallback((candidates: CandidateData[]) => {
-    setFilteredCandidates(candidates)
+  // FPTP state
+  const [selectedFPTPCandidate, setSelectedFPTPCandidate] = useState<AnyCandidate | null>(null)
+  const [filteredFPTPCandidates, setFilteredFPTPCandidates] = useState<AnyCandidate[]>([])
+
+  // PR state
+  const [selectedPRCandidate, setSelectedPRCandidate] = useState<AnyCandidate | null>(null)
+  const [filteredPRCandidates, setFilteredPRCandidates] = useState<AnyCandidate[]>([])
+
+  // FPTP handlers
+  const handleFPTPFilteredCandidatesChange = useCallback((candidates: AnyCandidate[]) => {
+    setFilteredFPTPCandidates(candidates)
   }, [])
 
-  const handleSelectCandidate = useCallback((candidate: CandidateData | null) => {
-    setSelectedCandidate(candidate)
+  const handleSelectFPTPCandidate = useCallback((candidate: AnyCandidate | null) => {
+    setSelectedFPTPCandidate(candidate)
   }, [])
 
-  const handleBackToResults = () => {
-    setSelectedCandidate(null)
+  const handleBackToFPTPResults = () => {
+    setSelectedFPTPCandidate(null)
   }
+
+  // PR handlers
+  const handlePRFilteredCandidatesChange = useCallback((candidates: AnyCandidate[]) => {
+    setFilteredPRCandidates(candidates)
+  }, [])
+
+  const handleSelectPRCandidate = useCallback((candidate: AnyCandidate | null) => {
+    setSelectedPRCandidate(candidate)
+  }, [])
+
+  const handleBackToPRResults = () => {
+    setSelectedPRCandidate(null)
+  }
+
+  // Computed state based on candidate type
+  const selectedCandidate = candidateType === "fptp" ? selectedFPTPCandidate : selectedPRCandidate
+  const filteredCandidates = candidateType === "fptp" ? filteredFPTPCandidates : filteredPRCandidates
+  const handleBackToResults = candidateType === "fptp" ? handleBackToFPTPResults : handleBackToPRResults
 
   // Show detail view when a candidate is explicitly selected
   const showDetail = selectedCandidate !== null
   // Show preview grid when there are multiple filtered candidates and none is selected
   const showPreview = !showDetail && filteredCandidates.length > 1
+
+  const handleTabChange = (value: string) => {
+    setCandidateType(value as CandidateType)
+  }
 
   return (
     <>
@@ -68,86 +95,151 @@ export default function CandidateProfilePage() {
           </p>
         </div>
 
-        {/* Filter section */}
-        <CandidateFilter
-          onSelectCandidate={handleSelectCandidate}
-          onFilteredCandidatesChange={handleFilteredCandidatesChange}
-          selectedCandidate={selectedCandidate}
-        />
+        {/* Candidate Type Tabs */}
+        <Tabs defaultValue="fptp" value={candidateType} onValueChange={handleTabChange} className="w-full">
+          <TabsList className="grid w-full grid-cols-2 lg:w-[400px] mb-6">
+            <TabsTrigger value="fptp">प्रत्यक्ष (FPTP)</TabsTrigger>
+            <TabsTrigger value="pr">समानुपातिक (PR)</TabsTrigger>
+          </TabsList>
 
-        {/* Back button when viewing detail */}
-        {showDetail && filteredCandidates.length > 1 && (
-          <button
-            type="button"
-            onClick={handleBackToResults}
-            className="mt-6 flex items-center gap-2 rounded-lg border border-border px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
-          >
-            <ArrowLeft className="h-4 w-4" />
-            पछाडि फर्कनुहोस् ({filteredCandidates.length})
-          </button>
-        )}
+          {/* FPTP Tab Content */}
+          <TabsContent value="fptp" className="mt-0 space-y-0">
+            {/* Filter section */}
+            <CandidateFilter
+              onSelectCandidate={handleSelectFPTPCandidate}
+              onFilteredCandidatesChange={handleFPTPFilteredCandidatesChange}
+              selectedCandidate={selectedFPTPCandidate}
+            />
 
-        {/* Detail view */}
-        {showDetail && (
-          <div className="mt-8 space-y-8">
-            {/* Profile Header with badges */}
-            <ProfileHeader candidate={selectedCandidate as any} />
+            {/* Back button when viewing detail */}
+            {selectedFPTPCandidate && filteredFPTPCandidates.length > 1 && (
+              <button
+                type="button"
+                onClick={handleBackToFPTPResults}
+                className="mt-6 flex items-center gap-2 rounded-lg border border-border px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+              >
+                <ArrowLeft className="h-4 w-4" />
+                पछाडि फर्कनुहोस् ({filteredFPTPCandidates.length})
+              </button>
+            )}
 
-            {/* Details and Stats section */}
-            <div className="grid gap-8 lg:grid-cols-3">
-              {/* Candidate Details - 1/3 */}
-              <div className="lg:col-span-1">
-                <CandidateDetails candidate={selectedCandidate as any} />
-              </div>
+            {/* Detail view */}
+            {selectedFPTPCandidate && (
+              <div className="mt-8 space-y-8">
+                {/* Profile Header with badges */}
+                <ProfileHeader candidate={selectedFPTPCandidate as any} />
 
-              {/* Timeline - 2/3 */}
-              <div className="lg:col-span-2">
-                <ElectionTimeline candidate={selectedCandidate as any} />
-              </div>
-            </div>
+                {/* Details and Stats section */}
+                <div className="grid gap-8 lg:grid-cols-3">
+                  {/* Candidate Details - 1/3 */}
+                  <div className="lg:col-span-1">
+                    <CandidateDetails candidate={selectedFPTPCandidate as any} />
+                  </div>
 
-            {/* Past Election Results */}
-            {(selectedCandidate!.prev_election_votes || selectedCandidate!.prev_2074_election_votes) && (
-              <div className="space-y-6">
-                <h2 className="flex items-center gap-2 text-xl font-bold text-foreground">
-                  <BarChart3 className="h-6 w-6 text-primary" />
-                  Detailed Election Results
-                </h2>
+                  {/* Timeline - 2/3 */}
+                  <div className="lg:col-span-2">
+                    <ElectionTimeline candidate={selectedFPTPCandidate as any} />
+                  </div>
+                </div>
 
-                {/* 2079 Results */}
-                {selectedCandidate!.prev_election_votes && (
-                  <ElectionResultCard candidate={selectedCandidate as any} year="2079" />
-                )}
+                {/* Past Election Results */}
+                {(selectedFPTPCandidate.prev_election_votes || selectedFPTPCandidate.prev_2074_election_votes) && (
+                  <div className="space-y-6">
+                    <h2 className="flex items-center gap-2 text-xl font-bold text-foreground">
+                      <BarChart3 className="h-6 w-6 text-primary" />
+                      Detailed Election Results
+                    </h2>
 
-                {/* 2074 Results */}
-                {selectedCandidate!.prev_2074_election_votes && (
-                  <ElectionResultCard candidate={selectedCandidate as any} year="2074" />
+                    {/* 2079 Results */}
+                    {selectedFPTPCandidate.prev_election_votes && (
+                      <ElectionResultCard candidate={selectedFPTPCandidate as any} year="2079" />
+                    )}
+
+                    {/* 2074 Results */}
+                    {selectedFPTPCandidate.prev_2074_election_votes && (
+                      <ElectionResultCard candidate={selectedFPTPCandidate as any} year="2074" />
+                    )}
+                  </div>
                 )}
               </div>
             )}
-          </div>
-        )}
 
-        {/* Preview grid */}
-        {showPreview && (
-          <CandidatePreviewGrid
-            candidates={filteredCandidates}
-            onSelectCandidate={handleSelectCandidate}
-          />
-        )}
+            {/* Preview grid */}
+            {!selectedFPTPCandidate && filteredFPTPCandidates.length > 1 && (
+              <CandidatePreviewGrid
+                candidates={filteredFPTPCandidates}
+                onSelectCandidate={handleSelectFPTPCandidate}
+              />
+            )}
 
-        {/* Empty state - no filters applied and no candidate selected */}
-        {!showDetail && !showPreview && filteredCandidates.length <= 1 && filteredCandidates.length === 0 && (
-          <div className="mt-8 flex flex-col items-center justify-center rounded-2xl border border-dashed border-border bg-card/50 py-16">
-            <div className="flex h-20 w-20 items-center justify-center rounded-full bg-secondary">
-              <Users className="h-10 w-10 text-muted-foreground" />
-            </div>
-            <h3 className="mt-4 text-xl font-semibold text-foreground">No Candidate Selected</h3>
-            <p className="mt-2 max-w-md text-center text-muted-foreground">
-              उम्मेदवारको विस्तृत प्रोफाइल, चुनावी इतिहास र कार्यसम्पादन तथ्याङ्कहरू हेर्नको लागि माथिका फिल्टरहरू प्रयोग गरेर उम्मेदवार छनोट गर्नुहोस्।
-            </p>
-          </div>
-        )}
+            {/* Empty state */}
+            {!selectedFPTPCandidate && filteredFPTPCandidates.length === 0 && (
+              <div className="mt-8 flex flex-col items-center justify-center rounded-2xl border border-dashed border-border bg-card/50 py-16">
+                <div className="flex h-20 w-20 items-center justify-center rounded-full bg-secondary">
+                  <Users className="h-10 w-10 text-muted-foreground" />
+                </div>
+                <h3 className="mt-4 text-xl font-semibold text-foreground">उम्मेदवार छानिएको छैन</h3>
+                <p className="mt-2 max-w-md text-center text-muted-foreground">
+                  उम्मेदवारको विस्तृत प्रोफाइल, चुनावी इतिहास र कार्यसम्पादन तथ्याङ्कहरू हेर्नको लागि माथिका फिल्टरहरू प्रयोग गरेर उम्मेदवार छनोट गर्नुहोस्।
+                </p>
+              </div>
+            )}
+          </TabsContent>
+
+          {/* PR Tab Content */}
+          <TabsContent value="pr" className="mt-0 space-y-0">
+            {/* Filter section */}
+            <PRCandidateFilter
+              onSelectCandidate={handleSelectPRCandidate}
+              onFilteredCandidatesChange={handlePRFilteredCandidatesChange}
+              selectedCandidate={selectedPRCandidate}
+            />
+
+            {/* Back button when viewing detail */}
+            {selectedPRCandidate && filteredPRCandidates.length > 1 && (
+              <button
+                type="button"
+                onClick={handleBackToPRResults}
+                className="mt-6 flex items-center gap-2 rounded-lg border border-border px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+              >
+                <ArrowLeft className="h-4 w-4" />
+                पछाडि फर्कनुहोस् ({filteredPRCandidates.length})
+              </button>
+            )}
+
+            {/* Detail view */}
+            {selectedPRCandidate && (
+              <div className="mt-8 space-y-8">
+                {/* Profile Header with badges */}
+                <PRProfileHeader candidate={selectedPRCandidate as any} />
+
+                {/* Details section */}
+                <PRCandidateDetails candidate={selectedPRCandidate as any} />
+              </div>
+            )}
+
+            {/* Preview grid */}
+            {!selectedPRCandidate && filteredPRCandidates.length > 1 && (
+              <PRCandidatePreviewGrid
+                candidates={filteredPRCandidates}
+                onSelectCandidate={handleSelectPRCandidate}
+              />
+            )}
+
+            {/* Empty state */}
+            {!selectedPRCandidate && filteredPRCandidates.length === 0 && (
+              <div className="mt-8 flex flex-col items-center justify-center rounded-2xl border border-dashed border-border bg-card/50 py-16">
+                <div className="flex h-20 w-20 items-center justify-center rounded-full bg-secondary">
+                  <Users className="h-10 w-10 text-muted-foreground" />
+                </div>
+                <h3 className="mt-4 text-xl font-semibold text-foreground">उम्मेदवार छानिएको छैन</h3>
+                <p className="mt-2 max-w-md text-center text-muted-foreground">
+                  समानुपातिक उम्मेदवारको विवरण हेर्नको लागि माथिका फिल्टरहरू प्रयोग गरेर उम्मेदवार छनोट गर्नुहोस्।
+                </p>
+              </div>
+            )}
+          </TabsContent>
+        </Tabs>
       </main>
     </>
   )

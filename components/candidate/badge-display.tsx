@@ -19,6 +19,16 @@ import {
   Medal,
   Crown,
   HeartHandshake,
+  Trophy,
+  ArrowDown,
+  User,
+  Users,
+  Accessibility,
+  MapPin,
+  TrendingUp,
+  TrendingDown,
+  RotateCcw,
+  Zap,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 
@@ -39,6 +49,17 @@ const iconMap: Record<string, React.ElementType> = {
   medal: Medal,
   crown: Crown,
   "heart-handshake": HeartHandshake,
+  // PR-specific icons
+  trophy: Trophy,
+  "arrow-down": ArrowDown,
+  user: User,
+  users: Users,
+  accessibility: Accessibility,
+  "map-pin": MapPin,
+  "trending-up": TrendingUp,
+  "trending-down": TrendingDown,
+  "rotate-ccw": RotateCcw,
+  zap: Zap,
 }
 
 const colorClasses: Record<Badge["color"], string> = {
