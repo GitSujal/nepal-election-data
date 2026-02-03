@@ -20,6 +20,16 @@ parliament_members as (
     select * from {{ ref('dim_parliament_members') }}
 ),
 
+-- Candidate name mapping for name variations
+candidate_name_mapping as (
+    select
+        {{ adapter.quote("variant_name_normalized") }} as variant_name_normalized,
+        {{ adapter.quote("canonical_name_normalized") }} as canonical_name_normalized
+    from {{ ref('candidate_name_mapping') }}
+    where {{ adapter.quote("variant_name_normalized") }} is not null
+      and trim({{ adapter.quote("variant_name_normalized") }}) != ''
+),
+
 qualification_levels as (
     select distinct
         {{ adapter.quote("QUALIFICATION") }} as qualification_raw,
@@ -29,14 +39,27 @@ qualification_levels as (
       and trim({{ adapter.quote("QUALIFICATION") }}) != ''
 ),
 
--- Map 2079 candidate's qualification to a level
+-- Map 2079 candidate's qualification to a level, with canonical name
 current_with_qual as (
     select
         cc.*,
-        ql.qualification_level as current_qualification_level
+        ql.qualification_level as current_qualification_level,
+        coalesce(cnm.canonical_name_normalized, cc.candidate_name_normalized) as canonical_name_normalized
     from current cc
     left join qualification_levels ql
         on cc.{{ adapter.quote("QUALIFICATION") }} = ql.qualification_raw
+    left join candidate_name_mapping cnm
+        on cc.candidate_name_normalized = cnm.variant_name_normalized
+),
+
+-- Previous 2074 with canonical name
+previous_2074_with_canonical as (
+    select
+        pr.*,
+        coalesce(cnm.canonical_name_normalized, pr.candidate_name_normalized) as canonical_name_normalized
+    from previous_2074 pr
+    left join candidate_name_mapping cnm
+        on pr.candidate_name_normalized = cnm.variant_name_normalized
 ),
 
 -- Rank candidates per constituency by votes for 2079 (this election)
@@ -227,8 +250,8 @@ joined as (
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
     left join lateral (
         select *
-        from previous_2074 p
-        where p.candidate_name_normalized = cc.candidate_name_normalized
+        from previous_2074_with_canonical p
+        where p.canonical_name_normalized = cc.canonical_name_normalized
         order by
             -- Prefer same constituency match
             case when p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
@@ -238,8 +261,8 @@ joined as (
     left join parties p
         on cc.{{ adapter.quote("PoliticalPartyName") }} = p.current_party_name
         or list_contains(p.previous_names, cc.{{ adapter.quote("PoliticalPartyName") }})
-        or p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(cc.{{ adapter.quote("PoliticalPartyName") }}, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g')
-        or list_contains(p.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(cc.{{ adapter.quote("PoliticalPartyName") }}, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
+        or p.norm_name = {{ sanitize_party_name('cc.' ~ adapter.quote("PoliticalPartyName")) }}
+        or list_contains(p.norm_previous_names, {{ sanitize_party_name('cc.' ~ adapter.quote("PoliticalPartyName")) }})
     left join runner_up_2079 ru
         on cc.{{ adapter.quote("State") }} = ru.{{ adapter.quote("State") }}
         and cc.{{ adapter.quote("DistrictCd") }} = ru.{{ adapter.quote("DistrictCd") }}
@@ -248,7 +271,7 @@ joined as (
         on pr74.{{ adapter.quote("State") }} = ru74.{{ adapter.quote("State") }}
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
-        on cc.candidate_name_normalized = pm.name_normalized
+        on cc.canonical_name_normalized = pm.name_normalized
 ),
 
 with_tags as (
