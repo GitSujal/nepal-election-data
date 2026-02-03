@@ -205,13 +205,7 @@ joined as (
         p.party_display_order,
 
         -- Check if 2079 party is same as 2074 party (after merger check)
-        case
-            when pr74.{{ adapter.quote("PoliticalPartyName") }} is null then null
-            when cc.{{ adapter.quote("PoliticalPartyName") }} = pr74.{{ adapter.quote("PoliticalPartyName") }} then true
-            when p.party_id is not null
-                and list_contains(p.previous_names, pr74.{{ adapter.quote("PoliticalPartyName") }}) then true
-            else false
-        end as is_same_party_2074_after_merger_check,
+        {{ is_same_party('cc.' ~ adapter.quote("PoliticalPartyName"), 'pr74.' ~ adapter.quote("PoliticalPartyName")) }} as is_same_party_2074_after_merger_check,
 
         -- Tourist candidate: citizenship district differs from candidacy district
         case

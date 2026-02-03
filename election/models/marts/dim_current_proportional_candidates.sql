@@ -278,22 +278,10 @@ joined as (
         end as is_proportional_veteran,
         
         -- Check if current party is a merger/rename of previous 2079 party
-        case
-            when pr79.political_party_name is null then null
-            when cc.political_party_name = pr79.political_party_name then true
-            when coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id) is not null
-                and list_contains(coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names), pr79.political_party_name) then true
-            else false
-        end as is_same_party_2079_after_merger_check,
+        {{ is_same_party('cc.political_party_name', 'pr79.political_party_name') }} as is_same_party_2079_after_merger_check,
 
         -- Check if current party is same as 2074 party (after merger check)
-        case
-            when pr74.political_party_name is null then null
-            when cc.political_party_name = pr74.political_party_name then true
-            when coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id) is not null
-                and list_contains(coalesce(p_direct.previous_names, p_mapped.previous_names, p_assoc.previous_names), pr74.political_party_name) then true
-            else false
-        end as is_same_party_2074_after_merger_check,
+        {{ is_same_party('cc.political_party_name', 'pr74.political_party_name') }} as is_same_party_2074_after_merger_check,
 
         -- Bokuwa flags
         case when cc.gender = 'महिला' and coalesce(bk.has_male_fptp_match, false) then true else false end as is_budi_bokuwa,
