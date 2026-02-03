@@ -26,26 +26,7 @@ renamed as (
         {{ adapter.quote("Remarks") }},
         {{ adapter.quote("Samudaya") }},
         -- Normalized name for cross-term and cross-dataset matching
-        -- Strips spaces, dots, parens, ZWJ/ZWNJ, titles (डा, डा०, कु, श्री)
-        -- Normalizes long→short vowels (ी→ि, ू→ु), anusvara (ँ→ं), conjuncts (ङ्ग→ङ)
-        -- Also normalizes व↔ब, ण→न (common Nepali spelling variations)
-        -- Remove brackets: (), {}, []
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        regexp_replace(
-                            replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
-                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
-                        ),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
-        as candidate_name_normalized
+        {{ sanitize_candidate_name(adapter.quote("CandidateName")) }} as candidate_name_normalized
     from source
 )
 

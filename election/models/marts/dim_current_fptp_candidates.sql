@@ -24,6 +24,30 @@ parliament_members as (
     select * from {{ ref('dim_parliament_members') }}
 ),
 
+-- Candidate name mapping for name variations (e.g., Puspa Kamal Dahal)
+candidate_name_mapping as (
+    select
+        {{ adapter.quote("variant_name_normalized") }} as variant_name_normalized,
+        {{ adapter.quote("canonical_name_normalized") }} as canonical_name_normalized
+    from {{ ref('candidate_name_mapping') }}
+    where {{ adapter.quote("variant_name_normalized") }} is not null
+      and trim({{ adapter.quote("variant_name_normalized") }}) != ''
+),
+
+-- Multi-match override for resolving ambiguous candidate matches
+match_override as (
+    select
+        {{ adapter.quote("current_candidate_name") }} as current_candidate_name,
+        {{ adapter.quote("current_district") }} as current_district,
+        {{ adapter.quote("current_constituency_id") }} as current_constituency_id,
+        {{ adapter.quote("election_year") }} as election_year,
+        {{ adapter.quote("prev_district") }} as prev_district,
+        {{ adapter.quote("prev_constituency_id") }} as prev_constituency_id,
+        {{ adapter.quote("is_actual_match") }} as is_actual_match
+    from {{ ref('fptp_candidate_match_override') }}
+    where {{ adapter.quote("is_actual_match") }} = 'TRUE'
+),
+
 qualification_levels as (
     select distinct
         {{ adapter.quote("QUALIFICATION") }} as qualification_raw,
@@ -33,24 +57,41 @@ qualification_levels as (
       and trim({{ adapter.quote("QUALIFICATION") }}) != ''
 ),
 
--- Map current candidate's qualification to a level
+-- Map current candidate's qualification to a level, and compute canonical name for matching
 current_with_qual as (
     select
         cc.*,
-        ql.qualification_level as current_qualification_level
+        ql.qualification_level as current_qualification_level,
+        -- Use canonical name if mapping exists, otherwise use normalized name
+        coalesce(cnm.canonical_name_normalized, cc.candidate_name_normalized) as canonical_name_normalized
     from current cc
     left join qualification_levels ql
         on cc.{{ adapter.quote("QUALIFICATION") }} = ql.qualification_raw
+    left join candidate_name_mapping cnm
+        on cc.candidate_name_normalized = cnm.variant_name_normalized
 ),
 
--- Map previous 2079 candidate's qualification to a level
+-- Map previous 2079 candidate's qualification to a level, with canonical name
 previous_2079_with_qual as (
     select
         pr.*,
-        ql.qualification_level as prev_qualification_level
+        ql.qualification_level as prev_qualification_level,
+        coalesce(cnm.canonical_name_normalized, pr.candidate_name_normalized) as canonical_name_normalized
     from previous_2079 pr
     left join qualification_levels ql
         on pr.{{ adapter.quote("QUALIFICATION") }} = ql.qualification_raw
+    left join candidate_name_mapping cnm
+        on pr.candidate_name_normalized = cnm.variant_name_normalized
+),
+
+-- Previous 2074 with canonical name
+previous_2074_with_canonical as (
+    select
+        pr.*,
+        coalesce(cnm.canonical_name_normalized, pr.candidate_name_normalized) as canonical_name_normalized
+    from previous_2074 pr
+    left join candidate_name_mapping cnm
+        on pr.candidate_name_normalized = cnm.variant_name_normalized
 ),
 
 -- Rank candidates per constituency by votes for 2079
@@ -141,56 +182,11 @@ fptp_with_family_norms as (
         {{ adapter.quote("CandidateID") }},
         {{ adapter.quote("PoliticalPartyName") }},
         -- Candidate's own normalized name for reverse matching
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        regexp_replace(
-                            replace(replace({{ adapter.quote("CandidateName") }}, chr(8205), ''), chr(8204), ''),
-                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
-                        ),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
-        as candidate_name_normalized,
+        {{ sanitize_candidate_name(adapter.quote("CandidateName")) }} as candidate_name_normalized,
         -- Normalized spouse name
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        regexp_replace(
-                            replace(replace({{ adapter.quote("SPOUCE_NAME") }}, chr(8205), ''), chr(8204), ''),
-                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
-                        ),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
-        as spouse_name_normalized,
+        {{ sanitize_candidate_name(adapter.quote("SPOUCE_NAME")) }} as spouse_name_normalized,
         -- Normalized father name
-        replace(replace(replace(replace(replace(replace(replace(
-            regexp_replace(
-                regexp_replace(
-                    regexp_replace(
-                        regexp_replace(
-                            replace(replace({{ adapter.quote("FATHER_NAME") }}, chr(8205), ''), chr(8204), ''),
-                            '\{[^}]*\}|\([^)]*\)|\[[^\]]*\]', '', 'g'
-                        ),
-                        '[\s\.\x{00a0}]+', '', 'g'
-                    ),
-                    '^(डा॰?|डा०?|कु\.|श्री\.?)', ''
-                ),
-                '[०-९।]+', '', 'g'
-            ),
-        'ी', 'ि'), 'ू', 'ु'), 'ँ', 'ं'), 'ङ्ग', 'ङ'), 'ट्ट', 'ट'), 'व', 'ब'), 'ण', 'न')
-        as father_name_normalized
+        {{ sanitize_candidate_name(adapter.quote("FATHER_NAME")) }} as father_name_normalized
     from {{ ref('stg_current_fptp_candidates') }}
 ),
 
@@ -490,24 +486,54 @@ joined as (
     from current_with_qual cc
     left join districts d
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
+    -- Check for explicit 2079 match override first
+    left join match_override mo_2079
+        on mo_2079.current_candidate_name = cc.{{ adapter.quote("CandidateName") }}
+        and mo_2079.current_district = cc.{{ adapter.quote("DistrictName") }}
+        and mo_2079.current_constituency_id = cast(cc.{{ adapter.quote("SCConstID") }} as varchar)
+        and mo_2079.election_year = '2079'
     left join lateral (
         select *
         from previous_2079_with_qual p
-        where p.candidate_name_normalized = cc.candidate_name_normalized
+        where p.canonical_name_normalized = cc.canonical_name_normalized
         order by
-            -- Prefer same constituency match
-            case when p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
-                  and p.{{ adapter.quote("DistrictCd") }} = d.{{ adapter.quote("id") }} then 0 else 1 end
+            -- If override exists, select that match; otherwise prefer same constituency
+            case
+                when mo_2079.prev_district is not null
+                    and p.{{ adapter.quote("DistrictName") }} = mo_2079.prev_district
+                    and cast(p.{{ adapter.quote("SCConstID") }} as varchar) = mo_2079.prev_constituency_id
+                    then 0
+                when mo_2079.prev_district is null
+                    and p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
+                    and p.{{ adapter.quote("DistrictCd") }} = d.{{ adapter.quote("id") }}
+                    then 1
+                else 2
+            end
         limit 1
     ) pr on true
+    -- Check for explicit 2074 match override
+    left join match_override mo_2074
+        on mo_2074.current_candidate_name = cc.{{ adapter.quote("CandidateName") }}
+        and mo_2074.current_district = cc.{{ adapter.quote("DistrictName") }}
+        and mo_2074.current_constituency_id = cast(cc.{{ adapter.quote("SCConstID") }} as varchar)
+        and mo_2074.election_year = '2074'
     left join lateral (
         select *
-        from previous_2074 p
-        where p.candidate_name_normalized = cc.candidate_name_normalized
+        from previous_2074_with_canonical p
+        where p.canonical_name_normalized = cc.canonical_name_normalized
         order by
-            -- Prefer same constituency match
-            case when p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
-                  and p.{{ adapter.quote("State") }} = cc.{{ adapter.quote("STATE_ID") }} then 0 else 1 end
+            -- If override exists, select that match; otherwise prefer same constituency
+            case
+                when mo_2074.prev_district is not null
+                    and p.{{ adapter.quote("DistrictName") }} = mo_2074.prev_district
+                    and cast(p.{{ adapter.quote("SCConstID") }} as varchar) = mo_2074.prev_constituency_id
+                    then 0
+                when mo_2074.prev_district is null
+                    and p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
+                    and p.{{ adapter.quote("State") }} = cc.{{ adapter.quote("STATE_ID") }}
+                    then 1
+                else 2
+            end
         limit 1
     ) pr74 on true
     left join parties p
@@ -520,7 +546,7 @@ joined as (
         on pr74.{{ adapter.quote("State") }} = ru74.{{ adapter.quote("State") }}
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
     left join parliament_members pm
-        on cc.candidate_name_normalized = pm.name_normalized
+        on cc.canonical_name_normalized = pm.name_normalized
     left join nepo_flags nf
         on cc.{{ adapter.quote("CandidateID") }} = nf.{{ adapter.quote("CandidateID") }}
     left join bokuwa_flags bk
@@ -746,14 +772,14 @@ left join lateral (
     from dim_parties p
     where p.current_party_name = political_party_name
        or list_contains(p.previous_names, political_party_name)
-       or p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g')
-       or list_contains(p.norm_previous_names, regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g'))
+       or p.norm_name = {{ sanitize_party_name('political_party_name') }}
+       or list_contains(p.norm_previous_names, {{ sanitize_party_name('political_party_name') }})
     order by
         -- Prefer exact current_party_name match over previous_names match, then robust match
-        case 
-            when p.current_party_name = political_party_name then 0 
-            when p.norm_name = regexp_replace(lower(trim(replace(replace(replace(replace(replace(replace(political_party_name, ' ', ''), '-', ''), '(', ''), ')', ''), 'काङ्ग्रेस', 'काँग्रेस'), 'माक्र्सवादी', 'मार्क्सवादी'))), '[ािीुूेैोौ्ंँ़]','','g') then 1
-            else 2 
+        case
+            when p.current_party_name = political_party_name then 0
+            when p.norm_name = {{ sanitize_party_name('political_party_name') }} then 1
+            else 2
         end
     limit 1
 ) dp on true
