@@ -29,6 +29,15 @@ address_to_district as (
     select * from {{ ref('stg_candidate_address_to_district_mapping') }}
 ),
 
+-- District name mapping for spelling variations in candidate data
+district_name_mapping as (
+    select
+        {{ adapter.quote("candidate_district_name") }} as candidate_district_name,
+        {{ adapter.quote("reference_district_name") }} as reference_district_name,
+        {{ adapter.quote("district_id") }} as district_id
+    from {{ ref('district_name_mapping') }}
+),
+
 -- District ID lookups for tourism logic
 citizenship_districts as (
     select
@@ -485,12 +494,16 @@ joined as (
         coalesce(bk.is_budo_bokuwa, false) as is_budo_bokuwa
 
     from current_with_qual cc
+    left join district_name_mapping dnm
+        on cc.{{ adapter.quote("DistrictName") }} = dnm.candidate_district_name
+    left join district_name_mapping dnm_ctzdist
+        on cc.{{ adapter.quote("CTZDIST") }} = dnm_ctzdist.candidate_district_name
     left join districts d
-        on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
+        on coalesce(dnm.reference_district_name, cc.{{ adapter.quote("DistrictName") }}) = d.{{ adapter.quote("name") }}
     left join address_to_district atd
         on cc.{{ adapter.quote("ADDRESS") }} = atd.address
     left join citizenship_districts cd
-        on cc.{{ adapter.quote("CTZDIST") }} = cd.district_name
+        on coalesce(dnm_ctzdist.reference_district_name, cc.{{ adapter.quote("CTZDIST") }}) = cd.district_name
     -- Check for explicit 2079 match override first
     left join match_override mo_2079
         on mo_2079.current_candidate_name = cc.{{ adapter.quote("CandidateName") }}
