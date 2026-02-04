@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, Suspense } from "react"
 import { GitCompareArrows, Building2, TrendingUp, TrendingDown, Minus, Shield, Target } from "lucide-react"
 import { PartyFilter, PartyProfileData } from "@/components/party/party-filter"
 import { StatCard, StatItem } from "@/components/party/stat-card"
@@ -9,11 +9,24 @@ import { Separator } from "@/components/ui/separator"
 import { cn } from "@/lib/utils"
 import Image from "next/image"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
+import { useUrlState } from "@/hooks/use-url-state"
+import { defaultPartyComparisonFilterState } from "@/lib/filter-types"
 
-export default function PartyComparisonPage() {
+function PartyComparisonPageContent() {
+  const [urlState, setUrlState] = useUrlState(defaultPartyComparisonFilterState)
   const [party1, setParty1] = useState<PartyProfileData | null>(null)
   const [party2, setParty2] = useState<PartyProfileData | null>(null)
   const { getSymbolUrl } = usePartySymbols()
+
+  const handleParty1Change = (party: PartyProfileData | null) => {
+    setParty1(party)
+    setUrlState({ party1: party?.party_id || 0 })
+  }
+
+  const handleParty2Change = (party: PartyProfileData | null) => {
+    setParty2(party)
+    setUrlState({ party2: party?.party_id || 0 })
+  }
 
   return (
     <main className="container mx-auto px-4 py-8 pb-20">
@@ -30,11 +43,11 @@ export default function PartyComparisonPage() {
       <div className="grid gap-8 lg:grid-cols-2">
         <div className="space-y-4">
           <label className="text-sm font-bold uppercase tracking-wider text-muted-foreground ml-2">पहिलो पार्टी (पार्टी क)</label>
-          <PartyFilter onSelect={setParty1} />
+          <PartyFilter onSelect={handleParty1Change} urlState={{ party: urlState.party1 }} onUrlStateChange={(updates) => setUrlState({ party1: updates.party })} />
         </div>
         <div className="space-y-4">
           <label className="text-sm font-bold uppercase tracking-wider text-muted-foreground ml-2">दोस्रो पार्टी (पार्टी ख)</label>
-          <PartyFilter onSelect={setParty2} />
+          <PartyFilter onSelect={handleParty2Change} urlState={{ party: urlState.party2 }} onUrlStateChange={(updates) => setUrlState({ party2: updates.party })} />
         </div>
       </div>
 
@@ -177,11 +190,72 @@ export default function PartyComparisonPage() {
             </div>
             <div className="pt-4">
                <DistributionComparisonCard 
-                  title="विशेषताहरू (Tags)"
+                  title="विशेषताहरू (Tags) - FPTP"
                   data1={party1.current_stats_json?.fptp?.tags}
                   data2={party2.current_stats_json?.fptp?.tags}
                   total1={party1.current_stats_json?.fptp?.total}
                   total2={party2.current_stats_json?.fptp?.total}
+                  label1={party1.party_name}
+                  label2={party2.party_name}
+                  columns={2}
+               />
+            </div>
+          </section>
+
+          {/* PR Candidate Comparison Section */}
+          <section className="space-y-6">
+             <h2 className="text-2xl font-extrabold text-foreground flex items-center gap-3">
+              <span className="h-8 w-1.5 rounded-full bg-primary" />
+              समानुपातिक उम्मेदवार विवरण (PR)
+            </h2>
+            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+               <MetricComparisonCard 
+                  title="कुल उम्मेदवार"
+                  v1={party1.current_stats_json?.pr?.total || 0}
+                  v2={party2.current_stats_json?.pr?.total || 0}
+               />
+               <MetricComparisonCard 
+                  title="महिला उम्मेदवार (%)"
+                  v1={party1.current_stats_json?.pr?.total ? Math.round(((party1.current_stats_json.pr.gender?.find((g: any) => g.group === 'महिला')?.count || 0) / party1.current_stats_json.pr.total) * 100) : 0}
+                  v2={party2.current_stats_json?.pr?.total ? Math.round(((party2.current_stats_json.pr.gender?.find((g: any) => g.group === 'महिला')?.count || 0) / party2.current_stats_json.pr.total) * 100) : 0}
+                  suffix="%"
+               />
+               <MetricComparisonCard 
+                  title="अपाङ्गता भएका (%)"
+                  v1={party1.current_stats_json?.pr?.total ? Math.round(((party1.current_stats_json.pr.disability?.find((d: any) => d.group === 'Yes')?.count || 0) / party1.current_stats_json.pr.total) * 100) : 0}
+                  v2={party2.current_stats_json?.pr?.total ? Math.round(((party2.current_stats_json.pr.disability?.find((d: any) => d.group === 'Yes')?.count || 0) / party2.current_stats_json.pr.total) * 100) : 0}
+                  suffix="%"
+               />
+            </div>
+            <div className="grid gap-8 md:grid-cols-2">
+               <DistributionComparisonCard 
+                  title="लैंगिक विवरण (PR)"
+                  data1={party1.current_stats_json?.pr?.gender}
+                  data2={party2.current_stats_json?.pr?.gender}
+                  total1={party1.current_stats_json?.pr?.total}
+                  total2={party2.current_stats_json?.pr?.total}
+                  label1={party1.party_name}
+                  label2={party2.party_name}
+                  className="h-full"
+               />
+               <DistributionComparisonCard 
+                  title="समावेशी समूह (PR)"
+                  data1={party1.current_stats_json?.pr?.inclusive}
+                  data2={party2.current_stats_json?.pr?.inclusive}
+                  total1={party1.current_stats_json?.pr?.total}
+                  total2={party2.current_stats_json?.pr?.total}
+                  label1={party1.party_name}
+                  label2={party2.party_name}
+                  className="h-full"
+               />
+            </div>
+            <div className="pt-4">
+               <DistributionComparisonCard 
+                  title="विशेषताहरू (Tags) - PR"
+                  data1={party1.current_stats_json?.pr?.tags}
+                  data2={party2.current_stats_json?.pr?.tags}
+                  total1={party1.current_stats_json?.pr?.total}
+                  total2={party2.current_stats_json?.pr?.total}
                   label1={party1.party_name}
                   label2={party2.party_name}
                   columns={2}
@@ -350,4 +424,23 @@ function DistributionComparisonCard({
             </div>
         </div>
     )
+}
+
+// Required Suspense wrapper for useSearchParams
+export default function PartyComparisonPage() {
+  return (
+    <Suspense fallback={
+      <main className="container mx-auto px-4 py-8 pb-20">
+        <div className="animate-pulse space-y-12">
+          <div className="flex flex-col items-center gap-4">
+            <div className="h-20 w-20 rounded-3xl bg-muted" />
+            <div className="h-10 w-64 rounded bg-muted" />
+            <div className="h-6 w-96 rounded bg-muted" />
+          </div>
+        </div>
+      </main>
+    }>
+      <PartyComparisonPageContent />
+    </Suspense>
+  )
 }

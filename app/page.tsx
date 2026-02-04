@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useCallback } from "react"
+import { useState, useCallback, Suspense } from "react"
 import { CandidateFilter } from "@/components/candidate/candidate-filter"
 import { CandidatePreviewGrid } from "@/components/candidate/candidate-preview-grid"
 import { ProfileHeader } from "@/components/candidate/profile-header"
@@ -14,12 +14,17 @@ import { PRCandidateFilter } from "@/components/candidate/pr-candidate-filter"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Users, ChevronRight, BarChart3, ArrowLeft } from "lucide-react"
 import { type CandidateType } from "@/lib/candidates-data"
+import { useUrlState } from "@/hooks/use-url-state"
+import { defaultFilterState, getFPTPFilterState, getPRFilterState, type UrlFilterState } from "@/lib/filter-types"
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type AnyCandidate = any
 
-export default function CandidateProfilePage() {
-  const [candidateType, setCandidateType] = useState<CandidateType>("fptp")
+function CandidatePageContent() {
+  const [urlState, setUrlState, resetUrlState] = useUrlState(defaultFilterState)
+  
+  // Derive candidate type from URL
+  const candidateType = urlState.tab === 'pr' ? 'pr' : 'fptp'
 
   // FPTP state
   const [selectedFPTPCandidate, setSelectedFPTPCandidate] = useState<AnyCandidate | null>(null)
@@ -40,6 +45,7 @@ export default function CandidateProfilePage() {
 
   const handleBackToFPTPResults = () => {
     setSelectedFPTPCandidate(null)
+    setUrlState({ candidate: 0 })
   }
 
   // PR handlers
@@ -53,6 +59,7 @@ export default function CandidateProfilePage() {
 
   const handleBackToPRResults = () => {
     setSelectedPRCandidate(null)
+    setUrlState({ candidate: 0 })
   }
 
   // Computed state based on candidate type
@@ -66,7 +73,25 @@ export default function CandidateProfilePage() {
   const showPreview = !showDetail && filteredCandidates.length > 1
 
   const handleTabChange = (value: string) => {
-    setCandidateType(value as CandidateType)
+    if (value === 'pr') {
+      setUrlState({
+        tab: 'pr',
+        state: 0,        // Clear FPTP-specific
+        district: 0,
+        constituency: 0,
+        candidate: 0,
+      })
+      setSelectedFPTPCandidate(null)
+      setSelectedPRCandidate(null)
+    } else {
+      setUrlState({
+        tab: 'fptp',
+        group: '',       // Clear PR-specific
+        candidate: 0,
+      })
+      setSelectedFPTPCandidate(null)
+      setSelectedPRCandidate(null)
+    }
   }
 
   return (
@@ -109,6 +134,8 @@ export default function CandidateProfilePage() {
               onSelectCandidate={handleSelectFPTPCandidate}
               onFilteredCandidatesChange={handleFPTPFilteredCandidatesChange}
               selectedCandidate={selectedFPTPCandidate}
+              urlState={getFPTPFilterState(urlState)}
+              onUrlStateChange={setUrlState}
             />
 
             {/* Back button when viewing detail */}
@@ -193,6 +220,8 @@ export default function CandidateProfilePage() {
               onSelectCandidate={handleSelectPRCandidate}
               onFilteredCandidatesChange={handlePRFilteredCandidatesChange}
               selectedCandidate={selectedPRCandidate}
+              urlState={getPRFilterState(urlState)}
+              onUrlStateChange={setUrlState}
             />
 
             {/* Back button when viewing detail */}
@@ -242,5 +271,21 @@ export default function CandidateProfilePage() {
         </Tabs>
       </main>
     </>
+  )
+}
+
+// Required Suspense wrapper for useSearchParams
+export default function CandidateProfilePage() {
+  return (
+    <Suspense fallback={
+      <main className="mx-auto max-w-7xl px-4 py-6 md:py-8">
+        <div className="animate-pulse space-y-6">
+          <div className="h-8 w-64 rounded bg-muted" />
+          <div className="h-48 w-full rounded-2xl bg-muted" />
+        </div>
+      </main>
+    }>
+      <CandidatePageContent />
+    </Suspense>
   )
 }

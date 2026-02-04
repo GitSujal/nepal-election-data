@@ -237,6 +237,30 @@ export function PartyStats({ party }: PartyStatsProps) {
               </div>
             </StatCard>
           </div>
+
+          {/* Tags - Detailed Bar Chart View for PR */}
+          <StatCard title="विशेषताहरू (Tags)" icon={<Tag className="h-5 w-5" />} className="w-full">
+            <div className="grid gap-x-12 gap-y-8 sm:grid-cols-2">
+              {[...(pr.tags || [])]
+                .sort((a, b) => b.count - a.count)
+                .map((item: any, idx, arr) => {
+                  const maxCount = Math.max(...arr.map((i: any) => i.count))
+                  return (
+                    <StatItem 
+                      key={item.group} 
+                      label={
+                        <Badge variant="outline" className="rounded-lg border-primary/20 bg-primary/5 px-3 py-1 font-bold text-primary">
+                          {item.group}
+                        </Badge>
+                      } 
+                      count={item.count} 
+                      maxCount={maxCount}
+                      colorClass="bg-indigo-500"
+                    />
+                  )
+                })}
+            </div>
+          </StatCard>
         </TabsContent>
       </Tabs>
     </div>

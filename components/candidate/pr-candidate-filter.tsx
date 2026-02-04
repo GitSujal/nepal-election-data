@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo, useRef } from "react"
 import { ChevronDown, X, Filter, Shield, Star, Crown, Trophy, ArrowDown, User, Users, Accessibility, MapPin, Medal, TrendingUp, TrendingDown, RotateCcw, Zap, Repeat, Baby, PartyPopper, Banknote, HeartHandshake } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
 import { badgeDefinitions } from "@/lib/candidates-data"
+import type { PRFilterState } from "@/lib/filter-types"
 
 const iconMap: Record<string, React.ElementType> = {
   shield: Shield,
@@ -43,12 +44,18 @@ interface PRCandidateFilterProps {
   onSelectCandidate: (candidate: PRCandidateData | null) => void
   onFilteredCandidatesChange: (candidates: PRCandidateData[]) => void
   selectedCandidate: PRCandidateData | null
+  // URL state integration
+  urlState: PRFilterState
+  onUrlStateChange: (updates: Partial<PRFilterState>) => void
 }
 
-export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChange, selectedCandidate }: PRCandidateFilterProps) {
-  const [party, setParty] = useState<string>("")
-  const [inclusiveGroup, setInclusiveGroup] = useState<string>("")
-  const [selectedBadges, setSelectedBadges] = useState<string[]>([])
+export function PRCandidateFilter({
+  onSelectCandidate,
+  onFilteredCandidatesChange,
+  selectedCandidate,
+  urlState,
+  onUrlStateChange,
+}: PRCandidateFilterProps) {
   const [badgeDropdownOpen, setBadgeDropdownOpen] = useState(false)
   const badgeDropdownRef = useRef<HTMLDivElement>(null)
 
@@ -77,7 +84,7 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
   const inclusiveGroups = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (party) filtered = filtered.filter(c => c.political_party_name === party)
+    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
     const groups = new Set<string>()
     for (const c of filtered) {
       if (c.inclusive_group && c.inclusive_group.trim()) {
@@ -85,14 +92,14 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
       }
     }
     return Array.from(groups).sort()
-  }, [allCandidates, party])
+  }, [allCandidates, urlState.party])
 
   // Available badges based on current filters
   const availableBadges = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (party) filtered = filtered.filter(c => c.political_party_name === party)
-    if (inclusiveGroup) filtered = filtered.filter(c => c.inclusive_group === inclusiveGroup)
+    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
+    if (urlState.group) filtered = filtered.filter(c => c.inclusive_group === urlState.group)
     const badgeSet = new Set<string>()
     for (const c of filtered) {
       if (c.tags) {
@@ -100,17 +107,17 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
       }
     }
     return Object.keys(badgeDefinitions).filter(b => badgeSet.has(b))
-  }, [allCandidates, party, inclusiveGroup])
+  }, [allCandidates, urlState.party, urlState.group])
 
   // Filter candidates based on selected filters, sorted by party_display_order then rank
   const filteredCandidates = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (party) filtered = filtered.filter(c => c.political_party_name === party)
-    if (inclusiveGroup) filtered = filtered.filter(c => c.inclusive_group === inclusiveGroup)
-    if (selectedBadges.length > 0) {
+    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
+    if (urlState.group) filtered = filtered.filter(c => c.inclusive_group === urlState.group)
+    if (urlState.badges.length > 0) {
       filtered = filtered.filter(c =>
-        c.tags && selectedBadges.every(b => c.tags.includes(b))
+        c.tags && urlState.badges.every(b => c.tags.includes(b))
       )
     }
     return [...filtered].sort((a, b) => {
@@ -118,24 +125,33 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
       if (orderDiff !== 0) return orderDiff
       return a.rank_position - b.rank_position
     })
-  }, [allCandidates, party, inclusiveGroup, selectedBadges])
+  }, [allCandidates, urlState.party, urlState.group, urlState.badges])
 
   // Notify parent of filtered candidates
   useEffect(() => {
     onFilteredCandidatesChange(filteredCandidates)
   }, [filteredCandidates, onFilteredCandidatesChange])
 
-  // Reset dependent filters when party changes
-  useEffect(() => {
-    setInclusiveGroup("")
-  }, [party])
-
   // Auto-select candidate if only one available
   useEffect(() => {
-    if ((party || inclusiveGroup) && filteredCandidates.length === 1) {
+    if ((urlState.party || urlState.group) && filteredCandidates.length === 1) {
       onSelectCandidate(filteredCandidates[0])
+      onUrlStateChange({ candidate: filteredCandidates[0].serial_no })
     }
-  }, [filteredCandidates, party, inclusiveGroup, onSelectCandidate])
+  }, [filteredCandidates, urlState.party, urlState.group, onSelectCandidate, onUrlStateChange])
+
+  // Select candidate from URL state on initial load
+  useEffect(() => {
+    if (urlState.candidate && allCandidates && !selectedCandidate) {
+      const candidate = filteredCandidates.find(c => c.serial_no === urlState.candidate)
+      if (candidate) {
+        onSelectCandidate(candidate)
+      } else if (filteredCandidates.length > 0) {
+        // Candidate ID doesn't match any in filtered results, clear it
+        onUrlStateChange({ candidate: 0 })
+      }
+    }
+  }, [urlState.candidate, allCandidates, filteredCandidates, selectedCandidate, onSelectCandidate, onUrlStateChange])
 
   // Close badge dropdown on outside click
   useEffect(() => {
@@ -148,20 +164,43 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
     return () => document.removeEventListener("mousedown", handleClickOutside)
   }, [])
 
+  // Handle party change - cascade reset children
+  const handlePartyChange = (partyName: string) => {
+    onUrlStateChange({
+      party: partyName,
+      group: '',
+      candidate: 0,
+    })
+    onSelectCandidate(null)
+  }
+
+  // Handle group change
+  const handleGroupChange = (groupName: string) => {
+    onUrlStateChange({
+      group: groupName,
+      candidate: 0,
+    })
+    onSelectCandidate(null)
+  }
+
   const handleReset = () => {
-    setParty("")
-    setInclusiveGroup("")
-    setSelectedBadges([])
+    onUrlStateChange({
+      party: '',
+      group: '',
+      badges: [],
+      candidate: 0,
+    })
     onSelectCandidate(null)
   }
 
   const toggleBadge = (badge: string) => {
-    setSelectedBadges(prev =>
-      prev.includes(badge) ? prev.filter(b => b !== badge) : [...prev, badge]
-    )
+    const newBadges = urlState.badges.includes(badge)
+      ? urlState.badges.filter(b => b !== badge)
+      : [...urlState.badges, badge]
+    onUrlStateChange({ badges: newBadges })
   }
 
-  const hasActiveFilters = party || inclusiveGroup || selectedBadges.length > 0
+  const hasActiveFilters = urlState.party || urlState.group || urlState.badges.length > 0
 
   return (
     <div className="rounded-2xl border border-border bg-card p-4 md:p-6">
@@ -195,8 +234,8 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
             <label className="mb-1 block text-xs font-medium text-muted-foreground">दल</label>
             <div className="relative">
               <select
-                value={party}
-                onChange={(e) => setParty(e.target.value)}
+                value={urlState.party}
+                onChange={(e) => handlePartyChange(e.target.value)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै दलहरू ({parties.length})</option>
@@ -213,8 +252,8 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
             <label className="mb-1 block text-xs font-medium text-muted-foreground">समावेशी समूह</label>
             <div className="relative">
               <select
-                value={inclusiveGroup}
-                onChange={(e) => setInclusiveGroup(e.target.value)}
+                value={urlState.group}
+                onChange={(e) => handleGroupChange(e.target.value)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै समूहहरू ({inclusiveGroups.length})</option>
@@ -234,10 +273,10 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
               onClick={() => setBadgeDropdownOpen(o => !o)}
               className="flex w-full items-center justify-between rounded-lg border border-border bg-input px-4 py-2.5 text-left text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
             >
-              <span className={selectedBadges.length === 0 ? "text-muted-foreground" : ""}>
-                {selectedBadges.length === 0
+              <span className={urlState.badges.length === 0 ? "text-muted-foreground" : ""}>
+                {urlState.badges.length === 0
                   ? `सबै विशेषताहरू (${availableBadges.length})`
-                  : `${selectedBadges.length} चयन गरिएको`}
+                  : `${urlState.badges.length} चयन गरिएको`}
               </span>
               <ChevronDown className="h-4 w-4 text-muted-foreground" />
             </button>
@@ -245,7 +284,7 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
               <div className="absolute z-50 mt-1 max-h-64 w-full overflow-y-auto rounded-lg border border-border bg-card shadow-lg">
                 {availableBadges.map(badge => {
                   const def = badgeDefinitions[badge]
-                  const isSelected = selectedBadges.includes(badge)
+                  const isSelected = urlState.badges.includes(badge)
                   const Icon = def ? iconMap[def.icon] : null
                   return (
                     <button
@@ -279,9 +318,9 @@ export function PRCandidateFilter({ onSelectCandidate, onFilteredCandidatesChang
       )}
 
       {/* Selected badge showcase cards */}
-      {selectedBadges.length > 0 && (
+      {urlState.badges.length > 0 && (
         <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-          {selectedBadges.map(badge => {
+          {urlState.badges.map(badge => {
             const def = badgeDefinitions[badge]
             const Icon = def ? iconMap[def.icon] : null
             const color = def?.color ?? "primary"

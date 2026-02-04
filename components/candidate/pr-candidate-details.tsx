@@ -260,7 +260,7 @@ export function PRCandidateDetails({ candidate }: PRCandidateDetailsProps) {
                 <div className="flex items-center gap-3 rounded-lg bg-warning/10 px-4 py-3">
                   <span className="text-2xl">🔄</span>
                   <div>
-                    <p className="font-medium text-warning">बहादुर (Varaute)</p>
+                    <p className="font-medium text-warning">पानी मरुवा</p>
                     <p className="text-xs text-muted-foreground">प्रत्यक्षमा हारेर समानुपातिकमा आएका</p>
                   </div>
                 </div>

@@ -1,12 +1,14 @@
 "use client"
 
-import { useState } from "react"
+import { useState, Suspense } from "react"
 import { ConstituencyFilter } from "@/components/constituency/constituency-filter"
 import { ConstituencyHeader } from "@/components/constituency/constituency-header"
 import { FPTPResults } from "@/components/constituency/fptp-results"
 import { ProportionalResults } from "@/components/constituency/proportional-results"
 import { ElectionComparison } from "@/components/constituency/election-comparison"
 import { Vote, MapPin } from "lucide-react"
+import { useUrlState } from "@/hooks/use-url-state"
+import { defaultConstituencyFilterState } from "@/lib/filter-types"
 
 interface ConstituencyData {
   state_id: number
@@ -23,7 +25,8 @@ interface ConstituencyData {
   [key: string]: any
 }
 
-export default function ConstituencyProfilePage() {
+function ConstituencyPageContent() {
+  const [urlState, setUrlState] = useUrlState(defaultConstituencyFilterState)
   const [selectedConstituency, setSelectedConstituency] = useState<ConstituencyData | null>(null)
 
   return (
@@ -52,6 +55,8 @@ export default function ConstituencyProfilePage() {
         <div className="mb-8">
           <ConstituencyFilter
             onSelect={setSelectedConstituency}
+            urlState={urlState}
+            onUrlStateChange={setUrlState}
           />
         </div>
 
@@ -106,5 +111,25 @@ export default function ConstituencyProfilePage() {
         )}
       </div>
     </main>
+  )
+}
+
+// Required Suspense wrapper for useSearchParams
+export default function ConstituencyProfilePage() {
+  return (
+    <Suspense fallback={
+      <main>
+        <div className="border-b border-border bg-card/50">
+          <div className="container mx-auto px-4 py-8">
+            <div className="animate-pulse space-y-4">
+              <div className="h-14 w-48 rounded bg-muted" />
+              <div className="h-6 w-96 rounded bg-muted" />
+            </div>
+          </div>
+        </div>
+      </main>
+    }>
+      <ConstituencyPageContent />
+    </Suspense>
   )
 }
