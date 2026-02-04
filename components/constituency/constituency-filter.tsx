@@ -73,13 +73,17 @@ export function ConstituencyFilter({ onSelect, urlState, onUrlStateChange }: Con
 
   // Select constituency from URL on load
   useEffect(() => {
-    if (urlState.constituency && allConstituencies) {
-      const constituency = allConstituencies.find(c => c.constituency_id === urlState.constituency)
+    if (urlState.constituency && allConstituencies && urlState.state && urlState.district) {
+      const constituency = allConstituencies.find(
+        c => c.state_name === urlState.state &&
+             c.district_name === urlState.district &&
+             c.constituency_id === urlState.constituency
+      )
       if (constituency) {
         onSelect(constituency)
       }
     }
-  }, [urlState.constituency, allConstituencies, onSelect])
+  }, [urlState.constituency, urlState.state, urlState.district, allConstituencies, onSelect])
 
   const handleStateChange = (newState: string) => {
     onUrlStateChange({
