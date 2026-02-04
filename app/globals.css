@@ -3,32 +3,133 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/*
+  Light theme (default)
+  - Clean, professional colors with proper contrast
+  - Green primary (Nepal election theme) and orange accent
+*/
 :root {
+  /* Core backgrounds */
+  --background: oklch(0.985 0.002 240);
+  --foreground: oklch(0.15 0.01 260);
+
+  /* Cards and surfaces */
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.15 0.01 260);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.15 0.01 260);
+
+  /* Primary - Green (election theme) */
+  --primary: oklch(0.5 0.16 150);
+  --primary-foreground: oklch(0.98 0 0);
+
+  /* Secondary - Subtle gray */
+  --secondary: oklch(0.95 0.005 260);
+  --secondary-foreground: oklch(0.25 0.01 260);
+
+  /* Muted - For subtle text and backgrounds */
+  --muted: oklch(0.94 0.005 260);
+  --muted-foreground: oklch(0.45 0.02 260);
+
+  /* Accent - Orange */
+  --accent: oklch(0.65 0.2 45);
+  --accent-foreground: oklch(0.98 0 0);
+
+  /* Destructive - Red */
+  --destructive: oklch(0.55 0.22 25);
+  --destructive-foreground: oklch(0.98 0 0);
+
+  /* Borders and inputs */
+  --border: oklch(0.88 0.01 260);
+  --input: oklch(0.88 0.01 260);
+  --ring: oklch(0.5 0.16 150);
+
+  /* Chart colors - vibrant for light mode */
+  --chart-1: oklch(0.55 0.18 150);
+  --chart-2: oklch(0.6 0.2 45);
+  --chart-3: oklch(0.55 0.15 200);
+  --chart-4: oklch(0.65 0.15 85);
+  --chart-5: oklch(0.6 0.2 320);
+
+  /* Radius */
+  --radius: 0.75rem;
+
+  /* Sidebar colors */
+  --sidebar: oklch(0.98 0.002 260);
+  --sidebar-foreground: oklch(0.15 0.01 260);
+  --sidebar-primary: oklch(0.5 0.16 150);
+  --sidebar-primary-foreground: oklch(0.98 0 0);
+  --sidebar-accent: oklch(0.94 0.005 260);
+  --sidebar-accent-foreground: oklch(0.25 0.01 260);
+  --sidebar-border: oklch(0.88 0.01 260);
+  --sidebar-ring: oklch(0.5 0.16 150);
+
+  /* Custom tokens for game profile */
+  --gold: oklch(0.7 0.16 85);
+  --gold-foreground: oklch(0.2 0.03 85);
+  --silver: oklch(0.55 0.02 260);
+  --silver-foreground: oklch(0.98 0 0);
+  --bronze: oklch(0.55 0.12 55);
+  --bronze-foreground: oklch(0.98 0 0);
+  --success: oklch(0.55 0.18 150);
+  --warning: oklch(0.65 0.15 85);
+  --winner: oklch(0.5 0.18 150);
+  --loser: oklch(0.55 0.22 25);
+
+  /* Comparison colors */
+  --compare-primary: oklch(0.5 0.16 150);
+  --compare-secondary: oklch(0.5 0.2 270);
+}
+
+/*
+  Dark theme
+  - Deep, rich backgrounds with softer contrast
+  - Maintains brand colors but adjusted for dark mode
+*/
+.dark {
+  /* Core backgrounds - Deep blue-gray */
   --background: oklch(0.12 0.01 260);
   --foreground: oklch(0.95 0 0);
+
+  /* Cards and surfaces */
   --card: oklch(0.16 0.015 260);
   --card-foreground: oklch(0.95 0 0);
   --popover: oklch(0.18 0.015 260);
   --popover-foreground: oklch(0.95 0 0);
+
+  /* Primary - Brighter green for dark mode */
   --primary: oklch(0.7 0.18 150);
   --primary-foreground: oklch(0.12 0.01 260);
+
+  /* Secondary */
   --secondary: oklch(0.22 0.02 260);
   --secondary-foreground: oklch(0.9 0 0);
+
+  /* Muted */
   --muted: oklch(0.2 0.015 260);
   --muted-foreground: oklch(0.6 0.02 260);
+
+  /* Accent - Brighter orange for dark mode */
   --accent: oklch(0.65 0.2 40);
   --accent-foreground: oklch(0.12 0.01 260);
+
+  /* Destructive */
   --destructive: oklch(0.55 0.22 25);
   --destructive-foreground: oklch(0.95 0 0);
+
+  /* Borders and inputs */
   --border: oklch(0.25 0.02 260);
   --input: oklch(0.2 0.015 260);
   --ring: oklch(0.7 0.18 150);
+
+  /* Chart colors - adjusted for dark mode */
   --chart-1: oklch(0.7 0.18 150);
   --chart-2: oklch(0.65 0.2 40);
   --chart-3: oklch(0.6 0.15 200);
   --chart-4: oklch(0.75 0.15 80);
   --chart-5: oklch(0.65 0.2 320);
-  --radius: 0.75rem;
+
+  /* Sidebar colors */
   --sidebar: oklch(0.14 0.01 260);
   --sidebar-foreground: oklch(0.95 0 0);
   --sidebar-primary: oklch(0.7 0.18 150);
@@ -37,15 +138,22 @@
   --sidebar-accent-foreground: oklch(0.9 0 0);
   --sidebar-border: oklch(0.25 0.02 260);
   --sidebar-ring: oklch(0.7 0.18 150);
-  
+
   /* Custom tokens for game profile */
   --gold: oklch(0.8 0.15 85);
+  --gold-foreground: oklch(0.12 0.01 260);
   --silver: oklch(0.75 0.02 260);
+  --silver-foreground: oklch(0.12 0.01 260);
   --bronze: oklch(0.6 0.12 55);
+  --bronze-foreground: oklch(0.12 0.01 260);
   --success: oklch(0.7 0.18 150);
   --warning: oklch(0.75 0.15 80);
   --winner: oklch(0.7 0.18 150);
   --loser: oklch(0.55 0.22 25);
+
+  /* Comparison colors */
+  --compare-primary: oklch(0.7 0.18 150);
+  --compare-secondary: oklch(0.65 0.2 270);
 }
 
 @theme inline {
@@ -88,12 +196,17 @@
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-gold: var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
   --color-silver: var(--silver);
+  --color-silver-foreground: var(--silver-foreground);
   --color-bronze: var(--bronze);
+  --color-bronze-foreground: var(--bronze-foreground);
   --color-success: var(--success);
   --color-warning: var(--warning);
   --color-winner: var(--winner);
   --color-loser: var(--loser);
+  --color-compare-primary: var(--compare-primary);
+  --color-compare-secondary: var(--compare-secondary);
 }
 
 @layer base {

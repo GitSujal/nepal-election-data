@@ -48,7 +48,7 @@ export default function PartyComparisonPage() {
             </div>
           </div>
           <div className="flex items-center gap-3 border-l border-border pl-12">
-            <div className="h-4 w-12 rounded-full bg-indigo-500" />
+            <div className="h-4 w-12 rounded-full bg-compare-secondary" />
             <div className="flex flex-col">
               <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">पार्टी ख</span>
               <span className="text-sm font-black text-foreground">{party2.party_name}</span>
@@ -223,11 +223,11 @@ function SeatComparisonCard({ title, p1, p2, label1, label2 }: { title: string, 
         <div className="space-y-4">
           <div className="flex items-center justify-between font-extrabold">
              <span className="text-secondary-foreground text-base">{label2}</span>
-             <span className="text-2xl text-indigo-600 tabular-nums">{p2}</span>
+             <span className="text-2xl text-compare-secondary tabular-nums">{p2}</span>
           </div>
           <div className="relative h-6 w-full overflow-hidden rounded-r-lg bg-secondary/30">
              <div 
-                className="h-full bg-indigo-500 transition-all duration-1000 ease-out shadow-[0_0_15px_rgba(99,102,241,0.3)]" 
+                className="h-full bg-compare-secondary transition-all duration-1000 ease-out shadow-[0_0_15px_color-mix(in_oklch,var(--compare-secondary)_30%,transparent)]" 
                 style={{ width: `${(p2/max)*100}%` }} 
              />
           </div>
@@ -262,10 +262,10 @@ function MetricComparisonCard({ title, v1, v2, suffix = "", type = "higher-is-be
 
                 <div className={cn(
                     "flex flex-1 flex-col items-center justify-center rounded-2xl p-6 transition-all duration-500",
-                    isV2Better ? "bg-indigo-500/10 ring-2 ring-indigo-500/20 scale-105" : "bg-secondary/30"
+                    isV2Better ? "bg-compare-secondary/10 ring-2 ring-compare-secondary/20 scale-105" : "bg-secondary/30"
                 )}>
-                    <span className={cn("text-4xl font-black tabular-nums", isV2Better ? "text-indigo-600" : "text-foreground")}>{formatValue(v2)}</span>
-                    {isV2Better && <TrendingUp className="mt-2 h-6 w-6 text-indigo-600" />}
+                    <span className={cn("text-4xl font-black tabular-nums", isV2Better ? "text-compare-secondary" : "text-foreground")}>{formatValue(v2)}</span>
+                    {isV2Better && <TrendingUp className="mt-2 h-6 w-6 text-compare-secondary" />}
                 </div>
             </div>
         </div>
@@ -325,7 +325,7 @@ function DistributionComparisonCard({
                                 <span className="text-base font-extrabold text-foreground">{group}</span>
                                 <div className="flex gap-6 text-xs font-bold tabular-nums">
                                    <span className="text-primary">{v1} ({p1.toFixed(1)}%)</span>
-                                   <span className="text-indigo-600">{v2} ({p2.toFixed(1)}%)</span>
+                                   <span className="text-compare-secondary">{v2} ({p2.toFixed(1)}%)</span>
                                 </div>
                             </div>
                             <div className="space-y-2">
@@ -339,7 +339,7 @@ function DistributionComparisonCard({
                                 {/* Party 2 Bar */}
                                 <div className="relative h-6 w-full overflow-hidden rounded-r-lg bg-secondary/30">
                                     <div 
-                                        className="h-full bg-indigo-500 transition-all duration-1000 ease-out shadow-[0_0_15px_rgba(99,102,241,0.3)]" 
+                                        className="h-full bg-compare-secondary transition-all duration-1000 ease-out shadow-[0_0_15px_color-mix(in_oklch,var(--compare-secondary)_30%,transparent)]" 
                                         style={{ width: `${p2}%` }} 
                                     />
                                 </div>

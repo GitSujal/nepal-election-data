@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation"
 import Image from "next/image"
 import { User, MapPin, Building2, Scale } from "lucide-react"
 import { cn } from "@/lib/utils"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 export function NavHeader() {
   const pathname = usePathname()
@@ -69,6 +70,11 @@ export function NavHeader() {
               </Link>
             )
           })}
+
+          {/* Theme Toggle */}
+          <div className="ml-2 border-l border-border pl-2">
+            <ThemeToggle />
+          </div>
         </nav>
       </div>
     </header>
