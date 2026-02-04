@@ -26,6 +26,9 @@ ocr/
 /.next/
 /out/
 
+# exclude pubic/data too as it is generated during build
+/public/data/
+
 # production
 /build
 
@@ -44,3 +47,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Exclude duckdb files
+*.duckdb
+*.db

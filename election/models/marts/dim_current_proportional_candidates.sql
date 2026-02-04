@@ -16,8 +16,19 @@ parties as (
     select * from {{ ref('dim_parties') }}
 ),
 
-parliament_members as (
+parliament_members_raw as (
     select * from {{ ref('dim_parliament_members') }}
+),
+
+-- Party matching helper for parliament members
+-- Pre-normalize parliament member parties for easier matching
+parliament_members as (
+    select
+        *,
+        {{ sanitize_party_name('party_2079_np') }} as party_2079_norm,
+        {{ sanitize_party_name('party_2074_np') }} as party_2074_norm,
+        list_transform(list_filter(parties_np, x -> x is not null), x -> {{ sanitize_party_name('x') }}) as parties_norm
+    from parliament_members_raw
 ),
 
 proportional_mapping as (
@@ -178,11 +189,24 @@ bokuwa_flags as (
     group by serial_no, political_party_name
 ),
 
-current_normalized as (
+-- Calculate ranking within each inclusive group (bariyata kram within samaveshi samuh)
+within_group_ranked as (
     select
         cc.*,
-        cc.candidate_name_normalized
+        cc.candidate_name_normalized,
+        row_number() over (
+            partition by cc.inclusive_group_normalized
+            order by cc.serial_no
+        ) as rank_within_group,
+        count(*) over (partition by cc.inclusive_group_normalized) as group_total_count
     from current cc
+),
+
+current_normalized as (
+    select
+        *,
+        candidate_name_normalized
+    from within_group_ranked
 ),
 
 joined as (
@@ -191,7 +215,7 @@ joined as (
         cc.full_name as candidate_name,
         cc.voter_id_number,
         cc.gender,
-        cc.inclusive_group,
+        cc.inclusive_group_normalized as inclusive_group,
         cc.citizenship_district,
         cc.backward_area,
         cc.disability,
@@ -203,6 +227,10 @@ joined as (
 
         -- Rank is CRITICAL for proportional candidates
         cast(cc.serial_no as integer) as rank_position,
+
+        -- Rank within inclusive group (bariyata kram within samaveshi samuh)
+        cc.rank_within_group,
+        cc.group_total_count,
 
         -- Party matching logic: direct match, then seed mapping, then associated_party, then robust match
         coalesce(p_direct.party_id, p_mapped.party_id, p_assoc.party_id, p_robust.party_id) as party_id,
@@ -313,9 +341,15 @@ joined as (
         on cc.political_party_name = pr79.political_party_name
     left join prev_2074_party_summary pr74
         on cc.political_party_name = pr74.political_party_name
-    -- Join parliament members
+    -- Join parliament members with party validation to avoid false positives from name collisions
+    -- Must match on normalized name AND have party consistency (normalized party names must match)
     left join parliament_members pm
         on cc.candidate_name_normalized = pm.name_normalized
+        and (
+            {{ sanitize_party_name('cc.political_party_name') }} = pm.party_2079_norm
+            or {{ sanitize_party_name('cc.political_party_name') }} = pm.party_2074_norm
+            or list_contains(pm.parties_norm, {{ sanitize_party_name('cc.political_party_name') }})
+        )
     -- Join new stats and losers
     left join pr_stats ps
         on cc.candidate_name_normalized = ps.name_normalized
@@ -371,23 +405,17 @@ with_tags as (
             else false
         end as is_party_loyal,
 
-        -- High rank: top 10 in party list (critical for proportional system)
+        -- High rank: top 10 within inclusive group (critical for proportional system)
         case
-            when rank_position <= 10 then true
+            when rank_within_group <= 10 then true
             else false
         end as is_high_rank,
 
-        -- Top rank: top 5 in party list (very likely to win)
+        -- Top rank: top 5 within inclusive group (very likely to win)
         case
-            when rank_position <= 5 then true
+            when rank_within_group <= 5 then true
             else false
         end as is_top_rank,
-
-        -- Low rank: rank > 50 (unlikely to win)
-        case
-            when rank_position > 50 then true
-            else false
-        end as is_low_rank,
 
         -- Women candidate
         case
@@ -447,13 +475,19 @@ with_tags as (
             else false
         end as is_varaute,
 
-        -- Gati chhada: PR member more than once
-        -- OR was a parliament member at least once and is currently in the PR candidate list
+        -- Gati Xada: was proportional parliament member before and is current PR candidate too
+        -- Continuing the same proportional election path
         case
-            when pr_times_elected > 1 then true
-            when times_elected >= 1 then true
+            when is_proportional_veteran then true
             else false
-        end as is_gati_chhada
+        end as is_gati_xada,
+
+        -- Hutihara: won previous FPTP election (became parliament member) and now in PR candidate list
+        -- Switched from direct/FPTP to proportional representation
+        case
+            when is_fptp_veteran then true
+            else false
+        end as is_hutihara
 
     from joined
 )
@@ -467,7 +501,6 @@ select
             case when is_party_loyal then 'पार्टीप्रति वफादार' end,
             case when is_top_rank then 'शीर्ष वरीयता (१-५)' end,
             case when is_high_rank and not is_top_rank then 'उच्च वरीयता (६-१०)' end,
-            case when is_low_rank then 'तल्लो वरीयता (५०+)' end,
             case when is_women then 'महिला' end,
             case when is_inclusive_group then 'समावेशी समूह' end,
             case when has_disability then 'अपाङ्गता' end,
@@ -478,8 +511,9 @@ select
             case when is_opportunist then 'अवसरवादी' end,
             case when is_from_improving_party then 'सुधारोन्मुख पार्टी' end,
             case when is_from_declining_party then 'खस्कँदो पार्टी' end,
-            case when is_varaute then 'बहादुर' end, -- Assuming Varaute means brave or similar context in some cases, but often means switcher/opportunist. I'll use Varaute/बहादुर or just the phonetic. Actually Varaute means those who keep coming back without winning? I'll use 'बहादुर (दोहोरिने)'
-            case when is_gati_chhada then 'गति छाडा' end,
+            case when is_varaute then 'पानी मरुवा' end, -- pani maruwa
+            case when is_gati_xada then 'गति छाडा' end,
+            case when is_hutihara then 'हुतिहरा' end,
             case when is_budi_bokuwa then 'बुढी बोकुवा' end,
             case when is_budo_bokuwa then 'बुढो बोकुवा' end
         ],

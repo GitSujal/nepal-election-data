@@ -37,3 +37,6 @@ sources:
 
       - name: political_party_symbols
         description: Political party information from Wikipedia including symbols, leaders, and founding years
+
+      - name: candidate_address_to_district_mapping
+        description: Mapping of candidate addresses to districts (Basobas Jilla) with sanitization and matching logic

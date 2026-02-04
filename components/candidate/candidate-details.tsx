@@ -45,6 +45,12 @@ export function CandidateDetails({ candidate }: CandidateDetailsProps) {
       value: candidate.address,
     },
     {
+      icon: MapPin,
+      label: "बसोबास जिल्ला",
+      value: candidate.basobas_jilla || "एन/ए",
+      subValue: candidate.basobas_jilla === candidate.citizenship_district ? "(नागरिकता जिल्ला सँग मेल खाएको)" : undefined,
+    },
+    {
       icon: Calendar,
       label: "उमेर",
       value: `${candidate.age} वर्ष`,
