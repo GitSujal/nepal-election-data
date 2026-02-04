@@ -1,13 +1,16 @@
 "use client"
 
-import { useState } from "react"
+import { useState, Suspense } from "react"
 import { Building2, Vote } from "lucide-react"
 import { PartyFilter, PartyProfileData } from "@/components/party/party-filter"
 import { PartyHeader } from "@/components/party/party-header"
 import { PartyStats } from "@/components/party/party-stats"
 import { PartyHistory } from "@/components/party/party-history"
+import { useUrlState } from "@/hooks/use-url-state"
+import { defaultPartyFilterState } from "@/lib/filter-types"
 
-export default function PartyProfilePage() {
+function PartyPageContent() {
+  const [urlState, setUrlState] = useUrlState(defaultPartyFilterState)
   const [selectedParty, setSelectedParty] = useState<PartyProfileData | null>(null)
 
   return (
@@ -34,7 +37,7 @@ export default function PartyProfilePage() {
       <div className="container mx-auto px-4 py-8">
         {/* Filter */}
         <div className="mb-8">
-          <PartyFilter onSelect={setSelectedParty} />
+          <PartyFilter onSelect={setSelectedParty} urlState={urlState} onUrlStateChange={setUrlState} />
         </div>
 
         {/* Content */}
@@ -76,3 +79,22 @@ export default function PartyProfilePage() {
   )
 }
 
+// Required Suspense wrapper for useSearchParams
+export default function PartyProfilePage() {
+  return (
+    <Suspense fallback={
+      <main>
+        <div className="border-b border-border bg-card/50">
+          <div className="container mx-auto px-4 py-8">
+            <div className="animate-pulse space-y-4">
+              <div className="h-14 w-48 rounded bg-muted" />
+              <div className="h-6 w-96 rounded bg-muted" />
+            </div>
+          </div>
+        </div>
+      </main>
+    }>
+      <PartyPageContent />
+    </Suspense>
+  )
+}

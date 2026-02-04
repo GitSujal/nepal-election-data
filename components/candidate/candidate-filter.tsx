@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo, useRef } from "react"
 import { ChevronDown, X, Filter, Shield, Star, GraduationCap, Plane, Repeat, Footprints, Baby, Fingerprint, PartyPopper, Sparkles, UserRound, Banknote, Scissors, Medal, Crown, HeartHandshake } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
 import { badgeDefinitions } from "@/lib/candidates-data"
+import type { FPTPFilterState } from "@/lib/filter-types"
 
 const iconMap: Record<string, React.ElementType> = {
   shield: Shield,
@@ -25,12 +26,16 @@ const iconMap: Record<string, React.ElementType> = {
 }
 
 interface CandidateData {
-  candidate_id: string
+  candidate_id: number
   candidate_name: string
+  state_id: number
   state_name: string
+  district_id: number
   district_name: string
-  constituency_id: number | string
+  constituency_id: number
   political_party_name: string
+  party_display_order?: number
+  tags?: string[]
   [key: string]: any
 }
 
@@ -38,14 +43,18 @@ interface CandidateFilterProps {
   onSelectCandidate: (candidate: CandidateData | null) => void
   onFilteredCandidatesChange: (candidates: CandidateData[]) => void
   selectedCandidate: CandidateData | null
+  // URL state integration
+  urlState: FPTPFilterState
+  onUrlStateChange: (updates: Partial<FPTPFilterState>) => void
 }
 
-export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange, selectedCandidate }: CandidateFilterProps) {
-  const [state, setState] = useState<string>("")
-  const [district, setDistrict] = useState<string>("")
-  const [constituency, setConstituency] = useState<string>("")
-  const [party, setParty] = useState<string>("")
-  const [selectedBadges, setSelectedBadges] = useState<string[]>([])
+export function CandidateFilter({
+  onSelectCandidate,
+  onFilteredCandidatesChange,
+  selectedCandidate,
+  urlState,
+  onUrlStateChange,
+}: CandidateFilterProps) {
   const [badgeDropdownOpen, setBadgeDropdownOpen] = useState(false)
   const badgeDropdownRef = useRef<HTMLDivElement>(null)
 
@@ -54,36 +63,63 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     'dim_current_fptp_candidates'
   )
 
+  // Convert IDs to display values using useMemo
+  const selectedStateName = useMemo(() => {
+    if (!urlState.state || !allCandidates) return ''
+    const match = allCandidates.find(c => c.state_id === urlState.state)
+    return match?.state_name || ''
+  }, [urlState.state, allCandidates])
+
+  const selectedDistrictName = useMemo(() => {
+    if (!urlState.district || !allCandidates) return ''
+    const match = allCandidates.find(c => c.district_id === urlState.district)
+    return match?.district_name || ''
+  }, [urlState.district, allCandidates])
+
   // Extract unique states
   const states = useMemo(() => {
     if (!allCandidates) return []
-    const unique = Array.from(new Set(allCandidates.map(c => c.state_name)))
-    return unique.sort()
+    const stateMap = new Map<number, string>()
+    for (const c of allCandidates) {
+      if (!stateMap.has(c.state_id)) {
+        stateMap.set(c.state_id, c.state_name)
+      }
+    }
+    return Array.from(stateMap.entries())
+      .map(([id, name]) => ({ id, name }))
+      .sort((a, b) => a.name.localeCompare(b.name))
   }, [allCandidates])
 
   // Extract districts based on selected state
   const districts = useMemo(() => {
-    if (!allCandidates || !state) return []
-    const filtered = allCandidates.filter(c => c.state_name === state)
-    const unique = Array.from(new Set(filtered.map(c => c.district_name)))
-    return unique.sort()
-  }, [allCandidates, state])
+    if (!allCandidates || !urlState.state) return []
+    const filtered = allCandidates.filter(c => c.state_id === urlState.state)
+    const districtMap = new Map<number, string>()
+    for (const c of filtered) {
+      if (!districtMap.has(c.district_id)) {
+        districtMap.set(c.district_id, c.district_name)
+      }
+    }
+    return Array.from(districtMap.entries())
+      .map(([id, name]) => ({ id, name }))
+      .sort((a, b) => a.name.localeCompare(b.name))
+  }, [allCandidates, urlState.state])
 
   // Extract constituencies based on selected district
   const constituencies = useMemo(() => {
-    if (!allCandidates || !district) return []
-    const filtered = allCandidates.filter(c => c.district_name === district)
-    const unique = Array.from(new Set(filtered.map(c => String(c.constituency_id))))
-    return unique.sort((a, b) => parseInt(a) - parseInt(b))
-  }, [allCandidates, district])
+    if (!allCandidates || !urlState.district) return []
+    const filtered = allCandidates.filter(c => c.district_id === urlState.district)
+    const unique = Array.from(new Set(filtered.map(c => c.constituency_id)))
+    return unique.sort((a, b) => a - b)
+  }, [allCandidates, urlState.district])
 
   // Extract parties - filtered based on current selection, sorted by party_display_order
   const parties = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (state) filtered = filtered.filter(c => c.state_name === state)
-    if (district) filtered = filtered.filter(c => c.district_name === district)
-    if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
+    if (urlState.state) filtered = filtered.filter(c => c.state_id === urlState.state)
+    if (urlState.district) filtered = filtered.filter(c => c.district_id === urlState.district)
+    if (urlState.constituency) filtered = filtered.filter(c => c.constituency_id === urlState.constituency)
     // Build a map of party name → min display order
     const partyOrderMap = new Map<string, number>()
     for (const c of filtered) {
@@ -96,16 +132,16 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     return Array.from(partyOrderMap.entries())
       .sort((a, b) => a[1] - b[1])
       .map(([name]) => name)
-  }, [allCandidates, state, district, constituency])
+  }, [allCandidates, urlState.state, urlState.district, urlState.constituency])
 
   // Available badges based on current geographic/party filters
   const availableBadges = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (state) filtered = filtered.filter(c => c.state_name === state)
-    if (district) filtered = filtered.filter(c => c.district_name === district)
-    if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
-    if (party) filtered = filtered.filter(c => c.political_party_name === party)
+    if (urlState.state) filtered = filtered.filter(c => c.state_id === urlState.state)
+    if (urlState.district) filtered = filtered.filter(c => c.district_id === urlState.district)
+    if (urlState.constituency) filtered = filtered.filter(c => c.constituency_id === urlState.constituency)
+    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
     const badgeSet = new Set<string>()
     for (const c of filtered) {
       if (c.tags) {
@@ -113,65 +149,63 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
       }
     }
     return Object.keys(badgeDefinitions).filter(b => badgeSet.has(b))
-  }, [allCandidates, state, district, constituency, party])
+  }, [allCandidates, urlState.state, urlState.district, urlState.constituency, urlState.party])
 
   // Filter candidates based on selected filters, sorted by party_display_order
   const filteredCandidates = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (state) filtered = filtered.filter(c => c.state_name === state)
-    if (district) filtered = filtered.filter(c => c.district_name === district)
-    if (constituency) filtered = filtered.filter(c => String(c.constituency_id) === constituency)
-    if (party) filtered = filtered.filter(c => c.political_party_name === party)
-    if (selectedBadges.length > 0) {
+    if (urlState.state) filtered = filtered.filter(c => c.state_id === urlState.state)
+    if (urlState.district) filtered = filtered.filter(c => c.district_id === urlState.district)
+    if (urlState.constituency) filtered = filtered.filter(c => c.constituency_id === urlState.constituency)
+    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
+    if (urlState.badges.length > 0) {
       filtered = filtered.filter(c =>
-        c.tags && selectedBadges.every(b => c.tags.includes(b))
+        c.tags && urlState.badges.every(b => c.tags?.includes(b))
       )
     }
     return [...filtered].sort((a, b) => (a.party_display_order ?? 9999) - (b.party_display_order ?? 9999))
-  }, [allCandidates, state, district, constituency, party, selectedBadges])
+  }, [allCandidates, urlState.state, urlState.district, urlState.constituency, urlState.party, urlState.badges])
 
   // Notify parent of filtered candidates
   useEffect(() => {
     onFilteredCandidatesChange(filteredCandidates)
   }, [filteredCandidates, onFilteredCandidatesChange])
 
-  // Reset dependent filters when parent changes
-  useEffect(() => {
-    setDistrict("")
-    setConstituency("")
-    setParty("")
-  }, [state])
-
-  useEffect(() => {
-    setConstituency("")
-    setParty("")
-  }, [district])
-
-  useEffect(() => {
-    setParty("")
-  }, [constituency])
-
   // Auto-select district if only one available
   useEffect(() => {
-    if (state && districts.length === 1 && !district) {
-      setDistrict(districts[0])
+    if (urlState.state && districts.length === 1 && !urlState.district) {
+      onUrlStateChange({ district: districts[0].id })
     }
-  }, [state, districts, district])
+  }, [urlState.state, districts, urlState.district, onUrlStateChange])
 
   // Auto-select constituency if only one available
   useEffect(() => {
-    if (district && constituencies.length === 1 && !constituency) {
-      setConstituency(constituencies[0])
+    if (urlState.district && constituencies.length === 1 && !urlState.constituency) {
+      onUrlStateChange({ constituency: constituencies[0] })
     }
-  }, [district, constituencies, constituency])
+  }, [urlState.district, constituencies, urlState.constituency, onUrlStateChange])
 
   // Auto-select candidate if only one available
   useEffect(() => {
-    if ((party || state || district || constituency) && filteredCandidates.length === 1) {
+    if ((urlState.party || urlState.state || urlState.district || urlState.constituency) && filteredCandidates.length === 1) {
       onSelectCandidate(filteredCandidates[0])
+      onUrlStateChange({ candidate: filteredCandidates[0].candidate_id })
     }
-  }, [filteredCandidates, party, state, district, constituency, onSelectCandidate])
+  }, [filteredCandidates, urlState.party, urlState.state, urlState.district, urlState.constituency, onSelectCandidate, onUrlStateChange])
+
+  // Select candidate from URL state on initial load
+  useEffect(() => {
+    if (urlState.candidate && allCandidates && !selectedCandidate) {
+      const candidate = filteredCandidates.find(c => c.candidate_id === urlState.candidate)
+      if (candidate) {
+        onSelectCandidate(candidate)
+      } else if (filteredCandidates.length > 0) {
+        // Candidate ID doesn't match any in filtered results, clear it
+        onUrlStateChange({ candidate: 0 })
+      }
+    }
+  }, [urlState.candidate, allCandidates, filteredCandidates, selectedCandidate, onSelectCandidate, onUrlStateChange])
 
   // Close badge dropdown on outside click
   useEffect(() => {
@@ -184,22 +218,68 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
     return () => document.removeEventListener("mousedown", handleClickOutside)
   }, [])
 
+  // Handle state change - cascade reset children
+  const handleStateChange = (stateId: number) => {
+    onUrlStateChange({
+      state: stateId,
+      district: 0,
+      constituency: 0,
+      party: '',
+      candidate: 0,
+    })
+    onSelectCandidate(null)
+  }
+
+  // Handle district change - cascade reset children
+  const handleDistrictChange = (districtId: number) => {
+    onUrlStateChange({
+      district: districtId,
+      constituency: 0,
+      party: '',
+      candidate: 0,
+    })
+    onSelectCandidate(null)
+  }
+
+  // Handle constituency change - cascade reset children
+  const handleConstituencyChange = (constituencyId: number) => {
+    onUrlStateChange({
+      constituency: constituencyId,
+      party: '',
+      candidate: 0,
+    })
+    onSelectCandidate(null)
+  }
+
+  // Handle party change
+  const handlePartyChange = (partyName: string) => {
+    onUrlStateChange({
+      party: partyName,
+      candidate: 0,
+    })
+    onSelectCandidate(null)
+  }
+
   const handleReset = () => {
-    setState("")
-    setDistrict("")
-    setConstituency("")
-    setParty("")
-    setSelectedBadges([])
+    onUrlStateChange({
+      state: 0,
+      district: 0,
+      constituency: 0,
+      party: '',
+      badges: [],
+      candidate: 0,
+    })
     onSelectCandidate(null)
   }
 
   const toggleBadge = (badge: string) => {
-    setSelectedBadges(prev =>
-      prev.includes(badge) ? prev.filter(b => b !== badge) : [...prev, badge]
-    )
+    const newBadges = urlState.badges.includes(badge)
+      ? urlState.badges.filter(b => b !== badge)
+      : [...urlState.badges, badge]
+    onUrlStateChange({ badges: newBadges })
   }
 
-  const hasActiveFilters = state || district || constituency || party || selectedBadges.length > 0
+  const hasActiveFilters = urlState.state || urlState.district || urlState.constituency || urlState.party || urlState.badges.length > 0
 
   return (
     <div className="rounded-2xl border border-border bg-card p-4 md:p-6">
@@ -235,13 +315,13 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
             </label>
             <div className="relative">
               <select
-                value={state}
-                onChange={(e) => setState(e.target.value)}
+                value={urlState.state || ''}
+                onChange={(e) => handleStateChange(e.target.value ? parseInt(e.target.value, 10) : 0)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै प्रदेशहरू ({states.length})</option>
                 {states.map((s) => (
-                  <option key={s} value={s}>{s}</option>
+                  <option key={s.id} value={s.id}>{s.name}</option>
                 ))}
               </select>
               <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -253,14 +333,14 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
             <label className="mb-1 block text-xs font-medium text-muted-foreground">जिल्ला</label>
             <div className="relative">
               <select
-                value={district}
-                onChange={(e) => setDistrict(e.target.value)}
+                value={urlState.district || ''}
+                onChange={(e) => handleDistrictChange(e.target.value ? parseInt(e.target.value, 10) : 0)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-50"
-                disabled={!state}
+                disabled={!urlState.state}
               >
                 <option value="">सबै जिल्लाहरू ({districts.length})</option>
                 {districts.map((d) => (
-                  <option key={d} value={d}>{d}</option>
+                  <option key={d.id} value={d.id}>{d.name}</option>
                 ))}
               </select>
               <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -274,10 +354,10 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
             </label>
             <div className="relative">
               <select
-                value={constituency}
-                onChange={(e) => setConstituency(e.target.value)}
+                value={urlState.constituency || ''}
+                onChange={(e) => handleConstituencyChange(e.target.value ? parseInt(e.target.value, 10) : 0)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-50"
-                disabled={!district}
+                disabled={!urlState.district}
               >
                 <option value="">सबै निर्वाचन क्षेत्रहरू ({constituencies.length})</option>
                 {constituencies.map((c) => (
@@ -293,8 +373,8 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
             <label className="mb-1 block text-xs font-medium text-muted-foreground">दल</label>
             <div className="relative">
               <select
-                value={party}
-                onChange={(e) => setParty(e.target.value)}
+                value={urlState.party}
+                onChange={(e) => handlePartyChange(e.target.value)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै दलहरू ({parties.length})</option>
@@ -314,10 +394,10 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
               onClick={() => setBadgeDropdownOpen(o => !o)}
               className="flex w-full items-center justify-between rounded-lg border border-border bg-input px-4 py-2.5 text-left text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
             >
-              <span className={selectedBadges.length === 0 ? "text-muted-foreground" : ""}>
-                {selectedBadges.length === 0
+              <span className={urlState.badges.length === 0 ? "text-muted-foreground" : ""}>
+                {urlState.badges.length === 0
                   ? `सबै विशेषताहरू (${availableBadges.length})`
-                  : `${selectedBadges.length} चयन गरिएको`}
+                  : `${urlState.badges.length} चयन गरिएको`}
               </span>
               <ChevronDown className="h-4 w-4 text-muted-foreground" />
             </button>
@@ -325,7 +405,7 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
               <div className="absolute z-50 mt-1 max-h-64 w-full overflow-y-auto rounded-lg border border-border bg-card shadow-lg">
                 {availableBadges.map(badge => {
                   const def = badgeDefinitions[badge]
-                  const isSelected = selectedBadges.includes(badge)
+                  const isSelected = urlState.badges.includes(badge)
                   const Icon = def ? iconMap[def.icon] : null
                   return (
                     <button
@@ -359,9 +439,9 @@ export function CandidateFilter({ onSelectCandidate, onFilteredCandidatesChange,
       )}
 
       {/* Selected badge showcase cards */}
-      {selectedBadges.length > 0 && (
+      {urlState.badges.length > 0 && (
         <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-          {selectedBadges.map(badge => {
+          {urlState.badges.map(badge => {
             const def = badgeDefinitions[badge]
             const Icon = def ? iconMap[def.icon] : null
             const color = def?.color ?? "primary"

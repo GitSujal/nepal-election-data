@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useMemo } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { Building2, Loader2, Check, ChevronsUpDown } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { useJsonData } from "@/hooks/use-json-data"
@@ -20,6 +20,7 @@ import {
 import { Button } from "@/components/ui/button"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
 import Image from "next/image"
+import type { PartyFilterState } from "@/lib/filter-types"
 
 export interface PartyProfileData {
   party_id: number
@@ -36,9 +37,11 @@ export interface PartyProfileData {
 
 interface PartyFilterProps {
   onSelect: (party: PartyProfileData | null) => void
+  urlState?: PartyFilterState
+  onUrlStateChange?: (updates: Partial<PartyFilterState>) => void
 }
 
-export function PartyFilter({ onSelect }: PartyFilterProps) {
+export function PartyFilter({ onSelect, urlState, onUrlStateChange }: PartyFilterProps) {
   const [open, setOpen] = useState(false)
   const [value, setValue] = useState("")
   const { getSymbolUrl } = usePartySymbols()
@@ -52,6 +55,23 @@ export function PartyFilter({ onSelect }: PartyFilterProps) {
     if (!allParties) return []
     return [...allParties].sort((a, b) => (a.party_display_order || 999) - (b.party_display_order || 999))
   }, [allParties])
+
+  // Sync with URL state if provided
+  useEffect(() => {
+    if (urlState && urlState.party) {
+      setValue(urlState.party.toString())
+    }
+  }, [urlState])
+
+  // Select party from URL on load
+  useEffect(() => {
+    if (urlState?.party && allParties) {
+      const party = allParties.find((p) => p.party_id === urlState.party)
+      if (party) {
+        onSelect(party)
+      }
+    }
+  }, [urlState?.party, allParties, onSelect])
 
   const selectedParty = useMemo(() => {
     if (!value || !allParties) return null
@@ -130,8 +150,12 @@ export function PartyFilter({ onSelect }: PartyFilterProps) {
                       value={party.party_name}
                       onSelect={() => {
                         const newValue = party.party_id.toString()
-                        setValue(newValue === value ? "" : newValue)
-                        onSelect(newValue === value ? null : party)
+                        const isDeselect = newValue === value
+                        setValue(isDeselect ? "" : newValue)
+                        onSelect(isDeselect ? null : party)
+                        if (onUrlStateChange) {
+                          onUrlStateChange({ party: isDeselect ? 0 : party.party_id })
+                        }
                         setOpen(false)
                       }}
                       className="flex cursor-pointer items-center gap-5 px-6 py-4 hover:bg-secondary/80"

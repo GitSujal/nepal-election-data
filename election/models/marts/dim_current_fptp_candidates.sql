@@ -412,10 +412,13 @@ joined as (
         -- Runner-up votes from 2074 election
         ru74.runner_up_votes as prev_2074_runner_up_votes,
 
-        -- Elections contested count
+        -- Elections contested count (includes parliament membership via sub-elections)
+        -- Count both election participation and parliament membership to account for sub-elections
         case
-            when pr.{{ adapter.quote("TotalVoteReceived") }} is not null and pr74.{{ adapter.quote("TotalVoteReceived") }} is not null then 2
-            when pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pr74.{{ adapter.quote("TotalVoteReceived") }} is not null then 1
+            when (pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2079) 
+                and (pr74.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2074) then 2
+            when pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pr74.{{ adapter.quote("TotalVoteReceived") }} is not null 
+                or pm.was_member_2079 or pm.was_member_2074 then 1
             else 0
         end as elections_contested,
 
@@ -619,9 +622,13 @@ with_tags as (
             else false
         end as is_vaguwa_prev_winner,
 
-        -- New candidate: did not contest in any previous election
+        -- New candidate: did not contest in any previous election AND was never a parliament member
+        -- Some candidates may have been elected through sub-elections and don't have election result records
         case
-            when prev_election_votes is null and prev_2074_election_votes is null then true
+            when prev_election_votes is null 
+                and prev_2074_election_votes is null 
+                and not was_parliament_member_2079 
+                and not was_parliament_member_2074 then true
             else false
         end as is_new_candidate,
 

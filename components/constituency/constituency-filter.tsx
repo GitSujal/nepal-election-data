@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react"
 import { ChevronDown, Search, MapPin, Building2, Vote, Loader2 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { useJsonData } from "@/hooks/use-json-data"
+import type { ConstituencyFilterState } from "@/lib/filter-types"
 
 interface ConstituencyData {
   state_id: number
@@ -22,12 +23,11 @@ interface ConstituencyData {
 
 interface ConstituencyFilterProps {
   onSelect: (constituency: ConstituencyData | null) => void
+  urlState: ConstituencyFilterState
+  onUrlStateChange: (updates: Partial<ConstituencyFilterState>) => void
 }
 
-export function ConstituencyFilter({ onSelect }: ConstituencyFilterProps) {
-  const [selectedState, setSelectedState] = useState<string>("")
-  const [selectedDistrict, setSelectedDistrict] = useState<string>("")
-  const [selectedConstituency, setSelectedConstituency] = useState<string>("")
+export function ConstituencyFilter({ onSelect, urlState, onUrlStateChange }: ConstituencyFilterProps) {
 
   // Load all constituencies from JSON
   const { data: allConstituencies, loading: dataLoading } = useJsonData<ConstituencyData>(
@@ -43,51 +43,65 @@ export function ConstituencyFilter({ onSelect }: ConstituencyFilterProps) {
 
   // Extract districts based on selected state
   const districts = useMemo(() => {
-    if (!allConstituencies || !selectedState) return []
-    const filtered = allConstituencies.filter(c => c.state_name === selectedState)
+    if (!allConstituencies || !urlState.state) return []
+    const filtered = allConstituencies.filter(c => c.state_name === urlState.state)
     const unique = Array.from(new Set(filtered.map(c => c.district_name)))
     return unique.sort()
-  }, [allConstituencies, selectedState])
+  }, [allConstituencies, urlState.state])
 
   // Extract constituencies based on selected district
   const constituencies = useMemo(() => {
-    if (!allConstituencies || !selectedDistrict) return []
-    const filtered = allConstituencies.filter(c => c.district_name === selectedDistrict)
+    if (!allConstituencies || !urlState.district) return []
+    const filtered = allConstituencies.filter(c => c.district_name === urlState.district)
     return filtered.sort((a, b) => parseInt(a.constituency_id) - parseInt(b.constituency_id))
-  }, [allConstituencies, selectedDistrict])
+  }, [allConstituencies, urlState.district])
 
   // Auto-select district if only one available
   useEffect(() => {
-    if (selectedState && districts.length === 1 && !selectedDistrict) {
-      setSelectedDistrict(districts[0])
+    if (urlState.state && districts.length === 1 && !urlState.district) {
+      onUrlStateChange({ district: districts[0] })
     }
-  }, [selectedState, districts, selectedDistrict])
+  }, [urlState.state, districts, urlState.district, onUrlStateChange])
 
   // Auto-select constituency if only one available
   useEffect(() => {
-    if (selectedDistrict && constituencies.length === 1 && !selectedConstituency) {
-      setSelectedConstituency(constituencies[0].constituency_id)
+    if (urlState.district && constituencies.length === 1 && !urlState.constituency) {
+      onUrlStateChange({ constituency: constituencies[0].constituency_id })
       onSelect(constituencies[0])
     }
-  }, [selectedDistrict, constituencies, selectedConstituency, onSelect])
+  }, [urlState.district, constituencies, urlState.constituency, onSelect, onUrlStateChange])
+
+  // Select constituency from URL on load
+  useEffect(() => {
+    if (urlState.constituency && allConstituencies) {
+      const constituency = allConstituencies.find(c => c.constituency_id === urlState.constituency)
+      if (constituency) {
+        onSelect(constituency)
+      }
+    }
+  }, [urlState.constituency, allConstituencies, onSelect])
 
   const handleStateChange = (newState: string) => {
-    setSelectedState(newState)
-    setSelectedDistrict("")
-    setSelectedConstituency("")
+    onUrlStateChange({
+      state: newState,
+      district: '',
+      constituency: '',
+    })
     onSelect(null)
   }
 
   const handleDistrictChange = (newDistrict: string) => {
-    setSelectedDistrict(newDistrict)
-    setSelectedConstituency("")
+    onUrlStateChange({
+      district: newDistrict,
+      constituency: '',
+    })
     onSelect(null)
   }
 
   const handleConstituencyChange = (constituencyId: string) => {
-    setSelectedConstituency(constituencyId)
+    onUrlStateChange({ constituency: constituencyId })
     const selected = allConstituencies?.find(
-      (c) => c.district_name === selectedDistrict && c.constituency_id === constituencyId
+      (c) => c.district_name === urlState.district && c.constituency_id === constituencyId
     )
     onSelect(selected || null)
   }
@@ -123,7 +137,7 @@ export function ConstituencyFilter({ onSelect }: ConstituencyFilterProps) {
           </label>
           <div className="relative">
             <select
-              value={selectedState}
+              value={urlState.state}
               onChange={(e) => handleStateChange(e.target.value)}
               className={cn(
                 "w-full appearance-none rounded-lg border border-border bg-input px-4 py-3 pr-10",
@@ -148,9 +162,9 @@ export function ConstituencyFilter({ onSelect }: ConstituencyFilterProps) {
           </label>
           <div className="relative">
             <select
-              value={selectedDistrict}
+              value={urlState.district}
               onChange={(e) => handleDistrictChange(e.target.value)}
-              disabled={!selectedState}
+              disabled={!urlState.state}
               className={cn(
                 "w-full appearance-none rounded-lg border border-border bg-input px-4 py-3 pr-10",
                 "text-foreground transition-colors focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20",
@@ -175,9 +189,9 @@ export function ConstituencyFilter({ onSelect }: ConstituencyFilterProps) {
           </label>
           <div className="relative">
             <select
-              value={selectedConstituency}
+              value={urlState.constituency}
               onChange={(e) => handleConstituencyChange(e.target.value)}
-              disabled={!selectedDistrict}
+              disabled={!urlState.district}
               className={cn(
                 "w-full appearance-none rounded-lg border border-border bg-input px-4 py-3 pr-10",
                 "text-foreground transition-colors focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20",
