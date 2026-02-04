@@ -16414,8 +16414,13 @@
         "vote_count": 304,
         "rank": 6,
         "remarks": null,
+<<<<<<< HEAD
         "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
+=======
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341231",
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
+>>>>>>> 14fe0c1 (Fixed things)
       },
       {
         "candidate_name": "मनोज पासमान",
@@ -69299,8 +69304,13 @@
         "vote_count": 2693,
         "rank": 5,
         "remarks": null,
+<<<<<<< HEAD
         "candidate_profile_url": null,
         "party_symbol_url": null
+=======
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341231",
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
+>>>>>>> 14fe0c1 (Fixed things)
       },
       {
         "candidate_name": "प्रदिप कुमार शाह",

@@ -146,15 +146,25 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
               </span>
             </div>
 
-            {/* Citizenship indicator for tourists */}
-            {candidate.is_tourist_candidate && (
-              <div className="mt-3 flex items-center justify-center md:justify-start">
-                <span className="flex items-center gap-2 rounded-full bg-accent/20 px-3 py-1 text-xs text-accent">
+            {/* Citizenship and Basobas Jilla info */}
+            <div className="mt-3 flex flex-wrap items-center justify-center gap-2 md:justify-start">
+              <span className="flex items-center gap-2 rounded-full bg-secondary/50 px-3 py-1 text-xs text-secondary-foreground">
+                <MapPin className="h-3 w-3" />
+                नागरिकता: {candidate.citizenship_district}
+              </span>
+              {candidate.basobas_jilla && candidate.basobas_jilla !== candidate.citizenship_district && (
+                <span className="flex items-center gap-2 rounded-full bg-secondary/50 px-3 py-1 text-xs text-secondary-foreground">
                   <MapPin className="h-3 w-3" />
-                  नागरिकता जिल्ला: {candidate.citizenship_district}
+                  बसोबास: {candidate.basobas_jilla}
                 </span>
-              </div>
-            )}
+              )}
+              {candidate.is_tourist_candidate && (
+                <span className="flex items-center gap-2 rounded-full bg-accent/20 px-3 py-1 text-xs font-medium text-accent">
+                  <MapPin className="h-3 w-3" />
+                  पर्यटक उम्मेदवार
+                </span>
+              )}
+            </div>
           </div>
         </div>
 

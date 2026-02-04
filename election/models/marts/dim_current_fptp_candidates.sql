@@ -24,6 +24,19 @@ parliament_members as (
     select * from {{ ref('dim_parliament_members') }}
 ),
 
+-- Address to district mapping (Basobas Jilla)
+address_to_district as (
+    select * from {{ ref('stg_candidate_address_to_district_mapping') }}
+),
+
+-- District ID lookups for tourism logic
+citizenship_districts as (
+    select
+        {{ adapter.quote("name") }} as district_name,
+        {{ adapter.quote("id") }} as district_id
+    from {{ ref('stg_districts') }}
+),
+
 -- Candidate name mapping for name variations (e.g., Puspa Kamal Dahal)
 candidate_name_mapping as (
     select
@@ -348,6 +361,8 @@ joined as (
         cc.{{ adapter.quote("SCConstID") }} as constituency_id,
         cc.{{ adapter.quote("ConstName") }} as constituency_name,
         cc.{{ adapter.quote("CTZDIST") }} as citizenship_district,
+        coalesce(atd.basobas_jilla, '') as basobas_jilla,
+        coalesce(atd.basobas_district_id, 0) as basobas_district_id,
 
         -- Current election info
         cc.{{ adapter.quote("E_STATUS") }} as election_status,
@@ -416,9 +431,14 @@ joined as (
         -- Check if 2079 party is same as 2074 party (for loyal check)
         {{ is_same_party('pr.' ~ adapter.quote("PoliticalPartyName"), 'pr74.' ~ adapter.quote("PoliticalPartyName")) }} as is_same_party_2074_2079,
 
-        -- Tourist candidate: citizenship district differs from candidacy district
+        -- Tourist candidate: contesting outside both citizenship district and address district (Basobas Jilla)
+        -- Not a tourist if they contest from their citizenship district OR address district
+        -- Uses district_id for comparison to avoid Unicode/spelling variations
         case
-            when cc.{{ adapter.quote("CTZDIST") }} != cc.{{ adapter.quote("DistrictName") }} then true
+            when d.{{ adapter.quote("id") }} = cd.district_id then false
+            when d.{{ adapter.quote("id") }} = atd.basobas_district_id and atd.basobas_district_id is not null then false
+            when d.{{ adapter.quote("id") }} != cd.district_id
+                and (atd.basobas_district_id is null or d.{{ adapter.quote("id") }} != atd.basobas_district_id) then true
             else false
         end as is_tourist_candidate,
 
@@ -468,6 +488,10 @@ joined as (
     from current_with_qual cc
     left join districts d
         on cc.{{ adapter.quote("DistrictName") }} = d.{{ adapter.quote("name") }}
+    left join address_to_district atd
+        on cc.{{ adapter.quote("ADDRESS") }} = atd.address
+    left join citizenship_districts cd
+        on cc.{{ adapter.quote("CTZDIST") }} = cd.district_name
     -- Check for explicit 2079 match override first
     left join match_override mo_2079
         on mo_2079.current_candidate_name = cc.{{ adapter.quote("CandidateName") }}

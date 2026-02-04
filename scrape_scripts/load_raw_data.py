@@ -13,6 +13,8 @@ DATA_FILES = {
     "states": "data/states.json",
     "districts": "data/districts.json",
     "constituency": "data/constituency.json",
+    "local_bodies": "data/local_bodies.json",
+    "candidate_address_to_district_mapping": "data/candidate_address_to_district_mapping.json",
     "current_first_past_the_post_candidates": "data/current_first_past_the_post_candidates.json",
     "current_proportional_election_candidates": "data/current_proportional_election_candidates.csv",
     "past_2079_first_past_the_post_election_result": "data/past_2079_first_past_the_post_election_result.json",

@@ -18,7 +18,9 @@ renamed as (
         {{ adapter.quote("Associated Party") }} as associated_party,
         {{ adapter.quote("Remarks") }} as remarks,
         -- Normalized name for cross-term and cross-dataset matching
-        {{ sanitize_candidate_name(adapter.quote("Full Name")) }} as candidate_name_normalized
+        {{ sanitize_candidate_name(adapter.quote("Full Name")) }} as candidate_name_normalized,
+        -- Normalized inclusive group for consistent categorization
+        {{ sanitize_inclusive_group(adapter.quote("Inclusive Group")) }} as inclusive_group_normalized
     from source
 )
 
