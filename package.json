@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "load-raw-data": "uv run python load_raw_data.py",
+    "run-dbt-models": "cd election && dbt build && cd ..",
     "prepare-data": "uv run python export_to_json.py",
-    "build": "npm run prepare-data && next build",
-    "dev": "npm run prepare-data && next dev",
+    "all-data-works": "npm run load-raw-data && npm run run-dbt-models && npm run prepare-data",
+    "build": "npm run all-data-works && next build",
+    "dev": "npm run all-data-works && next dev",
     "lint": "eslint .",
     "start": "next start",
     "deploy": "npm run build && wrangler pages deploy out"

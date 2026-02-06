@@ -1,8 +1,9 @@
 "use client"
 
-import { useState, useCallback, Suspense } from "react"
+import { useState, useCallback, Suspense, useMemo } from "react"
 import { CandidateFilter } from "@/components/candidate/candidate-filter"
 import { CandidatePreviewGrid } from "@/components/candidate/candidate-preview-grid"
+import { PartyCountChart } from "@/components/candidate/party-count-chart"
 import { ProfileHeader } from "@/components/candidate/profile-header"
 import { CandidateDetails } from "@/components/candidate/candidate-details"
 import { ElectionTimeline } from "@/components/candidate/election-timeline"
@@ -71,6 +72,26 @@ function CandidatePageContent() {
   const showDetail = selectedCandidate !== null
   // Show preview grid when there are multiple filtered candidates and none is selected
   const showPreview = !showDetail && filteredCandidates.length > 1
+
+  // Check if we should show party count chart for FPTP
+  const showFPTPPartyChart = useMemo(() => {
+    if (candidateType !== 'fptp' || selectedFPTPCandidate || filteredFPTPCandidates.length <= 1) {
+      return false
+    }
+    // Count unique parties in filtered results
+    const uniqueParties = new Set(filteredFPTPCandidates.map((c: any) => c.political_party_name))
+    return uniqueParties.size > 1
+  }, [candidateType, selectedFPTPCandidate, filteredFPTPCandidates])
+
+  // Check if we should show party count chart for PR
+  const showPRPartyChart = useMemo(() => {
+    if (candidateType !== 'pr' || selectedPRCandidate || filteredPRCandidates.length <= 1) {
+      return false
+    }
+    // Count unique parties in filtered results
+    const uniqueParties = new Set(filteredPRCandidates.map((c: any) => c.political_party_name))
+    return uniqueParties.size > 1
+  }, [candidateType, selectedPRCandidate, filteredPRCandidates])
 
   const handleTabChange = (value: string) => {
     if (value === 'pr') {
@@ -191,6 +212,14 @@ function CandidatePageContent() {
               </div>
             )}
 
+            {/* Party Count Chart */}
+            {showFPTPPartyChart && (
+              <PartyCountChart
+                candidates={filteredFPTPCandidates}
+                className="mt-6"
+              />
+            )}
+
             {/* Preview grid */}
             {!selectedFPTPCandidate && filteredFPTPCandidates.length > 1 && (
               <CandidatePreviewGrid
@@ -245,6 +274,14 @@ function CandidatePageContent() {
                 {/* Details section */}
                 <PRCandidateDetails candidate={selectedPRCandidate as any} />
               </div>
+            )}
+
+            {/* Party Count Chart */}
+            {showPRPartyChart && (
+              <PartyCountChart
+                candidates={filteredPRCandidates}
+                className="mt-6"
+              />
             )}
 
             {/* Preview grid */}

@@ -30,7 +30,7 @@ jobs:
       - name: Load Raw data into Database
         
         run: |
-          uv run scrape_scripts/load_raw_data.py
+          uv run load_raw_data.py
 
       - name: Run dbt
         working-directory: election
@@ -38,7 +38,7 @@ jobs:
           uv run dbt build
 
       - name: Export data to JSON
-        run: uv run python export_to_json.py
+        run: uv run export_to_json.py
 
       - name: Test End-to-End
         run: uv run pytest
