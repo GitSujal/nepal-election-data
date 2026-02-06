@@ -560,6 +560,7 @@ dev = [
     { name = "ipykernel" },
     { name = "ipython" },
     { name = "pypdf2" },
+    { name = "pytest" },
 ]
 
 [package.metadata]
@@ -580,6 +581,7 @@ dev = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "ipython", specifier = ">=9.9.0" },
     { name = "pypdf2", specifier = ">=3.0.1" },
+    { name = "pytest", specifier = ">=9.0.2" },
 ]
 
 [[package]]
