@@ -24,7 +24,7 @@
         "vote_count": 21735,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339610",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -54,8 +54,8 @@
         "vote_count": 406,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339771",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RaJaMo.png/40px-RaJaMo.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
         "candidate_name": "इन्द्र कुमार लिम्बू",
@@ -64,7 +64,7 @@
         "vote_count": 266,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339488",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -74,7 +74,7 @@
         "vote_count": 266,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339488",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -963,7 +963,7 @@
         "vote_count": 25753,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339487",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -1003,7 +1003,7 @@
         "vote_count": 1313,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342021",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -1539,7 +1539,7 @@
         "vote_count": 45,
         "rank": 13,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340461",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -2448,7 +2448,7 @@
         "vote_count": 428,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341568",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -2488,7 +2488,7 @@
         "vote_count": 252,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339439",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -2958,7 +2958,7 @@
         "vote_count": 650,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339583",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -5195,7 +5195,7 @@
         "vote_count": 82,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340235",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -5235,7 +5235,7 @@
         "vote_count": 29,
         "rank": 10,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339382",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       }
     ],
@@ -6430,7 +6430,7 @@
         "vote_count": 26867,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339614",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -6460,7 +6460,7 @@
         "vote_count": 2218,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340178",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -6490,7 +6490,7 @@
         "vote_count": 196,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339351",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -6540,7 +6540,7 @@
         "vote_count": 21,
         "rank": 12,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340461",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -7398,7 +7398,7 @@
         "vote_count": 48631,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340372",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -7408,7 +7408,7 @@
         "vote_count": 25895,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340855",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -7438,7 +7438,7 @@
         "vote_count": 1520,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340011",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -7528,7 +7528,7 @@
         "vote_count": 61,
         "rank": 13,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341081",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8084,7 +8084,7 @@
         "vote_count": 30612,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341465",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -8094,7 +8094,7 @@
         "vote_count": 24463,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339853",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -8154,7 +8154,7 @@
         "vote_count": 228,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342319",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8184,7 +8184,7 @@
         "vote_count": 135,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339848",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8577,7 +8577,7 @@
         "vote_count": 21820,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340767",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8587,7 +8587,7 @@
         "vote_count": 17486,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339521",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -8597,7 +8597,7 @@
         "vote_count": 17390,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342632",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8617,7 +8617,7 @@
         "vote_count": 2395,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341128",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -8637,7 +8637,7 @@
         "vote_count": 1900,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339918",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8657,7 +8657,7 @@
         "vote_count": 314,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341979",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -8677,7 +8677,7 @@
         "vote_count": 103,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341574",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/SLRM_Symbol.png/40px-SLRM_Symbol.png"
       },
       {
@@ -9054,7 +9054,7 @@
         "vote_count": 35224,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340656",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -9114,7 +9114,7 @@
         "vote_count": 508,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340760",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -10204,8 +10204,8 @@
         "vote_count": 375,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341994",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "मुमताज मियाँ",
@@ -10294,7 +10294,7 @@
         "vote_count": 69,
         "rank": 20,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341281",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -11975,7 +11975,7 @@
         "vote_count": 16545,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342754",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -12372,8 +12372,8 @@
         "vote_count": 31351,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340970",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
         "candidate_name": "विशाल भट्टराई",
@@ -12854,7 +12854,7 @@
         "vote_count": 88,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339341",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -14749,7 +14749,7 @@
         "vote_count": 16979,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340917",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -14899,7 +14899,7 @@
         "vote_count": 12,
         "rank": 16,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341494",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       }
     ],
@@ -15327,7 +15327,7 @@
         "vote_count": 15114,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341078",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -15367,7 +15367,7 @@
         "vote_count": 294,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341771",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -15387,7 +15387,7 @@
         "vote_count": 237,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342230",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -15868,7 +15868,7 @@
         "vote_count": 3175,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341327",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indian_Election_Symbol_Jug.svg/60px-Indian_Election_Symbol_Jug.svg.png"
       },
       {
@@ -16414,7 +16414,7 @@
         "vote_count": 304,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340965",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -16967,7 +16967,7 @@
         "vote_count": 24178,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339524",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -17646,7 +17646,7 @@
         "vote_count": 463,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341190",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -18251,7 +18251,7 @@
         "vote_count": 454,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341367",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -18848,7 +18848,7 @@
         "vote_count": 91,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339772",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -19961,8 +19961,8 @@
         "vote_count": 23686,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341696",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "शम्भु नाथ साह",
@@ -20161,7 +20161,7 @@
         "vote_count": 21,
         "rank": 22,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341665",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -20756,7 +20756,7 @@
         "vote_count": 32112,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341851",
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341109",
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -20786,7 +20786,7 @@
         "vote_count": 1121,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342049",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -20816,7 +20816,7 @@
         "vote_count": 166,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342794",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -20836,7 +20836,7 @@
         "vote_count": 95,
         "rank": 10,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341489",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -20846,8 +20846,8 @@
         "vote_count": 84,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340877",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "अनिल कुमार चौधरी",
@@ -20866,8 +20866,8 @@
         "vote_count": 33,
         "rank": 13,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340561",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "दिपेश कुमार यादव",
@@ -20956,7 +20956,7 @@
         "vote_count": 5,
         "rank": 22,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342508",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -21026,7 +21026,7 @@
         "vote_count": 1,
         "rank": 29,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342049",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       }
     ],
@@ -22044,7 +22044,7 @@
         "vote_count": 5971,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339376",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -22154,7 +22154,7 @@
         "vote_count": 45,
         "rank": 14,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342325",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -22610,7 +22610,7 @@
         "vote_count": 14325,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342073",
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340033",
         "party_symbol_url": null
       },
       {
@@ -22720,8 +22720,8 @@
         "vote_count": 107,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342054",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nepalese_Election_Symbol_Hand.svg/40px-Nepalese_Election_Symbol_Hand.svg.png"
       },
       {
         "candidate_name": "गुलाब कुमारी देवी मण्डल",
@@ -23965,7 +23965,7 @@
         "vote_count": 70,
         "rank": 16,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340809",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -24414,7 +24414,7 @@
         "vote_count": 14819,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340138",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -24544,8 +24544,8 @@
         "vote_count": 34,
         "rank": 15,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342574",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "राजनारायण राय यादव",
@@ -25611,7 +25611,7 @@
         "vote_count": 5158,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342179",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nepal_sanghiya_samajwadi_symbol.png/60px-Nepal_sanghiya_samajwadi_symbol.png"
       },
       {
@@ -26911,8 +26911,8 @@
         "vote_count": 57,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340561",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "शेख अब्दुल वोहिद",
@@ -27406,7 +27406,7 @@
         "vote_count": 1723,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342643",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -28100,7 +28100,7 @@
         "vote_count": 317,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342746",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -28665,7 +28665,7 @@
         "vote_count": 1063,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340013",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -28675,7 +28675,7 @@
         "vote_count": 732,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340842",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -29204,8 +29204,8 @@
         "vote_count": 777,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341069",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "अजय प्रसाद चौधरी",
@@ -29284,7 +29284,7 @@
         "vote_count": 104,
         "rank": 16,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341808",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -30974,7 +30974,7 @@
         "vote_count": 29,
         "rank": 17,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339337",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -31481,7 +31481,7 @@
         "vote_count": 2741,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341437",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
@@ -31531,7 +31531,7 @@
         "vote_count": 40,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339345",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -32465,7 +32465,7 @@
         "vote_count": 941,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341809",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -35410,7 +35410,7 @@
         "vote_count": 36018,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340320",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -35420,7 +35420,7 @@
         "vote_count": 27997,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340810",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -35440,7 +35440,7 @@
         "vote_count": 882,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339404",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -35450,7 +35450,7 @@
         "vote_count": 129,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341872",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -35936,7 +35936,7 @@
         "vote_count": 92,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340827",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -36446,7 +36446,7 @@
         "vote_count": 184,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342500",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -36456,8 +36456,8 @@
         "vote_count": 149,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339775",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "निर्मल लामिछाने",
@@ -37343,7 +37343,7 @@
         "vote_count": 4115,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340660",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -37383,7 +37383,17 @@
         "vote_count": 150,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342687",
+        "candidate_profile_url": null,
+        "party_symbol_url": null
+      },
+      {
+        "candidate_name": "सुरेन्द्र प्रसाद ढकाल",
+        "party_name": "नेपाल कम्युनिष्ट पार्टी (मार्क्सवादी लेनिनवादी)",
+        "symbol_name": "हँसिया र तारा",
+        "vote_count": 92,
+        "rank": 8,
+        "remarks": null,
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339780",
         "party_symbol_url": null
       },
       {
@@ -37395,16 +37405,6 @@
         "remarks": null,
         "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339780",
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
-      },
-      {
-        "candidate_name": "सुरेन्द्र प्रसाद ढकाल",
-        "party_name": "नेपाल कम्युनिष्ट पार्टी (मार्क्सवादी लेनिनवादी)",
-        "symbol_name": "हँसिया र तारा",
-        "vote_count": 92,
-        "rank": 8,
-        "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339780",
-        "party_symbol_url": null
       },
       {
         "candidate_name": "रिषम भट्टराई",
@@ -38671,7 +38671,7 @@
         "vote_count": 15238,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341145",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -39625,7 +39625,7 @@
         "vote_count": 11,
         "rank": 20,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342768",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -40062,7 +40062,7 @@
         "vote_count": 21302,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341549",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -40152,7 +40152,7 @@
         "vote_count": 115,
         "rank": 10,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340620",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -40193,7 +40193,7 @@
         "rank": 14,
         "remarks": null,
         "candidate_profile_url": null,
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
+        "party_symbol_url": null
       },
       {
         "candidate_name": "लिला माया पौडेल",
@@ -40203,7 +40203,7 @@
         "rank": 14,
         "remarks": null,
         "candidate_profile_url": null,
-        "party_symbol_url": null
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
         "candidate_name": "नवराज भण्डारी",
@@ -40262,7 +40262,7 @@
         "vote_count": 26,
         "rank": 19,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339547",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -40872,8 +40872,8 @@
         "vote_count": 2446,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340150",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "सुशान्त श्रेष्ठ",
@@ -40902,8 +40902,8 @@
         "vote_count": 600,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340716",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "मधु सुदन पाठक",
@@ -40932,7 +40932,7 @@
         "vote_count": 167,
         "rank": 12,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339869",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -41042,7 +41042,7 @@
         "vote_count": 29,
         "rank": 23,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341579",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -41544,7 +41544,7 @@
         "vote_count": 8917,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342364",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -42265,7 +42265,7 @@
         "vote_count": 248,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342458",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -42325,7 +42325,7 @@
         "vote_count": 92,
         "rank": 16,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342222",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
@@ -44006,8 +44006,8 @@
         "vote_count": 9303,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341208",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340128",
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
         "candidate_name": "सुनिल गोठे",
@@ -44654,7 +44654,7 @@
         "vote_count": 30,
         "rank": 17,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340381",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -44664,7 +44664,7 @@
         "vote_count": 30,
         "rank": 17,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340381",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -45799,7 +45799,7 @@
         "vote_count": 8666,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341868",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -46415,7 +46415,7 @@
         "vote_count": 1554,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340026",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -47642,7 +47642,7 @@
         "vote_count": 45,
         "rank": 15,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341113",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -49021,8 +49021,8 @@
         "vote_count": 25460,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339359",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
         "candidate_name": "टाका राज थापा",
@@ -50615,7 +50615,7 @@
         "vote_count": 277,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339615",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -51257,7 +51257,7 @@
         "vote_count": 23,
         "rank": 14,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340641",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -52236,7 +52236,7 @@
         "vote_count": 105,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342017",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -52590,7 +52590,7 @@
         "vote_count": 2575,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339862",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -52661,7 +52661,7 @@
         "vote_count": 34985,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339921",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -52681,7 +52681,7 @@
         "vote_count": 9033,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339858",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -52691,8 +52691,8 @@
         "vote_count": 1234,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339836",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nepalese_Election_Symbol_Eye.svg/60px-Nepalese_Election_Symbol_Eye.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
         "candidate_name": "विकास गुरुङ्ग",
@@ -52701,7 +52701,7 @@
         "vote_count": 457,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340681",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -54443,7 +54443,7 @@
         "vote_count": 24,
         "rank": 12,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340949",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -54882,7 +54882,7 @@
         "vote_count": 360,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341735",
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339604",
         "party_symbol_url": null
       },
       {
@@ -55792,7 +55792,7 @@
         "vote_count": 31999,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342253",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -56320,8 +56320,8 @@
         "vote_count": 129,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341377",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "गणेश प्रसाद पाण्डेय",
@@ -56735,7 +56735,7 @@
         "vote_count": 661,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340971",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -57667,7 +57667,7 @@
         "vote_count": 3992,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342128",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -58761,7 +58761,7 @@
         "vote_count": 24794,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341116",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -58771,7 +58771,7 @@
         "vote_count": 20193,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340355",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -58801,7 +58801,7 @@
         "vote_count": 223,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341592",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -59667,8 +59667,8 @@
         "vote_count": 1882,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340349",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
         "candidate_name": "गणेश पाण्डे",
@@ -59707,7 +59707,7 @@
         "vote_count": 54,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342099",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -59717,7 +59717,7 @@
         "vote_count": 54,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342099",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -60600,7 +60600,7 @@
         "vote_count": 2045,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339305",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -61532,7 +61532,7 @@
         "vote_count": 3200,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339640",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -62010,8 +62010,8 @@
         "vote_count": 1713,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339549",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "दल बहादुर थापा",
@@ -62050,7 +62050,7 @@
         "vote_count": 1072,
         "rank": 10,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339339",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -62140,7 +62140,7 @@
         "vote_count": 54,
         "rank": 19,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342105",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -62551,7 +62551,7 @@
         "vote_count": 27165,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340782",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -62561,7 +62561,7 @@
         "vote_count": 25795,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341093",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
       },
       {
@@ -62571,7 +62571,7 @@
         "vote_count": 22027,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340028",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -62581,7 +62581,7 @@
         "vote_count": 22027,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340028",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -63171,7 +63171,7 @@
         "vote_count": 551,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340230",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -63181,7 +63181,7 @@
         "vote_count": 551,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340230",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -63261,7 +63261,7 @@
         "vote_count": 15,
         "rank": 16,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341996",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -63291,7 +63291,7 @@
         "vote_count": 13,
         "rank": 19,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341671",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -63760,7 +63760,7 @@
         "vote_count": 28000,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340055",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -63770,8 +63770,8 @@
         "vote_count": 22704,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341739",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
         "candidate_name": "भोपेन्द्र प्रसाद यादव",
@@ -63780,7 +63780,7 @@
         "vote_count": 15526,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340743",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -63790,8 +63790,8 @@
         "vote_count": 2623,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342054",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "महेन्द्र नाथ सि‌ह राय",
@@ -63880,7 +63880,7 @@
         "vote_count": 53,
         "rank": 12,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339502",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -63890,7 +63890,7 @@
         "vote_count": 34,
         "rank": 13,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341865",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       }
     ],
@@ -64290,7 +64290,7 @@
         "vote_count": 36822,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339880",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -64300,7 +64300,7 @@
         "vote_count": 27120,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340937",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -64380,7 +64380,7 @@
         "vote_count": 146,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339512",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -64400,7 +64400,7 @@
         "vote_count": 117,
         "rank": 11,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339411",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -64904,7 +64904,7 @@
         "vote_count": 8396,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341391",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       },
       {
@@ -64975,7 +64975,7 @@
         "rank": 10,
         "remarks": null,
         "candidate_profile_url": null,
-        "party_symbol_url": null
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
         "candidate_name": "युवराज शर्मा आचार्य",
@@ -64985,7 +64985,7 @@
         "rank": 10,
         "remarks": null,
         "candidate_profile_url": null,
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
+        "party_symbol_url": null
       },
       {
         "candidate_name": "रबीन्द्र नाथ मिश्र",
@@ -65522,7 +65522,7 @@
         "vote_count": 39014,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340820",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -65532,8 +65532,8 @@
         "vote_count": 38697,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339730",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
         "candidate_name": "सविता शर्मा",
@@ -65602,7 +65602,7 @@
         "vote_count": 11,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340701",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -66023,7 +66023,7 @@
         "vote_count": 18983,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341266",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -66033,8 +66033,8 @@
         "vote_count": 14030,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341989",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
         "candidate_name": "ईश्वर दयाल मिश्र",
@@ -66043,7 +66043,7 @@
         "vote_count": 12557,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340136",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -66073,7 +66073,7 @@
         "vote_count": 565,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340210",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indian_Election_Symbol_Jug.svg/60px-Indian_Election_Symbol_Jug.svg.png"
       },
       {
@@ -66123,7 +66123,7 @@
         "vote_count": 46,
         "rank": 12,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341059",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -66153,7 +66153,7 @@
         "vote_count": 15,
         "rank": 15,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342394",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -69299,7 +69299,7 @@
         "vote_count": 2693,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340965",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -69319,7 +69319,7 @@
         "vote_count": 388,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342233",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -69329,7 +69329,7 @@
         "vote_count": 257,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339442",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -69830,7 +69830,7 @@
         "vote_count": 76,
         "rank": 13,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339809",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -69850,7 +69850,7 @@
         "vote_count": 22,
         "rank": 15,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341523",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -69860,7 +69860,7 @@
         "vote_count": 22,
         "rank": 15,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341523",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rastriya_Janamukti_Election_Symbol.png/60px-Rastriya_Janamukti_Election_Symbol.png"
       },
       {
@@ -70277,7 +70277,7 @@
         "vote_count": 29097,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341186",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -74140,8 +74140,8 @@
         "vote_count": 1593,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339703",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
         "candidate_name": "खड्ग राज शाही",
@@ -75276,7 +75276,7 @@
         "vote_count": 210,
         "rank": 6,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341317",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -76845,8 +76845,8 @@
         "vote_count": 39549,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340871",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nepalese_Election_Symbol_Eye.svg/60px-Nepalese_Election_Symbol_Eye.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
         "candidate_name": "नन्दराम देवकोटा",
@@ -76855,7 +76855,7 @@
         "vote_count": 12961,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340586",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -78234,7 +78234,7 @@
         "vote_count": 27412,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340443",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -78244,7 +78244,7 @@
         "vote_count": 1208,
         "rank": 3,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339857",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
@@ -78611,7 +78611,7 @@
         "vote_count": 27210,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340246",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -79498,7 +79498,7 @@
         "vote_count": 318,
         "rank": 5,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339392",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -79867,7 +79867,7 @@
         "vote_count": 17749,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=342058",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -79927,7 +79927,7 @@
         "vote_count": 296,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339854",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -81532,8 +81532,8 @@
         "vote_count": 33611,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340349",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
+        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339601",
+        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
         "candidate_name": "नरेन्द्र बहादुर कुंवर",
@@ -81592,7 +81592,7 @@
         "vote_count": 237,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341382",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -81954,8 +81954,8 @@
         "vote_count": 13042,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341377",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nepalese_Election_Symbol_Bell_no_cirlce.svg/40px-Nepalese_Election_Symbol_Bell_no_cirlce.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "कर्ण बहादुर मल्ल",
@@ -82014,7 +82014,7 @@
         "vote_count": 85,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340984",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       }
     ],
@@ -82334,7 +82334,7 @@
         "vote_count": 24943,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340717",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nepalese_Election_Symbol_Sun.svg/60px-Nepalese_Election_Symbol_Sun.svg.png"
       },
       {
@@ -82344,7 +82344,7 @@
         "vote_count": 19400,
         "rank": 2,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340979",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nepalese_Election_Symbol_Star.svg/60px-Nepalese_Election_Symbol_Star.svg.png"
       },
       {
@@ -82364,7 +82364,7 @@
         "vote_count": 3539,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340465",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
       },
       {
@@ -82768,7 +82768,7 @@
         "vote_count": 28136,
         "rank": 1,
         "remarks": "Elected",
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341026",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nepalese_Election_Symbol_Tree.svg/60px-Nepalese_Election_Symbol_Tree.svg.png"
       },
       {
@@ -82828,7 +82828,7 @@
         "vote_count": 254,
         "rank": 7,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341277",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -82838,7 +82838,7 @@
         "vote_count": 181,
         "rank": 8,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=339419",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nwpeasantsparty.svg/60px-Nwpeasantsparty.svg.png"
       },
       {
@@ -82848,7 +82848,7 @@
         "vote_count": 103,
         "rank": 9,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=341016",
+        "candidate_profile_url": null,
         "party_symbol_url": null
       },
       {
@@ -82858,7 +82858,7 @@
         "vote_count": 87,
         "rank": 10,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340868",
+        "candidate_profile_url": null,
         "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepalese_Election_Symbol_Horn.svg/60px-Nepalese_Election_Symbol_Horn.svg.png"
       }
     ],
@@ -83223,8 +83223,8 @@
         "vote_count": 1145,
         "rank": 4,
         "remarks": null,
-        "candidate_profile_url": "https://result.election.gov.np/CandidateDetail.aspx?id=340025",
-        "party_symbol_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nepalese_Election_Symbol_Plough.svg/60px-Nepalese_Election_Symbol_Plough.svg.png"
+        "candidate_profile_url": null,
+        "party_symbol_url": null
       },
       {
         "candidate_name": "शारदा देवी चन्द",

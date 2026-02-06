@@ -314,22 +314,26 @@ joined as (
         cc.{{ adapter.quote("DOB") }} as date_of_birth,
         cc.{{ adapter.quote("FATHER_NAME") }} as father_name,
         cc.{{ adapter.quote("SPOUCE_NAME") }} as spouse_name,
-        cc.{{ adapter.quote("QUALIFICATION") }} as qualification,
-        cc.current_qualification_level as qualification_level,
+        -- Use current qualification, fallback to 2079 if not available
+        coalesce(cc.{{ adapter.quote("QUALIFICATION") }}, pr.{{ adapter.quote("QUALIFICATION") }}) as qualification,
+        coalesce(cc.current_qualification_level, pr.prev_qualification_level) as qualification_level,
         -- Numeric scale: 0=null/undefined, 1=Under SLC, 2=SLC, 3=+2, 4=Bachelor, 5=Masters, 6=PHD
         case
-            when cc.current_qualification_level = 'Under SLC' then 1
-            when cc.current_qualification_level = 'SLC' then 2
-            when cc.current_qualification_level = '2' then 3
-            when cc.current_qualification_level = 'Bachelor' then 4
-            when cc.current_qualification_level = 'Masters' then 5
-            when cc.current_qualification_level = 'PHD' then 6
+            when coalesce(cc.current_qualification_level, pr.prev_qualification_level) = 'Under SLC' then 1
+            when coalesce(cc.current_qualification_level, pr.prev_qualification_level) = 'SLC' then 2
+            when coalesce(cc.current_qualification_level, pr.prev_qualification_level) = '2' then 3
+            when coalesce(cc.current_qualification_level, pr.prev_qualification_level) = 'Bachelor' then 4
+            when coalesce(cc.current_qualification_level, pr.prev_qualification_level) = 'Masters' then 5
+            when coalesce(cc.current_qualification_level, pr.prev_qualification_level) = 'PHD' then 6
             else 0
         end as qualification_level_scale,
-        cc.{{ adapter.quote("NAMEOFINST") }} as institution_name,
+        -- Use current institution, fallback to 2079 if not available
+        coalesce(cc.{{ adapter.quote("NAMEOFINST") }}, pr.{{ adapter.quote("NAMEOFINST") }}) as institution_name,
         cc.{{ adapter.quote("ADDRESS") }} as address,
-        cc.{{ adapter.quote("EXPERIENCE") }} as experience,
-        cc.{{ adapter.quote("OTHERDETAILS") }} as other_details,
+        -- Use current experience, fallback to 2079 if not available
+        coalesce(cc.{{ adapter.quote("EXPERIENCE") }}, pr.{{ adapter.quote("EXPERIENCE") }}) as experience,
+        -- Use current other details, fallback to 2079 if not available
+        coalesce(cc.{{ adapter.quote("OTHERDETAILS") }}, pr.{{ adapter.quote("OTHERDETAILS") }}) as other_details,
 
         -- Current political affiliation
         cc.{{ adapter.quote("SYMBOLCODE") }} as symbol_code,
@@ -481,11 +485,19 @@ joined as (
                     and p.{{ adapter.quote("DistrictName") }} = mo_2079.prev_district
                     and cast(p.{{ adapter.quote("SCConstID") }} as varchar) = mo_2079.prev_constituency_id
                     then 0
+                -- Prioritize match with same father name (for disambiguating multiple candidates with same name in same party)
+                when mo_2079.prev_district is null
+                    and p.father_name_normalized = cc.father_name_normalized
+                    and p.father_name_normalized is not null
+                    and cc.father_name_normalized is not null
+                    and p.father_name_normalized != ''
+                    and cc.father_name_normalized != ''
+                    then 1
                 when mo_2079.prev_district is null
                     and p.{{ adapter.quote("SCConstID") }} = cc.{{ adapter.quote("SCConstID") }}
                     and p.{{ adapter.quote("DistrictCd") }} = d.{{ adapter.quote("id") }}
-                    then 1
-                else 2
+                    then 2
+                else 3
             end
         limit 1
     ) pr on true

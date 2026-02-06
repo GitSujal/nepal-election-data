@@ -29,10 +29,13 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
     entries.push({
       year: "2074",
       type: candidate.parliament_member_2074_election_type,
-      district: candidate.parliament_member_2074_district || candidate.prev_2074_election_district,
-      constituency: candidate.parliament_member_2074_constituency || 
-        (candidate.prev_2074_election_constituency_id ? parseInt(candidate.prev_2074_election_constituency_id) : null),
-      party: candidate.parliament_member_2074_party || candidate.prev_2074_election_party,
+      // Prioritize prev_election data (from FPTP results) over parliament_member data
+      // This ensures correct matching for candidates with same names
+      district: candidate.prev_2074_election_district || candidate.parliament_member_2074_district,
+      constituency: candidate.prev_2074_election_constituency_id 
+        ? parseInt(candidate.prev_2074_election_constituency_id) 
+        : candidate.parliament_member_2074_constituency,
+      party: candidate.prev_2074_election_party || candidate.parliament_member_2074_party,
       result: candidate.prev_2074_election_result,
       votes: candidate.prev_2074_election_votes,
       runnerUpVotes: candidate.prev_2074_runner_up_votes,
@@ -45,10 +48,13 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
     entries.push({
       year: "2079",
       type: candidate.parliament_member_2079_election_type,
-      district: candidate.parliament_member_2079_district || candidate.prev_election_district,
-      constituency: candidate.parliament_member_2079_constituency || 
-        (candidate.prev_election_constituency_id ? parseInt(candidate.prev_election_constituency_id) : null),
-      party: candidate.parliament_member_2079_party || candidate.prev_election_party,
+      // Prioritize prev_election data (from FPTP results) over parliament_member data
+      // This ensures correct matching for candidates with same names
+      district: candidate.prev_election_district || candidate.parliament_member_2079_district,
+      constituency: candidate.prev_election_constituency_id 
+        ? parseInt(candidate.prev_election_constituency_id) 
+        : candidate.parliament_member_2079_constituency,
+      party: candidate.prev_election_party || candidate.parliament_member_2079_party,
       result: candidate.prev_election_result,
       votes: candidate.prev_election_votes,
       runnerUpVotes: candidate.prev_runner_up_votes,

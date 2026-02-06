@@ -36,7 +36,9 @@ with source as (
         {{ adapter.quote("NAMEOFINST") }},
         {{ adapter.quote("ADDRESS") }},
         -- Normalized name for cross-term and cross-dataset matching
-        {{ sanitize_candidate_name(adapter.quote("CandidateName")) }} as candidate_name_normalized
+        {{ sanitize_candidate_name(adapter.quote("CandidateName")) }} as candidate_name_normalized,
+        -- Normalized father name for disambiguating candidates with same name
+        {{ sanitize_candidate_name(adapter.quote("FATHER_NAME")) }} as father_name_normalized
 
       from source
   )

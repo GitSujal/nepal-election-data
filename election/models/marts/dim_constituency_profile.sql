@@ -55,14 +55,19 @@ fptp_2079_enriched as (
         coalesce(c.party_symbol_url, p.symbol_url) as party_symbol_url
     from fptp_2079 f
     left join (
-        -- Joining on candidate name only as requested
-        select distinct on (candidate_name)
+        -- Join on candidate name, district, and constituency for better matching
+        -- This helps disambiguate candidates with the same name
+        select distinct
             candidate_name,
+            district_name,
+            constituency_id,
             candidate_profile_url,
             party_symbol_url
         from {{ ref('dim_current_fptp_candidates') }}
     ) c
         on f.candidate_name = c.candidate_name
+        and f.district_name = c.district_name
+        and cast(f.constituency_id as varchar) = cast(c.constituency_id as varchar)
     left join parties p
         on f.party_name = p.current_party_name
         or list_contains(p.previous_names, f.party_name)
