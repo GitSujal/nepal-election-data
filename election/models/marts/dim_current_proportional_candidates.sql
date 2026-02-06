@@ -325,6 +325,11 @@ joined as (
         cc.voter_id_number,
         cc.gender,
         cc.inclusive_group_normalized as inclusive_group,
+        case
+            when cc.inclusive_group_normalized is null
+                or trim(cc.inclusive_group_normalized) = '' then null
+            else dense_rank() over (order by cc.inclusive_group_normalized)
+        end as inclusive_group_id,
         cc.citizenship_district,
         cc.backward_area,
         cc.disability,
@@ -668,26 +673,26 @@ select
     *,
     list_filter(
         [
-            case when is_chheparo then 'छेपारो' end,
-            case when is_new_candidate then 'नयाँ अनुहार' end,
-            case when is_party_loyal then 'पार्टीप्रति वफादार' end,
-            case when is_top_rank then 'शीर्ष वरीयता (१-५)' end,
-            case when is_high_rank and not is_top_rank then 'उच्च वरीयता (६-१०)' end,
-            case when is_women then 'महिला' end,
-            case when is_inclusive_group then 'समावेशी समूह' end,
-            case when has_disability then 'अपाङ्गता' end,
-            case when is_from_backward_area then 'पिछडिएको क्षेत्र' end,
-            case when is_new_party then 'नयाँ पार्टी' end,
-            case when is_fptp_veteran then 'प्रत्यक्ष अनुभवी' end,
-            case when is_proportional_veteran then 'समानुपातिक अनुभवी' end,
-            case when is_opportunist then 'अवसरवादी' end,
-            case when is_from_improving_party then 'सुधारोन्मुख पार्टी' end,
-            case when is_from_declining_party then 'खस्कँदो पार्टी' end,
-            case when is_varaute then 'पानी मरुवा' end, -- pani maruwa
-            case when is_gati_xada then 'गति छाडा' end,
-            case when is_hutihara then 'हुतिहरा' end,
-            case when is_budi_bokuwa then 'बुढी बोकुवा' end,
-            case when is_budo_bokuwa then 'बुढो बोकुवा' end
+            case when is_chheparo then 'chheparo' end,
+            case when is_new_candidate then 'new-candidate' end,
+            case when is_party_loyal then 'party-loyal' end,
+            case when is_top_rank then 'top-rank' end,
+            case when is_high_rank and not is_top_rank then 'high-rank' end,
+            case when is_women then 'women' end,
+            case when is_inclusive_group then 'inclusive-group' end,
+            case when has_disability then 'disability' end,
+            case when is_from_backward_area then 'backward-area' end,
+            case when is_new_party then 'new-party' end,
+            case when is_fptp_veteran then 'fptp-veteran' end,
+            case when is_proportional_veteran then 'proportional-veteran' end,
+            case when is_opportunist then 'opportunist' end,
+            case when is_from_improving_party then 'improving-party' end,
+            case when is_from_declining_party then 'declining-party' end,
+            case when is_varaute then 'pani-maruwa' end,
+            case when is_gati_xada then 'gati-xada' end,
+            case when is_hutihara then 'hutihara' end,
+            case when is_budi_bokuwa then 'budi-bokuwa' end,
+            case when is_budo_bokuwa then 'budo-bokuwa' end
         ],
         x -> x is not null
     ) as tags

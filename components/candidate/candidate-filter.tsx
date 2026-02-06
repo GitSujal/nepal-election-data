@@ -3,7 +3,7 @@
 import { useState, useEffect, useMemo, useRef } from "react"
 import { ChevronDown, X, Filter, Shield, Star, GraduationCap, Plane, Repeat, Footprints, Baby, Fingerprint, PartyPopper, Sparkles, UserRound, Banknote, Scissors, Medal, Crown, HeartHandshake } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
-import { badgeDefinitions } from "@/lib/candidates-data"
+import { badgeDefinitions, tagNameToIdMap } from "@/lib/candidates-data"
 import type { FPTPFilterState } from "@/lib/filter-types"
 
 const iconMap: Record<string, React.ElementType> = {
@@ -34,6 +34,7 @@ interface CandidateData {
   district_name: string
   constituency_id: number
   political_party_name: string
+  party_id: number | null
   party_display_order?: number
   tags?: string[]
   [key: string]: any
@@ -57,6 +58,21 @@ export function CandidateFilter({
 }: CandidateFilterProps) {
   const [badgeDropdownOpen, setBadgeDropdownOpen] = useState(false)
   const badgeDropdownRef = useRef<HTMLDivElement>(null)
+
+  const effectiveBadges = useMemo(
+    () => urlState.badges.map(badge => tagNameToIdMap[badge] ?? badge),
+    [urlState.badges]
+  )
+
+  useEffect(() => {
+    const deduped = Array.from(new Set(effectiveBadges))
+    const hasChanges =
+      deduped.length !== urlState.badges.length ||
+      deduped.some((badge, index) => badge !== urlState.badges[index])
+    if (hasChanges) {
+      onUrlStateChange({ badges: deduped })
+    }
+  }, [effectiveBadges, onUrlStateChange, urlState.badges])
 
   // Load all candidates from JSON
   const { data: allCandidates, loading: dataLoading } = useJsonData<CandidateData>(
@@ -120,18 +136,19 @@ export function CandidateFilter({
     if (urlState.state) filtered = filtered.filter(c => c.state_id === urlState.state)
     if (urlState.district) filtered = filtered.filter(c => c.district_id === urlState.district)
     if (urlState.constituency) filtered = filtered.filter(c => c.constituency_id === urlState.constituency)
-    // Build a map of party name → min display order
-    const partyOrderMap = new Map<string, number>()
+    // Build a map of party ID → { name, order }
+    const partyOrderMap = new Map<number, { name: string; order: number }>()
     for (const c of filtered) {
+      if (!c.party_id) continue
       const order = c.party_display_order ?? 9999
-      const existing = partyOrderMap.get(c.political_party_name)
-      if (existing === undefined || order < existing) {
-        partyOrderMap.set(c.political_party_name, order)
+      const existing = partyOrderMap.get(c.party_id)
+      if (!existing || order < existing.order) {
+        partyOrderMap.set(c.party_id, { name: c.political_party_name, order })
       }
     }
     return Array.from(partyOrderMap.entries())
-      .sort((a, b) => a[1] - b[1])
-      .map(([name]) => name)
+      .map(([id, data]) => ({ id, name: data.name, order: data.order }))
+      .sort((a, b) => a.order - b.order || a.name.localeCompare(b.name))
   }, [allCandidates, urlState.state, urlState.district, urlState.constituency])
 
   // Available badges based on current geographic/party filters
@@ -141,7 +158,7 @@ export function CandidateFilter({
     if (urlState.state) filtered = filtered.filter(c => c.state_id === urlState.state)
     if (urlState.district) filtered = filtered.filter(c => c.district_id === urlState.district)
     if (urlState.constituency) filtered = filtered.filter(c => c.constituency_id === urlState.constituency)
-    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
+    if (urlState.party) filtered = filtered.filter(c => c.party_id === urlState.party)
     const badgeSet = new Set<string>()
     for (const c of filtered) {
       if (c.tags) {
@@ -158,14 +175,14 @@ export function CandidateFilter({
     if (urlState.state) filtered = filtered.filter(c => c.state_id === urlState.state)
     if (urlState.district) filtered = filtered.filter(c => c.district_id === urlState.district)
     if (urlState.constituency) filtered = filtered.filter(c => c.constituency_id === urlState.constituency)
-    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
-    if (urlState.badges.length > 0) {
+    if (urlState.party) filtered = filtered.filter(c => c.party_id === urlState.party)
+    if (effectiveBadges.length > 0) {
       filtered = filtered.filter(c =>
-        c.tags && urlState.badges.every(b => c.tags?.includes(b))
+        c.tags && effectiveBadges.every(b => c.tags?.includes(b))
       )
     }
     return [...filtered].sort((a, b) => (a.party_display_order ?? 9999) - (b.party_display_order ?? 9999))
-  }, [allCandidates, urlState.state, urlState.district, urlState.constituency, urlState.party, urlState.badges])
+  }, [allCandidates, urlState.state, urlState.district, urlState.constituency, urlState.party, effectiveBadges])
 
   // Notify parent of filtered candidates
   useEffect(() => {
@@ -235,7 +252,7 @@ export function CandidateFilter({
     onUrlStateChange({
       district: districtId,
       constituency: 0,
-      party: '',
+      party: 0,
       candidate: 0,
     })
     onSelectCandidate(null)
@@ -245,16 +262,16 @@ export function CandidateFilter({
   const handleConstituencyChange = (constituencyId: number) => {
     onUrlStateChange({
       constituency: constituencyId,
-      party: '',
+      party: 0,
       candidate: 0,
     })
     onSelectCandidate(null)
   }
 
   // Handle party change
-  const handlePartyChange = (partyName: string) => {
+  const handlePartyChange = (partyId: number) => {
     onUrlStateChange({
-      party: partyName,
+      party: partyId,
       candidate: 0,
     })
     onSelectCandidate(null)
@@ -265,7 +282,7 @@ export function CandidateFilter({
       state: 0,
       district: 0,
       constituency: 0,
-      party: '',
+      party: 0,
       badges: [],
       candidate: 0,
     })
@@ -273,13 +290,13 @@ export function CandidateFilter({
   }
 
   const toggleBadge = (badge: string) => {
-    const newBadges = urlState.badges.includes(badge)
-      ? urlState.badges.filter(b => b !== badge)
-      : [...urlState.badges, badge]
+    const newBadges = effectiveBadges.includes(badge)
+      ? effectiveBadges.filter(b => b !== badge)
+      : [...effectiveBadges, badge]
     onUrlStateChange({ badges: newBadges })
   }
 
-  const hasActiveFilters = urlState.state || urlState.district || urlState.constituency || urlState.party || urlState.badges.length > 0
+  const hasActiveFilters = urlState.state || urlState.district || urlState.constituency || urlState.party || effectiveBadges.length > 0
 
   return (
     <div className="rounded-2xl border border-border bg-card p-4 md:p-6">
@@ -373,13 +390,13 @@ export function CandidateFilter({
             <label className="mb-1 block text-xs font-medium text-muted-foreground">दल</label>
             <div className="relative">
               <select
-                value={urlState.party}
-                onChange={(e) => handlePartyChange(e.target.value)}
+                value={urlState.party || ''}
+                onChange={(e) => handlePartyChange(e.target.value ? parseInt(e.target.value, 10) : 0)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै दलहरू ({parties.length})</option>
                 {parties.map((p) => (
-                  <option key={p} value={p}>{p}</option>
+                  <option key={p.id} value={p.id}>{p.name}</option>
                 ))}
               </select>
               <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -394,10 +411,10 @@ export function CandidateFilter({
               onClick={() => setBadgeDropdownOpen(o => !o)}
               className="flex w-full items-center justify-between rounded-lg border border-border bg-input px-4 py-2.5 text-left text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
             >
-              <span className={urlState.badges.length === 0 ? "text-muted-foreground" : ""}>
-                {urlState.badges.length === 0
+              <span className={effectiveBadges.length === 0 ? "text-muted-foreground" : ""}>
+                {effectiveBadges.length === 0
                   ? `सबै विशेषताहरू (${availableBadges.length})`
-                  : `${urlState.badges.length} चयन गरिएको`}
+                  : `${effectiveBadges.length} चयन गरिएको`}
               </span>
               <ChevronDown className="h-4 w-4 text-muted-foreground" />
             </button>
@@ -405,7 +422,7 @@ export function CandidateFilter({
               <div className="absolute z-50 mt-1 max-h-64 w-full overflow-y-auto rounded-lg border border-border bg-card shadow-lg">
                 {availableBadges.map(badge => {
                   const def = badgeDefinitions[badge]
-                  const isSelected = urlState.badges.includes(badge)
+                  const isSelected = effectiveBadges.includes(badge)
                   const Icon = def ? iconMap[def.icon] : null
                   return (
                     <button
@@ -439,9 +456,9 @@ export function CandidateFilter({
       )}
 
       {/* Selected badge showcase cards */}
-      {urlState.badges.length > 0 && (
+      {effectiveBadges.length > 0 && (
         <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-          {urlState.badges.map(badge => {
+          {effectiveBadges.map(badge => {
             const def = badgeDefinitions[badge]
             const Icon = def ? iconMap[def.icon] : null
             const color = def?.color ?? "primary"

@@ -6,15 +6,15 @@ export interface FPTPFilterState {
   state: number        // state_id (0 = all)
   district: number     // district_id (0 = all)
   constituency: number // constituency_id (0 = all)
-  party: string        // political_party_name ('' = all)
+  party: number        // party_id (0 = all)
   badges: string[]     // tags array
   candidate: number    // candidate_id (0 = none selected)
 }
 
 // PR Filter State
 export interface PRFilterState {
-  party: string        // political_party_name ('' = all)
-  group: string        // inclusive_group ('' = all)
+  party: number        // party_id (0 = all)
+  group: number        // inclusive_group_id (0 = all)
   badges: string[]     // tags array
   candidate: number    // serial_no (0 = none selected)
 }
@@ -27,11 +27,11 @@ export interface UrlFilterState {
   district: number     // district_id
   constituency: number // constituency_id
   // Shared (using names)
-  party: string        // political_party_name
+  party: number        // party_id
   badges: string[]     // tags array
   candidate: number    // candidate_id or serial_no
   // PR only
-  group: string        // inclusive_group
+  group: number        // inclusive_group_id
 }
 
 // Default values (empty/zero means "all")
@@ -40,10 +40,10 @@ export const defaultFilterState: UrlFilterState = {
   state: 0,
   district: 0,
   constituency: 0,
-  party: '',
+  party: 0,
   badges: [],
   candidate: 0,
-  group: '',
+  group: 0,
 }
 
 // Helper to extract FPTP filter state from URL state

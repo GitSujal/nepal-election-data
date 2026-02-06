@@ -3,7 +3,7 @@
 import { useState, useEffect, useMemo, useRef } from "react"
 import { ChevronDown, X, Filter, Shield, Star, Crown, Trophy, ArrowDown, User, Users, Accessibility, MapPin, Medal, TrendingUp, TrendingDown, RotateCcw, Zap, Repeat, Baby, PartyPopper, Banknote, HeartHandshake, Building2 } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
-import { badgeDefinitions } from "@/lib/candidates-data"
+import { badgeDefinitions, tagNameToIdMap } from "@/lib/candidates-data"
 import type { PRFilterState } from "@/lib/filter-types"
 
 const iconMap: Record<string, React.ElementType> = {
@@ -34,8 +34,10 @@ interface PRCandidateData {
   candidate_name: string
   political_party_name: string
   inclusive_group: string | null
+  inclusive_group_id: number | null
   citizenship_district: string
   rank_position: number
+  party_id: number | null
   party_display_order: number | null
   tags: string[]
   [key: string]: any
@@ -60,6 +62,21 @@ export function PRCandidateFilter({
   const [badgeDropdownOpen, setBadgeDropdownOpen] = useState(false)
   const badgeDropdownRef = useRef<HTMLDivElement>(null)
 
+  const effectiveBadges = useMemo(
+    () => urlState.badges.map(badge => tagNameToIdMap[badge] ?? badge),
+    [urlState.badges]
+  )
+
+  useEffect(() => {
+    const deduped = Array.from(new Set(effectiveBadges))
+    const hasChanges =
+      deduped.length !== urlState.badges.length ||
+      deduped.some((badge, index) => badge !== urlState.badges[index])
+    if (hasChanges) {
+      onUrlStateChange({ badges: deduped })
+    }
+  }, [effectiveBadges, onUrlStateChange, urlState.badges])
+
   // Load all PR candidates from JSON
   const { data: allCandidates, loading: dataLoading } = useJsonData<PRCandidateData>(
     'dim_current_proportional_candidates'
@@ -68,39 +85,44 @@ export function PRCandidateFilter({
   // Extract unique parties sorted by display order
   const parties = useMemo(() => {
     if (!allCandidates) return []
-    const partyOrderMap = new Map<string, number>()
+    const partyOrderMap = new Map<number, { name: string; order: number }>()
     for (const c of allCandidates) {
+      if (!c.party_id) continue
       const order = c.party_display_order ?? 9999
-      const existing = partyOrderMap.get(c.political_party_name)
-      if (existing === undefined || order < existing) {
-        partyOrderMap.set(c.political_party_name, order)
+      const existing = partyOrderMap.get(c.party_id)
+      if (!existing || order < existing.order) {
+        partyOrderMap.set(c.party_id, { name: c.political_party_name, order })
       }
     }
     return Array.from(partyOrderMap.entries())
-      .sort((a, b) => a[1] - b[1])
-      .map(([name]) => name)
+      .map(([id, data]) => ({ id, name: data.name, order: data.order }))
+      .sort((a, b) => a.order - b.order || a.name.localeCompare(b.name))
   }, [allCandidates])
 
   // Extract unique inclusive groups
   const inclusiveGroups = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
-    const groups = new Set<string>()
+    if (urlState.party) filtered = filtered.filter(c => c.party_id === urlState.party)
+    const groups = new Map<number, string>()
     for (const c of filtered) {
-      if (c.inclusive_group && c.inclusive_group.trim()) {
-        groups.add(c.inclusive_group)
+      if (c.inclusive_group_id && c.inclusive_group && c.inclusive_group.trim()) {
+        if (!groups.has(c.inclusive_group_id)) {
+          groups.set(c.inclusive_group_id, c.inclusive_group)
+        }
       }
     }
-    return Array.from(groups).sort()
+    return Array.from(groups.entries())
+      .map(([id, name]) => ({ id, name }))
+      .sort((a, b) => a.name.localeCompare(b.name))
   }, [allCandidates, urlState.party])
 
   // Available badges based on current filters
   const availableBadges = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
-    if (urlState.group) filtered = filtered.filter(c => c.inclusive_group === urlState.group)
+    if (urlState.party) filtered = filtered.filter(c => c.party_id === urlState.party)
+    if (urlState.group) filtered = filtered.filter(c => c.inclusive_group_id === urlState.group)
     const badgeSet = new Set<string>()
     for (const c of filtered) {
       if (c.tags) {
@@ -114,11 +136,11 @@ export function PRCandidateFilter({
   const filteredCandidates = useMemo(() => {
     if (!allCandidates) return []
     let filtered = allCandidates
-    if (urlState.party) filtered = filtered.filter(c => c.political_party_name === urlState.party)
-    if (urlState.group) filtered = filtered.filter(c => c.inclusive_group === urlState.group)
-    if (urlState.badges.length > 0) {
+    if (urlState.party) filtered = filtered.filter(c => c.party_id === urlState.party)
+    if (urlState.group) filtered = filtered.filter(c => c.inclusive_group_id === urlState.group)
+    if (effectiveBadges.length > 0) {
       filtered = filtered.filter(c =>
-        c.tags && urlState.badges.every(b => c.tags.includes(b))
+        c.tags && effectiveBadges.every(b => c.tags.includes(b))
       )
     }
     return [...filtered].sort((a, b) => {
@@ -126,7 +148,7 @@ export function PRCandidateFilter({
       if (orderDiff !== 0) return orderDiff
       return a.rank_position - b.rank_position
     })
-  }, [allCandidates, urlState.party, urlState.group, urlState.badges])
+  }, [allCandidates, urlState.party, urlState.group, effectiveBadges])
 
   // Notify parent of filtered candidates
   useEffect(() => {
@@ -166,19 +188,19 @@ export function PRCandidateFilter({
   }, [])
 
   // Handle party change - cascade reset children
-  const handlePartyChange = (partyName: string) => {
+  const handlePartyChange = (partyId: number) => {
     onUrlStateChange({
-      party: partyName,
-      group: '',
+      party: partyId,
+      group: 0,
       candidate: 0,
     })
     onSelectCandidate(null)
   }
 
   // Handle group change
-  const handleGroupChange = (groupName: string) => {
+  const handleGroupChange = (groupId: number) => {
     onUrlStateChange({
-      group: groupName,
+      group: groupId,
       candidate: 0,
     })
     onSelectCandidate(null)
@@ -186,8 +208,8 @@ export function PRCandidateFilter({
 
   const handleReset = () => {
     onUrlStateChange({
-      party: '',
-      group: '',
+      party: 0,
+      group: 0,
       badges: [],
       candidate: 0,
     })
@@ -195,13 +217,13 @@ export function PRCandidateFilter({
   }
 
   const toggleBadge = (badge: string) => {
-    const newBadges = urlState.badges.includes(badge)
-      ? urlState.badges.filter(b => b !== badge)
-      : [...urlState.badges, badge]
+    const newBadges = effectiveBadges.includes(badge)
+      ? effectiveBadges.filter(b => b !== badge)
+      : [...effectiveBadges, badge]
     onUrlStateChange({ badges: newBadges })
   }
 
-  const hasActiveFilters = urlState.party || urlState.group || urlState.badges.length > 0
+  const hasActiveFilters = urlState.party || urlState.group || effectiveBadges.length > 0
 
   return (
     <div className="rounded-2xl border border-border bg-card p-4 md:p-6">
@@ -235,13 +257,13 @@ export function PRCandidateFilter({
             <label className="mb-1 block text-xs font-medium text-muted-foreground">दल</label>
             <div className="relative">
               <select
-                value={urlState.party}
-                onChange={(e) => handlePartyChange(e.target.value)}
+                value={urlState.party || ''}
+                onChange={(e) => handlePartyChange(e.target.value ? parseInt(e.target.value, 10) : 0)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै दलहरू ({parties.length})</option>
                 {parties.map((p) => (
-                  <option key={p} value={p}>{p}</option>
+                  <option key={p.id} value={p.id}>{p.name}</option>
                 ))}
               </select>
               <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -253,13 +275,13 @@ export function PRCandidateFilter({
             <label className="mb-1 block text-xs font-medium text-muted-foreground">समावेशी समूह</label>
             <div className="relative">
               <select
-                value={urlState.group}
-                onChange={(e) => handleGroupChange(e.target.value)}
+                value={urlState.group || ''}
+                onChange={(e) => handleGroupChange(e.target.value ? parseInt(e.target.value, 10) : 0)}
                 className="w-full appearance-none rounded-lg border border-border bg-input px-4 py-2.5 pr-10 text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="">सबै समूहहरू ({inclusiveGroups.length})</option>
                 {inclusiveGroups.map((g) => (
-                  <option key={g} value={g}>{g}</option>
+                  <option key={g.id} value={g.id}>{g.name}</option>
                 ))}
               </select>
               <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -274,10 +296,10 @@ export function PRCandidateFilter({
               onClick={() => setBadgeDropdownOpen(o => !o)}
               className="flex w-full items-center justify-between rounded-lg border border-border bg-input px-4 py-2.5 text-left text-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
             >
-              <span className={urlState.badges.length === 0 ? "text-muted-foreground" : ""}>
-                {urlState.badges.length === 0
+              <span className={effectiveBadges.length === 0 ? "text-muted-foreground" : ""}>
+                {effectiveBadges.length === 0
                   ? `सबै विशेषताहरू (${availableBadges.length})`
-                  : `${urlState.badges.length} चयन गरिएको`}
+                  : `${effectiveBadges.length} चयन गरिएको`}
               </span>
               <ChevronDown className="h-4 w-4 text-muted-foreground" />
             </button>
@@ -285,7 +307,7 @@ export function PRCandidateFilter({
               <div className="absolute z-50 mt-1 max-h-64 w-full overflow-y-auto rounded-lg border border-border bg-card shadow-lg">
                 {availableBadges.map(badge => {
                   const def = badgeDefinitions[badge]
-                  const isSelected = urlState.badges.includes(badge)
+                  const isSelected = effectiveBadges.includes(badge)
                   const Icon = def ? iconMap[def.icon] : null
                   return (
                     <button
@@ -319,9 +341,9 @@ export function PRCandidateFilter({
       )}
 
       {/* Selected badge showcase cards */}
-      {urlState.badges.length > 0 && (
+      {effectiveBadges.length > 0 && (
         <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-          {urlState.badges.map(badge => {
+          {effectiveBadges.map(badge => {
             const def = badgeDefinitions[badge]
             const Icon = def ? iconMap[def.icon] : null
             const color = def?.color ?? "primary"

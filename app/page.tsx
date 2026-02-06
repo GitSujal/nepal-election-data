@@ -107,7 +107,7 @@ function CandidatePageContent() {
     } else {
       setUrlState({
         tab: 'fptp',
-        group: '',       // Clear PR-specific
+        group: 0,        // Clear PR-specific
         candidate: 0,
       })
       setSelectedFPTPCandidate(null)

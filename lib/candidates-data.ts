@@ -200,7 +200,7 @@ export interface Badge {
 
 // Badge definitions based on the 14 tags
 export const badgeDefinitions: Record<string, Badge> = {
-  "पर्यटक": {
+  "tourist": {
     id: "tourist",
     name: "Tourist",
     nameNepali: "पर्यटक",
@@ -209,7 +209,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "plane",
     color: "accent"
   },
-  "छेपारो": {
+  "chheparo": {
     id: "chheparo",
     name: "Chheparo",
     nameNepali: "छेपारो",
@@ -218,7 +218,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "repeat",
     color: "warning"
   },
-  "भगुवा": {
+  "vaguwa": {
     id: "vaguwa",
     name: "Vaguwa",
     nameNepali: "भगुवा",
@@ -227,7 +227,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "footprints",
     color: "bronze"
   },
-  "भगुवा (विजेता)": {
+  "vaguwa-won": {
     id: "vaguwa-won",
     name: "Vaguwa (Won Prev)",
     nameNepali: "भगुवा (विजेता)",
@@ -236,7 +236,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "footprints",
     color: "primary"
   },
-  "नयाँ अनुहार": {
+  "new-candidate": {
     id: "new-candidate",
     name: "New Candidate",
     nameNepali: "नयाँ अनुहार",
@@ -245,7 +245,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "baby",
     color: "primary"
   },
-  "शिक्षित": {
+  "educated": {
     id: "educated",
     name: "Educated",
     nameNepali: "शिक्षित",
@@ -254,7 +254,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "graduation-cap",
     color: "silver"
   },
-  "अशिक्षित": {
+  "uneducated": {
     id: "uneducated",
     name: "Uneducated",
     nameNepali: "अशिक्षित",
@@ -263,7 +263,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "fingerprint",
     color: "bronze"
   },
-  "नयाँ पार्टी": {
+  "new-party": {
     id: "new-party",
     name: "New Party",
     nameNepali: "नयाँ पार्टी",
@@ -272,7 +272,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "party-popper",
     color: "accent"
   },
-  "जेन जी": {
+  "gen-z": {
     id: "gen-z",
     name: "Gen-Z",
     nameNepali: "जेन जी",
@@ -281,7 +281,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "sparkles",
     color: "primary"
   },
-  "हजुरबा": {
+  "grandpa": {
     id: "grandpa",
     name: "Grandpa",
     nameNepali: "हजुरबा",
@@ -290,7 +290,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "user-round",
     color: "silver"
   },
-  "प्रभावशाली": {
+  "influential": {
     id: "influential",
     name: "Influential",
     nameNepali: "प्रभावशाली",
@@ -299,7 +299,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "star",
     color: "gold"
   },
-  "अवसरवादी": {
+  "opportunist": {
     id: "opportunist",
     name: "Opportunist",
     nameNepali: "अवसरवादी",
@@ -308,7 +308,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "banknote",
     color: "warning"
   },
-  "भोट कटुवा": {
+  "split-vote": {
     id: "split-vote",
     name: "Split Vote",
     nameNepali: "भोट कटुवा",
@@ -317,7 +317,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "scissors",
     color: "destructive"
   },
-  "समानुपातिक अनुभवी": {
+  "proportional-veteran": {
     id: "proportional-veteran",
     name: "PR Veteran",
     nameNepali: "समानुपातिक अनुभवी",
@@ -326,7 +326,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "medal",
     color: "gold"
   },
-  "बफादार": {
+  "loyal": {
     id: "loyal",
     name: "Loyal",
     nameNepali: "बफादार",
@@ -335,7 +335,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "shield",
     color: "gold"
   },
-  "नातावाद": {
+  "nepo": {
     id: "nepo",
     name: "Nepo",
     nameNepali: "नातावाद",
@@ -344,7 +344,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "heart-handshake",
     color: "accent"
   },
-  "बुढी बोकुवा": {
+  "budi-bokuwa": {
     id: "budi-bokuwa",
     name: "Budi Bokuwa",
     nameNepali: "बुढी बोकुवा",
@@ -353,7 +353,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "heart-handshake",
     color: "accent"
   },
-  "बुढो बोकुवा": {
+  "budo-bokuwa": {
     id: "budo-bokuwa",
     name: "Budo Bokuwa",
     nameNepali: "बुढो बोकुवा",
@@ -363,7 +363,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     color: "accent"
   },
   // PR-specific badges
-  "पार्टीप्रति वफादार": {
+  "party-loyal": {
     id: "party-loyal",
     name: "Party Loyal",
     nameNepali: "पार्टीप्रति वफादार",
@@ -372,7 +372,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "shield",
     color: "gold"
   },
-  "शीर्ष वरीयता (१-५)": {
+  "top-rank": {
     id: "top-rank",
     name: "Top Rank (1-5)",
     nameNepali: "शीर्ष वरीयता (१-५)",
@@ -381,7 +381,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "crown",
     color: "gold"
   },
-  "उच्च वरीयता (६-१०)": {
+  "high-rank": {
     id: "high-rank",
     name: "High Rank (6-10)",
     nameNepali: "उच्च वरीयता (६-१०)",
@@ -390,7 +390,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "trophy",
     color: "silver"
   },
-  "महिला": {
+  "women": {
     id: "women",
     name: "Women",
     nameNepali: "महिला",
@@ -399,7 +399,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "user",
     color: "primary"
   },
-  "समावेशी समूह": {
+  "inclusive-group": {
     id: "inclusive-group",
     name: "Inclusive Group",
     nameNepali: "समावेशी समूह",
@@ -408,7 +408,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "users",
     color: "primary"
   },
-  "अपाङ्गता": {
+  "disability": {
     id: "disability",
     name: "Disability",
     nameNepali: "अपाङ्गता",
@@ -417,7 +417,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "accessibility",
     color: "accent"
   },
-  "पिछडिएको क्षेत्र": {
+  "backward-area": {
     id: "backward-area",
     name: "Backward Area",
     nameNepali: "पिछडिएको क्षेत्र",
@@ -426,7 +426,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "map-pin",
     color: "bronze"
   },
-  "प्रत्यक्ष अनुभवी": {
+  "fptp-veteran": {
     id: "fptp-veteran",
     name: "FPTP Veteran",
     nameNepali: "प्रत्यक्ष अनुभवी",
@@ -435,7 +435,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "medal",
     color: "gold"
   },
-  "सुधारोन्मुख पार्टी": {
+  "improving-party": {
     id: "improving-party",
     name: "Improving Party",
     nameNepali: "सुधारोन्मुख पार्टी",
@@ -444,7 +444,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "trending-up",
     color: "primary"
   },
-  "खस्कँदो पार्टी": {
+  "declining-party": {
     id: "declining-party",
     name: "Declining Party",
     nameNepali: "खस्कँदो पार्टी",
@@ -453,7 +453,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "trending-down",
     color: "destructive"
   },
-  "पानी मरुवा": {
+  "pani-maruwa": {
     id: "pani-maruwa",
     name: "Pani Maruwa",
     nameNepali: "पानी मरुवा",
@@ -462,7 +462,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "rotate-ccw",
     color: "warning"
   },
-  "गति छाडा": {
+  "gati-xada": {
     id: "gati-xada",
     name: "Gati Xada",
     nameNepali: "गति छाडा",
@@ -471,7 +471,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "building2",
     color: "primary"
   },
-  "हुतिहरा": {
+  "hutihara": {
     id: "hutihara",
     name: "Hutihara",
     nameNepali: "हुतिहरा",
@@ -483,6 +483,41 @@ export const badgeDefinitions: Record<string, Badge> = {
 };
 
 // Sample data matching the actual JSON structure
+// Map from Nepali tag names to badge IDs (for backward compatibility if needed)
+export const tagNameToIdMap: Record<string, string> = {
+  "पर्यटक": "tourist",
+  "छेपारो": "chheparo",
+  "भगुवा": "vaguwa",
+  "भगुवा (विजेता)": "vaguwa-won",
+  "नयाँ अनुहार": "new-candidate",
+  "शिक्षित": "educated",
+  "अशिक्षित": "uneducated",
+  "नयाँ पार्टी": "new-party",
+  "जेन जी": "gen-z",
+  "हजुरबा": "grandpa",
+  "प्रभावशाली": "influential",
+  "अवसरवादी": "opportunist",
+  "भोट कटुवा": "split-vote",
+  "समानुपातिक अनुभवी": "proportional-veteran",
+  "बफादार": "loyal",
+  "नातावाद": "nepo",
+  "बुढी बोकुवा": "budi-bokuwa",
+  "बुढो बोकुवा": "budo-bokuwa",
+  "पार्टीप्रति वफादार": "party-loyal",
+  "शीर्ष वरीयता (१-५)": "top-rank",
+  "उच्च वरीयता (६-१०)": "high-rank",
+  "महिला": "women",
+  "समावेशी समूह": "inclusive-group",
+  "अपाङ्गता": "disability",
+  "पिछडिएको क्षेत्र": "backward-area",
+  "प्रत्यक्ष अनुभवी": "fptp-veteran",
+  "सुधारोन्मुख पार्टी": "improving-party",
+  "खस्कँदो पार्टी": "declining-party",
+  "पानी मरुवा": "pani-maruwa",
+  "गति छाडा": "gati-xada",
+  "हुतिहरा": "hutihara",
+}
+
 export const candidates: Candidate[] = [
   {
     candidate_id: 339403,
@@ -582,7 +617,7 @@ export const candidates: Candidate[] = [
     is_budi_bokuwa: false,
     is_budo_bokuwa: false,
     candidate_type: "Same Location",
-    tags: ["Educated", "Loyal"],
+    tags: ["educated", "loyal"],
     party_display_order: 4
   },
 ]

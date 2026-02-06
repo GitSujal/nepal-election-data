@@ -8,7 +8,6 @@ import {
   Command,
   CommandEmpty,
   CommandGroup,
-  CommandInput,
   CommandItem,
   CommandList,
 } from "@/components/ui/command"
@@ -95,10 +94,10 @@ export function PartyFilter({ onSelect, urlState, onUrlStateChange }: PartyFilte
             variant="outline"
             role="combobox"
             aria-expanded={open}
-            className="h-20 w-full justify-between rounded-2xl bg-card px-6 text-left font-normal hover:bg-card/80 md:h-24 shadow-sm border-2 transition-all hover:border-primary/50"
+            className="h-20 w-full justify-between rounded-2xl bg-card px-4 text-left font-normal hover:bg-card/80 md:h-24 md:px-6 shadow-sm border-2 transition-all hover:border-primary/50"
           >
             {selectedParty ? (
-              <div className="flex items-center gap-6">
+              <div className="flex min-w-0 items-center gap-4 md:gap-6">
                 <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-white p-1.5 shadow-sm border border-border md:h-16 md:w-16">
                   {selectedParty.symbol_url || getSymbolUrl(selectedParty.party_name) ? (
                     <div className="relative h-full w-full">
@@ -114,23 +113,23 @@ export function PartyFilter({ onSelect, urlState, onUrlStateChange }: PartyFilte
                     <Building2 className="h-6 w-6 text-muted-foreground md:h-8 md:w-8" />
                   )}
                 </div>
-                <div className="flex flex-col gap-1">
-                  <span className="text-xl font-extrabold text-foreground md:text-2xl leading-tight">
+                <div className="flex min-w-0 flex-col gap-1">
+                  <span className="whitespace-normal break-words text-xl font-extrabold text-foreground md:text-2xl leading-tight">
                     {selectedParty.party_name}
                   </span>
                   {selectedParty.leader && (
-                    <span className="text-xs font-medium text-muted-foreground md:text-sm">
+                    <span className="whitespace-normal break-words text-xs font-medium text-muted-foreground md:text-sm">
                       नेता: {selectedParty.leader}
                     </span>
                   )}
                 </div>
               </div>
             ) : (
-              <div className="flex items-center gap-4">
+              <div className="flex min-w-0 items-center gap-4">
                  <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-secondary md:h-12 md:w-12">
                    <Building2 className="h-5 w-5 text-muted-foreground" />
                  </div>
-                 <span className="text-lg font-medium text-muted-foreground md:text-xl">पार्टी छान्नुहोस्...</span>
+                 <span className="whitespace-normal break-words text-lg font-medium text-muted-foreground md:text-xl">पार्टी छान्नुहोस्...</span>
               </div>
             )}
             <ChevronsUpDown className="ml-2 h-6 w-6 shrink-0 opacity-50" />
@@ -138,7 +137,6 @@ export function PartyFilter({ onSelect, urlState, onUrlStateChange }: PartyFilte
         </PopoverTrigger>
         <PopoverContent className="w-[var(--radix-popover-trigger-width)] p-0" align="start">
           <Command className="rounded-xl">
-            <CommandInput placeholder="पार्टीको नाम खोज्नुहोस्..." className="h-14 text-lg" />
             <CommandList className="max-h-[500px]">
               <CommandEmpty>कुनै पार्टी भेटिएन।</CommandEmpty>
               <CommandGroup>
@@ -175,12 +173,12 @@ export function PartyFilter({ onSelect, urlState, onUrlStateChange }: PartyFilte
                           <Building2 className="h-7 w-7 text-muted-foreground" />
                         )}
                       </div>
-                      <div className="flex flex-1 flex-col justify-center">
-                        <span className="text-lg font-bold text-foreground leading-tight">
+                      <div className="flex min-w-0 flex-1 flex-col justify-center">
+                        <span className="whitespace-normal break-words text-lg font-bold text-foreground leading-tight">
                           {party.party_name}
                         </span>
                         {party.leader && (
-                          <span className="text-sm text-muted-foreground">
+                          <span className="whitespace-normal break-words text-sm text-muted-foreground">
                             नेता: {party.leader}
                           </span>
                         )}
