@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect, useMemo, useRef } from "react"
-import { ChevronDown, X, Filter, Shield, Star, Crown, Trophy, ArrowDown, User, Users, Accessibility, MapPin, Medal, TrendingUp, TrendingDown, RotateCcw, Zap, Repeat, Baby, PartyPopper, Banknote, HeartHandshake } from "lucide-react"
+import { ChevronDown, X, Filter, Shield, Star, Crown, Trophy, ArrowDown, User, Users, Accessibility, MapPin, Medal, TrendingUp, TrendingDown, RotateCcw, Zap, Repeat, Baby, PartyPopper, Banknote, HeartHandshake, Building2 } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
 import { badgeDefinitions } from "@/lib/candidates-data"
 import type { PRFilterState } from "@/lib/filter-types"
@@ -26,6 +26,7 @@ const iconMap: Record<string, React.ElementType> = {
   "party-popper": PartyPopper,
   banknote: Banknote,
   "heart-handshake": HeartHandshake,
+  building2: Building2,
 }
 
 interface PRCandidateData {

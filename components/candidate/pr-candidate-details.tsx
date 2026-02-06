@@ -1,6 +1,7 @@
 "use client"
 
 import { type PRCandidate } from "@/lib/candidates-data"
+import { PRElectionTimeline } from "./pr-election-timeline"
 import {
   ListOrdered,
   MapPin,
@@ -187,6 +188,9 @@ export function PRCandidateDetails({ candidate }: PRCandidateDetailsProps) {
             </div>
           </div>
         )}
+
+        {/* Election Timeline with history */}
+        <PRElectionTimeline candidate={candidate} />
 
         {/* Party Performance */}
         {hasPartyPerformanceData && (

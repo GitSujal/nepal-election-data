@@ -29,6 +29,7 @@ import {
   TrendingDown,
   RotateCcw,
   Zap,
+  Building2,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 
@@ -60,6 +61,8 @@ const iconMap: Record<string, React.ElementType> = {
   "trending-down": TrendingDown,
   "rotate-ccw": RotateCcw,
   zap: Zap,
+  chair: Building2,
+  "building2": Building2,
 }
 
 const colorClasses: Record<Badge["color"], string> = {

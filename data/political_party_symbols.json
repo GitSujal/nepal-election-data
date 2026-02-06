@@ -403,5 +403,11 @@
   {
     "party_name_en": "Samajbadi Janata Party",
     "party_url": "https://en.wikipedia.org/wiki/Samajbadi_Janata_Party"
+  },
+  {
+    "symbol_alt": "🪑",
+    "party_name_en": "Gatishil Loktantrik Party",
+    "party_name_np": "गतिशील लोकतान्त्रिक पार्टी",
+    "founded_year": "2023"
   }
 ]

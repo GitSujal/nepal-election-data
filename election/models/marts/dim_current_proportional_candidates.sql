@@ -54,6 +54,112 @@ fptp_2074_losers as (
     where ({{ adapter.quote("Remarks") }} != 'Elected' or {{ adapter.quote("Remarks") }} is null)
 ),
 
+fptp_2079_results as (
+    select
+        {{ adapter.quote("CandidateName") }} as candidate_name,
+        {{ adapter.quote("PoliticalPartyName") }} as political_party_name,
+        {{ adapter.quote("DistrictName") }} as district_name,
+        {{ adapter.quote("CenterConstID") }} as constituency_id,
+        {{ adapter.quote("TotalVoteReceived") }} as votes_received,
+        {{ adapter.quote("Remarks") }} as remarks,
+        candidate_name_normalized,
+        {{ sanitize_party_name(adapter.quote("PoliticalPartyName")) }} as party_name_norm,
+        row_number() over (
+            partition by {{ adapter.quote("DistrictName") }}, {{ adapter.quote("CenterConstID") }}
+            order by {{ adapter.quote("TotalVoteReceived") }} desc
+        ) as vote_rank,
+        max({{ adapter.quote("TotalVoteReceived") }}) over (
+            partition by {{ adapter.quote("DistrictName") }}, {{ adapter.quote("CenterConstID") }}
+        ) as top_votes
+    from {{ ref('stg_past_2079_fptp_election_result') }}
+),
+
+fptp_2079_with_margin as (
+    select
+        *,
+        max(case when vote_rank = 2 then votes_received end) over (
+            partition by district_name, constituency_id
+        ) as runner_up_votes,
+        count(*) over (
+            partition by candidate_name_normalized, party_name_norm
+        ) as name_party_match_count
+    from fptp_2079_results
+),
+
+fptp_2079_stats as (
+    select
+        candidate_name_normalized,
+        party_name_norm,
+        political_party_name,
+        district_name,
+        cast(constituency_id as integer) as constituency_id,
+        votes_received,
+        case
+            when remarks = 'Elected' then 'Winner'
+            else 'Loser'
+        end as result,
+        case
+            when vote_rank = 1 and runner_up_votes is not null then votes_received - runner_up_votes
+            when vote_rank > 1 and top_votes is not null then top_votes - votes_received
+            else null
+        end as margin,
+        name_party_match_count
+    from fptp_2079_with_margin
+),
+
+fptp_2074_results as (
+    select
+        {{ adapter.quote("CandidateName") }} as candidate_name,
+        {{ adapter.quote("PoliticalPartyName") }} as political_party_name,
+        {{ adapter.quote("DistrictName") }} as district_name,
+        {{ adapter.quote("CenterConstID") }} as constituency_id,
+        {{ adapter.quote("TotalVoteReceived") }} as votes_received,
+        {{ adapter.quote("Remarks") }} as remarks,
+        candidate_name_normalized,
+        {{ sanitize_party_name(adapter.quote("PoliticalPartyName")) }} as party_name_norm,
+        row_number() over (
+            partition by {{ adapter.quote("DistrictName") }}, {{ adapter.quote("CenterConstID") }}
+            order by {{ adapter.quote("TotalVoteReceived") }} desc
+        ) as vote_rank,
+        max({{ adapter.quote("TotalVoteReceived") }}) over (
+            partition by {{ adapter.quote("DistrictName") }}, {{ adapter.quote("CenterConstID") }}
+        ) as top_votes
+    from {{ ref('stg_past_2074_fptp_election_result') }}
+),
+
+fptp_2074_with_margin as (
+    select
+        *,
+        max(case when vote_rank = 2 then votes_received end) over (
+            partition by district_name, constituency_id
+        ) as runner_up_votes,
+        count(*) over (
+            partition by candidate_name_normalized, party_name_norm
+        ) as name_party_match_count
+    from fptp_2074_results
+),
+
+fptp_2074_stats as (
+    select
+        candidate_name_normalized,
+        party_name_norm,
+        political_party_name,
+        district_name,
+        cast(constituency_id as integer) as constituency_id,
+        votes_received,
+        case
+            when remarks = 'Elected' then 'Winner'
+            else 'Loser'
+        end as result,
+        case
+            when vote_rank = 1 and runner_up_votes is not null then votes_received - runner_up_votes
+            when vote_rank > 1 and top_votes is not null then top_votes - votes_received
+            else null
+        end as margin,
+        name_party_match_count
+    from fptp_2074_with_margin
+),
+
 pr_stats as (
     select
         name_normalized,
@@ -205,7 +311,10 @@ within_group_ranked as (
 current_normalized as (
     select
         *,
-        candidate_name_normalized
+        candidate_name_normalized,
+        count(*) over (
+            partition by candidate_name_normalized, political_party_name
+        ) as name_party_match_count
     from within_group_ranked
 ),
 
@@ -286,6 +395,20 @@ joined as (
         pm.district_2079_np as parliament_member_2079_district,
         pm.election_area_2079 as parliament_member_2079_constituency,
 
+        -- FPTP election history (votes, result, margin, constituency)
+        fptp79.votes_received as prev_2079_fptp_votes,
+        fptp79.result as prev_2079_fptp_result,
+        fptp79.district_name as prev_2079_fptp_district,
+        fptp79.constituency_id as prev_2079_fptp_constituency_id,
+        fptp79.margin as prev_2079_fptp_margin,
+        fptp79.political_party_name as prev_2079_fptp_party,
+        fptp74.votes_received as prev_2074_fptp_votes,
+        fptp74.result as prev_2074_fptp_result,
+        fptp74.district_name as prev_2074_fptp_district,
+        fptp74.constituency_id as prev_2074_fptp_constituency_id,
+        fptp74.margin as prev_2074_fptp_margin,
+        fptp74.political_party_name as prev_2074_fptp_party,
+
         -- New Stats for Varaute and Gati Chhada
         ps.times_elected,
         ps.pr_times_elected,
@@ -350,6 +473,16 @@ joined as (
             or {{ sanitize_party_name('cc.political_party_name') }} = pm.party_2074_norm
             or list_contains(pm.parties_norm, {{ sanitize_party_name('cc.political_party_name') }})
         )
+        and (
+            cc.name_party_match_count <= 2
+            or (
+                cc.name_party_match_count > 2
+                and (
+                    cc.citizenship_district = pm.district_2079_np
+                    or cc.citizenship_district = pm.district_2074_np
+                )
+            )
+        )
     -- Join new stats and losers
     left join pr_stats ps
         on cc.candidate_name_normalized = ps.name_normalized
@@ -357,6 +490,35 @@ joined as (
         on cc.candidate_name_normalized = lost79.candidate_name_normalized
     left join fptp_2074_losers lost74
         on cc.candidate_name_normalized = lost74.candidate_name_normalized
+    -- Join FPTP history with party-first matching and district disambiguation
+    left join fptp_2079_stats fptp79
+        on cc.candidate_name_normalized = fptp79.candidate_name_normalized
+        and (
+            {{ sanitize_party_name('cc.political_party_name') }} = fptp79.party_name_norm
+            or (pm_mapping.mapped_party_name is not null and {{ sanitize_party_name('pm_mapping.mapped_party_name') }} = fptp79.party_name_norm)
+            or (cc.associated_party is not null and {{ sanitize_party_name('cc.associated_party') }} = fptp79.party_name_norm)
+        )
+        and (
+            fptp79.name_party_match_count <= 2
+            or (
+                fptp79.name_party_match_count > 2
+                and cc.citizenship_district = fptp79.district_name
+            )
+        )
+    left join fptp_2074_stats fptp74
+        on cc.candidate_name_normalized = fptp74.candidate_name_normalized
+        and (
+            {{ sanitize_party_name('cc.political_party_name') }} = fptp74.party_name_norm
+            or (pm_mapping.mapped_party_name is not null and {{ sanitize_party_name('pm_mapping.mapped_party_name') }} = fptp74.party_name_norm)
+            or (cc.associated_party is not null and {{ sanitize_party_name('cc.associated_party') }} = fptp74.party_name_norm)
+        )
+        and (
+            fptp74.name_party_match_count <= 2
+            or (
+                fptp74.name_party_match_count > 2
+                and cc.citizenship_district = fptp74.district_name
+            )
+        )
     left join bokuwa_flags bk
         on cc.serial_no = bk.serial_no
         and cc.political_party_name = bk.political_party_name
@@ -384,9 +546,13 @@ with_tags as (
             else false
         end as is_chheparo,
 
-        -- New candidate: did not serve as parliament member in previous elections
+        -- New candidate: did not serve as parliament member or contest in FPTP elections before
         case
-            when not was_parliament_member_2079 and not was_parliament_member_2074 then true
+            when not was_parliament_member_2079 
+                and not was_parliament_member_2074
+                and prev_2079_fptp_result is null
+                and prev_2074_fptp_result is null
+                then true
             else false
         end as is_new_candidate,
 
@@ -469,9 +635,15 @@ with_tags as (
 
         -- Varaute: lost 2079 FPTP and now in PR candidate list
         -- OR lost 2074 FPTP and was a PR parliament member in 2079
+        -- Require FPTP history to be present to avoid name-only false positives
         case
-            when is_fptp_2079_loser then true
-            when is_fptp_2074_loser and parliament_member_2079_election_type_normalized = 'Proportional' then true
+            when is_fptp_2079_loser
+                and (prev_2079_fptp_result is not null or prev_2079_fptp_votes is not null)
+                then true
+            when is_fptp_2074_loser
+                and parliament_member_2079_election_type_normalized = 'Proportional'
+                and (prev_2074_fptp_result is not null or prev_2074_fptp_votes is not null)
+                then true
             else false
         end as is_varaute,
 

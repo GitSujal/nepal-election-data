@@ -136,6 +136,20 @@ export interface PRCandidate extends BaseCandidate {
   party_existed_2074: boolean
   party_elections_contested: number
 
+  // FPTP history details for PR candidates
+  prev_2079_fptp_votes: number | null
+  prev_2079_fptp_result: "Winner" | "Loser" | null
+  prev_2079_fptp_district: string | null
+  prev_2079_fptp_constituency_id: number | null
+  prev_2079_fptp_margin: number | null
+  prev_2079_fptp_party: string | null
+  prev_2074_fptp_votes: number | null
+  prev_2074_fptp_result: "Winner" | "Loser" | null
+  prev_2074_fptp_district: string | null
+  prev_2074_fptp_constituency_id: number | null
+  prev_2074_fptp_margin: number | null
+  prev_2074_fptp_party: string | null
+
   // Additional stats
   times_elected: number | null
   pr_times_elected: number | null
@@ -454,7 +468,7 @@ export const badgeDefinitions: Record<string, Badge> = {
     nameNepali: "गति छाडा",
     description: "Proportional parliament member continuing same PR path",
     description_np: "पहिले समानुपातिकबाट सांसद भएर अहिले पनि समानुपातिकमा उम्मेदवार",
-    icon: "chair",
+    icon: "building2",
     color: "primary"
   },
   "हुतिहरा": {
