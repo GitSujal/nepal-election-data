@@ -44,6 +44,8 @@ jobs:
         run: uv run pytest
 
       - name: Fetch Candidate Political History
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: uv run candidate_profile_fetcher.py --limit 500
 
       - name: Commit updated JSON data

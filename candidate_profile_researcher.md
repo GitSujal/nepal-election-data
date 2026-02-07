@@ -79,7 +79,7 @@ The Source JSON contains unique identifiers. You MUST use them to filter your se
     *   If the candidate was a Minister (e.g., Education Minister), research their specific tenure: Did they pass good bills? Did they face corruption charges?
     *   **Extract source URLs from grounding metadata for all scandal/achievement facts.**
     *   We need to emphasize on this a lot. This is the most critical part of the profile and what sets it apart from a simple Wikipedia page. We want to bring up as many scandals and acheivements as possible, and we want to make sure that we are providing the source for each of these facts. This is what will give our profile credibility and make it a valuable resource for voters.
-
+   *   Find as many scandals and corruption cases as possible. We need to mark the corruption and scandals as Bad and this should impact the overall approval rating by a lot. No matter how many wins they have, if they have a lot of scandals and corruption cases, their approval rating should be low. On the other hand, if they have a lot of achievements and no scandals, their approval rating should be high. We want to make sure that we are giving a comprehensive view of the candidate's political career, including both their successes and their failures. 
     
 4.  **Party Mobility Check:**
     *   The Source JSON lists `previous_names` (parties). Use this to trace their timeline. When did they switch? Why? Record these in `political_history`.
