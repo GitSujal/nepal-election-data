@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340979,
+  "candidate_name": "बीना मगर",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-Maoist_logo.png/150px-CPN-Maoist_logo.png",
+  "candidates_current_position": "पूर्व खानेपानी मन्त्री, पोलिटब्युरो सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340979.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "कञ्चनपुर क्षेत्र नम्बर १ मा एमालेका उम्मेदवार तारा लामा तामाङसँग ५,५४३ मतान्तरले पराजित भएकी थिइन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166928731088687702.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मन्त्रालयबाट राजीनामा",
+      "date": "२०७७-०९-०५",
+      "details": "तत्कालीन प्रधानमन्त्री केपी शर्मा ओलीले संसद विघटन गरेपछि विरोध स्वरूप मन्त्री पदबाट राजीनामा दिएकी थिइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bina_Magar",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मेलम्ची आयोजनामा भ्रष्टाचारको आरोप",
+      "date": "२०७५-१२-१४",
+      "details": "विवेकशील नेपाली दलकी नेतृ रन्जु दर्शनाले मेलम्ची खानेपानी आयोजनामा भ्रष्टाचार गरेको भन्दै मगर विरुद्ध अख्तियारमा उजुरी दिएकी थिइन्।",
+      "link_to_source": "https://nagariknetwork.com/news/71958/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "इटालियन ठेकेदार सीएमसीसँगको विवाद",
+      "date": "२०७५-०३-०७",
+      "details": "मेलम्ची आयोजनाको ठेकेदार सीएमसीले काम छोडेर हिँडेपछि मन्त्री मगरमाथि कमिसन मागेको र आयोजना अलपत्र पारेको आरोप लागेको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2019/03/21/nepali-bureaucrats-regularly-asked-for-their-cut-from-melamchi-contractor-italian-officials-say",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "खानेपानी मन्त्रीमा नियुक्ति",
+      "date": "२०७४-१२-०२",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा माओवादी केन्द्रको तर्फबाट खानेपानी मन्त्रीको रूपमा कार्यभार सम्हालेकी थिइन्।",
+      "link_to_source": "https://english.onlinekhabar.com/maoists-nominate-ministers-magar-to-head-ministry-of-water-supply.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा ऐतिहासिक जित",
+      "date": "२०७४-०८-२५",
+      "details": "कञ्चनपुर-१ बाट ३८,४६७ मत प्राप्त गरी नेपाली कांग्रेसका दिवान सिंह विष्टलाई १९,२४८ मतान्तरले पराजित गरेकी थिइन्।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/cpn-mc-candidate-magar-elected-kanchanpur-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र द्वन्द्व र कारागार जीवन",
+      "date": "२०६०-०१-०१",
+      "details": "माओवादी सशस्त्र विद्रोहका क्रममा भूमिगत भएकी मगरले २८ महिनाभन्दा बढी समय सैनिक हिरासत र कारागारमा बिताएकी थिइन्।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/bina-cpn-mcs-only-female-rep-in-house-from-province-7",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बीना मगर नेपालको राजनीतिमा एक प्रभावशाली र चर्चामा रहने नेतृ हुन्। नेकपा (माओवादी केन्द्र) को शीर्ष नेतृत्व र पुष्पकमल दाहाल 'प्रचण्ड' सँगको पारिवारिक सम्बन्धका कारण उनले राजनीतिमा छिटो अवसर पाएको देखिन्छ। २०७४ को निर्वाचनमा प्राप्त भारी जनमत र मन्त्री पदको जिम्मेवारी उनको कार्यकालका मुख्य उपलब्धि हुन्। यद्यपि, उनको कार्यकाल मेलम्ची खानेपानी आयोजनाको विवाद र भ्रष्टाचारका आरोपहरूले गर्दा निकै आलोचित बन्यो। ठेकेदारसँगको कमिसन लेनदेनका कुराहरूले उनको सार्वजनिक छविमा ठूलो धक्का पुर्यायो। स्रोत डेटामा उनलाई 'भगौवा' (Vaguwa) को रूपमा चित्रित गरिनुले उनको निर्वाचन क्षेत्रप्रतिको प्रतिबद्धतामा आएको ह्रास र पछिल्लो निर्वाचनको हारलाई संकेत गर्दछ। कञ्चनपुरमा उनको प्रभाव मेलम्ची प्रकरण र स्थानीय विकासका कामहरूमा देखिएको सुस्तताका कारण कमजोर हुँदै गएको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 42
+}

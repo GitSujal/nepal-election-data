@@ -1,0 +1,127 @@
+{
+  "candidate_id": 341130,
+  "candidate_name": "शक्ति बहादुर वस्नेत",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://election.gov.np/logo/maoist_centre_logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "उपमहासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341130.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "एकीकृत नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जाजरकोट भूकम्प राहत र उद्धार कार्य",
+      "date": "२०८०-०७-१७",
+      "details": "आफ्नै गृह जिल्ला जाजरकोटमा गएको विनाशकारी भूकम्प पछि राहत, उद्धार र पुनर्स्थापना कार्यमा सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/11/1386762",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रीमा नियुक्त",
+      "date": "२०७९-१२-१७",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://risingnepaldaily.com/news/39733",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "जाजरकोटबाट ३४,१५१ मत प्राप्त गर्दै नेकपा एमालेका उम्मेदवारलाई पराजित गरी निर्वाचित भएका।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1221764",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वन तथा वातावरण मन्त्रीमा नियुक्त",
+      "date": "२०७४-११-०३",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा रहेको तत्कालीन नेपाल कम्युनिष्ट पार्टी (नेकपा) को सरकारमा वन मन्त्रीको रुपमा कार्य गरेका।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Shakti_Bahadur_Basnet",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रहरी मेरो साथी अभियानको सुरुवात",
+      "date": "२०७३-०३-२७",
+      "details": "गृहमन्त्री हुँदा प्रहरी र जनताबीचको सम्बन्ध सुधार्न 'प्रहरी मेरो साथी' अभियानको थालनी गरेका।",
+      "link_to_source": "https://www.nepalpolice.gov.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिडिओ (CDO) सरुवा प्रकरण र प्रधानमन्त्रीसँग विवाद",
+      "date": "२०७३-०२-२४",
+      "details": "प्रमुख जिल्ला अधिकारीहरूको सरुवा गर्ने विषयमा तत्कालीन प्रधानमन्त्री केपी ओलीसँग क्षेत्राधिकारको विषयमा विवाद भएको।",
+      "link_to_source": "https://english.onlinekhabar.com/nepal-pm-kp-oli-wants-home-minister-basnet-out-cpn-maoist-centre-refuses-to-oblige.html",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "गृहमन्त्रीमा नियुक्त",
+      "date": "२०७२-०६-३१",
+      "details": "संविधान जारी भएपछिको पहिलो सरकारमा गृह मन्त्रालय जस्तो शक्तिशाली मन्त्रालयको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Shakti_Bahadur_Basnet",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या मन्त्रीमा नियुक्त",
+      "date": "२०६८-०४-१८",
+      "details": "डा. बाबुराम भट्टराईको मन्त्रिपरिषदमा स्वास्थ्य मन्त्रीको रुपमा पहिलोपटक मन्त्रिपरिषद्मा प्रवेश गरेका।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Shakti_Bahadur_Basnet",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी केन्द्रीय सदस्यमा चयन",
+      "date": "२०५५-०५-१०",
+      "details": "सशस्त्र युद्धको समयमा तत्कालीन नेकपा (माओवादी) को केन्द्रीय सदस्यमा चुनिएर नेतृत्वदायी भूमिका खेलेका।",
+      "link_to_source": "https://hamroneta.online/candidate/shakti-bahadur-basnet",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सशस्त्र विद्रोहमा भूमिगत जीवन",
+      "date": "२०५२-११-०१",
+      "details": "'सुरेश सिंह' उपनामले माओवादी जनयुद्धमा सुरुवाती चरणदेखि नै सक्रिय सहभागी भएका।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Shakti_Bahadur_Basnet",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शक्ति बहादुर वस्नेत जाजरकोटको राजनीतिमा एक अपराजित र अत्यन्त प्रभावशाली व्यक्तित्व हुन्। उनले २०६४ सालदेखि भएका चारवटै ठूला निर्वाचनमा निरन्तर जित हासिल गरेका छन्, जसले उनको स्थानीय स्तरमा रहेको बलियो जनमत र पकडलाई पुष्टि गर्दछ। नेकपा (माओवादी केन्द्र) को उपमहासचिव जस्तो गरिमामय पदमा रहेका उनी पटक-पटक गृह, ऊर्जा, स्वास्थ्य र वन जस्ता महत्वपूर्ण मन्त्रालयको जिम्मेवारी सम्हालिसकेका अनुभवी नेता हुन्। उनको कार्यकालमा 'प्रहरी मेरो साथी' जस्ता लोकप्रिय अभियान सुरु गरिए पनि गृहमन्त्री हुँदा सिडिओ सरुवाको विषयमा तत्कालीन प्रधानमन्त्रीसँग भएको विवाद र केही प्रशासनिक निर्णयहरूमा आलोचना खेप्नुपरेको थियो। २०८० सालको जाजरकोट भूकम्पपछि राहत र पुनर्स्थापनामा उनको सक्रियता प्रशंसनीय मानिन्छ। उनी कर्णाली प्रदेशको विकास र राष्ट्रिय राजनीतिमा सधैं निर्णायक भूमिकामा रहने नेताका रूपमा परिचित छन्।",
+  "overall_approval_rating": 88
+}

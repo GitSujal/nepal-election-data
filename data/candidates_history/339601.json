@@ -1,0 +1,111 @@
+{
+  "candidate_id": 339601,
+  "candidate_name": "दामोदर भण्डारी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/CPN-UML_logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा सुदूरपश्चिम प्रदेश कमिटी अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339601.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा बनेको नयाँ सरकारमा पुनः उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालयको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://www.thehimalayantimes.com/nepal/bhandari-appointed-industry-minister",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीमा दोस्रो कार्यकाल",
+      "date": "२०८०-११-२३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको मन्त्रिमण्डल पुनर्गठन हुँदा एमालेको तर्फबाट मन्त्री बनेका।",
+      "link_to_source": "https://ratopati.com/story/415510/2024/3/6/damodar-bhandari",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "बैतडीबाट ३३,६११ मत प्राप्त गर्दै माओवादी केन्द्रका नरेन्द्रबहादुर कुँवरलाई पराजित गरी तेस्रो पटक निर्वाचित।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1221764",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीमा पहिलो नियुक्ति",
+      "date": "२०७९-०९-११",
+      "details": "एमाले-माओवादी गठबन्धन सरकारमा पहिलो पटक उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीको रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://wikipedia.org/wiki/Damodar_Bhandari",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले सुदूरपश्चिम प्रदेश अध्यक्षमा निर्वाचित",
+      "date": "२०७८-१०-०४",
+      "details": "नेकपा (एमाले) को सुदूरपश्चिम प्रदेश कमिटीको प्रथम अधिवेशनबाट अध्यक्षमा निर्वाचित भई प्रादेशिक नेतृत्व सम्हालेका।",
+      "link_to_source": "https://nepalkhabar.com/politics/84478-2022-01-18-09-51-17",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट ३९,५२४ मतका साथ फराकिलो मतान्तरले विजयी भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अर्थ राज्यमन्त्रीमा नियुक्त",
+      "date": "२०७३-०४-२१",
+      "details": "नेकपा (एमाले) र नेकपा (माओवादी केन्द्र) को गठबन्धन सरकारमा अर्थ राज्यमन्त्रीको जिम्मेवारी निर्वाह गरेका।",
+      "link_to_source": "https://knowyourparliamentarian.com/damodar-bhandari",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधानसभा निर्वाचनमा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "बैतडी क्षेत्र नं. १ बाट ११,६७२ मत प्राप्त गर्दै पहिलो पटक संसदीय यात्रा सुरु गरेका।",
+      "link_to_source": "https://wikipedia.org/wiki/Baitadi_1_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधानसभा निर्वाचन २०६४ मा पराजित",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधानसभा निर्वाचनमा बैतडीबाट नेकपा (एमाले) को उम्मेदवार रहँदा पराजय भोग्नुपरेको।",
+      "link_to_source": "https://wikipedia.org/wiki/Baitadi_1_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दामोदर भण्डारी बैतडीको राजनीतिमा एक अपराजित र प्रभावशाली नेताका रूपमा स्थापित छन्। उनले २०७० सालदेखि लगातार तीनवटा ठूला निर्वाचन जितेर जिल्लामा आफ्नो बलियो पकड प्रमाणित गरेका छन्। नेकपा (एमाले) भित्र अध्यक्ष केपी शर्मा ओलीको विश्वासपात्र मानिने भण्डारीले पटक-पटक उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय जस्तो महत्वपूर्ण मन्त्रालयको जिम्मेवारी सम्हालिसकेका छन्। उनी सुदूरपश्चिम प्रदेशमा एमालेको सांगठनिक संरचना विस्तारमा मुख्य भूमिका खेल्ने नेतामध्ये एक हुन्। यद्यपि, मन्त्रीका रूपमा उनको कार्यकालमा बजार अनुगमन र आपूर्ति व्यवस्थापनमा केही चुनौतीहरू देखिएका भए तापनि उनीमाथि कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू छैनन्। बैतडीमा उनी 'ह्याट्रिक' विजेताको रूपमा चिनिन्छन् र स्थानीय मतदातामाझ उनको छवि विकासप्रेमी नेताको रूपमा रहेको छ। उनी एमालेको आन्तरिक शक्ति संघर्षमा सधैं संस्थापन पक्षको वफादार सिपाहीका रूपमा देखिएका छन्।",
+  "overall_approval_rating": 88
+}

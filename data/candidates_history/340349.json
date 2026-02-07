@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340349,
+  "candidate_name": "दामोदर भण्डारी",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "पूर्व उद्योग, वाणिज्य तथा आपूर्ति मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340349.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी परित्याग र राप्रपा प्रवेश",
+      "date": "२०८१-०४-१०",
+      "details": "एमालेको प्रभावशाली नेता र बहालवाला मन्त्री रहेकै अवस्थामा पार्टी नीतिमा असन्तुष्टि जनाउँदै राष्ट्रिय प्रजातन्त्र पार्टीमा प्रवेश।",
+      "link_to_source": "https://setopati.com/politics/287345",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीमा नियुक्ति",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://ekarmachari.com/2024/07/15/4567/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बैतडीबाट जितको ह्याट्रिक",
+      "date": "२०७९-०८-०८",
+      "details": "बैतडीबाट प्रतिनिधिसभा सदस्यमा ३३,६११ मत प्राप्त गरी तेस्रो पटक निर्वाचित।",
+      "link_to_source": "https://gorkhapatraonline.com/news/51024",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उद्योग क्षेत्र सुधारका लागि कडा निर्देशन",
+      "date": "२०८२-०३-२७",
+      "details": "कम्पनी रजिस्ट्रारको कार्यालय र रुग्ण उद्योग सञ्चालनका लागि नयाँ नीति ल्याउने घोषणा र कर्मचारीलाई कडा निर्देशन।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/06/1498725",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिमेन्ट मूल्यवृद्धि र विद्युत महसुल विवाद",
+      "date": "२०८१-०३-०५",
+      "details": "डेडिकेटेड र ट्रंक लाइन विवादका बीच उद्योगीहरूको पक्षमा बोलेको भन्दै आलोचना भएको।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/06/1490214",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अर्थ राज्यमन्त्रीमा नियुक्ति",
+      "date": "२०७२-०७-२५",
+      "details": "ओली नेतृत्वको सरकारमा पहिलो पटक अर्थ राज्यमन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://www.youtube.com/watch?v=FmH9y7M4oU8",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो निर्वाचन पराजय",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा बैतडीबाट पराजित भएको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Damodar_Bhandari",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दामोदर भण्डारी सुदूरपश्चिमको बैतडीबाट स्थापित भएका एक प्रभावशाली नेता हुन्। नेकपा (एमाले) बाट लामो समय राजनीति गरी पटक-पटक मन्त्री बनेका भण्डारीको पछिल्लो समय राष्ट्रिय प्रजातन्त्र पार्टीमा भएको प्रवेश र दाङमा कार्यक्षेत्र सार्ने निर्णय (भगवा/टुरिस्ट उम्मेदवार) निकै चर्चामा छ। बैतडीमा 'ह्याट्रिक' जित निकालेका उनी आफ्नो पुरानो विरासत छोडेर नयाँ क्षेत्रमा जाँदा स्थानीय मतदातामा केही अन्यौलता देखिएको छ। उद्योग मन्त्रीको रूपमा उनले केही नीतिगत सुधारका प्रयास गरे तापनि, पार्टी परिवर्तनले उनको राजनीतिक स्थिरतामा प्रश्न उठाएको छ। दाङ-३ मा उनी 'टुरिस्ट' उम्मेदवारका रूपमा परिचित छन्, जसले गर्दा उनलाई स्थानीय मुद्दाहरूमा स्थापित हुन चुनौती देखिन्छ।",
+  "overall_approval_rating": 65
+}

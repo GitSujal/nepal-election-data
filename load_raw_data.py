@@ -4,6 +4,7 @@ Creates an election.db database with tables for each data file.
 """
 import duckdb
 from pathlib import Path
+from glob import glob
 
 # Define the database path
 DB_PATH = "election/election.db"
@@ -22,7 +23,8 @@ DATA_FILES = {
     "parliament_members": "data/parliament_members.json",
     "past_2074_first_past_the_post_election_result": "data/2074_first_past_the_post_election_result.json",
     "past_2074_proportional_election_result": "data/2074_proportional_election_result.json",
-    "political_party_symbols": "data/political_party_symbols.json"
+    "political_party_symbols": "data/political_party_symbols.json",
+    "candidates_political_history": "data/candidates_history/*.json"
 }
 
 def main():
@@ -36,16 +38,35 @@ def main():
     for table_name, file_path in DATA_FILES.items():
         print(f"\nLoading {file_path} into table '{table_name}'...")
 
-        # Check if file exists
-        if not Path(file_path).exists():
-            print(f"  WARNING: File {file_path} not found, skipping...")
-            continue
-
-        # Pick the right reader based on file extension
-        if file_path.endswith(".csv"):
-            read_func = f"read_csv_auto('{file_path}')"
+        # Check if path contains glob pattern
+        if "*" in file_path:
+            # Handle glob patterns (multiple files)
+            matching_files = glob(file_path)
+            
+            if not matching_files:
+                print(f"  WARNING: No files matching pattern {file_path}, skipping...")
+                continue
+            
+            print(f"  Found {len(matching_files)} file(s) matching pattern")
+            for matched_file in matching_files:
+                print(f"    - {matched_file}")
+            
+            # Use glob pattern directly with DuckDB (it supports glob patterns)
+            if file_path.endswith(".csv"):
+                read_func = f"read_csv_auto('{file_path}')"
+            else:
+                read_func = f"read_json_auto('{file_path}')"
         else:
-            read_func = f"read_json_auto('{file_path}')"
+            # Handle single files
+            if not Path(file_path).exists():
+                print(f"  WARNING: File {file_path} not found, skipping...")
+                continue
+
+            # Pick the right reader based on file extension
+            if file_path.endswith(".csv"):
+                read_func = f"read_csv_auto('{file_path}')"
+            else:
+                read_func = f"read_json_auto('{file_path}')"
 
         # Create table from data file
         con.execute(f"""

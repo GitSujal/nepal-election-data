@@ -91,7 +91,11 @@ export interface Candidate extends BaseCandidate {
   prev_2074_election_total_voters: number
   prev_2074_runner_up_votes: number | null
 
-  elections_contested: number
+  // Minister history from political profile
+  is_past_minister: boolean
+  minister_appointment_count: number
+  total_elections_contested: number
+  total_wins_from_profile: number | null
 
   // FPTP-specific boolean flags
   is_same_party_after_merger_check: boolean
@@ -362,6 +366,15 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "heart-handshake",
     color: "accent"
   },
+  "purba-mantri": {
+    id: "purba-mantri",
+    name: "Purba Mantri",
+    nameNepali: "पूर्व मन्त्री",
+    description: "Former minister with government experience",
+    description_np: "सरकारमा मन्त्री भएको अनुभव भएका उम्मेदवार",
+    icon: "crown",
+    color: "gold"
+  },
   // PR-specific badges
   "party-loyal": {
     id: "party-loyal",
@@ -503,6 +516,7 @@ export const tagNameToIdMap: Record<string, string> = {
   "नातावाद": "nepo",
   "बुढी बोकुवा": "budi-bokuwa",
   "बुढो बोकुवा": "budo-bokuwa",
+  "पूर्व मन्त्री": "purba-mantri",
   "पार्टीप्रति वफादार": "party-loyal",
   "शीर्ष वरीयता (१-५)": "top-rank",
   "उच्च वरीयता (६-१०)": "high-rank",
@@ -575,7 +589,7 @@ export const candidates: Candidate[] = [
     prev_2074_election_casted_vote: 0,
     prev_2074_election_total_voters: 0,
     prev_2074_runner_up_votes: 40506,
-    elections_contested: 2,
+    total_elections_contested: 2,
     party_previous_names: [
       "एकीकृत राष्ट्रिय प्रजातन्त्र पार्टी(राष्ट्रवादी)",
       "राष्ट्रिय प्रजातन्त्र पार्टी (प्रजातान्त्रिक)",

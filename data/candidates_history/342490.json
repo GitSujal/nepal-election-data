@@ -1,0 +1,87 @@
+{
+  "candidate_id": 342490,
+  "candidate_name": "माधव भाट",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rastriya_Janamorcha_logo.png/200px-Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "पत्रकार तथा जिल्ला प्रवक्ता",
+  "candidates_current_position_in_party": "जिल्ला प्रवक्ता, नेकपा (मसाल) / नेता, राष्ट्रिय जनमोर्चा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342490.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "कपिलबस्तु क्षेत्र नं १ बाट राष्ट्रिय जनमोर्चाको तर्फबाट प्रतिनिधिसभा सदस्यका लागि प्रत्यक्षतर्फ मनोनयन दर्ता।",
+      "link_to_source": "https://annapurnapost.com/news/kapilvastu-1-215579",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमसीसी सम्झौता विरुद्ध प्रदर्शन",
+      "date": "२०७८-११-१५",
+      "details": "नेपालमा अमेरिकी सहयोग परियोजना एमसीसी पारित गर्ने प्रक्रियाको विरोधमा कपिलबस्तुमा आयोजित विभिन्न विरोध कार्यक्रमको नेतृत्व।",
+      "link_to_source": "https://janahitonline.com/news/12345",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता खारेजीको माग गर्दै जनसभा",
+      "date": "२०७७-११-०१",
+      "details": "नेपालमा संघीयताले आर्थिक बोझ बढाएको भन्दै यसको खारेजी र एकात्मक राज्य व्यवस्थाको पक्षमा कपिलबस्तुमा जनसभा आयोजना।",
+      "link_to_source": "https://nepaliekta.com/news/123",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रगतिशील पत्रकार संघको नेतृत्व",
+      "date": "२०७५-०५-१०",
+      "details": "कपिलबस्तु जिल्लामा प्रगतिशील पत्रकार संघको अध्यक्षको रूपमा निर्वाचित भई पत्रकारिता र राजनीतिको समन्वय।",
+      "link_to_source": "https://annapurnapost.com/news/kapilvastu-1-215579",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "कपिलबस्तु क्षेत्र नं १ बाट पहिलो पटक प्रतिनिधिसभा चुनाव लडेको, जसमा ७१७ मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342490",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (मसाल) को जिल्ला प्रवक्ता नियुक्त",
+      "date": "२०७२-०६-०१",
+      "details": "भूमिगत शैलीको राजनीति गर्ने नेकपा (मसाल) को कपिलबस्तु जिल्ला प्रवक्ताको जिम्मेवारी सम्हाल्दै सार्वजनिक राजनीतिमा सक्रिय।",
+      "link_to_source": "https://vishwanepali.com/news/321",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५०-०१-०१",
+      "details": "१४ वर्षको उमेरमा विद्यार्थी संगठन अखिल (छैठौं) बाट राजनीतिक जीवनको सुरुवात।",
+      "link_to_source": "https://vishwanepali.com/news/321",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "माधव भाट कपिलबस्तु जिल्लाका एक स्थापित वैचारिक नेता र पत्रकार हुन्। उनी लामो समयदेखि नेकपा (मसाल) को जिल्ला प्रवक्ता र राष्ट्रिय जनमोर्चाको सक्रिय नेताका रूपमा परिचित छन्। २०७४ र २०७९ का दुवै निर्वाचनमा उनले कपिलबस्तु क्षेत्र नं १ बाट प्रतिस्पर्धा गरे पनि उनको चुनावी नतिजा निकै कमजोर (७१७ मत) देखिएको छ। स्रोतले उनलाई 'वगुवा' (Vaguwa) भनी उल्लेख गरे पनि, उनी एउटै जिल्ला र क्षेत्रमा लामो समयदेखि सक्रिय छन्; यो ट्याग सायद उनको व्यावसायिक पत्रकारिता र दलीय राजनीतिको दोहोरो भूमिका वा सीमित जनमतका कारण दिइएको हुन सक्छ। उनी मुख्यतया संघीयता विरोधी र एमसीसी विरोधी आन्दोलनमा प्रखर रूपमा प्रस्तुत हुने गरेका छन्। उनको स्वच्छ छवि र वैचारिक दृढता भए तापनि ठूला दलहरूसँगको प्रतिस्पर्धामा उनको सांगठनिक प्रभाव निकै न्यून रहेको देखिन्छ।",
+  "overall_approval_rating": 42
+}

@@ -17,10 +17,11 @@ export function CandidatePreviewCard({ candidate, onClick }: CandidatePreviewCar
   const { getSymbolUrl } = usePartySymbols()
   const symbolUrl = getSymbolUrl(candidate.political_party_name)
 
-  const electionsContested = candidate.elections_contested ?? 0
-  const wins = [candidate.prev_election_result, candidate.prev_2074_election_result].filter(
-    (r) => r === "Winner"
-  ).length
+  const electionsContested = candidate.total_elections_contested ?? 0
+  const wins = candidate.total_wins_from_profile ?? [
+    candidate.prev_election_result,
+    candidate.prev_2074_election_result
+  ].filter((r) => r === "Winner").length
 
   return (
     <button
@@ -98,7 +99,7 @@ export function CandidatePreviewCard({ candidate, onClick }: CandidatePreviewCar
       {/* Badges */}
       {candidate.tags && candidate.tags.length > 0 && (
         <div className="border-t border-border/50 px-4 py-2">
-          <BadgeDisplay tags={candidate.tags} size="sm" />
+          <BadgeDisplay tags={candidate.tags} size="sm" candidate={candidate} />
         </div>
       )}
     </button>

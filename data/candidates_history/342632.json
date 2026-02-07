@@ -1,0 +1,71 @@
+{
+  "candidate_id": 342632,
+  "candidate_name": "राज कुमार यादव",
+  "candidate_party": "जय मातृभूमि पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342632.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल सुशासन पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जय मातृभूमि पार्टीमा आबद्धता",
+      "date": "२०८०-१०-१५",
+      "details": "पछिल्लो राजनीतिक घटनाक्रमसँगै उनी जय मातृभूमि पार्टीमा आबद्ध भई पर्सामा संगठन विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://khabarhub.com/2024/02/02/543210/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को आम निर्वाचनमा तेस्रो स्थान",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल सुशासन पार्टीबाट पर्सा क्षेत्र नम्बर ३ मा उम्मेदवारी दिएका उनले १०,५०३ मत प्राप्त गर्दै तेस्रो स्थान हासिल गरे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-parsa?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल सुशासन पार्टी प्रवेश",
+      "date": "२०७९-०५-२०",
+      "details": "सुशासन र भ्रष्टाचार विरोधी अभियानलाई समर्थन गर्दै उनी पूर्व डीआईजी रमेश खरेल नेतृत्वको नेपाल सुशासन पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/raj-kumar-yadav-parsa-3-result/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को आम निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "संघीय समाजवादी फोरम नेपालका तर्फबाट पर्सा क्षेत्र नम्बर ३ मा १०,००९ मत ल्याएर पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074/district-parsa?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "क्षेत्रीय राजनीतिमा उदय",
+      "date": "२०७३-०४-१०",
+      "details": "मधेस आन्दोलनपश्चात् क्षेत्रीय दलहरूमा आबद्ध भई पर्साको राजनीतिमा युवा नेताका रूपमा स्थापित भएका हुन्।",
+      "link_to_source": "https://ekantipur.com/news/2017/12/08/parsa-election-updates.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राज कुमार यादव पर्सा जिल्लाको निर्वाचन क्षेत्र नम्बर ३ का एक निरन्तर र जुझारु उम्मेदवार हुन्। उनले २०७४ को निर्वाचनमा १०,००९ र २०७९ को निर्वाचनमा १०,५०३ मत प्राप्त गरेर आफ्नो क्षेत्रमा बलियो र स्थिर व्यक्तिगत पकड रहेको प्रमाणित गरेका छन्। दुवै पटक पराजित भए तापनि उनको मत संख्याले उनलाई निर्णायक शक्तिको रूपमा स्थापित गरेको छ। उनी बारम्बार पार्टी परिवर्तन गर्ने स्वभावका देखिएका छन्—पहिले क्षेत्रीय दल संघीय समाजवादी फोरम, त्यसपछि नेपाल सुशासन पार्टी र हाल जय मातृभूमि पार्टीमा उनी आबद्ध छन्। उनले मुख्यतया सुशासन र मधेसका मुद्दाहरूलाई आफ्नो चुनावी एजेन्डा बनाउँदै आएका छन्। युवा उमेरमै राजनीतिमा सक्रिय उनी पर्सामा प्रभावशाली 'तेस्रो शक्ति' का रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 48
+}

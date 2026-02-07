@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341200,
+  "candidate_name": "दिपक गिरी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341200.jpg",
+  "election_history": [
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०९",
+      "details": "दाङ निर्वाचन क्षेत्र नम्बर ३ बाट नेकपा एमालेकी उम्मेदवार कोमल वलीलाई ७ हजार ८१० मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://risingnepaldaily.com/news/18791",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सरकारको आलोचना",
+      "date": "२०८२-०१-३०",
+      "details": "प्रतिनिधि सभाको बैठकमा नेपाल राष्ट्र बैंकको गभर्नर नियुक्तिमा ढिलाइ भएको भन्दै सरकारको कार्यशैलीको आलोचना।",
+      "link_to_source": "https://www.khabarhub.com/2025/05/444222/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "दाङ निर्वाचन क्षेत्र नम्बर ३ बाट नेकपा एमालेका हिरा चन्द्र केसीसँग पराजित।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/17/166866164228469830.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सिँचाइ मन्त्रीमा नियुक्त",
+      "date": "२०७३-०५-११",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को नेतृत्वको गठबन्धन सरकारमा सिँचाइ मन्त्रीको रूपमा शपथ ग्रहण।",
+      "link_to_source": "https://lokaantar.com/news/1792",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्य निर्वाचित",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा दाङ क्षेत्र नम्बर ५ बाट विजयी भई संविधान निर्माण प्रक्रियामा सहभागी।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Deepak_Giri",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०२९-०१-०१",
+      "details": "विद्यार्थी कालदेखि नै नेपाली काँग्रेसको भ्रातृ संगठन नेविसंघ मार्फत सक्रिय राजनीतिमा प्रवेश।",
+      "link_to_source": "https://lokaantar.com/news/1792",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "दीपक गिरी नेपाली कांग्रेसका एक अनुभवी र प्रभावशाली नेता हुन्। दाङ निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधित्व गर्ने गिरीको राजनीतिक पकड सो क्षेत्रमा निकै बलियो मानिन्छ। उनले २०७९ को निर्वाचनमा नेकपा एमालेकी चर्चित उम्मेदवार कोमल वलीलाई ७,८१९ मतान्तरले पराजित गर्दै आफ्नो लोकप्रियता प्रमाणित गरे। उनी २०७३ सालमा सिँचाइ मन्त्री रहँदा प्रशासनिक अनुशासन कायम गर्ने र बाढी प्रभावित जिल्लाहरूमा राहत पुर्‍याउने विषयमा सक्रिय देखिएका थिए। पाँच पटक चुनावी मैदानमा उत्रिएका गिरीले धेरै पटक उतारचढाव भोगे पनि कांग्रेसको केन्द्रीय राजनीति र दाङको विकासमा उनको भूमिका महत्वपूर्ण रहँदै आएको छ। उनी संसदमा सार्वजनिक सरोकारका विषयमा प्रखर रूपमा आवाज उठाउने नेतामा पर्छन्।",
+  "overall_approval_rating": 78
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339920,
+  "candidate_name": "मेख बहादुर विष्ट",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला सदस्य, राष्ट्रिय जनमोर्चा, रोल्पा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339920.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रोल्पा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रोल्पा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "रोल्पा जिल्लाबाट प्रतिनिधि सभा सदस्यका लागि राष्ट्रिय जनमोर्चाको तर्फबाट उम्मेदवारी दर्ता।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-rolpa?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता विरुद्धको आन्दोलनमा सक्रियता",
+      "date": "२०७८-१०-१५",
+      "details": "राष्ट्रिय जनमोर्चाको केन्द्रिय नीति अनुरूप रोल्पामा संघीयता खारेजी र एमसीसी विरुद्धको विरोध प्रदर्शनमा नेतृत्वदायी भूमिका।",
+      "link_to_source": "https://www.rajamo.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "रोल्पाबाट प्रतिनिधि सभा निर्वाचनमा सहभागी भई ६५६ मत प्राप्त गर्दै चौथो स्थान हासिल।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वच्छ छवि र निष्ठाको राजनीति",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि राष्ट्रिय जनमोर्चाको वैचारिक लाइनमा प्रतिबद्ध रही जिल्लामा इमानदार कार्यकर्ताको रूपमा स्थापित।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339920",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मेख बहादुर विष्ट राष्ट्रिय जनमोर्चाका एक निष्ठावान र वैचारिक नेता हुन्। उनले माओवादी केन्द्रको गढ मानिने रोल्पा जिल्लामा पार्टीको संघीयता विरोधी एजेन्डालाई निरन्तर अगाडि बढाइरहेका छन्। २०७४ र २०७९ को दुवै प्रतिनिधि सभा निर्वाचनमा उनले उम्मेदवारी दिए पनि चुनावी प्रतिस्पर्धामा भने उनी निकै पछाडि देखिएका छन्। उनको मुख्य शक्ति भनेको उनको स्वच्छ राजनीतिक छवि र पार्टीप्रतिको अटुट निष्ठा हो। रोल्पामा ठूला दलहरूको दबदबा रहेका कारण उनले उल्लेख्य जनमत बटुल्न नसके पनि स्थानीय स्तरमा एक इमानदार र पहुँचयोग्य नेताका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 45
+}

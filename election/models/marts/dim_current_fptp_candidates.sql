@@ -24,6 +24,11 @@ parliament_members as (
     select * from {{ ref('dim_parliament_members') }}
 ),
 
+-- Candidate political history with minister counts and full election history
+candidates_political_history as (
+    select * from {{ ref('stg_candidates_political_history') }}
+),
+
 -- Address to district mapping (Basobas Jilla)
 address_to_district as (
     select * from {{ ref('stg_candidate_address_to_district_mapping') }}
@@ -421,16 +426,6 @@ joined as (
         -- Runner-up votes from 2074 election
         ru74.runner_up_votes as prev_2074_runner_up_votes,
 
-        -- Elections contested count (includes parliament membership via sub-elections)
-        -- Count both election participation and parliament membership to account for sub-elections
-        case
-            when (pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2079) 
-                and (pr74.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2074) then 2
-            when pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pr74.{{ adapter.quote("TotalVoteReceived") }} is not null 
-                or pm.was_member_2079 or pm.was_member_2074 then 1
-            else 0
-        end as elections_contested,
-
         -- Party info
         p.previous_names as party_previous_names,
 
@@ -495,7 +490,26 @@ joined as (
 
         -- Bokuwa: spouse is a PR candidate in same party
         coalesce(bk.is_budi_bokuwa, false) as is_budi_bokuwa,
-        coalesce(bk.is_budo_bokuwa, false) as is_budo_bokuwa
+        coalesce(bk.is_budo_bokuwa, false) as is_budo_bokuwa,
+
+        -- Minister history from candidate political profile
+        coalesce(cph.is_past_minister, false) as is_past_minister,
+        coalesce(cph.minister_appointment_count, 0) as minister_appointment_count,
+        
+        -- Enhanced election counts using profile history when available
+        -- Falls back to existing logic (based on 2074 and 2079) when profile is not available
+        coalesce(
+            cph.total_elections_from_profile,
+            case
+                when (pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2079) 
+                    and (pr74.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2074) then 2
+                when pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pr74.{{ adapter.quote("TotalVoteReceived") }} is not null 
+                    or pm.was_member_2079 or pm.was_member_2074 then 1
+                else 0
+            end
+        ) as total_elections_contested,
+        
+        coalesce(cph.total_wins_from_profile, 0) as total_wins_from_profile
 
     from current_with_qual cc
     left join district_name_mapping dnm
@@ -581,6 +595,8 @@ joined as (
         on cc.{{ adapter.quote("CandidateID") }} = nf.{{ adapter.quote("CandidateID") }}
     left join bokuwa_flags bk
         on cc.{{ adapter.quote("CandidateID") }} = bk.{{ adapter.quote("CandidateID") }}
+    left join candidates_political_history cph
+        on cc.{{ adapter.quote("CandidateID") }} = cph.candidate_id
 ),
 
 with_tags as (
@@ -637,7 +653,9 @@ with_tags as (
 
         -- New candidate: did not contest in any previous election AND was never a parliament member
         -- Some candidates may have been elected through sub-elections and don't have election result records
+        -- ALSO consider political profile history - if they have contested before, they're not new
         case
+            when total_elections_contested > 0 then false  -- Has political profile showing past elections
             when prev_election_votes is null 
                 and prev_2074_election_votes is null 
                 and not was_parliament_member_2079 
@@ -792,7 +810,8 @@ select
             case when is_loyal then 'loyal' end,
             case when is_nepo then 'nepo' end,
             case when is_budi_bokuwa then 'budi-bokuwa' end,
-            case when is_budo_bokuwa then 'budo-bokuwa' end
+            case when is_budo_bokuwa then 'budo-bokuwa' end,
+            case when is_past_minister then 'purba-mantri' end
         ],
         x -> x is not null
     ) as tags,

@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340820,
+  "candidate_name": "सुरेन्द्र राज आचार्य",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Nepali_Congress.svg/1024px-Flag_of_the_Nepali_Congress.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य, पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340820.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र (बागी)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रीमा नियुक्ति",
+      "date": "२०८०-०१-२४",
+      "details": "प्रधानमन्त्री पुष्पकमल दाहाल 'प्रचण्ड'को नेतृत्वमा रहेको मन्त्रिपरिषद्मा आचार्यलाई महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रालयको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2023/05/07/surendra-acharya-appointed-women-children-and-senior-citizens-minister",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-१०",
+      "details": "कपिलवस्तु क्षेत्र नं. २ बाट ३९,०१४ मत प्राप्त गरी नेकपा एमालेका वृजेश कुमार गुप्तालाई पराजित गर्दै निर्वाचित भएका थिए।",
+      "link_to_source": "https://risingnepaldaily.com/news/19119",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "कपिलवस्तु २ बाट ३१,५६६ मत ल्याए पनि वृजेश कुमार गुप्तासँग पराजित हुन पुगेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340820",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा निर्वाचित",
+      "date": "२०७०-०८-०४",
+      "details": "कपिलवस्तु क्षेत्र नं. २ बाट संविधान सभा सदस्यमा निर्वाचित भई संविधान निर्माण प्रक्रियामा सहभागी भएका थिए।",
+      "link_to_source": "https://ekantipur.com/election2079/candidate-detail/1183",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिँचाइ राज्यमन्त्रीको जिम्मेवारी",
+      "date": "२०७१-०२-१५",
+      "details": "सुशील कोइरालाको प्रधानमन्त्रित्व कालमा सिँचाइ राज्यमन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://ekantipur.com/election2079/candidate-detail/1183",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०५६ मा बागी उम्मेदवारी",
+      "date": "२०५६-०१-०१",
+      "details": "पार्टीको आधिकारिक उम्मेदवार विरुद्ध बागी उम्मेदवारी दिएका कारण उनी राजनीतिक रूपमा चर्चामा आएका थिए।",
+      "link_to_source": "https://ekantipur.com/election2079/candidate-detail/1183",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "सुरेन्द्र राज आचार्य कपिलवस्तुको राजनीतिमा एक स्थापित र प्रभावशाली नेता हुन्। उनको राजनीतिक यात्रा लामो छ र उनी विशेषगरी कपिलवस्तु क्षेत्र नम्बर २ मा केन्द्रित छन्। २०७९ को निर्वाचनमा उनले आफ्ना कडा प्रतिस्पर्धी वृजेश कुमार गुप्तालाई झिनो मतान्तरले पराजित गर्दै आफ्नो पकड पुनः कायम गरेका छन्। नेपाली काँग्रेसभित्र उनी सभापति शेरबहादुर देउवा पक्षधर मानिन्छन् र पार्टीको केन्द्रीय कार्यसमितिमा पनि उनको बलियो उपस्थिति छ। संघीय मन्त्रीको रूपमा उनको कार्यकालमा बालबालिकाको अनलाइन सुरक्षा र ज्येष्ठ नागरिकका विषयमा केही प्रयासहरू भएका देखिन्छन्। स्रोतले उल्लेख गरेको 'वगुवा' ट्याग सम्भवतः उनको राजनीतिक उतारचढाव वा विगतको बागी छविसँग सम्बन्धित हुन सक्छ, यद्यपि उनले आफ्नो निर्वाचन क्षेत्र परिवर्तन नगरी सोही क्षेत्रबाट निरन्तर प्रतिस्पर्धा गर्दै आएका छन्।",
+  "overall_approval_rating": 78
+}

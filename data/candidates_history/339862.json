@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339862,
+  "candidate_name": "टेक बहादुर गुरुङ",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "सांसद, प्रतिनिधि सभा",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339862.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "मनाङ",
+      "constituency": "मनाङ १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मनाङ",
+      "constituency": "मनाङ १",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मनाङ",
+      "constituency": "मनाङ १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सांसद पदको निलम्बन सर्वोच्चद्वारा बदर",
+      "date": "२०८०-१२-१६",
+      "details": "सर्वोच्च अदालतले टेकबहादुर गुरुङको सांसद पदको निलम्बन बदर गर्ने आदेश दिएसँगै उनी पुनः संसदीय प्रक्रियामा सहभागी हुन योग्य भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2024/03/30/top-court-annuls-suspension-of-convicted-congress-lawmaker",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भ्रष्टाचार मुद्दामा विशेष अदालतबाट दोषी ठहर",
+      "date": "२०७९-११-१६",
+      "details": "भृकुटीमण्डप फनपार्क जग्गा भाडा प्रकरणमा विशेष अदालतले गुरुङलाई भ्रष्टाचारको मतियारको रूपमा दोषी ठहर गर्दै १ करोड २१ लाख रुपैयाँ जरिवानाको फैसला गरेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/03/1271280",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सांसद पदबाट निलम्बित",
+      "date": "२०७९-०९-१२",
+      "details": "भ्रष्टाचार मुद्दा अदालतमा विचाराधीन रहेकै अवस्थामा निर्वाचित भएपछि अख्तियारको पत्र अनुसार संघीय संसद सचिवालयले उनलाई सांसद पदबाट निलम्बन गरेको थियो।",
+      "link_to_source": "https://rajdhanidaily.com/id/88165/",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "मनाङबाट एमालेका पोल्देन छोपाङ गुरुङलाई ३२८ मतको अन्तरले पराजित गर्दै उनी प्रतिनिधि सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://setopati.com/politics/287313",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भ्रष्टाचार मुद्दा दायर",
+      "date": "२०७५-१०-२१",
+      "details": "समाज कल्याण परिषद्को भृकुटीमण्डपस्थित जग्गा सस्तोमा भाडामा दिएको आरोपमा अख्तियारले गुरुङसहित १४ जनाविरुद्ध विशेष अदालतमा मुद्दा दायर गरेको थियो।",
+      "link_to_source": "https://ratopati.com/story/337189",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनका उम्मेदवार पोल्देन छोपाङ गुरुङसँग उनी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074/district/Manang?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम तथा रोजगार मन्त्री",
+      "date": "२०७०-११-१३",
+      "details": "सुशील कोइरालाको नेतृत्वमा रहेको सरकारमा उनी श्रम तथा रोजगार राज्यमन्त्रीको रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Tek_Bahadur_Gurung",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३६-०१-०१",
+      "details": "२०३६ सालको जनमत संग्रहको समयदेखि उनी नेपाली काँग्रेसको राजनीतिमा सक्रिय रहेका हुन्।",
+      "link_to_source": "https://wikipedia.org/wiki/Tek_Bahadur_Gurung",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "टेक बहादुर गुरुङ मनाङ जिल्लाका एक प्रभावशाली नेता र अनुभवी राजनीतिज्ञ हुन्। उनी म्यानपावर व्यवसायी पृष्ठभूमिका हुन्, जसले गर्दा उनको कार्यकालमा वैदेशिक रोजगार क्षेत्रमा केही सुधारका प्रयास भए पनि उनी सधैं विवादमुक्त भने रहेनन्। भृकुटीमण्डपस्थित फनपार्कको जग्गा भाडा प्रकरणमा विशेष अदालतबाट दोषी ठहर हुनु र त्यसका कारण लामो समय सांसद पदबाट निलम्बित हुनु उनको राजनीतिक जीवनको सबैभन्दा ठूलो धक्का हो। यद्यपि, सर्वोच्च अदालतको आदेशले उनको निलम्बन हटेपछि उनी पुनः सक्रिय भएका छन्। सिड डेटामा उल्लेखित 'वागुवा' (Vaguwa) ट्यागले उनको राजनीतिक अस्थिरता वा कानुनी संकटका कारण सिर्जना भएको अन्योललाई संकेत गरेको देखिन्छ, किनकि उनले भौगोलिक रूपमा आफ्नो जिल्ला मनाङ परिवर्तन गरेका छैनन्। उनी मनाङमा बलियो स्थानीय पकड भएका नेता मानिन्छन्, जसको पुष्टि २०७९ को निर्वाचन परिणामले पनि गर्दछ।",
+  "overall_approval_rating": 45
+}

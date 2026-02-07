@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340641,
+  "candidate_name": "पदम थापा मगर",
+  "candidate_party": "नेशनल रिपब्लिक नेपाल",
+  "candidate_party_logo": "https://nationalrepublicnepal.org.np/wp-content/uploads/2023/10/cropped-NRN-Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340641.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी परिवर्तन र केन्द्रीय सदस्यमा नियुक्ति",
+      "date": "२०८०-०६-१५",
+      "details": "मंगोल नेशनल अर्गनाइजेसन छोडेर नेशनल रिपब्लिक नेपालमा प्रवेश गरी लुम्बिनी प्रदेशबाट केन्द्रीय सदस्यको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://nationalrepublicnepal.org.np/central-committee/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "गुल्मी क्षेत्र नं. २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिँदा ७६ मत प्राप्त गरी आठौं स्थानमा रहेका।",
+      "link_to_source": "https://election.ekantipur.com/constituency/279?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "गुल्मीबाट मंगोल नेशनल अर्गनाइजेसनको उम्मेदवारका रूपमा निर्वाचनमा होमिएका तर १९३ मत मात्र प्राप्त गरेका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "पदम थापा मगर गुल्मी जिल्लाका एक निरन्तर चुनावी प्रतिस्पर्धामा रहने तर कम प्रभाव भएका राजनीतिकर्मी हुन्। उनले २०७४ र २०७९ का दुवै आम निर्वाचनमा मंगोल नेशनल अर्गनाइजेसन (MNO) बाट उम्मेदवारी दिएका थिए, जहाँ उनको मत संख्या निकै न्यून (७६ देखि १९३ सम्म) रहेको देखिन्छ। हाल उनी जातीय पहिचानवादी राजनीतिबाट अलि फरक 'नेशनल रिपब्लिक नेपाल' नामक नयाँ दलमा आबद्ध भई केन्द्रीय समितिको जिम्मेवारीमा रहेका छन्। उनको राजनीतिक यात्राले उनलाई एक निष्ठावान कार्यकर्ताका रूपमा त चिनाउँछ, तर चुनावी नतिजाको हिसाबले उनको जनाधार अत्यन्तै कमजोर छ। पार्टी परिवर्तनले उनको चुनावी रणनीतिमा केही फेरबदल ल्याउन खोजेको संकेत गर्दछ, यद्यपि उनले अहिलेसम्म कुनै पनि सार्वजनिक वा लाभको पद हासिल गर्न सकेका छैनन्।",
+  "overall_approval_rating": 22
+}

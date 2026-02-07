@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342574,
+  "candidate_name": "मनोज कुमार साह",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Janamat_Party_Logo.png/220px-Janamat_Party_Logo.png",
+  "candidates_current_position": "जनमत पार्टीका स्थानीय नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342574.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "महोत्तरी क्षेत्र नं. ४ बाट जनमत पार्टीको उम्मेदवारका रूपमा १०,०५९ मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342574",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनमत पार्टीमा आबद्धता र संगठन विस्तार",
+      "date": "२०७६-०१-०१",
+      "details": "डा. सीके राउत नेतृत्वको जनमत पार्टी गठन भएपछि महोत्तरी जिल्लामा पार्टीको एजेन्डा र संगठन सुदृढीकरणमा सक्रिय भूमिका खेल्दै आएका छन्।",
+      "link_to_source": "https://janamatparty.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा कमजोर उपस्थिति",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को निर्वाचनमा महोत्तरीबाट उम्मेदवारी दिँदा केवल १०१ मत प्राप्त गरेका थिए, जसले उनको सुरुवाती राजनीतिक आधार कमजोर रहेको देखाउँछ।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "मनोज कुमार साह महोत्तरी जिल्लाका जनमत पार्टीका एक उदाउँदा नेता हुन्। उनको राजनीतिक यात्रामा २०७४ देखि २०७९ को बीचमा उल्लेख्य सुधार देखिएको छ। २०७४ को निर्वाचनमा मात्र १०१ मत प्राप्त गरेका उनले २०७९ मा १०,०५९ मत ल्याउनुले उनको बढ्दो लोकप्रियता र महोत्तरीमा जनमत पार्टीको बढ्दो प्रभावलाई पुष्टि गर्दछ। उनी महोत्तरी क्षेत्र नं. ४ मा तेस्रो शक्तिका रूपमा स्थापित भएका छन्। यद्यपि उनले अझै पनि क्षेत्रका स्थापित पुराना दलका नेताहरूलाई चुनौती दिन थप संगठन विस्तार गर्नुपर्ने देखिन्छ। उनको पहिचान हालसम्म विवादरहित रहेको छ र उनले किसान तथा मधेसका मुद्दाहरूलाई प्राथमिकतामा राखेर काम गरिरहेका छन्।",
+  "overall_approval_rating": 58
+}

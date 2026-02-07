@@ -2,11 +2,12 @@
 
 import { type Candidate } from "@/lib/candidates-data"
 import { BadgeShowcase } from "./badge-display"
-import { User, Building2, MapPin, Vote } from "lucide-react"
+import { User, Building2, MapPin, Vote, FileText, Award, AlertTriangle } from "lucide-react"
 import { cn } from "@/lib/utils"
 import Image from "next/image"
 import { useState } from "react"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
+import { usePoliticalHistory } from "@/hooks/use-political-history"
 
 interface ProfileHeaderProps {
   candidate: Candidate
@@ -18,13 +19,14 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
   const candidateImageUrl = `https://result.election.gov.np/Images/Candidate/${candidate.candidate_id}.jpg`
   const { getSymbolUrl } = usePartySymbols()
   const partySymbolUrl = getSymbolUrl(candidate.political_party_name)
+  const { data: politicalHistory } = usePoliticalHistory(candidate.candidate_id)
 
   // Determine candidate level/status based on election history
   const getLevel = () => {
-    if (candidate.elections_contested >= 2 && candidate.prev_election_result === "Winner") {
+    if (candidate.total_elections_contested >= 2 && candidate.prev_election_result === "Winner") {
       return { label: "दिग्गज", color: "bg-gold text-gold-foreground" }
     }
-    if (candidate.elections_contested >= 1) {
+    if (candidate.total_elections_contested >= 1) {
       return { label: "अनुभवी", color: "bg-primary text-primary-foreground" }
     }
     return { label: "नयाँ", color: "bg-accent text-accent-foreground" }
@@ -32,11 +34,33 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
 
   const level = getLevel()
 
-  // Count wins
-  const wins = [
+  // Count wins - use total_wins_from_profile if available, otherwise fall back to counting
+  const wins = candidate.total_wins_from_profile || [
     candidate.prev_election_result === "Winner",
     candidate.prev_2074_election_result === "Winner",
   ].filter(Boolean).length
+
+  // Get the most recent ministerial appointment (title and date)
+  const getLastMinisterialAppointment = () => {
+    if (!politicalHistory?.political_history) return null
+    const ministerialAppts = politicalHistory.political_history.filter(
+      (entry) => entry.event_type === "MINISTERIAL_APPT"
+    )
+    if (ministerialAppts.length === 0) return null
+    
+    // Sort by date in descending order to get the most recent
+    const sorted = ministerialAppts.sort((a, b) => {
+      // Nepali dates are in format २०६८-०५-१८, compare as strings (works for ISO-like format)
+      return b.date.localeCompare(a.date)
+    })
+    
+    return {
+      title: sorted[0].event,
+      date: sorted[0].date
+    }
+  }
+
+  const lastMinisterialAppt = getLastMinisterialAppointment()
 
   return (
     <div className="relative overflow-hidden rounded-2xl border border-border bg-card">
@@ -96,7 +120,7 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
               <div className="flex items-center gap-2 rounded-lg bg-secondary px-3 py-1.5">
                 <Vote className="h-4 w-4 text-primary" />
                 <span className="text-sm text-muted-foreground">चुनाव संख्या:</span>
-                <span className="font-semibold text-foreground">{candidate.elections_contested}</span>
+                <span className="font-semibold text-foreground">{candidate.total_elections_contested}</span>
               </div>
               {wins > 0 && (
                 <div className="flex items-center gap-2 rounded-lg bg-winner/20 px-3 py-1.5">
@@ -168,12 +192,87 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
           </div>
         </div>
 
+        {/* Two Column Layout for Bio and Positions */}
+        <div className="mt-6 grid gap-4 md:grid-cols-[1fr_320px]">
+          {/* Political Analysis Bio Section */}
+          {politicalHistory?.analysis && (
+            <div className="rounded-xl border border-border bg-muted/30 p-5">
+              <div className="mb-3 flex items-center justify-between">
+                <div className="flex items-center gap-2">
+                  <FileText className="h-5 w-5 text-primary" />
+                  <h2 className="text-sm font-semibold uppercase tracking-wider text-muted-foreground">
+                    राजनीतिक परिचय
+                  </h2>
+                </div>
+                {politicalHistory.overall_approval_rating && (
+                  <div className="flex items-center gap-1.5 rounded-full bg-primary/10 px-3 py-1">
+                    <Award className="h-4 w-4 text-primary" />
+                    <span className="text-sm font-semibold text-primary">
+                      {politicalHistory.overall_approval_rating}%
+                    </span>
+                  </div>
+                )}
+              </div>
+              <p className="text-sm leading-relaxed text-muted-foreground">
+                {politicalHistory.analysis}
+              </p>
+              <div className="mt-3 flex items-start gap-2 rounded-lg bg-yellow-50/50 dark:bg-yellow-950/20 border border-yellow-200/50 dark:border-yellow-800/30 p-3">
+                <AlertTriangle className="h-4 w-4 text-yellow-600 dark:text-yellow-500 mt-0.5 shrink-0" />
+                <p className="text-xs text-yellow-800/90 dark:text-yellow-200/80 leading-relaxed">
+                  <strong>सूचना:</strong> यो विवरण AI द्वारा सङ्कलित गरिएको हो र त्रुटिपूर्ण हुन सक्छ। कृपया सावधानीपूर्वक प्रयोग गर्नुहोस्।
+                </p>
+              </div>
+            </div>
+          )}
+
+          {/* Current Positions Panel */}
+          {(lastMinisterialAppt || (politicalHistory && politicalHistory.candidates_current_position_in_party)) && (
+            <div className="space-y-3">
+              {/* Government Position - Antim Pad */}
+              {lastMinisterialAppt && (
+                <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
+                  <div className="mb-2 flex items-center gap-2">
+                    <Building2 className="h-4 w-4 text-primary" />
+                    <h3 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                      अन्तिम पद
+                    </h3>
+                  </div>
+                  <p className="text-sm font-semibold text-foreground leading-relaxed">
+                    {lastMinisterialAppt.title}
+                  </p>
+                  <p className="mt-1.5 text-xs text-muted-foreground">
+                    मिति: {lastMinisterialAppt.date}
+                  </p>
+                </div>
+              )}
+
+              {/* Party Position - Bartaman Pad */}
+              {politicalHistory.candidates_current_position_in_party && (
+                <div className="rounded-xl border border-border bg-card p-4 shadow-sm">
+                  <div className="mb-2 flex items-center gap-2">
+                    <Building2 className="h-4 w-4 text-accent" />
+                    <h3 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                      वर्तमान पद
+                    </h3>
+                  </div>
+                  <p className="text-sm font-semibold text-foreground leading-relaxed">
+                    {politicalHistory.candidates_current_position_in_party}
+                  </p>
+                  <p className="mt-1.5 text-xs text-muted-foreground">
+                    {candidate.political_party_name}
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
         {/* Badges Section */}
         <div className="mt-8">
           <h2 className="mb-4 text-center text-sm font-semibold uppercase tracking-wider text-muted-foreground md:text-left">
             विशेषताहरू र ब्याजहरू
           </h2>
-          <BadgeShowcase tags={candidate.tags} />
+          <BadgeShowcase tags={candidate.tags} candidate={candidate} />
         </div>
       </div>
     </div>

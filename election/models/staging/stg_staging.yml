@@ -371,3 +371,58 @@ models:
         description: Current party leader name
       - name: founded_year
         description: Year the party was founded
+
+  - name: stg_candidates_political_history
+    description: >
+      Staged detailed political history and profiles of FPTP candidates.
+      Includes comprehensive election participation history across multiple
+      elections, political events timeline, ministerial appointments count,
+      and overall approval ratings. Used to enrich candidate profiles with
+      historical context beyond just 2074 and 2079 elections.
+    columns:
+      - name: candidate_id
+        description: Unique identifier for the candidate (matches CandidateID in FPTP tables)
+      - name: candidate_name
+        description: Full name of the candidate (Devanagari)
+      - name: candidate_party
+        description: Current political party of the candidate
+      - name: candidates_current_position
+        description: Current political position (e.g., पूर्व मन्त्री, पूर्व सांसद)
+      - name: candidates_current_position_in_party
+        description: Current position within the political party
+      - name: candidate_picture
+        description: URL to candidate's profile picture
+      - name: election_history
+        description: >
+          Array of election participation records across multiple years
+          (2048 to current), including year, position contested, district,
+          constituency, result (विजयी/पराजित), and party affiliation
+      - name: political_history
+        description: >
+          Array of significant political events including ministerial
+          appointments (MINISTERIAL_APPT), election wins/losses, party
+          switches, controversies, and major achievements with dates,
+          details, source links, and event categorization
+      - name: analysis
+        description: >
+          Detailed political analysis and profile of the candidate covering
+          their political career, strengths, controversies, and public perception
+      - name: overall_approval_rating
+        description: Aggregated approval rating score (0-100)
+      - name: minister_appointment_count
+        description: >
+          Total number of times the candidate has been appointed as a
+          minister (including मन्त्री, उपप्रधानमन्त्री, राज्यमन्त्री positions)
+          extracted from political_history events with MINISTERIAL_APPT type
+      - name: total_elections_from_profile
+        description: >
+          Total count of all elections the candidate has participated in
+          across their entire career, extracted from election_history array
+      - name: total_wins_from_profile
+        description: >
+          Total count of elections the candidate has won (result = विजयी
+          or Elected) across their entire career
+      - name: is_past_minister
+        description: >
+          Boolean flag indicating if the candidate has ever been appointed
+          as a minister (true if minister_appointment_count > 0)

@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340533,
+  "candidate_name": "लेखराज भट्ट",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री / पूर्व सांसद",
+  "candidates_current_position_in_party": "सचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340533.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "एमाले परित्यागको हल्ला खण्डन",
+      "date": "२०८१-०९-३०",
+      "details": "एमाले छोडेर माओवादीमा फर्कने हल्ला निराधार रहेको र आफू एमालेमै सक्रिय रहने उनले स्पष्ट पारेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVm-d7lDpKmBmyltXcE6E8nMTDR5rcYpSdxuJ5jP44rcR3SPhmLZe7AFSlZum36K8hLwtr8SsuuGvR4koIoYEU3fJPURVuiZapDbtIiIXlfb2486n1O7lsR1bmrg7RgQO3N4zsJAy2XQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "कैलाली क्षेत्र नम्बर ४ मा नेकपा एमालेका उम्मेदवार भट्ट नेपाली कांग्रेसका वीरबहादुर बलायरसँग पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIiuNIUZLQ9UNnA1mgUhFlfgo1kz0TF8j3_n6I4l1JbxuEQgNqatejZ7DpAnYEEyOKnazyokDUypjE7cJY3fC4hj09NMiyTlsBXlBpZMbcTq73B3c0GnT-czj60idMB54f7WH37TL1pxpApJhQB-gjyxefL8vqtS0I6Ha6SYTA2TpJfTF7rzphaaR5irtJnPzuLOFT2dQmpNcg9GVe8u-8w8dA6_h8HhEkUoBOwDVClBL86fF6E3DY85y1xVItz1AGR21LtgwE8kvBSSewJ3Rb_22nAi-4EqyseCU0PAXKrv7zQ_9xMfCyjcYRQa4uS5DHPjlS6sceNPmGNG6-oE5GkFxtbCGY_FTe1R5h0X3480t8FX7SOMvj7o6TljQXhbmMJzaUSaL96uQ=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एमाले सचिवमा निर्वाचित",
+      "date": "२०७८-०८-१४",
+      "details": "चितवनमा सम्पन्न नेकपा एमालेको १०औं महाधिवेशनबाट उनी पार्टीको केन्द्रीय सचिव पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF71dqXtg9KajrkRSlvzTsUFHMsdJH2bmgmZV4ZKMl34fzski-2LE8K99N8n2QSeTs_-RFEUOUwSIu9yugdsyO7Md8xGQv1lbvCDlHAImdW3EGBr0Qc4NALz_jRxtW1dWarzqp8oJJCj0sPjRhOIxnJrd2JHwopV3bob-qfb4KsZ9n9lqf8_qA0BpkBjjxtJh6Dtl8=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी केन्द्र छोडेर एमाले प्रवेश",
+      "date": "२०७७-११-२३",
+      "details": "सर्वोच्च अदालतले नेकपा खारेज गरेपछि भट्टले पूर्व पार्टी माओवादी केन्द्रमा नफर्की नेकपा एमालेमा बस्ने निर्णय गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-7eBjxZ3SkkVy99MvGm3Mil0u9fj8c8cAeNashIcjZmuc_es9p-BlW7sCm73JxVbc4NKs2oJ41PbSPzyFIh33XmsYMgCVQs5lynJOH3_WMA5ksQTNWtITgXxT8vMrjN6Ln9mCKyxTR8H7QIWZsrdijJQHIaAx71QqxegaS2UhU9E=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्री नियुक्त",
+      "date": "२०७६-०८-०५",
+      "details": "केपी शर्मा ओलीको मन्त्रीमण्डलमा उनले उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8fVSnE919xzWmRcrMmvehw91p2YimLhqwYUPXAUMuqK9T0DTxZiMoX4api7jY_d19qvgtII-ubROsP-yMq0h014mKRdSdrNX_RG6CicmUHC-3pF9bfQneP0eVaPBzuPhiG4NNjE2BIbJ3ALRk14TVyWLgMVI8hYPB",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "चिनी मूल्य वृद्धि र किसान भुक्तानी विवाद",
+      "date": "२०७६-०९-१७",
+      "details": "मन्त्री रहँदा उनी चिनीको मूल्य वृद्धि र उखु किसानको बक्यौता भुक्तानी नगर्ने चिनी उद्योगीलाई संरक्षण गरेको आरोपमा विवादित बनेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFku2VoBPgFiPqdwDxYdjYm5pqyFxResUkmWvN7Xa8K_4ZewQVinLUln1kVxhPJT4kUsaaHMNk-5z62mJqM80261V6qzTa44s994IoCaQ01SI0c8_VE3JeV4qj7QoW7UMWNQDlcuPUFKh3ne-rad7ZQeX7q1h5sMnEBGr8z9SRc7s3Pj6j6GEpN5tZD3guDneBUW_gDrmbauaLOiGBhGVHR2vkAhgvAXwSCap5BjlTbag5svwN25YUscA==",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजय",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनका साझा उम्मेदवारका रूपमा भट्ट कैलाली क्षेत्र नं ४ बाट भारी मतान्तरले विजयी भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOD0vH2g15qqhM9jzEJxwKALyCQ-cHn3W7IYWF1Npu7xsVFkeGA9RmLSgPTOGFyujVw3UoAaVlatTAZ73NBvm73cz0PrtLwBDOGv3wBOd44zFIk5sxwtSh0A==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वाणिज्य तथा आपूर्ति मन्त्री नियुक्त",
+      "date": "२०६८-०५-१८",
+      "details": "बाबुराम भट्टराईको नेतृत्वमा रहेको सरकारमा उनी वाणिज्य तथा आपूर्ति मन्त्रीका रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1DmoneW6sSXcOEA_76LAYwndMQFeQkYaar4NtvioWOtosAep9_fI9Ncy6Xy36TmWb4eQYSJCBYJNiASp3zNX8RKP_B2uKLqbZQxBzhScyi771DQwJC18G_Nbv-0SmwlY6P1CHubKKjw9o981I9g66X4q3vOdwbaMRx6ukLhI6g1z7OvpWB1y9JndRSmKbJw0BmTwd_Sut9PN7_7gpRYi69zSnfeJ2fX9XHLWt",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम तथा यातायात मन्त्री नियुक्त",
+      "date": "२०६५-०५-१५",
+      "details": "पुष्पकमल दाहाल नेतृत्वको पहिलो मन्त्रीमण्डलमा उनले श्रम तथा यातायात मन्त्रीको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8fVSnE919xzWmRcrMmvehw91p2YimLhqwYUPXAUMuqK9T0DTxZiMoX4api7jY_d19qvgtII-ubROsP-yMq0h014mKRdSdrNX_RG6CicmUHC-3pF9bfQneP0eVaPBzuPhiG4NNjE2BIbJ3ALRk14TVyWLgMVI8hYPB",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लेखराज भट्ट सुदूरपश्चिम प्रदेशको राजनीतिमा एक अत्यन्त प्रभावशाली र पुराना नेता हुन्। माओवादी जनयुद्धका एक कमाण्डर रहेका उनले लामो समय पुष्पकमल दाहाल 'प्रचण्ड' को निकट रहेर काम गरे। तर, २०७७ सालमा नेकपा विभाजन हुँदा उनले प्रचण्डको साथ छोडेर केपी शर्मा ओलीलाई समर्थन गर्दै एमाले रोजे, जसलाई उनको राजनीतिक जीवनको सबैभन्दा ठूलो 'यू-टर्न' मानिन्छ। २०७४ मा माओवादीबाट कैलाली-४ मा सहज जित निकालेका भट्ट २०७९ को चुनावमा एमालेबाट लड्दा भने पराजित भए। उनको यस पराजयमा पार्टी परिवर्तन र पुराना समर्थकहरूको असन्तुष्टिलाई मुख्य कारण मानिन्छ। मन्त्री पदमा रहँदा उनले आपूर्ति व्यवस्थापन र बजार अनुगमनमा केही सक्रियता देखाए पनि चिनी काण्ड र किसानको भुक्तानी जस्ता मुद्दामा उनी विवादित रहे। हाल एमालेको सचिवको रूपमा उनले सुदूरपश्चिममा पार्टीको सांगठनिक नेतृत्व गरिरहेका छन्।",
+  "overall_approval_rating": 58
+}

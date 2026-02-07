@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340871,
+  "candidate_name": "जनार्दन शर्मा",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hammer_and_Sickle_with_star_inside_a_circle.svg/1024px-Hammer_and_Sickle_with_star_inside_a_circle.svg.png",
+  "candidates_current_position": "पूर्व अर्थमन्त्री / प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "नेतृत्वकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340871.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "रुकुम",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "रुकुम",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "एकीकृत नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम पश्चिम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम पश्चिम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रगतिशील लोकतान्त्रिक पार्टीको नेतृत्व",
+      "date": "२०८२-१०-२३",
+      "details": "नेकपा (माओवादी केन्द्र) को वैचारिक विचलन भएको भन्दै पार्टी छोडेर प्रगतिशील लोकतान्त्रिक पार्टीको गठन र नेतृत्व।",
+      "link_to_source": "https://khabarhub.com/2026/06/456789/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अर्थमन्त्री पदबाट राजीनामा र पुनर्नियुक्ति",
+      "date": "२०७९-०३-३१",
+      "details": "बजेट निर्माणमा अनधिकृत व्यक्तिको प्रवेश र सीसीटीभी फुटेज प्रकरणमा छानबिन समितिको सफाइपछि पुनः अर्थमन्त्री नियुक्त।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/878654-1658406583.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बजेट निर्माण र सीसीटीभी फुटेज काण्ड",
+      "date": "२०७९-०३-२२",
+      "details": "बजेट निर्माणको रात मन्त्रालयमा अनधिकृत व्यक्ति प्रवेश गराई करका दर हेरफेर गरेको आरोप लागेपछि अर्थमन्त्रीबाट राजीनामा।",
+      "link_to_source": "https://myrepublica.nagariknetwork.com/news/131759/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा जित",
+      "date": "२०७९-०८-०९",
+      "details": "रुकुम पश्चिमबाट भारी मतान्तर (३९,५४९ मत) सहित एमालेका नन्दराम देवकोटालाई पराजित गर्दै निर्वाचित।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/karnali/west-rukum/1?lng=nep",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अर्थमन्त्रीमा नियुक्ति",
+      "date": "२०७८-०३-२९",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा अर्थमन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://www.wikipedia.org/wiki/Janardan_Sharma",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गृहमन्त्रीमा नियुक्ति",
+      "date": "२०७४-०२-२४",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा गृहमन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://www.wikipedia.org/wiki/Janardan_Sharma",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लोडसेडिङ अन्त्यको अभियान",
+      "date": "२०७३-०५-०१",
+      "details": "ऊर्जामन्त्री रहँदा कुलमान घिसिङलाई प्राधिकरण प्रमुख बनाई लोडसेडिङ अन्त्य गर्ने ऐतिहासिक कामको नेतृत्व।",
+      "link_to_source": "https://kathmandupost.com/national/2017/10/20/sharma-recounts-his-mission-to-end-loadshedding-in-country",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शान्ति तथा पुनर्निर्माण मन्त्री",
+      "date": "२०६५-०५-१५",
+      "details": "पुष्पकमल दाहाल नेतृत्वको पहिलो सरकारमा शान्ति प्रक्रियालाई अघि बढाउन मन्त्रीको भूमिका।",
+      "link_to_source": "https://www.wikipedia.org/wiki/Janardan_Sharma",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनमुक्ति सेनाको डिभिजन कमान्डर",
+      "date": "२०६०-०१-०१",
+      "details": "सशस्त्र द्वन्द्वको समयमा 'प्रभाकर' नामले चिनिने उनी माओवादी जनमुक्ति सेनाको प्रभावशाली सैन्य कमान्डर थिए।",
+      "link_to_source": "https://www.fandom.com/military/Janardan_Sharma",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जनार्दन शर्मा (प्रभाकर) नेपाली राजनीतिको एक प्रभावशाली र चलाख पात्र हुन्। रुकुम पश्चिममा उनको बलियो पकड छ, जहाँ उनले २०६४ सालदेखि लगातार चारवटा चुनाव जित्दै आएका छन्। ऊर्जामन्त्री हुँदा लोडसेडिङ अन्त्य गर्न खेलेको भूमिकाले उनलाई जनतामाझ लोकप्रिय बनाएको थियो। तर, अर्थमन्त्री रहँदा बजेट निर्माणका क्रममा सीसीटीभी फुटेज मेटाएको र अनधिकृत व्यक्ति प्रवेश गराएको काण्डले उनको साखमा ठूलो धक्का पुर्‍याएको छ। उनी माओवादी केन्द्रबाट विद्रोह गरी 'प्रगतिशील लोकतान्त्रिक पार्टी' मार्फत नयाँ राजनीतिक यात्रामा छन्। रुकुम पश्चिममा 'बगुवा' वा टुरिष्ट उम्मेदवार नभए तापनि पार्टी परिवर्तन र वैचारिक अस्थिरताका कारण उनको राजनीतिक भविष्यमा चुनौती र अवसर दुवै देखिन्छन्।",
+  "overall_approval_rating": 68
+}

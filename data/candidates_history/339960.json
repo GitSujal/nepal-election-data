@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339960,
+  "candidate_name": "झंकर बहादुर शाही",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nepal_Workers_Peasants_Party_Logo.png",
+  "candidates_current_position": "नेमकिपा अछाम जिल्ला नेता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339960.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "अछाम",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "अछाम",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "अछाम निर्वाचन क्षेत्र नं. २ बाट प्रतिनिधिसभा निर्वाचनमा नेपाल मजदुर किसान पार्टीको तर्फबाट उम्मेदवारी दिएका शाहीले मात्र १०८ मत प्राप्त गरी पाँचौँ स्थानमा रहे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339960",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ प्रतिनिधिसभा निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "अछाम क्षेत्र नं. २ बाट नेमकिपाको उम्मेदवारका रूपमा निर्वाचन लडेका उनले १७३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Achham_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विस्तार र संगठन सुदृढीकरण",
+      "date": "२०७०-०१-०१",
+      "details": "नेमकिपाको अछाम जिल्ला कार्यसमितिमा रहेर पार्टीको सिद्धान्त र मजदुर-किसानको एजेण्डालाई सुदूरपश्चिममा विस्तार गर्न सक्रिय भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://hamroneta.online/political-party/nepal-majdoor-kisan-party/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "झंकर बहादुर शाही अछाम जिल्लामा नेपाल मजदुर किसान पार्टी (नेमकिपा) को तर्फबाट निरन्तर सक्रिय रहने नेता हुन्। मुख्यतया भक्तपुरमा बलियो पकड भएको नेमकिपाले सुदूरपश्चिमको अछाममा आफ्नो उपस्थिति जनाउन उनलाई उम्मेदवार बनाउँदै आएको छ। २०७४ को चुनावमा १७३ मत र २०७९ मा १०८ मत प्राप्त गर्नुले त्यस क्षेत्रमा पार्टीको संगठन निकै कमजोर रहेको र उनको उम्मेदवारी मुख्यतया वैचारिक उपस्थितिका लागि मात्र भएको पुष्टि गर्छ। उनमा पार्टीप्रति उच्च निष्ठा देखिन्छ तर चुनावी प्रतिस्पर्धीका रूपमा उनको प्रभाव न्यून छ। निर्वाचनमा पराजित भए पनि उनले पार्टीको झण्डा अछाममा जोगाइराखेका छन्।",
+  "overall_approval_rating": 35
+}

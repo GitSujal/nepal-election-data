@@ -1,0 +1,111 @@
+{
+  "candidate_id": 340090,
+  "candidate_name": "अर्जुन प्रसाद जोशी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nepali_Congress_Logo.png/640px-Nepali_Congress_Logo.png",
+  "candidates_current_position": "नेपाली काँग्रेस केन्द्रीय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340090.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "१४औँ महाधिवेशनमा केन्द्रीय सदस्य निर्वाचित",
+      "date": "२०७८-०९-०१",
+      "details": "नेपाली काँग्रेसको १४औँ महाधिवेशनमा खुला तर्फबाट केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित।",
+      "link_to_source": "https://kathmandupost.com/national/2021/12/21/nepali-congress-elects-35-central-working-committee-members",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "पर्वत-१ बाट प्रतिनिधि सभा सदस्यमा नेकपा एमालेका पदम गिरीसँग २,२६३ मतान्तरले पराजित। उनले २७,६०९ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "पर्वत-१ बाट वाम गठबन्धनका उम्मेदवार पदम गिरीसँग फराकिलो मतान्तरले पराजित। उनले २६,८१९ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचनमा जित",
+      "date": "२०७०-०८-०४",
+      "details": "पर्वत क्षेत्र नं १ बाट संविधान सभा सदस्यमा तेस्रो पटक निर्वाचित।",
+      "link_to_source": "https://parbatsamaj.com/arjun-prasad-joshi-profile/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभा निर्वाचनमा जित",
+      "date": "२०६४-१२-२८",
+      "details": "पर्वत क्षेत्र नं १ बाट १३,२५८ मतका साथ संविधान सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Arjun_Prasad_Joshi",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जिल्ला सभापतिको रूपमा १६ वर्ष नेतृत्व",
+      "date": "२०४८-०१-०१",
+      "details": "सन् १९९१ देखि २००७ सम्म लगातार १६ वर्ष नेपाली काँग्रेस पर्वतको जिल्ला सभापति भएर संगठन निर्माणमा सक्रिय।",
+      "link_to_source": "https://parbatsamaj.com/arjun-prasad-joshi-profile/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचन २०५६ मा जित",
+      "date": "२०५६-०१-३१",
+      "details": "पर्वत-१ बाट पहिलो पटक प्रतिनिधि सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Arjun_Prasad_Joshi",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अर्जुन प्रसाद जोशी नेपाली काँग्रेसका एक अनुभवी र प्रभावशाली नेता हुन्। उनले पर्वत जिल्लामा लामो समयसम्म नेपाली काँग्रेसको नेतृत्व सम्हालेका छन् र लगातार तीन पटक (२०५६, २०६४ र २०७०) निर्वाचन जितेर आफ्नो पकड बलियो बनाएका थिए। यद्यपि, पछिल्ला दुई निर्वाचन (२०७४ र २०७९) मा उनी नेकपा एमालेका युवा नेता पदम गिरीसँग पराजित भएका छन्। यसले पर्वतको राजनीतिमा नयाँ नेतृत्वप्रतिको चाहना र जोशीको पुरानो विरासत बीचको द्वन्द्वलाई संकेत गर्छ। जोशी हाल नेपाली काँग्रेसको केन्द्रीय सदस्यको रूपमा सक्रिय छन् र पार्टीको नीति निर्माण तहमा उनको महत्वपूर्ण भूमिका रहेको छ। लामो राजनीतिक अनुभव भए पनि पछिल्ला पराजयले उनको स्थानीय लोकप्रियतामा केही गिरावट आएको देखिन्छ।",
+  "overall_approval_rating": 68
+}

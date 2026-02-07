@@ -1,0 +1,111 @@
+{
+  "candidate_id": 340046,
+  "candidate_name": "प्रदिप यादव",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CPN-UML_logo.png",
+  "candidates_current_position": "सांसद (प्रतिनिधिसभा सदस्य)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340046.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा एमालेमा प्रवेश र उम्मेदवारी",
+      "date": "२०८१-१०-१७",
+      "details": "जनता समाजवादी पार्टी (जसपा) नेपालका अध्यक्ष उपेन्द्र यादवसँगको विवादपछि टिकट नपाउने निश्चित भएपछि यादव नेकपा एमालेमा प्रवेश गरी पर्सा-१ बाट उम्मेदवारी दर्ता गराएका हुन्।",
+      "link_to_source": "https://imagekhabar.com/news/332145/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "खानेपानी मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा यादव खानेपानी मन्त्रीको रूपमा नियुक्त भई कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Pradeep_Yadav_(Nepalese_politician)",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या मन्त्री",
+      "date": "२०८१-०१-३१",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा यादवले स्वास्थ्य तथा जनसंख्या मन्त्रालयको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Pradeep_Yadav_(Nepalese_politician)",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जसपा विभाजन र नयाँ दल गठन",
+      "date": "२०८१-०१-२३",
+      "details": "उपेन्द्र यादव नेतृत्वको जसपा नेपाल विभाजित हुँदा अशोक राई नेतृत्वको नयाँ जनता समाजवादी पार्टी गठन गर्न यादवले मुख्य भूमिका खेलेका थिए।",
+      "link_to_source": "https://www.nagariknetwork.com/news/142345/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०७",
+      "details": "पर्सा क्षेत्र नं. १ बाट २२,५३७ मत प्राप्त गर्दै यादव दोस्रो कार्यकालका लागि प्रतिनिधिसभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2022/11/23/janata-samajbadi-party-s-pradeep-yadav-secures-victory-in-parsa-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वन तथा वातावरण मन्त्री",
+      "date": "२०७९-०३-२०",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा यादव पहिलो पटक वन तथा वातावरण मन्त्रीको रूपमा मन्त्रिपरिषद्मा सहभागी भएका थिए।",
+      "link_to_source": "https://enewspolar.com/pradeep-yadav-appointed-jsp-chief-whip/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लात्भिया भ्रमण र पार्टीबाट निलम्बन",
+      "date": "२०७६-०३-१०",
+      "details": "पार्टीको अनुमति बिना लात्भियामा 'स्वतन्त्र तिब्बत' सम्बन्धी कार्यक्रममा सहभागी भएको भन्दै तत्कालिन समाजवादी पार्टीले यादवलाई ६ महिनाका लागि निलम्बन गरेको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2019/06/26/samajbadi-party-nepal-suspends-its-lawmaker-yadav-for-attending-free-tibet-programme",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ प्रतिनिधिसभा निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "पर्सा क्षेत्र नं. १ बाट २१,१३२ मतका साथ विजयी भई पहिलो पटक संघीय संसदको यात्रा तय गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मधेसी जनअधिकार फोरममा प्रवेश",
+      "date": "२०६४-०१-०१",
+      "details": "मधेस आन्दोलनको क्रममा राप्रपा छोडेर उपेन्द्र यादव नेतृत्वको मधेसी जनअधिकार फोरममा प्रवेश गरी मधेस राजनीतिमा सक्रिय भएका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-profile/334",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५६-०१-०१",
+      "details": "यादवले आफ्नो राजनीतिक जीवनको सुरुवात राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) बाट गरेका थिए, जहाँ उनी क्षेत्रीय सभापतिसम्म भएका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-profile/334",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रदिप यादव पर्सा जिल्लाको राजनीतिमा एक प्रभावशाली र आक्रामक छविका नेता मानिन्छन्। उनले पर्सा क्षेत्र नं. १ बाट लगातार दुई पटक निर्वाचन जितेर आफ्नो बलियो जनमत प्रमाणित गरिसकेका छन्। मधेस आन्दोलनबाट उदाएका यादव पटक-पटक मन्त्री बने पनि उनी विवादरहित भने रहन सकेका छैनन्; विशेष गरी सन् २०१९ को लात्भिया भ्रमण प्रकरणले उनको कूटनीतिक र राजनीतिक मर्यादामा प्रश्न उठाएको थियो। हालै उपेन्द्र यादवसँगको लामो सहकार्य तोडेर नेकपा एमालेमा प्रवेश गर्नुले उनको राजनीतिक अस्थिरतालाई संकेत गरे पनि स्थानीय स्तरमा उनको व्यक्तिगत पकड अझै मजबुत देखिन्छ। एमालेको संगठन र आफ्नो व्यक्तिगत प्रभावको मिश्रणले उनी आगामी निर्वाचनमा पनि कडा प्रतिस्पर्धीका रूपमा देखा परेका छन्।",
+  "overall_approval_rating": 72
+}

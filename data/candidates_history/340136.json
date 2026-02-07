@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340136,
+  "candidate_name": "ईश्वर दयाल मिश्र",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Election_Symbol_of_Rastriya_Mukti_Party.png/200px-Election_Symbol_of_Rastriya_Mukti_Party.png",
+  "candidates_current_position": "पूर्व राज्यमन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340136.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "तराई मधेश लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "तराई मधेश लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र राजनीतिक समूह (सूर्य चिन्ह)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "जनता प्रगतिशिल पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्ध",
+      "date": "२०८०-१२-१५",
+      "details": "राजेन्द्र महतो नेतृत्वको राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्ध भई सक्रिय राजनीति सुरु गरेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Ishwar_Dayal_Mishra",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलवस्तु निर्वाचन क्षेत्र नं. ३ बाट जनता प्रगतिशील पार्टीको उम्मेदवार भई १२,५५७ मत प्राप्त गरी चौथो स्थानमा रहेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCC_pTEZdsHpL8WNR_d3M5VQdox-HrksdeHqAwenpfWxFV46F51-5CWYU7ul-AyIexc3XzVT0CluM1MkP3mYv0NbZ2Ddc0gxzkAJ_R5z7Rkg6DM3M3JXhxLrqW5vpCoAlk0Rbvg8TF2lPSCz_7zM8wdp3n-ONV00ZmsLoJpFjxH7uX1ac4ZZpGY1DXiXA=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता प्रगतिशील पार्टीको महासचिवमा नियुक्त",
+      "date": "२०७८-०८-२८",
+      "details": "हृदयेश त्रिपाठीको नेतृत्वमा गठन भएको जनता प्रगतिशील पार्टीको महासचिवको जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEACJcnQa7SohnT3XqaCkDGnScCyCkzFAjByQO-mGyygbH4ylpViOk4DZqV5f6Y-8aq0lDqRf1Sg_nmsZPX6XkGXVE0aKwxtkfUuLBNBZqH2GRb_qhSq4W2tKyWuGDIos6ccbDfKwJplvc3Q==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सूर्य चिन्हबाट प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "स्वतन्त्र राजनीतिक समूहका तर्फबाट नेकपा एमालेको सूर्य चिन्ह लिएर चुनाव लडे पनि १४,३३० मत ल्याएर पराजित भएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEACJcnQa7SohnT3XqaCkDGnScCyCkzFAjByQO-mGyygbH4ylpViOk4DZqV5f6Y-8aq0lDqRf1Sg_nmsZPX6XkGXVE0aKwxtkfUuLBNBZqH2GRb_qhSq4W2tKyWuGDIos6ccbDfKwJplvc3Q==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भौतिक पूर्वाधार राज्यमन्त्रीमा नियुक्ति",
+      "date": "२०६८-०५-१८",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको सरकारमा भौतिक पूर्वाधार तथा यातायात राज्यमन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEACJcnQa7SohnT3XqaCkDGnScCyCkzFAjByQO-mGyygbH4ylpViOk4DZqV5f6Y-8aq0lDqRf1Sg_nmsZPX6XkGXVE0aKwxtkfUuLBNBZqH2GRb_qhSq4W2tKyWuGDIos6ccbDfKwJplvc3Q==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वाणिज्य तथा आपूर्ति राज्यमन्त्री",
+      "date": "२०६८-०१-१५",
+      "details": "झलनाथ खनाल नेतृत्वको सरकारमा केही समय वाणिज्य तथा आपूर्ति राज्यमन्त्रीको रूपमा जिम्मेवारी पाएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEACJcnQa7SohnT3XqaCkDGnScCyCkzFAjByQO-mGyygbH4ylpViOk4DZqV5f6Y-8aq0lDqRf1Sg_nmsZPX6XkGXVE0aKwxtkfUuLBNBZqH2GRb_qhSq4W2tKyWuGDIos6ccbDfKwJplvc3Q==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा जित",
+      "date": "२०६४-१२-२८",
+      "details": "तराई मधेश लोकतान्त्रिक पार्टी (तमलोपा) बाट कपिलवस्तु ४ मा १०,३९४ मत प्राप्त गरी पहिलो पटक निर्वाचित भएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhN9ALnfucEQxlSBopDLB499NkBCGtL00J1hOI79xTZbUzb4R2GBj6GVG6OF_xskce8RmQ5qbOKZnGZd7P6qDHiG4vXS8HE1xrBMmFjf7G9j5rRIOGLqLB7Bng58IMyAfnoUPoCuftdWqvQgI0cCuE58JkAaIdSTKiSA9Sk7ztx8bI2Q==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ईश्वर दयाल मिश्र कपिलवस्तुका अनुभवी र पुराना राजनीतिज्ञ हुन्। उनले २०६४ को पहिलो संविधान सभा निर्वाचनमा तराई मधेश लोकतान्त्रिक पार्टीबाट प्रभावशाली जित हासिल गरेका थिए। यद्यपि, त्यसपछिका २०७०, २०७४ र २०७९ का तीनवटा मुख्य निर्वाचनमा उनी लगातार पराजित भएका छन्। उनको राजनीतिक यात्रामा दल परिवर्तनको शृङ्खला लामो छ; तमलोपाबाट राजनीति सुरु गरेका उनी पछि स्वतन्त्र समूह हुँदै जनता प्रगतिशील पार्टी र हाल राष्ट्रिय मुक्ति पार्टीमा आबद्ध छन्। यसरी पटक-पटक दल बदल्ने प्रवृत्तिका कारण उनलाई 'वगुवा' उम्मेदवारको रूपमा हेरिने गरिन्छ, जसले उनको विश्वसनीयतामा केही ह्रास ल्याएको देखिन्छ। कपिलवस्तु ३ मा उनको व्यक्तिगत प्रभाव भए पनि स्थिर सङ्गठनको अभाव र प्रतिस्पर्धी दलहरूको मजबुत उपस्थितिले गर्दा उनलाई पुनरागमन गर्न कठिन भइरहेको छ।",
+  "overall_approval_rating": 42
+}

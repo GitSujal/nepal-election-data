@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339547,
+  "candidate_name": "लाल कुमारी थापा राना",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mongol_National_Organization_logo.png/200px-Mongol_National_Organization_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339547.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पर्वतबाट पुनः उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "काठमाडौंमा पराजित भएपछि उनी पुनः आफ्नो गृह जिल्ला पर्वतबाट राजनीतिक गतिविधिमा सक्रिय भई उम्मेदवारीको तयारीमा लागेकी छिन्।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नम्बर ४ बाट निर्वाचन लडेकी उनले मात्र २६ मत प्राप्त गरिन् र लज्जास्पद हार व्यहोर्नु पर्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNToq2RjO5AVJO2L-Hqx3onxWc6qfBOvFnDvLRCZ7dRsH0eVxuO3VA6zMS2BT7tmK6vwtyUKgntNEVwbZytuEOhbYNXUzsvAqU4gXtj1Qd2n5Vm6d1hjQxRySNzYdkjr0nLHWlTb9T4UeIS_j-pdfwjA5P2D08faKZqqH9liY=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "पर्वत क्षेत्र नम्बर १ बाट उम्मेदवारी दिएकी उनले ८२ मत प्राप्त गरेकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEurex0oKBppCgxx8TIQjjCsRrtRinmLcrUajAnBuK6Y5ck4fJTGTVMCvQ5yVFp8Mt6JNcwQthC3D-X1xD8TossKEZXWOOG5uWmeziM8Z0EQs3-48hVIeaweH_3EnVl96iPCe4XKZ5QKY=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७३-०१-०१",
+      "details": "पर्वत जिल्लाको पैयूं गाउँपालिकामा जन्मेकी उनी आदिवासी जनजाति र मूलबासीको अधिकारका लागि सक्रिय राजनीतिमा प्रवेश गरिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXqXniXzcJrokCboXc7JDRVdww5VdNwUGjxvIaEjKOM-xaTG0UmIt-vc1SzgKBL9Kb61g39w0LFoqYpvluWC0rkFqQwxcuADZujGU8cngKFDKsgebA81X2XEKaRi97ByIocOzEl3CDunAVnSlJQmI=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लाल कुमारी थापा राना मंगोल नेशनल अर्गनाइजेसनकी एक वैचारिक तर चुनावी रूपमा कमजोर उम्मेदवार हुन्। उनलाई 'वगुवा' (Switching Candidate) उम्मेदवारको रूपमा चिनिन्छ, किनभने उनले २०७४ मा पर्वतबाट, २०७९ मा काठमाडौंबाट र अहिले पुनः पर्वतबाट आफ्नो चुनावी यात्रा तय गरेकी छिन्। उनको चुनावी नतिजा निकै कमजोर देखिन्छ; २०७९ को चुनावमा काठमाडौं-४ मा उनले मात्र २६ मत प्राप्त गरेकी थिइन् भने २०७४ मा पर्वतबाट ८२ मत ल्याएकी थिइन्। उनको राजनीतिक उपस्थिति मुख्यतया मंगोल अस्तित्व र पहिचानको मुद्दा उठाउनमा सीमित छ। बारम्बार निर्वाचन क्षेत्र परिवर्तन गर्नाले उनमा स्थानीय स्तरमा बलियो जनाधारको अभाव र राजनीतिक अस्थिरता झल्किन्छ।",
+  "overall_approval_rating": 18
+}

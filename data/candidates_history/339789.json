@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339789,
+  "candidate_name": "बाल बहादुर दर्लामी",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "नेता, राष्ट्रिय जनमोर्चा",
+  "candidates_current_position_in_party": "जिल्ला सदस्य/नेता, पाल्पा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339789.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "पाल्पा क्षेत्र नम्बर २ बाट प्रतिनिधि सभाका लागि राष्ट्रिय जनमोर्चाको तर्फबाट उम्मेदवारी दर्ता।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339789-bal-bahadur-darlami",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमसीसी विरुद्धको प्रदर्शनमा सहभागी",
+      "date": "२०७८-११-१५",
+      "details": "पार्टीको नीति अनुसार पाल्पामा एमसीसी सम्झौताको विरोधमा आयोजना गरिएका विभिन्न विरोध र्‍याली र सभाहरूमा सक्रिय सहभागिता।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/02/1085444",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा ५६९ मत प्राप्त",
+      "date": "२०७४-०८-२१",
+      "details": "प्रतिनिधि सभा निर्वाचनमा पाल्पा क्षेत्र नं. २ बाट ५६९ मत प्राप्त गर्दै पाँचौ स्थानमा रहे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339789-bal-bahadur-darlami",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता विरोधी अभियानमा सक्रिय",
+      "date": "२०७२-०६-०३",
+      "details": "नेपालको संविधान २०७२ जारी भएपछि राष्ट्रिय जनमोर्चाले चलाएको संघीयता विरोधी आन्दोलनमा पाल्पा जिल्लाबाट नेतृत्वदायी भूमिका।",
+      "link_to_source": "https://rajamo.org.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बाल बहादुर दर्लामी राष्ट्रिय जनमोर्चाका एक निष्ठावान र पुराना कार्यकर्ता हुन्। उनले पाल्पा जिल्लाबाट निरन्तर पार्टीको प्रतिनिधित्व गर्दै आएका छन्, विशेषगरी संघीयता विरोधी र राष्ट्रियताको मुद्दामा उनी स्पष्ट देखिन्छन्। निर्वाचनका दृष्टिले हेर्दा उनले २०७४ र २०७९ दुवै निर्वाचनमा पाल्पा क्षेत्र नम्बर २ बाट प्रतिस्पर्धा गरे तापनि ठूला राजनीतिक दलहरूको तुलनामा उनको चुनावी पकड कमजोर देखिएको छ। २०७४ मा उनले केवल ५६९ मत प्राप्त गरेका थिए। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय स्तरमै भिजेका नेता हुन्, तर उनको दलको सानो सांगठनिक आधारका कारण उनलाई संसदीय राजनीतिमा सफलता प्राप्त गर्न कठिन भइरहेको छ। उनको छवि एक इमानदार र वैचारिक नेताका रूपमा रहेको छ।",
+  "overall_approval_rating": 45
+}

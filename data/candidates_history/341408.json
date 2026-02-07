@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341408,
+  "candidate_name": "अनिरुध्या आर्य",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "स्थानीय नेता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341408.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनता समाजवादी पार्टी, नेपालमा आबद्धता",
+      "date": "२०८०-०२-१५",
+      "details": "पार्टी विभाजन र राजनीतिक ध्रुवीकरणका कारण हाल जनता समाजवादी पार्टी, नेपालमा सक्रिय भई बर्दियामा संगठन विस्तारमा संलग्न।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7trjPRQlLdnt4ApAZMpFFAnRt7gKbCPsG_yROyEEfoucQoAB54a4yZAoGOE8E4Ogv6aw1uFu8agOB1vWzXz6zooZIr3lvCdw--5lreTp0RaadQTOKMLzOHTYU4UY6Wh_TmdU_zcRhDnuZ9pl8yClTQIReQE2x9bwIKVhRSO57ErA=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को संसदीय निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "बर्दिया क्षेत्र नं. २ बाट लोकतान्त्रिक समाजवादी पार्टीको उम्मेदवारका रूपमा ३६८ मत प्राप्त गरी छैटौं स्थानमा रहँदै पराजित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVn6fGRpA1FbsAdYp-u5qOUeQWudlzyQ5o2Bf7OSZxZmcB_83gl6_HoWNo0l9odX8A_BkeCNgy67PVxMzgsix3ylFj1oPomQJXjkh_iW6p1Pd-0DGwnCrGGsn686kvt6qZSMoZBmrzhGVW4A1Ry_4PWNzLAh5zCIZGxyLoK1EpuQEZWg0bgaLP",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को संसदीय निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "बर्दिया क्षेत्र नं. २ बाट संघीय समाजवादी फोरमको उम्मेदवार भई २२७ मत प्राप्त गर्दै चुनावी प्रतिस्पर्धामा सहभागिता।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXfBNMeTYEfxbOSl358BmzlYrUgkO54UVcTac1nWINc-smWViQXDkxRqK1oe90UCSJ0rarF2ff1mRG5RMfjgPan6rh8KfgeOAZKw2A3VsEf43e8fMZH6waoHgLH_KFtPMFVB0kd7sA8gN31rhbh8JJqUAbd1p8YAZHIPfic78rsHEJrw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेस आन्दोलन र राजनीतिक यात्राको सुरुवात",
+      "date": "२०७२-०६-०१",
+      "details": "बर्दिया जिल्लामा मधेस केन्द्रित दलहरूमार्फत राजनीतिक यात्रा सुरु गरी स्थानीय स्तरमा वैश्य समुदायको हकहितमा सक्रिय।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW7de3EVxrWYimYO-Nr1vK0Gze145j1uxYK_b861xtEg4FfjjHtMq3mcmBIVEWANhMYKL1ZZUC19QZQXwu3g-uOlZplqnUSjyS3doPqxFdHG7qrTuqFXnVSzWEE4NcJLfK2SDWx5zNVLdT7NF9mUgA4zvEu07BPhbkU8D9IQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अनिरुध्या आर्य बर्दिया जिल्लाको राजनीतिमा मधेस केन्द्रित दलहरूको प्रतिनिधित्व गर्ने एक महिला नेतृ हुन्। उनले २०७४ र २०७९ दुवै संसदीय निर्वाचनमा बर्दिया क्षेत्र नम्बर २ बाट प्रतिस्पर्धा गरे पनि जित हासिल गर्न सकिनन्। उनको चुनावी परिणामले देखाउँछ कि क्षेत्रमा उनको व्यक्तिगत र पार्टीगत प्रभाव निकै कमजोर छ, जहाँ उनले प्राप्त गरेको मत कुल सदर मतको १ प्रतिशतभन्दा पनि कम रहेको छ। यद्यपि, उनी मधेस केन्द्रित राजनीतिमा निरन्तर क्रियाशील छिन् र संघीय समाजवादी फोरम, राष्ट्रिय जनता पार्टी र लोकतान्त्रिक समाजवादी पार्टी हुँदै हाल जनता समाजवादी पार्टी, नेपालमा आबद्ध भएकी छिन्। उनको मुख्य चुनावी आधार वैश्य समुदाय र मधेसका मुद्दाहरू रहेका छन्, तर ती मुद्दाहरूलाई व्यापक जनसमर्थनमा बदल्न उनी अझै सफल देखिएकी छैनन्।",
+  "overall_approval_rating": 20
+}

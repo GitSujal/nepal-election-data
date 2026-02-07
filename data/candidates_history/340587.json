@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340587,
+  "candidate_name": "गिरिराज मणि पोखरेल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg/1200px-Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री तथा प्रतिनिधि सभा सदस्य (निवर्तमान)",
+  "candidates_current_position_in_party": "उप-महासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340587.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "जनमोर्चा नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "महोत्तरी क्षेत्र नम्बर १ बाट चुनाव लडेका पोखरेल नेकपा एमालेका लक्ष्मी महतो कोइरीसँग १०३० मत अन्तरले पराजित भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/madhesh-province/2022/11/27/umls-mahato-defeats-maoist-centres-deputy-general-secretary-pokharel",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "शिक्षा, विज्ञान तथा प्रविधि मन्त्री नियुक्त",
+      "date": "२०७४-१२-०२",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा रहेको सरकारमा शिक्षा, विज्ञान तथा प्रविधि मन्त्रीको रुपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Giriraj_Mani_Pokharel",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "चिकित्सा शिक्षा विधेयक विवाद",
+      "date": "२०७५-०३-२८",
+      "details": "मन्त्री रहँदा डा. गोविन्द केसीका मागहरू विपरीत चिकित्सा शिक्षा विधेयक संसदमा दर्ता गराएकोमा उनको व्यापक आलोचना भएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/07/693899",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "महोत्तरीलाई शैक्षिक केन्द्र बनाउने पहल",
+      "date": "२०८०-०९-२६",
+      "details": "महोत्तरीको गौशालामा इन्जिनियरिङ कलेज स्थापना र प्राविधिक शिक्षाको विस्तारमा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://rju.edu.np/news-and-events/23",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वास्थ्य मन्त्रीको रुपमा २६ बुँदे प्रतिवद्धता",
+      "date": "२०७४-०४-२२",
+      "details": "स्वास्थ्य क्षेत्रमा सुशासन र भ्रष्टाचार शून्य सहनशीलता अपनाउने भन्दै २६ बुँदे प्रतिवद्धता पत्र सार्वजनिक गरेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/minister-health-pokharel-declares-26-point-commitment",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "निजी मेडिकल कलेज शुल्क फिर्ता विवाद",
+      "date": "२०७६-०९-१४",
+      "details": "निजी मेडिकल कलेजहरूले अवैध रुपमा लिएको शुल्क फिर्ता नगर्दा सरकार निरीह बनेको भन्दै उनको आलोचना भएको थियो।",
+      "link_to_source": "https://setopati.com/social/197172",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी एकीकरण र माओवादी प्रवेश",
+      "date": "२०६५-१०-०१",
+      "details": "जनमोर्चा नेपाल र नेकपा (माओवादी) बीचको एकीकरण पश्चात् उनी एकीकृत नेकपा (माओवादी) को स्थायी समिति सदस्य बनेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Giriraj_Mani_Pokharel",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसङ्ख्या मन्त्री नियुक्त",
+      "date": "२०७२-०७-०१",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को सरकारमा दोस्रो पटक स्वास्थ्य मन्त्रीको रुपमा काम गरेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Giriraj_Mani_Pokharel",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अनेरास्ववियुको केन्द्रीय अध्यक्ष",
+      "date": "२०४१-०१-०१",
+      "details": "विद्यार्थी राजनीतिबाट उदाएका पोखरेल अनेरास्ववियुको आठौँ राष्ट्रिय सम्मेलनबाट केन्द्रीय अध्यक्ष चुनिएका थिए।",
+      "link_to_source": "http://girirajmanipokharel.com/biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गिरिराज मणि पोखरेल नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) का एक बौद्धिक र अनुभवी नेता हुन्। खोटाङमा जन्मिएर महोत्तरीलाई आफ्नो मुख्य राजनीतिक कर्मथलो बनाएका उनले वि.सं. २०६४ देखि २०७४ सम्मका तीनवटा निर्वाचनमा लगातार जीत हासिल गरेका थिए। स्वास्थ्य र शिक्षा जस्ता महत्वपूर्ण मन्त्रालयहरूको नेतृत्व सम्हालिसकेका पोखरेलको कार्यकाल नीतिगत सुधारका प्रयासहरूका लागि चिनिन्छ, तर चिकित्सा शिक्षा सुधारका अभियन्ता डा. गोविन्द केसीसँगको टकराव र चिकित्सा शिक्षा विधेयकका कारण उनी विवादमा पनि तानिए। २०७९ को निर्वाचनमा लक्ष्मी महतो कोइरीसँगको पराजयले उनको क्षेत्रमा पकड कमजोर भएको संकेत गर्दछ। यद्यपि, पार्टीभित्र उनको वैचारिक र सांगठनिक भूमिका अझै पनि महत्वपूर्ण मानिन्छ।",
+  "overall_approval_rating": 62
+}

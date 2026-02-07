@@ -6,7 +6,8 @@ import { CandidatePreviewGrid } from "@/components/candidate/candidate-preview-g
 import { PartyCountChart } from "@/components/candidate/party-count-chart"
 import { ProfileHeader } from "@/components/candidate/profile-header"
 import { CandidateDetails } from "@/components/candidate/candidate-details"
-import { ElectionTimeline } from "@/components/candidate/election-timeline"
+import { EnhancedElectionTimeline } from "@/components/candidate/enhanced-election-timeline"
+import { PoliticalHistoryTimeline } from "@/components/candidate/political-history-timeline"
 import { ElectionResultCard } from "@/components/candidate/election-result-card"
 import { PRProfileHeader } from "@/components/candidate/pr-profile-header"
 import { PRCandidateDetails } from "@/components/candidate/pr-candidate-details"
@@ -184,11 +185,17 @@ function CandidatePageContent() {
                     <CandidateDetails candidate={selectedFPTPCandidate as any} />
                   </div>
 
-                  {/* Timeline - 2/3 */}
+                  {/* Enhanced Election Timeline - 2/3 */}
                   <div className="lg:col-span-2">
-                    <ElectionTimeline candidate={selectedFPTPCandidate as any} />
+                    <EnhancedElectionTimeline candidate={selectedFPTPCandidate as any} />
                   </div>
                 </div>
+
+                {/* Comprehensive Political History Timeline - Full Width */}
+                <PoliticalHistoryTimeline 
+                  candidateId={selectedFPTPCandidate.candidate_id}
+                  candidateName={selectedFPTPCandidate.candidate_name}
+                />
 
                 {/* Past Election Results */}
                 {(selectedFPTPCandidate.prev_election_votes || selectedFPTPCandidate.prev_2074_election_votes) && (

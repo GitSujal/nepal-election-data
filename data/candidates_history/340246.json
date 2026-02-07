@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340246,
+  "candidate_name": "प्रेम वहादुर आले",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा सुदूरपश्चिम इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340246.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) "
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कैलाली-५ बाट उम्मेदवारी",
+      "date": "२०८१-१०-२५",
+      "details": "लामो समय डोटीबाट राजनीति गरेका आले यस पटक कैलाली क्षेत्र नम्बर ५ बाट प्रतिनिधि सभाको निर्वाचनमा प्रतिस्पर्धा गर्दैछन्।",
+      "link_to_source": "https://nagariknetwork.com/news/148560-1707289562.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटन मन्त्रीबाट राजीनामा",
+      "date": "२०७९-०३-१२",
+      "details": "पार्टीको निर्णय अनुसार उनले संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/06/26/tourism-minister-prem-ale-steps-down/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अश्लील अडियो काण्ड",
+      "date": "२०७८-१०-०४",
+      "details": "भारतमा रहेका एक नेपालीलाई टेलिफोनमा अश्लील र गालीगलौज गरेको अडियो सार्वजनिक भएपछि उनी व्यापक विवादमा परेका थिए।",
+      "link_to_source": "https://nepalnews.com/s/nation/conspiracy-against-minister-ale-going-on-says-secretariat",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बतास समूहमाथि कारबाही",
+      "date": "२०७८-०९-२७",
+      "details": "पशुपति धर्मशालामा बतास समूहले गरेको अतिक्रमण विरुद्ध कडा कदम चाल्दै उनले सम्झौता रद्द गर्ने निर्णय गरेका थिए।",
+      "link_to_source": "https://nagariknetwork.com/news/138450-1642331562.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटन मन्त्रीमा नियुक्ति",
+      "date": "२०७८-०६-२२",
+      "details": "शेरबहादुर देउवाको नेतृत्वमा गठित सरकारमा उनी संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्री बनेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Prem_Bahadur_Ale",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले परित्याग र नयाँ पार्टी गठन",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजित हुँदा उनी माधवकुमार नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा आबद्ध भएका थिए।",
+      "link_to_source": "https://www.thehindu.com/news/international/nepals-largest-communist-party-cpn-uml-officially-splits/article35990267.ece",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अक्सिजन सिलिन्डरमा फोटो काण्ड",
+      "date": "२०७८-०२-१५",
+      "details": "कोभिड महामारीको बेला सरकारी खर्चमा खरिद गरिएका अक्सिजन सिलिन्डरमा आफ्नै फोटो टाँसेर वितरण गरेपछि उनको आलोचना भएको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2021/12/26/minister-ale-s-all-play-and-no-work",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "वन मन्त्रीमा नियुक्ति",
+      "date": "२०७७-०९-१०",
+      "details": "केपी शर्मा ओलीको मन्त्रीमण्डलमा उनले वन तथा वातावरण मन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Prem_Bahadur_Ale",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "'रुखले कार्बनडाइअक्साइड दिन्छ' भन्ने बयान",
+      "date": "२०७७-११-२२",
+      "details": "एक सार्वजनिक कार्यक्रममा 'वैज्ञानिक वन व्यवस्थापन' को बचाउ गर्दा उनले रुखले मानवलाई कार्बनडाइअक्साइड दिन्छ भनी गलत वैज्ञानिक दाबी गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2021/12/26/minister-ale-s-all-play-and-no-work",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "प्रेम बहादुर आले नेपालको राजनीतिमा एक अत्यन्तै प्रभावशाली तर उत्तिकै विवादास्पद पात्र हुन्। उनले २०७४ र २०७९ का दुवै निर्वाचनमा डोटीबाट भारी मतका साथ विजय हासिल गरेका छन्, जसले उनको क्षेत्रीय पकड बलियो रहेको पुष्टि गर्छ। यद्यपि, यस पटक डोटी छाडेर कैलाली-५ मा सर्नुले उनलाई 'टूरिष्ट' वा 'भगुवा' उम्मेदवारको रूपमा चित्रण गरिएको छ, जसले स्थानीय मतदातामा केही असन्तुष्टि पैदा गरेको देखिन्छ। मन्त्रीको रूपमा उनले बतास समूह जस्ता ठूला व्यापारिक घराना विरुद्ध चालेका कदमले लोकप्रियता कमाए पनि, उनको बोली र अश्लील शब्द प्रयोग गरिएको अडियो काण्डले उनको नैतिक छविमा गम्भीर धक्का पुर्याएको छ। बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण उनको राजनीतिक निष्ठामाथि पनि प्रश्न उठ्ने गरेको छ।",
+  "overall_approval_rating": 52
+}

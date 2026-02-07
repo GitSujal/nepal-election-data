@@ -1,0 +1,151 @@
+{
+  "candidate_id": 339333,
+  "candidate_name": "हृदयेश त्रिपाठी",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339333.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "नवलपरासी",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "तराई मधेस लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "नवलपरासी",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "तराई मधेस लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "स्वतन्त्र (सूर्य चिह्न)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जनता प्रगतिशिल पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "मधेशी दलहरूको एकीकरणमा सहभागिता",
+      "date": "२०८२-०९-१३",
+      "details": "त्रिपाठीको नेतृत्वमा रहेको जनता प्रगतिशील पार्टीसहित अन्य मधेशी दलहरू एकीकृत भई जनता समाजवादी पार्टी, नेपाल (जसपा) सँग सहकार्य गर्ने निर्णय।",
+      "link_to_source": "https://kathmandupost.com/national/2026/01/06/week-after-four-madheshi-parties-announced-unity-they-are-yet-to-name-the-new-party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "नवलपरासी पश्चिम-१ बाट प्रतिनिधि सभा निर्वाचनमा नेपाली कांग्रेसका विनोद चौधरीसँग ७,१७८ मतान्तरले पराजित।",
+      "link_to_source": "https://lokaantar.com/news/198263",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनता प्रगतिशील पार्टीको गठन",
+      "date": "२०७८-०८-२८",
+      "details": "स्वतन्त्र राजनीतिक समूहलाई भंग गरी त्रिपाठीले आफ्नै नेतृत्वमा 'जनता प्रगतिशील पार्टी' घोषणा गरे।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/12/1051512",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या मन्त्री नियुक्त",
+      "date": "२०७७-०९-१०",
+      "details": "केपी शर्मा ओलीको मन्त्रिमण्डलमा स्वास्थ्य मन्त्रीका रूपमा कोभिड-१९ विरुद्धको खोप अभियानको नेतृत्व।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hridayesh_Tripathi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "खोप खरिदमा कमिसनको आरोप खण्डन",
+      "date": "२०७८-०१-२८",
+      "details": "भारतबाट कोभिड खोप खरिद गर्दा एजेन्टले कमिसन मागेको कारण ढिलाइ भएको आरोप लाग्दा उनले भ्रष्टाचारको खण्डन गरे।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/05/954605",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संघीय मामिला तथा सामान्य प्रशासन मन्त्री",
+      "date": "२०७६-०८-०५",
+      "details": "निजामती कर्मचारी समायोजन र संघीयता कार्यान्वयनको महत्वपूर्ण समयमा मन्त्रालयको जिम्मेवारी सम्हाले।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hridayesh_Tripathi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "स्वतन्त्र राजनीतिक समूहबाट नेकपा एमालेको 'सूर्य' चिह्न लिएर ३८,५९२ मतका साथ विजयी।",
+      "link_to_source": "https://ekantipur.com/news/2017/12/10/20171210103724.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजपा नेपाल परित्याग",
+      "date": "२०७४-०६-०५",
+      "details": "राष्ट्रिय जनता पार्टी नेपाल (राजपा) सँग असन्तुष्ट जनाउँदै स्वतन्त्र राजनीतिक समूह गठन गरी एमालेसँग चुनावी तालमेल।",
+      "link_to_source": "https://nagariknetwork.com/news/32824/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "भौतिक योजना तथा निर्माण मन्त्री",
+      "date": "२०६८-०५-१८",
+      "details": "बाबुराम भट्टराईको नेतृत्वमा मन्त्री नियुक्त भई पूर्वाधार विकासमा कार्य।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hridayesh_Tripathi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "तराई मधेस लोकतान्त्रिक पार्टी (तमलोपा) को स्थापना",
+      "date": "२०६४-०९-११",
+      "details": "महन्थ ठाकुरसँग मिलेर मधेस आन्दोलनको जगमा नयाँ क्षेत्रीय शक्ति तमलोपाको संस्थापक नेता बने।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hridayesh_Tripathi",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हृदयेश त्रिपाठी नेपालको संसदीय राजनीतिका एक अनुभवी र पाका खेलाडी हुन्। वि.सं. २०४८ देखि निरन्तर चुनावी प्रतिस्पर्धामा रहेका उनले ५ पटक निर्वाचन जितेर आफ्नो क्षेत्रमा बलियो पकड प्रमाणित गरेका छन्। उनी विशेषगरी किसानका मुद्दा र मधेसको अधिकारका लागि प्रखर आवाज उठाउने नेताका रूपमा चिनिन्छन्। कोभिड-१९ को समयमा स्वास्थ्य मन्त्री हुँदा खोप खरिद प्रक्रियामा भएको विवाद र कमिसनका कुराले उनको छविमा केही धक्का पुगे पनि उनले ती आरोपहरू अस्वीकार गर्दै आएका छन्। २०७४ मा एमालेसँगको रणनीतिगत सहकार्यले उनलाई शक्तिमा टिकाउन मद्दत गरे पनि २०७९ मा आफ्नै नयाँ दलबाट चुनाव लड्दा विनोद चौधरीसँगको पराजयले उनको प्रभाव केही खुम्चिएको देखिन्छ। यद्यपि, हालैको मधेसी दलहरूबीचको एकीकरण र जसपा नेपालसँगको आबद्धताले उनलाई फेरि राष्ट्रिय राजनीतिमा निर्णायक भूमिका खेल्ने अवसर प्रदान गरेको छ।",
+  "overall_approval_rating": 72
+}

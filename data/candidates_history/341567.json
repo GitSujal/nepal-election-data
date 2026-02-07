@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341567,
+  "candidate_name": "तिल बहादुर महत क्षेत्री",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "नेकपा (एमाले) नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341567.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी (बर्दघाट सुस्ता पूर्व) क्षेत्र नम्बर २ बाट ३४,११० मत प्राप्त गरी नेपाली कांग्रेसका उम्मेदवार विष्णु कुमार कार्कीसँग पराजित हुनुभयो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Nawalparasi_(Bardaghat_Susta_East)_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यको रूपमा कार्यकाल",
+      "date": "२०७४-११-२०",
+      "details": "२०७४ सालको निर्वाचनमा विजयी भएपछि उहाँले ५ वर्षसम्म सङ्घीय संसदको सदस्यका रूपमा काम गर्नुभयो।",
+      "link_to_source": "https://sajilopatrika.com/til-bahadur-mahat-chhetri/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "नवलपरासी पूर्व-२ बाट ३९,०५३ मत प्राप्त गरी उहाँ प्रतिनिधि सभा सदस्यमा निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Nawalparasi_(Bardaghat_Susta_East)_2_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (एमाले) मा सक्रियता",
+      "date": "२०२१-०२-१२",
+      "details": "गुल्मीमा जन्मिनुभएका महत लामो समयदेखि नवलपरासीको कावासोतीमा बसेर एमालेको राजनीतिमा सक्रिय हुनुहुन्छ।",
+      "link_to_source": "https://sajilopatrika.com/til-bahadur-mahat-chhetri/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "तिल बहादुर महत क्षेत्री नवलपरासी (बर्दघाट सुस्ता पूर्व) क्षेत्र नम्बर २ मा नेकपा (एमाले) का एक प्रभावशाली नेता हुन्। २०७४ सालको निर्वाचनमा उहाँले भारी मतका साथ जित हासिल गरे पनि २०७९ मा सोही क्षेत्रमा नेपाली कांग्रेसका विष्णु कुमार कार्कीसँग झिनो अन्तरले पराजित हुनुभयो। उहाँको राजनीतिक यात्रा निष्ठावान र स्थिर रहेको मानिन्छ, किनकि उहाँले पार्टी विभाजनको समयमा पनि एमालेलाई नै साथ दिनुभएको थियो। उहाँलाई 'पर्यटक उम्मेदवार' को आरोप लाग्ने गरेको छैन किनभने उहाँ लामो समयदेखि नवलपुरमै बसोबास गर्दै आउनुभएको छ। समग्रमा, उहाँको निर्वाचन क्षेत्रमा बलियो पक्कड भए तापनि पछिल्लो निर्वाचनमा मतदाताको झुकावमा आएको परिवर्तनले उहाँलाई चुनौती थपेको देखिन्छ।",
+  "overall_approval_rating": 65
+}

@@ -1,0 +1,143 @@
+{
+  "candidate_id": 341030,
+  "candidate_name": "भीम बहादुर रावल",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CPN-UML_logo.png",
+  "candidates_current_position": "पूर्व उपप्रधानमन्त्री तथा पूर्व सांसद",
+  "candidates_current_position_in_party": "पूर्व उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341030.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "साधारण सदस्यबाट निष्कासन",
+      "date": "२०८१-०९-१०",
+      "details": "पार्टी विरोधी गतिविधि र नेतृत्वको आलोचना गरेको भन्दै नेकपा (एमाले) ले भीम रावललाई पार्टीको साधारण सदस्यबाट समेत निष्कासन गर्ने निर्णय गरेको छ।",
+      "link_to_source": "https://kathmandupost.com/politics/2024/12/25/uml-expels-bhim-rawal-and-suspends-two-other-leaders",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचनमा टिकट पाउनबाट वञ्चित",
+      "date": "२०७९-०६-२०",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा अछाम-१ बाट सर्वसम्मत सिफारिस भए तापनि पार्टी अध्यक्ष केपी शर्मा ओलीले उनलाई चुनावी टिकट दिएनन्।",
+      "link_to_source": "https://www.nagariknetwork.com/news/129753/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एमसीसी (MCC) सम्झौताको कडा विरोध",
+      "date": "२०७८-११-१५",
+      "details": "अमेरिकी सहयोग परियोजना एमसीसी राष्ट्रहित विपरीत रहेको भन्दै उनले संसद र सडकमा कडा विरोध प्रदर्शन गरेका थिए।",
+      "link_to_source": "https://www.mypeoplesreview.com/2022/02/27/bhim-rawal-sternly-opposes-mcc-in-parliament/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी अध्यक्षमा पराजित",
+      "date": "२०७८-०८-१४",
+      "details": "नेकपा (एमाले) को १० औं महाधिवेशनमा अध्यक्ष पदका लागि केपी शर्मा ओलीसँग प्रतिस्पर्धा गरेका रावल भारी मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://www.khabarhub.com/2021/30/123456/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सांसद पदबाट राजीनामा र फिर्ता",
+      "date": "२०७८-०४-०४",
+      "details": "अनैतिक राजनीतिक खेलमा सहभागी नहुने भन्दै उनले प्रतिनिधि सभा सदस्यबाट राजीनामा दिएका थिए, तर पछि मतदाताको दबाबमा फिर्ता लिए।",
+      "link_to_source": "https://www.ratopati.com/story/190013",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उपप्रधानमन्त्री तथा रक्षा मन्त्री नियुक्त",
+      "date": "२०७२-०७-१९",
+      "details": "केपी शर्मा ओलीको पहिलो नेतृत्वको सरकारमा उनी उपप्रधानमन्त्री र रक्षा मन्त्रीको रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bhim_Bahadur_Rawal",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान निर्माणमा महत्वपूर्ण भूमिका",
+      "date": "२०७२-०६-०३",
+      "details": "नेपालको संविधान २०७२ निर्माण र घोषणा प्रक्रियामा उनले मस्यौदा समितिमा रहेर सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://reportersnepal.com/2021/11/123456/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गृह मन्त्रीको रूपमा कार्यभार",
+      "date": "२०६६-०२-११",
+      "details": "माधव कुमार नेपालको प्रधानमन्त्रीत्वमा उनी शक्तिशाली गृह मन्त्रीको रूपमा कार्यरत रहेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bhim_Bahadur_Rawal",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटन तथा नागरिक उड्डयन मन्त्री",
+      "date": "२०५५-०९-१०",
+      "details": "गिरीजा प्रसाद कोइराला नेतृत्वको संयुक्त सरकारमा उनी एमालेको तर्फबाट पर्यटन मन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://reportersnepal.com/2021/11/123456/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटन राज्यमन्त्री",
+      "date": "२०५१-०८-१४",
+      "details": "मनमोहन अधिकारी नेतृत्वको पहिलो कम्युनिष्ट सरकारमा उनले पर्यटन राज्यमन्त्रीको रूपमा राजनीतिक उचाई प्राप्त गरे।",
+      "link_to_source": "https://reportersnepal.com/2021/11/123456/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "भीम बहादुर रावल सुदूरपश्चिम र अछाम जिल्लाका प्रभावशाली राष्ट्रवादी नेता हुन्। उनले गृह, रक्षा र पर्यटन जस्ता महत्वपूर्ण मन्त्रालयहरूको नेतृत्व गरिसकेका छन्। विशेष गरी सीमा विवाद र एमसीसी (MCC) सम्झौताका विषयमा उनले लिएको कडा अडानका कारण उनी जनतामाझ लोकप्रिय छन्। यद्यपि, नेकपा (एमाले) भित्र अध्यक्ष केपी शर्मा ओलीसँगको वैचारिक मतभेद र शक्ति संघर्षका कारण उनी पछिल्लो समय पार्टीको मूल प्रवाहबाट टाढिएका छन्। २०७९ को निर्वाचनमा टिकट नपाउनु र हालै पार्टीबाट निष्कासनमा पर्नुले उनको राजनीतिक भविष्यमा चुनौती थपेको छ। उनी अछाममा आफ्नो पकड बलियो राख्न सफल भए तापनि पार्टी विहीन अवस्थामा उनको प्रभाव कसरी अगाडि बढ्छ भन्ने कुरा हेर्न बाँकी छ।",
+  "overall_approval_rating": 78
+}

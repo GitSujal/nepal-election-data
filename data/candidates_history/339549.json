@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339549,
+  "candidate_name": "मातृका प्रसाद यादव",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/CPN-Maoist_Logo.png/600px-CPN-Maoist_Logo.png",
+  "candidates_current_position": "पूर्व उद्योग, वाणिज्य तथा आपूर्ति मन्त्री",
+  "candidates_current_position_in_party": "स्थायी समिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339549.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "धनुषा क्षेत्र नं. १ बाट २१,४८३ मत प्राप्त गरी जनता समाजवादी पार्टीका दीपक कार्कीसँग पराजित।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339549",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रीको रूपमा कार्यकाल अन्त्य",
+      "date": "२०७६-०८-०४",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारको मन्त्रिमण्डल पुनर्गठनका क्रममा पदमुक्त।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Matrika_Prasad_Yadav",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्री नियुक्त",
+      "date": "२०७४-११-१४",
+      "details": "केपी शर्मा ओलीको दोस्रो कार्यकालमा संघीय मन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://ekantipur.com/news/2018/02/26/20180226162319.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "धनुषा क्षेत्र नं. १ बाट २६,४१८ मत प्राप्त गरी विजयी।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074/dhanusa-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी एकता र नेकपा माओवादी केन्द्रमा फिर्ती",
+      "date": "२०७३-०२-०६",
+      "details": "आफ्नै नेतृत्वको नेकपा (माओवादी) लाई पुष्पकमल दाहाल नेतृत्वको पार्टीसँग एकता गराई फिर्ता भएको।",
+      "link_to_source": "https://www.onlinekhabar.com/2016/05/429399",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय विकास अधिकारीलाई शौचालयमा थुनेको घटना",
+      "date": "२०६७-१०-१९",
+      "details": "धनुषाका एलडिओ धर्मराज रेग्मीलाई भ्रष्टाचारको आरोप लगाउँदै करिब दुई घण्टा शौचालयमा थुनेको चर्चित घटना।",
+      "link_to_source": "https://www.bbc.com/nepali/news/2011/02/110202_matrika_yadav",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी पार्टीबाट अलग भई नयाँ समूह गठन",
+      "date": "२०६५-११-०१",
+      "details": "पार्टी नेतृत्वसँगको मतभेदका कारण नेकपा (माओवादी) बाट अलग भएर आफ्नै नेतृत्वमा पार्टी पुनर्गठन गरेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Matrika_Prasad_Yadav",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "भूमिसुधार मन्त्रीबाट राजीनामा",
+      "date": "२०६५-०५-१५",
+      "details": "प्रचण्ड नेतृत्वको पहिलो सरकारमा भूमिसुधार मन्त्री रहँदा नीतिगत मतभेदका कारण राजीनामा दिएको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Matrika_Prasad_Yadav",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मातृका प्रसाद यादव मधेश राजनीति र माओवादी आन्दोलनका एक प्रभावशाली र वरिष्ठ नेता हुन्। धनुषा क्षेत्र नं. १ लाई आफ्नो मुख्य राजनीतिक आधार क्षेत्र बनाएका यादव २०७४ मा शानदार जित निकाल्न सफल भए पनि २०७९ मा सोही क्षेत्रबाट पराजित भए। उनको छवि एक आक्रामक र स्पष्टवक्ता नेताको रूपमा छ, तर स्थानीय विकास अधिकारीलाई शौचालयमा थुनेको जस्ता घटनाले उनको प्रशासनिक मर्यादामा प्रश्न उठाएको थियो। उनी पटक-पटक मन्त्री बने पनि मधेसी जनताको अपेक्षा अनुसार काम गर्न नसकेको र पार्टीभित्रको अस्थिरताका कारण पछिल्लो समय उनको चुनावी पकड कमजोर देखिएको छ। उनलाई 'टुरिस्ट' वा 'वगुवा' भन्न नमिल्ने भए पनि स्थानीय स्तरमा बढ्दो एन्टि-इन्कम्बेन्सी र विपक्षी गठबन्धनको प्रभावले उनलाई चुनौती थपेको छ। समग्रमा, उनी माओवादी केन्द्रको मधेश प्रदेशको एक खम्बा भए पनि चुनावी प्रतिस्पर्धामा उनको प्रभाव केही घट्दै गएको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 62
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340744,
+  "candidate_name": "मिन बहादुर शाही",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "जिल्ला अध्यक्ष, राष्ट्रिय प्रजातन्त्र पार्टी, अछाम",
+  "candidates_current_position_in_party": "जिल्ला अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340744.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "अछाम",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "अछाम",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०८",
+      "details": "प्रतिनिधिसभा निर्वाचन २०७९ मा अछाम क्षेत्र नम्बर २ बाट राष्ट्रिय प्रजातन्त्र पार्टीका उम्मेदवार शाही २८६ मत प्राप्त गर्दै चौथो स्थानमा रहे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtaNdbVUCdYrBrPETQ60PRUJu3UbUyw0xVWYWagiQCpUkDep4WwRyvHCCxYUxYgjeecFuH-ryN-DIDnlj6AYZujjxvfgoQOvjWPyPKnIfUOLozN_Z867LCyYn1BoaPndOTPhGj-VxlPDht1KOWGiLcIgTA6CFF_WyCRy20F8gggm9tJT_-t_ifzw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अछाम जिल्ला अध्यक्षमा चयन",
+      "date": "२०७८-०६-१७",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टीको जिल्ला अधिवेशनबाट मिन बहादुर शाही सर्वसम्मत रूपमा अछाम जिल्ला अध्यक्ष निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvh46kIbHcq1RGv1_LSpp6WzAzO3aR5KuB81oHfsTbtm-Yj9n2k1j8wjl-FXLLZft0I5GzY3dUMIYDpMGsMh24Mv0bRZGTHcrTOWqN8FTWIl974nM8uSHD2l32cWzkH5qlzoscDMWgrQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचन २०७४ मा पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "प्रतिनिधिसभा निर्वाचन २०७४ मा अछाम क्षेत्र नम्बर २ बाट उम्मेदवार बनेका शाही २३८ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMROU3hKHU0tLy0cIWJ6w5sNplX5OxuBvs4URa-sfjSf5j9qV1zRhmvDBDEucTzBqY9e7siPOPdHPAqSsVfI6B2H128XnlAqEg-TVKQRxXbgld5tcgrU0IoToxME03IxHkmUmtF6OklwCIFInrbdBnozO73VCaZMT7z7f0iuN26e_P92FSgKKa7Q==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अछाम–काठमाडौं सम्पर्क समाजको भेलामा अध्यक्षता",
+      "date": "२०७५-०४-१२",
+      "details": "राप्रपा अछाम–काठमाडौं सम्पर्क समाज गठनको कार्यक्रममा जिल्ला अध्यक्षको रूपमा शाहीले सांगठनिक विस्तारको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ1TjnthVmuD9awHlL6pEhe-CGRLhoZk_RWHUDxfMOFwIAOGr7nnndFovHrbK--JHTkxHZbpzG6Dqyeu_f1NCsnoRAVLj4BnjuJhTWdrmqtrTRKrTWs3enZapPB75gNPyelWxOlaZv",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मिन बहादुर शाही अछाम जिल्लामा राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का एक निष्ठावान र पुराना नेता हुन्। उनी लामो समयदेखि राप्रपा अछामको नेतृत्व तहमा सक्रिय रहँदै आएका छन् र हाल जिल्ला अध्यक्षको जिम्मेवारी सम्हालिरहेका छन्। निर्वाचनको दृष्टिकोणले हेर्दा, २०७४ र २०७९ का दुवै प्रतिनिधिसभा निर्वाचनमा उनले अछाम क्षेत्र नम्बर २ बाट उम्मेदवारी दिएका थिए, यद्यपि दुवै पटक उनको मत संख्या निकै न्यून (क्रमशः २३८ र २८६ मत) रह्यो। अछाममा नेपाली कांग्रेस र नेकपा (एमाले) को बलियो पकड रहेका कारण उनले चुनावी प्रतिस्पर्धामा खासै प्रभाव पार्न सकेका छैनन्। पार्टीभित्र उनलाई एक संगठक र कार्यकर्ताहरूसँग समन्वय गर्न सक्ने क्षमता भएको नेताका रूपमा चिनिन्छ, तर समग्र जिल्लामा उनको व्यक्तिगत चुनावी शक्ति कमजोर देखिन्छ।",
+  "overall_approval_rating": 45
+}

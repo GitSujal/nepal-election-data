@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340050,
+  "candidate_name": "पुष्प कमल दाहाल प्रचण्ड",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hammer_and_sickle_inside_circle.png",
+  "candidates_current_position": "पूर्व प्रधानमन्त्री तथा प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "अध्यक्ष (समन्वयकर्ता)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340050.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "काठमाडौँ र रोल्पा",
+      "constituency": "काठमाडौँ १० र रोल्पा २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "काठमाडौँ र सिराहा",
+      "constituency": "काठमाडौँ १० (पराजित), सिराहा ५ (विजयी)",
+      "result": "विजयी",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "चितवन ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "गोरखा २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रधानमन्त्री पदबाट पदमुक्त",
+      "date": "२०८१-०३-२८",
+      "details": "संसदमा विश्वासको मत प्राप्त गर्न नसकेपछि प्रधानमन्त्री पदबाट पदमुक्त भएका थिए।",
+      "link_to_source": "https://www.ekantipur.com/news/2024/07/12/pm-dahal-fails-to-get-vote-of-confidence-in-parliament-47-59.html",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "तेस्रो पटक प्रधानमन्त्रीमा नियुक्त",
+      "date": "२०७९-०९-१०",
+      "details": "एमाले लगायतका दलहरूको समर्थनमा तेस्रो पटक नेपालको प्रधानमन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/2022_Nepalese_general_election",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महाकालेश्वर मन्दिरमा गेरुवा वस्त्र धारण",
+      "date": "२०८०-०२-१९",
+      "details": "भारत भ्रमणका क्रममा महाकालेश्वर मन्दिरमा पूजाआजा गरेको विषय कम्युनिष्ट सिद्धान्त विपरित भन्दै विवादित भएको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2023/06/03/dahal-s-temple-visit-sparks-controversy-in-nepal",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दोस्रो पटक प्रधानमन्त्री",
+      "date": "२०७३-०४-२०",
+      "details": "नेपाली कांग्रेसको समर्थनमा दोस्रो पटक प्रधानमन्त्रीको बागडोर सम्हालेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%AA%E0%A4%95%E0%A4%AE%E0%A4%B2_%E0%A4%A6%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%B2",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कटवाल काण्ड र राजीनामा",
+      "date": "२०६६-०१-२१",
+      "details": "सेनापति रुक्माङ्गद कटवाललाई बर्खास्त गर्ने प्रयास असफल भएपछि राष्ट्रपतिसँगको विवादका कारण राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.jagranjosh.com/general-knowledge/pushpa-kamal-dahal-prachanda-biography-1672051062-1",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "लडाकु शिविर भ्रष्टाचार काण्ड",
+      "date": "२०६५-०५-०१",
+      "details": "माओवादी लडाकुको भत्ता र रासनमा अर्बौं भ्रष्टाचार भएको भन्दै शक्तिखोर भिडियो सार्वजनिक भएपछि विवादमा परेका थिए।",
+      "link_to_source": "https://oreateai.com/pushpa-kamal-dahal-the-journey-of-prachanda-from-teacher-to-prime-minister/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "गणतन्त्र नेपालको पहिलो प्रधानमन्त्री",
+      "date": "२०६५-०४-३१",
+      "details": "संविधान सभा निर्वाचन पछि गणतन्त्र नेपालको पहिलो प्रधानमन्त्रीको रूपमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://www.mysansar.com/2008/08/3345/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बृहत शान्ति सम्झौता",
+      "date": "२०६३-०८-०५",
+      "details": "दश वर्षे सशस्त्र युद्ध अन्त्य गर्दै सरकारसँग ऐतिहासिक बृहत शान्ति सम्झौतामा हस्ताक्षर गरेका थिए।",
+      "link_to_source": "https://kiddle.co/Pushpa_Kamal_Dahal_facts_for_kids",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र जनयुद्धको थालनी",
+      "date": "२०५२-११-०१",
+      "details": "राज्यसत्ता परिवर्तनका लागि तत्कालीन नेकपा (माओवादी) को नेतृत्वमा सशस्त्र जनयुद्धको घोषणा गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/17/16686641875141673.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "पुष्प कमल दाहाल 'प्रचण्ड' नेपालको राजनीतिमा एक अत्यन्तै चतुर तर अस्थिर पात्रका रूपमा चिनिन्छन्। उनी दश वर्षे सशस्त्र युद्धका कमान्डर र शान्ति प्रक्रियाका प्रमुख हस्ताक्षरकर्ता हुन्। पछिल्लो समय उनलाई 'भगुवा' वा 'टुरिस्ट' उम्मेदवारको बिल्ला लागेको छ, किनकि उनले हरेक निर्वाचनमा आफ्नो क्षेत्र परिवर्तन गर्ने गरेका छन्। काठमाडौँ, रोल्पा, सिराहा, चितवन, र गोरखा हुँदै अहिले उनी रुकुम (पूर्वी भाग) मा सरेका छन्। यो प्रवृत्तिलाई राजनीतिक विश्लेषकहरूले सुरक्षित सिटको खोजी र आफ्नो साख कमजोर हुँदै गएको संकेतका रूपमा लिने गरेका छन्। उनी बारम्बार सत्ताका लागि गठबन्धन परिवर्तन गर्ने 'यु-टर्न' राजनीतिका लागि चर्चित छन्, जसले गर्दा जनतामा उनको विश्वसनीयतामा ह्रास आएको देखिन्छ। यद्यपि, संक्रमणकालीन न्याय र गणतन्त्र संस्थागत गर्ने सवालमा उनको भूमिका अझै महत्वपूर्ण मानिन्छ।",
+  "overall_approval_rating": 52
+}

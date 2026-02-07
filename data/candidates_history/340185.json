@@ -1,0 +1,127 @@
+{
+  "candidate_id": 340185,
+  "candidate_name": "गोकर्ण राज विष्‍ट",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "सचीव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340185.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०७",
+      "details": "गुल्मी क्षेत्र नं. २ बाट २८,४७६ मत प्राप्त गर्दै एकीकृत समाजवादीकी रामकुमारी झाँक्रीलाई पराजित गरी निर्वाचित।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/23/gokarna-bista-secures-victory-in-gulmi-for-the-fourth-time",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमालेको १०औं महाधिवेशनबाट सचीवमा निर्वाचित",
+      "date": "२०७८-०८-१४",
+      "details": "चितवनमा भएको नेकपा एमालेको १०औं राष्ट्रिय महाधिवेशनमा सर्वाधिक १९७६ मत प्राप्त गर्दै सचीव पदमा निर्वाचित।",
+      "link_to_source": "https://lokaantar.com/story/160100/2021/11/30/gokarna-bista-secretary",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम मन्त्रीबाट पदमुक्त",
+      "date": "२०७६-०८-०४",
+      "details": "कार्यसम्पादन सन्तोषजनक हुँदाहुँदै पनि प्रधानमन्त्री केपी शर्मा ओलीले गरेको मन्त्रिमण्डल पुनर्गठनमा आकस्मिक रूपमा हटाइएको।",
+      "link_to_source": "https://kathmandupost.com/national/2019/11/25/he-was-one-of-the-few-ministers-who-delivered-then-the-prime-minister-sacked-him",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "योगदानमा आधारित सामाजिक सुरक्षा योजनाको सुरुवात",
+      "date": "२०७५-०८-११",
+      "details": "श्रम मन्त्रीको रूपमा श्रमिकहरूको भविष्य सुरक्षित गर्न योगदानमा आधारित सामाजिक सुरक्षा कार्यक्रमको ऐतिहासिक सुरुवात।",
+      "link_to_source": "https://onlinekhabar.com/2018/11/722288",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्री नियुक्त",
+      "date": "२०७४-१२-०२",
+      "details": "ओली नेतृत्वको सरकारमा श्रम मन्त्री नियुक्त भए लगत्तै वैदेशिक रोजगारीमा रहेको सिन्डिकेट अन्त्य गर्ने घोषणा।",
+      "link_to_source": "https://nepalitimes.com/banner/blood-sweat-and-tears",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ऊर्जा मन्त्रीको रूपमा सुधारका कार्यहरू",
+      "date": "२०६८-०१-०८",
+      "details": "विद्युत महसुल नतिर्ने सरकारी कार्यालय र पहुँचवालाको लाइन काट्ने तथा लोडसेडिङ व्यवस्थापनमा साहसी कदम चालेको।",
+      "link_to_source": "https://nepjol.info/index.php/HN/article/view/5221",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सांघातिक आक्रमणमा परेको",
+      "date": "२०६८-०१-०८",
+      "details": "ऊर्जा मन्त्रीको रूपमा काम गरिरहेका बेला काठमाडौंको बानेश्वरमा अज्ञात समूहद्वारा खुकुरी प्रहार गरी घाइते बनाइएको।",
+      "link_to_source": "https://wikipedia.org/wiki/Gokarna_Bista",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रजातान्त्रिक राष्ट्रिय युवा संघको अध्यक्ष",
+      "date": "२०५७-०१-०१",
+      "details": "एमालेको भ्रातृ संगठन युवा संघको दुई कार्यकाल अध्यक्ष भएर युवा राजनीतिमा दह्रो पकड बनाएको।",
+      "link_to_source": "https://gulminews.com/2017/12/28362/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३५-०१-०१",
+      "details": "गुल्मीको दोहोलीबाट विद्यार्थी राजनीतिको माध्यमबाट कम्युनिष्ट आन्दोलनमा सहभागी भएको।",
+      "link_to_source": "https://hamroneta.online/candidate/gokarna-raj-bista",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गोकर्ण राज विष्ट नेपाली राजनीतिमा एक 'एक्सन ओरिएन्टेड' र निष्कलंकित छविका नेताका रूपमा चिनिन्छन्। ऊर्जा मन्त्री हुँदा विद्युत प्राधिकरणको सुधार र श्रम मन्त्री हुँदा मलेसिया रोजगारीको सिन्डिकेट अन्त्य तथा सामाजिक सुरक्षा योजना लागू गरेर उनले जनस्तरमा निकै लोकप्रियता कमाएका थिए। गुल्मी क्षेत्र नं. २ मा उनको व्यक्तिगत प्रभाव निकै बलियो छ, जसका कारण उनले प्रतिकूल राजनीतिक परिस्थितिमा पनि लगातार चुनाव जित्दै आएका छन्। नेकपा एमाले भित्र वैचारिक र संगठनात्मक दुवै रूपमा प्रभावशाली रहेका विष्टलाई पार्टीको भावी नेतृत्वको दाबेदारका रूपमा समेत हेरिन्छ। उनको संसदीय यात्रा र मन्त्रीको रूपमा गरेको कार्यसम्पादनले उनलाई विकासप्रेमी र राष्ट्रवादी नेताको पहिचान दिएको छ।",
+  "overall_approval_rating": 88
+}

@@ -1,0 +1,119 @@
+{
+  "candidate_id": 342129,
+  "candidate_name": "सुरेन्‍द्र प्रसाद चौधरी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nepali_Congress_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, नेपाली काँग्रेस तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342129.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा-३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ निर्वाचनमा झिनो मतान्तरले पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा निर्वाचन क्षेत्र नं ३ बाट प्रतिनिधिसभा सदस्यमा नेकपा एमालेका उम्मेदवार राजकुमार गुप्तासँग मात्र १६७ मतान्तरले पराजित।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166927500350495817.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली काँग्रेसको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०८-२९",
+      "details": "नेपाली काँग्रेसको १४औं महाधिवेशनबाट केन्द्रीय सदस्य पदमा निर्वाचित भई पार्टीको नीति निर्माण तहमा सक्रिय।",
+      "link_to_source": "https://nepalicongress.org/central-committee",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "पर्सा-३ बाट निर्वाचन लड्दा संघीय समाजवादी फोरमका हरिनारायण रौनियारसँग पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रीको रूपमा कार्य",
+      "date": "२०५८-०५-०१",
+      "details": "नेपाल सरकारको शिक्षा तथा खेलकुद र विज्ञान तथा प्रविधि मन्त्रीको रूपमा विभिन्न समयमा महत्वपूर्ण मन्त्रालयको जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Surendra_Prasad_Chaudhary",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वाणिज्य तथा आपूर्ति मन्त्रीमा नियुक्त",
+      "date": "२०५६-०२-१७",
+      "details": "कृष्णप्रसाद भट्टराईको मन्त्रिमण्डलमा वाणिज्य तथा आपूर्ति मन्त्रीको रूपमा नियुक्त भई कार्यभार सम्हालेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Surendra_Prasad_Chaudhary",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०४८ देखि लगातार तीन पटक सांसद",
+      "date": "२०४८-०२-०१",
+      "details": "२०४८, २०५१ र २०५६ को संसदीय निर्वाचनमा पर्सा क्षेत्र नं ३ बाट लगातार विजयी भई ह्याट्रिक गरेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Surendra_Prasad_Chaudhary",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुरेन्द्र प्रसाद चौधरी नेपाली काँग्रेसका एक अनुभवी र निष्ठावान नेता हुन्। उनी पर्सा जिल्लाबाट चार पटक सांसद निर्वाचित भइसकेका छन् र उनले शिक्षा, विज्ञान तथा प्रविधि, र वाणिज्य जस्ता महत्वपूर्ण मन्त्रालयहरूको नेतृत्व गरिसकेका छन्। उनी मधेसको राजनीतिमा लामो समयदेखि सक्रिय छन् र पार्टीको केन्द्रीय समितिमा प्रभावशाली स्थान राख्छन्। २०७९ को निर्वाचनमा उनी निकै थोरै मतान्तर (१६७ मत) ले पराजित भएका थिए, जसले उनको क्षेत्रमा बलियो व्यक्तिगत प्रभाव रहेको देखाउँछ। यद्यपि, पछिल्ला तीन निर्वाचनमा लगातारको पराजयले उनको चुनावी पकडमा केही चुनौती थपेको छ। उनी मधेसी र थारु समुदायका मुद्दाहरूमा प्रखर रूपमा प्रस्तुत हुने गर्दछन्।",
+  "overall_approval_rating": 68
+}

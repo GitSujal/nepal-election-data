@@ -1,0 +1,135 @@
+{
+  "candidate_id": 340067,
+  "candidate_name": "प्रदिप कुमार ज्ञवाली",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CPN_UML_Logo.svg",
+  "candidates_current_position": "पूर्व परराष्ट्र मन्त्री",
+  "candidates_current_position_in_party": "उपमहासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340067.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "गुल्मी क्षेत्र नम्बर १ बाट नेपाली कांग्रेसका उम्मेदवार चन्द्र भण्डारीसँग ३२,१५२ मत प्राप्त गर्दै पराजित हुनुभएको थियो।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-5/district-gulmi?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमाले उपमहासचिवमा मनोनयन",
+      "date": "२०७८-०८-१५",
+      "details": "चितवनमा सम्पन्न १०औं राष्ट्रिय महाधिवेशनबाट ज्ञवाली पार्टीको उपमहासचिव पदमा निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://cpnuml.org/content/pradeep-gyawali",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपालको नयाँ राजनीतिक नक्सा जारी",
+      "date": "२०७७-०२-०७",
+      "details": "परराष्ट्र मन्त्रीको रूपमा लिम्पियाधुरा, लिपुलेक र कालापानी समेटिएको नेपालको नयाँ राजनीतिक र प्रशासनिक नक्सा जारी गर्ने कार्यको नेतृत्व गर्नुभएको थियो।",
+      "link_to_source": "https://mofa.gov.np/minister-for-foreign-affairs-hon-mr-pradeep-kumar-gyawali-tabled-the-constitution-second-amendment-bill-2077/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "परराष्ट्र मन्त्रीमा नियुक्ति",
+      "date": "२०७४-११-३२",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा परराष्ट्र मन्त्रीको रूपमा नियुक्त भई ३ वर्षभन्दा बढी समय सेवा गर्नुभएको थियो।",
+      "link_to_source": "https://mofa.gov.np/honorable-minister-for-foreign-affairs-pradeep-kumar-gyawali/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा विजय",
+      "date": "२०७४-०८-२१",
+      "details": "गुल्मी क्षेत्र नम्बर १ बाट ३७,८१४ मत प्राप्त गरी भारी मतान्तरले विजयी हुनुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसद् विघटनको प्रतिरक्षा",
+      "date": "२०७७-०९-०५",
+      "details": "तत्कालीन प्रधानमन्त्री केपी ओलीले गरेको संसद् विघटनको निर्णयलाई पार्टी प्रवक्ता र मन्त्रीको रूपमा संवैधानिक र राजनीतिक रूपमा कडा प्रतिरक्षा गर्नुभएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/225026",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमालेको सचिवमा निर्वाचित",
+      "date": "२०७१-०३-३०",
+      "details": "पार्टीको नवौं राष्ट्रिय महाधिवेशनबाट केन्द्रीय कमिटीको सचिव पदमा निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://cpnuml.org/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधानसभा निर्वाचन २०६४ मा विजय",
+      "date": "२०६४-१२-२८",
+      "details": "गुल्मी-२ बाट संविधानसभा सदस्यमा निर्वाचित भई संविधान निर्माण प्रक्रियामा सक्रिय भूमिका निर्वाह गर्नुभएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Pradeep_Kumar_Gyawali",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटन तथा नागरिक उड्डयन मन्त्री",
+      "date": "२०६३-०२-१५",
+      "details": "दोस्रो जनआन्दोलनपछि गठित गिरिजा प्रसाद कोइराला नेतृत्वको सरकारमा संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रीको रूपमा कार्य गर्नुभएको थियो।",
+      "link_to_source": "https://mofa.gov.np/minister-gyawali-biography/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शान्ति वार्ता टोली सदस्य",
+      "date": "२०६३-०१-०१",
+      "details": "सरकार र तत्कालीन विद्रोही नेकपा (माओवादी) बीचको शान्ति वार्ता प्रक्रियामा सरकारी टोलीको सदस्यका रूपमा महत्वपूर्ण वार्ताकारको भूमिका खेल्नुभएको थियो।",
+      "link_to_source": "https://www.weforum.org/people/pradeep-kumar-gyawali/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रदिप ज्ञवाली नेपाली राजनीतिको एक सुसंस्कृत, बौद्धिक र सालिन नेताका रूपमा चिनिनुहुन्छ। नेकपा एमालेका उपमहासचिव रहनुभएका ज्ञवाली पार्टी अध्यक्ष केपी शर्मा ओलीका प्रमुख रणनीतिकार र विश्वासपात्र मानिनुहुन्छ। परराष्ट्र मन्त्रीको रूपमा उहाँको कार्यकाल विशेष गरी नेपालको नयाँ राजनीतिक नक्सा (चुच्चे नक्सा) जारी गर्ने सन्दर्भमा ऐतिहासिक र सफल मानिन्छ। उहाँमाथि कुनै ठूला भ्रष्टाचारका आरोपहरू नलाग्नु र स्वच्छ छवि कायम राख्नु उहाँको बलियो पक्ष हो। यद्यपि, २०७९ को निर्वाचनमा गुल्मी-१ बाट झिनो मतान्तरले पराजित हुनु र संसद् विघटन जस्ता विवादास्पद कदमहरूको कडा प्रतिरक्षा गर्नुले उहाँको केही आलोचना पनि भएको थियो। गुल्मीमा उहाँको र नेपाली कांग्रेसका चन्द्र भण्डारीबीचको चुनावी प्रतिस्पर्धालाई नेपालको 'हेभीवेट' भिडन्तका रूपमा लिइन्छ। उहाँ एक सफल लेखक र विचारक समेत हुनुहुन्छ।",
+  "overall_approval_rating": 82
+}

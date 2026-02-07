@@ -40,3 +40,6 @@ sources:
 
       - name: candidate_address_to_district_mapping
         description: Mapping of candidate addresses to districts (Basobas Jilla) with sanitization and matching logic
+
+      - name: candidates_political_history
+        description: Detailed political history and profiles of FPTP candidates including election history, political events, and ministerial appointments

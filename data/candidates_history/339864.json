@@ -1,0 +1,111 @@
+{
+  "candidate_id": 339864,
+  "candidate_name": "चन्द्रकान्त भण्डारी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nepali_Congress_Party_Logo.svg/1024px-Nepali_Congress_Party_Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339864.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभामा विजयी",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को आम निर्वाचनमा गुल्मी निर्वाचन क्षेत्र नम्बर १ बाट नेकपा एमालेका उपमहासचिव प्रदीप ज्ञवालीलाई पराजित गर्दै प्रतिनिधि सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://lokaantar.com/news/173981",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ग्यास विस्फोट दुर्घटना र उपचार",
+      "date": "२०७९-११-०३",
+      "details": "काठमाडौंको बुद्धनगरस्थित निवासमा खाना पकाउने ग्यास लिक भई भएको विस्फोटमा गम्भीर घाइते। उपचारका लागि मुम्बई लगिएको र उनकी आमाको निधन भएको।",
+      "link_to_source": "https://risingnepaldaily.com/news/25859",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली कांग्रेसको १४औँ महाधिवेशनबाट भारी मतका साथ केन्द्रीय कार्यसमिति सदस्य पदमा निर्वाचित।",
+      "link_to_source": "https://ekantipur.com/news/2021/12/20/1640003000.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनका उम्मेदवार प्रदीप ज्ञवालीसँग गुल्मी क्षेत्र नं १ मा पराजित।",
+      "link_to_source": "https://ekantipur.com/news/2017/12/10/20171210103001.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा गुल्मी क्षेत्र नं २ बाट निर्वाचित भई संविधान निर्माण प्रक्रियामा सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://wikipedia.org/wiki/Chandra_Bhandari",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गणतन्त्रको पक्षमा अडान",
+      "date": "२०६२-०१-०१",
+      "details": "२०६२/६३ को जनआन्दोलनका क्रममा पार्टीको आधिकारिक लाइन अघि नै गणतन्त्रको पक्षमा खुलेर वकालत गर्ने नेताका रूपमा परिचित।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/25/166934446419082348.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघको महामन्त्री",
+      "date": "२०४८-०१-०१",
+      "details": "नेपाल विद्यार्थी संघको केन्द्रीय महामन्त्रीका रूपमा विद्यार्थी आन्दोलनको नेतृत्व सम्हालेको।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/25/166934446419082348.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चन्द्रकान्त भण्डारी नेपाली कांग्रेसका एक प्रखर वक्ता र बौद्धिक नेताका रूपमा परिचित छन्। समाजशास्त्रमा विद्यावारिधि गरेका उनी पार्टीभित्र सुधारवादी धारको नेतृत्व गर्छन्। गुल्मीमा उनको बलियो स्थानीय आधार छ, जहाँ उनले एमालेका हेभीवेट नेता प्रदीप ज्ञवालीसँग पटक-पटक कडा प्रतिस्पर्धा गर्दै आएका छन्। २०७९ को आम निर्वाचनमा ज्ञवालीलाई पराजित गरेपछि उनको राजनीतिक उचाइ थप बढेको छ। २०७९ फागुनमा भएको ग्यास दुर्घटनामा गम्भीर घाइते भई मृत्युलाई जितेर फर्केका कारण उनीप्रति जनस्तरमा ठूलो सहानुभूति र सम्मान रहेको देखिन्छ। उनी स्पष्ट र निर्भीक विचार राख्ने हुनाले युवा पुस्तामाझ लोकप्रिय छन्। यद्यपि, गुल्मी-२ बाट गुल्मी-१ मा सरेको विषयलाई कतिपयले रणनीतिक मान्दछन्, तर उनी सोही जिल्लाको स्थायी बासिन्दा भएकाले उनलाई 'टुरिस्ट' उम्मेदवार मानिँदैन।",
+  "overall_approval_rating": 88
+}

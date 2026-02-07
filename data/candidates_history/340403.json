@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340403,
+  "candidate_name": "ईमदाद गद्दी",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Election_Symbol_of_Aam_Janata_Party.png/200px-Election_Symbol_of_Aam_Janata_Party.png",
+  "candidates_current_position": "नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340403.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं ४",
+      "result": "पराजित",
+      "party": "नेपाल संघीय समाजवादी पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र (आम जनता पार्टी समर्थित)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीको केन्द्रीय समितिमा मनोनयन",
+      "date": "२०७९-०९-१४",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई केन्द्रीय स्तरको जिम्मेवारी प्राप्त गरेको।",
+      "link_to_source": "https://ajp.org.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा क्षेत्र नं ४ बाट प्रतिनिधि सभाका लागि स्वतन्त्र उम्मेदवारी दिएकोमा २,९०२ मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "नेपाल संघीय समाजवादी पार्टीबाट उम्मेदवार बनी २,७८९ मतका साथ चौथो स्थान हासिल गरेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bHT-PAS0MZ1tV3B71fENNQb_bVtreatQxtSaAO-xTnmFFdTOiAOsSVTk1zgbITIpYfhHF7osPOrIbcNN7T1QuVM1HKPRA3ZplSvDFxEvhBswRYuNAyPQ24yaX-WswQisJkv6chdGMKKFbSIJDa_s-XJiNmFCuQM0Z29-m2YCkwjvazguHU8=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ईमदाद गद्दी पर्सा जिल्लाको क्षेत्र नं ४ मा आधारित एक स्थानीय राजनीतिक नेता हुन्। उनी विगत दुईवटा प्रतिनिधि सभा निर्वाचनमा लगातार प्रतिस्पर्धी रहेका छन्, जसले उनको राजनीतिक सक्रियतालाई पुष्टि गर्दछ। २०७४ को निर्वाचनमा नेपाल संघीय समाजवादी पार्टीबाट चुनाव लडेका गद्दीले २०७९ को निर्वाचनमा प्रभु साहको समूहसँग निकट भई स्वतन्त्र उम्मेदवारी दिएका थिए। हाल उनी प्रभु साह नेतृत्वको आम जनता पार्टी (AJP) मा आबद्ध रहेका छन्। उनको चुनावी प्रदर्शन स्थिर देखिए तापनि मुख्य शक्तिहरूसँगको प्रतिस्पर्धामा उनी अहिलेसम्म सफल हुन सकेका छैनन्। मधेशको क्षेत्रीय राजनीति र साना दलहरूबीचको गठबन्धनमा उनको प्रभाव सीमित तर उल्लेखनीय मानिन्छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,95 @@
+{
+  "candidate_id": 341266,
+  "candidate_name": "अभिषेक प्रताप शाह",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_flag.png",
+  "candidates_current_position": "पूर्व प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341266.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "विजयी",
+      "party": "मधेशी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "विजयी",
+      "party": "मधेशी जनअधिकार फोरम (लोकतान्त्रिक)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "कपिलवस्तु निर्वाचन क्षेत्र नं ३ बाट नेपाली कांग्रेसका उम्मेदवार शाह नेकपा एमालेका मंगल प्रसाद गुप्तासँग पराजित हुनुभयो।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate-341266",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कुटपिट र ज्यान मार्ने धम्कीको अभियोग",
+      "date": "२०७६-०९-१८",
+      "details": "सांसद शाहले राप्रपाका श्यामकुमार मिश्रलाई आफ्नै निवासमा नियन्त्रणमा लिई कुटपिट गरेको र ज्यान मार्ने धम्की दिएको अभियोगमा जिल्ला अदालतले पक्राउ पुर्जी जारी गरेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2020/01/824982",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली काँग्रेस प्रवेश",
+      "date": "२०७४-०६-१५",
+      "details": "२०७४ को निर्वाचन अघि संघीय समाजवादी फोरम नेपाल परित्याग गरी शाह नेपाली कांग्रेसमा प्रवेश गर्नुभएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Abhishek_Pratap_Shah",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा पुन: निर्वाचित",
+      "date": "२०७०-०८-०४",
+      "details": "कपिलवस्तु निर्वाचन क्षेत्र नं ५ बाटै उहाँ दोस्रो पटक संविधान सभा सदस्यमा निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Abhishek_Pratap_Shah",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सबैभन्दा कान्छो सभासदको कीर्तिमान",
+      "date": "२०६४-१२-२८",
+      "details": "२५ वर्षको उमेरमा पहिलो संविधान सभामा निर्वाचित भएर शाह नेपालको इतिहासमै सबैभन्दा कम उमेरको सभासद बन्नुभएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Abhishek_Pratap_Shah",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०६४-१०-०५",
+      "details": "बुवा अजय प्रताप शाहको निधनपछि उहाँको रिक्त स्थानमा राप्रपाको तर्फबाट अन्तरिम व्यवस्थापिकामा मनोनित भई राजनीतिमा प्रवेश।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Abhishek_Pratap_Shah",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अभिषेक प्रताप शाह कपिलवस्तुको राजनीतिमा स्थापित र प्रभावशाली व्यक्तित्व हुन्। स्व. अजय प्रताप शाहको उत्तराधिकारीका रूपमा राजनीतिमा प्रवेश गरेका उहाँ २०६४ मा सबैभन्दा कम उमेरको सभासद बनेर चर्चामा आउनुभएको थियो। उहाँले मधेशी जनअधिकार फोरमबाट राजनीतिक यात्रा सुरु गरे पनि पछि नेपाली कांग्रेसमा प्रवेश गर्नुभयो। 'वागुवा' उम्मेदवारको रूपमा चिनिनुको मुख्य कारण उहाँको बारम्बारको पार्टी परिवर्तन र निर्वाचन क्षेत्र परिवर्तन (क्षेत्र ५ बाट क्षेत्र ३) हो। २०७९ को निर्वाचनमा उहाँको पराजयले स्थानीय स्तरमा उहाँको प्रभाव कमजोर हुँदै गएको संकेत गर्दछ। विशेष गरी २०७६ को कुटपिट र ज्यान मार्ने धम्कीको फौजदारी अभियोगले उहाँको सार्वजनिक छविमा गम्भीर नकारात्मक असर पारेको देखिन्छ। यद्यपि, युवा नेताका रूपमा उहाँको आफ्नै छुट्टै पकड भने अझै कायम छ।",
+  "overall_approval_rating": 62
+}

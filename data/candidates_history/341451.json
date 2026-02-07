@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341451,
+  "candidate_name": "राम नेवास यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Janata_Samajbadi_Party_Nepal_Logo.png/220px-Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला नेता, कपिलबस्तु",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341451.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नयाँ शक्ति पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलबस्तु निर्वाचन क्षेत्र नं ३ बाट जनता समाजवादी पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यमा उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-5/district-kapilvastu?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "मधेश केन्द्रित दलहरूको एकता र समायोजनपछि उनी जनता समाजवादी पार्टी, नेपालमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा नयाँ शक्तिबाट उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालबाट कपिलबस्तु ३ मा प्रतिनिधिसभाका लागि चुनावी मैदानमा उत्रिएका।",
+      "link_to_source": "https://result.election.gov.np/CandidateWinnerDetails.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "न्यून चुनावी जनमत",
+      "date": "२०७४-०९-०१",
+      "details": "२०७४ सालको आम निर्वाचनमा कपिलबस्तु क्षेत्र नं ३ बाट मात्र १७७४ मत प्राप्त गरी लज्जास्पद पराजय व्यहोर्नुपरेको थियो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "राम नेवास यादव कपिलबस्तु जिल्लाका एक संघर्षशील राजनीतिकर्मी हुन्। उनले २०७४ सालमा नयाँ शक्ति पार्टी नेपालबाट आफ्नो चुनावी यात्रा सुरु गरे पनि मात्र १७७४ मत प्राप्त गरी पराजित भएका थिए। पछि उनी राजनीतिक लाभ र अवसरको खोजीमा जनता समाजवादी पार्टी (जसपा) नेपालमा प्रवेश गरे। स्रोतले उनलाई 'वगुवा' (Vaguwa) उम्मेदवारका रूपमा उल्लेख गरेको छ, जसले उनको राजनीतिक अस्थिरता र पार्टी परिवर्तन गर्ने प्रवृत्तिलाई संकेत गर्दछ। कपिलबस्तु क्षेत्र नं ३ मा उनको पकड कमजोर देखिन्छ, किनकि दुवै निर्वाचनमा उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। उनको राजनीतिक प्रभाव स्थानीय स्तरमा सीमित रहेको र ठूला दलका उम्मेदवारहरूका अगाडि उनको उपस्थिति कमजोर देखिएको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 42
+}

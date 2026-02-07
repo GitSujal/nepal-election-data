@@ -1,0 +1,87 @@
+{
+  "candidate_id": 339621,
+  "candidate_name": "रविन्द्र राज शर्मा",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व संघीय सांसद",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा दैलेख जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339621.jpg",
+  "election_history": [
+    {
+      "year": "२०५४",
+      "position": "नगर प्रमुख (मेयर)",
+      "district": "दैलेख",
+      "constituency": "नारायण नगरपालिका",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दैलेख",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दैलेख",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "दैलेख क्षेत्र नं. १ बाट एमालेका उम्मेदवार रहेका शर्मा १७,४४५ मत प्राप्त गर्दै नेकपा (एकीकृत समाजवादी) का अम्मर बहादुर थापासँग ८५२ मतान्तरले पराजित भए।",
+      "link_to_source": "https://ekantipur.com/pratinidhisabha-election-2079/2022/11/24/1669269414008.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमाले दैलेखको अध्यक्षमा पुन: निर्वाचित",
+      "date": "२०७८-१०-०१",
+      "details": "एमालेको सातौं जिल्ला अधिवेशनबाट सूर्यबहादुर शाहीलाई पराजित गर्दै शर्मा ४१४ मतका साथ जिल्ला अध्यक्षमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://khabarhub.com/2022/15/334053/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यको रूपमा शपथ",
+      "date": "२०७४-११-२०",
+      "details": "२०७४ को निर्वाचनमा विजयी भएपछि शर्माले संघीय संसदको सदस्यको रूपमा आफ्नो कार्यकाल सुरु गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rabindra_Raj_Sharma",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०८-२१",
+      "details": "दैलेख क्षेत्र नं. १ बाट २३,७७३ मत प्राप्त गरी राप्रपाका दीपक कुमार शाहीलाई ६,५२१ मतान्तरले पराजित गर्दै विजयी भए।",
+      "link_to_source": "https://election.ekantipur.com/constituency/2074/dailekh-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नारायण नगरपालिकाको मेयरमा निर्वाचित",
+      "date": "२०५४-०२-३१",
+      "details": "स्थानीय तह निर्वाचन २०५४ मा दैलेखको नारायण नगरपालिकाको पहिलो मेयरको रूपमा निर्वाचित भई स्थानीय विकासको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/pratinidhisabha-election-2079/candidates/339621",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०४२-०१-०१",
+      "details": "अनेरास्ववियुको विद्यार्थी राजनीतिबाट नेकपा (माले) मा आबद्ध भई आफ्नो राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/pratinidhisabha-election-2079/candidates/339621",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रविन्द्र राज शर्मा दैलेखका एक अनुभवी र प्रभावशाली नेता हुन्, जसले पञ्चायतकालको अन्त्यतिरदेखि नै वामपन्थी राजनीतिमा सक्रिय भूमिका खेल्दै आएका छन्। २०५४ सालमा नारायण नगरपालिकाको मेयर बनेका उनले २०७४ को संसदीय निर्वाचनमा भारी मतान्तरले जित हासिल गरी आफ्नो लोकप्रियता प्रमाणित गरेका थिए। उनी नेकपा एमालेभित्र जिल्ला अध्यक्ष र केन्द्रीय सदस्य जस्ता महत्वपूर्ण जिम्मेवारीमा रहेका छन्। २०७९ को निर्वाचनमा भने पार्टी विभाजन र पाँच दलीय गठबन्धनको कडा प्रतिस्पर्धाका कारण उनी झिनो मतान्तरले पराजित हुन पुगे। उनलाई स्थानीय स्तरमा विकासप्रेमी र संगठक नेताका रूपमा चिनिन्छ, तर पछिल्लो चुनावी हारले उनको क्षेत्रीय पकडमा केही धक्का लागेको देखिन्छ। समग्रमा, उनी दैलेखमा एमालेको बलियो खम्बा मानिन्छन्।",
+  "overall_approval_rating": 72
+}

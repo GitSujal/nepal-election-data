@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339842,
+  "candidate_name": "बर्षमान पुन",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-Maoist-Centre-Logo.png/600px-CPN-Maoist-Centre-Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व अर्थमन्त्री",
+  "candidates_current_position_in_party": "उपमहासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339842.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ९",
+      "result": "पराजित",
+      "party": "एकीकृत नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रोल्पा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रोल्पा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सुन तस्करी प्रकरणमा नाम जोडिएको",
+      "date": "२०८०-११-३०",
+      "details": "सुन तस्करीमा संलग्न जीवन कुमार गुरुङसँग ११ पटक टेलिफोन सम्पर्क भएको तथ्य प्रहरीको केन्द्रीय अनुसन्धान ब्युरो (सीआईबी) को कल डिटेल रेकर्डबाट खुलेपछि उनीमाथि अनुसन्धानको माग उठेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHxpATbA6sW_t0QGjS1DBXUQYpXvJmgqFDFFhlE7i0iuAZvEBNtQYSom7IzSjRElqNyjuy3x_lwmLKRq1AQUhYaP1ENIvO6uqH4CLvm3Ud4KbFnJ6GaJNFmPBMl6wIZpAnAQiLtd1d5ySzXK5s_kUnrOtLxOoSL6hs_cON7KE4X0CxivTfItd_tWpZw2U0rElunQ==",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पुनः अर्थमन्त्रीमा नियुक्त",
+      "date": "२०८०-११-२३",
+      "details": "नयाँ सत्ता समीकरण बनेपछि प्रधानमन्त्री पुष्पकमल दाहाल 'प्रचण्ड' को मन्त्रिपरिषद्मा पुन दोस्रो पटक अर्थमन्त्रीको रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6uLQFypV6HO0rtCwnNvwLSerIvaBi7g16NxdDapkovCX4N1lrZMxlKyG0cgtlZv09XQnGTb9rAcRvSw3jf4FnIDFOdhXK9dzl4vVWf-tOqHTpKaopBe9BCRnCo8lNAc1D3BqT",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कलेजोको उपचारका लागि चीन प्रस्थान",
+      "date": "२०७९-०८-२२",
+      "details": "लामो समयदेखि कलेजोको जटिल समस्या (क्रिग्लर-नाज्जर सिन्ड्रोम टाइप २) बाट पीडित पुन चुनाव लगत्तै थप उपचारका लागि चीनको सेनजेनस्थित थर्ड पिपुल्स अस्पताल गएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8QToEzIpGBK0FeBw-D_p5IKaGFYv2zVKXtK7PGORd16gRimIS7ltcqKR_KUMwIrSr82q2VlRugFgNOid0zoM01ZQfJ82wUepRzBMDLtgggJ3oMKgfebl6l2QNn2SZKvpOOd569JUnztTWWY2u9jXk6zyWgJnEmVTbxKmis2wdUbzvrpuqkj16WSnQT4azsitrpNUXBApRPOecng7i3nl_GWGJwHMMKD4=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री",
+      "date": "२०७४-११-०३",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा उनले ऊर्जा मन्त्रालय सम्हाल्दै लोडसेडिङ अन्त्य र ऊर्जा क्षेत्रको विकासमा महत्वपूर्ण भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6uLQFypV6HO0rtCwnNvwLSerIvaBi7g16NxdDapkovCX4N1lrZMxlKyG0cgtlZv09XQnGTb9rAcRvSw3jf4FnIDFOdhXK9dzl4vVWf-tOqHTpKaopBe9BCRnCo8lNAc1D3BqT",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो पटक अर्थमन्त्री नियुक्त",
+      "date": "२०६८-०५-१८",
+      "details": "डा. बाबुराम भट्टराई प्रधानमन्त्री भएको समयमा पुनले पहिलो पटक अर्थ मन्त्रालयको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWJj144cQzr0iL2R4mzLxUk0Ddo1UceA0Ruk7HIq4KeltCoaRK4r4IYSn0BadqEJjvoQy5XsbtVXEfev1h7nQPtvJ8Ni1wP3hCZWjx4tRbzP3VFniWCGhIw5mIkd179B_ySKz7zuBsipMNjXzugztFOaUewMjunDTVO1o99u8FdHqJN2UDjtts7tHx6ULG1RaDvoPDKb7z-_yUtFNFNavDR-GA9W9BR0qcP7doe-Nwa_kMlio=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शान्ति तथा पुनर्निर्माण मन्त्री",
+      "date": "२०६७-१०-२३",
+      "details": "झलनाथ खनाल नेतृत्वको सरकारमा पुनले शान्ति तथा पुनर्निर्माण मन्त्रालय सम्हाल्दै विस्तृत शान्ति सम्झौताको कार्यान्वयनमा काम गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmg9WV0erkmkK_QSvXqTKvu7W592VBNNhnK5ewsNLCtx_DVCVjFd8Ip3PANO7ESyEjsgkfjUfk2M4AQPhbKFuwMu6mFZuiaDnXsSoMm16RDEeF9KAbjbzuiDkfusnENRTlXuS2QwbceswTHAfMIVVOCe-cyVnPrKkZ1fWwjJ2wymnevDxl3ueqCvMhbddReZEFQM7rD72BFEN_RxHkRng3_orgjaE1LNblyUS41cMd00THoSUl",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र युद्धको सैन्य कमान्ड",
+      "date": "२०५२-११-०१",
+      "details": "माओवादी जनयुद्धको सुरुवातदेखि नै सैन्य र राजनीतिक नेतृत्वमा रहेका पुन 'अनन्त' को नामले चिनिन्थे र उनी जनमुक्ति सेनाको डेपुटी कमान्डर समेत थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6uLQFypV6HO0rtCwnNvwLSerIvaBi7g16NxdDapkovCX4N1lrZMxlKyG0cgtlZv09XQnGTb9rAcRvSw3jf4FnIDFOdhXK9dzl4vVWf-tOqHTpKaopBe9BCRnCo8lNAc1D3BqT",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "वर्षमान पुन 'अनन्त' नेकपा (माओवादी केन्द्र) का एक अत्यन्त प्रभावशाली नेता हुन्। उनको राजनीतिक आधार क्षेत्र रोल्पा भए पनि उनले ललितपुर र मोरङ जस्ता जिल्लाहरूबाट पनि निर्वाचन लडेर आफ्नो राष्ट्रिय पहुँच पुष्टि गरेका छन्। माओवादी जनयुद्धका मुख्य सैन्य योजनाकार मध्येका एक पुन शान्ति प्रक्रियापछि संसदीय राजनीतिमा सफल सावित भएका छन्। उनी विशेषगरी अर्थ र ऊर्जा मन्त्रालय सम्हाल्दा परिणाममुखी काम गर्ने नेताका रूपमा चिनिन्छन्। तर, पछिल्लो समय सुन तस्करी काण्डमा उनी र उनको सचिवालयको नाम मुछिनुले उनको सार्वजनिक छविमा ठूलो धक्का पुगेको छ। रोल्पामा उनको व्यक्तिगत पकड असाध्यै मजबुत भए पनि राष्ट्रिय राजनीतिमा भ्रष्टाचारका आरोप र स्वास्थ्य समस्या (कलेजोको रोग) उनका मुख्य चुनौती बनेका छन्। उनी पार्टी अध्यक्ष प्रचण्डका विश्वासपात्र हुन् र पार्टीभित्रको शक्ति सन्तुलनमा उनको भूमिका निर्णायक रहने गरेको छ।",
+  "overall_approval_rating": 72
+}

@@ -88,9 +88,10 @@ const bgColorClasses: Record<Badge["color"], string> = {
 interface BadgeDisplayProps {
   tags: string[]
   size?: "sm" | "md" | "lg"
+  candidate?: { minister_appointment_count?: number }
 }
 
-export function BadgeDisplay({ tags, size = "md" }: BadgeDisplayProps) {
+export function BadgeDisplay({ tags, size = "md", candidate }: BadgeDisplayProps) {
   const badges = tags.map((tag) => badgeDefinitions[tag]).filter(Boolean)
 
   const sizeClasses = {
@@ -109,11 +110,12 @@ export function BadgeDisplay({ tags, size = "md" }: BadgeDisplayProps) {
     <div className="flex flex-wrap gap-2">
       {badges.map((badge) => {
         const Icon = iconMap[badge.icon] || Star
+        const showCount = badge.id === "purba-mantri" && candidate?.minister_appointment_count
         return (
           <div
             key={badge.id}
             className={cn(
-              "flex items-center rounded-full border font-medium transition-all hover:scale-105",
+              "flex items-center rounded-full border font-medium transition-all hover:scale-105 relative",
               colorClasses[badge.color],
               sizeClasses[size]
             )}
@@ -126,6 +128,11 @@ export function BadgeDisplay({ tags, size = "md" }: BadgeDisplayProps) {
                 <span className="text-[10px] opacity-70">{badge.name}</span>
               )}
             </div>
+            {showCount && (
+              <span className="ml-1 flex h-5 w-5 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
+                {candidate.minister_appointment_count}
+              </span>
+            )}
           </div>
         )
       })}
@@ -133,7 +140,7 @@ export function BadgeDisplay({ tags, size = "md" }: BadgeDisplayProps) {
   )
 }
 
-export function BadgeShowcase({ tags }: { tags: string[] }) {
+export function BadgeShowcase({ tags, candidate }: { tags: string[], candidate?: { minister_appointment_count?: number } }) {
   const [flippedIndex, setFlippedIndex] = React.useState<number | null>(null)
   const badges = tags.map((tag) => badgeDefinitions[tag]).filter(Boolean)
 
@@ -150,6 +157,7 @@ export function BadgeShowcase({ tags }: { tags: string[] }) {
       {badges.map((badge, index) => {
         const Icon = iconMap[badge.icon] || Star
         const isFlipped = flippedIndex === index
+        const showCount = badge.id === "purba-mantri" && candidate?.minister_appointment_count
 
         return (
           <div
@@ -181,10 +189,20 @@ export function BadgeShowcase({ tags }: { tags: string[] }) {
                 />
                 <div className="relative z-10 flex h-14 w-14 items-center justify-center rounded-full bg-background/80 shadow-lg">
                   <Icon size={28} className="transition-transform group-hover:scale-110" />
+                  {showCount && (
+                    <span className="absolute -right-1 -top-1 flex h-6 w-6 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground shadow-md">
+                      {candidate.minister_appointment_count}
+                    </span>
+                  )}
                 </div>
                 <span className="relative z-10 text-sm font-bold">
                   {badge.nameNepali || badge.name}
                 </span>
+                {showCount && (
+                  <span className="relative z-10 text-xs font-semibold opacity-90">
+                    {candidate.minister_appointment_count}× मन्त्री
+                  </span>
+                )}
                 <span className="relative z-10 text-xs opacity-80">{badge.name}</span>
               </div>
 

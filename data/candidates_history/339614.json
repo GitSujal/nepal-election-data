@@ -1,0 +1,95 @@
+{
+  "candidate_id": 339614,
+  "candidate_name": "घनश्याम खतीवडा",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "कोशी प्रदेश अध्यक्ष, नेकपा (एमाले)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा प्रदेश कमिटी अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339614.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कोशी प्रदेश अध्यक्षमा निर्वाचित",
+      "date": "२०८०-०६-१५",
+      "details": "नेकपा (एमाले) को प्रथम कोशी प्रदेश अधिवेशनबाट विनोद ढकाललाई ८२ मतान्तरले पराजित गर्दै खतीवडा अध्यक्षमा निर्वाचित भए।",
+      "link_to_source": "https://www.setopati.com/politics/312933",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा झिनो पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका खतीवडा नेपाली कांग्रेसका डिग बहादुर लिम्बुसँग ४३० मतान्तरले पराजित भए।",
+      "link_to_source": "https://kathmandupost.com/province-1/2022/11/26/congress-limbu-secures-hor-seat-from-morang-1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यको रूपमा शपथ",
+      "date": "२०७४-१२-०२",
+      "details": "२०७४ को निर्वाचनमा विजयी भएपछि खतीवडाले संघीय संसदको सदस्यका रूपमा ५ वर्ष सेवा गरे।",
+      "link_to_source": "https://wikipedia.org/wiki/Ghanashyam_Khatiwada",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "खतीवडाले ३७,५२४ मत प्राप्त गरी नेपाली कांग्रेसका डिग बहादुर लिम्बुलाई ६,०८८ मतान्तरले पराजित गरेका थिए।",
+      "link_to_source": "https://nepaltimes.com/2017/12/09/morang-1-result/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लेटाङ गाविस अध्यक्ष",
+      "date": "२०५४-०३-१५",
+      "details": "स्थानीय निकायको निर्वाचनमा मोरङको लेटाङ गाउँ विकास समितिको अध्यक्षमा निर्वाचित भई स्थानीय विकासको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://khabarhub.com/2023/10/524300/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जिल्ला कमिटी सदस्य",
+      "date": "२०४४-०१-०१",
+      "details": "खतीवडा २०४४ सालमा तत्कालीन नेकपा (एमाले) को मोरङ जिल्ला कमिटी सदस्यको रूपमा चुनिएका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate/339614",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३३-०१-०१",
+      "details": "खतीवडा २०३३ सालदेखि विद्यार्थी राजनीति मार्फत कम्युनिष्ट आन्दोलनमा सक्रिय सहभागी भएका हुन्।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate/339614",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "घनश्याम खतीवडा मोरङको राजनीतिमा एक अनुभवी र ग्रासरुट नेताका रूपमा चिनिन्छन्। उनले २०७४ को निर्वाचनमा मोरङ-१ बाट प्रभावशाली जित हासिल गरे पनि २०७९ मा झिनो मतान्तरले पराजित हुन पुगे। नेकपा (एमाले) को कोशी प्रदेश अध्यक्षमा निर्वाचित हुनुले उनलाई पार्टीभित्र झन् शक्तिशाली बनाएको छ र उनी अध्यक्ष केपी शर्मा ओलीका निकट मानिन्छन्। स्रोतमा उल्लेखित 'वगुवा' (Vaguwa) ट्यागले उनको निर्वाचन क्षेत्र परिवर्तनलाई भन्दा पनि स्थानीय तह (लेटाङ गाविस अध्यक्ष) बाट केन्द्र र अहिले प्रदेशको उच्च तहमा भएको नेतृत्वको फेरबदललाई संकेत गरेको देखिन्छ। मोरङ-१ मा डिग बहादुर लिम्बुसँगको उनको चुनावी प्रतिस्पर्धा निकै रोचक र कडा रहने गरेको छ। उनको मुख्य शक्ति नै स्थानीय जनतासँगको प्रत्यक्ष सम्पर्क र लेटाङ क्षेत्रमा रहेको उनको बलियो आधार हो।",
+  "overall_approval_rating": 78
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339837,
+  "candidate_name": "चन्द्र प्रसाद शाही",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rastriya_Janamorcha_logo.png/220px-Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "जिल्ला स्तरका नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339837.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम (पूर्वी भाग)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम (पूर्वी भाग)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "रुकुम पूर्व क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि राष्ट्रिय जनमोर्चाको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "रुकुम पूर्वबाट पहिलो पटक प्रतिनिधि सभा सदस्यका लागि चुनाव लडेका थिए, जहाँ उनले ५२ मत मात्र प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/election-result-nepal-2074",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता विरुद्धको आन्दोलनमा सक्रियता",
+      "date": "२०७२-०६-०३",
+      "details": "राष्ट्रिय जनमोर्चाको नीति अनुसार संघीयता विरुद्ध र एकात्मक राज्य व्यवस्थाको पक्षमा स्थानीय स्तरमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://www.wikipedia.org/wiki/Rastriya_Janamorcha",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "चन्द्र प्रसाद शाही रुकुम (पूर्वी भाग) मा राष्ट्रिय जनमोर्चाका एक निष्ठावान तर चुनावी रूपमा कमजोर उम्मेदवार हुन्। उनले २०७४ र २०७९ का दुवै आम निर्वाचनमा यस क्षेत्रबाट प्रतिस्पर्धा गरे तापनि उनको जनमत निकै न्यून रहेको देखिन्छ। २०७४ मा केवल ५२ मत प्राप्त गरेका उनले २०७९ मा पनि उल्लेख्य सुधार गर्न सकेनन्। उनलाई 'वागुवा' (vaguwa) उम्मेदवारको रूपमा हेरिनुको मुख्य कारण उनको स्थिर चुनावी आधार नहुनु र पार्टीको तर्फबाट सांकेतिक उपस्थितिका लागि मात्र उम्मेदवार बन्नु हुन सक्छ। माओवादीको गढ मानिने रुकुम पूर्वमा उनले संघीयता विरोधी एजेन्डा लिएर हिँड्नु चुनौतीपूर्ण देखिएको छ। उनको राजनीतिक प्रभाव जिल्लाको सीमित सांगठनिक संरचनामा मात्र सीमित छ।",
+  "overall_approval_rating": 35
+}

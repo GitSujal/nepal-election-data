@@ -1,0 +1,135 @@
+{
+  "candidate_id": 340916,
+  "candidate_name": "सोम प्रसाद पाण्डेय",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_of_CPN_%28Unified_Socialist%29.svg/1024px-Logo_of_CPN_%28Unified_Socialist%29.svg.png",
+  "candidates_current_position": "पूर्व उद्योग मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340916.jpg",
+  "election_history": [
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "पाल्पा-२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "पाल्पा-२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "पाल्पा-२",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "पाल्पा-२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "पाल्पा-२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "पाल्पा-२",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली कम्युनिष्ट पार्टीको तर्फबाट उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-१५",
+      "details": "पाल्पा क्षेत्र नम्बर २ बाट आगामी निर्वाचनका लागि उनले नेपाली कम्युनिष्ट पार्टी (विभिन्न घटकहरूको एकता पछि बनेको नयाँ दल) बाट आफ्नो चुनावी अभियान सुरु गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHss50SvV5fcj3b2CnNMEPX2aqf0iXhTev9qmxF5yULkVs8XMLiiOmKRBEsBZKfcheRXIBkmkMa0EsZaSxZwAg5XESFr2F93rPfOCFaj9J-QppkkvFn4SwN9oS_NDYoDASXPsuP-UUm_jI1wl-sy9ddlSfqpsUGstYQAY0EcuKq23qGX8bLq1Pqdkan9EymvCKF55Ew-cWqFGl6hLNH6D5qDDvBJ6Sm8ONYoOI4nxoBYQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सिद्धबाबा सुरुङमार्गका लागि बजेट सुनिश्चितताको दाबी",
+      "date": "२०८२-१०-१६",
+      "details": "उनले पाल्पा र बुटवल जोड्ने सिद्धबाबा सुरुङमार्ग निर्माणका लागि १० अर्ब बजेट विनियोजन गर्न तत्कालीन अर्थमन्त्रीलाई अनशन बस्ने चेतावनी दिएर बजेट पारेको दाबी गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa4mCxnjEEiVg0XCjzJNNiDqrwc9Ik2ABFrkzn0wanO5gMvNApt0vkZ31hD39zc08km589KhvpJBaTVhBhsXO69dY8-9hCa4yYCn7OhNfoADul8lxj2Ws5JpEKqaZW0wUSyR8jMsOj-PkDnOkmM2oNcgU4yCwNy1VpEIlong-Xcs7qqqfoBrBmBkwwHY6MHAF2rKl1H2Kp38gzEQABNfg44XL_1Wos1Af7reU=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "पाल्पा-२ बाट सत्ता गठबन्धनको साझा उम्मेदवार बनेका पाण्डेय नेकपा एमालेका ठाकुर गैरेसँग पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpKLbptDhDucvDfjtRPHDdB80cBlZ5_s5DWgEKcV-p7_60g64WMMs45sL6iuA6VCAVvnRR6zxnBJJn3A3yO4O827IHK952qXPw8U8f1Kg6j-ka1c2KGQzmZEERnRNjZ7NB17hFcxfqQcd6VUfNpUTRWE-GzFtLPqloX7tCvRREP8aSrWEkHG4UWhSJYg-j",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सर्वोच्च अदालतको आदेशद्वारा पार्टी आबद्धता सदर",
+      "date": "२०७८-०५-२२",
+      "details": "निर्वाचन आयोगले एकीकृत समाजवादीमा सनाखत गर्न इन्कार गरेपछि पाण्डेय सर्वोच्च गएका थिए, जहाँ अदालतले उनलाई नयाँ पार्टी रोज्न पाउने अधिकार सुरक्षित गरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Dq-wErltDfUdDv74TJfSfAJLVmymH8_eGEsRqRvbZbyHeX6j_H-KTAqgIZkJFTWuLrUlA4mnl0KKt3YZ8f2wbNgzH2xNdry_iw26ZRerMUM6uaJXyCibxNvAqujYQPcsYMfNvFX_brEl7qep8Fg35ye-6fAY8TPKZ0fxQvZlL-tzwRcZ",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा एमाले विभाजन र एकीकृत समाजवादीमा प्रवेश",
+      "date": "२०७८-०५-०९",
+      "details": "लामो समय एमालेमा रहेका पाण्डेय माधव कुमार नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) गठन हुँदा उक्त पार्टीमा सामेल भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhbK-skMyKv8pHFCvAuPmAUMHVjEptfvOKz6196Re8aFL_IkHm2Q5i6dR4fv2z1xaZZjIR3UL2mjlscH7faChrplu74Uoxd3xKY8tt3kT8L-wDrpyo4SC6k1ISg-0J39Ij98MWDzv7l_0E",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट नेकपा एमालेका उम्मेदवार पाण्डेयले ३४,८९९ मत ल्याई पाल्पा-२ बाट विजयी भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSrESFkydJHoiBM-vej4ANFxA2zMKvQ6xaY_FV9C2nj4w7SMCuby5Qj6jesJ4UH0DZ8g6GgJVqtBeMUYbALD73tyoW52bP_pZYtLf6wm2tPprUJDSPZ7ffxprE-qzuzZmf89g_u4ga93tD9NS5a5Df6W5t_BwyVctr",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उद्योग मन्त्रीमा नियुक्ति",
+      "date": "२०७२-०६-२५",
+      "details": "केपी शर्मा ओली नेतृत्वको पहिलो सरकारमा पाण्डेयले उद्योग मन्त्रालयको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhbK-skMyKv8pHFCvAuPmAUMHVjEptfvOKz6196Re8aFL_IkHm2Q5i6dR4fv2z1xaZZjIR3UL2mjlscH7faChrplu74Uoxd3xKY8tt3kT8L-wDrpyo4SC6k1ISg-0J39Ij98MWDzv7l_0E",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०७० मा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा पाल्पा-२ बाट निर्वाचित भई संविधान निर्माण प्रक्रियामा सहभागी भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY-nBDFwDGtT1nU_BrxzDO3FA5kHZH8QHYyEk3wt5B6SM0dRZ9B3pCZbN7RxtnMrhQ7PZX0T2D86IE9iJB1allPWecbQHWeAaco5eBok48XFJhgt1k-uFBF0p4WvunRn3DPg==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०५६ मा विजयी",
+      "date": "२०५६-०१-३०",
+      "details": "नेकपा एमालेको तर्फबाट पाल्पा २ मा दोस्रो पटक निर्वाचित भई संसदीय राजनीतिमा सक्रिय भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY-nBDFwDGtT1nU_BrxzDO3FA5kHZH8QHYyEk3wt5B6SM0dRZ9B3pCZbN7RxtnMrhQ7PZX0T2D86IE9iJB1allPWecbQHWeAaco5eBok48XFJhgt1k-uFBF0p4WvunRn3DPg==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सोम प्रसाद पाण्डेय पाल्पाको राजनीतिमा एक अनुभवी र प्रभावशाली नाम हुन्। उनले २०५१ सालदेखि पाल्पा-२ बाट पटक-पटक निर्वाचन जितेर आफ्नो पकड बलियो बनाएका थिए। पूर्व उद्योग मन्त्रीको रूपमा उनले जिल्लाको पूर्वाधार विकास, विशेष गरी विवादास्पद तथा जोखिमपूर्ण सिद्धबाबा सडक खण्डमा सुरुङमार्ग निर्माणको पहलमा मुख्य भूमिका खेलेको श्रेय लिने गरेका छन्। लामो समय नेकपा एमालेमा रहेका पाण्डेय पार्टी विभाजनपछि माधव कुमार नेपालको पक्षमा उभिएका थिए, जसले उनको चुनावी आधारमा केही धक्का पुर्याएको देखिन्छ। २०७९ को निर्वाचनमा आफ्नै पूर्व सहयोगी ठाकुर गैरेसँगको पराजयले उनको राजनीतिक यात्रामा ठूलो चुनौती थपेको छ। हाल उनी एकीकृत समाजवादी लगायतका दलहरू मिलेर बनेको नयाँ राजनीतिक संरचना (नेपाली कम्युनिष्ट पार्टी) मार्फत पुनरागमनको प्रयासमा छन्। उनको शक्ति जिल्लाको विकासमा गरेको योगदान र पाका नेताको छविमा अडिएको छ, तर युवा पुस्तामा एमालेको प्रभाव र पार्टी परिवर्तनका कारण उनीमाथि केही नैतिक प्रश्नहरू पनि उठ्ने गरेका छन्।",
+  "overall_approval_rating": 72
+}

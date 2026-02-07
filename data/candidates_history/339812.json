@@ -1,0 +1,87 @@
+{
+  "candidate_id": 339812,
+  "candidate_name": "दिनेश कुमार यादव",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "पूर्व जिल्ला सभापति, सप्तरी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339812.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "निर्धारित नभएको",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "निर्धारित नभएको",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०९",
+      "details": "सप्तरी क्षेत्र नं. ३ बाट २६,१६६ मत प्राप्त गरी विजयी। उनले नेकपा एमालेका ताराकान्त चौधरीलाई पराजित गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMvyg_6607dLN8uMqEfn311ZD3h3GBO-cs23X7XJogPyonj1Gs9SDWxUjp2dxMta3mKg9xUZzRb7MMwN5AJFMNwzJDqclDo_RcseREkKwyTpzdSiOxdZm7lHRB6lo62ynRQiBdk3hTDNTyU_ZOFm_uz80AwK66tTedCs-U0AiZAD1nIjSPpdtgyMSLKH_Uv8E=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यको रूपमा शपथ",
+      "date": "२०७९-०९-०७",
+      "details": "दोस्रो संघीय संसदको सदस्यको रूपमा शपथ ग्रहण गरी कार्यभार सम्हालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Nvz13t8v0RrfiMIH81qO0z7RL63wTtF9pSLYF5k0gTahD4HuE8O_xri6PyplpyOweDh7BE65NkbW2F2gP1VqH948vwGrn0MwtWVG1o8QDCx2gCtswxNLjpif21DsIyuWONHrnJKQjFi_oBH-7wTPQs-kr9smDhzHFXMe7I4bBGU0mhEUnXxZvGcUsQWIxERw0rcrbwWNG2fCFwxf4_mEiQwiIgHch1_fnuEWd4iIRn3n8MQOpFabjXOlw0Vjh5BPBKYNoC684Wk4mKn4F96SgQbebdDDzu2o",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "सप्तरी क्षेत्र नं. ३ बाट १९,४०१ मत प्राप्त गरे पनि तत्कालीन राजपाका चन्द्रकान्त चौधरीसँग पराजित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOl8_TTzwoctkW7nKFqtwoUewrF31GT8fYsCFpqWYjhgTCOAkDMfTIVMvwE5k9lWV3Lwjt3yykm1gjK9Vuiwr7tZH-T2tYxyU43O81WjKYo4gvfXZYuK4FyVUqOhZwm12TVkqUm7n5E9D4CY93xx28b5fPQnpu0nF0apPAF36T7hxxOckVF4785M-x",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सप्तरी जिल्ला सभापतिमा पुनः निर्वाचित",
+      "date": "२०७२-११-१२",
+      "details": "नेपाली कांग्रेस सप्तरीको जिल्ला अधिवेशनबाट दोस्रो कार्यकालका लागि सभापति निर्वाचित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPq0wZWrtaejTfIZ42iRRjopdb0fhAW7Nt5gpSWcG6u3ec3yCLE1sElnAlGmj1ImqSX_ZZrPSt0naNHrVd_JZsiXERVMe9T9Mpg-AGZ1FkqidlBtB8w2vUWXpqDBhMqWhEfnFf3BlIXlh4IgAdribpt4FROuBstuVl31Obl7ZtXjU=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचनमा सहभागिता",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा सप्तरीबाट उम्मेदवारी दिए पनि पराजित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0jcpctRMNGb_YfiHaRJ6L6jSTvRQ-KRfhYEkvZormxuICvGiP4kX647WpXxtFupmMDYm_fm_trpg4fbiPfL-R8DVOfzui4yO-BSoijTVPjM92Ut65xg3gAU6n8PFq0CeDmi3jvd5CIe0u23caos4-XDeryqTLmp4=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दिनेश कुमार यादव सप्तरीका नेपाली कांग्रेसका प्रभावशाली र पुराना नेता हुन्। उनले दुई पटकसम्म नेपाली कांग्रेस सप्तरीको जिल्ला सभापतिको रूपमा नेतृत्व सम्हालेका छन्, जसले उनको बलियो स्थानीय पकड र संगठनात्मक क्षमतालाई दर्शाउँछ। २०७४ को प्रतिनिधिसभा निर्वाचनमा पराजित भए पनि, उनले २०७९ को निर्वाचनमा नेकपा एमालेका ताराकान्त चौधरीलाई ३,८६६ मतान्तरले पराजित गर्दै सफल पुनरागमन गरे। उनी नेपाली कांग्रेसभित्र शेरबहादुर देउवा पक्षका विश्वासपात्र मानिन्छन्। सप्तरी ३ मा उनको विजयले मधेस प्रदेशमा कांग्रेसको प्रभावलाई थप मजबुत बनाएको छ। निष्ठावान राजनीतिक यात्रा र जिल्लास्तरको नेतृत्वका कारण उनलाई स्थानीय जनताले अनुभवी नेताका रूपमा स्वीकार गरेका छन्।",
+  "overall_approval_rating": 78
+}

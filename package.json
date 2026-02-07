@@ -7,7 +7,7 @@
     "run-dbt-models": "cd election && uv run dbt build && cd ..",
     "prepare-data": "uv run export_to_json.py",
     "all-data-works": "npm run load-raw-data && npm run run-dbt-models && npm run prepare-data",
-    "build": "npm run prepare-data && next build",
+    "build": "npm run all-data-works && next build",
     "dev": "npm run all-data-works && next dev",
     "lint": "eslint .",
     "start": "next start",

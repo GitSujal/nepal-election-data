@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339785,
+  "candidate_name": "हरि राज अधिकारी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cpn_maoist_logo.png/200px-Cpn_maoist_logo.png",
+  "candidates_current_position": "पूर्व प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339785.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "N/A",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा टिकट वितरण र गठबन्धन",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को निर्वाचनमा गोरखा क्षेत्र नं १ नेपाली कांग्रेसको भागमा परेपछि उनी प्रत्यक्षतर्फको उम्मेदवार बन्न पाएनन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1199345",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट गोरखा १ मा २९,८६० मत प्राप्त गरी विजयी भएका थिए। उनले नेपाली कांग्रेसका उम्मेदवार चिनकाजी श्रेष्ठलाई पराजित गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसदीय गतिविधिमा सक्रियता",
+      "date": "२०७६-०५-१०",
+      "details": "प्रतिनिधि सभा सदस्यको रूपमा गोरखाका विकास निर्माण र राष्ट्रिय निकुञ्जका समस्याबारे संसदमा आवाज उठाएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2019/08/27/156687985448375824.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र द्वन्द्व र भूमिगत जीवन",
+      "date": "२०५२-११-०१",
+      "details": "माओवादी जनयुद्धको सुरुवातदेखि नै सहभागी भई लामो समय भूमिगत राजनीतिमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://cpnmaoistcentre.org.np/leader-profile",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरि राज अधिकारी 'कुमार' माओवादी केन्द्रका एक पुराना र प्रभावशाली नेता हुन्। २०७४ को प्रतिनिधि सभा निर्वाचनमा गोरखा १ बाट ठूलो मतान्तरले विजयी भएर उनले आफ्नो पकड प्रमाणित गरेका थिए। उनी विशेष गरी गोरखाका उत्तरी भेगका विकास र जलविद्युत आयोजनाका सवालमा सक्रिय रहने गरेका छन्। २०७९ को निर्वाचनमा चुनावी गठबन्धनका कारण उक्त क्षेत्र नेपाली कांग्रेसको भागमा परेपछि उनी प्रत्यक्ष चुनावी प्रतिस्पर्धाबाट बाहिरिनु परेको देखिन्छ। पार्टी भित्र उनको छवि एक निष्ठावान र भुईँतहका कार्यकर्तासँग जोडिएका नेताको रूपमा रहेको छ। उनी 'पर्यटक' उम्मेदवार नभई स्थानीय स्तरबाटै राजनीतिमा उदाएका व्यक्ति हुन्।",
+  "overall_approval_rating": 72
+}

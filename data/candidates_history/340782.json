@@ -1,0 +1,175 @@
+{
+  "candidate_id": 340782,
+  "candidate_name": "विष्‍णु प्रसाद पौडेल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व उपप्रधानमन्त्री तथा अर्थमन्त्री",
+  "candidates_current_position_in_party": "उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340782.jpg",
+  "election_history": [
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उपप्रधानमन्त्री तथा अर्थमन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा बनेको नयाँ सरकारमा एमालेको तर्फबाट उपप्रधानमन्त्री र अर्थमन्त्रीको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://mof.gov.np/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रचण्ड सरकारमा अर्थमन्त्रीको कार्यभार",
+      "date": "२०७९-०९-११",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा एमालेबाट उपप्रधानमन्त्री र अर्थमन्त्रीका रूपमा सहभागी भएका।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/12/1238426",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०८",
+      "details": "रुपन्देही क्षेत्र नम्बर २ बाट २७,१६५ मतका साथ विजयी। राष्ट्रिय स्वतन्त्र पार्टीका गणेश पौडेललाई झिनो मतान्तरले पराजित गरेका।",
+      "link_to_source": "https://setopati.com/election-2079/287955",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी उपाध्यक्षमा निर्वाचित",
+      "date": "२०७८-०८-१४",
+      "details": "नेकपा एमालेको १०औं महाधिवेशनबाट भारी मतका साथ उपाध्यक्ष पदमा निर्वाचित भएका।",
+      "link_to_source": "https://www.setopati.com/politics/255530",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ओली सरकारमा अर्थमन्त्री",
+      "date": "२०७७-०६-२९",
+      "details": "युवराज खतिवडाको बहिर्गमनपछि ओली सरकारमा पुनः अर्थमन्त्रीको रूपमा नियुक्त।",
+      "link_to_source": "https://mof.gov.np/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ललिता निवास जग्गा प्रकरणमा विवाद",
+      "date": "२०७६-१०-२२",
+      "details": "बालुवाटारस्थित ललिता निवासको सरकारी जग्गा छोरा नवीन पौडेलको नाममा रहेको पाइएपछि ठूलो राजनीतिक विवादमा परेका।",
+      "link_to_source": "https://www.onlinekhabar.com/2020/02/834898",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपाको महासचिव मनोनीत",
+      "date": "२०७५-०२-०३",
+      "details": "एमाले र माओवादी केन्द्रको एकीकरणपछि बनेको नेपाल कम्युनिष्ट पार्टी (नेकपा) को शक्तिशाली महासचिव पदको जिम्मेवारी पाएका।",
+      "link_to_source": "https://wikipedia.org/wiki/Bishnu_Prasad_Paudel",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजय",
+      "date": "२०७४-०८-२२",
+      "details": "रुपन्देही २ बाट ४४,००९ मत प्राप्त गरी भारी मतान्तरले विजयी।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो पटक अर्थमन्त्रीमा नियुक्त",
+      "date": "२०७२-०७-१९",
+      "details": "केपी शर्मा ओलीको पहिलो कार्यकालमा अर्थमन्त्री बनेर भूकम्पपछिको बजेट कार्यान्वयनमा सक्रिय भूमिका खेलेका।",
+      "link_to_source": "https://mof.gov.np/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बाबुराम भट्टराईलाई पराजित गरेको चुनाव",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा रुपन्देही ४ बाट तत्कालीन एमाओवादीका प्रभावशाली नेता बाबुराम भट्टराईलाई पराजित गरेका।",
+      "link_to_source": "https://wikipedia.org/wiki/Bishnu_Prasad_Paudel",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रक्षामन्त्रीको जिम्मेवारी",
+      "date": "२०६७-१०-२३",
+      "details": "झलनाथ खनालको प्रधानमन्त्रीकालमा रक्षामन्त्रीका रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://wikipedia.org/wiki/Bishnu_Prasad_Paudel",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जलस्रोत मन्त्रीमा नियुक्ति",
+      "date": "२०६५-०५-०३",
+      "details": "प्रचण्डको पहिलो मन्त्रिपरिषद्मा जलस्रोत मन्त्रीका रूपमा सामेल भएका।",
+      "link_to_source": "https://wikipedia.org/wiki/Bishnu_Prasad_Paudel",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा, खेलकुद तथा संस्कृति मन्त्री",
+      "date": "२०५३-११-२९",
+      "details": "लोकेन्द्र बहादुर चन्दको मन्त्रिपरिषद्मा पहिलो पटक मन्त्री बनेका।",
+      "link_to_source": "https://wikipedia.org/wiki/Bishnu_Prasad_Paudel",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भैरहवा जेल विद्रोह",
+      "date": "२०३८-०३-१५",
+      "details": "पञ्चायतकालमा राजनीतिक बन्दीका रूपमा जेलमा रहँदा विद्रोह गरी जेल ब्रेक गर्न सफल भएको चर्चित घटना।",
+      "link_to_source": "https://ratemyneta.com/bishnu-prasad-paudel",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विष्णु प्रसाद पौडेल नेकपा (एमाले) का एक चतुर र प्रभावशाली संगठक मानिन्छन्। उनले पाल्पाबाट राजनीतिक यात्रा सुरु गरे तापनि पछि रुपन्देहीलाई आफ्नो मुख्य कार्यक्षेत्र बनाएका छन्, जसका कारण उनलाई कहिलेकाहीँ 'भगुवा' उम्मेदवारको रूपमा आलोचना गरिने भए तापनि उनले रुपन्देहीमा आफ्नो बलियो विरासत कायम गरेका छन्। उनी एमालेभित्र केपी शर्मा ओलीका विश्वासपात्र र 'संकटमोचक' को रूपमा चिनिन्छन्। अर्थतन्त्र र बजेट निर्माणमा उनको लामो अनुभव भए तापनि ललिता निवास (बालुवाटार) जग्गा प्रकरणले उनको निष्ठामाथि गम्भीर प्रश्न उठाएको छ। २०७९ को चुनावमा राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवारसँगको झिनो मतान्तरले उनको लोकप्रियतामा ह्रास आएको संकेत गर्दछ। पार्टी एकीकरण र फुटको समयमा उनले निर्वाह गरेको भूमिकाले उनलाई राष्ट्रिय राजनीतिमा सधैं निर्णायक स्थानमा राखेको छ।",
+  "overall_approval_rating": 75
+}

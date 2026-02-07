@@ -1,0 +1,103 @@
+{
+  "candidate_id": 342655,
+  "candidate_name": "संजय कुमार गौतम",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342655.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "बबई (जब्दी) पुल निर्माणका लागि आमरण अनसन",
+      "date": "२०८०-०१-३०",
+      "details": "बर्दियाको बबई नदीमा रहेको क्षतिग्रस्त जब्दी पुलको पुन:निर्माणका लागि सरकारलाई दबाब दिन उनले घटनास्थलमै आमरण अनसन सुरु गरेका थिए ।",
+      "link_to_source": "https://www.ratopati.com/story/344079/2023/5/13/sanjay-kumar-gautam",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "बर्दिया क्षेत्र नं. १ बाट ३०,६११ मत प्राप्त गर्दै नेकपा एमालेका लक्ष्मणराज ज्ञवालीलाई पराजित गरी निर्वाचित भएका थिए ।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/342655",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली कांग्रेसको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली कांग्रेसको १४ औं महाधिवेशनबाट गौतम पार्टीको केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भएका थिए ।",
+      "link_to_source": "https://nepsebajar.com/sanjay-kumar-gautam-342655/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा ऐतिहासिक जित",
+      "date": "२०७४-०८-२१",
+      "details": "बर्दिया १ मा एमालेका तत्कालीन प्रभावशाली नेता वामदेव गौतमलाई ७५८ मतको झिनो अन्तरले पराजित गर्दै राष्ट्रिय चर्चा कमाएका थिए ।",
+      "link_to_source": "https://kathmandupost.com/national/2017/12/10/bam-dev-gautam-loses-to-ncs-sanjaya-in-bardiya-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिंचाई मन्त्रीमा नियुक्ति",
+      "date": "२०७४-०४-११",
+      "details": "शेरबहादुर देउवा नेतृत्वको मन्त्रिपरिषद्मा सिंचाई मन्त्रीको रूपमा करिब ७ महिना जिम्मेवारी सम्हालेका थिए ।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/342655",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचन २०७० मा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "बर्दिया क्षेत्र नं. १ बाट निर्वाचित भई संविधान निर्माण प्रक्रियामा महत्वपूर्ण भूमिका निर्वाह गरेका थिए ।",
+      "link_to_source": "https://myrepublica.nagariknetwork.com/news/32158/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बर्दिया जिल्ला सभापतिको रूपमा नेतृत्व",
+      "date": "२०४९-०१-०१",
+      "details": "गौतमले करिब १७ वर्षसम्म नेपाली कांग्रेस बर्दियाको जिल्ला सभापतिको रूपमा संगठन विस्तारमा काम गरेका थिए ।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%9E%E0%A5%8D%E0%A4%9C%E0%A4%AF%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%97%E0%A5%81%E0%A4%A4%E0%A4%AE",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "संजय कुमार गौतम नेपाली कांग्रेसका एक प्रभावशाली र स्थानीय स्तरमा निकै लोकप्रिय नेता हुन् । उनले बर्दिया क्षेत्र नं. १ बाट लगातार तीन पटक (२०७०, २०७४ र २०७९) निर्वाचन जितेर आफ्नो पकड प्रमाणित गरेका छन् । विशेष गरी २०७४ को निर्वाचनमा एमालेका हेभीवेट नेता वामदेव गौतमलाई पराजित गरेपछि उनको राजनीतिक उचाई बढेको थियो । उनले सिंचाई मन्त्रीको रूपमा काम गर्दा जिल्लाको विकासमा विशेष चासो देखाएका थिए । स्थानीय सरोकारका विषयमा उनी निकै सक्रिय रहन्छन्, जसको उदाहरण क्षतिग्रस्त जब्दी पुल निर्माणका लागि उनले गरेको आमरण अनसन हो । बर्दियामा उनी एक स्वच्छ छवि भएका र जनतासँग नजिक रहेर काम गर्ने नेताको रूपमा चिनिन्छन् ।",
+  "overall_approval_rating": 88
+}

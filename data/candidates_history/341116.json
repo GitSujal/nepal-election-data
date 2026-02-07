@@ -1,0 +1,111 @@
+{
+  "candidate_id": 341116,
+  "candidate_name": "देवेन्द्र पौडेल",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-Maoist-Centre-Logo.svg/1024px-CPN-Maoist-Centre-Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य, पूर्व शिक्षा, विज्ञान तथा प्रविधि मन्त्री",
+  "candidates_current_position_in_party": "स्थायी समिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341116.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बागलुङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बागलुङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)(एकल चुनाव चिन्ह)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नवलपरासीबाट उम्मेदवारी",
+      "date": "२०८१-१०-१५",
+      "details": "आफ्नो बलियो आधार क्षेत्र बागलुङ छाडेर नवलपरासी (बर्दघाट सुस्ता पश्चिम) बाट प्रतिनिधि सभाको लागि उम्मेदवारी दिएका छन्, जसलाई 'पर्यटक उम्मेदवार' को संज्ञा दिइएको छ।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/01/1256345",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ निर्वाचनमा पुनः विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "बागलुङ क्षेत्र नम्बर २ बाट २४,७९४ मत प्राप्त गरी दोस्रो पटक प्रतिनिधि सभा सदस्यमा निर्वाचित भएका हुन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%AA%E0%A5%8C%E0%A4%A1%E0%A5%87%E0%A4%B2",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शिक्षा मन्त्रीमा नियुक्ति",
+      "date": "२०७८-०६-२२",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा शिक्षा, विज्ञान तथा प्रविधि मन्त्रीको रुपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट बागलुङ २ बाट २८,८२७ मत ल्याएर पहिलो पटक संघीय संसदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://knowyourparliamentarian.com/parliamentarian/devendra-poudel",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी केन्द्रमा फिर्ता",
+      "date": "२०७४-०५-०१",
+      "details": "बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी परित्याग गरी पुनः नेकपा (माओवादी केन्द्र) मा फर्किएका थिए।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीमा आबद्ध",
+      "date": "२०७२-०६-०९",
+      "details": "संविधान घोषणा लगत्तै डा. बाबुराम भट्टराईसँगै माओवादी छाडेर नयाँ शक्ति पार्टी निर्माणमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रधानमन्त्रीको राजनीतिक सल्लाहकार",
+      "date": "२०६८-०५-११",
+      "details": "डा. बाबुराम भट्टराई प्रधानमन्त्री हुँदा उनको प्रमुख राजनीतिक सल्लाहकारको रुपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र विद्रोहमा सहभागिता",
+      "date": "२०५१-११-०१",
+      "details": "नेकपा (माओवादी) ले सुरु गरेको जनयुद्धमा सुरु देखि नै भूमिगत भएर नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जेल जीवन",
+      "date": "२०४२-०१-०१",
+      "details": "विद्यार्थी आन्दोलनको क्रममा तत्कालीन सरकारले उनलाई १८ महिना धनगढी जेलमा बन्दी बनाएको थियो।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३६-०१-०१",
+      "details": "२०३६ सालको विद्यार्थी आन्दोलनबाट राजनीतिक यात्रा सुरु गरी अखिल छैठौंको जिल्ला र केन्द्रको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://edupatra.com/news/11314",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "देवेन्द्र पौडेल नेकपा (माओवादी केन्द्र) का एक बौद्धिक र प्रभावशाली नेता हुन्। बागलुङ क्षेत्र नम्बर २ बाट लगातार दुई पटक (२०७४ र २०७९) भारी मतान्तरले विजयी भएका पौडेलको पकड आफ्नो गृहजिल्लामा बलियो मानिन्छ। तथापि, यस पटक उनले आफ्नो सुरक्षित क्षेत्र छाडेर नवलपरासी (बर्दघाट सुस्ता पश्चिम) रोज्नुलाई 'पर्यटक उम्मेदवार' को रुपमा आलोचना गरिएको छ। उनी पूर्व शिक्षा मन्त्रीको रुपमा आफ्नो कार्यकालमा राष्ट्रपति शैक्षिक सुधार कार्यक्रम जस्ता योजना कार्यान्वयनका लागि चिनिन्छन्। डा. बाबुराम भट्टराईसँग केही समय नयाँ शक्ति पार्टीमा गएर पुनः माओवादीमा फर्किनुले उनको राजनीतिक अस्थिरतालाई संकेत गरे पनि पार्टीभित्र उनको कद उच्च छ। नवलपरासीमा उनको विजय स्थानीय समीकरण र गठबन्धनको मत स्थानान्तरणमा निर्भर देखिन्छ।",
+  "overall_approval_rating": 72
+}

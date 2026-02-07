@@ -1,0 +1,119 @@
+{
+  "candidate_id": 341532,
+  "candidate_name": "अजय कुमार चौरसिया",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "कानुन, न्याय तथा संसदीय मामिला मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा तराई-मधेश समन्वय विभाग प्रमुख",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341532.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कानुन मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा नेपाली काँग्रेसको तर्फबाट कानुन, न्याय तथा संसदीय मामिला मन्त्री नियुक्त भएका हुन्।",
+      "link_to_source": "https://risingnepaldaily.com/news/51523",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "न्याय परिषदमा उजुरी",
+      "date": "२०८१-०३-११",
+      "details": "मोहम्मद अफ्ताब आलमलाई सफाइ दिन न्यायाधीशहरूमाथि दबाब दिएको आरोपमा उनीविरुद्ध न्याय परिषदमा उजुरी परेको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2024/06/25/complaint-against-law-minister-chaurasia-in-justice-council",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "पर्सा क्षेत्र नम्बर २ बाट २८,४५१ मत प्राप्त गरी जनता समाजवादी पार्टीका उम्मेदवारलाई पराजित गर्दै विजयी।",
+      "link_to_source": "https://lokaantar.com/news/2022/11/23/ajay-kumar-chaurasiya-gets-elected-from-parsa-2",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टीको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली काँग्रेसको १४ औँ महाधिवेशनबाट केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भएका हुन्।",
+      "link_to_source": "https://nepsebajar.com/ajay-kumar-chaurasia-election-result-parsa",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "पर्सा २ बाट चुनाव लडेका उनी तत्कालीन संघीय समाजवादी फोरमका उम्मेदवार विमल प्रसाद श्रीवास्तवसँग पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/ajay-kumar-chaurasia-election-result-parsa",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनआन्दोलन २ मा सक्रियता",
+      "date": "२०६२-१२-२४",
+      "details": "लोकतान्त्रिक आन्दोलनमा सहभागी हुँदा पटक-पटक पक्राउ परी करिब ४ महिना जेल जीवन बिताएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Ajay_Chaurasiya",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सहायक मन्त्रीमा नियुक्ति",
+      "date": "२०५८-०४-१०",
+      "details": "शेरबहादुर देउवाको मन्त्रिमण्डलमा संघीय मामिला तथा स्थानीय विकास सहायक मन्त्रीको रूपमा जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Ajay_Chaurasiya",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेसमा फिर्ता",
+      "date": "२०४९-०१-०१",
+      "details": "सद्भावना पार्टीबाट २०४८ को चुनाव लडे पनि पराजित भएपछि उनी पुनः आफ्नो पुरानो पार्टी नेपाली काँग्रेसमा फर्किएका हुन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A4%AF%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%9A%E0%A5%81%E0%A4%A0%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अजय कुमार चौरसिया नेपाली काँग्रेसका एक प्रभावशाली र अनुभवी मधेशी नेता हुन्। उनी हाल कानुन, न्याय तथा संसदीय मामिला मन्त्रीको रूपमा कार्यरत छन्, जसले पार्टी र सरकारमा उनको उच्च पहुँच पुष्टि गर्दछ। २०७४ को निर्वाचनमा पराजित भए पनि २०७९ मा उनले पर्सा-२ बाट पुनरागमन गर्दै आफ्नो क्षेत्रमा बलियो पकड रहेको देखाए। उनी सभापति शेरबहादुर देउवाका निकट पात्र मानिन्छन्। तर, हालैका दिनमा मोहम्मद अफ्ताब आलमको मुद्दामा न्यायाधीशहरूलाई दबाब दिएको आरोपमा न्याय परिषदमा उजुरी पर्नुले उनको छविमा केही नैतिक प्रश्नहरू खडा गरेको छ। समग्रमा, उनी मधेशको राजनीतिमा काँग्रेसको एक महत्त्वपूर्ण खम्बाका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 72
+}

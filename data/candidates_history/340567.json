@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340567,
+  "candidate_name": "लाल बहादुर थापा",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "निवर्तमान संघीय सांसद",
+  "candidates_current_position_in_party": "नेकपा (एमाले) बाजुराका प्रभावशाली नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340567.jpg",
+  "election_history": [
+    {
+      "year": "२०५४",
+      "position": "जिल्ला विकास समिति सभापति",
+      "district": "बाजुरा",
+      "constituency": "N/A",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बाजुरा",
+      "constituency": "बाजुरा १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बाजुरा",
+      "constituency": "बाजुरा १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बाजुरा",
+      "constituency": "बाजुरा १",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचनको मुखमा मातृशोक",
+      "date": "२०८२-१०-२४",
+      "details": "२०८२ को निर्वाचन प्रचारप्रसारको क्रममा लाल बहादुर थापाकी आमा कलशी थापाको ९५ वर्षको उमेरमा निधन भएको थियो।",
+      "link_to_source": "https://nepalipatro.com.np/news/583526/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यको लागि पुन: उम्मेदवारी",
+      "date": "२०८२-१०-१५",
+      "details": "२०७९ को प्रदेश सभाको पराजय पछि, थापा २०८२ को उपनिर्वाचन/आमनिर्वाचनमा पुन: प्रतिनिधि सभाका लागि उम्मेदवार बनेका छन्।",
+      "link_to_source": "https://aarthiknews.com/news/113833/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बाजुरा क्षेत्र १ (ख) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गर्दा थापा नेपाली कांग्रेसका पदम बहादुर शाहीसँग पराजित भएका थिए।",
+      "link_to_source": "https://ekantipur.com/election2022/provincial-assembly/district/70",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संसदीय क्षेत्रको अनुगमन र जनताको गुनासो सम्बोधन",
+      "date": "२०७४-१०-२५",
+      "details": "निर्वाचित भए लगत्तै थापाले बाजुराका विकट गाउँहरू भ्रमण गरी विकास योजना तर्जुमा र स्थानीय समस्या समाधानमा सक्रियता देखाएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/lawmaker-visits-villages-to-hear-peoples-grievances",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा भारी मतले विजयी",
+      "date": "२०७४-०८-२२",
+      "details": "वाम गठबन्धनको तर्फबाट एमालेका थापाले २८,०६५ मत प्राप्त गरी कांग्रेसका कविराज पण्डितलाई पराजित गरेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/umls-thapa-wins-parliamentary-seat-from-bajura",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जिल्ला विकास समिति सभापतिमा चयन",
+      "date": "२०५४-०४-०१",
+      "details": "बाजुरा जिल्लाको विकासका लागि २०५४ सालको स्थानीय निर्वाचनमा जिविस सभापति पदमा निर्वाचित भई कार्य गरेका थिए।",
+      "link_to_source": "https://aarthiknews.com/news/113833/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लाल बहादुर थापा बाजुरा जिल्लाका एक अनुभवी र प्रभावशाली नेता हुन्। २०७४ को प्रतिनिधि सभा निर्वाचनमा भारी मतले विजयी भएका उनले आफ्नो कार्यकालमा बाजुराको शिक्षा, स्वास्थ्य र पूर्वाधार विकासमा उल्लेखनीय भूमिका निर्वाह गरेको मानिन्छ। उनी विद्यार्थी राजनीति (अनेरास्ववियु) बाट आएका र कानुनका विद्यार्थी पनि हुन्। यद्यपि, २०७९ को प्रदेश सभा निर्वाचनमा उनले पराजय भोग्नुपरेको थियो, जसले स्थानीय स्तरमा केही एन्टि-इन्कम्बेन्सी (सत्ता विरोधी लहर) को संकेत गरेको देखिन्छ। हाल २०८२ को निर्वाचनमा उनी पुन: प्रतिनिधि सभाका लागि चुनावी मैदानमा छन्। उनलाई अनुभवी संगठन परिचालनकर्ता मानिए तापनि यस पटक राष्ट्रिय स्वतन्त्र पार्टी र अन्य नयाँ शक्तिहरूको चुनौती सामना गर्नुपर्ने देखिन्छ। उनी 'टुरिस्ट' उम्मेदवार नभई आफ्नै गृह जिल्लामा पकड राख्ने नेता हुन्।",
+  "overall_approval_rating": 68
+}

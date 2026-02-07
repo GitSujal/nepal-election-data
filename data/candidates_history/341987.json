@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341987,
+  "candidate_name": "राज कुमार लिम्‍बु",
+  "candidate_party": "मितेरी पार्टी नेपाल",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिक उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341987.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "संखुवासभा १",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "संखुवासभा १",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "काठमाडौंमा उम्मेदवारी दर्ता",
+      "date": "२०८१-०८-१५",
+      "details": "संखुवासभाबाट काठमाडौं सरेर मितेरी पार्टी नेपालको तर्फबाट उम्मेदवारी दर्ता गराएको।",
+      "link_to_source": "https://result.election.gov.np/CandidateFiles/341987.jpg",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मितेरी पार्टी नेपालमा प्रवेश",
+      "date": "२०८१-०१-१०",
+      "details": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च परित्याग गरी मितेरी पार्टी नेपालमा आबद्ध भएको।",
+      "link_to_source": "https://nepsebajar.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "संखुवासभा १ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको उम्मेदवार भई १३९ मत प्राप्त गरेर पराजित भएको।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-sankhuwasabha?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "संखुवासभा १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएको र १९१ मत ल्याएर पाँचौं स्थानमा रहेको।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/1029",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उच्च शिक्षा हासिल",
+      "date": "२०६४-०३-१५",
+      "details": "पशुपति बहुमुखी क्याम्पसबाट प्रवीणता प्रमाणपत्र तह (PCL) उत्तीर्ण गरेको।",
+      "link_to_source": "https://sajilopatrika.com/2022/11/04/104257/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राज कुमार लिम्बु एक निरन्तर चुनावी प्रतिस्पर्धामा रहने तर कमजोर जनमत भएका उम्मेदवार हुन्। उनले विगतका दुई प्रतिनिधि सभा निर्वाचन (२०७४ र २०७९) मा संखुवासभा जिल्लाबाट अत्यन्तै न्यून मत (१९१ र १३९) प्राप्त गरेका थिए। यस पटक आफ्नो गृह जिल्ला छाडेर काठमाडौं रोज्नुले उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा स्थापित गरेको छ। आफ्नो पुरानो पार्टी 'संघीय लोकतान्त्रिक राष्ट्रिय मञ्च' छाडेर नयाँ र सानो दल 'मितेरी पार्टी नेपाल' बाट उम्मेदवारी दिनुले उनको राजनीतिक अस्थिरतालाई पनि झल्काउँछ। संखुवासभामा कमजोर आधार रहेका लिम्बुको काठमाडौं जस्तो प्रतिस्पर्धात्मक क्षेत्रमा प्रभाव पार्ने सम्भावना निकै कम देखिन्छ। उनको यो कदमलाई राजनीतिक वचस्व कायम राख्ने प्रयासभन्दा पनि 'वागुवा' प्रवृत्तिको रूपमा स्थानीय स्तरमा विश्लेषण गरिएको छ।",
+  "overall_approval_rating": 18
+}

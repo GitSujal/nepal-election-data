@@ -1,0 +1,119 @@
+{
+  "candidate_id": 339730,
+  "candidate_name": "बृजेश कुमार गुप्‍त",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nepal_Communist_Party_Logo.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339730.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "तराई मधेस लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "तराई मधेस लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा एमाले परित्याग",
+      "date": "२०८२-०९-२१",
+      "details": "पार्टी नेतृत्वको कार्यशैली र भ्रष्टाचार नियन्त्रणमा उदासीनता देखाएको भन्दै उनले एमाले परित्यागको घोषणा गरे।",
+      "link_to_source": "https://ekantipur.com/lumbini/2026/01/08/why-did-brijesh-kumar-gupta-leave-the-uml-10-34.html",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा झिनो पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलवस्तु २ बाट ३८,६९७ मत प्राप्त गरे तापनि नेपाली कांग्रेसका सुरेन्द्र राज आचार्यसँग ३१७ मतको अन्तरले पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339730",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमालेमा औपचारिक प्रवेश",
+      "date": "२०७८-१२-१४",
+      "details": "लामो समय स्वतन्त्र राजनीतिक समूहमा रहेपछि अध्यक्ष केपी शर्मा ओलीको उपस्थितिमा उनी एमालेमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://english.makalukhabar.com/2022/03/79783/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा शानदार जित",
+      "date": "२०७४-०८-२१",
+      "details": "हृदयेश त्रिपाठी नेतृत्वको स्वतन्त्र समूहबाट एमालेको सूर्य चिन्ह लिएर चुनाव लड्दै ३५,१४७ मतका साथ विजयी।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भौतिक पूर्वाधार तथा निर्माण मन्त्री",
+      "date": "२०७३-०४-२०",
+      "details": "पुष्पकमल दाहाल नेतृत्वको सरकारमा उनी भौतिक पूर्वाधार तथा निर्माण मन्त्रीका रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कानुन तथा न्याय मन्त्री",
+      "date": "२०६८-०५-२५",
+      "details": "बाबुराम भट्टराई नेतृत्वको सरकारमा कानुन, न्याय तथा संसदीय मामिला मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "तराई मधेस लोकतान्त्रिक पार्टीमा आबद्ध",
+      "date": "२०६४-०९-१०",
+      "details": "मधेस आन्दोलन पछि राप्रपा परित्याग गरी महन्थ ठाकुर नेतृत्वको तमलोपामा प्रवेश गरी मधेस केन्द्रित राजनीति सुरु गरे।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Brijesh_Kumar_Gupta",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५६-०१-१५",
+      "details": "नेपाल विद्युत् प्राधिकरणको इन्जिनियर पदबाट राजीनामा दिएर राप्रपाबाट चुनाव लड्दै पहिलो पटक विजयी।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बृजेश कुमार गुप्त कपिलवस्तुको राजनीतिमा एक शक्तिशाली र निर्णायक नेता हुन्। उनले वि.सं. २०५६ देखि २०७४ सम्म लगातार चारवटा निर्वाचन जितेर आफ्नो बलियो जनाधार प्रमाणित गरेका छन्। पेशाले इन्जिनियर रहेका गुप्तको राजनीतिक यात्रा राप्रपाबाट सुरु भए तापनि समयक्रममा उनले तमलोपा र नेकपा एमाले जस्ता फरक विचारधाराका दलहरूमा स्थान बनाएका छन्। उनी विशेष गरी मधेसका मुद्दा र विकास निर्माणका क्षेत्रमा अनुभवी मानिन्छन्। यद्यपि, बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण उनलाई 'अस्थिर' (Vaguwa) नेताको रूपमा पनि हेर्ने गरिन्छ। २०७९ को निर्वाचनमा झिनो मतान्तरले पराजित भएपछि र हालै एमाले परित्याग गरेपछि उनको राजनीतिक भविष्य नयाँ मोडमा पुगेको देखिन्छ। उनी आफ्नो क्षेत्रमा व्यक्तिगत प्रभावका कारण लोकप्रिय भए तापनि दलीय अस्थिरता उनका लागि चुनौतीको विषय बनेको छ।",
+  "overall_approval_rating": 68
+}

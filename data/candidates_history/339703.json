@@ -1,0 +1,111 @@
+{
+  "candidate_id": 339703,
+  "candidate_name": "धन बहादुर बुढा",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/CPN_UML.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य, पूर्व शहरी विकास मन्त्री",
+  "candidates_current_position_in_party": "पोलिटब्यूरो सदस्य तथा डोल्पा जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339703.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "डोल्पा",
+      "constituency": "डोल्पा १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोल्पा",
+      "constituency": "डोल्पा १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोल्पा",
+      "constituency": "डोल्पा १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "शहरी विकास मन्त्रीबाट बहिर्गमन",
+      "date": "२०८१-०३-३१",
+      "details": "सत्ता समीकरणमा परिवर्तन आएसँगै बुढाले शहरी विकास मन्त्रालयको जिम्मेवारीबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Dhan_Bahadur_Buda",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शहरी विकास मन्त्रीमा नियुक्त",
+      "date": "२०८०-११-२३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको मन्त्रिपरिषद्मा बुढालाई संघीय शहरी विकास मन्त्रीको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://moud.gov.np",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "डोल्पा १ बाट ११,२९२ मत प्राप्त गर्दै उनी तेस्रो पटक लगातार निर्वाचित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/results/2082/dhan-bahadur-budha-339703",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा (एमाले) विभाजन भएपछि उनी माधवकुमार नेपाल नेतृत्वको एकीकृत समाजवादी पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/22/166909472620783300.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कोभिड-१९ महामारीमा आर्थिक सहयोग",
+      "date": "२०७८-०३-०१",
+      "details": "उनले डोल्पाका नागरिकको स्वास्थ्य उपचारका लागि ३ लाख रुपैयाँ आर्थिक सहयोग प्रदान गरेका थिए।",
+      "link_to_source": "https://dolpanepal.com/leaders/dhan-bahadur-budha/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संस्कृति, पर्यटन तथा नागरिक उड्डयन राज्यमन्त्रीबाट राजीनामा",
+      "date": "२०७६-०८-०४",
+      "details": "मन्त्रिपरिषद् पुनर्गठनका क्रममा उनले राज्यमन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Dhan_Bahadur_Buda",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटन राज्यमन्त्रीमा नियुक्त",
+      "date": "२०७४-१२-०२",
+      "details": "केपी शर्मा ओलीको दोस्रो मन्त्रिपरिषद्मा उनी संस्कृति, पर्यटन तथा नागरिक उड्डयन राज्यमन्त्री बनेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Dhan_Bahadur_Buda",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "एमालेको तर्फबाट ११,७६१ मत ल्याई उनी भारी मतान्तरले विजयी भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/results/2082/dhan-bahadur-budha-339703",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बजेट विनियोजनमा पक्षपातको आरोप",
+      "date": "२०८१-०३-०९",
+      "details": "शहरी विकास मन्त्री हुँदा आफ्नो निर्वाचन क्षेत्र डोल्पामा मात्र धेरै बजेट विनियोजन गरेको भन्दै संसदमा उनको आलोचना भएको थियो।",
+      "link_to_source": "https://onlinekhabar.com/2024/06/1498144",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "धन बहादुर बुढा डोल्पा जिल्लाका अत्यन्त प्रभावशाली र अपराजित राजनीतिक व्यक्तित्व हुन्। उनले वि.सं. २०७० देखि हालसम्मका तीनवटै ठूला निर्वाचनमा लगातार जित हासिल गरेर आफ्नो क्षेत्रमा बलियो पकड प्रमाणित गरेका छन्। नेकपा (एमाले) बाट राजनीतिक उचाइ लिएका उनी २०७८ को पार्टी विभाजनमा नेकपा (एकीकृत समाजवादी) तर्फ लागेका थिए। उनले राज्यमन्त्री र संघीय मन्त्रीको रूपमा कार्य गरिसकेका छन्। डोल्पा जस्तो विकट क्षेत्रको विकासमा उनको भूमिकालाई सकारात्मक रूपमा लिइए पनि शहरी विकास मन्त्री हुँदा आफ्नो जिल्लामा अस्वाभाविक बजेट छुट्याएको भन्दै उनी विवादमा परेका थिए। व्यावसायिक पृष्ठभूमिबाट आएका कारण उनलाई 'ठेकेदार नेता' को रूपमा पनि केहीले टिप्पणी गर्ने गर्छन्, तर स्थानीय स्तरमा उनको लोकप्रियता निकै उच्च रहेको छ।",
+  "overall_approval_rating": 80
+}

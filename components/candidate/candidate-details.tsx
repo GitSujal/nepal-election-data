@@ -16,8 +16,8 @@ interface CandidateDetailsProps {
 }
 
 export function CandidateDetails({ candidate }: CandidateDetailsProps) {
-  // Calculate wins
-  const wins = [
+  // Calculate wins - use total_wins_from_profile if available
+  const wins = candidate.total_wins_from_profile ?? [
     candidate.prev_election_result === "Winner",
     candidate.prev_2074_election_result === "Winner",
   ].filter(Boolean).length
@@ -101,7 +101,7 @@ export function CandidateDetails({ candidate }: CandidateDetailsProps) {
       {/* Stats summary */}
       <div className="mt-8 grid grid-cols-3 gap-4 rounded-xl bg-secondary/50 p-4">
         <div className="text-center">
-          <p className="text-2xl font-bold text-primary">{candidate.elections_contested}</p>
+          <p className="text-2xl font-bold text-primary">{candidate.total_elections_contested}</p>
           <p className="text-xs text-muted-foreground">चुनाव संख्या</p>
         </div>
         <div className="text-center">

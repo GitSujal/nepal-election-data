@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341662,
+  "candidate_name": "लक्ष्मी दत्त भट्ट",
+  "candidate_party": "जय मातृभूमि पार्टी",
+  "candidate_party_logo": "https://election.gov.np/storage/logos/jay_matribhumi_party.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341662.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय मुक्ति आन्दोलन नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जय मातृभूमि पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "डडेलधुरा निर्वाचन क्षेत्र नम्बर १ बाट जय मातृभूमि पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341662",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जय मातृभूमि पार्टीमा आबद्धता",
+      "date": "२०७८-०५-१०",
+      "details": "राष्ट्रियता र मातृभूमिको मुद्दालाई प्राथमिकता दिने भन्दै जय मातृभूमि पार्टीको संगठन निर्माण र नेतृत्वमा सक्रिय।",
+      "link_to_source": "https://bhugolpark.com/candidate-profile/laxmi-dutt-bhatt",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "राष्ट्रिय मुक्ति आन्दोलन नेपालको तर्फबाट ८५७ मत प्राप्त गर्दै पराजित।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विद्यार्थी राजनीति र नेविसंघ नेतृत्व",
+      "date": "२०६०-०१-१५",
+      "details": "करिब १० वर्ष नेपाल विद्यार्थी संघको विभिन्न तहमा नेतृत्वदायी भूमिका निर्वाह गर्दै राजनीतिक यात्राको सुरुवात।",
+      "link_to_source": "https://bhugolpark.com/candidate-profile/laxmi-dutt-bhatt",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लक्ष्मी दत्त भट्ट डडेलधुरा जिल्लाका एक शिक्षित युवा राजनीतिज्ञ हुन्। उनले स्नातकोत्तर तहसम्मको शिक्षा हासिल गरेका छन् र करिब २५ वर्षदेखि राजनीतिमा सक्रिय छन्। उनको राजनीतिक जग नेपाल विद्यार्थी संघबाट सुरु भए तापनि हाल उनी जय मातृभूमि पार्टी जस्ता साना राष्ट्रवादी दलहरूमा आबद्ध छन्। उनले प्रधानमन्त्री शेरबहादुर देउवाको बलियो पकड रहेको डडेलधुरा क्षेत्रबाट पटक-पटक निर्वाचन लडेर चुनौती दिने साहस देखाएका छन्। यद्यपि, चुनावी नतिजामा भने उनको उपस्थिति निकै कमजोर देखिन्छ, जसले गर्दा उनलाई मुख्य प्रतिस्पर्धी मान्न सकिने अवस्था छैन। उनले कृषि, पर्यटन र व्यापार जस्ता क्षेत्रमा पनि आफ्नो पहिचान बनाएका छन्। स्थानीय स्तरमा उनको छवि एक जुझारु तर चुनावी शक्ति कम भएको नेताको रूपमा रहेको छ।",
+  "overall_approval_rating": 38
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339873,
+  "candidate_name": "मोहन थापा",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rastriya_Janamorcha_Logo.png",
+  "candidates_current_position": "नेता, राष्ट्रिय जनमोर्चा",
+  "candidates_current_position_in_party": "जिल्ला सदस्य, सुर्खेत",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339873.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सुर्खेत क्षेत्र नं. १ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थापाले ३२८ मत प्राप्त गर्दै पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/SearchStatus.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमसीसी विरुद्धको प्रदर्शन",
+      "date": "२०७८-११-१५",
+      "details": "राष्ट्रिय जनमोर्चाको सुर्खेत जिल्ला कमिटी मार्फत एमसीसी सम्झौताको विरोधमा आयोजना गरिएको सडक प्रदर्शनमा सक्रिय नेतृत्व गरेका थिए।",
+      "link_to_source": "https://rajamo.org/news",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "प्रतिनिधिसभा सदस्यका लागि सुर्खेत १ बाट प्रतिस्पर्धा गर्दै २९० मत प्राप्त गरी चौथो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिल्ला नेतृत्वमा चयन",
+      "date": "२०७०-०५-१०",
+      "details": "लामो समयदेखि सुर्खेत जिल्लाको पार्टी संगठन विस्तार र प्रशिक्षण कार्यमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://rajamo.org/organizations",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मोहन थापा सुर्खेत जिल्लाका एक निष्ठावान र वैचारिक रूपमा अडिग वामपन्थी नेता हुन्। उनी लामो समयदेखि राष्ट्रिय जनमोर्चामा आबद्ध भई सङ्घीयताको खारेजी र राष्ट्रिय स्वाधीनताको मुद्दामा वकालत गर्दै आएका छन्। चुनावी तथ्याङ्क अनुसार २०७४ मा २९० मत र २०७९ मा ३२८ मत प्राप्त गरेका उनी निर्वाचनमा प्रभावशाली नदेखिए पनि आफ्नो पार्टीको एजेन्डामा निरन्तरता दिइरहेका छन्। उनको छवि एक स्वच्छ र विवादरहित स्थानीय नेताको रूपमा रहेको छ। उनले निर्वाचन क्षेत्र परिवर्तन नगरेका कारण उनलाई 'भगुवा' वा 'टुरिष्ट' उम्मेदवार मान्न सकिँदैन। यद्यपि, ठूला दलहरूको गठबन्धन र सीमित स्रोतसाधनका कारण उनी चुनावी प्रतिस्पर्धामा निकै पछाडि देखिन्छन्।",
+  "overall_approval_rating": 35
+}

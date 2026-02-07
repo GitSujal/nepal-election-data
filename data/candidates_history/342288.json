@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342288,
+  "candidate_name": "अजय ठाकुर हजाम",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Janata_Samajbadi_Party_Nepal_Logo.png/220px-Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342288.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "चितवन निर्वाचन क्षेत्र नम्बर १ बाट जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका हजामले मात्र १२३ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdCyhcfyoVSgmYi-cq_ViX-DTGlROFhYY_8vBAotb5q1_2-X9qB-Q5W6pQwF0v8UC4yUhVDN9fZk36MQ0WKO_E5KPFnXwc3u49_iOeGSoQGh1hHFm5tj6e7U8ZTqKHAtmdnIBOIZdfCRJoinNQyGKrhZaDYWAVGFRoprkavpbicr6",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी एकीकरण र आबद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "राष्ट्रिय जनता पार्टी र समाजवादी पार्टी मिलेर जनता समाजवादी पार्टी बनेपछि उनी सोही दलमा सक्रिय रहे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-XEhjVWVPxmhWLRxvKqhxltZ9yo4KttW22NfPuTXsjEuVqUYA2-ZlPzkm2_yAtGnbTW6Pj8tkA4LqvT3HHRv1SI9e4j49jPdJPrw74Rt0w45_xDYX0TqJctY-MmUYJiFKJd3QJZObpfSZq9osfZQWcqb3DQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "चितवन क्षेत्र नम्बर ३ मा माओवादी केन्द्रका अध्यक्ष पुष्पकमल दाहाल 'प्रचण्ड' विरुद्ध संघीय समाजवादी फोरमबाट चुनाव लड्दै १२९ मत प्राप्त गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAy_ap2r_YmLNk0yp_2oMyEsHgpn6zt2zfNJHxWl3JtwLG_bSlS9aqtpAR7q4hi16MRoEZ-CZoKPX7V6M0Y4I87PT22CqPJnoksU8AvRDaDWT-bCbBpWP91cwaZErsw614Aj4ax8DAG1gWlDXidtIbPBUhqRK5noTp6O0--htvDBeXgsT-",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात र सामाजिक पहिचान",
+      "date": "२०७३-०१-१०",
+      "details": "पर्सा जिल्लाको बहुदरमाई नगरपालिका निवासी हजामले मधेसी मुद्दा र संघीयताका लागि क्षेत्रीय राजनीतिमा सक्रियता जनाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS_AmxvycmNsRtN4nzCQAvSDqXZk9zys6YLjZKUqUxSBT5wkl2o-m3h5DRD4f6XGV72j6xWqJV4zcP2NPfqK7DlTYFAfvoeuLkTikPWbbntb_7GJykuf7RoHNOu2-y2FSE7zr_jBJrXM4G",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अजय ठाकुर हजाम चितवनको राजनीतिमा 'पर्यटक उम्मेदवार' को रूपमा चिनिन्छन्। उनको स्थायी ठेगाना पर्सा जिल्लाको बहुदरमाई नगरपालिका भए तापनि उनले लगातार दुई निर्वाचनमा चितवनका फरक-फरक क्षेत्रबाट उम्मेदवारी दिएका छन्। २०७४ को निर्वाचनमा क्षेत्र नं ३ बाट र २०७९ मा क्षेत्र नं १ बाट चुनाव लडेका उनले दुवै पटक अत्यन्तै न्यून मत (१३० भन्दा कम) प्राप्त गरेका छन्। उनको यो उम्मेदवारी मुख्यतया मधेस केन्द्रित दलको उपस्थिति चितवनमा देखाउनका लागि मात्र सीमित रहेको देखिन्छ। स्थानीय स्तरमा उनको सांगठनिक पकड र मतदातासँगको पहुँच निकै कमजोर छ। मधेसी समुदायको प्रतिनिधित्व गर्ने प्रयास गरे पनि चितवनको मिश्रित जनसांख्यिकीमा उनले आफ्नो प्रभाव जमाउन सकेका छैनन्।",
+  "overall_approval_rating": 12
+}

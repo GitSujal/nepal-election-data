@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339411,
+  "candidate_name": "हिम लाल पाण्‍डे",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NWPP_Flag.svg/1200px-NWPP_Flag.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "जिल्ला स्तरिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339411.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट रुपन्देही क्षेत्र नम्बर ५ मा उम्मेदवारी दिएका उनले ११७ मत प्राप्त गर्दै पराजय भोगे।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate-339411",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "सो निर्वाचनमा उनले रुपन्देही ५ बाट उम्मेदवारी दिई ५९ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate-339411",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेमकिपाको संगठन विस्तारमा सक्रिय",
+      "date": "२०७०-०१-०१",
+      "details": "रुपन्देही जिल्लामा नेपाल मजदुर किसान पार्टीको सांगठनिक ढाँचा बलियो बनाउन र मजदुर किसानका मुद्धाहरु उठाउन लामो समयदेखि सक्रिय रहँदै आएका।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "हिम लाल पाण्डे नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान र पुराना कार्यकर्ता हुन्। उनी रुपन्देही जिल्लामा पार्टीको उपस्थितिलाई निरन्तरता दिने 'टोकन' उम्मेदवारका रूपमा चिनिन्छन्। २०७४ को निर्वाचनमा ५९ मत पाएका पाण्डेले २०७९ मा आफ्नो मतसंख्या थोरै बढाएर ११७ पुर्याएका छन्, जसले उनको चुनावी प्रभाव निकै कमजोर रहेको देखाउँछ। स्रोतमा उनलाई 'वगुवा' (Vaguwa) उम्मेदवारको रूपमा उल्लेख गरिए पनि उनी एउटै निर्वाचन क्षेत्रमा टिकिरहेका देखिन्छन्। उनको मुख्य विशेषता चुनावी जितभन्दा पनि पार्टीको विचारधारा र 'मजदुर-किसान'को एजेन्डालाई चुनावी मैदानमार्फत जनतामाझ पुर्याउनु हो। उनी कुनै पनि ठूला राजनीतिक विवाद वा भ्रष्टाचारका काण्डहरूमा मुछिएका छैनन्, जसले उनको व्यक्तिगत छवि स्वच्छ रहेको संकेत गर्दछ।",
+  "overall_approval_rating": 38
+}

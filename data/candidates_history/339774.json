@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339774,
+  "candidate_name": "सोम बहादुर गुरुङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mongol_National_Organization_Flag.svg/1200px-Mongol_National_Organization_Flag.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "गोरखा जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339774.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "लमजुङ",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "गोरखा निर्वाचन क्षेत्र नम्बर २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिएका उनले १,१६४ मत प्राप्त गरे। उनी सो निर्वाचनमा पाँचौं स्थानमा रहेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/som-bahadur-garung-1164",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (वागुवा स्थिति)",
+      "date": "२०७९-०७-२३",
+      "details": "२०७४ सालमा लमजुङबाट निर्वाचन लडेका गुरुङ २०७९ मा गोरखा सरेका थिए, जसलाई राजनीतिक वृत्तमा 'वागुवा' उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://nepsebajar.com/election/result/2079/gorkha-2",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "लमजुङ निर्वाचन क्षेत्र नम्बर १ बाट चुनाव लड्दा उनले केवल ६४ मत प्राप्त गरेका थिए। यो उनको पहिलो प्रमुख चुनावी अनुभव थियो।",
+      "link_to_source": "https://nepsebajar.com/election/result/2074/lamjung-1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल पहिचानको राजनीतिमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "गुरुङ लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनको एजेन्डाअनुसार धर्मनिरपेक्षता र प्राप्त अधिकारको रक्षाका लागि सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://www.kiddle.co/Gopal_Gurung_facts_for_kids",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सोम बहादुर गुरुङ मंगोल नेशनल अर्गनाइजेसन (MNO) का एक निष्ठावान कार्यकर्ता हुन् जसले पहिचानको राजनीतिलाई केन्द्रमा राखेका छन्। २०७४ को निर्वाचनमा लमजुङबाट मात्र ६४ मत प्राप्त गरेका उनले २०७९ मा गोरखा क्षेत्र नं. २ मा आएर १,१६४ मत पुर्याउनुले उनको सांगठनिक विस्तारलाई संकेत गर्छ। यद्यपि, आफ्नो गृह जिल्ला वा अघिल्लो क्षेत्र छोडेर अर्को जिल्लामा निर्वाचन लड्न आउनु (वागुवा प्रवृत्ति) ले उनको राजनीतिक अस्थिरतालाई पनि झल्काउँछ। गोरखा २ मा उनले पुष्पकमल दाहाल 'प्रचण्ड' जस्ता भारी वजनका नेतासँग प्रतिस्पर्धा गरेका थिए, जहाँ उनको मत संख्या सम्मानजनक तर जितका लागि अपर्याप्त देखियो। उनको कुनै भ्रष्टाचार वा कानुनी विवादमा नाम मुछिएको छैन, जुन उनको सकारात्मक पक्ष हो।",
+  "overall_approval_rating": 42
+}

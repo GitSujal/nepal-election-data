@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340377,
+  "candidate_name": "बुद्धि बहादुर सारु थापा",
+  "candidate_party": "नेशनल रिपब्लिक नेपाल",
+  "candidate_party_logo": "https://nationalrepublicnepal.org.np/images/logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340377.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र/अन्य"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेशनल रिपब्लिक नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेशनल रिपब्लिक नेपालको केन्द्रीय सदस्यमा मनोनित",
+      "date": "२०८०-११-१०",
+      "details": "पार्टी निर्वाचन आयोगमा दर्ता भएपछि उनलाई केन्द्रीय सदस्यको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://nationalrepublicnepal.org.np/central-committee/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलबस्तु क्षेत्र नं. २ बाट नेशनल रिपब्लिक नेपालको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340377",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसन (MNO) सँग आबद्धता",
+      "date": "२०७९-०१-३०",
+      "details": "स्थानीय तह निर्वाचनका क्रममा उनले मंगोल नेशनल अर्गनाइजेसनको तर्फबाट बुद्धभूमी नगरपालिकाको प्रमुखमा उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://lokaantar.com/candidate/340377",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ प्रतिनिधिसभा निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "कपिलबस्तु क्षेत्र नं. ३ बाट चुनाव लड्दा उनले मात्र ७६ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "बुद्धि बहादुर सारु थापा कपिलबस्तु जिल्लाका एक सीमान्तकृत राजनीतिक पात्र हुन्। उनले निर्वाचनमा बारम्बार सहभागिता जनाए तापनि जनमत प्राप्त गर्न सकेका छैनन्। २०७४ को निर्वाचनमा क्षेत्र नं. ३ बाट ७६ मत मात्र ल्याउनुले उनको कमजोर जनाधारलाई पुष्टि गर्दछ। २०७९ को निर्वाचनमा उनले आफ्नो निर्वाचन क्षेत्र परिवर्तन गरी क्षेत्र नं. २ रोज्नु (वगुवा स्वभाव) र मंगोल नेशनल अर्गनाइजेसन छोडेर नेशनल रिपब्लिक नेपालमा प्रवेश गर्नुले उनको राजनीतिक अस्थिरता देखाउँछ। उनी मुख्यतया जातीय र पहिचानको राजनीतिमा सक्रिय रहने साना दलका प्रतिनिधिको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 18
+}

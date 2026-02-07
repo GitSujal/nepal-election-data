@@ -1,0 +1,119 @@
+{
+  "candidate_id": 341920,
+  "candidate_name": "शंकर भण्डारी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Y6I7fQ6H2DqB6v3V0g3lC2o2r0v3Nn4Q&s",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य तथा पूर्व वन तथा भू-संरक्षण मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341920.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "हिन्दू राष्ट्र स्थापना अभियानको नेतृत्व",
+      "date": "२०८०-११-०७",
+      "details": "नेपाली काँग्रेसको महासमिति बैठकमा नेपाललाई वैदिक सनातन हिन्दू राष्ट्र घोषणा गर्नुपर्ने माग राख्दै बहुमत सदस्यहरूको हस्ताक्षरसहित अभियानको नेतृत्व गरे।",
+      "link_to_source": "https://kathmandupost.com/politics/2024/02/21/over-1-000-congress-delegates-demand-hindu-state",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा विजयी (२०७९)",
+      "date": "२०७९-०८-०७",
+      "details": "तनहुँ निर्वाचन क्षेत्र नं. २ बाट ३०,६०४ मत प्राप्त गरी नेकपा एमालेका किरण गुरुङलाई पराजित गर्दै निर्वाचित भए।",
+      "link_to_source": "https://risingnepaldaily.com/news/18881",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "१४औं महाधिवेशनबाट केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली काँग्रेसको १४औं महाधिवेशनबाट केन्द्रीय कार्यसमिति सदस्यमा भारी मतका साथ निर्वाचित भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/12/1057842",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा पराजय (२०७४)",
+      "date": "२०७४-०८-२१",
+      "details": "तनहुँ क्षेत्र नं. २ बाट निर्वाचन लडेका भण्डारी नेकपा एमालेका केदार सिग्देलसँग ३,२७९ मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1221464",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कर्मचारी सरुवा विवाद",
+      "date": "२०७३-११-१३",
+      "details": "वन मन्त्री रहँदा मन्त्रालयका वरिष्ठ कर्मचारीहरूको सरुवा र पदस्थापनमा केन्द्रित भएको भन्दै विवादमा तानिएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2017/02/24/20170224075135.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "लोकमान सिंह कार्की विरुद्धको महाअभियोगमा असहमति",
+      "date": "२०७३-०७-१०",
+      "details": "तत्कालीन अख्तियार प्रमुख लोकमान सिंह कार्की विरुद्धको महाअभियोग प्रस्तावमा काँग्रेसले हतारमा निर्णय लिन नहुने भन्दै बचाउ गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2016/10/496924",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "वन तथा भू-संरक्षण मन्त्रीमा नियुक्ति",
+      "date": "२०७३-०५-११",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा नेपाली काँग्रेसको तर्फबाट वन तथा भू-संरक्षण मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://www.nagariknetwork.com/news/9546",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा विजयी (२०७०)",
+      "date": "२०७०-०८-०४",
+      "details": "तनहुँ क्षेत्र नं. १ बाट निर्वाचित भएर संविधान निर्माण प्रक्रियामा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2023/04/16/tanahun-1-heads-to-polls-with-a-history-of-changing-choices",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "तरुण दल केन्द्रीय सदस्य",
+      "date": "२०५९-०१-०१",
+      "details": "बालकृष्ण खाँणको नेतृत्वमा गठित नेपाल तरुण दलको केन्द्रीय सदस्यको रूपमा युवा राजनीतिमा सक्रिय भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1221464",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल विद्यार्थी संघबाट राजनीतिक यात्रा",
+      "date": "२०३६-०१-०१",
+      "details": "विद्यार्थी जीवनदेखि नै नेविसंघमा आबद्ध भई २०३६ र २०४६ को जनआन्दोलनमा सक्रिय सहभागी भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1221464",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शंकर भण्डारी नेपाली काँग्रेसभित्रका एक प्रभावशाली र स्पष्ट वक्ता नेता हुन्। उनको राजनीतिक आधार क्षेत्र तनहुँ-१ भए तापनि पार्टीका वरिष्ठ नेता रामचन्द्र पौडेलको व्यवस्थापनका लागि उनलाई २०७४ र २०७९ मा क्षेत्र नं. २ मा सारिएको थियो। क्षेत्र परिवर्तनको बाबजुद २०७९ मा उनले जितेर आफ्नो पकड प्रमाणित गरे। उनी पार्टीभित्र 'हिन्दू राष्ट्र' को एजेन्डालाई सशक्तरूपमा उठाउने अग्रणी नेताका रूपमा चिनिन्छन्, जसले उनलाई परम्परागत मतदातामाझ लोकप्रिय बनाएको छ भने धर्मनिरपेक्षताका पक्षधरहरू माझ विवादित। वन मन्त्रीको रूपमा उनको कार्यकाल कर्मचारी सरुवा र अख्तियार प्रमुखको बचाउ जस्ता विषयले गर्दा केही हदसम्म विवादित रहेको थियो।",
+  "overall_approval_rating": 72
+}

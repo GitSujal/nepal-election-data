@@ -74,6 +74,7 @@ def main():
         'dim_constituency_profile',
         'dim_parties_profile',
         'political_party_symbols',
+        "candidates_political_history"
     ]
 
     total_rows = 0
