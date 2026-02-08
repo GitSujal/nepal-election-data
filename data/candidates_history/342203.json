@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342203,
+  "candidate_name": "लखिन्द्र कुमार साह",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "अधिवक्ता (कानुन व्यवसायी)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342203.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा आबद्ध",
+      "date": "२०७९-०८-०१",
+      "details": "प्रभु साहको नेतृत्वमा रहेको आम जनता पार्टीको आन्दोलन र राजनीतिक दर्शनमा सहभागी भई पार्टीको विस्तारमा सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://aamjanataparty.org/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ललितपुर क्षेत्र नं. २ बाट प्रतिनिधिसभामा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ सालको प्रतिनिधिसभा निर्वाचनमा ललितपुर निर्वाचन क्षेत्र नम्बर २ बाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका तर निकै कम मतका साथ पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342203",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कानुन व्यवसायीको रूपमा कार्यरत",
+      "date": "२०७०-०१-०१",
+      "details": "नेपाल बार एसोसिएसनमा आबद्ध भई लामो समयदेखि अधिवक्ताको रूपमा विभिन्न कानुनी मुद्दाहरूमा वकालत गर्दै आएका।",
+      "link_to_source": "https://nepalbar.org.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लखिन्द्र कुमार साह मुख्यतया कानुनी पृष्ठभूमि भएका व्यक्ति हुन्। उनले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा ललितपुर क्षेत्र नं. २ बाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। मूलतः मधेस क्षेत्रसँग राजनीतिक आधार जोडिए पनि उनले काठमाडौँ उपत्यकाको ललितपुरलाई चुनावी क्षेत्र रोजेका कारण उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको थियो। निर्वाचनमा उनको प्रदर्शन निकै कमजोर देखियो र उनी मुख्य प्रतिस्पर्धीहरूको दौडमा कतै पनि देखा परेनन्। प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध उनी उक्त पार्टीको विचारधारा उपत्यकामा विस्तार गर्न खोज्ने एक सदस्य हुन्। यद्यपि, स्थानीयस्तरमा उनको राजनीतिक प्रभाव र जनसम्पर्क निकै कम रहेको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 35
+}

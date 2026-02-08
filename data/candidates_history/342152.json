@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342152,
+  "candidate_name": "वीरेन्द्र कुमार गुप्‍ता",
+  "candidate_party": "नेपाल लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nepal_Loktantrik_Party_Logo.png/200px-Nepal_Loktantrik_Party_Logo.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342152.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "रौतहट क्षेत्र नं. ३ बाट प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धामा उत्रिएका गुप्‍ताले निकै कम मत प्राप्त गरी पराजय व्यहोर्नु परेको थियो।",
+      "link_to_source": "https://result.election.gov.np/ResultRepresentiveSaba.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल लोकतान्त्रिक पार्टीको तर्फबाट रौतहट जिल्लाको निर्वाचन क्षेत्र नं. ३ मा प्रतिनिधि सभा सदस्यका लागि उनले आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result-rautahat-3-2079/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "वीरेन्द्र कुमार गुप्‍ता रौतहट जिल्लाका एक स्थानीय राजनीतिज्ञ हुन् जसले २०७९ को आम निर्वाचनमा नेपाल लोकतान्त्रिक पार्टीबाट रौतहट निर्वाचन क्षेत्र नम्बर ३ मा प्रतिस्पर्धा गरेका थिए। प्रभावशाली नेता प्रभु साह विजयी भएको यस क्षेत्रमा गुप्‍ताले उल्लेख्य चुनावी प्रभाव पार्न सकेनन् र उनको मत संख्या निकै न्यून रह्यो। उनी हालसम्म कुनै पनि सार्वजनिक पदमा नरहेको र ठूला राजनीतिक विवादहरूमा नमुछिएको देखिन्छ। उनको राजनीतिक आधार मुख्यतया स्थानीय सामाजिक कार्य र साना दलको सांगठनिक गतिविधिमा केन्द्रित छ। राष्ट्रिय राजनीतिमा उनको चर्चा कम भए पनि स्थानीय स्तरमा उनी एक सक्रिय कार्यकर्ताको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 40
+}

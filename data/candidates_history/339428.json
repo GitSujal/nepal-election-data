@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339428,
+  "candidate_name": "गोपाल प्रसाद गीरी",
+  "candidate_party": "जय मातृभूमि पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९) तथा व्यवसायी",
+  "candidates_current_position_in_party": "सक्रिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339428.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बाँके",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "जय मातृभूमि पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बाँके क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि जय मातृभूमि पार्टीको तर्फबाट चुनाव लडेका थिए तर पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/PostResultData.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "जय मातृभूमि पार्टीको तर्फबाट बाँके-२ मा प्रत्यक्षतर्फको उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/gopal-prasad-giri-profile/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जय मातृभूमि पार्टीमा आबद्धता",
+      "date": "२०७९-०५-०१",
+      "details": "देशभक्ति र जनमुखी राजनीतिको एजेन्डा बोकेको जय मातृभूमि पार्टीमा सक्रिय भएर राजनीतिक यात्रा सुरु गरे।",
+      "link_to_source": "https://sajilopatrika.com/gopal-prasad-giri-profile/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "होटल तथा शिक्षण पेशामा संलग्नता",
+      "date": "२०७०-०१-०१",
+      "details": "नेपालगन्जमा होटल व्यवसाय र शिक्षण पेशा मार्फत स्थानीय समुदायमा आफ्नो पहिचान बनाएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/gopal-prasad-giri-profile/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गोपाल प्रसाद गीरी बाँके क्षेत्र नम्बर २ का एक स्थानीय राजनीतिज्ञ र व्यवसायी हुन्। उनी मूलतः गुल्मी जिल्लाबाट बसाई सरी बाँके आएका हुन् र नेपालगन्जमा होटल व्यवसाय तथा शिक्षण पेशामा संलग्न रहँदै आएका छन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा उनले 'जय मातृभूमि पार्टी' बाट उम्मेदवारी दिएका थिए। सो निर्वाचन क्षेत्रमा धवल शमशेर राणा र मोहम्मद इश्तियाक राई जस्ता प्रभावशाली नेताहरूको प्रतिस्पर्धा रहेकाले गीरीको चुनावी नतिजा भने सफल हुन सकेन। उनी एक वैचारिक र देशभक्त राजनीतिको वकालत गर्ने उम्मेदवारका रूपमा चिनिन्छन्, तर ठूला राजनीतिक दलहरूको प्रभावका कारण उनको चुनावी उपस्थिति भने कमजोर देखिएको छ।",
+  "overall_approval_rating": 38
+}

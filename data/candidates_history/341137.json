@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341137,
+  "candidate_name": "राम पलटन साह",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "पूर्व नगर प्रमुख, मिथिला नगरपालिका",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि, नेपाली काँग्रेस",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341137.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "नगर प्रमुख",
+      "district": "धनुषा",
+      "constituency": "मिथिला नगरपालिका",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ४ (क)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा धनुषा क्षेत्र नं. ४ (क) बाट नेपाली काँग्रेसका उम्मेदवार राम पलटन साह पराजित भए। उनलाई नेकपा (एमाले) का उम्मेदवारले पराजित गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नगर प्रमुखको कार्यकाल सम्पन्न",
+      "date": "२०७९-०१-३०",
+      "details": "मिथिला नगरपालिकाको नगर प्रमुखको रूपमा पाँच वर्षे कार्यकाल सफलतापूर्वक सम्पन्न गरी नयाँ निर्वाचनका लागि पदबाट अलग भएका थिए।",
+      "link_to_source": "https://mithilamun.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नगर विकासका योजनाहरू",
+      "date": "२०७७-०३-१५",
+      "details": "नगर प्रमुख रहँदा उनले मिथिला नगरपालिकामा चक्रपथ निर्माण र ढल्केवर क्षेत्रको शहरी व्यवस्थापनमा विशेष पहल गरेका थिए।",
+      "link_to_source": "https://gorkhapatraonline.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मिथिला नगरपालिकाको नगर प्रमुखमा विजयी",
+      "date": "२०७४-०६-०५",
+      "details": "२०७४ को स्थानीय तह निर्वाचनमा धनुषाको मिथिला नगरपालिकाको नगर प्रमुख पदमा नेपाली काँग्रेसबाट भारी मतले विजयी भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/LocalLevelResult2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राम पलटन साह धनुषाको राजनीतिमा एक स्थापित र प्रभावकारी स्थानीय नेता हुन्। विशेष गरी मिथिला नगरपालिकाको नगर प्रमुखको रूपमा २०७४ देखि २०७९ सम्म सेवा गर्दा उनले स्थानीय स्तरमा राम्रो पकड बनाएका थिए। उनको कार्यकालमा भएका पूर्वाधार विकासका कामहरूले उनलाई विकासप्रेमी नेताको रूपमा चिनाए पनि २०७९ को प्रदेश सभा निर्वाचनमा उनी पराजित हुन पुगे। पार्टीभित्र उनी सभापति शेरबहादुर देउवा पक्षधर मानिन्छन् र जिल्ला स्तरमा संगठन सुदृढीकरणमा सक्रिय छन्। स्थानीय निर्वाचनमा विजयी भए पनि प्रदेश स्तरीय राजनीतिमा सफलता पाउन उनलाई अझै चुनौतीपूर्ण देखिन्छ। उनको मुख्य शक्ति क्षेत्र मिथिला नगरपालिका र वरपरका गाउँहरू हुन् जहाँ उनको व्यक्तिगत र पार्टीगत दुवै प्रभाव बलियो छ।",
+  "overall_approval_rating": 68
+}

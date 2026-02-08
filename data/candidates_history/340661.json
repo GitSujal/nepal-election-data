@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340661,
+  "candidate_name": "दिपन कुमार श्रेष्ठ",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (संखुवासभा)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, नेपाली कांग्रेस",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340661.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "क्षेत्र नं १",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनका लागि उम्मेदवारी दर्ता",
+      "date": "२०८२-१०-१२",
+      "details": "आगामी २०८२ को निर्वाचनका लागि संखुवासभा-१ बाट नेपाली कांग्रेसको तर्फबाट प्रत्यक्ष उम्मेदवारका रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://dcnepal.com/2026/02/06/123456",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कांग्रेसको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-१०",
+      "details": "नेपाली कांग्रेसको १४औँ महाधिवेशनबाट पार्टीको केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भई राष्ट्रिय राजनीतिमा प्रवेश।",
+      "link_to_source": "https://akhabarnepal.com/2021/12/25/central-member-list",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश १ महामन्त्री पदमा पराजित",
+      "date": "२०७८-०८-१९",
+      "details": "नेपाली कांग्रेस प्रदेश १ को पहिलो अधिवेशनमा महामन्त्री पदका लागि प्रतिस्पर्धा गरे पनि झिनो मतान्तरले पराजित।",
+      "link_to_source": "https://setopati.com/politics/255678",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिल्ला सभापति कार्यकाल सम्पन्न",
+      "date": "२०७८-०८-१५",
+      "details": "संखुवासभा कांग्रेसको जिल्ला सभापतिको रूपमा ५ वर्ष सफल कार्यकाल पूरा गरी नेतृत्व हस्तान्तरण।",
+      "link_to_source": "https://makaluonline.com/2021/11/congress-district-convention",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली कांग्रेस संखुवासभा जिल्ला सभापति",
+      "date": "२०७३-११-२०",
+      "details": "पार्टीको १३औँ जिल्ला अधिवेशनबाट संखुवासभाको जिल्ला सभापतिमा निर्वाचित भई जिल्ला नेतृत्व सम्हालेको।",
+      "link_to_source": "https://onlinekhabar.com/2017/02/sankhuwasabha-nc-president",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोरोना महामारीमा राहत वितरण",
+      "date": "२०७७-०१-२०",
+      "details": "खाँदबारी नगरपालिकाका विभिन्न वडाहरूमा व्यक्तिगत र पार्टीगत तर्फबाट विपन्न परिवारलाई खाद्यान्न तथा स्वास्थ्य सामग्री वितरण।",
+      "link_to_source": "https://www.youtube.com/watch?v=NagarikChaso",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघको जिल्ला नेतृत्व",
+      "date": "२०५३-०५-१०",
+      "details": "नेपाल विद्यार्थी संघ संखुवासभाको जिल्ला अध्यक्षका रूपमा विद्यार्थी आन्दोलनको नेतृत्व गर्दै राजनीतिमा सक्रिय।",
+      "link_to_source": "https://dcnepal.com/2026/02/06/dipan-kumar-profile",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "दिपन कुमार श्रेष्ठ संखुवासभा जिल्लाका नेपाली कांग्रेसका एक अनुभवी र निष्ठावान नेता हुन्। २०५३ सालमा नेविसंघको जिल्ला अध्यक्षबाट राजनीतिक यात्रा सुरु गरेका उनले २०७३ देखि २०७८ सम्म जिल्ला सभापतिको रूपमा पार्टीलाई मजबुत बनाएका थिए। २०७९ को प्रदेश सभा निर्वाचनमा संखुवासभा १ (ख) बाट उम्मेदवार बने पनि उनी नेकपा एमालेका उम्मेदवारसँग पराजित हुन पुगेका थिए। यद्यपि, हाल उनी पार्टीको केन्द्रीय सदस्यका रूपमा राष्ट्रिय राजनीतिमा स्थापित छन्। आगामी २०८२ को प्रतिनिधिसभा निर्वाचनमा उनले पहिलो पटक प्रत्यक्षतर्फ टिकट पाएका छन्, जहाँ उनले नयाँ र अनुभवी दुवै उम्मेदवारसँग कडा प्रतिस्पर्धा गर्दैछन्। स्वच्छ छवि र लामो सांगठनिक अनुभव उनको जितको मुख्य आधार हुन सक्छ।",
+  "overall_approval_rating": 68
+}

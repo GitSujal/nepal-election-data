@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339369,
+  "candidate_name": "भानु भक्त वोहरा",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339369.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "भानु भक्त वोहराले कञ्चनपुर निर्वाचन क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339369",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत प्राप्त",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उनले जम्मा ३६ मत प्राप्त गरे र उनी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/Search?styp=constituency&dist=71&const=2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "भानु भक्त वोहरा कञ्चनपुर जिल्लाका एक स्थानीय स्वतन्त्र राजनीतिज्ञ हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा कञ्चनपुर निर्वाचन क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए। उक्त निर्वाचनमा उनले जम्मा ३६ मत मात्र प्राप्त गरेका थिए, जसले उनको चुनावी प्रभाव निकै न्यून रहेको देखाउँछ। उनका बारेमा कुनै ठूला राजनीतिक उपलब्धि वा विवादहरू सार्वजनिक भएका छैनन्। उनी मुख्यतया एक स्थानीय उम्मेदवारको रूपमा मात्र चुनावी प्रक्रियामा सहभागी भएका देखिन्छन्।",
+  "overall_approval_rating": 10
+}

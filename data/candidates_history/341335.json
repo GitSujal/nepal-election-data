@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341335,
+  "candidate_name": "रामचन्द्र चौधरी थारु",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harka_Sampang_Party_Flag.jpg/300px-Harka_Sampang_Party_Flag.jpg",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "नवलपरासी जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341335.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीमा प्रवेश",
+      "date": "२०८२-०७-१७",
+      "details": "धरानका मेयर हर्क साम्पाङले स्थापना गरेको श्रम संस्कृति पार्टीमा आबद्ध भई नवलपरासी पश्चिममा पार्टीको संगठन विस्तारमा सक्रिय भएका।",
+      "link_to_source": "https://onlinekhabar.com/2025/11/1572005",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-०७",
+      "details": "२०८४ को आम निर्वाचनका लागि श्रम संस्कृति पार्टीको तर्फबाट नवलपरासी पश्चिम निर्वाचन क्षेत्र नम्बर १ बाट उम्मेदवारका रूपमा अगाडि सारिएको।",
+      "link_to_source": "https://khojsamachar.com/2026/01/21/shram-sanskriti-party-candidate-list/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम र संस्कृति अभियानको नेतृत्व",
+      "date": "२०८२-०८-०५",
+      "details": "स्थानीय तहमा थारु संस्कृति र श्रमको सम्मानका लागि विभिन्न जनचेतनामूलक कार्यक्रमहरू संचालन गरेको।",
+      "link_to_source": "https://deshsanchar.com/2025/11/02/harka-sampang-shram-sanskriti-party/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी क्षेत्र नं १ बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचनमा प्रतिस्पर्धा गरे पनि न्यून मत प्राप्त गरी पराजित भएका।",
+      "link_to_source": "https://nepsebajar.com/election-result-navalparasi-west-1/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रामचन्द्र चौधरी थारु नवलपरासी (बर्दघाट सुस्ता पश्चिम) का एक स्थानीय राजनीतिज्ञ हुन् जो हाल धरानका मेयर हर्क साम्पाङ नेतृत्वको 'श्रम संस्कृति पार्टी' सँग आबद्ध छन्। २०७९ को निर्वाचनमा स्वतन्त्र उम्मेदवारका रूपमा खासै प्रभाव पार्न नसकेका चौधरीले अहिले नयाँ राजनीतिक शक्तिको आडमा आफ्नो प्रभाव विस्तार गर्न खोजिरहेका छन्। उनी विशेष गरी थारु समुदायको हकहित र श्रमको मुद्दालाई प्राथमिकता दिने दाबी गर्छन्। यद्यपि, विनोद चौधरी र हृदयेश त्रिपाठी जस्ता हेभीवेट राजनीतिज्ञहरूको प्रभाव रहेको यस क्षेत्रमा नयाँ पार्टीको तर्फबाट चुनाव जित्नु उनका लागि ठूलो चुनौती देखिन्छ। उनको परिचय अहिले मुख्यतया साम्पाङको 'माटो' अभियानसँग जोडिएका स्थानीय कार्यकर्ताको रूपमा रहेको छ।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,79 @@
+{
+  "candidate_id": 342560,
+  "candidate_name": "धर्मनाथ प्रसाद साह",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व सामान्य प्रशासन मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता (पूर्व उपाध्यक्ष, एकीकृत समाजवादी)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342560.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा (एमाले) मा पुनरागमन",
+      "date": "२०८१-०१-१५",
+      "details": "एकीकृत समाजवादी छोडेर धर्मनाथ प्रसाद साह पुनः आफ्नो पुरानो पार्टी नेकपा (एमाले) मा फर्किएका छन्।",
+      "link_to_source": "https://www.nagariknetwork.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा निर्वाचन क्षेत्र नं ४ बाट एकीकृत समाजवादीको उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा १४,६५३ मतसहित तेस्रो स्थानमा रही पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtpYkRwB6G0t4mRwlhdlUTPXJvzZ0ExnAz55FxI3hrUI13Z-YoGkfSDmhvyH5AYs_eItrzbFqCDi1Yw9sbKPCdGmKy4QIDuvwsAvHMJlRjFYikikx6MY7moO-MRCt0faC_OXjZrK7RDriZE7xdk3MFHWVopBcZH-53iu9Pd_1qb2z--ddg23bml3VotkQaRsLqHw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एकीकृत समाजवादीको उपाध्यक्षमा चयन",
+      "date": "२०७८-०६-०७",
+      "details": "एमाले विभाजनपछि माधवकुमार नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) को केन्द्रीय उपाध्यक्षको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGXWBgp06nfzqmDzlq0IOUTwiN_YoNwHCJ526nsfc34Ig_g0kuyWJyeUxWvn2CzSrTSKEUZNVKc1kxA-BIUGjTIh-zSs13hT0Fcu5LewaUI9Cy0odGm1F69eGh1ooK97K27-h_L7XtUYCYIUJVjQd323_GjXvbX7DG1_8k375wEZEZWbaIm_emWmUxTY6kExdS4Pf0hx7euggp8S_rw40MsXVVS1ZSohuZggw=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामान्य प्रशासन मन्त्रीको कार्यभार",
+      "date": "२०६३-०१-१०",
+      "details": "गिरिजा प्रसाद कोइराला नेतृत्वको सरकारमा उनी नेपाल सरकारको सामान्य प्रशासन मन्त्रीको रूपमा कार्य गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEylzS5ECvgJfcFEKlfMDU17ASD7UlVGdqQpIAb0L89_WkZ7twTo-tNkhsCbZ_NA6tpPykchSauLAU4NCmgBl2Ta5ysyNL91HlLwP4y61K12_StDTBUGMkQK6SbVm7xTrQes0I3lS_OfJJfzc1DVg==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संसदीय निर्वाचन विजय",
+      "date": "२०५६-०२-०१",
+      "details": "२०५६ सालको आम निर्वाचनमा सिराहा निर्वाचन क्षेत्र नं ५ बाट प्रतिनिधि सभा सदस्यमा निर्वाचित भई संसदीय यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEylzS5ECvgJfcFEKlfMDU17ASD7UlVGdqQpIAb0L89_WkZ7twTo-tNkhsCbZ_NA6tpPykchSauLAU4NCmgBl2Ta5ysyNL91HlLwP4y61K12_StDTBUGMkQK6SbVm7xTrQes0I3lS_OfJJfzc1DVg==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "धर्मनाथ प्रसाद साह सिराहाका एक अनुभवी र पुराना वामपन्थी नेता हुन्। उनी लामो समय नेकपा (एमाले) मा आबद्ध रही दुई पटक संसदमा पुगेका र मन्त्री समेत बनेका व्यक्ति हुन्। २०७८ मा पार्टी विभाजन हुँदा एकीकृत समाजवादीमा लागेर उपाध्यक्ष जस्तो गरिमामय पद सम्हालेका साहले २०७९ को निर्वाचनमा सिराहा ४ बाट पराजय भोग्नुपर्यो। निर्वाचनमा प्राप्त मतले उनको व्यक्तिगत प्रभाव अझै कायमै रहेको देखाए पनि पार्टी परिवर्तन र उमेरका कारण उनको लोकप्रियतामा केही ह्रास आएको विश्लेषण गरिन्छ। हाल उनी पुनः एमालेमा फर्किएका छन्, जसलाई उनको राजनीतिक भविष्य सुरक्षित गर्ने दाउपेचका रूपमा हेरिएको छ। यद्यपि, स्थानीय मतदातामाझ उनी निर्वाचनको बेला मात्रै देखिने नेताको रूपमा परिचित रहेका छन्।",
+  "overall_approval_rating": 65
+}

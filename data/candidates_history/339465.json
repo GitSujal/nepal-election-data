@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339465,
+  "candidate_name": "दीपेन्द्र प्रसाद यादव",
+  "candidate_party": "नेपाल जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_the_Nepal_Janata_Party.svg/1200px-Flag_of_the_Nepal_Janata_Party.svg.png",
+  "candidates_current_position": "स्थानीय नेता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339465.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को आम निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल जनता पार्टीको तर्फबाट सप्तरी निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए। सो निर्वाचनमा उनले १३७ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/SearchCondition.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "हिन्दुत्व र धार्मिक एजेन्डा बोकेको नेपाल जनता पार्टीमा आबद्ध भई सप्तरी जिल्लामा पार्टीको संगठन विस्तार र स्थानीय मुद्दाहरूमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://hindupost.in/world/nepal-janta-party-a-new-political-party-making-waves-in-nepal/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दीपेन्द्र प्रसाद यादव सप्तरी जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जो 'नेपाल जनता पार्टी' (NJP) सँग आबद्ध छन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा सप्तरी क्षेत्र नम्बर १ बाट उम्मेदवारी दिए पनि उनले उल्लेख्य जनसमर्थन जुटाउन सकेनन् र केवल १३७ मतमा खुम्चिनु पर्यो। उनी आबद्ध रहेको दलले नेपाललाई हिन्दू राष्ट्र पुनःस्थापना गर्ने एजेन्डा बोकेको छ, तर मधेश प्रदेशको चुनावी राजनीतिमा जनता समाजवादी पार्टी र जनमत पार्टी जस्ता ठूला शक्तिहरूको तुलनामा उनको प्रभाव निकै न्यून देखिन्छ। उनको हालसम्म कुनै मन्त्री पद वा राजकीय जिम्मेवारी सम्हालेको रेकर्ड छैन र उनको छवि मुख्यतया एक साना दलको स्थानीय उम्मेदवारको रूपमा मात्रै सीमित छ।",
+  "overall_approval_rating": 28
+}

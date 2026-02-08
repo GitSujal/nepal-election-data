@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339419,
+  "candidate_name": "सिता राम राना",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/NWPP_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339419.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट कञ्चनपुर क्षेत्र नं २ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए। उनी १८१ मत प्राप्त गर्दै आठौं स्थानमा रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFBSOOZJu6EenSyVYm31MMt0LVpvbg2PHy9VKIwDv075eSc7_jZaOMDDxa27EhqMcq7Vt9FQsutRE8dzcUwwzSX97a-ShMfEqsUJyMhsnLsTU0d2C5CjVT1kvLSBOeedGrwWn_FZWnWXfLmZWpyqHrr9oD7u7gWycuJgZHEctHtIb9ydaekWFixuQ=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेमकिपाको तर्फबाट कञ्चनपुर निर्वाचन क्षेत्र नं २ मा प्रतिनिधि सभाका लागि आधिकारिक रूपमा उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPSyQEOOB9zX4Jm6mvVHgTwgxntri3vVSqlx4datetrD7EoW_JFOpq4EmY-QyU6WQ7ExLe0nQgTyUSb2-r9vOOFk240eiObcAw44y1jJWkDGkObWHbCdn9uCjvGjJfBznxE3cHwSI=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सिता राम राना नेपाल मजदुर किसान पार्टीका एक निष्ठावान तर निर्वाचनमा कमजोर प्रभाव भएका कार्यकर्ता हुन्। २०७९ को निर्वाचनमा कञ्चनपुर क्षेत्र नं २ बाट प्रतिस्पर्धा गर्दा उनले निकै कम अर्थात् १८१ मत मात्र प्राप्त गरे, जसले उनको स्थानीय स्तरमा जनाधार अत्यन्तै कमजोर रहेको पुष्टि गर्छ। उनी राना थारु समुदायको प्रतिनिधित्व गर्ने भएतापनि उनको राजनीतिक प्रभाव आफ्नै समुदायमा समेत स्थापित हुन सकेको देखिँदैन। सिड डेटाले उनलाई 'वगुवा' (Vaguwa) उम्मेदवारको रूपमा चित्रण गरेको छ, जसले उनी एकै स्थानमा स्थिर रहेर राजनीति नगर्ने वा निर्वाचनका बेला क्षेत्र परिवर्तन गर्ने प्रवृत्तिलाई संकेत गर्दछ। नेमकिपा जस्तो सीमित क्षेत्रमा प्रभाव भएको दलबाट उम्मेदवार बन्नु र प्राप्त मत संख्याले उनलाई राष्ट्रिय राजनीतिमा प्रभावहीन उम्मेदवारको रूपमा देखाउँछ।",
+  "overall_approval_rating": 25
+}

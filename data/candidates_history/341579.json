@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341579,
+  "candidate_name": "लवली थापा",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nepal_Election_Symbol_Soil.svg/1200px-Nepal_Election_Symbol_Soil.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341579.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "काठमाडौं - ५",
+      "result": "पराजित",
+      "party": "नेश्नलिष्ट पिपल्स पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०८२-०८-२२",
+      "details": "हर्क साम्पाङको नेतृत्वमा रहेको श्रम संस्कृति पार्टी निर्वाचन आयोगमा दर्ता भएपछि उनी उक्त पार्टीमा आबद्ध भएकी हुन्। पार्टीले काठमाडौंमा शक्ति प्रदर्शन गर्दा उनी सक्रिय देखिएकी थिइन्।",
+      "link_to_source": "https://bizmandu.com/content/20251102174345.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को आम निर्वाचनमा लज्जास्पद पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ५ बाट नेश्नलिष्ट पिपल्स पार्टीको तर्फबाट उम्मेदवारी दिएकी उनले मात्र २९ मत प्राप्त गरेकी थिइन्। उनी २३औं स्थानमा रहँदै पराजित भएकी थिइन्।",
+      "link_to_source": "https://nepsebajar.com/election-result-kathmandu-5/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "काठमाडौं क्षेत्र नं. ५ बाट मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "प्रतिनिधि सभा निर्वाचनका लागि उनले नेश्नलिष्ट पिपल्स पार्टीको तर्फबाट प्रत्यक्षतर्फको उम्मेदवारी दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लवली थापा काठमाडौंको राजनीतिमा एक सीमान्तकृत उम्मेदवारको रूपमा चिनिन्छिन्। २०७९ को आम निर्वाचनमा उनले काठमाडौं-५ बाट नेश्नलिष्ट पिपल्स पार्टीको प्रतिनिधित्व गर्दै मात्र २९ मत प्राप्त गर्नुले उनको क्षेत्रमा अत्यन्तै कमजोर जनमत रहेको पुष्टि गर्दछ। निर्वाचन लगत्तै उनले दल परिवर्तन गरी हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टी रोज्नुले उनको 'वागुवा' (अस्थिर) प्रवृत्तिलाई झल्काउँछ। साना र नयाँ दलहरूमा अवसर खोज्ने उनको यो शैलीले मतदातामाझ कुनै ठोस एजेन्डा वा विचारधारा पुर्याउन सकेको देखिँदैन। काठमाडौं जस्तो सचेत मतदाता भएको क्षेत्रमा यति न्यून मत पाउनुले उनको राजनीतिक भविष्य चुनौतीपूर्ण रहेको संकेत गर्दछ।",
+  "overall_approval_rating": 15
+}

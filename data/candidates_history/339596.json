@@ -1,0 +1,95 @@
+{
+  "candidate_id": 339596,
+  "candidate_name": "शैलेन्‍द्र घिमिरे",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hammer_and_sickle.svg/1024px-Hammer_and_sickle.svg.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, नेपाली कम्युनिष्ट पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339596.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनका लागि मनोनयन दर्ता",
+      "date": "२०८२-१०-०६",
+      "details": "स्याङ्जा क्षेत्र नम्बर १ बाट आगामी निर्वाचनका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/01/1429000",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१० वामपन्थी समूहको एकता, केन्द्रीय सदस्यमा चयन",
+      "date": "२०८२-०७-१९",
+      "details": "विभिन्न १० वटा वामपन्थी राजनीतिक दल र समूहहरू मिलेर बनेको नयाँ 'नेपाली कम्युनिष्ट पार्टी' को केन्द्रीय सदस्यमा चयन।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A5%80_%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F_%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%80",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी केन्द्र स्याङ्जा जिल्ला इन्चार्ज",
+      "date": "२०७३-०४-१५",
+      "details": "नेकपा (माओवादी केन्द्र) को स्याङ्जा जिल्ला इन्चार्जको रूपमा साङ्गठनिक जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://www.nepalipatro.com.np/news/shailendra-ghimire-profile",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कास्की उत्तर-पश्चिम कमाण्डर (जनयुद्ध)",
+      "date": "२०६२-०५-१०",
+      "details": "सशस्त्र द्वन्द्वका क्रममा कास्की जिल्लाको उत्तर-पश्चिम क्षेत्रको कमाण्डरको भूमिकामा रहेको र सोही क्रममा गोली लागेर घाइते भएको।",
+      "link_to_source": "https://www.nepalipatro.com.np/news/shailendra-ghimire-profile",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रेडियो जनगणना (डोके रेडियो) को सञ्चालन",
+      "date": "२०६०-०२-२०",
+      "details": "माओवादी आन्दोलनका क्रममा भूमिगत रूपमा 'रेडियो जनगणना' को कार्यक्रम निर्माता तथा प्रस्तोताका रूपमा सक्रिय।",
+      "link_to_source": "https://www.nepalipatro.com.np/news/shailendra-ghimire-profile",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमाले परित्याग गरी माओवादी आन्दोलनमा प्रवेश",
+      "date": "२०५७-०६-०१",
+      "details": "नेकपा एमालेको राजनीति छोडेर सशस्त्र संघर्षमा सहभागी हुन माओवादी आन्दोलनमा प्रवेश गरेको।",
+      "link_to_source": "https://www.nepalipatro.com.np/news/shailendra-ghimire-profile",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पाटन क्याम्पस स्ववियु राजनीति र अनेरास्ववियु अध्यक्ष",
+      "date": "२०५१-०१-१५",
+      "details": "अनेरास्ववियुको तर्फबाट पाटन संयुक्त क्याम्पसको इकाइ अध्यक्षको रूपमा विद्यार्थी राजनीतिको नेतृत्व।",
+      "link_to_source": "https://www.nepalipatro.com.np/news/shailendra-ghimire-profile",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात (नेकपा एमाले)",
+      "date": "२०४७-०५-०१",
+      "details": "२०४७ सालमा नेकपा एमालेको पार्टी सदस्य लिएर औपचारिक राजनीतिक जीवनको सुरुवात।",
+      "link_to_source": "https://www.nepalipatro.com.np/news/shailendra-ghimire-profile",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शैलेन्द्र घिमिरे स्याङ्जाका एक अनुभवी वामपन्थी नेता हुन्, जसको राजनीतिक आधार विद्यार्थी आन्दोलन र माओवादी जनयुद्धमा रहेको छ। जनयुद्धका क्रममा गोली लागेर घाइते भएका घिमिरेलाई पार्टीभित्र 'त्याग र प्रतिबद्धताको प्रतीक' मानिन्छ। उनी एमालेबाट राजनीति सुरु गरी माओवादी हुँदै हाल ऋषि कट्टेल नेतृत्वको 'नेपाली कम्युनिष्ट पार्टी' मा आबद्ध छन्। उनले स्याङ्जा जिल्ला इन्चार्ज जस्ता महत्त्वपूर्ण साङ्गठनिक जिम्मेवारी सम्हाले पनि संसदीय निर्वाचनमा भने अहिलेसम्म अपेक्षित सफलता पाउन सकेका छैनन्। २०७० को संविधानसभा निर्वाचनमा उनी पराजित भएका थिए। वर्तमानमा उनी ठूला दलहरू (नेपाली कांग्रेस र एमाले) को दबदबा रहेको स्याङ्जा क्षेत्र नं १ मा साना वामपन्थी शक्तिहरूको प्रतिनिधित्व गर्दै चुनावी मैदानमा छन्। उनको मुख्य चुनौती संगठनको सानो आधार र स्थापित ठूला दलहरूसँगको प्रतिस्पर्धा नै हो।",
+  "overall_approval_rating": 52
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341574,
+  "candidate_name": "मंगल ऋषिदेव",
+  "candidate_party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Federal_Democratic_National_Forum.svg/1200px-Flag_of_Federal_Democratic_National_Forum.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा समाजसेवी",
+  "candidates_current_position_in_party": "मोरङ जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341574.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "निर्वाचन क्षेत्र नं ५",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मंगल ऋषिदेवले मोरङ क्षेत्र नं ५ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको तर्फबाट उम्मेदवारी दिएका थिए। उनले कुल १०३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341574-mangal-rishidev",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कोरोना महामारी र व्यक्तिगत संघर्ष",
+      "date": "२०७७-०२-१४",
+      "details": "अति विपन्न मुसहर समुदायका ऋषिदेवले कोरोना लकडाउनका बेला दैनिक ज्यालादारी काम गुमाउँदा ठूलो आर्थिक संकट भोगेका थिए। उनी र उनको परिवारले दातृ निकायको सहयोगमा गुजारा चलाउनु परेको थियो।",
+      "link_to_source": "https://eha-health.org/stories/story-of-mangal-rishidev",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मुसहर समुदायको प्रतिनिधित्व",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि मोरङका सीमान्तकृत मुसहर समुदायको हकहितका लागि स्थानीयस्तरमा समाजसेवीको रूपमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341574-mangal-rishidev",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मंगल ऋषिदेव मोरङका एक भुईँतहका राजनीतिकर्मी हुन् जसले सीमान्तकृत मुसहर (ऋषिदेव) समुदायको प्रतिनिधित्व गर्दछन्। पेशाले राजमिस्त्री रहेका उनी संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको माध्यमबाट पहिचान र अधिकारको राजनीतिमा जोडिएका हुन्। २०७९ को निर्वाचनमा मोरङ क्षेत्र नं ५ बाट उम्मेदवारी दिए पनि उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्, जसले उनको चुनावी पकड कमजोर रहेको देखाउँछ। स्रोतमा उल्लेखित 'वगुवा' ट्यागले उनको रोजगारीको सिलसिलामा हुने बसाइँसराइ वा राजनीतिक अस्थिरतालाई संकेत गरेको हुन सक्छ। यद्यपि, उनी आफ्नो समुदायको मुद्दालाई चुनावी एजेन्डा बनाउन निरन्तर प्रयत्नशील देखिन्छन्।",
+  "overall_approval_rating": 45
+}

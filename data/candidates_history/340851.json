@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340851,
+  "candidate_name": "बल राम थापा",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Flag_of_Rastriya_Prajatantra_Party.png",
+  "candidates_current_position": "राजनीतिक नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340851.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "१०",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०५",
+      "details": "काठमाडौं निर्वाचन क्षेत्र नम्बर १० बाट राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका थापाले ६,९५९ मत प्राप्त गरी चौथो स्थानमा रहे। उनले कुल सदर मतको करिब १३.६ प्रतिशत मत पाएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Kathmandu_10_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकीकरण र आवद्धता",
+      "date": "२०७७-०१-०१",
+      "details": "राप्रपाका विभिन्न घटकहरू (राप्रपा संयुक्त र राप्रपा नेपाल) बीचको एकीकरणपछि उनी एकीकृत राष्ट्रिय प्रजातन्त्र पार्टीमा सक्रिय रहेका हुन्। उनले पार्टीका विभिन्न स्थानीय र केन्द्रीय जिम्मेवारीहरू सम्हाल्दै आएका छन्।",
+      "link_to_source": "https://wikipedia.org/wiki/Rastriya_Prajatantra_Party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक पृष्ठभूमि",
+      "date": "२०४९-०३-१५",
+      "details": "उनले प्रवेशिका परीक्षा (SLC) सम्मको शिक्षा हासिल गरेका छन् र लामो समयदेखि काठमाडौंको स्थानीय राजनीतिमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/bal-ram-thapa",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बल राम थापा राष्ट्रिय प्रजातन्त्र पार्टीका एक निष्ठावान स्थानीय नेता हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा काठमाडौं क्षेत्र नम्बर १० बाट उनले प्राप्त गरेको ६,९५९ मतले त्यस क्षेत्रमा राप्रपाको बलियो उपस्थितिलाई दर्शाउँछ। यद्यपि उनले निर्वाचन जित्न सकेनन्, तर नेपाली कांग्रेसका राजेन्द्र कुमार केसी र एमालेका उम्मेदवारहरूलाई कडा चुनौती दिएका थिए। उनको राजनीतिक शक्ति मुख्यतया काठमाडौंको स्थानीय मतदाता र राप्रपाको परम्परागत मत बैंकमा आधारित छ। राष्ट्रिय स्तरमा कुनै ठूला काण्ड वा विवादमा नमुछिएका थापालाई एक सफा छविको नेताका रूपमा लिइन्छ, तर नीति निर्माणको तहमा पुग्न उनलाई थप जनमतको आवश्यकता देखिन्छ।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341113,
+  "candidate_name": "कृष्ण खत्री",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341113.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सुर्खेत-२ बाट स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०८२-१०-०७",
+      "details": "२०८२ फागुनमा हुने भनिएको निर्वाचनका लागि सुर्खेत क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkc31yVrGHK3jfLgNmvLvaJUD5adWhgLrO89SYQV1ILpTw3vYkzvPcZ4Omm4QiSN_Q-eowez1f8M_UOBWReqcIVqJUSVbOCu1IahZDX7rZiYLDbHJewWqiP09nDpf8I2rw2TrTzMT1C6SGGLWv7Ik3zR8WPzOI5ckGMvDa",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (काभ्रेबाट सुर्खेत)",
+      "date": "२०८२-१०-०१",
+      "details": "अघिल्लो निर्वाचनमा काभ्रेपलाञ्चोकबाट प्रतिस्पर्धा गरेका खत्रीले यसपटक सुर्खेत रोजेका छन्, जसलाई राजनीतिक वृत्तमा 'भगुवा' उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkc31yVrGHK3jfLgNmvLvaJUD5adWhgLrO89SYQV1ILpTw3vYkzvPcZ4Omm4QiSN_Q-eowez1f8M_UOBWReqcIVqJUSVbOCu1IahZDX7rZiYLDbHJewWqiP09nDpf8I2rw2TrTzMT1C6SGGLWv7Ik3zR8WPzOI5ckGMvDa",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "काभ्रेपलाञ्चोक-२ मा भारी पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "प्रतिनिधिसभा निर्वाचन २०७९ मा काभ्रेपलाञ्चोक क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवार बनेका खत्रीले मात्र ४५ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlbZfNW0igb5PWfoBbdi-NUMuHW1oagoxdL94KS_ZJVZh6d_CyX3UTzj5f7XYFAFaL8OAndKbFudEf6DxBQW1TgI7EifYGceQ3uXEPG6j6od3RlDAUkHGgqaBcx6cgww13DvdjNXs3LAnTgejW2saOLDPJIsCnpsDS29fpAuUw",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "कृष्ण खत्री एक स्वतन्त्र राजनीतिक उम्मेदवार हुन् जसको चुनावी इतिहास निकै कमजोर देखिन्छ। २०७९ को आम निर्वाचनमा काभ्रेपलाञ्चोक-२ बाट उम्मेदवारी दिएका उनले केवल ४५ मत प्राप्त गरेका थिए, जुन कुल सदर मतको नगन्य हिस्सा हो। हाल उनले आफ्नो निर्वाचन क्षेत्र परिवर्तन गरी सुर्खेत-२ बाट उम्मेदवारी दिएका छन्, जसले गर्दा उनलाई राजनीतिक रूपमा 'भगुवा' (Vaguwa) उम्मेदवारको रूपमा चित्रण गरिएको छ। भौगोलिक रूपमा असम्बन्धित क्षेत्रमा पटक-पटक स्थान परिवर्तन गर्नुले उनको स्थानीय आधार क्षेत्र र राजनीतिक स्थिरताको अभावलाई प्रष्ट पार्छ। उनले वीरेन्द्रनगरमा आइटी हब बनाउने जस्ता विकासका एजेन्डाहरू अघि सारे पनि सांगठनिक शक्तिको अभाव र विगतको कमजोर मत परिणामले गर्दा उनको चुनावी प्रभाव न्यून देखिन्छ।",
+  "overall_approval_rating": 12
+}

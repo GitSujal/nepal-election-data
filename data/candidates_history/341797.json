@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341797,
+  "candidate_name": "राज किशोर महतो",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/10/rsp-logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341797.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "N/A",
+      "district": "धनुषा",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नम्बर ४ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://nepsebajar.com/election/district/dhanusha",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०४-१५",
+      "details": "वैकल्पिक राजनीतिको आवश्यकता महसुस गर्दै विवेकशील साझा पार्टी छोडेर उनी राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भएका।",
+      "link_to_source": "https://ekantipur.com/news/2022/06/21/165581179611681285.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७५-०५-१०",
+      "details": "मधेस प्रदेशमा विवेकशील साझा पार्टीको सांगठनिक विस्तार र सुशासनका एजेन्डामा लामो समय सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://ujyaaloonline.com/candidate-detail/341797",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "धनुषामा वैकल्पिक राजनीतिको वकालत",
+      "date": "२०७७-१०-१२",
+      "details": "परम्परागत दलहरूको विकल्पका रूपमा नयाँ शक्ति निर्माण गर्न धनुषाका स्थानीय मुद्दाहरूमा आवाज उठाएका।",
+      "link_to_source": "https://nepsebajar.com/election/district/dhanusha",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राज किशोर महतो धनुषा जिल्लाको क्षेत्र नं. ४ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार थिए। उनले राजनीतिमा वैकल्पिक धारको वकालत गर्दै सुशासन र भ्रष्टाचार नियन्त्रणलाई मुख्य एजेन्डा बनाएका छन्। यसअघि उनी विवेकशील साझा पार्टीमा रहेर सांगठनिक काममा सक्रिय थिए, जसले उनको राजनीतिक पृष्ठभूमि वैकल्पिक राजनीतिसँग जोडिएको पुष्टि गर्दछ। मधेसको जातीय र परम्परागत राजनीतिको कडा प्रभावका कारण उनले निर्वाचनमा विजय हासिल गर्न सकेनन्, तर उनी एक निष्कलंक र इमानदार राजनीतिकर्मीका रूपमा चिनिन्छन्। उनको उम्मेदवारीले मधेसमा नयाँ पार्टी र युवा नेतृत्वप्रतिको आकर्षणलाई उजागर गरेको थियो। हाल उनी राष्ट्रिय स्वतन्त्र पार्टीको सांगठनिक सुदृढीकरणमा संलग्न छन्।",
+  "overall_approval_rating": 58
+}

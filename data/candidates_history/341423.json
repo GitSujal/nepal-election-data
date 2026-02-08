@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341423,
+  "candidate_name": "देव नारायण महतो",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341423.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/Search_CandidateHoR.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "सुनसरी ३ बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचन लडेका उनले कुल ४० मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/PreviousElectionHoR2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "देव नारायण महतो सुनसरी जिल्लाका एक स्वतन्त्र राजनीतिक उम्मेदवार हुन्। उनले २०७४ र २०७९ दुवै प्रतिनिधि सभा निर्वाचनमा सुनसरी क्षेत्र नं. ३ बाट स्वतन्त्र रूपमा प्रतिस्पर्धा गरेका थिए। २०७४ को निर्वाचनमा उनले मात्र ४० मत प्राप्त गरेका थिए, जसले उनको चुनावी जनाधार अत्यन्तै कमजोर रहेको पुष्टि गर्छ। स्रोतले उनलाई 'वागुवा' (अस्थिर) उम्मेदवारको रूपमा वर्गीकरण गरेको छ, जसले उनी राजनीतिक रूपमा कुनै निश्चित दल वा एजेन्डामा टिक्न नसकेको संकेत गर्दछ। उनको सार्वजनिक जीवनमा कुनै ठूला घोटाला वा भ्रष्टाचारका मुद्दाहरू नदेखिए पनि उल्लेखनीय राजनीतिक उपलब्धिहरू पनि फेला परेका छैनन्। सुनसरीको राजनीतिमा उनी एक सिमान्तकृत र कम प्रभाव भएको उम्मेदवारको रूपमा परिचित छन्।",
+  "overall_approval_rating": 15
+}

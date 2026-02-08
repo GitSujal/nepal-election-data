@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339752,
+  "candidate_name": "राम नारायण साह",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Nepal_Workers_Peasants_Party_Logo.svg/1024px-Nepal_Workers_Peasants_Party_Logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरका नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339752.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी जिल्लाको निर्वाचन क्षेत्र नम्बर १ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/saptari?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मजदुर किसान पार्टीको विचारधारा प्रचार",
+      "date": "२०७५-०३-१५",
+      "details": "सप्तरी जिल्लामा नेमकिपाको सांगठनिक विस्तार र मजदुर-किसानका मुद्दाहरूमा निरन्तर सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nwpp.org.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राम नारायण साह नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान कार्यकर्ता हुन्। उनले सप्तरी निर्वाचन क्षेत्र नम्बर १ बाट २०७९ को निर्वाचनमा प्रतिस्पर्धा गरे तापनि उनले निकै कम मत (१३९) मात्र प्राप्त गरेका थिए। मधेश प्रदेशमा नेमकिपाको प्रभाव कम रहेका कारण र ठूला दलहरूको तीव्र प्रतिस्पर्धाका बीच उनी पराजित हुन पुगे। उनको राजनीतिक छवि स्वच्छ रहेको देखिन्छ र उनी कुनै पनि ठूला भ्रष्टाचार वा काण्डहरूमा मुछिएका छैनन्। उनलाई मुख्य रूपमा पार्टीको विचारधारा मधेशमा विस्तार गर्ने सक्रिय कार्यकर्ताका रूपमा हेरिन्छ।",
+  "overall_approval_rating": 42
+}

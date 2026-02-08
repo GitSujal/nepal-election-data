@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340206,
+  "candidate_name": "हरि प्रसाद घिमिरे",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Flag_of_Rastriya_Prajatantra_Party.svg",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "सदस्य, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340206.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रसुवा",
+      "constituency": "१ (ख)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रसुवा १ (ख) प्रदेश सभा निर्वाचनमा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टीको उम्मेदवारका रूपमा रसुवा १ (ख) बाट प्रदेश सभामा प्रतिस्पर्धा गरी २७७ मत प्राप्त गर्दै तेस्रो स्थानमा रहे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuD3h4Pyk_vDUC7MqxoGNUObAPAEHSKiSYSm_1u_GHeqtr39ZZPMMBUxI0PF014h-OV4LI2Jt6VjM0hAdCLI_DMRGvPX9NNsAHlMmflAeT7h6dPP38ozLu5RMHjTqdfR6kBWmK1j6A1GDC_Qkcv6t3ZtCJoO1FoBHxUIYUweyr0qT-fbXZpJDQuaTbpQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "धादिङ २ बाट स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धादिङ निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यमा स्वतन्त्र उम्मेदवारी दिएका उनले मात्र २० मत प्राप्त गरी लज्जास्पद हार बेहोरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWz52Zf9iYTOSCi9pittOmK943FMBn-nX9iP7v6UbpTMChfTzoVmPxk34VE7vzGb9Ycy8LfEj9oOe6uAkrJoiOM-LRPLKKFW2gXlSEtlvtUPEGGaOT2FF4ExfQWpjRQ4B0BaEAa3s7drw4A3kbtRyjhuoduN0Xaa8PEAqyjpvUV6yoslzyt70DJcZEO2jj",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र र जिल्ला परिवर्तन",
+      "date": "२०७९-०७-२०",
+      "details": "आफ्नो पुरानो क्षेत्र धादिङ छाडेर रसुवामा राजनीतिक गतिविधि केन्द्रित गर्दै राप्रपामा प्रवेश गरी निर्वाचन क्षेत्र परिवर्तन गरेका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "हरि प्रसाद घिमिरे एक राजनीतिक अस्थिरता भएका उम्मेदवार हुन् जसले २०७९ को निर्वाचनमा दुई फरक जिल्ला र पदमा उम्मेदवारी दिएर चर्चामा आएका थिए। धादिङ क्षेत्र नं. २ बाट प्रतिनिधि सभामा स्वतन्त्र उम्मेदवार बन्दा उनले अत्यन्तै न्यून अर्थात् २० मत मात्र पाएका थिए भने रसुवा १(ख) बाट राप्रपाको तर्फबाट प्रदेश सभामा २७७ मत प्राप्त गरे। उनको यो धादिङबाट रसुवामा भएको निर्वाचन क्षेत्र स्थानान्तरणले उनलाई 'बगुवा उम्मेदवार' को रूपमा स्थापित गरेको छ। निर्वाचन क्षेत्र परिवर्तन र प्राप्त मतको आधारमा हेर्दा स्थानीय मतदातामाझ उनको पकड र विश्वास निकै कमजोर देखिन्छ। एसएससी भन्दा कम शैक्षिक योग्यता भएका घिमिरेको राजनीतिक प्रभाव र लोकप्रियता सीमित रहेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 12
+}

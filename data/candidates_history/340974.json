@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340974,
+  "candidate_name": "अमरेश कुमार सिंह",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340974.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ६",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०८२-१०-०५",
+      "details": "सर्लाही-४ बाट स्वतन्त्र रूपमा निर्वाचित सांसद सिंह जनकपुरमा आयोजित एक कार्यक्रमका बीच राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेका हुन्। उनलाई सभापति रवि लामिछानेले पार्टीमा स्वागत गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2026/01/1594910",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संसदमा अर्धनग्न भएर विरोध",
+      "date": "२०८०-०१-२५",
+      "details": "प्रतिनिधिसभाको बैठकमा सभामुखले बोल्न समय नदिएको भन्दै सांसद सिंहले विरोध स्वरूप आफ्नो सर्ट र भित्री गन्जी फुकालेर अर्धनग्न प्रदर्शन गरेका थिए।",
+      "link_to_source": "https://www.dailymotion.com/video/x8kqmzo",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नसेल घोटालाको खुलासा",
+      "date": "२०८०-०८-१७",
+      "details": "सिंहले एनसेल (Ncell) को शेयर बिक्रीमा अर्बौंको कर छली र घोटाला भएको दाबी गर्दै संसद र सार्वजनिक मञ्चहरूमा प्रमाणसहित आवाज उठाएका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=S2uR7_Wv0G0",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली कांग्रेसबाट निष्कासन",
+      "date": "२०७९-०७-०८",
+      "details": "पार्टीले आधिकारिक उम्मेदवार विरुद्ध बागी उम्मेदवारी दिएको भन्दै नेपाली कांग्रेसले सिंहलाई पार्टीको साधारण सदस्य समेत नरहने गरी निष्कासन गरेको थियो।",
+      "link_to_source": "https://nepalnews.com/s/nation/nc-expels-amresh-kumar-singh",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "भुटानी शरणार्थी काण्डमा कडा टिप्पणी",
+      "date": "२०८०-०२-१५",
+      "details": "नक्कली भुटानी शरणार्थी प्रकरणमा शीर्ष नेताहरूको संलग्नता रहेको भन्दै उनले संसदमा कडा आलोचना गरेका थिए र निष्पक्ष छानबिनको माग गरेका थिए।",
+      "link_to_source": "https://www.nepallivetoday.com/2023/05/08/amresh-singh-says-he-went-seminaked-as-speaker-denied-time-to-speak-against-corruption/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७९ निर्वाचनमा स्वतन्त्र जित",
+      "date": "२०७९-०८-०४",
+      "details": "कांग्रेसको आधिकारिक उम्मेदवार नागेन्द्र रायलाई १,७६४ मतान्तरले पराजित गर्दै सिंह २०,०१७ मतका साथ सर्लाही ४ बाट स्वतन्त्र सांसद निर्वाचित भए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/amresh-kumar-singh-sarlahi-4",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अन्तरिम संविधान जलाएको अभियोगमा पक्राउ",
+      "date": "२०६३-१०-०५",
+      "details": "मधेसी जनताका माग सम्बोधन नगरेको भन्दै अन्तरिम संविधान जलाएको आरोपमा उपेन्द्र यादवसँगै सिंह पनि काठमाडौंबाट पक्राउ परेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Amresh_Kumar_Singh",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "अमरेश कुमार सिंह सर्लाही-४ का एक प्रभावशाली र अत्यन्तै विवादित तर चर्चामा रहने राजनीतिज्ञ हुन्। उनी लगातार तीन पटक (२०७०, २०७४, २०७९) सर्लाहीबाट निर्वाचित भएका छन्, जसले उनको क्षेत्रमा बलियो व्यक्तिगत पकड रहेको पुष्टि गर्छ। २०७९ मा नेपाली कांग्रेसले टिकट नदिए पनि स्वतन्त्र रूपमा चुनाव जित्नु उनको चुनावी रणनीतिको सफलता मानिन्छ। संसदमा भ्रष्टाचार (विशेषगरी एनसेल र शरणार्थी प्रकरण) विरुद्ध खरो रूपमा उत्रने उनको छवि छ, यद्यपि संसदभित्र लुगा फुकालेर विरोध जनाउने जस्ता उनका शैलीलाई कतिपयले अराजक मान्छन्। मधेशी जनअधिकार फोरमबाट राजनीति सुरु गरी कांग्रेस हुँदै अहिले रास्वपामा पुगेका उनको पार्टी परिवर्तन गर्ने प्रवृत्तिलाई 'अवसरवादी' का रूपमा पनि विश्लेषण गरिन्छ। उनी सर्लाहीमा एक 'अजेय' शक्तिका रूपमा स्थापित छन्।",
+  "overall_approval_rating": 62
+}

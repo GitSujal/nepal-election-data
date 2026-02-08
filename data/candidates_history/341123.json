@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341123,
+  "candidate_name": "रुबिना आचार्य",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://swatantraparty.org.np/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341123.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "उपप्रमुख",
+      "district": "मोरङ",
+      "constituency": "विराटनगर महानगरपालिका",
+      "result": "पराजित",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ६",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नम्बर ६ बाट प्रतिनिधिसभा सदस्यका लागि राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएकी थिइन्, जहाँ उनले ९,८४५ मत प्राप्त गरिन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/morang-6",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०६-०१",
+      "details": "स्थानीय तहको निर्वाचन लगत्तै विवेकशील साझा पार्टी परित्याग गरी उनी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भइन्।",
+      "link_to_source": "https://khabarhub.com/2022/10/434567/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विराटनगर महानगरपालिका उपप्रमुख उम्मेदवारी",
+      "date": "२०७९-०१-३०",
+      "details": "विवेकशील साझा पार्टीको तर्फबाट विराटनगर महानगरपालिकाको उपमेयर पदमा उम्मेदवारी दिई चुनावी राजनीतिमा औपचारिक प्रवेश गरेकी थिइन्।",
+      "link_to_source": "https://election.ekantipur.com/local-election-2079/biratnagar-metropolitan-city",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पेशागत र शैक्षिक उपलब्धि",
+      "date": "२०७८-०१-०१",
+      "details": "थाइल्याण्डको थाम्सात विश्वविद्यालयबाट जनस्वास्थ्यमा स्नातकोत्तर (MPH) गरी अनुसन्धान र सामाजिक कार्यमा सक्रिय रहेकी थिइन्।",
+      "link_to_source": "https://www.researchgate.net/profile/Rubina-Acharya",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रुबिना आचार्य मोरङको राजनीतिमा एक प्रभावशाली युवा अनुहार हुन्। उनले २०७९ सालमा भएको दुवै तहको निर्वाचन (स्थानीय र आम निर्वाचन) मा उम्मेदवारी दिएर आफ्नो राजनीतिक सक्रियता देखाएकी छिन्। विराटनगरको उपमेयरमा पराजित भएपछि उनी विवेकशील साझा पार्टी छोडेर राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेकी थिइन्। मोरङ क्षेत्र नम्बर ६ मा डा. शेखर कोइराला र लालबाबु पण्डित जस्ता स्थापित नेताहरू विरुद्ध झन्डै १० हजार मत ल्याउनुलाई उनको व्यक्तिगत र पार्टीको बढ्दो आकर्षणको रूपमा हेरिन्छ। यद्यपि, छोटो समयमा पार्टी परिवर्तन गर्नु र लगातार दुई चुनाव हार्नुले उनको राजनीतिक स्थिरतामा केही प्रश्न उठाए पनि उनी एक शिक्षित र सम्भावना बोकेकी युवा नेता मानिन्छिन्।",
+  "overall_approval_rating": 68
+}

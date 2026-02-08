@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339541,
+  "candidate_name": "उत्तर बहादुर राना मगर",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_the_Mongol_National_Organisation.svg/1200px-Flag_of_the_Mongol_National_Organisation.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339541.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट निर्वाचन क्षेत्र नं ४ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका राना मगरले कुल २३७ मत प्राप्त गरेर पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/rautahat-4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट रौतहट ४ मा औपचारिक रुपमा मनोनयन दर्ता गरी चुनावी मैदानमा प्रवेश।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनको विचार र सिद्धान्तलाई आत्मसात गर्दै मधेस क्षेत्रमा पार्टीको संगठन विस्तारमा संलग्न।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%8B%E0%A4%B2_%E0%A4%A8%E0%A5%87%E0%A4%B8%E0%A4%A8%E0%A4%B2_%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A5%87%E0%A4%B8%E0%A4%A8",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "उत्तर बहादुर राना मगर मंगोल नेशनल अर्गनाइजेसनका एक कार्यकर्ता हुन् जसले २०७९ सालको निर्वाचनमा रौतहट निर्वाचन क्षेत्र नं ४ बाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए। स्रोतका अनुसार उनी यस क्षेत्रमा 'पर्यटक उम्मेदवार' को रूपमा परिचित छन्, किनकि उनको स्थायी बसोबास वा राजनीतिक प्रभाव उक्त क्षेत्रमा तुलनात्मक रूपमा कमजोर देखिएको छ। रौतहट जस्तो मधेस बहुल जिल्लामा मंगोल पहिचानको एजेन्डा लिएर चुनावी मैदानमा उत्रिनु उनका लागि ठूलो चुनौती थियो। उनले प्राप्त गरेको २३७ मतले स्थानीय स्तरमा उनको पकड न्यून रहेको स्पष्ट पार्छ। यद्यपि, एउटा सानो र पहिचानवादी दलको तर्फबाट मधेसका जिल्लामा उम्मेदवारी दिनुले उनको राजनीतिक साहस र पार्टीप्रतिको निष्ठालाई भने झल्काउँछ। निर्वाचनमा उनको उपस्थिति केवल सांकेतिक मात्र रह्यो र उनले ठूला दलका उम्मेदवारहरूलाई कुनै उल्लेख्य चुनौती दिन सकेनन्।",
+  "overall_approval_rating": 30
+}

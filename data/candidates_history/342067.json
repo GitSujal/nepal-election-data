@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342067,
+  "candidate_name": "बल बहादुर कुंवर",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-Maoist_Centre_logo.svg/1024px-CPN-Maoist_Centre_logo.svg.png",
+  "candidates_current_position": "नेता, नेपाली कम्युनिष्ट पार्टी",
+  "candidates_current_position_in_party": "जिल्ला कमिटी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342067.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "अछाम",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "अछाम क्षेत्र नम्बर २ बाट नेपाली कम्युनिष्ट पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए। उनी स्थानीय स्तरमा शालिन र भद्र नेताका रूपमा परिचित छन्।",
+      "link_to_source": "https://rupantarankhabar.com/2022/10/25/113337/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कम्युनिष्ट राजनीतिमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि अछाम जिल्लामा कम्युनिष्ट विचारधाराको प्रचार र पार्टी संगठन निर्माणमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बल बहादुर कुंवर अछाम जिल्लाका एक निष्ठावान् कम्युनिष्ट नेता हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा अछाम क्षेत्र नम्बर २ बाट उम्मेदवारी दिए पनि उनी पराजित हुन पुगे। उनी राजनीतिमा 'अन्टेस्टेड' र स्वच्छ छविको नेताका रूपमा चिनिन्छन्। निर्वाचनका क्रममा उनलाई एक शालिन र भद्र व्यक्तित्वका रूपमा मतदाताले लिएका थिए। यद्यपि, ठूला दलहरूको गठबन्धन र दलीय प्रभावका कारण उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको मुख्य राजनीतिक आधार क्षेत्र अछाम नै रहेको छ र उनी स्थानीय विकास र सामाजिक कार्यमा सक्रिय देखिन्छन्।",
+  "overall_approval_rating": 62
+}

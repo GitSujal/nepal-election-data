@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339421,
+  "candidate_name": "सान बहादुर मेचे",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mongol_National_Organization_flag.svg/1200px-Mongol_National_Organization_flag.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339421.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "झापा क्षेत्र नं. ५ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका सान बहादुर मेचेले ७४४ मत प्राप्त गरे। उनी छैटौँ स्थानमा रहँदै पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election/jhapa/5/candidate/san-bahadur-meche",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनको संगठन विस्तार",
+      "date": "२०७६-०३-१५",
+      "details": "झापामा मंगोल नेशनल अर्गनाइजेसनको स्थानीय संगठन सुदृढीकरण र मेचे समुदायको हकहितका लागि सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mongol_National_Organisation",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट झापा क्षेत्र नं. ५ मा पहिलो पटक प्रतिस्पर्धा गर्दै ११६ मत प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/election/jhapa/5/candidate/san-bahadur-meche",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सान बहादुर मेचे झापा क्षेत्र नं. ५ का एक निष्ठावान स्थानीय नेता हुन्, जसले निरन्तर मंगोल नेशनल अर्गनाइजेसन (MNO) मार्फत पहिचानको राजनीति गर्दै आएका छन्। उनले २०७४ र २०७९ को निर्वाचनमा नेकपा एमालेका अध्यक्ष केपी शर्मा ओली जस्ता शक्तिशाली प्रतिस्पर्धी विरुद्ध चुनावी मैदानमा उत्रिने साहस देखाएका छन्। निर्वाचन परिणाममा उनको मत संख्या ११६ बाट बढेर ७४४ पुग्नुले उनको क्षेत्रमा पार्टीको प्रभाव र संगठन बिस्तारै बढ्दै गएको संकेत गर्दछ। मेचे समुदायको प्रतिनिधित्व गर्ने उनीमाथि हालसम्म कुनै भ्रष्टाचार वा विवादित क्रियाकलापको आरोप लागेको छैन, जसले उनलाई एक स्वच्छ छविको राजनीतिकर्मीको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 45
+}

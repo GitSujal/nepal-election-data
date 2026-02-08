@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342757,
+  "candidate_name": "खेम राज कोईराला",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "सक्रिय नेता, राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342757.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "N/A",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "N/A",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा सक्रियता",
+      "date": "२०८०-०१-०१",
+      "details": "कैलाली क्षेत्र नं. ४ मा राष्ट्रिय स्वतन्त्र पार्टीको संगठन सुदृढीकरण र स्थानीय मुद्दाहरूमा सक्रिय नेतृत्व प्रदान गर्दै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/khem-raj-koirala-biography/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "चलचित्र 'द स्कुल वाल' मा अभिनय र पुरस्कार",
+      "date": "२०७९-०५-२७",
+      "details": "सामाजिक विषयवस्तुमा आधारित लघुचलचित्र 'द स्कुल वाल' मा अभिनय गरेका, जसले रसियामा आयोजित महोत्सवमा अवार्ड जितेको थियो।",
+      "link_to_source": "https://www.janaakash.com.np/news/2024/06/04",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्नातकोत्तर तह पूरा",
+      "date": "२०७६-०८-१०",
+      "details": "विश्वविद्यालयबाट स्नातकोत्तर तहको शिक्षा हासिल गरी बौद्धिक र विश्लेषणात्मक राजनीतिक चेत विकास गरेका छन्।",
+      "link_to_source": "https://sajilopatrika.com/khem-raj-koirala-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा संलग्नता",
+      "date": "२०७४-०४-११",
+      "details": "वैकल्पिक राजनीतिको लहरसँगै विवेकशील साझा पार्टीमा आबद्ध भई सुदूरपश्चिम क्षेत्रमा पार्टीको एजेन्डा प्रवर्द्धनमा भूमिका खेलेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/विवेकशील_साझा_पार्टी",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खेम राज कोईराला कैलालीका एक शिक्षित र बौद्धिक छविका नेता हुन्। साझा पार्टीदेखि विवेकशील साझा हुँदै हाल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा आबद्ध भएका उनले लामो समयदेखि वैकल्पिक राजनीतिको वकालत गर्दै आएका छन्। स्नातकोत्तर तहसम्मको अध्ययन र सामाजिक कार्यमा उनको संलग्नताले गर्दा उनी युवा र सचेत मतदाताहरू माझ परिचित छन्। यद्यपि उनले अघिल्ला निर्वाचनहरूमा प्रत्यक्ष उम्मेदवारी दिएर ठूलो मत ल्याएको इतिहास नभए पनि रास्वपाको बढ्दो लहर र उनको स्थानीय सक्रियताले गर्दा कैलाली-४ मा उनलाई एक सम्भावित वैकल्पिक शक्तिको रूपमा हेरिएको छ। उनको राजनीतिक यात्रा सफा र निष्कलंक रहेको छ, जसले गर्दा उनलाई 'स्वच्छ छवि' भएको नेता मानिन्छ।",
+  "overall_approval_rating": 72
+}

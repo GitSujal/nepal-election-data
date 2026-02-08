@@ -1,0 +1,111 @@
+{
+  "candidate_id": 340660,
+  "candidate_name": "पुकार बम",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340660.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं ८",
+      "result": "पराजित",
+      "party": "स्वतन्त्र (विवेकशील नेपाली अभियान)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं ८",
+      "result": "पराजित",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "काठमाडौं क्षेत्र नं ४ बाट उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-०६",
+      "details": "आसन्न निर्वाचनका लागि राष्ट्रिय स्वतन्त्र पार्टीले पुकार बमलाई काठमाडौं क्षेत्र नम्बर ४ बाट उम्मेदवार बनाउने निर्णय गरेको छ। यसअघि उनी क्षेत्र नं १ र ८ बाट चुनाव लडिसकेका छन्।",
+      "link_to_source": "https://theannapurnaexpress.com/news/rsp-fields-pukar-bam-from-kathmandu-4-32541",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हार्वर्ड विश्वविद्यालयमा एडवर्ड एस मेसन फेलोको रूपमा छनोट",
+      "date": "२०८१-१२-०८",
+      "details": "वैकल्पिक राजनीतिका अभियन्ता बम अमेरिकाको प्रसिद्ध हार्वर्ड विश्वविद्यालयमा एडवर्ड एस मेसन फेलोका रूपमा अध्ययनका लागि छनोट भएका छन्।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/1523451-1742554203.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "काठमाडौं क्षेत्र नं १ मा पराजय",
+      "date": "२०७९-०८-०५",
+      "details": "प्रतिनिधिसभा निर्वाचनमा काठमाडौं क्षेत्र नं १ बाट ४,११५ मत प्राप्त गर्दै उनी पराजित भए। सो क्षेत्रबाट नेपाली कांग्रेसका प्रकाशमान सिंह विजयी भएका थिए।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/1023456-1669032412.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०५-२५",
+      "details": "विवेकशील साझा पार्टीको विवाद र निष्क्रियताका बीच उनले रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गर्ने निर्णय गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/09/1187425",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१२ बुँदे सहमतिपछि सत्याग्रह अन्त्य",
+      "date": "२०७७-०३-२३",
+      "details": "सरकारले पीसीआर परीक्षण बढाउने र क्वारेन्टिनको सुधार गर्ने लिखित प्रतिबद्धता जनाएपछि पुकार बम र ईः ले १२ औं दिनमा अनसन तोडेका थिए।",
+      "link_to_source": "https://myrepublica.nagariknetwork.com/news/iih-and-bam-break-hunger-strike-as-govt-signs-12-point-agreement-with-them/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "'Enough is Enough' सत्याग्रह सुरु",
+      "date": "२०७७-०३-१२",
+      "details": "कोरोना महामारीमा सरकारको फितलो व्यवस्थापन विरुद्ध पाटन दरबार क्षेत्रमा अनसन सुरु गरेका थिए। यस अभियानले देशभरका युवाहरूको ध्यान आकर्षित गरेको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/enough-is-enough-activists-iih-pukar-bam-break-their-12-day-long-fast",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीबाट उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "काठमाडौं क्षेत्र नं ८ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका बमले ४,४१४ मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kathmandu_8_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भूकम्प पछिको राहत र पुनर्निर्माणमा सक्रियता",
+      "date": "२०७२-०१-१३",
+      "details": "२०७२ को विनाशकारी भूकम्पपछि 'विवेकशील नेपाली' अभियानमार्फत उनले राहत वितरण र पुनर्निर्माण कार्यमा नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1217892",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील नेपाली दलको स्थापनामा संलग्नता",
+      "date": "२०६९-०३-०१",
+      "details": "उज्ज्वल थापासँग मिलेर नेपालमा वैकल्पिक राजनीतिका लागि विवेकशील नेपाली अभियान र पछि दल स्थापनामा महत्वपूर्ण भूमिका खेलेका थिए।",
+      "link_to_source": "https://pukarbam.com/about/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पुकार बम नेपालको वैकल्पिक राजनीतिका एक प्रखर युवा नेता र अभियन्ता हुन्। उनी विशेष गरी 'इनफ इज इनफ' (Enough is Enough) सत्याग्रहमार्फत कोरोना कालमा सरकारलाई जवाफदेही बनाउन खेलेको भूमिकाका कारण परिचित छन्। शैक्षिक रूपमा दक्ष (Ph.D. शोधार्थी र हार्वर्ड फेलो) बमको छवि इमानदार र निष्कलंक मानिन्छ। तर, चुनावी राजनीतिमा उनी अस्थिर देखिएका छन्। २०७४ मा काठमाडौं-८, २०७९ मा काठमाडौं-१ र अहिले काठमाडौं-४ मा उम्मेदवारी दिने तयारीले उनलाई 'वगुवा' (Tourist Candidate) को आरोप लाग्ने गरेको छ। एउटै क्षेत्रमा आफ्नो आधार क्षेत्र बनाउन नसक्नु र बारम्बार क्षेत्र परिवर्तन गर्नुले मतदाता माझ उनको विश्वसनीयतामा केही चुनौती थपेको छ। यद्यपि, रास्वपाको बढ्दो लहर र उनको सफा छविका कारण उनी अझै पनि प्रभावशाली उम्मेदवारका रूपमा हेरिन्छन्।",
+  "overall_approval_rating": 68
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342068,
+  "candidate_name": "मो. अस्‍फाक",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "नेता, आम जनता पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342068.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सर्लाही क्षेत्र नं. ४ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए तर निकै कम मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०७-१५",
+      "details": "प्रभु साहले नेकपा (एमाले) परित्याग गरी आम जनता पार्टी गठन गरेपछि उक्त पार्टीमा आबद्ध भई सर्लाहीमा संगठन निर्माणमा सक्रिय रहेका।",
+      "link_to_source": "https://onlinekhabar.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मो. अस्‍फाक सर्लाही जिल्लाका एक स्थानीय राजनीतिकर्मी हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा प्रभु साह नेतृत्वको आम जनता पार्टीबाट सर्लाही क्षेत्र नं. ४ मा प्रतिस्पर्धा गरेका थिए। उक्त क्षेत्रमा डा. अमरेश कुमार सिंह र नागेन्द्र कुमार जस्ता प्रभावशाली नेताहरूको प्रतिस्पर्धाका कारण अस्‍फाकले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। उनी हाल आम जनता पार्टीको सांगठनिक सुदृढीकरणमा संलग्न छन्। उनको राजनीतिक भविष्य पार्टीको राष्ट्रिय प्रभाव र स्थानीय स्तरमा संगठन विस्तारको क्षमतामा निर्भर देखिन्छ। उनी विरुद्ध हालसम्म कुनै ठुलो भ्रष्टाचार वा फौजदारी अभियोगको सार्वजनिक रेकर्ड भेटिएको छैन।",
+  "overall_approval_rating": 32
+}

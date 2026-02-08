@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342592,
+  "candidate_name": "भागेश्वर दास",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "स्वतन्त्र उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342592.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "४ (ख)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सिराहा निर्वाचन क्षेत्र नम्बर ४ (ख) बाट प्रदेश सभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएको।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342592",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन परिणाम र जनमत",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को निर्वाचनमा जम्मा १५ मत प्राप्त गरी पराजित भएको, जसले उनको चुनावी आधार निकै कमजोर रहेको देखाउँछ।",
+      "link_to_source": "https://nepsebajar.com/election/district/siraha/constituency/4/sub/2",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भागेश्वर दास सिराहा जिल्लाका एक स्थानीय राजनीतिज्ञ हुन् जसले २०७९ सालको प्रदेश सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए। सिराहा निर्वाचन क्षेत्र नम्बर ४ (ख) बाट उम्मेदवारी दिएका उनले चुनावी नतिजामा खासै प्रभाव पार्न सकेनन् र मात्र १५ मत प्राप्त गरे। उनको अघिल्लो राजनीतिक पृष्ठभूमि वा कुनै स्थापित राजनीतिक दलसँगको विशेष आबद्धता सार्वजनिक रेकर्डहरूमा भेटिँदैन। उनी एक सामान्य स्थानीय स्तरको उम्मेदवारका रूपमा देखिएका छन्। उनको विरुद्धमा कुनै ठूला घोटाला वा भ्रष्टाचारका मुद्दाहरू सार्वजनिक भएका छैनन्, तर राजनीतिक प्रभाव र जनसमर्थनको हिसाबले उनको स्थिति निकै कमजोर देखिन्छ।",
+  "overall_approval_rating": 35
+}

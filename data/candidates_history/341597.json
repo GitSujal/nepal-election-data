@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341597,
+  "candidate_name": "मेघ बहादुर कामी",
+  "candidate_party": "नेपाल मानवतावादी पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "अध्यक्ष, नेपाल मानवतावादी पार्टी",
+  "candidates_current_position_in_party": "अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341597.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल मानवतावादी पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मानवतावादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "संयुक्त नागरिक पार्टीसँग चुनावी तालमेल",
+      "date": "२०८२-०९-११",
+      "details": "आगामी निर्वाचनका लागि मेघ बहादुर कामीको नेतृत्वमा रहेको नेपाल मानवतावादी पार्टी र संयुक्त नागरिक पार्टीबीच चुनावी तालमेल गर्ने औपचारिक सहमति भएको छ।",
+      "link_to_source": "https://bolawat.com/2025/12/27/samyukta-nagarik-party-and-nepal-humanitarian-party-election-alliance/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बर्दिया क्षेत्र नं. २ बाट प्रतिनिधिसभा सदस्यका लागि नेपाल मानवतावादी पार्टीको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "बर्दिया क्षेत्र नं. १ बाट निर्वाचन लड्दै उनले कुल २०६ मत प्राप्त गरेका थिए, जुन खसेको मतको अत्यन्तै न्यून हिस्सा थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341597",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी नेतृत्व सम्हालेको",
+      "date": "२०७४-०१-०१",
+      "details": "मेघ बहादुर कामी लामो समयदेखि नेपाल मानवतावादी पार्टीको अध्यक्षको रूपमा साना राजनीतिक दलहरूको मोर्चामा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://bolawat.com/2025/12/27/samyukta-nagarik-party-and-nepal-humanitarian-party-election-alliance/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मेघ बहादुर कामी बर्दिया जिल्लाका एक निष्ठावान तर चुनावी राजनीतिमा कम प्रभाव भएका नेता हुन्। नेपाल मानवतावादी पार्टीको अध्यक्षको रूपमा उनले मानवतावादी र समावेशी राजनीतिक एजेन्डाहरूलाई उठाउँदै आएका छन्। २०७४ र २०७९ का निर्वाचनहरूमा बर्दियाका फरक-फरक क्षेत्रबाट उम्मेदवारी दिए पनि उनले उल्लेख्य जनमत प्राप्त गर्न सकेका छैनन्, जसले गर्दा उनलाई स्थानीय स्तरमा एक 'सांकेतिक उम्मेदवार' को रूपमा हेरिन्छ। हालै उनले आफ्नो पार्टीलाई अन्य साना दलहरूसँग रणनीतिक गठबन्धनमा सामेल गराएर राजनीतिक हैसियत बढाउने प्रयास गरेका छन्। उनको व्यक्तिगत छविमा कुनै ठूलो भ्रष्टाचार वा विवादको दाग छैन, तर चुनावी परिणाममा उनको उपस्थिति कमजोर रहँदै आएको छ।",
+  "overall_approval_rating": 48
+}

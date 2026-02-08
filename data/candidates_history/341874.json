@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341874,
+  "candidate_name": "जुन बहादुर थापा मगर",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MNO_Logo.png/220px-MNO_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341874.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बागलुङ",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट बागलुङ निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/Baglung?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा चर्चा",
+      "date": "२०७९-०६-२४",
+      "details": "नागरिकता तनहुँ जिल्लाको भए पनि बागलुङ क्षेत्र नम्बर २ बाट निर्वाचन लडेका कारण उनलाई स्थानीयस्तरमा 'पर्यटक उम्मेदवार' को रूपमा हेरिएको थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341874",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनमा आबद्ध भई मंगोल समुदायको अधिकार र पहिचानको पक्षमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/04/671408",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जुन बहादुर थापा मगर मंगोल नेशनल अर्गनाइजेसनका एक सक्रिय कार्यकर्ता हुन्। २०७९ को निर्वाचनमा उनले बागलुङ निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरेका थिए। उनको नागरिकता तनहुँ जिल्लाको भएकाले र उनी बागलुङमा नयाँ अनुहारका रूपमा प्रस्तुत भएकाले उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा विश्लेषण गरिएको छ। निर्वाचनमा उनले निकै कम मत प्राप्त गरे, जसले गर्दा मुख्य राजनीतिक दलहरू (माओवादी केन्द्र र एमाले) बीचको प्रतिस्पर्धामा उनको प्रभाव न्यून देखियो। उनको राजनीतिक एजेन्डा मुख्यतया जातीय पहिचान र मंगोलवादमा केन्द्रित छ, तर बागलुङको चुनावी अंकगणितमा उनले ठोस स्थान बनाउन सकेनन्।",
+  "overall_approval_rating": 32
+}

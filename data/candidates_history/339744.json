@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339744,
+  "candidate_name": "सलन चिदी मगर",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mongol_National_Organization_Logo.png/220px-Mongol_National_Organization_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला नेता, पाल्पा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339744.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट पाल्पा निर्वाचन क्षेत्र नं १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरे पनि पराजित हुनुभयो।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जातीय पहिचान र अधिकारको वकालत",
+      "date": "२०७८-१०-१५",
+      "details": "पाल्पा जिल्लाका विभिन्न स्थानमा मंगोल जातिको पहिचान, अधिकार र राज्यको मूलधारमा प्रतिनिधित्वका लागि सक्रिय रुपमा वकालत गर्दै आउनुभएको छ।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/04/16675271131103282.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संगठन विस्तारमा सक्रियता",
+      "date": "२०७७-०५-२०",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको पाल्पा जिल्ला कार्यसमितिमा रहेर संगठन विस्तार र कार्यकर्ता प्रशिक्षणमा महत्वपूर्ण भूमिका खेल्दै आउनुभएको छ।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/04/16675271131103282.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सलन चिदी मगर पाल्पा जिल्लामा मंगोल नेशनल अर्गनाइजेसन (MNO) का एक उदयमान नेता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा पाल्पा क्षेत्र नं १ बाट उम्मेदवार बनेका उनले १,०४६ मत प्राप्त गरेका थिए। मुख्य राजनीतिक दलहरूको वर्चस्व रहेको पाल्पामा उनले जातीय पहिचान र अधिकारको मुद्दालाई प्रमुखताका साथ उठाउने गरेका छन्। उनको राजनीतिक आधार विशेष गरी मगर र अन्य जनजाति समुदायमा केन्द्रित छ। हालसम्म उनी कुनै पनि ठूलो भ्रष्टाचार काण्ड वा विवादमा मुछिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको छ। यद्यपि, ठूला राजनीतिक दलहरूको प्रभाव र चुनावी संगठनको कमीका कारण उनले राष्ट्रिय राजनीतिमा निर्णायक प्रभाव पार्न भने बाँकी नै छ।",
+  "overall_approval_rating": 47
+}

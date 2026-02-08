@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341114,
+  "candidate_name": "टासी ल्हान्जोम",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "सामाजिक अभियन्ता तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341114.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "हुम्ला",
+      "constituency": "हुम्ला १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "हुम्लाबाट प्रतिनिधि सभा सदस्यको लागि प्रत्यक्षतर्फ उम्मेदवारी दिएकी टासी ल्हान्जोम पराजित भइन्। उनले स्थापित राजनीतिक शक्तिहरूसँग प्रतिस्पर्धा गरेकी थिइन्।",
+      "link_to_source": "https://ratopati.com/story/469956/humla-election-analysis",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "समानुपातिक सूचीबाट प्रत्यक्ष उम्मेदवारमा स्थानान्तरण",
+      "date": "२०७९-०६-२३",
+      "details": "सुरुमा राष्ट्रिय स्वतन्त्र पार्टीको समानुपातिक सूचीमा रहेकी टासीलाई अन्तिम समयमा हुम्लाको प्रत्यक्ष उम्मेदवार बनाइएको थियो।",
+      "link_to_source": "https://ratopati.com/story/469956/humla-election-analysis",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको धारलाई आत्मसात गर्दै उनी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भइन्।",
+      "link_to_source": "https://onlinekhabar.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७५-०१-०१",
+      "details": "राजनीतिक यात्राको सुरुवाती चरणमा उनी विवेकशील साझा पार्टीसँग आबद्ध भई सामाजिक र राजनीतिक मुद्दाहरूमा सक्रिय थिइन्।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जलवायु अभियन्ताको रूपमा पहिचान",
+      "date": "२०७०-०१-०१",
+      "details": "हिमाली क्षेत्रको वातावरण संरक्षण र जलवायु परिवर्तनका मुद्दाहरूमा उनले लामो समयदेखि वकालत गर्दै आएकी छिन्।",
+      "link_to_source": "https://ratopati.com/story/469956/humla-election-analysis",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "टासी ल्हान्जोम हुम्ला जिल्लाबाट उदाउँदै गरेकी एक युवा र जुझारु नेतृ हुन्। २०७९ को आम निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टीबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएर उनले दुर्गम क्षेत्रमा वैकल्पिक राजनीतिको बीउ रोप्ने प्रयास गरिन्। जलवायु अभियन्ताका रूपमा परिचित उनी विशेषगरी हिमाली क्षेत्रको विकास र वातावरण संरक्षणका मुद्दाहरूमा प्रखर छिन्। हुम्लाको लामा समुदायबाट प्रतिनिधित्व गर्ने भएकाले उनी स्थानीय रूपमा पनि लोकप्रिय मानिन्छिन्। यद्यपि, पुराना र स्थापित दलहरूको बलियो सांगठनिक संरचनाका कारण उनले चुनावी नतिजा आफ्नो पक्षमा पार्न सकिनन्। स्वच्छ छवि भएकी उनी भविष्यमा हुम्लाको राजनीतिमा एक आशालाग्दो अनुहारको रूपमा स्थापित हुने सम्भावना छ।",
+  "overall_approval_rating": 72
+}

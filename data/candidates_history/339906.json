@@ -1,0 +1,79 @@
+{
+  "candidate_id": 339906,
+  "candidate_name": "जालिम मियाँ मंसुरी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CPN-UML_logo.png",
+  "candidates_current_position": "पूर्व गाउँपालिका अध्यक्ष",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339906.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "गाउँपालिका अध्यक्ष",
+      "district": "पर्सा",
+      "constituency": "जगन्नाथपुर गाउँपालिका",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा निर्वाचन क्षेत्र नम्बर ४ बाट नेकपा एमालेको उम्मेदवारको रूपमा उनले २५,६७१ मत प्राप्त गरी दोस्रो स्थान हासिल गरे। उनी नेपाली कांग्रेसका रमेश रिजालसँग पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339906",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमालेमा प्रवेश",
+      "date": "२०७८-०६-२०",
+      "details": "पर्साको जगरनाथपुर गाउँपालिकाका अध्यक्ष रहँदा उनी नेकपा माओवादी केन्द्र छोडेर नेकपा एमालेमा प्रवेश गरेका थिए। उनलाई एमाले अध्यक्ष केपी शर्मा ओलीले पार्टीमा स्वागत गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/10/1021703",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कोभिड-१९ फैलाउने षडयन्त्रको आरोप",
+      "date": "२०७६-१२-२८",
+      "details": "भारतीय सञ्चारमाध्यमहरूले सशस्त्र सीमा बल (एसएसबी) को पत्रलाई उद्धृत गर्दै जालिम मियाँले २०० भन्दा बढी कोरोना संक्रमितहरूलाई भारत पठाउने योजना बनाएको आरोप लगाएका थिए।",
+      "link_to_source": "https://nagariknetwork.com/news/126937/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जाली भारतीय नोट कारोबारको आरोप",
+      "date": "२०७६-१२-३०",
+      "details": "विभिन्न समयमा भारतीय गुप्तचर निकाय र सञ्चारमाध्यमले उनलाई जाली भारतीय नोट (FICN) को कारोबार र वितरणमा संलग्न रहेको आरोप लगाउँदै आएका छन्।",
+      "link_to_source": "https://medium.com/@disinfo.detector/disinformation-by-indian-tv-channels-biggest-corona-conspirator-46a489196b29",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०६-०२",
+      "details": "पर्साको जगन्नाथपुर गाउँपालिकाको अध्यक्ष पदमा नेकपा माओवादी केन्द्रको तर्फबाट निर्वाचित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "काठ तस्करीमा सजाय",
+      "date": "२०३७-०१-०१",
+      "details": "सन् १९८० को दशकमा उनी काठ तस्करीको अभियोगमा दोषी ठहर भई दुई महिना जेल परेको विवरणहरू सार्वजनिक भएका छन्।",
+      "link_to_source": "https://medium.com/@disinfo.detector/disinformation-by-indian-tv-channels-biggest-corona-conspirator-46a489196b29",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "जालिम मियाँ मंसुरी पर्साको राजनीतिमा अत्यन्तै प्रभावशाली र उत्तिकै विवादित पात्र हुन्। जगन्नाथपुर गाउँपालिकाको अध्यक्षका रूपमा स्थानीय स्तरमा बलियो पकड बनाएका उनले २०७८ मा माओवादी केन्द्र त्यागेर एमाले रोजेका थिए। उनीमाथि भारतीय सञ्चारमाध्यमले जाली नोट कारोबार र कोभिड-१९ फैलाउने षडयन्त्र जस्ता गम्भीर आरोपहरू लगाउँदै आएका छन्, जसले उनको अन्तर्राष्ट्रिय छविमा नकारात्मक असर पारेको छ। यद्यपि, ती आरोपहरू पुष्टि हुन सकेका छैनन्। २०७९ को चुनावमा उनले सम्मानजनक २५ हजारभन्दा बढी मत प्राप्त गर्नुले उनको चुनावी आधार अझै बलियो रहेको देखाउँछ। उनको राजनीतिक भविष्य उनको विवादित छवि र एमालेभित्रको स्थानमा निर्भर रहने देखिन्छ।",
+  "overall_approval_rating": 42
+}

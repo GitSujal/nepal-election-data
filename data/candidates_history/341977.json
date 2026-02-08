@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341977,
+  "candidate_name": "सुर्वण थापा",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "लागू नहुने (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341977.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा अन्तिम मत परिणाम सार्वजनिक",
+      "date": "२०७९-०८-०८",
+      "details": "भक्तपुर क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारका रूपमा चुनाव लडेका थापाले १६७ मत प्राप्त गरी पराजय भोगे। सो क्षेत्रबाट नेपाली कांग्रेसका दुर्लभ थापा विजयी भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8hck_cXk5vsLF6O3hOw4RXT9lmqQX0HeH15YMt9nyCV7bVV2jfNYATeB3EEC4tmeukqKS61ts0EdPv1sqn6QeHI8J4MdxHKVpjyJ4TCPivjL42KiMWf9CfxV1puPrT-E4vWT5c7CPBgDA6rnNBnD8063-BT7pBPI8kfw-ZhkTyVFZtH2J",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मोहन राज थापाका छोरा सुर्वण थापाले भक्तपुर जिल्लाको निर्वाचन क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएका थिए। उनको चुनावी चिन्ह 'लौरो' रहेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2STuNxoj_VVLdQr0FHbIsNQgQYYU86KYTqECoPFnB8eopOdH7a9jSHJGczovG6CSxsFaaz3MBsKe2fRYWgWEWs5k5wMy5bBsIHpdkdm4VKSQWilYVd9MgQfHXMn-VZ3A6m8yzikqFLMVuFEG5ZGLV4iPKWsiyfFeFsLOn__WsAJrl4g==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुर्वण थापा भक्तपुर क्षेत्र नं. २ बाट २०७९ सालको प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारका रूपमा सहभागी भएका थिए। मोहन राज थापाका छोरा रहेका थापाले शैक्षिक योग्यताका रूपमा आई.ए. सम्मको अध्ययन पूरा गरेका छन्। सो निर्वाचनमा उनले जम्मा १६७ मत प्राप्त गरे, जसले गर्दा उनी पराजित हुँदै १० औं स्थानमा रहे। उनको राजनीतिक जीवनमा हालसम्म कुनै स्थापित राजनीतिक दलमा आबद्धता वा प्रमुख पदको जिम्मेवारी देखिएको छैन। उनी मुख्यतया एक स्थानीय स्वतन्त्र उम्मेदवारको रूपमा मात्र चिनिन्छन्। उनको सार्वजनिक छविमा कुनै ठूला विवाद वा उल्लेखनीय उपलब्धिहरू फेला परेका छैनन्। समग्रमा, उनको निर्वाचन परिणामले उनीसँग बलियो स्थानीय जनाधार नभएको देखाउँछ।",
+  "overall_approval_rating": 35
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339818,
+  "candidate_name": "रमेश तामाङ",
+  "candidate_party": "त्रिमूल नेपाल",
+  "candidate_party_logo": "https://result.election.gov.np/Images/Party/339818.jpg",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339818.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "त्रिमूल नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ३ बाट प्रतिनिधिसभा सदस्यका लागि त्रिमूल नेपालको तर्फबाट उम्मेदवारी दिएका तामाङले मात्र ३७ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339818",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "आगामी आम निर्वाचनका लागि काठमाडौं निर्वाचन क्षेत्र नम्बर ३ बाट आधिकारिक रूपमा उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रमेश तामाङ त्रिमूल नेपालका तर्फबाट सक्रिय एक साना स्तरका राजनीतिकर्मी हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा काठमाडौं क्षेत्र नं. ३ बाट प्रतिस्पर्धा गरेका थिए, जहाँ उनले प्राप्त गरेको मत (३७ मत) निकै न्यून थियो। यसले उनको स्थानीय स्तरमा जनाधार र राजनीतिक प्रभाव निकै कमजोर रहेको पुष्टि गर्दछ। उनी कुनै ठूला राजनीतिक पदमा नरहेका र मुख्यधारका पार्टीहरूमा आबद्ध नभएका कारण राष्ट्रिय राजनीतिमा उनको चर्चा सीमित छ। उनको कार्यकाल वा पृष्ठभूमिमा कुनै गम्भीर भ्रष्टाचार वा विवादहरू भेटिएका छैनन्, तर चुनावी प्रतिस्पर्धामा उनको उपस्थिति केवल सांकेतिक मात्र देखिएको छ।",
+  "overall_approval_rating": 15
+}

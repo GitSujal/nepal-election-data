@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341479,
+  "candidate_name": "मान बहादुर पुलामी मगर",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rastriya_Janamukti_Party_Logo.png/220px-Rastriya_Janamukti_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341479.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "झापा क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल जनमुक्ति पार्टीको तर्फबाट चुनावी प्रतिस्पर्धामा सहभागी।",
+      "link_to_source": "https://result.election.gov.np/CandidateListHoR.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आधिकारिक उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "निर्वाचन आयोगमा झापा क्षेत्र नम्बर ४ का लागि नेपाल जनमुक्ति पार्टीको आधिकारिक उम्मेदवारको रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://risingnepaldaily.com/news/17395",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचान र संघीयताको वकालत",
+      "date": "२०७८-१०-१२",
+      "details": "पार्टीको नीति अनुरूप पहिचानसहितको संघीयता र जातीय अधिकारका लागि विभिन्न सांगठनिक कार्यक्रमहरूमा नेतृत्वदायी भूमिका।",
+      "link_to_source": "https://janamukti.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मान बहादुर पुलामी मगर नेपाल जनमुक्ति पार्टीका एक सक्रिय र निष्ठावान नेता हुन्। २०७९ को आम निर्वाचनमा झापा निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका उनले मुख्य रूपमा पहिचानसहितको संघीयता र आदिवासी जनजातिका अधिकारलाई आफ्नो मुख्य एजेन्डा बनाएका थिए। झापा क्षेत्र नम्बर ४ मा नेकपा एमाले र नेपाली कांग्रेस जस्ता ठूला राजनीतिक शक्तिहरूको कडा प्रतिस्पर्धाका कारण उनले जित हासिल गर्न सकेनन् र उनको मत परिणाम न्यून रह्यो। उनको राजनीतिक छवि स्वच्छ रहेको छ र अहिलेसम्म कुनै पनि ठूला काण्ड वा विवादमा उनको नाम जोडिएको छैन। चुनावी सफलता प्राप्त नगरे पनि उनी आफ्नो समुदाय र पार्टीको विचारलाई स्थापित गर्न निरन्तर क्रियाशील देखिन्छन्।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339400,
+  "candidate_name": "अकल बहादुर तामाङ्ग",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mongol_National_Organisation_Logo.png/200px-Mongol_National_Organisation_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339400.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "झापा निर्वाचन क्षेत्र नम्बर २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट ६८४ मत प्राप्त गरी छैटौँ स्थानमा रहेका।",
+      "link_to_source": "https://nepsebajar.com/election/results/candidate/339400",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "झापा क्षेत्र नं. २ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिई ५५८ मत प्राप्त गरेका।",
+      "link_to_source": "https://nepsebajar.com/election/results/candidate-2074/339400",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जातीय पहिचान र अधिकारको वकालत",
+      "date": "२०७३-१२-०१",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको एजेन्डा अन्तर्गत नेपाललाई धर्मनिरपेक्ष राष्ट्र बनाउन र मंगोल मूलवासीको अधिकार सुनिश्चित गर्न सक्रिय सहभागिता।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1218843",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अकल बहादुर तामाङ्ग झापा क्षेत्र नम्बर २ बाट मंगोल नेशनल अर्गनाइजेसन (MNO) का एक निष्ठावान र स्थिर नेता हुन्। उनले २०७४ र २०७९ को दुवै प्रतिनिधि सभा निर्वाचनमा सोही क्षेत्रबाट प्रतिस्पर्धा गरेका छन्, जसले उनको आफ्नो भूगोलप्रतिको प्रतिबद्धता देखाउँछ। चुनावी परिणामको दृष्टिले उनी सफल नदेखिए पनि, उनको मत संख्या २०७४ को ५५८ बाट बढेर २०७९ मा ६८४ पुगेको छ, जसले उनको दलको एजेन्डाप्रति सानो तर बढ्दो समर्थनको संकेत गर्दछ। उनी मुख्यतया जातीय पहिचान, धर्मनिरपेक्षता र मंगोल समुदायको अधिकारको पक्षमा वकालत गर्छन्। अहिलेसम्म उनको नाम कुनै ठूला राजनीतिक स्क्यान्डल वा भ्रष्टाचारमा मुछिएको छैन, जसले गर्दा उनको छवि सफा रहेको छ। यद्यपि, झापा जस्तो ठूला दलहरूको प्रभाव भएको क्षेत्रमा उनी जस्ता साना दलका नेतालाई चुनावी प्रतिस्पर्धा जित्न निकै चुनौतीपूर्ण देखिन्छ।",
+  "overall_approval_rating": 42
+}

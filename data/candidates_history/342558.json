@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342558,
+  "candidate_name": "सिताराम यादव",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6uXpXN1S4vX7Y_6m7Q6j-0m7w7m7w7m7w&s",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा दाङ जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342558.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. १ (क)",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०९-१५",
+      "details": "प्रभु साहको नेतृत्वमा गठित आम जनता पार्टीमा आबद्ध भई दाङ जिल्लाको राजनीतिक गतिविधिमा सक्रिय भूमिका खेल्न थाले।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342558",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "दाङ क्षेत्र नं. १ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342558",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को प्रदेश सभा निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "दाङ निर्वाचन क्षेत्र नम्बर १ (क) बाट संघीय समाजवादी फोरमको तर्फबाट प्रदेश सभाका लागि चुनाव लडेका थिए जहाँ उनले ३८४ मत प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342558",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सिताराम यादव दाङ जिल्लाका स्थानीय राजनीतिज्ञ हुन् जसले मधेस केन्द्रित राजनीतिबाट आफ्नो यात्रा सुरु गरेका थिए। २०७४ सालको निर्वाचनमा संघीय समाजवादी फोरमबाट प्रदेश सभा सदस्यको प्रत्याशी बनेका यादवले उल्लेख्य मत प्राप्त गर्न सकेनन्। हाल उनी प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध छन् र सोही दलको तर्फबाट २०७९ को निर्वाचनमा पनि सहभागी भए। उनको राजनीतिक प्रभाव मुख्यतः दाङको क्षेत्र नम्बर १ मा केन्द्रित छ, तर चुनावी नतिजाको हिसाबले उनको जनाधार अझै कमजोर देखिन्छ। उनी कुनै ठूला भ्रष्टाचार वा काण्डहरूमा मुछिएको नपाइए पनि निर्वाचनमा लगातारको पराजयले उनको लोकप्रियतामा प्रश्न खडा गरेको छ। आम जनता पार्टीको संगठन विस्तारमा उनको सक्रियता रहेको देखिन्छ।",
+  "overall_approval_rating": 35
+}

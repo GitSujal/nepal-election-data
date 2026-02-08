@@ -124,6 +124,7 @@ previous_2074_with_canonical as (
 -- Rank candidates per constituency by votes for 2079
 ranked_2079 as (
     select
+        {{ adapter.quote("CandidateID") }},
         {{ adapter.quote("State") }},
         {{ adapter.quote("DistrictCd") }},
         {{ adapter.quote("SCConstID") }},
@@ -135,12 +136,13 @@ ranked_2079 as (
     from previous_2079
 ),
 
--- Get runner-up votes and computed casted_vote per constituency for 2079
+-- Get runner-up votes, winner votes, and computed casted_vote per constituency for 2079
 prev_runner_up_2079 as (
     select
         r.{{ adapter.quote("State") }},
         r.{{ adapter.quote("DistrictCd") }},
         r.{{ adapter.quote("SCConstID") }},
+        max(case when r.vote_rank = 1 then r.{{ adapter.quote("TotalVoteReceived") }} end) as winner_votes,
         max(case when r.vote_rank = 2 then r.{{ adapter.quote("TotalVoteReceived") }} end) as runner_up_votes,
         s.casted_vote
     from ranked_2079 r
@@ -160,12 +162,28 @@ prev_runner_up_2079 as (
 ),
 
 -- Get runner-up votes per constituency for 2074
+ranked_2074 as (
+    select
+        {{ adapter.quote("State") }},
+        {{ adapter.quote("DistrictName") }},
+        {{ adapter.quote("SCConstID") }},
+        {{ adapter.quote("CandidateName") }},
+        candidate_name_normalized,
+        {{ adapter.quote("TotalVoteReceived") }},
+        row_number() over (
+            partition by {{ adapter.quote("State") }}, {{ adapter.quote("SCConstID") }}
+            order by {{ adapter.quote("TotalVoteReceived") }} desc
+        ) as vote_rank
+    from previous_2074
+),
+
 prev_runner_up_2074 as (
     select
         {{ adapter.quote("State") }},
         {{ adapter.quote("SCConstID") }},
-        max(case when {{ adapter.quote("Rank") }} = 2 then {{ adapter.quote("TotalVoteReceived") }} end) as runner_up_votes
-    from previous_2074
+        max(case when vote_rank = 1 then {{ adapter.quote("TotalVoteReceived") }} end) as winner_votes,
+        max(case when vote_rank = 2 then {{ adapter.quote("TotalVoteReceived") }} end) as runner_up_votes
+    from ranked_2074
     group by {{ adapter.quote("State") }}, {{ adapter.quote("SCConstID") }}
 ),
 
@@ -385,7 +403,7 @@ joined as (
 
         -- Previous 2079 election performance
         pr.{{ adapter.quote("TotalVoteReceived") }} as prev_election_votes,
-        pr.{{ adapter.quote("Rank") }} as prev_election_rank,
+        coalesce(cast(r2079.vote_rank as varchar), pr.{{ adapter.quote("Rank") }}) as prev_election_rank,
         pr.{{ adapter.quote("Remarks") }} as prev_election_remarks,
         case
             when pr.{{ adapter.quote("Remarks") }} = 'Elected' then 'Winner'
@@ -404,12 +422,13 @@ joined as (
         pr.{{ adapter.quote("QUALIFICATION") }} as prev_qualification,
         pr.prev_qualification_level,
 
-        -- Runner-up votes from previous 2079 election
+        -- Winner and runner-up votes from previous 2079 election
+        ru.winner_votes as prev_winner_votes,
         ru.runner_up_votes as prev_runner_up_votes,
 
         -- Previous 2074 election performance
         pr74.{{ adapter.quote("TotalVoteReceived") }} as prev_2074_election_votes,
-        pr74.{{ adapter.quote("Rank") }} as prev_2074_election_rank,
+        coalesce(cast(r2074.vote_rank as varchar), pr74.{{ adapter.quote("Rank") }}) as prev_2074_election_rank,
         pr74.{{ adapter.quote("Remarks") }} as prev_2074_election_remarks,
         case
             when pr74.{{ adapter.quote("Remarks") }} = 'Elected' then 'Winner'
@@ -423,7 +442,8 @@ joined as (
         pr74.{{ adapter.quote("CastedVote") }} as prev_2074_election_casted_vote,
         pr74.{{ adapter.quote("TotalVoters") }} as prev_2074_election_total_voters,
 
-        -- Runner-up votes from 2074 election
+        -- Winner and runner-up votes from 2074 election
+        ru74.winner_votes as prev_2074_winner_votes,
         ru74.runner_up_votes as prev_2074_runner_up_votes,
 
         -- Party info
@@ -586,9 +606,15 @@ joined as (
         on pr.{{ adapter.quote("State") }} = ru.{{ adapter.quote("State") }}
         and pr.{{ adapter.quote("DistrictCd") }} = ru.{{ adapter.quote("DistrictCd") }}
         and pr.{{ adapter.quote("SCConstID") }} = ru.{{ adapter.quote("SCConstID") }}
+    left join ranked_2079 r2079
+        on pr.{{ adapter.quote("CandidateID") }} = r2079.{{ adapter.quote("CandidateID") }}
     left join prev_runner_up_2074 ru74
         on pr74.{{ adapter.quote("State") }} = ru74.{{ adapter.quote("State") }}
         and pr74.{{ adapter.quote("SCConstID") }} = ru74.{{ adapter.quote("SCConstID") }}
+    left join ranked_2074 r2074
+        on pr74.{{ adapter.quote("State") }} = r2074.{{ adapter.quote("State") }}
+        and pr74.{{ adapter.quote("SCConstID") }} = r2074.{{ adapter.quote("SCConstID") }}
+        and pr74.candidate_name_normalized = r2074.candidate_name_normalized
     left join parliament_members pm
         on cc.canonical_name_normalized = pm.name_normalized
     left join nepo_flags nf
@@ -820,7 +846,7 @@ select
     dp.party_id as party_id,
     dp.symbol_url as party_symbol_url,
     dp.party_display_order
-from with_tags
+from (select distinct on (candidate_id) * from with_tags) with_tags
 left join lateral (
     select *
     from dim_parties p

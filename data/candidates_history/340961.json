@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340961,
+  "candidate_name": "अजय शंकर नायक",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg/1024px-Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg.png",
+  "candidates_current_position": "पूर्व कानुन, न्याय तथा संसदीय मामिला मन्त्री",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340961.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा क्षेत्र नम्बर ४ बाट निर्वाचनमा प्रतिस्पर्धा गरे पनि जनता समाजवादी पार्टीका वीरेन्द्र प्रसाद महतोसँग पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/siraha",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टीको पोलिटब्युरो सदस्यमा चयन",
+      "date": "२०७९-०३-२३",
+      "details": "नेकपा (माओवादी केन्द्र) को १२५ सदस्यीय पोलिटब्युरो सदस्यमा मनोनित भएका।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/07/07/cpn-maoist-center-forms-125-member-politburo/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "सिराहा क्षेत्र नम्बर ४ बाट १७,५७५ मत प्राप्त गरी राष्ट्रिय जनता पार्टीका राजकिशोर यादवसँग पराजित भएका।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Siraha_4_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संविधान संशोधन मस्यौदामा संलग्नता",
+      "date": "२०७४-०१-०६",
+      "details": "कानुन मन्त्रीको रूपमा मधेशी दलहरूको माग सम्बोधन गर्न संविधान संशोधन विधेयकको मस्यौदा तयार गर्न सक्रिय भूमिका खेलेका।",
+      "link_to_source": "https://myrepublica.nagariknetwork.com/news/there-is-no-question-of-deferring-entire-election/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उच्च अदालतका न्यायाधीश नियुक्ति विवाद",
+      "date": "२०७३-०९-२६",
+      "details": "न्याय परिषद् सदस्यको हैसियतमा ८० जना उच्च अदालतका न्यायाधीश नियुक्ति गर्दा दलीय भागबण्डा गरेको भन्दै आलोचना भएको।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/news/12230/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "लोकमान सिंह कार्की विरुद्ध महाअभियोग",
+      "date": "२०७३-०७-०५",
+      "details": "अख्तियार प्रमुख लोकमान सिंह कार्की विरुद्धको महाअभियोग प्रस्तावमा हस्ताक्षर गरी प्रक्रिया अघि बढाउन सहयोग गरेका।",
+      "link_to_source": "https://ekantipur.com/news/2016/10/21/20161021074705.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कानुन, न्याय तथा संसदीय मामिला मन्त्रीमा नियुक्त",
+      "date": "२०७३-०५-३०",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को दोस्रो मन्त्रिपरिषद्मा कानुन मन्त्रीको रूपमा सपथ ग्रहण गरेका।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/new-ministers-cpn-maoist-centre-sworn-in",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा प्रवेश",
+      "date": "२०७०-०८-०४",
+      "details": "नेकपा (माओवादी) बाट समानुपातिक प्रणालीमार्फत संविधान सभा सदस्य निर्वाचित भएका।",
+      "link_to_source": "https://setopati.com/politics/319693",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अजय शंकर नायक नेकपा (माओवादी केन्द्र) का मधेश क्षेत्रका एक प्रभावशाली र अनुभवी नेता हुन्। उनी २०७३ सालमा पुष्पकमल दाहाल 'प्रचण्ड' को कार्यकालमा कानुन, न्याय तथा संसदीय मामिला मन्त्री बनेर राष्ट्रिय राजनीतिमा स्थापित भएका थिए। सिराहा क्षेत्र नम्बर ४ बाट पटक-पटक निर्वाचनमा प्रतिस्पर्धा गरे पनि उनले प्रत्यक्षतर्फ सफलता प्राप्त गर्न सकेका छैनन्, जुन उनको निर्वाचन क्षेत्रमा कमजोर जनमतको संकेत हो। उनलाई पार्टी अध्यक्ष प्रचण्डका निकट पात्रका रूपमा चिनिन्छ, जसले उनलाई मन्त्री र पोलिटब्युरो सदस्य जस्ता महत्वपूर्ण जिम्मेवारी दिलाउन सहयोग पुर्याएको देखिन्छ। उनको कार्यकालमा उच्च अदालतका न्यायाधीश नियुक्ति प्रकरणमा भएको दलीय भागबण्डालाई मुख्य विवादको रूपमा लिइन्छ। यद्यपि, उनी सिराहाकै स्थानीय बासिन्दा भएकाले उनलाई 'टुरिष्ट' उम्मेदवारको आरोप लाग्दैन। मधेशमा माओवादीको पकड कमजोर हुँदै जाँदा उनले आफ्नो चुनावी रणनीतिमा ठूलो परिवर्तन गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 62
+}

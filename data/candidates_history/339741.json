@@ -1,0 +1,127 @@
+{
+  "candidate_id": 339741,
+  "candidate_name": "फरमुल्लाह मंसुर",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nepali_Congress_Logo.png",
+  "candidates_current_position": "पूर्व मन्त्री तथा नेपाली कांग्रेसका उपसभापति",
+  "candidates_current_position_in_party": "उपसभापति (विशेष महाधिवेशनबाट)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339741.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी उपसभापतिमा चयन",
+      "date": "२०८२-१०-०१",
+      "details": "नेपाली कांग्रेसको विशेष महाधिवेशनबाट मंसुर पार्टीको उपसभापति पदमा चयन भएका छन्। यसअघि उनी पार्टीको सह-महामन्त्रीको रूपमा कार्यरत थिए।",
+      "link_to_source": "https://nepalkhabar.com/politics/185422",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका मंसुर नेकपा एमालेकी ज्वाला कुमारी साहसँग पराजित भएका हुन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-bara?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी सह-महामन्त्रीमा निर्वाचित",
+      "date": "२०७८-०९-०२",
+      "details": "नेपाली कांग्रेसको १४औँ महाधिवेशनमा मंसुर मुस्लिम क्लस्टरबाट पार्टीको सह-महामन्त्री पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://setopati.com/politics/257321",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को निर्वाचनमा बारा ३ बाट उम्मेदवार बनेका मंसुर संघीय समाजवादी फोरमका रामवावु कुमार यादवसँग पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074/district-bara?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मलेसिया रोजगारी सिन्डिकेट विवाद",
+      "date": "२०७४-०५-०१",
+      "details": "श्रम मन्त्री हुँदा मलेसिया जाने कामदारमाथि लगाइएको भेन्डर प्रणाली र सिन्डिकेटलाई प्रश्रय दिएको भन्दै उनीमाथि आलोचना भएको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2017/09/16/20170916075135.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "श्रम तथा रोजगार मन्त्रीमा नियुक्ति",
+      "date": "२०७४-०२-२४",
+      "details": "शेरबहादुर देउवा नेतृत्वको मन्त्रिपरिषद्मा मंसुरले श्रम तथा रोजगार मन्त्रालयको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2017/06/600742",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "देउवा समूहमा प्रवेश",
+      "date": "२०७२-११-२२",
+      "details": "१३औँ महाधिवेशन अघि संस्थापन पक्ष छाडेर मंसुर शेरबहादुर देउवा नेतृत्वको समूहमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2016/03/10/farmullaha-mansoor-elected-nc-central-member",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "फरमुल्लाह मंसुर नेपाली कांग्रेसका एक अनुभवी र प्रभावशाली मुस्लिम नेता हुन्। बारा जिल्लाबाट लगातार तीन पटक (२०४८, २०५१, २०५६) र २०६४ को संविधानसभामा समेत विजय हासिल गरेका मंसुरको राजनीतिक साख पछिल्लो समय केही धर्मराएको देखिन्छ। २०७४ मा श्रम मन्त्री रहँदा मलेसिया जाने श्रमिकहरूमाथि थोपरिएको सिन्डिकेट र अतिरिक्त शुल्कको विषयमा उनी विवादित बनेका थिए, जसले उनको छविमा नकारात्मक प्रभाव पार्यो। २०७४ र २०७९ का दुई ठूला निर्वाचनमा लगातार पराजय भोग्नु उनका लागि गम्भीर चुनौती बनेको छ। यद्यपि, पार्टीको विशेष महाधिवेशनबाट उपसभापतिमा चयन हुनुले पार्टीभित्र उनको सांगठनिक पकड र सभापति शेरबहादुर देउवाको विश्वासपात्रका रूपमा उनको प्रभाव अझै कायमै रहेको पुष्टि गर्छ।",
+  "overall_approval_rating": 58
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342762,
+  "candidate_name": "मनीष कुमार कानोडिया",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "व्यवसायी तथा समाजसेवी",
+  "candidates_current_position_in_party": "आवद्धता छैन (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342762.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलबस्तु क्षेत्र नं ३ बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचनमा प्रतिस्पर्धा गरे पनि पराजित हुनुभएको थियो ।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अटल सिमेन्ट्स र प्लाईउड उद्योगको नेतृत्व",
+      "date": "२०७३-०१-०१",
+      "details": "अटल सिमेन्ट्स र अटल प्लाईउड उद्योगको प्रबन्ध निर्देशकको रूपमा औद्योगिक क्षेत्रमा नेतृत्वदायी भूमिका निर्वाह गर्नुभएको छ ।",
+      "link_to_source": "https://thekanodiagroup.com/team-members/manish-kanodia/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्री महालक्ष्मी सुगर मिलको व्यवस्थापन",
+      "date": "२०७५-१०-०५",
+      "details": "महालक्ष्मी सुगर मिलको जनरल म्यानेजरको रूपमा चिनी उद्योगको व्यवस्थापनमा संलग्न रहनुभएको छ ।",
+      "link_to_source": "https://thekanodiagroup.com/team-members/manish-kanodia/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कपिलबस्तुमा सामाजिक सेवा र राहत वितरण",
+      "date": "२०७७-०३-१५",
+      "details": "कोभिड-१९ महामारी र अन्य विपद्का समयमा कपिलबस्तु क्षेत्रमा स्वास्थ्य शिविर र राहत वितरणमा सक्रिय रहनुभएको छ ।",
+      "link_to_source": "https://thekanodiagroup.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मनीष कुमार कानोडिया कपिलबस्तुका एक स्थापित युवा उद्योगी र व्यवसायी हुन् । कानोडिया ग्रुप अफ कम्पनीज मार्फत सिमेन्ट, चिनी र प्लाईउड उद्योगमा उनको बलियो पकड रहेको छ । उनले २०७९ को निर्वाचनमा कपिलबस्तु क्षेत्र नं ३ बाट स्वतन्त्र उम्मेदवारी दिएर राजनीतिमा पाइला टेकेका थिए । यद्यपि उनले प्रभावशाली राजनीतिक दलका उम्मेदवारहरूलाई पराजित गर्न सकेनन्, तर उनको उम्मेदवारीले स्थानीय राजनीतिमा व्यवसायिक वर्गको सक्रियता बढेको संकेत गर्छ । उनी आईटी इन्जिनियरिङ पृष्ठभूमिका भएकाले आधुनिक व्यवस्थापन र विकासका मुद्दामा चासो राख्ने गर्छन् । जिल्लामा उनको परिवारको लामो राजनीतिक र व्यवसायिक इतिहास रहेकाले उनको पकड व्यवसायिक समुदायमा राम्रो छ ।",
+  "overall_approval_rating": 58
+}

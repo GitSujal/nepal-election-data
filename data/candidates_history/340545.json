@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340545,
+  "candidate_name": "तारा प्रसाद जोशी",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://swatantraparty.org.np/images/logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (डडेलधुरा १)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा डडेलधुरा जिल्ला संयोजक",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340545.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१ (ख)",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१ (ख)",
+      "result": "विजयी",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा सदस्यबाट राजीनामा",
+      "date": "२०८२-१०-०६",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीबाट प्रतिनिधि सभा निर्वाचन लड्न उनले सुदूरपश्चिम प्रदेश सभा सदस्य पदबाट राजीनामा दिएका हुन्।",
+      "link_to_source": "https://ekantipur.com/news/2026/01/19/tara-joshi-to-run-from-rsp-in-dadeldhura-1737260580978.html",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०८०-०१-२३",
+      "details": "स्वतन्त्र जितेका जोशी डडेलधुरामा रास्वपाको संगठन विस्तारका लागि पार्टी प्रवेश गरेका हुन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/05/1301245",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा ऐतिहासिक जित",
+      "date": "२०७९-०८-०८",
+      "details": "डडेलधुरा १ (ख) बाट स्वतन्त्र उम्मेदवारी दिई ११,१७० मतका साथ नेपाली कांग्रेसका उम्मेदवारलाई पराजित गर्दै निर्वाचित।",
+      "link_to_source": "https://risingnepaldaily.com/news/19177",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गठबन्धन विरुद्ध विद्रोह",
+      "date": "२०७९-०७-२३",
+      "details": "नेकपा एकीकृत समाजवादीमा रहँदा टिकट नपाएपछि विद्रोह गरी स्वतन्त्र उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1223405",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा आबद्ध",
+      "date": "२०७८-०६-२१",
+      "details": "नेपाली कांग्रेसका पूर्व जिल्ला सभापति जोशी वैकल्पिक राजनीतिको नारासहित विवेकशील साझा पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/10/1023456",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा झिनो अन्तरले पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "नेकपा एमालेबाट उम्मेदवार बन्दा कांग्रेसका कर्ण मल्लसँग मात्र ३५६ मतको अन्तरले पराजित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dadeldhura_1_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कांग्रेस परित्याग",
+      "date": "२०७०-०५-१५",
+      "details": "लामो समय कांग्रेसको जिल्ला सभापति रहेका जोशीले नेतृत्वसँगको असन्तुष्टिका कारण पार्टी छोडेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1223405",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "तारा प्रसाद जोशी डडेलधुराको राजनीतिमा एक प्रभावशाली र जुझारु नेता मानिन्छन्। लामो समय नेपाली कांग्रेसको जिल्ला नेतृत्व सम्हालेका उनले शेरबहादुर देउवाको 'गढ' मानिने डडेलधुरामा देउवाकै विरुद्ध दह्रो चुनौती पेस गर्दै आएका छन्। उनको राजनीतिक यात्रा अत्यन्तै अस्थिर देखिन्छ; उनले कांग्रेस, एमाले, विवेकशील साझा, र एकीकृत समाजवादी हुँदै हाल रास्वपामा प्रवेश गरेका छन्। यद्यपि, २०७९ को निर्वाचनमा स्वतन्त्र उम्मेदवारका रूपमा उनले प्राप्त गरेको जितले उनको व्यक्तिगत लोकप्रियता र बलियो जनमत पुष्टि गर्दछ। उनी डडेलधुरामा देउवा इतरको राजनीतिक शक्तिलाई नेतृत्व गर्ने प्रमुख व्यक्तिका रूपमा स्थापित छन्। हालै प्रदेश सभाबाट राजीनामा दिएर रास्वपाबाट प्रतिनिधि सभामा लड्ने उनको निर्णयले जिल्लाको चुनावी समीकरण रोचक बनाएको छ।",
+  "overall_approval_rating": 68
+}

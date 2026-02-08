@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339499,
+  "candidate_name": "ज्वाला कुमारी साह",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CPN-UML_Logo.svg/1024px-CPN-UML_Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य तथा पूर्व कृषि मन्त्री",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339499.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ३ (क)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कृषि तथा पशुपन्छी विकास मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा साह कृषि तथा पशुपन्छी विकास मन्त्रीको रूपमा पुन: नियुक्त हुनुभएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/07/1511677",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मन्त्री पदबाट राजीनामा",
+      "date": "२०८०-०३-२१",
+      "details": "सत्ता समीकरणमा परिवर्तन आएपछि एमालेका तर्फबाट मन्त्री रहनुभएकी साहले आफ्नो पदबाट राजीनामा दिनुभएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/291616",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "बारा क्षेत्र नं. ३ बाट २०,२५१ मत ल्याएर जनता समाजवादी पार्टीका उम्मेदवारलाई पराजित गर्दै विजयी हुनुभयो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कृषि मन्त्रीको रूपमा छोटो कार्यकाल",
+      "date": "२०७८-०२-२७",
+      "details": "केपी ओलीको मन्त्रिमण्डलमा उहाँ १३ दिनका लागि कृषि मन्त्री बन्नुभएको थियो, तर सर्वोच्चको आदेशले पदमुक्त हुनुभयो।",
+      "link_to_source": "https://www.setopati.com/politics/241289",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्य पद खारेज",
+      "date": "२०७७-१२-३०",
+      "details": "माओवादी केन्द्र छाडेर एमाले प्रवेश गरेपछि पार्टीको कारबाहीका कारण उहाँको प्रदेश सभा सदस्य पद गुमेको थियो।",
+      "link_to_source": "https://ratopati.com/story/174959/2021/4/5/jwala-kumari-sah",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमालेमा औपचारिक प्रवेश",
+      "date": "२०७७-११-२३",
+      "details": "सर्वोच्च अदालतको फैसलापछि नेकपा विभाजन हुँदा साहले प्रचण्ड नेतृत्वको माओवादी छोडेर ओली नेतृत्वको एमाले रोज्नुभएको थियो।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/513522-1618218128.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटन तथा नागरिक उड्डयन राज्यमन्त्री",
+      "date": "२०६८-०५-१८",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको सरकारमा उहाँ पर्यटन राज्यमन्त्रीको रूपमा कार्य गर्नुभएको थियो।",
+      "link_to_source": "https://www.worldpulse.org/story/south-asian-women-should-unite-to-strengthen-sisterhood-and-solidarity-jwala-kumari-shah",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभा सदस्य",
+      "date": "२०६५-०१-२८",
+      "details": "माओवादीका तर्फबाट समानुपातिक प्रणालीमार्फत पहिलो संविधान सभामा उहाँ सदस्य मनोनित हुनुभएको थियो।",
+      "link_to_source": "https://hamroneta.online/candidate/325/jwala-kumari-sah",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा भूमिगत",
+      "date": "२०५५-०२-१५",
+      "details": "१७ वर्षको उमेरमा विद्यार्थी राजनीतिबाट सुरु गरी उहाँ सशस्त्र विद्रोहको समयमा भूमिगत हुनुभएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/291616",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ज्वाला कुमारी साह बारा जिल्लाको राजनीतिमा एक प्रभावशाली र जुझारु महिला नेताको रूपमा परिचित हुनुहुन्छ। माओवादी सशस्त्र विद्रोहबाट राजनीतिमा उदाउनुभएकी साहले २०७७ सालमा नेकपाको विभाजनपछि आफ्नो राजनीतिक भविष्य दाउमा राखेर एमाले रोज्नुभयो, जसका कारण उहाँले आफ्नो प्रदेश सभा सदस्य पद समेत गुमाउनु परेको थियो। यद्यपि, २०७९ को निर्वाचनमा बारा ३ बाट प्रतिनिधि सभामा निर्वाचित भएर उहाँले आफ्नो व्यक्तिगत लोकप्रियता र एमालेको बलियो संगठनको पुष्टि गर्नुभयो। उहाँ पटक-पटक कृषि मन्त्रीको जिम्मेवारीमा रहनुभएको छ, जसले उहाँको पार्टीभित्रको पकड र नेतृत्व क्षमतालाई दर्शाउँछ। उहाँलाई एक 'फायरब्रान्ड' नेता मानिन्छ जसले मधेसको राजनीतिमा एमालेको प्रभाव विस्तार गर्न महत्वपूर्ण भूमिका खेल्नुभएको छ। उहाँको राजनीतिक यात्रामा पार्टी परिवर्तन एक विवादास्पद मोड रहे पनि चुनावी नतिजाले उहाँको स्थानीय आधार मजबुत रहेको देखाउँछ।",
+  "overall_approval_rating": 82
+}

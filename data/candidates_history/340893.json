@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340893,
+  "candidate_name": "पूर्ण बहादुर घर्ती मगर",
+  "candidate_party": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Janata_Samajbadi_Party_Nepal_logo.png/220px-Janata_Samajbadi_Party_Nepal_logo.png",
+  "candidates_current_position": "पूर्व सभामुख, लुम्बिनी प्रदेश",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340893.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रुकुम पूर्व",
+      "constituency": "१(ख)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम पूर्व",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "माओवादी केन्द्र परित्याग गरी जसपा प्रवेश",
+      "date": "२०८१-०४-१५",
+      "details": "लामो समय माओवादी केन्द्रमा रहेका घर्ती मगरले पार्टीको नीति र कार्यशैलीमा असन्तुष्टि जनाउँदै जनता समाजवादी पार्टी रोजेका हुन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340893",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बागलुङ-२ बाट प्रतिनिधि सभाको उम्मेदवारी",
+      "date": "२०८१-०५-१०",
+      "details": "रुकुम पूर्वको आफ्नो सुरक्षित क्षेत्र छाडेर उनले बागलुङलाई नयाँ राजनीतिक थलो बनाउन उम्मेदवारी दिएका हुन्, जसलाई 'भगुवा' उम्मेदवारीको रूपमा विश्लेषण गरिएको छ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340893",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०७",
+      "details": "रुकुम पूर्व १ बाट १२ हजार २६२ मत प्राप्त गर्दै उनी प्रतिनिधि सभा सदस्यमा भारी मतान्तरले विजयी भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaw_pyI75rYSKW4ZAvyvC5tcbMQeYKVqOxhjEhRjd7ayC2s_G1Ic9LT5y_MCn-jH14-XHvpUI7UOVlpMJ9irIp7mJhjPhtEa9xHFN-NmBHcUa3vWdHCsUkUdqKjUQ2QAZADtE6Hv8=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लुम्बिनी प्रदेशको नाम र राजधानी घोषणा",
+      "date": "२०७७-०६-२०",
+      "details": "सभामुखको रूपमा उनले लुम्बिनी प्रदेशको स्थायी राजधानी देउखुरी र नाम लुम्बिनी राख्ने ऐतिहासिक निर्णयको सफलतापूर्वक समन्वय गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR3e09jTxfqe3UL0_YBntDGTBUK1BDAe1WtMH4sFr5wKACMR-8DKY8mR65JtckYDZFI9RjuQClmOMNs9dnImW1sznGTYMmo6QrqH4MoIeWYfB3u8wpUVMVRIhqnG-ibM-m-Q8fl-08829bHtqQ5OcA2zmgY9wvb116jFUaP2LrgeTnUt8Qbx_ObY1UZkaiCTVtlKoCY27xrr8yrAuPAeehmDJK6fQG2Q_nWw==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लुम्बिनी प्रदेश सभाको पहिलो सभामुख",
+      "date": "२०७४-११-०२",
+      "details": "संघीयता कार्यान्वयनको पहिलो चरणमा लुम्बिनी प्रदेश सभाको नेतृत्व गर्दै उनी निर्विरोध सभामुखमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdDo33lqAAqIfutKdZVkuXyyi4yegf_-8VIx9uj4EsugkIpZBtQmtNCOWJ-Vn5VASTvkc1tlpQFaow9sK-ZPwW3mrNMm6g8BNv8oaTUShmgUtSRMlKE86bZ9402i_q6DlOlraR8HEotlg9jywafhqtsCLI",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पूर्ण बहादुर घर्ती मगर लुम्बिनी प्रदेशका पूर्व सभामुख र रुकुम पूर्वका प्रभावशाली राजनीतिज्ञ हुन्। माओवादी आन्दोलनबाट उदाएका उनले २०७९ को निर्वाचनमा माओवादी केन्द्रको तर्फबाट रुकुम पूर्व-१ बाट १२,२६२ मतसहित सानदार जित हासिल गरेका थिए। तर, हाल आएर उनले माओवादी केन्द्र परित्याग गरी जनता समाजवादी पार्टी (जसपा) रोज्नु र आफ्नो पुरानो निर्वाचन क्षेत्र छाडेर बाग्लुङ-२ बाट उम्मेदवारी दिनुलाई राजनीतिक रूपमा विवादास्पद मानिएको छ। यस कदमले उनलाई 'भगुवा' (Vaguwa) उम्मेदवारको रूपमा चित्रित गरेको छ, जसले आफ्नो सुरक्षित राजनीतिक धरातल परिवर्तन गरेका छन्। सभामुखको रूपमा प्रदेशको नामकरण र राजधानी व्यवस्थापनमा उनले खेलेको भूमिका सकारात्मक रहे पनि, उनको यो पछिल्लो दल परिवर्तन र भौगोलिक पलायनले मतदाताहरूमाझ उनको स्थिरता र निष्ठामाथि प्रश्न उठाएको छ। बाग्लुङमा उनको नयाँ यात्रा चुनौतीपूर्ण हुनसक्ने देखिन्छ।",
+  "overall_approval_rating": 58
+}

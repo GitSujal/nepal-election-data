@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340296,
+  "candidate_name": "मनिष झा",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+  "candidates_current_position_in_party": "पार्टी प्रवक्ता र केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340296.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य (समानुपातिक - मधेसी समूह)",
+      "district": "धनुषा",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी प्रवक्तामा नियुक्त",
+      "date": "२०८२-०३-०७",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीले आफ्नो तेस्रो स्थापना दिवसको अवसरमा मनिष झालाई आधिकारिक प्रवक्तामा नियुक्त गर्यो। उनी यसअघि कार्यवाहक प्रवक्ताको भूमिकामा थिए।",
+      "link_to_source": "https://www.khabarhub.com/2025/21/512521/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सहकारी ठगी प्रकरणमा पार्टीको प्रतिरक्षा",
+      "date": "२०८१-०६-०१",
+      "details": "पार्टी सभापति रवि लामिछाने जोडिएको सहकारी ठगी प्रकरणमा संसदीय छानबिन समितिको प्रतिवेदन सार्वजनिक भएपछि झाले पार्टीको तर्फबाट लामिछानेलाई क्लिन चिट मिलेको दाबी गर्दै प्रतिरक्षा गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rabi_Lamichhane",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मोरङमा टिकट वितरण विवाद",
+      "date": "२०७९-०७-२०",
+      "details": "मोरङमा क्षेत्रीय समितिले सिफारिस गरेका उम्मेदवारलाई हटाएर आफ्नो स्वार्थ अनुकूल आशा झालाई टिकट दिएको आरोपमा स्थानीय कार्यकर्ताले मनिष झाको फोटोमा कालो मसो दलेर विरोध गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/267652/2022/10/16/manish-jha",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "समानुपातिक सांसदमा निर्वाचित",
+      "date": "२०७९-०८-२२",
+      "details": "२०७९ को आम निर्वाचनमा मधेसी कोटाबाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट समानुपातिक सांसदमा निर्वाचित भए।",
+      "link_to_source": "https://changenepal.org/candidates/manish-jha",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०६-०३",
+      "details": "लामो समयदेखि नेपाली कांग्रेसमा आबद्ध रहेका झा कांग्रेसले मधेसी मुद्दा र नयाँ पुस्तालाई उपेक्षा गरेको भन्दै रास्वपा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/09/1191054",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "फ्याक्ट्स नेपाल (Facts Nepal) को स्थापना",
+      "date": "२०६९-०१-०१",
+      "details": "नेपालमा डाटामा आधारित निर्णय लिने संस्कृतिको विकास गर्न झाले 'फ्याक्ट्स रिसर्च एण्ड एनालिटिक्स' को स्थापना गरी प्रमुख कार्यकारी अधिकृतको रूपमा काम गरे।",
+      "link_to_source": "https://b360nepal.com/datapreneur-manish-jha-developing-a-culture-of-facts/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नख्खु कारागार घटना सम्बन्धी विवाद",
+      "date": "२०८०-०४-१५",
+      "details": "एक भाइरल भिडियोमा मनिष झाले कारागार तोड्ने र आक्रमण गर्ने कुरालाई समर्थन गरेको देखिएपछि विवाद उत्पन्न भएको थियो, जसलाई उनले 'इडिटेड' भन्दै खण्डन गरेका थिए।",
+      "link_to_source": "https://www.techpana.com/2024/139366/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "टिकटका लागि 'डाटा' व्यापार गरेको आरोप",
+      "date": "२०७९-०५-०१",
+      "details": "उनले आफ्नो कम्पनी फ्याक्ट्स नेपालको महत्वपूर्ण डाटा र चुनावी रणनीति रास्वपालाई उपलब्ध गराउने सर्तमा समानुपातिक टिकट सुनिश्चित गरेको भन्दै केही वृत्तमा आलोचना भएको थियो।",
+      "link_to_source": "https://www.reddit.com/r/Nepal/comments/1e3095v/manish_jha_trades_data_from_facts_nepal_for/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "मनिष झा राष्ट्रिय स्वतन्त्र पार्टीका एक प्रभावशाली र तार्किक वक्ताको रूपमा चिनिन्छन्। तथ्याङ्क र अनुसन्धानको पृष्ठभूमि भएका झाले संसदमा गर्ने तर्कहरू प्रायः तथ्यमा आधारित हुने गर्छन्। उनी तीन पुस्तादेखि नेपाली कांग्रेसमा आबद्ध परिवारबाट विद्रोह गरी रास्वपा प्रवेश गरेका हुन्। उनलाई पार्टीभित्र रणनीतिक योजनाकार र मधेसी समुदायको प्रतिनिधित्व गर्ने प्रमुख अनुहारको रूपमा हेरिन्छ। यद्यपि, मोरङमा टिकट वितरणका क्रममा आफन्तवाद लादेको आरोप र आफ्नो व्यावसायिक कम्पनीको डाटालाई राजनीतिक सौदावाजीमा प्रयोग गरेको भन्ने गम्भीर आरोपहरूले उनको छविमा केही धक्का पुर्याएको छ। उनी हाल पार्टीको प्रवक्ताको रूपमा पार्टीका नीति र नेतृत्वको प्रतिरक्षा गर्न अग्रपंक्तिमा खटिएका छन्।",
+  "overall_approval_rating": 68
+}

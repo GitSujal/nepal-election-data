@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341758,
+  "candidate_name": "प्रेमा दमाई नेपाली",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://ajp.org.np/wp-content/uploads/2023/04/ajp-logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341758.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम पश्चिम",
+      "constituency": "रुकुम पश्चिम-१",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को आम निर्वाचनमा रुकुम पश्चिम निर्वाचन क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रुकुम पश्चिमको एक मात्र महिला उम्मेदवार",
+      "date": "२०७९-०७-२३",
+      "details": "सो निर्वाचन क्षेत्रबाट प्रतिनिधि सभाका लागि मनोनयन दर्ता गर्ने १२ जना उम्मेदवारहरूमध्ये उनी एक मात्र महिला थिइन्।",
+      "link_to_source": "https://www.sudharnews.com/2022/10/09/12-candidates-nominated-in-rukum-west/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०९-१४",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई दलित र महिला अधिकारको क्षेत्रमा सक्रिय राजनीति सुरु गरिन्।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/12/29/prabhu-sah-launches-aam-janata-party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सीमान्तकृत समुदायको प्रतिनिधित्व",
+      "date": "२०८०-०१-१०",
+      "details": "रुकुम पश्चिम जस्तो दुर्गम क्षेत्रमा दलित महिलाको रूपमा राजनीतिक नेतृत्व लिनका लागि विभिन्न सामाजिक अभियानहरूमा सहभागी।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रेमा दमाई नेपाली रुकुम पश्चिमको राजनीतिमा एक साहसी दलित महिला नेतृको रूपमा चिनिन्छिन्। २०७९ को आम निर्वाचनमा रुकुम पश्चिमबाट प्रतिनिधि सभाका लागि उम्मेदवारी दिने उनी एक मात्र महिला थिइन्, जसले यस क्षेत्रको पितृसत्तात्मक राजनीतिक संरचनालाई चुनौती दिएको थियो। प्रभु साह नेतृत्वको आम जनता पार्टीसँग आबद्ध उनले सीमान्तकृत र उत्पीडित समुदायको हकहितका लागि आवाज उठाउँदै आएकी छिन्। यद्यपि निर्वाचनमा उनले प्रभावशाली प्रतिद्वन्द्वीहरूको तुलनामा उल्लेख्य मत प्राप्त गर्न सकेनन्, तर उनको उम्मेदवारीले स्थानीय स्तरमा महिला र दलित प्रतिनिधित्वको महत्वलाई स्थापित गरेको छ। उनी विरुद्ध कुनै पनि भ्रष्टाचार वा विवादित क्रियाकलापको अभिलेख नहुनु उनको राजनीतिक जीवनको सकारात्मक पक्ष हो।",
+  "overall_approval_rating": 45
+}

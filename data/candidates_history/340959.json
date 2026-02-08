@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340959,
+  "candidate_name": "मिलन थापा मगर",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_of_Shram_Sanskriti_Party.png/200px-Election_Symbol_of_Shram_Sanskriti_Party.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340959.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "चितवन",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "चितवन क्षेत्र नं. ३ बाट प्रतिनिधिसभा सदस्यका लागि श्रम संस्कृति पार्टीको तर्फबाट चुनावी प्रतिस्पर्धामा उत्रिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/Search_Candidate_Result.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "चितवनको निर्वाचन क्षेत्र नम्बर ३ मा श्रमजीवी र सर्वहारा वर्गको प्रतिनिधित्व गर्दै औपचारिक रूपमा उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2022/10/1202816",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति अभियानमा आबद्धता",
+      "date": "२०७९-०१-०१",
+      "details": "हर्क साम्पाङको 'श्रम संस्कृति' विचारधाराबाट प्रेरित भई राजनीतिमा सक्रिय हुँदै वैकल्पिक राजनीतिको वकालत गर्न थालेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/406856/harka-sampang-party-registration",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मिलन थापा मगर २०७९ को आम निर्वाचनमा चितवन क्षेत्र नं. ३ बाट श्रम संस्कृति पार्टीको उम्मेदवारका रूपमा देखिएका हुन्। यो पार्टी विशेषगरी धरानका मेयर हर्क साम्पाङको श्रम र उत्पादनमुखी विचारधाराबाट प्रेरित रहेको छ। चितवन ३ जस्तो ठूला राजनीतिक हस्तीहरू विक्रम पाण्डे र डा. भोजराज अधिकारी प्रतिस्पर्धामा रहेको क्षेत्रमा मिलनको चुनावी प्रभाव भने निकै कमजोर देखियो। उनले निर्वाचनमा जम्मा ३२ मत मात्र प्राप्त गरे, जसले गर्दा उनले आफ्नो जमानत समेत बचाउन सकेनन्। उनी राजनीतिमा तुलनात्मक रूपमा नयाँ र कम परिचित अनुहार हुन्। उनको कुनै विवादित पृष्ठभूमि वा भ्रष्टाचारका घटनाहरू सार्वजनिक भएका छैनन्, तर स्थानीय स्तरमा संगठन निर्माण र जनमत बटुल्न उनी असफल भएको देखिन्छ।",
+  "overall_approval_rating": 22
+}

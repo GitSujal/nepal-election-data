@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340791,
+  "candidate_name": "केशर सिं राई",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Rastriya_Janamukti_Party_Logo.png/220px-Rastriya_Janamukti_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340791.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "संखुवासभा १",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "संखुवासभा जिल्लाबाट नेपाल जनमुक्ति पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले थोरै संख्यामा मत प्राप्त गरे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/sankhuwasabha-1?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानको राजनीतिमा संलग्नता",
+      "date": "२०७५-०१-०१",
+      "details": "राष्ट्रिय जनमुक्ति पार्टीको विचारधारा अनुरुप संखुवासभा क्षेत्रमा जातीय पहिचान र संघीयताको पक्षमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी सांगठनिक विस्तार",
+      "date": "२०७०-०१-०१",
+      "details": "संखुवासभा जिल्लामा नेपाल जनमुक्ति पार्टीको संगठन निर्माण र विस्तारमा सक्रिय भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340791",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "केशर सिं राई संखुवासभा जिल्लामा सक्रिय रहेका एक साना दलका राजनीतिज्ञ हुन्। उनी मुख्यतया पहिचान र संघीयताको एजेन्डा बोक्ने नेपाल जनमुक्ति पार्टी (राष्ट्रिय जनमुक्ति पार्टीको चुनावी नाम) सँग आबद्ध छन्। २०७९ को आम निर्वाचनमा संखुवासभा-१ बाट उम्मेदवार बने पनि उनले उल्लेख्य मत प्राप्त गर्न सकेनन्, जसले ठूला दलहरु (नेपाली कांग्रेस र नेकपा एमाले) को दबदबा रहेको यस क्षेत्रमा उनको दलको कमजोर संगठन देखाउँछ। उनी कुनै ठूलो विवाद वा भ्रष्टाचार काण्डमा मुछिएका छैनन्, तर उनको राजनीतिक प्रभाव जिल्लाको सिमित क्षेत्र र समुदायमा मात्र केन्द्रित रहेको देखिन्छ।",
+  "overall_approval_rating": 25
+}

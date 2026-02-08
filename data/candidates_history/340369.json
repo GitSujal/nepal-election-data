@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340369,
+  "candidate_name": "सुमन सायमी",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hammer_and_sickle_inside_a_circle.svg/1024px-Hammer_and_sickle_inside_a_circle.svg.png",
+  "candidates_current_position": "राजनीतिज्ञ तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340369.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "नगरप्रमुख (मेयर)",
+      "district": "काठमाडौं",
+      "constituency": "काठमाडौं महानगरपालिका",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ८",
+      "result": "पराजित",
+      "party": "हाम्रो नेपाली पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली कम्युनिष्ट पार्टीमा प्रवेश",
+      "date": "२०८२-०९-३०",
+      "details": "सायमीको नेतृत्वमा रहेको राष्ट्रिय मुक्ति पार्टी नेपाल (एकता पक्षधर) समूह पुष्पकमल दाहाल 'प्रचण्ड' र माधवकुमार नेपाल नेतृत्वको नेपाली कम्युनिष्ट पार्टीमा समाहित भएको छ।",
+      "link_to_source": "https://www.ekantipur.com/news/2026/01/14/suman-sayami-group-merged-into-ncp-14-16.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "गौशालामा संरचना भत्काउने कार्यको विरोध र पक्राउ",
+      "date": "२०८१-०८-०१",
+      "details": "काठमाडौं महानगरपालिकाले गौशाला क्षेत्रमा गरेको डोजर कारबाहीको विरोध गर्दा सायमीलाई प्रहरीले नियन्त्रणमा लिएको थियो।",
+      "link_to_source": "https://www.setopati.com/social/344652",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ८ बाट हाम्रो नेपाली पार्टीको लौरो चिन्ह लिएर चुनाव लडेका सायमी ६,१७९ मत प्राप्त गर्दै पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-8/kathmandu?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "काठमाडौं महानगरको मेयरमा उम्मेदवारी",
+      "date": "२०७९-०१-३०",
+      "details": "स्थानीय चुनावमा स्वतन्त्र उम्मेदवारका रूपमा आँखा चिन्ह लिएर चुनाव लडेका सायमीले १३,७७० मत प्राप्त गरी चौथो स्थान हासिल गरे।",
+      "link_to_source": "https://en.wikipedia.org/wiki/2022_Kathmandu_municipal_election",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गुठी विधेयक विरुद्धको आन्दोलनमा नेतृत्व",
+      "date": "२०७६-०३-०४",
+      "details": "सम्पदा र संस्कृतिमाथि प्रहार हुने भन्दै ल्याइएको गुठी विधेयक विरुद्धको विशाल प्रदर्शनमा सायमीले महत्वपूर्ण नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/06/1135431",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सडक विस्तार विरुद्ध सर्वोच्च अदालतको फैसला",
+      "date": "२०७४-०६-०१",
+      "details": "गैरन्यायिक सडक विस्तार विरुद्ध सायमीको नेतृत्वमा भएको संघर्षले सर्वोच्च अदालतबाट उचित मुआब्जा दिएर मात्र सडक विस्तार गर्न आदेश दिलाउन सफल भयो।",
+      "link_to_source": "https://kathmandupost.com/kathmandu/2018/12/21/valley-natives-stage-protest-against-road-expansion-drive",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मातृभाषा बोलेकै आधारमा हिरासतमा दुर्व्यवहार",
+      "date": "२०५८-०५-१०",
+      "details": "सडक विस्तारको विरोधका क्रममा पक्राउ पर्दा हिरासतमा नेपालभाषा (मातृभाषा) बोलेकै कारण प्रहरीबाट अपमानित हुनुपरेको थियो।",
+      "link_to_source": "https://abcnepal.tv/2026/01/17/233010/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुमन सायमी काठमाडौंको रैथाने समुदाय र सम्पदा संरक्षण आन्दोलनका एक बलिया खम्बा हुन्। उनको राजनीतिक यात्रा सडक विस्तारबाट विस्थापित पीडितहरूको हकहितका लागि सुरु भएको सामाजिक अभियानबाट प्रेरित छ। २०७९ को स्थानीय निर्वाचनमा उनले प्राप्त गरेको १३,७७० मतले काठमाडौंको कोर क्षेत्र (नेवा समुदाय) मा उनको बलियो पकड रहेको पुष्टि गर्छ। यद्यपि, उनी बारम्बार चुनावी प्रतिस्पर्धामा पराजित भएका छन्, जसले उनको लोकप्रियता मतमा रूपान्तरण हुन अझै बाँकी रहेको देखाउँछ। हालै उनी 'राष्ट्रिय मुक्ति पार्टी' बाट 'नेपाली कम्युनिष्ट पार्टी' (प्रचण्ड-माधव समूहको एकता) मा प्रवेश गर्नुले उनलाई ठूला दलको संरचनाभित्र स्थापित हुने अवसर दिएको छ। उनीमाथि 'जातीय राजनीति' गरेको आरोप लाग्ने गरे पनि उनी आफूलाई सबै उत्पीडितहरूको आवाजको रूपमा प्रस्तुत गर्छन्। उनको मुख्य शक्ति उनको इमान्दार छवि र विरासतमा पाएको राजनीतिक पृष्ठभूमि हो।",
+  "overall_approval_rating": 72
+}

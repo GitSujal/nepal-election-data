@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340234,
+  "candidate_name": "विष्‍णु लोपचन",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_of_Nepal_Sanskrit_Party.png/200px-Election_Symbol_of_Nepal_Sanskrit_Party.png",
+  "candidates_current_position": "राजनीतिज्ञ तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340234.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "निर्वाचन क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को आम निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "पर्सा निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यका लागि श्रम संस्कृति पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम र संस्कृति संरक्षण अभियान",
+      "date": "२०७९-०५-१०",
+      "details": "हर्क साम्पाङको विचारधाराबाट प्रभावित भई पर्सा जिल्लामा श्रमको सम्मान र स्थानीय संस्कृतिको जगेर्ना गर्ने अभियानमा सक्रियता।",
+      "link_to_source": "https://nepalpostdaily.com",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "श्रमजीवी वर्गको हकहितका लागि वैकल्पिक राजनीतिक शक्तिको रूपमा उदाएको श्रम संस्कृति पार्टीमा संगठित भई राजनीतिक यात्रा सुरु।",
+      "link_to_source": "https://nepalpostdaily.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "विष्णु लोपचन पर्सा जिल्लाको राजनीतिमा एक नयाँ र स्वच्छ छवि भएका उम्मेदवार हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा धरानका मेयर हर्क साम्पाङको नेतृत्वमा रहेको श्रम संस्कृति पार्टीबाट पर्सा-४ मा प्रतिस्पर्धा गरेका थिए। ठूला राजनीतिक दलहरू नेपाली कांग्रेस र नेकपा एमालेको वर्चस्व रहेको यस क्षेत्रमा लोपचनले श्रमजीवी वर्गको मुद्दा र सांस्कृतिक पहिचानलाई प्राथमिकता दिएका छन्। यद्यपि निर्वाचनमा उनले न्यून मत प्राप्त गरे, तर उनले स्थानीय स्तरमा वैकल्पिक राजनीतिको सम्भावना देखाएका छन्। उनको हालसम्म कुनै पनि आर्थिक वा नैतिक विवादमा संलग्नता देखिएको छैन, जसले उनलाई एक इमानदार उम्मेदवारको रूपमा स्थापित गरेको छ। उनी हाल स्थानीय मुद्दाहरूमा केन्द्रित रहेर पार्टीको संगठन विस्तारमा सक्रिय देखिन्छन्।",
+  "overall_approval_rating": 45
+}

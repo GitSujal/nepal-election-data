@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339857,
+  "candidate_name": "बिश्व प्रकाश जेठारा",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Rastriya_Prajatantra_Party.svg/1024px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339857.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बझाङ",
+      "constituency": "बझाङ-१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा लज्जास्पद हार",
+      "date": "२०७९-०९-०३",
+      "details": "बझाङ क्षेत्र नम्बर १ बाट प्रतिनिधिसभा सदस्यको लागि चुनाव लडेका जेठाराले मात्र १,२०८ मत प्राप्त गरी तेस्रो स्थानमा रहे र पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/Bajhang?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट बझाङ-१ मा प्रत्यक्षतर्फ प्रतिनिधिसभाको लागि मनोनयन दर्ता।",
+      "link_to_source": "https://ratopati.com/story/334006/election-bajhang",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विभाजन र गुट परिवर्तन",
+      "date": "२०७४-२०७८",
+      "details": "राप्रपाका विभिन्न विभाजनका क्रममा राप्रपा (प्रजातान्त्रिक), एकीकृत राप्रपा (राष्ट्रवादी) र राप्रपा (संयुक्त) जस्ता विभिन्न गुटहरूमा आवद्धता।",
+      "link_to_source": "https://www.nepsebajar.com/election/candidate/339857",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जिल्ला स्तरमा राप्रपाको संगठन विस्तार",
+      "date": "२०७८-०८-१५",
+      "details": "बझाङ जिल्लामा राप्रपाको संगठन निर्माण र जिल्ला महाधिवेशनका क्रममा सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://rppnepal.org/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बिश्व प्रकाश जेठारा बझाङ जिल्लामा राष्ट्रिय प्रजातन्त्र पार्टीका एक अनवरत तर चुनावी रूपमा कमजोर नेता हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले १,२०८ मत मात्र प्राप्त गर्नुले जिल्लामा राप्रपाको कमजोर आधार इलाका र उनको व्यक्तिगत प्रभावको सिमिततालाई झल्काउँछ। स्रोतमा उनलाई 'वगुवा' उम्मेदवारको रूपमा श्रेणीकृत गरिएको छ, जसको मुख्य कारण राप्रपाका विभिन्न फुट र विभाजनका क्रममा उनले पटक-पटक गुट परिवर्तन गर्नु हो। उनी राप्रपा (राष्ट्रवादी), राप्रपा (प्रजातान्त्रिक) र राप्रपा (संयुक्त) जस्ता सबै स-साना घटकहरूमा सक्रिय रहेकाले उनको राजनीतिक स्थिरतामा प्रश्न उठेको देखिन्छ। बझाङमा एमाले र कांग्रेस जस्ता ठूला दलहरूको वर्चस्व रहेको अवस्थामा जेठाराको उपस्थिति केवल 'सांकेतिक' मात्र देखिन्छ। कुनै भ्रष्टाचारको स्क्यान्डलमा नमुछिए पनि बारम्बारको पार्टी परिवर्तन र कमजोर जनमत नै उनको राजनीतिक जीवनको मुख्य चुनौती हो।",
+  "overall_approval_rating": 32
+}

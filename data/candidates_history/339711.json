@@ -1,0 +1,143 @@
+{
+  "candidate_id": 339711,
+  "candidate_name": "राजेन्द्र महतो",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_the_Rastriya_Mukti_Party_Nepal.png/220px-Flag_of_the_Rastriya_Mukti_Party_Nepal.png",
+  "candidates_current_position": "पूर्व उपप्रधानमन्त्री",
+  "candidates_current_position_in_party": "अध्यक्ष/संयोजक",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339711.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नयाँ दल दर्ता र नेतृत्व",
+      "date": "२०८१-१०-०८",
+      "details": "महतो नेतृत्वको राष्ट्रिय मुक्ति पार्टी नेपाल निर्वाचन आयोगमा औपचारिक रूपमा दर्ता भयो, जसले 'ग्यास सिलिन्डर' चुनाव चिन्ह प्राप्त गरेको छ।",
+      "link_to_source": "https://kathmandupost.com/politics/2025/01/21/rajendra-mahato-s-rastriya-mukti-party-nepal-registered-at-election-commission",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय मुक्ति क्रान्ति अभियान घोषणा",
+      "date": "२०८०-०६-०१",
+      "details": "लोसपा परित्याग गरेपछि उनले पहिचान र अधिकारका लागि राष्ट्रिय मुक्ति क्रान्ति अभियानको घोषणा गरे।",
+      "link_to_source": "https://kathmandupost.com/politics/2024/09/17/rajendra-mahato-announces-new-party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लोकतान्त्रिक समाजवादी पार्टीबाट राजीनामा",
+      "date": "२०८०-११-१४",
+      "details": "पार्टी नेतृत्वसँगको असन्तुष्टिका कारण महतोले वरिष्ठ नेताको पद र पार्टीबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://nepalnews.com.np/s/politics/rajendra-mahato-quits-lsp-nepal",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अल्पकालीन उपप्रधानमन्त्री कार्यकाल",
+      "date": "२०७८-०३-०८",
+      "details": "ओली सरकारमा उपप्रधानमन्त्री नियुक्त भएको २० दिनमै सर्वोच्च अदालतको आदेशले पदमुक्त हुनुपरेको थियो।",
+      "link_to_source": "https://khabarhub.com/2024/11/17/413476/",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बहुलराष्ट्रिय राज्यसम्बन्धी विवादित अभिव्यक्ति",
+      "date": "२०७८-०२-२३",
+      "details": "उपप्रधानमन्त्रीको सपथ लिएलगत्तै नेपाललाई 'बहुलराष्ट्रिय राज्य' बनाउने अभिव्यक्ति दिएपछि राष्ट्रिय स्तरमा तीव्र विरोध भएको थियो।",
+      "link_to_source": "https://www.thehindu.com/news/international/nepal-deputy-pm-stirs-controversy-with-demand-for-multi-nation-state/article34743787.ece",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नागरिकता विवादमा सरकारको आलोचना",
+      "date": "२०७६-०४-२१",
+      "details": "सरकारले ८ जनाको नागरिकता खारेज गर्दा आफ्नो नाम जोडिएको विषयमा आपत्ति जनाउँदै महतोले संसदमा चरित्र हत्या भएको बताएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/rajendra-mahato-slams-govt-for-giving-false-impression-of-his-citizenship-being-revoked",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "रेशम चौधरीको फैसलाप्रति असन्तुष्टि",
+      "date": "२०७५-११-२२",
+      "details": "रेशम चौधरीलाई जन्मकैदको फैसला सुनाउँदा महतोले यसलाई अन्याय भन्दै राष्ट्रिय विद्रोहको चेतावनी दिएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2019/03/06/rajendra-mahato-terms-life-sentence-to-resham-chaudhary-injustice",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मधेश नाकाबन्दीको नेतृत्व",
+      "date": "२०७२-०६-०१",
+      "details": "संविधान घोषणापछि मधेशमा भएको आन्दोलन र नाकाबन्दीको मुख्य नेतृत्वकर्ता मध्ये एक महतो थिए।",
+      "link_to_source": "https://khabarhub.com/2024/11/17/413476/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या मन्त्री",
+      "date": "२०६८-०५-१८",
+      "details": "बाबुराम भट्टराईको नेतृत्वमा स्वास्थ्य मन्त्रीको रूपमा काम गरेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B0_%E0%A4%AE%E0%A4%B9%E0%A4%A4%E0%A5%8B",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राजेन्द्र महतो मधेशी राजनीतिका एक चतुर र प्रभावशाली खेलाडी हुन्, तर उनको पछिल्लो राजनीतिक यात्रा उतारचढावले भरिएको छ। २०७४ को निर्वाचनमा धनुषा-३ बाट जित निकालेका महतो २०७९ मा पुनः आफ्नै पुरानो क्षेत्र सर्लाही-२ फर्किए पनि पराजित भए। उनको निर्वाचन क्षेत्र परिवर्तन गर्ने प्रवृत्तिले उनलाई 'रणनीतिक' नेताका रूपमा स्थापित गरे पनि स्थानीय स्तरमा कहिलेकाहीँ 'अस्थिर' नेताको रूपमा हेरिन्छ। महतोका 'बहुलराष्ट्रिय राज्य' सम्बन्धी अभिव्यक्तिहरूले पहाडी र हिमाली क्षेत्रमा उनलाई विवादित बनाएको छ भने मधेशमा उनको पहिचानवादी छविलाई बलियो बनाएको छ। हाल लोसपा छाडेर आफ्नै नेतृत्वमा राष्ट्रिय मुक्ति पार्टी गठन गरी नयाँ अभियान सुरु गरेका उनले राष्ट्रिय स्तरमा नयाँ पहिचान खोजिरहेका छन्। धेरै पटक मन्त्री र छोटो समय उपप्रधानमन्त्री बने पनि ठूला विकासका उपलब्धि भन्दा आन्दोलन र मुद्दा केन्द्रित राजनीति नै उनको मुख्य शक्ति र कमजोरी दुवै देखिन्छ।",
+  "overall_approval_rating": 42
+}

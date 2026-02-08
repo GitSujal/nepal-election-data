@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340827,
+  "candidate_name": "रुद्र बहादुर गेलाङ मगर",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिज्ञ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340827.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "धादिङ निर्वाचन क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारको रूपमा ९२ मत प्राप्त गर्दै पराजित भएका।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340827",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "स्वतन्त्र उम्मेदवारको रूपमा ७० मत प्राप्त गरेका र चुनावी प्रतिस्पर्धामा सहभागी भएका।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340827",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निरन्तर स्वतन्त्र उम्मेदवारी",
+      "date": "२०७४-०७-०१",
+      "details": "कुनै पनि राजनीतिक दलमा आबद्ध नभई निरन्तर रूपमा स्वतन्त्र राजनीतिज्ञको पहिचान बनाएका।",
+      "link_to_source": "https://ekantipur.com/election2079/dhading-2",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उच्च शिक्षा पुरा",
+      "date": "२०५५-०१-०१",
+      "details": "उनले व्यवस्थापन संकायमा स्नातक तह सम्मको अध्ययन पुरा गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340827",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रुद्र बहादुर गेलाङ मगर धादिङ क्षेत्र नम्बर २ का एक निरन्तर स्वतन्त्र उम्मेदवार हुन्। उनले २०७४ र २०७९ का दुवै आम निर्वाचनमा स्वतन्त्र रूपमा आफ्नो उम्मेदवारी दिएका थिए। यद्यपि उनले प्राप्त गरेको मत निकै कम (७० र ९२ मत) रहेको छ, जसले उनलाई चुनावी दौडमा निकै कमजोर प्रतिस्पर्धीको रूपमा देखाउँछ। स्रोतमा उल्लेखित 'वागुवा' (Vaguwa) ट्यागले उनको राजनीतिक अस्थिरता वा स्थानीय प्रभावको अभावलाई संकेत गर्दछ, यद्यपि उनी धादिङकै गंगाजमुना गाउँपालिकाका बासिन्दा हुन्। उनको शैक्षिक पृष्ठभूमि व्यवस्थापनमा स्नातक रहे पनि राजनीतिक संगठन र जनमतको आधारमा उनको उपस्थिति निकै न्युन देखिन्छ।",
+  "overall_approval_rating": 22
+}

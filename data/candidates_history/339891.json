@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339891,
+  "candidate_name": "भिम बडुवाल",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_the_Nepali_Congress.svg/1024px-Flag_of_the_Nepali_Congress.svg.png",
+  "candidates_current_position": "पूर्व क्षेत्रीय सभापति, नेपाली काँग्रेस",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339891.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "निर्वाचन क्षेत्र नं. २ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कैलाली क्षेत्र नं. २ (ख) बाट नेपाली काँग्रेसको तर्फबाट प्रदेश सभा सदस्यको उम्मेदवार बनेका तर नागरिक उन्मुक्ति पार्टीका उम्मेदवारसँग पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-7/district-kailali?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मतदाता पृष्ठपोषणका लागि डिजिटल प्लेटफर्म",
+      "date": "२०७९-०७-२०",
+      "details": "निर्वाचनका क्रममा मतदाताका समस्या र गुनासो सुन्नका लागि प्रविधिको प्रयोग गर्दै डिजिटल प्लेटफर्मको सुरुवात गरेका।",
+      "link_to_source": "https://dineshkhabar.com/story/88347",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेस जिल्ला सभापतिमा प्रतिस्पर्धा",
+      "date": "२०७२-११-२२",
+      "details": "नेपाली काँग्रेस कैलालीको जिल्ला सभापति पदका लागि निर्वाचन लडेका तर आन्तरिक प्रतिस्पर्धामा पराजित भएका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ग्रामीण विद्युतीकरणमा नेतृत्व",
+      "date": "२०६७-०५-१०",
+      "details": "घोडाघोडी ग्रामीण विद्युत् सहकारी संस्थाको अध्यक्ष भएर तत्कालीन साडेपानी र दरख क्षेत्रका करिब १२,००० घरधुरीमा बिजुली विस्तारको नेतृत्व गरेका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जिल्ला सचिव पदमा पराजय",
+      "date": "२०६७-०६-०५",
+      "details": "नेपाली काँग्रेस कैलालीको जिल्ला सचिव पदका लागि भएको निर्वाचनमा झिनो मतान्तरले पराजित भएका।",
+      "link_to_source": "https://rajdhanidaily.com/id/45678/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेविसंघ केन्द्रीय सह-महामन्त्री",
+      "date": "२०६५-१२-१५",
+      "details": "नेपाल विद्यार्थी संघको केन्द्रीय सह-महामन्त्रीको रूपमा जिम्मेवारी सम्हाल्दै विद्यार्थी राजनीतिमा राष्ट्रिय पहिचान बनाएका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघ कैलाली जिल्ला अध्यक्ष",
+      "date": "२०५९-०४-१०",
+      "details": "नेपाल विद्यार्थी संघ कैलालीको जिल्ला अध्यक्ष चुनिएर जिल्लाभर संगठन विस्तारमा महत्वपूर्ण भूमिका खेलेका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघ जिल्ला कोषाध्यक्ष",
+      "date": "२०५५-०२-२०",
+      "details": "कैलाली नेविसंघको जिल्ला कोषाध्यक्षको रूपमा सांगठनिक जिम्मेवारी सफलतापूर्वक निर्वाह गरेका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेविसंघ क्षेत्रीय सभापति",
+      "date": "२०५२-०६-०५",
+      "details": "नेविसंघ कैलाली क्षेत्र नं. २ को क्षेत्रीय सभापति भएर ग्रासरुट राजनीति सुरु गरेका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५०-०१-१५",
+      "details": "रघुनाथ आदर्श माविबाट नेविसंघको एकाई सचिव भएर सक्रिय राजनीतिक यात्राको थालनी गरेका।",
+      "link_to_source": "https://himalayadiary.com/bhim-baduwal-biography/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भिम बडुवाल नेपाली काँग्रेसका एक निष्ठावान र अनुभवी नेता मानिन्छन्। विद्यार्थी राजनीतिबाट आफ्नो छवि बनाएका बडुवालले कैलालीमा नेविसंघको नेतृत्व गर्दै पार्टीको मूलधारमा प्रवेश गरेका हुन्। उनको मुख्य चुनावी शक्ति उनको ग्रासरुट संगठन र सामाजिक सेवाको रेकर्ड हो, विशेष गरी घोडाघोडी क्षेत्रमा ग्रामीण विद्युतीकरणमा उनले खेलेको भूमिकालाई स्थानीयले सकारात्मक रूपमा लिन्छन्। २०७९ को प्रदेश सभा निर्वाचनमा उनी कैलाली २(ख) बाट उम्मेदवार बने पनि सो क्षेत्रमा नागरिक उन्मुक्ति पार्टीको लहरका कारण पराजित हुनुपर्यो। उनी स्वच्छ राजनीतिक छविका नेताको रूपमा चिनिन्छन् र प्रविधिको प्रयोगमार्फत मतदातासँग जोडिन रुचाउँछन्। यद्यपि, पार्टीभित्रका आन्तरिक निर्वाचनहरूमा बारम्बारको पराजयले उनको प्यानलगत प्रभावमा केही कमजोरी रहेको देखाउँछ। समग्रमा, उनी कैलालीमा काँग्रेसको भविष्यको बलियो खम्बाको रूपमा हेरिन्छन्।",
+  "overall_approval_rating": 68
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341289,
+  "candidate_name": "घनश्याम चौधरी",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janamat_Party_Logo.png/600px-Janamat_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "जिल्ला स्तरिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341289.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनमत पार्टीमा प्रवेश",
+      "date": "२०८०-०४-१५",
+      "details": "मंगोल नेशनल अर्गनाइजेसन छोडेर घनश्याम चौधरी मधेश केन्द्रित जनमत पार्टीमा प्रवेश गरेका थिए। पहिचानवादी राजनीतिबाट मधेशको मुद्दा उठाउने पार्टीमा लाग्नु उनको राजनीतिक संक्रमणको संकेत हो।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/ghanshyam-chaudhary-1721",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दाङबाट मोरङ स्थानान्तरण",
+      "date": "२०७९-११-२०",
+      "details": "२०७९ को निर्वाचनमा दाङबाट पराजित भएपछि उनले आफ्नो राजनीतिक कार्यथलो मोरङ जिल्लालाई बनाएका छन्। यसलाई 'वागुवा' (Vaguwa) प्रवृत्तिको रूपमा लिइन्छ।",
+      "link_to_source": "https://bhugolpark.com/candidate/ghanshyam-chaudhary",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "प्रतिनिधिसभा निर्वाचनमा दाङ क्षेत्र नम्बर ३ बाट मंगोल नेशनल अर्गनाइजेसनको उम्मेदवार बन्दै उनले ४५७ मत प्राप्त गरेर पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/result/dang/3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "घनश्याम चौधरी एक सीमान्तकृत राजनीतिक पृष्ठभूमिबाट आएका नेता हुन् जसले आफ्नो यात्रा 'मंगोल नेशनल अर्गनाइजेसन' बाट सुरु गरेका थिए। २०७९ को निर्वाचनमा दाङबाट अत्यन्तै न्यून मत (४५७) प्राप्त गरेपछि उनी जनमत पार्टीमा प्रवेश गरेका हुन्। उनको सबैभन्दा विवादास्पद पक्ष उनको 'वागुवा' (Vaguwa) स्थिति हो, जहाँ उनले पश्चिम नेपालको दाङ छोडेर पूर्वी नेपालको मोरङलाई आफ्नो नयाँ निर्वाचन क्षेत्र रोजेका छन्। यसले उनको स्थानीयस्तरमा पकड र राजनीतिक स्थिरतामाथि प्रश्न उठाउँछ। पहिचानको राजनीतिबाट क्षेत्रिय राजनीतिमा प्रवेश गरे पनि उनको जनाधार अझै कमजोर देखिन्छ। मोरङमा जनमत पार्टीको संगठन प्रयोग गरेर आफ्नो उपस्थिति बलियो बनाउने उनको रणनीति भए पनि बाहिरी जिल्लाबाट आएको 'टुरिष्ट उम्मेदवार' को ट्याग उनलाई चुनौती बन्न सक्छ।",
+  "overall_approval_rating": 35
+}

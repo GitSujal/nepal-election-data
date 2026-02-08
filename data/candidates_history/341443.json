@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341443,
+  "candidate_name": "गणेश बहादुर चौधरी",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Janamat_Party_Logo.png",
+  "candidates_current_position": "कृषि विज्ञ तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341443.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि जनमत पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। उनले जम्मा ५२९ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://newskura.com/archives/28952",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "किसान आन्दोलनमा सक्रियता",
+      "date": "२०७८-०९-१५",
+      "details": "जनमत पार्टीले तराई-मधेशमा सुरु गरेको किसान आन्दोलनमा नवलपरासी जिल्लाबाट सक्रिय भूमिका निर्वाह गर्दै किसानका हकहितको वकालत गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341443",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कृषि विशेषज्ञता र शैक्षिक पृष्ठभूमि",
+      "date": "२०७४-०१-०१",
+      "details": "चितवनको रामपुर क्याम्पसबाट कृषि विज्ञानमा स्नातक (BSc AG) गरेका चौधरीले आफ्नो शैक्षिक ज्ञानलाई स्थानीय स्तरमा कृषिको आधुनिकीकरणमा उपयोग गर्दै आएका छन्।",
+      "link_to_source": "https://bhugolpark.com/candidate/detail/341443",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनमत पार्टीमा आबद्धता",
+      "date": "२०७७-०२-२०",
+      "details": "डा. सीके राउत नेतृत्वको जनमत पार्टीको विचारधारा र किसान केन्द्रित एजेन्डाबाट प्रभावित भई उनी पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://erkshitiz.com.np/electoral/nawalparasi-bardaghat-susta-west-1",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गणेश बहादुर चौधरी पश्चिम नवलपरासीको राजनीतिमा जनमत पार्टीको तर्फबाट एक शिक्षित र व्यावसायिक पृष्ठभूमिका उम्मेदवार हुन्। रामपुर क्याम्पसबाट कृषि विज्ञानमा स्नातक गरेका उनले आफ्नो व्यावसायिक ज्ञानलाई राजनीतिसँग जोड्ने प्रयास गरेका छन्। २०७९ को निर्वाचनमा उनले नवलपरासी निर्वाचन क्षेत्र १ बाट विनोद चौधरी र हृदयेश त्रिपाठी जस्ता हेभीवेट नेताहरूसँग प्रतिस्पर्धा गरेका थिए। यद्यपि उनले उल्लेख्य मत प्राप्त गर्न सकेनन्, तर उनको छवि स्वच्छ र बौद्धिक रहेको पाइन्छ। उनी मुख्यतया किसानका समस्या र थारु समुदायको अधिकारका मुद्दाहरूमा केन्द्रित छन्।",
+  "overall_approval_rating": 55
+}

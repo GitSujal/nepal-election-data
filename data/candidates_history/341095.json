@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341095,
+  "candidate_name": "प्रेम बहादुर तामाङ",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा रसुवा इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341095.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "रसुवा",
+      "constituency": "रसुवा-१",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "रसुवा",
+      "constituency": "रसुवा-१",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रसुवा",
+      "constituency": "रसुवा-१(ख)",
+      "result": "विजयी",
+      "party": "नयाँ शक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा एमालेमा प्रवेश र जिम्मेवारी",
+      "date": "२०८०-०१-०९",
+      "details": "नेपाली कांग्रेस परित्याग गरी एमाले अध्यक्ष केपी शर्मा ओलीको हातबाट टीका लगाएर एमालेमा प्रवेश। उनलाई पार्टीको केन्द्रीय सदस्य र रसुवा जिल्ला इन्चार्जको जिम्मेवारी दिइएको छ।",
+      "link_to_source": "https://karmacharipress.com/2024/01/11/17096/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा जित",
+      "date": "२०७४-०८-२१",
+      "details": "रसुवा निर्वाचन क्षेत्र नम्बर १ (ख) बाट नयाँ शक्ति पार्टीको उम्मेदवारका रूपमा ७,०४० मत प्राप्त गर्दै प्रदेश सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rasuwa_1_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीमा आबद्धता",
+      "date": "२०७३-०१-०१",
+      "details": "डा. बाबुराम भट्टराईले गठन गरेको नयाँ शक्ति पार्टीमा सुरुवाती चरणदेखि नै आबद्ध भई रसुवामा पार्टी विस्तारमा सक्रिय।",
+      "link_to_source": "https://ratopati.com/story/407983/rasuwa-election",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संविधान सभा निर्वाचनमा पराजय",
+      "date": "२०७०-०८-०४",
+      "details": "एमालेका जनार्दन ढकालसँग पराजित। तामाङले ६,१९२ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rasuwa_1_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पहिलो संविधान सभामा विजयी",
+      "date": "२०६४-१२-२८",
+      "details": "तत्कालीन नेकपा (माओवादी) बाट ११,१४७ मत ल्याएर रसुवाको पहिलो संविधान सभा सदस्यका रूपमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rasuwa_1_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अस्थिर राजनीतिक चरित्रको आलोचना",
+      "date": "२०८०-१०-२५",
+      "details": "माओवादी, नयाँ शक्ति, कांग्रेस हुँदै एमाले प्रवेश गरेकाले उनलाई रसुवामा 'अस्थिर र अवसरवादी' नेताको रूपमा आलोचना गर्ने गरिएको छ।",
+      "link_to_source": "https://karmacharipress.com/2024/01/11/17096/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "प्रेम बहादुर तामाङ रसुवाका एक प्रभावशाली तर अत्यन्तै अस्थिर राजनीतिक व्यक्तित्व मानिन्छन्। उनी हरेक मुख्य निर्वाचनमा फरक-फरक पार्टी र चुनाव चिन्हबाट प्रतिस्पर्धा गर्ने नेताका रूपमा परिचित छन्। २०६४ मा माओवादी, २०७४ मा नयाँ शक्ति र २०८० मा एमाले प्रवेशले उनको वैचारिक स्पष्टतामा प्रश्न उठाए पनि जिल्लामा उनको व्यक्तिगत पकड बलियो छ। विशेषगरी तामाङ समुदायमा उनको प्रभाव र अघिल्ला जितहरूले उनको electoral strength देखाउँछ। एमालेमा उनको प्रवेशसँगै रसुवाको एमालेभित्र आन्तरिक कलह बढेको र पुराना कार्यकर्ताहरू असन्तुष्ट रहेको रिपोर्टहरू सार्वजनिक भएका छन्। आगामी निर्वाचनमा उनलाई 'भगुवा' वा अवसरवादीको ट्यागले चुनौती दिन सक्छ, तर एमालेको संगठित मत र उनको व्यक्तिगत प्रभावले रसुवामा त्रिपक्षीय प्रतिस्पर्धा रोचक हुने देखिन्छ।",
+  "overall_approval_rating": 62
+}

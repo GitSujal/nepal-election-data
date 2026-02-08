@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342464,
+  "candidate_name": "शंकर कुमार कर्ण",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/CPN-United_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342464.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारको रूपमा चुनाव लडेका कर्णले जम्मा १६ मत प्राप्त गरी पराजित भए ।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342464",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "प्रतिनिधि सभा सदस्यका लागि पर्सा-१ बाट उनले स्वतन्त्र रूपमा आफ्नो उम्मेदवारी दर्ता गराएका थिए ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342464",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल कम्युनिष्ट पार्टी (संयुक्त) मा आबद्धता",
+      "date": "२०८०-०१-०१",
+      "details": "स्वतन्त्र रूपमा निर्वाचन लडेपछि उनी पछिल्लो समय नेपाल कम्युनिष्ट पार्टी (संयुक्त) सँग आबद्ध भएका छन् ।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342464",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शंकर कुमार कर्ण पर्सा जिल्लाको राजनीतिमा एक सिमान्तकृत पात्र हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा पर्सा क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा उनले मात्र १६ मत प्राप्त गरेका थिए, जसले उनको चुनावी क्षेत्रमा अत्यन्तै कमजोर जनाधार रहेको पुष्टि गर्छ। स्नातक तह सम्मको शिक्षा हासिल गरेका कर्णको राजनीतिक जीवनमा कुनै ठूला उपलब्धि, मन्त्री पद वा उल्लेखनीय सार्वजनिक कामको रेकर्ड भेटिँदैन। उनी हाल नेपाल कम्युनिष्ट पार्टी (संयुक्त) मा आबद्ध रहे तापनि मुख्यधारको राजनीतिमा उनको प्रभाव नगन्य देखिन्छ। उनको उम्मेदवारी प्रायः सांकेतिक वा व्यक्तिगत चाहनामा सीमित रहेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 12
+}

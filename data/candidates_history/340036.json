@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340036,
+  "candidate_name": "पेम्बा घले",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_of_Mongol_National_Organisation.png/200px-Logo_of_Mongol_National_Organisation.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य तथा युवा अभियन्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340036.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "भक्तपुर क्षेत्र नं. २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले निकै कम मत प्राप्त गरे।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७६-०५-१०",
+      "details": "जातीय पहिचान र मंगोल समुदायको अधिकारका लागि वकालत गर्ने उद्देश्यले मंगोल नेशनल अर्गनाइजेसनमा सक्रिय राजनीति सुरु गरे।",
+      "link_to_source": "https://sajilopatrika.com/pemba-ghale/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिचानवादी राजनीतिक अभियान",
+      "date": "२०७८-०२-१५",
+      "details": "मुलुकमा संघीयता र जातीय स्वायत्तताको पक्षमा पार्टीका विभिन्न कार्यक्रमहरूमा सक्रिय सहभागिता जनाउँदै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/pemba-ghale/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पेम्बा घले मंगोल नेशनल अर्गनाइजेसनका एक युवा नेता हुन् जसले २०७९ को निर्वाचनमा भक्तपुर क्षेत्र नं. २ बाट प्रतिनिधिसभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। रसुवा जिल्लामा जन्मिएर भक्तपुरबाट उम्मेदवार बनेका कारण उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ। उनको राजनीतिक एजेन्डा मुख्यतया मंगोल पहिचान, धर्मनिरपेक्षता र जातीय अधिकारमा केन्द्रित रहेको पाइन्छ। निर्वाचनमा उनको उपस्थिति प्रभावकारी नदेखिए पनि युवा पुस्तालाई पहिचानको राजनीतिमा जोड्ने प्रयास सराहनीय मानिन्छ। उनी हालसम्म कुनै पनि आर्थिक भ्रष्टाचार वा व्यक्तिगत स्क्यान्डलमा मुछिएका छैनन्, जसले उनको छवि स्वच्छ राखेको छ।",
+  "overall_approval_rating": 45
+}

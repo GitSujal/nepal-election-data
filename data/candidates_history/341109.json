@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341109,
+  "candidate_name": "महेन्द्र यादव",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nepali_Congress_Logo.svg/1200px-Nepali_Congress_Logo.svg.png",
+  "candidates_current_position": "नेपाली कांग्रेसका सह-महामन्त्री",
+  "candidates_current_position_in_party": "सह-महामन्त्री",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341109.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं ४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं ४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सांघातिक खुकुरी प्रहार",
+      "date": "२०८०-०५-२०",
+      "details": "काठमाडौंको भृकुटीमण्डपमा आयोजित एक कार्यक्रमबाट बाहिरिने क्रममा यादवमाथि नुवाकोटका श्याम सापकोटाले खुकुरी प्रहार गरेका थिए। आक्रमणकारीले एमसीसी र राजतन्त्रको पक्षमा नारा लगाएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2023/09/06/nepali-congress-joint-general-secretary-mahendra-yadav-attacked",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बालकृष्ण खाणको बचाउ",
+      "date": "२०८०-०५-२०",
+      "details": "नक्कली भुटानी शरणार्थी प्रकरणमा जेलमा रहेका बालकृष्ण खाण निर्दोष रहेको भन्दै यादवले सार्वजनिक रूपमा बचाउ गरेका थिए, जसको व्यापक आलोचना भएको थियो।",
+      "link_to_source": "https://www.aadhikholakhabar.com/2023/09/06/17793/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचन पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नं ४ बाट प्रतिनिधि सभामा उम्मेदवारी दिएका यादव नेकपा एमालेका रघुवीर महासेठसँग १२४ मतको झिनो अन्तरले पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/mahendra-yadav-dhanusha-4-election-result-2079/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कांग्रेस सह-महामन्त्रीमा निर्वाचित",
+      "date": "२०७८-०९-०२",
+      "details": "नेपाली कांग्रेसको १४औं महाधिवेशनबाट यादव मधेसी क्लस्टर अन्तर्गत सह-महामन्त्री पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mahendra_Yadav_(Nepali_politician)",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "खानेपानी तथा सरसफाई मन्त्रीमा नियुक्ति",
+      "date": "२०७४-०४-११",
+      "details": "शेरबहादुर देउवा नेतृत्वको मन्त्रिपरिषद्मा यादवले खानेपानी तथा सरसफाई मन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mahendra_Yadav_(Nepali_politician)",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ प्रतिनिधि सभा निर्वाचन पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "धनुषा क्षेत्र नं ४ मा १९,९९१ मत प्राप्त गर्दै उनी नेकपा एमालेका रघुवीर महासेठसँग पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/mahendra-yadav-dhanusha-4-election-result-2074/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल तरुण दलको अध्यक्ष",
+      "date": "२०६४-०४-०१",
+      "details": "नेपाली कांग्रेसको भ्रातृ संस्था नेपाल तरुण दलको चितवनमा सम्पन्न तेस्रो महाधिवेशनबाट यादव अध्यक्षमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mahendra_Yadav_(Nepali_politician)",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "महेन्द्र यादव नेपाली कांग्रेसका एक प्रभावशाली मधेसी नेता र हालका सह-महामन्त्री हुन्। उनी कांग्रेसको आन्तरिक राजनीतिमा शेरबहादुर देउवा र विमलेन्द्र निधि निकट मानिन्छन्। उनले दुई पटक संविधान सभामा समानुपातिक तर्फबाट प्रतिनिधित्व गरे पनि २०७४ र २०७९ को आम निर्वाचनमा धनुषा क्षेत्र नं. ४ बाट लगातार पराजय भोग्नुपरेको छ, जसले उनको प्रत्यक्ष निर्वाचनमा कमजोर पकडलाई संकेत गर्दछ। २०८० मा उनीमाथि भएको सांघातिक खुकुरी प्रहारले उनको राजनीतिक जीवनमा सुरक्षा चुनौती थपेको थियो। यद्यपि, नक्कली भुटानी शरणार्थी प्रकरणमा मुछिएका नेताहरूको सार्वजनिक बचाउ गरेका कारण उनको कतिपय क्षेत्रमा आलोचना समेत भएको छ। उनी मधेस राजनीति र कांग्रेसको सांगठनिक सुदृढीकरणमा सक्रिय रहने नेता हुन्।",
+  "overall_approval_rating": 52
+}

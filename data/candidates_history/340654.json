@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340654,
+  "candidate_name": "संजय कुमार हरिजन",
+  "candidate_party": "संयुक्त नागरिक पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/Sanyukta_Nagarik_Party.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340654.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "संयुक्त नागरिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) क्षेत्र नं. २ बाट प्रतिनिधि सभाका लागि संयुक्त नागरिक पार्टीको तर्फबाट चुनाव लडेका, जसमा उनले ४९ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340654",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संयुक्त नागरिक पार्टीमा आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "विभिन्न साना दलहरूको एकीकरण र पुनर्गठन पछि बनेको संयुक्त नागरिक पार्टीमा सक्रिय भूमिका खेल्न थालेको।",
+      "link_to_source": "https://bhugolpark.com/candidate/sanjay-kumar-harijan",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक एकता पार्टीमा नेतृत्व",
+      "date": "२०७५-०५-२०",
+      "details": "सामाजिक एकता र विभेद विरुद्धको एजेण्डा बोकेको सामाजिक एकता पार्टीको स्थानीय नेतृत्व सम्हालेको।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल दलित पार्टी मार्फत राजनीतिक यात्रा",
+      "date": "२०७४-०२-१०",
+      "details": "दलित अधिकार र सीमान्तकृत समुदायको उत्थानका लागि नेपाल दलित पार्टीमा आबद्ध भई राजनीतिक सक्रियता बढाएको।",
+      "link_to_source": "https://bhugolpark.com/candidate/sanjay-kumar-harijan",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "संजय कुमार हरिजन नवलपरासी (बर्दघाट सुस्ता पश्चिम) का एक स्थानीय दलित अधिकारवादी र राजनीतिकर्मी हुन्। उनको राजनीतिक यात्रा मुख्यतया नेपाल दलित पार्टी, सामाजिक एकता पार्टी र हाल संयुक्त नागरिक पार्टी जस्ता पहिचान र सामाजिक न्यायका मुद्दा उठाउने दलहरूमा केन्द्रित रहेको देखिन्छ। २०७९ को आम निर्वाचनमा उनले नवलपरासी क्षेत्र नं. २ बाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए, जहाँ उनले निकै कम (४९ मत) मात्र प्राप्त गरे। यसले उनको चुनावी पकड अत्यन्तै कमजोर रहेको र स्थापित ठूला दलहरूका सामु उनको प्रभाव न्यून रहेको देखाउँछ। उनी एक स्नातक शिक्षित व्यक्ति हुन् र स्थानीयस्तरमा सामाजिक क्षेत्रमा सक्रिय रहे पनि राष्ट्रिय राजनीतिमा उनको भूमिका अझै स्थापित हुन बाँकी छ।",
+  "overall_approval_rating": 32
+}

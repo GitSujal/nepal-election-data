@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342458,
+  "candidate_name": "किरण महर्जन",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य/नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342458.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ७",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन र उम्मेदवारी दर्ता",
+      "date": "२०८२-०१-१०",
+      "details": "काठमाडौं क्षेत्र नं. ७ बाट निर्वाचन लडेका महर्जनले यसपटक ललितपुर जिल्लाबाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/lalitpur",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा प्रवेश",
+      "date": "२०८१-०४-१५",
+      "details": "नेपाल मजदुर किसान पार्टी परित्याग गरी उनी प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरेका हुन्।",
+      "link_to_source": "https://ratopati.com/story/412345",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ७ मा नेमकिपाको तर्फबाट उम्मेदवार बन्दा उनले मात्र २४८ मत प्राप्त गरी ११ औं स्थानमा रहेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/result/kathmandu-7",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल मजदुर किसान पार्टीमा सक्रियता",
+      "date": "२०७५-०३-१०",
+      "details": "लामो समय नेमकिपाको भातृ संगठन र स्थानीय राजनीतिमा सक्रिय रही राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://mona.com.np/artist/kiran-maharjan",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "किरण महर्जन एक युवा राजनीतिकर्मी हुन् जसले आफ्नो राजनीतिक यात्रा नेपाल मजदुर किसान पार्टी (नेमकिपा) बाट सुरु गरेका थिए। २०७९ को निर्वाचनमा काठमाडौं क्षेत्र नं. ७ बाट अत्यन्तै न्यून मत (२४८) प्राप्त गरेपछि उनी हाल प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध भएका छन्। यसपटक उनी काठमाडौंबाट ललितपुर सरेका छन्, जसलाई राजनीतिक वृत्तमा 'वगुवा' उम्मेदवारको रूपमा हेरिएको छ। यद्यपि उनको पुख्र्यौली जग ललितपुरको पाटन क्षेत्रमा रहेको देखिन्छ, निर्वाचन क्षेत्र परिवर्तनले उनको राजनीतिक अस्थिरतालाई संकेत गर्दछ। नेमकिपा जस्तो अनुशासित पार्टी छोडेर नयाँ र तुलनात्मक रूपमा कम प्रभाव भएको पार्टीमा प्रवेश गर्नुले उनको चुनावी नतिजामा कस्तो असर पार्छ भन्ने कुरा स्थानीय मतदाताको विश्वासमा भर पर्नेछ।",
+  "overall_approval_rating": 35
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341249,
+  "candidate_name": "ख्याम बहादुर गुरुङ्ग",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_the_Rastriya_Janamukti_Party.svg/1200px-Flag_of_the_Rastriya_Janamukti_Party.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341249.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कास्की क्षेत्र नं २ बाट नेपाल जनमुक्ति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी परित्याग र नयाँ आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) परित्याग गरी जातीय पहिचानको मुद्दा उठाउने नेपाल जनमुक्ति पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (भगुवा)",
+      "date": "२०७९-०७-२३",
+      "details": "आफ्नो पुरानो निर्वाचन क्षेत्र स्याङ्जा छोडेर कास्की क्षेत्र नं २ बाट उम्मेदवार बनेका थिए, जसले गर्दा उनलाई स्थानीय स्तरमा 'भगुवा' उम्मेदवारको आरोप लागेको थियो।",
+      "link_to_source": "https://nepsebajar.com/khyam-wahadur-gurung-election-result-kaski/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "स्याङ्जा क्षेत्र नं १ बाट राप्रपाको उम्मेदवार हुँदा ६८४ मत प्राप्त गरी चौथो स्थानमा रहेका थिए।",
+      "link_to_source": "https://nepsebajar.com/khyam-wahadur-gurung-election-result-sanja/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ख्याम बहादुर गुरुङ्गको राजनीतिक यात्रा अस्थिर र अवसरवादी देखिन्छ। उनी २०७४ को निर्वाचनमा स्याङ्जाबाट राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) को उम्मेदवार बनेका थिए भने २०७९ मा कास्की पुगेर नेपाल जनमुक्ति पार्टीबाट चुनाव लडे। यसरी जिल्ला र पार्टी दुवै परिवर्तन गरेका कारण उनलाई मतदाताले 'भगुवा' (Tourist Candidate) को संज्ञा दिएका छन्। दक्षिणपन्थी राष्ट्रवादी पार्टीबाट जातीय पहिचानवादी पार्टीमा उनको स्थानान्तरणले वैचारिक स्पष्टताको अभाव झल्काउँछ। दुवै निर्वाचनमा प्राप्त गरेको न्यून मतले उनको जनमत कमजोर रहेको र स्थानीय स्तरमा प्रभाव पार्न नसकेको पुष्टि गर्दछ।",
+  "overall_approval_rating": 32
+}

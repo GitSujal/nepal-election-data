@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339328,
+  "candidate_name": "शोभा बासुकला",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nepal_Majdoor_Kisan_Party_Logo.png",
+  "candidates_current_position": "पार्टी कार्यकर्ता",
+  "candidates_current_position_in_party": "केन्द्रीय प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339328.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य (उपनिर्वाचन)",
+      "district": "चितवन",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "चितवन-२ उपनिर्वाचनमा उम्मेदवारी",
+      "date": "२०८०-०१-१०",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीका रवि लामिछानेको पद खारेज भएपछि भएको उपनिर्वाचनमा नेपाल मजदुर किसान पार्टीको तर्फबाट उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/04/1286950",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "चितवन क्षेत्र नं. २ बाट प्रतिनिधि सभाको लागि उम्मेदवारी दिएकी थिइन्, जहाँ उनले पार्टीको वैचारिक प्रतिनिधित्व गरिन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-chitwan?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको वैचारिक प्रचारप्रसार",
+      "date": "२०७९-०६-०१",
+      "details": "भक्तपुर बाहिर पनि नेमकिपाको आधार इलाका बनाउने उद्देश्यले चितवनमा पार्टी संगठन विस्तार र प्रचार कार्यमा सक्रिय रहिन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/24/16665975412351235.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शोभा बासुकला नेपाल मजदुर किसान पार्टी (नेमकिपा) की एक निष्ठावान कार्यकर्ता हुन्। भक्तपुर बाहिर पार्टीको उपस्थिति न्यून भए पनि उनले चितवन जस्तो 'हटस्पट' निर्वाचन क्षेत्रमा दुई पटक उम्मेदवारी दिएर साहस देखाएकी छन्। उनलाई चितवनमा 'टुरिस्ट उम्मेदवार' को रूपमा हेरिए पनि उनको मुख्य उद्देश्य निर्वाचन जित्नु भन्दा पनि पार्टीको मजदुर-किसान मैत्री विचारधारा जनतासम्म पुर्याउनु रहेको देखिन्छ। निर्वाचनमा उनको मत परिणाम निकै कम रहे पनि उनी एक अनुशासित र स्वच्छ राजनीतिक छवि भएकी नेतृ हुन्। उनको राजनीतिक यात्रामा हालसम्म कुनै पनि आर्थिक भ्रष्टाचार वा नैतिक विवादहरू देखिएका छैनन्।",
+  "overall_approval_rating": 42
+}

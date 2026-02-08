@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342219,
+  "candidate_name": "पुर्ण बहादुर शिवाकोटी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र नागरिक / पूर्व उम्मेदवार",
+  "candidates_current_position_in_party": "सम्बद्ध छैन (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342219.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "दोलखा १",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ मंसिर ४ मा सम्पन्न निर्वाचनमा दोलखा क्षेत्र नं १ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दा अत्यन्त न्यून मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "७६ वर्षको उमेरमा दोलखा निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दर्ता।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5zRnafdgLP6lXdicdfwXME5qGeG3DnGG020-JymCxiRLkvMkAxHdIvCrYvDESIOETBGjS4-Pl3pIiNqWh8BH_lgtiWDl5sNsGeBWP_5G1d33v6Q4FNqDQun8VrQRNlFORkRGQggaIJgT8IfLTaCSODHWiMm2wvzxzZkLkbCcYQEEgGCxINJ9nP1GdbxY=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "पुर्ण बहादुर शिवाकोटी दोलखा जिल्लाका एक ७६ वर्षीय वृद्ध नागरिक हुन् जसले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए। उनको राजनीतिक पृष्ठभूमि धेरै सक्रिय देखिँदैन र उनी कुनै मुख्य राजनीतिक दलमा आबद्ध नरही चुनावी मैदानमा उत्रिएका थिए। निर्वाचनमा उनले उल्लेख्य जनसमर्थन जुटाउन सकेनन् र उनको मत परिणाम निकै न्यून रह्यो। उनको व्यक्तिगत जीवनमा कुनै ठूला भ्रष्टाचारका काण्ड वा विवादहरू सार्वजनिक भएका छैनन्। दोलखाको स्थानीय राजनीतिमा उनको प्रभाव सीमित छ र उनको उम्मेदवारीलाई लोकतान्त्रिक अभ्यासमा एक ज्येष्ठ नागरिकको स्वतन्त्र सहभागिताको रूपमा लिन सकिन्छ। मुख्य दलहरूको वर्चस्व रहेको क्षेत्रमा उनको उम्मेदवारीले कुनै ठूलो राजनीतिक परिवर्तन भने ल्याउन सकेन।",
+  "overall_approval_rating": 28
+}

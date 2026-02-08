@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339677,
+  "candidate_name": "दुर्गा कुमारी तामाङ",
+  "candidate_party": "राष्ट्रिय परिवर्तन पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339677.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय परिवर्तन पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. १ बाट राष्ट्रिय परिवर्तन पार्टी र उज्यालो नेपाल पार्टीको संयुक्त उम्मेदवारको रूपमा प्रतिनिधिसभा सदस्यका लागि प्रतिस्पर्धा गरेकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUgFdcAb0EY3c99N6ikKeRKq1jd8A4-O9E_Q0hQxekvKvy5J7Yj2__cQR7oek_t75inJVUK2y0ILDn90w46LLQza-4iBWM2SS8lGg_uatQbC4N4oopY217CF6Kzl9kZcXkA-_B098FHA==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुशासन र विकासको एजेन्डा सार्वजनिक",
+      "date": "२०७९-०७-२०",
+      "details": "आफ्नो चुनावी अभियानका क्रममा सुशासन, पारदर्शिता, स्थानीय रोजगारी र विकासलाई मुख्य चुनावी मुद्दा बनाएर जनतामाझ पुगेकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUgFdcAb0EY3c99N6ikKeRKq1jd8A4-O9E_Q0hQxekvKvy5J7Yj2__cQR7oek_t75inJVUK2y0ILDn90w46LLQza-4iBWM2SS8lGg_uatQbC4N4oopY217CF6Kzl9kZcXkA-_B098FHA==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "दुर्गा कुमारी तामाङ मोरङको राजनीतिमा एक नयाँ र वैकल्पिक शक्तिको रूपमा उदाएकी पात्र हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले मोरङ क्षेत्र नं. १ बाट राष्ट्रिय परिवर्तन पार्टीको प्रतिनिधित्व गर्दै प्रतिस्पर्धा गरेकी थिइन्। उनले विशेषगरी सुशासन, पारदर्शिता र स्थानीय तहमा रोजगारी सिर्जना गर्ने एजेन्डाहरू उठाएकी थिइन्। ठूला र स्थापित राजनीतिक दलहरूको बाहुल्यता रहेको मोरङमा सानो दलबाट उम्मेदवारी दिएका कारण उनले जित हासिल गर्न नसके पनि नयाँ राजनीतिक बहस सिर्जना गर्न सफल भएकी देखिन्छिन्। हालसम्म उनको विरुद्धमा कुनै पनि आर्थिक घोटाला वा आपराधिक गतिविधिहरू सार्वजनिक भएका छैनन्। उनको चुनावी अभियान स्वच्छ र मुद्दा केन्द्रित रहेको पाइन्छ, यद्यपि संगठनात्मक कमजोरीका कारण चुनावी नतिजा भने उनको पक्षमा देखिएन।",
+  "overall_approval_rating": 45
+}

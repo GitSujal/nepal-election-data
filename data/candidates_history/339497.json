@@ -1,0 +1,87 @@
+{
+  "candidate_id": 339497,
+  "candidate_name": "सुरेन्द्र कुमार यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "पूर्व स्वास्थ्य तथा जनसङ्ख्या राज्यमन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339497.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजित",
+      "date": "२०७९-०८-१०",
+      "details": "महोत्तरी निर्वाचन क्षेत्र नं. ४ बाट जनता समाजवादी पार्टीका उम्मेदवार यादव नेपाली कांग्रेसका महेन्द्र कुमार रायसँग पराजित हुनुभएको थियो। रायले २५,४४८ मत ल्याउँदा यादवले २१,३३१ मत प्राप्त गर्नुभएको थियो।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/26/congress-mahendra-kumar-raya-secures-hor-seat-from-mahottari-4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सांसद 'अपहरण' प्रकरणमा जाहेरी",
+      "date": "२०७७-०१-२२",
+      "details": "तत्कालीन नेकपाका सांसदहरु महेश बस्नेत, कृष्ण कुमार श्रेष्ठ र पूर्व प्रहरी महानिरीक्षक सर्वेन्द्र खनालले आफूलाई महोत्तरीबाट जबरजस्ती काठमाडौँ ल्याएको भन्दै यादवले अपहरणको उजुरी दर्ता गर्नुभएको थियो।",
+      "link_to_source": "https://english.onlinekhabar.com/finally-govt-attorney-registers-surendra-yadavs-abduction-complaint.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय मानव अधिकार आयोगमा उजुरी",
+      "date": "२०७७-०१-१८",
+      "details": "प्रहरी र सरकारी वकिल कार्यालयले अपहरणको जाहेरी लिन अस्वीकार गरेपछि यादवले न्यायका लागि राष्ट्रिय मानव अधिकार आयोगमा उजुरी दिनुभएको थियो।",
+      "link_to_source": "https://english.onlinekhabar.com/after-police-govt-attorneys-refusal-surendra-yadav-files-abduction-complaint-at-nhrc.html",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकीकरण र जसपाको गठन",
+      "date": "२०७७-०१-१०",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टी (राजपा) बीच एकीकरण भई जनता समाजवादी पार्टी (जसपा) नेपाल गठन भएको थियो, जसमा डा. यादवले महत्वपूर्ण भूमिका खेल्नुभएको थियो।",
+      "link_to_source": "https://kathmandupost.com/politics/2020/04/27/nepal-police-s-refusal-to-register-surendra-yadav-abduction-case-raises-questions-about-its-neutrality",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राज्यमन्त्री पदबाट राजीनामा",
+      "date": "२०७६-०९-०९",
+      "details": "समाजवादी पार्टीले केपी शर्मा ओली नेतृत्वको सरकार छाड्ने निर्णय गरेसँगै डा. यादवले स्वास्थ्य तथा जनसङ्ख्या राज्यमन्त्री पदबाट राजीनामा दिनुभएको थियो।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/26/congress-mahendra-kumar-raya-secures-hor-seat-from-mahottari-4",
+      "event_type": "RESIGNATION",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वास्थ्य राज्यमन्त्रीमा नियुक्त",
+      "date": "२०७५-०२-१८",
+      "details": "ओली नेतृत्वको सरकारमा संघीय समाजवादी फोरम सहभागी भएपछि डा. यादव स्वास्थ्य तथा जनसङ्ख्या राज्यमन्त्रीमा नियुक्त हुनुभएको थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/surendra-kumar-yadav-339497",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "महोत्तरी क्षेत्र नं. ४ बाट १८,३५३ मत प्राप्त गर्दै यादव पहिलो पटक प्रतिनिधि सभा सदस्यमा निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/surendra-kumar-yadav-339497",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. सुरेन्द्र कुमार यादव महोत्तरीको राजनीतिमा एक बौद्धिक र प्रभावशाली व्यक्तिको रूपमा चिनिनुहुन्छ। पेशाले चिकित्सक (एम.डी.) रहेका यादव २०७४ को निर्वाचनमा विजयी भई स्वास्थ्य राज्यमन्त्री समेत बन्नुभएको थियो। उहाँको राजनीतिक जीवनमा २०७७ सालको 'अपहरण काण्ड' एक महत्वपूर्ण र विवादास्पद मोडको रूपमा रह्यो, जसले उहाँलाई राष्ट्रिय चर्चामा ल्याएको थियो। यद्यपि यस घटनामा उहाँ पीडितको रूपमा प्रस्तुत हुनुभयो, यसले तत्कालीन सत्ता राजनीति र पार्टी विभाजनको फोहोरी खेललाई सतहमा ल्याएको थियो। २०७९ को निर्वाचनमा झिनो मतान्तरले पराजित भए पनि महोत्तरी ४ मा उहाँको पकड बलियो देखिन्छ। उहाँले पार्टीका विभिन्न उतारचढावमा उपेन्द्र यादवको पक्षमा दृढतापूर्वक साथ दिँदै आउनुभएको छ।",
+  "overall_approval_rating": 62
+}

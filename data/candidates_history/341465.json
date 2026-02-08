@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341465,
+  "candidate_name": "अमन लाल मोदी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-Maoist-Centre-Logo.svg/1024px-CPN-Maoist-Centre-Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341465.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मोरङ्ग",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मोरङ्ग",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "मन्त्रिपरिषद्बाट फिर्ता",
+      "date": "२०८०-०४-२८",
+      "details": "जनमत पार्टीलाई सरकारमा सहभागी गराउन ठाउँ खाली गर्ने उद्देश्यले माओवादी केन्द्रले मोदीलाई मन्त्री पदबाट फिर्ता बोलाएको थियो।",
+      "link_to_source": "https://kathmandupost.com/politics/2023/08/13/maoist-centre-recalls-minister-aman-lal-modi",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कर्मचारी सरुवामा कडाई र विवाद",
+      "date": "२०८०-०३-१५",
+      "details": "मन्त्री रहँदा उनले प्रमुख प्रशासकीय अधिकृतहरूको जथाभावी सरुवा रोक्न र मापदण्ड बनाउन खोज्दा कर्मचारी संयन्त्रसँग द्वन्द्व बढेको थियो।",
+      "link_to_source": "https://www.nagariknetwork.com/news/138122-1691107589.html",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रीमा नियुक्ति",
+      "date": "२०७९-१०-०३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को तेस्रो कार्यकालमा उनलाई संघीय मामिला तथा सामान्य प्रशासन मन्त्रीको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://nepalkhabar.com/politics/144161-2023-1-17",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा दोस्रो पटक निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "मोरङ क्षेत्र नं. ४ बाट नेकपा एमालेका बिनोद ढकाललाई ६,१४९ मतान्तरले पराजित गर्दै उनी पुनः निर्वाचित भए।",
+      "link_to_source": "https://lokaantar.com/news/198263",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा पहिलो पटक निर्वाचित",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट मोरङ ४ मा ३३,५२९ मतका साथ विजयी भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Aman_Lal_Modi",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सार्वजनिक लेखा समिति सदस्य",
+      "date": "२०७५-०५-०१",
+      "details": "प्रतिनिधिसभाको महत्वपूर्ण सार्वजनिक लेखा समितिमा रहेर उनले सरकारी खर्च र बेरुजुका विषयमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://hr.parliament.gov.np",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "थरुहट आन्दोलनमा सक्रियता",
+      "date": "२०७२-०५-०१",
+      "details": "नयाँ संविधान निर्माणका क्रममा थारु समुदायको अधिकारका लागि भएको आन्दोलनमा उनले अग्रपङ्क्तिमा रहेर नेतृत्व गरेका थिए।",
+      "link_to_source": "https://hamroneta.online/aman-lal-modi",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विद्यार्थी राजनीतिबाट उदय",
+      "date": "२०६०-०१-०१",
+      "details": "अखिल नेपाल राष्ट्रिय स्वतन्त्र विद्यार्थी संघ (क्रान्तिकारी) को मोरङ जिल्ला अध्यक्ष भएर आफ्नो राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Aman_Lal_Modi",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अमन लाल मोदी मोरङको राजनीतिमा स्थापित युवा नेता हुन्, जसले मोरङ-४ बाट लगातार दुई पटक प्रत्यक्ष निर्वाचन जितेर आफ्नो पकड बलियो बनाएका छन्। थारु समुदायको प्रतिनिधित्व गर्ने उनी २०७९ मा संघीय मामिला तथा सामान्य प्रशासन मन्त्री बन्दा कर्मचारी प्रशासनलाई सुधार्ने र संघीय निजामती ऐन ल्याउने प्रयासका कारण चर्चामा रहे। यद्यपि, कर्मचारी सरुवामा लिएको कडा अडानले कर्मचारी संयन्त्र र केही राजनीतिक वृत्तमा विवाद सृजना गर्यो। 'वगुवा' ट्याग दिइए पनि उनले मोरङ-४ निर्वाचन क्षेत्र परिवर्तन गरेका छैनन्, बरु समानुपातिकबाट प्रत्यक्षतर्फको सफल यात्रा तय गरेका छन्। उनको मन्त्री पदबाट छोटो समयमै भएको बहिर्गमनले सत्ता समीकरणको बाध्यता दर्साए पनि उनी माओवादी केन्द्रभित्र प्रभावशाली युवा अनुहारका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 72
+}

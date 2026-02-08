@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342483,
+  "candidate_name": "तुलसा लिम्बु",
+  "candidate_party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Federal_Democratic_National_Forum.svg/1200px-Flag_of_Federal_Democratic_National_Forum.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा समाजसेवी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342483.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सुनसरी क्षेत्र नम्बर २ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको तर्फबाट प्रतिनिधिसभा सदस्यका लागि प्रत्यक्ष तर्फ उम्मेदवारी दर्ता।",
+      "link_to_source": "https://bikashnews.com/2022/10/31/413009.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक कार्य र महिला सशक्तिकरण अभियान",
+      "date": "२०७८-०१-१५",
+      "details": "स्थानीय समुदायमा महिला सशक्तिकरण, बालबालिकाको शिक्षा र स्वास्थ्य क्षेत्रमा स्वयंसेवी रूपमा सक्रिय सहभागिता।",
+      "link_to_source": "https://sajilopatrika.com/tulas-limbu/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लिम्बुवान आन्दोलनमा सक्रियता",
+      "date": "२०७४-०५-१०",
+      "details": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्चमा आवद्ध भई जातीय संघीयता र लिम्बुवान स्वायत्त राज्यको माग गर्दै राजनीतिक गतिविधिमा संलग्न।",
+      "link_to_source": "https://sajilopatrika.com/tulas-limbu/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "तुलसा लिम्बु सुनसरी क्षेत्र नम्बर २ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको प्रतिनिधित्व गर्ने एक सक्रिय महिला राजनीतिज्ञ हुन्। उनी मुख्यतया पहिचानमा आधारित राजनीति र लिम्बुवान राज्यको माग गर्ने आन्दोलनमा लामो समयदेखि आवद्ध छिन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले सुनसरी २ बाट उम्मेदवारी दिए पनि प्रमुख दलहरूका उम्मेदवारहरूको तुलनामा उनले उल्लेख्य मत प्राप्त गर्न सकिनन्। उनलाई स्थानीय स्तरमा महिला सशक्तिकरण, सामाजिक न्याय र समुदायको सेवामा समर्पित व्यक्तिको रूपमा चिनिन्छ। उनको राजनीतिक छवि स्वच्छ रहे पनि चुनावी प्रतिस्पर्धामा उनको जनाधार र प्रभाव सीमित देखिएको छ। उनी विशेष गरी सुनसरीको लिम्बु समुदाय र जातीय संघीयता पक्षधर मतदाताहरूमाझ परिचित छिन्।",
+  "overall_approval_rating": 58
+}

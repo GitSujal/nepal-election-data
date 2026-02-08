@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340497,
+  "candidate_name": "सुदर्शन अहिर",
+  "candidate_party": "राष्ट्रिय जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/House_Symbol_Nepal.svg/100px-House_Symbol_Nepal.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340497.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "निर्वाचन क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सुदर्शन अहिरले रूपन्देही क्षेत्र नं. ४ बाट राष्ट्रिय जनमुक्ति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340497",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक क्षेत्रमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "अहिर रूपन्देहीको स्थानीय समुदायमा एक मिलनसार र जिम्मेवार सामाजिक कार्यकर्ताको रूपमा चिनिन्छन्, जसले दलित र मधेसी समुदायका मुद्धामा काम गर्दै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/2026/02/06/sudarshan-ahir-details/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय जनमुक्ति पार्टीमा आबद्धता",
+      "date": "२०६५-१०-१५",
+      "details": "लामो समयदेखि राष्ट्रिय जनमुक्ति पार्टीमा आबद्ध रही उनले पहिचान र संघीयताको पक्षमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/2026/02/06/sudarshan-ahir-details/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुदर्शन अहिर रूपन्देही जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन्। उनी राष्ट्रिय जनमुक्ति पार्टीको तर्फबाट राजनीतिमा सक्रिय छन् र विशेषगरी मधेसी र पिछडिएका समुदायको हकहितका लागि आवाज उठाउँछन्। २०७९ को आम निर्वाचनमा उनले रूपन्देही क्षेत्र नम्बर ४ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरेका थिए, यद्यपि उनले ठूला दलका उम्मेदवारहरूको तुलनामा कम मत प्राप्त गरे। उनको राजनीतिक छवि स्वच्छ रहेको पाइन्छ र अहिलेसम्म कुनै पनि सार्वजनिक भ्रष्टाचार वा विवादमा उनको नाम जोडिएको छैन। उनी आफ्नो क्षेत्रमा एक मिलनसार र सामाजिक व्यक्तिको रूपमा चिनिन्छन्, जसले गर्दा स्थानीय स्तरमा उनको केही प्रभाव रहेको छ।",
+  "overall_approval_rating": 45
+}

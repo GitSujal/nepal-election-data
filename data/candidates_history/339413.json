@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339413,
+  "candidate_name": "खडक बहादुर ठकुराठी",
+  "candidate_party": "आम जनता पार्टी (एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aam_Janata_Party_logo.png/200px-Aam_Janata_Party_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339413.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "डडेलधुरा निर्वाचन क्षेत्र नं. १ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी दिएका, तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339413",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०७-२०",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई डडेलधुरा क्षेत्रमा राजनीतिक सक्रियता बढाएको।",
+      "link_to_source": "https://ekantipur.com/news/2022/12/29/167231454652285161.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शेर बहादुर देउवा विरुद्ध उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाली कांग्रेसका सभापति शेर बहादुर देउवाको गढ मानिने डडेलधुरामा चुनौती दिँदै मनोनयन दर्ता गरेका।",
+      "link_to_source": "https://www.setopati.com/politics/284144",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खडक बहादुर ठकुराठी डडेलधुरा जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले २०७९ को आम निर्वाचनमा प्रभु साह नेतृत्वको आम जनता पार्टीबाट उम्मेदवारी दिएका थिए। उनले नेपाली कांग्रेसका प्रभावशाली नेता शेर बहादुर देउवा विरुद्ध प्रतिस्पर्धा गरेका थिए, यद्यपि निर्वाचनमा उनको नतिजा निकै कमजोर रह्यो। उनको राजनीतिक प्रभाव हाल स्थानीय स्तरमा मात्र सीमित देखिन्छ र राष्ट्रिय राजनीतिमा उनको पहिचान स्थापित हुन बाँकी छ। कुनै ठूला भ्रष्टाचार वा काण्डहरूमा नाम नजोडिएका कारण उनको व्यक्तिगत छवि स्वच्छ देखिए पनि राजनीतिक पकड र जनमत निकै न्यून रहेको छ।",
+  "overall_approval_rating": 32
+}

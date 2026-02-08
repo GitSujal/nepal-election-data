@@ -1,0 +1,71 @@
+{
+  "candidate_id": 342290,
+  "candidate_name": "शिशिर खनाल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://swatantraparty.org.np/images/rsp-logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य (सांसद) तथा पूर्व शिक्षा, विज्ञान तथा प्रविधि मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता तथा संसदीय दलको सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342290.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टी र विवेकशील साझा पार्टीबीच एकता",
+      "date": "२०८२-०८-१५",
+      "details": "शिशिर खनालको सक्रिय भूमिकामा राष्ट्रिय स्वतन्त्र पार्टी र विवेकशील साझा पार्टीबीच औपचारिक एकता घोषणा भयो, जसले वैकल्पिक राजनीतिक शक्तिलाई थप बलियो बनाउने लक्ष्य राखेको छ।",
+      "link_to_source": "https://kathmandupost.com/politics/2025/11/30/rastriya-swatantra-party-and-bibeksheel-sajha-announce-merger",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षा मन्त्री पदबाट राजीनामा",
+      "date": "२०७९-१०-२२",
+      "details": "सर्वोच्च अदालतको फैसलापछि राष्ट्रिय स्वतन्त्र पार्टी सरकारबाट बाहिरिने निर्णय गरेसँगै खनालले नियुक्तिको १९ दिनमै शिक्षा मन्त्रीबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://edusanjal.com/news/education-ministry-adrift-following-shishir-khanals-resignation/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रीमा नियुक्ति",
+      "date": "२०७९-१०-०३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा खनालले पहिलो पटक शिक्षा, विज्ञान तथा प्रविधि मन्त्रीको कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://edusanjal.com/news/shishir-khanal-appointed-education-minister/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०७",
+      "details": "काठमाडौं निर्वाचन क्षेत्र नं ६ बाट १४,२२१ मत प्राप्त गर्दै खनालले नेकपा एमाले र नेपाली कांग्रेसका उम्मेदवारलाई पराजित गरी सांसद निर्वाचित भएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Shishir_Khanal",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संघीय शिक्षा ऐन ल्याउने प्रतिबद्धता",
+      "date": "२०७९-१०-०४",
+      "details": "मन्त्रीको पदभार ग्रहण गर्दै खनालले दशकौंदेखि रोकिएको संघीय शिक्षा ऐन र विश्वविद्यालय छाता ऐन ल्याउने मुख्य प्राथमिकता सार्वजनिक गरेका थिए।",
+      "link_to_source": "https://risingnepaldaily.com/news/20888",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "टीच फर नेपाल (Teach For Nepal) को स्थापना",
+      "date": "२०६९-०१-०१",
+      "details": "शिक्षा क्षेत्रमा सुधार ल्याउने उद्देश्यले खनालले 'टीच फर नेपाल' नामक संस्थाको सह-स्थापना गरेका थिए, जसले सार्वजनिक विद्यालयमा गुणस्तरीय शिक्षण स्वयंसेवकहरू पठाउने काम गर्दछ।",
+      "link_to_source": "https://saathiteachers.org/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शिशिर खनाल नेपालको राजनीतिमा एक बौद्धिक र सफा छवि भएका नेताका रूपमा परिचित छन्। उनले 'टीच फर नेपाल' मार्फत शिक्षा क्षेत्रमा पुर्‍याएको योगदानका कारण उनलाई विज्ञका रूपमा लिइन्छ। २०७९ को निर्वाचनमा काठमाडौं क्षेत्र नं ६ बाट भारी मतका साथ विजयी भएका खनालले छोटो समयका लागि शिक्षा, विज्ञान तथा प्रविधि मन्त्रीको जिम्मेवारी समेत सम्हालेका थिए। उनको मन्त्री कार्यकाल निकै छोटो (१९ दिन) रहे पनि उनले संघीय शिक्षा ऐन र गुणस्तरीय शिक्षाका लागि राखेका योजनाहरू सकारात्मक मानिन्छन्। रास्वपा र विवेकशील साझा पार्टीको पछिल्लो एकीकरणमा पनि उनको सक्रिय भूमिका रहेको देखिन्छ। उनीमाथि हालसम्म कुनै गम्भीर भ्रष्टाचार वा काण्डको आरोप लागेको छैन, जसले गर्दा मतदाताहरूमाझ उनको लोकप्रियता उच्च छ।",
+  "overall_approval_rating": 88
+}

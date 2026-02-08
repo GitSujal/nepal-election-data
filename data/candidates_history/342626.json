@@ -1,0 +1,71 @@
+{
+  "candidate_id": 342626,
+  "candidate_name": "मनोज कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिज्ञ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342626.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नयाँ शक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०८१-०७-१५",
+      "details": "जनमत पार्टीबाट अलग भई उनले सर्लाही जिल्लाबाट आगामी निर्वाचनका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342626",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नं. १ बाट जनमत पार्टीको उम्मेदवार बनेका उनले १,०६३ मत प्राप्त गरी छैटौं स्थान हासिल गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElAV9h_nw8fdSAWDEmbdnLa13PNRwxAhbPIV-XAW0Jea6YZHP0fWGOiitZtRErxVVi3GPAANdlzgKMYmNLyCjY9zaUUZOC7msgrDpbvGuxw7NkPspvDkz50VF4vRR4mhVyKwzv0wdE8cI0YgkRNS2977_euE9kQpwUGvO7WUImx_sz1A==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनमत पार्टीमा आबद्ध",
+      "date": "२०७८-०६-२०",
+      "details": "सीके राउत नेतृत्वको जनमत पार्टीमा प्रवेश गरी मधेसको राजनीतिमा सक्रिय हुन खोजेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFweb_gukdXM4tu2vPGXNNHqcSfRkYYFv3eFCJyPfft2sl16MtmheOYmUIC720KcQxSfIYQ52uIqVuXJrHGF16ydv4mkkX54G5vO2qinBgYExsJH2I5V74YtJUuBicqCXZ-t5f9H6ikwtH3I8J8Q08N2QtUt20=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा न्यून मत",
+      "date": "२०७४-०८-२१",
+      "details": "नयाँ शक्ति पार्टीको तर्फबाट सर्लाही-४ मा उम्मेदवारी दिँदा केवल २१३ मत (०.३६%) मात्र प्राप्त गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMFPadhslKX9vCy7qNY00Znu5ScyrS2nzzflxZV3FMrGUtf41L2QIugiOQfeTryKh6IDP48TF40NbRw-Ir_OloPapWUlgSh91FkwjeE5l1gxDfG1UgGhiZzskSKlzWDBXVJsPi5wtOW0ZHiboJnCQR7hvnADJWLVpat7baiqVIvFoDHEds4UNBQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीमा आबद्धता",
+      "date": "२०७४-०२-१५",
+      "details": "बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालमा आबद्ध भई चुनावी राजनीति सुरु गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMFPadhslKX9vCy7qNY00Znu5ScyrS2nzzflxZV3FMrGUtf41L2QIugiOQfeTryKh6IDP48TF40NbRw-Ir_OloPapWUlgSh91FkwjeE5l1gxDfG1UgGhiZzskSKlzWDBXVJsPi5wtOW0ZHiboJnCQR7hvnADJWLVpat7baiqVIvFoDHEds4UNBQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मनोज कुमार यादव नेपालको राजनीतिमा एक 'वगुवा' (अस्थिर) उम्मेदवारको रूपमा चिनिन्छन्। उनले २०७४ देखि हालसम्म प्रत्येक निर्वाचनमा आफ्नो चुनावी क्षेत्र र राजनीतिक दल परिवर्तन गर्दै आएका छन्। २०७४ मा सर्लाहीबाट नयाँ शक्ति पार्टीमा रहेका उनी २०७९ मा बारा पुगेर जनमत पार्टीबाट निर्वाचन लडे, जहाँ उनले लज्जास्पद हार बेहोर्नुपर्यो। अहिले पुनः सर्लाही फर्केर स्वतन्त्र उम्मेदवारी दिनुले उनको कुनै ठोस राजनीतिक धरातल र सांगठनिक पकड नभएको देखाउँछ। ८ कक्षा सम्मको मात्र शैक्षिक योग्यता र निरन्तरको चुनावी असफलताका कारण स्थानीय मतदातामाझ उनको विश्वसनीयता निकै कमजोर छ। उनको राजनीतिक यात्रा सिद्धान्तभन्दा पनि अवसरको खोजीमा केन्द्रित रहेको देखिन्छ।",
+  "overall_approval_rating": 18
+}

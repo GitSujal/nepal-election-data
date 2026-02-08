@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341434,
+  "candidate_name": "युवराज रोका",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/rsp-logo.png",
+  "candidates_current_position": "रास्वपा नेता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341434.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "म्याग्दी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "युवराज रोकाले म्याग्दी-१ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। उनले करिब ३,०८९ मत प्राप्त गरे पनि नेपाली कांग्रेसका खमबहादुर गर्बुजासँग पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe_VFkO-LKgC-vetRYSUrFjTtzAhMXdpNbAcgooO6prreYQ4l87X8NwoFqRrzNMjlkUXOGli1oBYSTYAzyIdAnGvP2Ps7_LijBdQz6DKEjdZsGLwa1zPYggLsx3l0mpA-HPPX3i87ubuR-hB4ZgmPpxHgx5oo63kCj1H2to6e73wIiXONZvb2VKQp3WOrIDeo--2HuQwFHCmVPCDyoSgWMNojmm_h4S42rfOyqtFONbzJNZbua5QqBNErtUFWkDM7RGQYh",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "वैकल्पिक राजनीतिको धारमा रहेका रोका राष्ट्रिय स्वतन्त्र पार्टीको स्थापना र लहरसँगै उक्त पार्टीमा प्रवेश गरी म्याग्दीमा पार्टी संगठन विस्तारमा सक्रिय भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdl2Q7nS-DQzyx6IRWenRflROrPmz3sgYErSOzmNdoTCUwZOwa-AJNw-dsMg1vE3K0cObqSCgqT_BuwogU7S6t6QwHhFCk2p-1tBDdqhjIfDx7GPuw0EIHrvuo8a-5zHB2YGB2cQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७४-०५-१०",
+      "details": "उनी सुरुमा साझा पार्टी र पछि एकीकृत विवेकशील साझा पार्टीमा म्याग्दी जिल्लाको नेतृत्वदायी भूमिकामा रहेर वैकल्पिक राजनीतिमा होमिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1rV-ROmbD6DPWlemtjZuCDrgPIwUkljKAK4jgvbjqjS_LaHJnAEJlbjMNgoNivmwTZ7vxa-CaYSUaShhwP5A6P-2a3TqeREGomCyxknWq9GhotuBunCQMHQpYcDdBSPr7Eu541P0xdO-aYt3YUaBLVMm07PlAYIkb-8pL-nu3TxX9mIk4gMmdOd7BikMB7oJ4rSAiNv7GVPIseNVRkyzRA75ETJyiSI8mKPkHxSPwgm8m1ggRRzgdukZDvGDCCgE0WTGiLtBO49BBe1qy1vl3r0YKgQJtWp_nqIxcP_nJDmTmuv2oUXFye9g0iR0hzh7Jgbkiv2Ytyn41VW7IpDU=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "निर्वाचन आचारसंहिता पालनाको प्रतिबद्धता",
+      "date": "२०८२-१०-१७",
+      "details": "म्याग्दी जेसीजद्वारा आयोजित कार्यक्रममा रोकाले निर्वाचन आचारसंहिताको पूर्ण पालना गर्ने र जिल्लाको विकासमा प्रतिबद्ध रहने सार्वजनिक घोषणा गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzbh58jQrmOuBkRkvLEYgToiBkY5ONNCuHi3A1tzSVOQvx3KjSedydlMY_zfl_WLY6gtc4LLcE0B6WD_IroJ6IBu5mt4AsptzSbYlHEix0WrXnQB0sC2qgChaSLds425Ab",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "युवराज रोका म्याग्दी जिल्लामा वैकल्पिक राजनीतिको प्रतिनिधित्व गर्ने एक उदीयमान युवा नेता हुन्। उनले साझा पार्टी र विवेकशील साझा पार्टी हुँदै राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सम्मको यात्रा तय गरेका छन्, जसले उनको प्रणाली सुधार र नयाँ राजनीतिक सोचप्रतिको निरन्तरतालाई पुष्टि गर्दछ। २०७९ को निर्वाचनमा म्याग्दी जस्तो कांग्रेस र एमालेको बलियो पकड भएको क्षेत्रमा रास्वपाबाट चुनावी मैदानमा उत्रिनु उनको राजनीतिक साहसको परिचायक हो। निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न नसके पनि युवा पुस्ता माझ राम्रो प्रभाव छोड्न सफल देखिएका छन्। उनको छवि हालसम्म स्वच्छ रहेको छ र कुनै पनि ठूला विवाद वा भ्रष्टाचारका काण्डहरूमा उनको नाम जोडिएको छैन। म्याग्दीको स्थानीय राजनीतिमा उनलाई एक निष्ठावान र सुशासनको वकालत गर्ने नेताका रूपमा लिइन्छ।",
+  "overall_approval_rating": 62
+}

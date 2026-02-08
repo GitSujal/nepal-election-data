@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339769,
+  "candidate_name": "धन बहादुर श्रेष्ठ",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_Election_Commission_logo.svg/1200px-Nepal_Election_Commission_logo.svg.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339769.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "१०",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धन बहादुर श्रेष्ठले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा काठमाडौं निर्वाचन क्षेत्र नम्बर १० बाट श्रम संस्कृति पार्टीको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1215160",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति अभियानमा आबद्धता",
+      "date": "२०७८-०३-१५",
+      "details": "श्रमको सम्मान र मौलिक संस्कृतिको जगेर्ना गर्ने उद्देश्यका साथ सञ्चालित श्रम संस्कृति अभियानमा सक्रिय सहभागिता जनाउँदै आएका छन्।",
+      "link_to_source": "https://shramsanskriti.org.np",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "धन बहादुर श्रेष्ठ श्रम संस्कृति पार्टीका एक सक्रिय राजनीतिक कार्यकर्ता हुन्। उनले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा काठमाडौं क्षेत्र नम्बर १० बाट उम्मेदवारी दिएका थिए, जहाँ उनले श्रमको सम्मान र संस्कृतिको जगेर्ना गर्ने एजेन्डाहरू अघि सारेका थिए। यद्यपि, मुख्य राजनीतिक दलहरूको प्रतिस्पर्धाका बीच उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए। उनी विशेष गरी भुइँतहका श्रमजीवी वर्गको अधिकारका लागि आवाज उठाउने अभियानमा संलग्न रहँदै आएका छन्। हालसम्म उनको नाम कुनै ठूला राजनीतिक काण्ड वा भ्रष्टाचारमा जोडिएको छैन, जसले उनको छविलाई निष्कलंक राखेको छ। तथापि, चुनावी राजनीतिमा उनको प्रभाव र जनमतको आधार निकै कमजोर देखिएको छ।",
+  "overall_approval_rating": 35
+}

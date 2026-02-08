@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340655,
+  "candidate_name": "विपिन कुमार आचार्य",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/images/logo.png",
+  "candidates_current_position": "सह-महामन्त्री, राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidates_current_position_in_party": "सह-महामन्त्री",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340655.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "समानुपातिक सूचीबाट नाम फिर्ता",
+      "date": "२०८२-०९-२७",
+      "details": "आचार्यले आगामी प्रत्यक्ष निर्वाचनमा उत्रने तयारीका लागि पार्टीको समानुपातिक प्रतिनिधित्वको सूचीबाट आफ्नो नाम फिर्ता लिएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmAO2JlZkUMfdElRyozR4OT5bCqonCLmZT8etnEw35xfOdb3LAx1dLvfJ-yvVJAqALcstUGKVGm0Cq9N7Q5ogHvTSRD8DBxtLHfH5QzJpzxKD2W9bSaZo8Z9MeB-mPaLqnesiMOMf6POZ91BNcoVOCY9q_bA_0vMXyj9_2dQ==",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सहकारी ठगी प्रकरणमा संसदीय बयान",
+      "date": "२०८१-०५-०२",
+      "details": "पोखराको सूर्यदर्शन र बुटवलको सुप्रिम सहकारीको रकम गोर्खा मिडिया नेटवर्कमा अपचलन गरेको आरोपमा आचार्यलाई संसदीय छानबिन विशेष समितिले बयानका लागि बोलाएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUKlLDkM-ZfuXO773DULupi22zs3l13eCbS91bafWsvHCWR7KZ_8AJSIhTxe9KtLfow-ZnEyEwYeX0Rh7NRFwZa6K20UowjflMN9xVRpi5WHhbFpmkv0g8REdE2pXOE9Cwf75dZ75LXpHKTPahoJeMerPmUT4YPtcj5zlVxGNJ9cEXyMpC5Tv-3eLFrr8cpV0T8EOHheECBx5nOVVDAkER9NBKyOo5oSdG-LejJVHqRU9VZVR1cCWRYzHMM33HS23erQ4OacZd7ntwb5AD9Vc-ZdcXWcMN1YrxRrFd-Tia4xJWJHtK",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "दाङ क्षेत्र नम्बर ३ बाट राष्ट्रिय स्वतन्त्र पार्टीको उम्मेदवारका रूपमा आचार्यले ११,२९२ मत प्राप्त गरी चौथो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QysoIrkQWtJ8XNox57uaE-liQUfmVVIDxX99VJczrfuH0w3F-YNsnsfsYhmGU-RsFdQqoPW_2OiZnx_-d_CTVcbuKEEzRXlGxcLsVvO-sFFiR6fVsVlMMXR6OKNPJegc4WIezFbteUW6EA9XJ7L2RIk65O8BezA2ICyPa7vOW60iEU9gZ-1HJeEdsZzoQLowZY8PeEbQEhvHEDJu3QsuYsVgmmn5dxIHi9s=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीको स्थापना",
+      "date": "२०७९-०३-०७",
+      "details": "आचार्य राष्ट्रिय स्वतन्त्र पार्टीको संस्थापक सदस्य तथा सह-महामन्त्रीका रूपमा वैकल्पिक राजनीतिमा सक्रिय भएका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzz3T9ddRF71QPJ3BEvcWMtMz4KdnHL8O2nWK5hh83JCIZefWd2ehyxMWIueJnthPnoitsaFoL3fuqfUSb_6ezacQahOUlhUFpJVa5Phi_6qM_KYfGjyWiQ14dCkE=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "साझा पार्टी र वैकल्पिक राजनीतिमा सक्रियता",
+      "date": "२०७४-१२-१५",
+      "details": "पेशाले इन्जिनियर रहेका आचार्य सुरुवाती दिनदेखि नै साझा पार्टी र विवेकशील साझा पार्टीको अभियानमा बौद्धिक व्यक्तित्वका रूपमा संलग्न थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM0eNRNhpMd5IbFzN4jy2a7wBZgG6HPQ43jR3cdy9ai0NzG1PxKvjlwZ7iyrMBBvjmLyCD-iVFfDzcxN6_eX9T6A84DjvoVozc0eMGxg8C8b5N2hVw5KblhaxCCpaucrbiRnpCjp09",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "विपिन कुमार आचार्य राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का एक प्रभावशाली र बौद्धिक नेता मानिन्छन्। पेशाले बायोटेक इन्जिनियर र मिडिया व्यक्तित्व रहेका आचार्यले वैकल्पिक राजनीतिको माध्यमबाट आफ्नो पहिचान बनाएका छन्। २०७९ को आम निर्वाचनमा दाङ क्षेत्र नम्बर ३ बाट ११ हजारभन्दा बढी मत प्राप्त गर्नुले उनको चुनावी आधार मजबुत हुँदै गएको संकेत गर्दछ। तर, हालैका दिनहरूमा उनी गोर्खा मिडिया नेटवर्क र विभिन्न सहकारीको करोडौँ रकम अपचलनको विवादमा मुछिएका छन्। संसदीय छानबिन समितिमा समेत बयान दिनुपरेको यस प्रकरणले उनको राजनीतिक छविमा गम्भीर प्रश्न उठाएको छ। पार्टीभित्र सह-महामन्त्री जस्तो उच्च पदमा रहे पनि भ्रष्टाचारका आरोपहरू र सहकारी ठगीमा नाम जोडिनु उनको राजनीतिक भविष्यका लागि ठूलो चुनौती देखिएको छ।",
+  "overall_approval_rating": 38
+}

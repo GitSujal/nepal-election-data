@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340685,
+  "candidate_name": "नन्‍द प्रसाद काप्री",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा धादिङ जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340685.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "निर्वाचन क्षेत्र नं २ (क)",
+      "result": "पराजित",
+      "party": "नयाँ शक्ति पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "निर्वाचन क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "धादिङ निर्वाचन क्षेत्र नं २ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://khabarsite.com/2022/10/48-candidates-nomination-filed-in-dhading/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०६-२५",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध भई धादिङ जिल्लामा पार्टी संगठन विस्तारको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://www.dnewsnepal.com/2022/10/dhading-election-update/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "नयाँ शक्ति पार्टी नेपालको तर्फबाट धादिङ २ (क) बाट प्रदेश सभा सदस्यको निर्वाचनमा २१७ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/nanda-prasad-kapri-340685",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीमा सक्रियता",
+      "date": "२०७३-०२-३०",
+      "details": "बाबुराम भट्टराईले गठन गरेको नयाँ शक्ति पार्टी नेपालको स्थापनाकालदेखि नै धादिङ जिल्लामा स्थानीय नेतृत्व तहमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/district/dhading-2",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नन्दप्रसाद काप्री धादिङ जिल्लाका एक जुझारु र युवा राजनीतिकर्मी हुन्। उनी विगतमा डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टीमा आबद्ध रहेर वैकल्पिक राजनीतिको वकालत गर्दै आएका थिए। हाल उनी प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध छन् र सोही पार्टीबाट धादिङ निर्वाचन क्षेत्र नं २ मा आफ्नो सक्रियता बढाइरहेका छन्। उनको चुनावी इतिहास हेर्दा २०७४ को प्रदेश सभा र २०७९ को प्रतिनिधि सभा निर्वाचन दुवैमा उनले उल्लेख्य मत प्राप्त गर्न सकेका छैनन्, जसले गर्दा उनको सांगठनिक पकड कमजोर देखिन्छ। धादिङको राजनीतिमा उनी स्थापित दलहरूका विरुद्ध साना दलको अस्तित्व जोगाउन संघर्षरत पात्रका रूपमा चिनिन्छन्। उनको व्यक्तिगत छविमा कुनै ठूला भ्रष्टाचार वा स्क्यान्डलहरू नदेखिए पनि चुनावी नतिजाका आधारमा उनको लोकप्रियता न्यून देखिन्छ।",
+  "overall_approval_rating": 38
+}

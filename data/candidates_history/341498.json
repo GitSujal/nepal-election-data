@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341498,
+  "candidate_name": "रमेश सेन्चुरी",
+  "candidate_party": "आम जनता पार्टी (एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Aam_Janata_Party_logo.png/200px-Aam_Janata_Party_logo.png",
+  "candidates_current_position": "आम जनता पार्टीका नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341498.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "रमेश सेन्चुरीले सुर्खेत निर्वाचन क्षेत्र नम्बर १ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://www.gangamalakhabar.com/2026/01/20/13-candidates-registered-in-surkhet-1/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१०",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध भई सुर्खेत जिल्लामा पार्टी विस्तार र संगठन निर्माणमा सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341498",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलित अधिकार र सामाजिक आन्दोलनमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि सुर्खेत र कर्णाली क्षेत्रमा दलित समुदायको हकहित र सामाजिक न्यायका लागि विभिन्न अभियानमा संलग्न।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341498",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रमेश सेन्चुरी सुर्खेतका एक उदीयमान राजनीतिकर्मी र दलित अधिकारवादी नेता हुन्। २०७९ को आम निर्वाचनमा उनले सुर्खेत क्षेत्र नं. १ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यमा प्रतिस्पर्धा गरेका थिए। यद्यपि, उक्त निर्वाचनमा उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। स्रोतका अनुसार उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ, जसको अर्थ उनको स्थायी बसोबास वा राजनीतिक आधार उक्त निर्वाचन क्षेत्रमा बलियो नभएको स्थानीयको बुझाइ छ। सुर्खेत १ मा नेपाली कांग्रेस र नेकपा एमाले जस्ता ठूला दलहरूको वर्चस्व रहेको अवस्थामा एउटा नयाँ र सानो दलबाट उम्मेदवार बन्नु उनका लागि मुख्य चुनौती देखिन्छ। उनको राजनीतिक प्रभाव हाललाई सीमित भए पनि दलित र पछाडि पारिएका वर्गको प्रतिनिधित्व गर्ने नेताका रूपमा उनको पहिचान स्थापित हुने क्रममा छ।",
+  "overall_approval_rating": 38
+}

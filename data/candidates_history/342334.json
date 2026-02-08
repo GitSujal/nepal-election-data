@@ -1,0 +1,87 @@
+{
+  "candidate_id": 342334,
+  "candidate_name": "गंगा प्रसाद यादब",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://election.gov.np/static/media/symbol_independent.png",
+  "candidates_current_position": "पूर्व उपसभामुख तथा पूर्व प्रदेश प्रमुख",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिज्ञ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342334.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "राप्रपा-नेपाल"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "महोत्तरीबाट स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "एमाले र जसपाको गठबन्धनपछि टिकट नपाएपछि उनले महोत्तरी क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारी दिएका थिए, जहाँ उनी पराजित भए।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सुदूरपश्चिम प्रदेश प्रमुखमा नियुक्ति",
+      "date": "२०७८-०१-२०",
+      "details": "राष्ट्रपति विद्यादेवी भण्डारीले केपी शर्मा ओली सरकारको सिफारिसमा यादवलाई सुदूरपश्चिम प्रदेशको प्रदेश प्रमुख नियुक्त गरेकी थिइन्।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/newly-appointed-governors-take-oath-of-office",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिराहामा झिनो मतान्तरले पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "सिराहा क्षेत्र नं. १ बाट नेकपा एमालेका उम्मेदवार रहेका यादव २१,३७१ मत प्राप्त गर्दै नेपाली कांग्रेसका प्रदीप गिरीसँग पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपा छोडी नेकपा एमालेमा प्रवेश",
+      "date": "२०७४-०७-२९",
+      "details": "राप्रपा नेतृत्वसँग असन्तुष्टि जनाउँदै तत्कालीन उपसभामुख यादव बालकोट पुगेर एमाले अध्यक्ष केपी शर्मा ओलीको हातबाट टीका लगाई एमाले प्रवेश गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2017/10/15/ex-deputy-speaker-yadav-deserts-rpp-to-join-uml",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "व्यवस्थापिका संसदको उपसभामुखमा निर्वाचित",
+      "date": "२०७२-०६-२९",
+      "details": "नयाँ संविधान जारी भएपछि भएको निर्वाचनमा यादव राप्रपा नेपालको तर्फबाट निर्विरोध उपसभामुख चुनिएका थिए।",
+      "link_to_source": "https://kathmandupost.com/miscellaneous/2015/10/16/rpp-nepals-yadav-elected-new-deputy-speaker",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा मनोनीत",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा राप्रपा नेपालको तर्फबाट समानुपातिक कोटामा उनी सभासद चयन भएका थिए।",
+      "link_to_source": "https://nepalyelection.com/candidates/ganga-prasad-yadav",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गंगा प्रसाद यादव मधेश राजनीतिको एक अनुभवी र प्रतिष्ठित पात्र हुन्, जसले उपसभामुख र प्रदेश प्रमुख जस्ता उच्च राजकीय पदहरू सम्हालेका छन्। सिराहा निवासी भए पनि २०७९ को निर्वाचनमा महोत्तरी-२ बाट स्वतन्त्र उम्मेदवारी दिएका कारण उनलाई 'भगुवा' (पर्यटक) उम्मेदवारको ट्याग लागेको छ। राप्रपाबाट एमाले र अन्ततः स्वतन्त्र बन्ने उनको राजनीतिक यात्राले उनमा पदको मोह र अस्थिरता रहेको स्थानीय मतदाताको बुझाइ छ। २०७४ मा सिराहा-१ मा सम्मानजनक २१,३७१ मत ल्याएका उनी आफ्नो पुरानो क्षेत्र छोडेर महोत्तरी आउनुलाई राजनीतिक पलायनको रूपमा विश्लेषण गरिएको छ। यद्यपि, उनको सादगी र प्रशासनिक अनुभवले उनलाई एक प्रभावशाली नेताका रूपमा स्थापित गरेको छ, तर पछिल्लो समयको पार्टी परिवर्तनले उनको विश्वसनीयतामा केही धक्का लागेको देखिन्छ।",
+  "overall_approval_rating": 52
+}

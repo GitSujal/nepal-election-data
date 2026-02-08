@@ -1,0 +1,111 @@
+{
+  "candidate_id": 341966,
+  "candidate_name": "उदय शंशेर ज.ब.राणा",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341966.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०४",
+      "details": "ललितपुर क्षेत्र नं. १ बाट नेकपा एमालेका नवराज सिलवाललाई ४,६१४ मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://www.nagariknetwork.com/news/121873/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कांग्रेस सह-महामन्त्रीमा मनोनयन",
+      "date": "२०८२-१०-२२",
+      "details": "नेपाली कांग्रेसको विशेष महाधिवेशन वा संगठनात्मक हेरफेरको क्रममा सह-महामन्त्रीको जिम्मेवारी प्राप्त।",
+      "link_to_source": "https://www.onlinekhabar.com/2026/02/1259160",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अर्थ राज्यमन्त्रीमा नियुक्ति",
+      "date": "२०७४-०५-२६",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा अर्थ राज्यमन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://www.ratopati.com/story/31920/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनका उम्मेदवार नवराज सिलवालसँग ललितपुर १ मा पराजित।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074/results",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल तरुण दलको केन्द्रीय अध्यक्ष",
+      "date": "२०६९-०८-०१",
+      "details": "नेपाली कांग्रेसको भ्रातृ संस्था नेपाल तरुण दलको केन्द्रीय अध्यक्षमा निर्वाचित भई ५ वर्ष नेतृत्व गरेको।",
+      "link_to_source": "https://nipore.org/coffee-session-with-hon-udaya-shumsher-rana-economic-diplomacy-of-nepal-priorities-and-strategies/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधानसभामा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "ललितपुर १ बाट प्रत्यक्ष निर्वाचित भई संविधान निर्माण प्रक्रियामा सक्रिय सहभागिता।",
+      "link_to_source": "https://alchetron.com/Udaya-Shumsher-Rana",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल तरुण दल ललितपुर जिल्ला अध्यक्ष",
+      "date": "२०५४-०१-०१",
+      "details": "तरुण दल ललितपुरको जिल्ला अध्यक्षको रूपमा स्थानीय स्तरमा युवा संगठन विस्तारमा भूमिका।",
+      "link_to_source": "https://gorkhapatraonline.com/news/32154",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिमा प्रवेश",
+      "date": "२०४६-०१-०१",
+      "details": "नेपाल विद्यार्थी संघ दिल्लीको अध्यक्ष भएर प्रजातन्त्र पुनर्स्थापनाको आन्दोलनबाट राजनीतिक यात्रा सुरु।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/उदयसम्शेर_राणा",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "उदय शमशेर ज.ब. राणा नेपाली कांग्रेसका प्रभावशाली युवा नेता मानिन्छन्। ललितपुर क्षेत्र नम्बर १ मा उनको बलियो पकड रहेको छ, जहाँ उनले २०७० र २०७९ को निर्वाचनमा जित हासिल गरेका छन्। उनको पारिवारिक पृष्ठभूमि राणाकालीन सम्भ्रान्त घराना (सुवर्ण शमशेरको विरासत) सँग जोडिए पनि उनले विद्यार्थी राजनीति र तरुण दलको नेतृत्वमार्फत आफ्नो छुट्टै पहिचान बनाएका छन्। २०७४ को निर्वाचनमा नवराज सिलवालसँग पराजित भए पनि २०७९ मा सोही प्रतिद्वन्द्वीलाई हराएर उनले कमब्याक गरेका थिए। उनी अर्थतन्त्र र कूटनीतिक मामिलामा दख्खल राख्ने नेताका रूपमा परिचित छन्। केही विपक्षीले उनलाई राणा खानदानको 'एलिट' नेता भनेर आलोचना गरे पनि स्थानीय स्तरमा विकासप्रेमी छवि बनाउन उनी सफल देखिएका छन्।",
+  "overall_approval_rating": 82
+}

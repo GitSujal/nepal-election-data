@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341195,
+  "candidate_name": "राजु कुमार साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Independent_Candidate_Election_Symbol_Nepal.png/200px-Independent_Candidate_Election_Symbol_Nepal.png",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्वतन्त्र सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341195.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नम्बर ३ बाट प्रतिनिधिसभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा निर्वाचनमा सहभागी भएका तर पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate-341195/36",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "स्थानीय मुद्दा र विकासका एजेन्डासहित धनुषा निर्वाचन क्षेत्र नम्बर ३ बाट स्वतन्त्र उम्मेदवारी घोषणा र दर्ता।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राजु कुमार साह धनुषा जिल्ला निर्वाचन क्षेत्र नम्बर ३ बाट २०७९ को प्रतिनिधिसभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा चुनावी मैदानमा उत्रिएका व्यक्ति हुन्। यस क्षेत्रमा नेकपा एमालेकी जुली कुमारी महतो र लोकतान्त्रिक समाजवादी पार्टीका अनिल कुमार झा जस्ता हेभीवेट नेताहरूको बीचमा साहले आफ्नो उम्मेदवारी दिएका थिए। दलीय राजनीतिको दबदबा रहेको यस क्षेत्रमा स्वतन्त्र उम्मेदवारका रूपमा उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक प्रोफाइल हाल स्थानीय स्तरको उम्मेदवारका रूपमा मात्र देखिएको छ। सार्वजनिक जीवनमा उनीविरुद्ध कुनै ठूला भ्रष्टाचार वा काण्डका अभिलेखहरू भेटिएका छैनन्, तर प्रभावकारी राजनीतिक पकडको अभाव देखिन्छ।",
+  "overall_approval_rating": 45
+}

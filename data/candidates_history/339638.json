@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339638,
+  "candidate_name": "पेम्बा छिरी शेर्पा",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ujyaolo_Nepal_Party_Logo.png/200px-Ujyaolo_Nepal_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339638.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सोलुखुम्बु",
+      "constituency": "सोलुखुम्बु १",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "सोलुखुम्बु निर्वाचन क्षेत्र नं. १ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०७९-०६-१५",
+      "details": "नयाँ वैकल्पिक शक्तिको रूपमा उदाएको उज्यालो नेपाल पार्टीमा आबद्ध भई सक्रिय राजनीति सुरु।",
+      "link_to_source": "https://nepalnews.com/s/politics/ujyalo-nepal-party-submits-closed-list-to-ec",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटन र समाजसेवामा सक्रियता",
+      "date": "२०७२-०२-१५",
+      "details": "२०७२ को भूकम्पपछि सोलुखुम्बुका भूकम्पपीडितहरूका लागि राहत र पुनस्र्थापना कार्यमा सक्रिय भूमिका।",
+      "link_to_source": "https://www.nepalitimes.com/from-the-nepali-press/solus-pemba",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पेम्बा छिरी शेर्पा सोलुखुम्बु जिल्लाका एक युवा राजनीतिक अनुहार हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले उज्यालो नेपाल पार्टीको तर्फबाट उम्मेदवारी दिएर आफ्नो राजनीतिक यात्रालाई राष्ट्रिय स्तरमा चिनाउने प्रयास गरेका थिए। उनी विशेषगरी पर्यटन व्यवसाय र समाजसेवामा आबद्ध रहेर स्थानीय स्तरमा परिचित छन्। यद्यपि, निर्वाचनमा उनले स्थापित दलका प्रभावशाली नेताहरूसँग प्रतिस्पर्धा गर्दा उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक छवि स्वच्छ रहेको छ र उनलाई वैकल्पिक राजनीतिको पक्षधरका रूपमा हेरिन्छ। सोलुखुम्बुको भौगोलिक र पर्यटकीय विकासका मुद्दाहरूलाई उनले आफ्नो चुनावी एजेण्डा बनाएका थिए।",
+  "overall_approval_rating": 45
+}

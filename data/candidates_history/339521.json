@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339521,
+  "candidate_name": "शिव कुमार मंडल (केवट)",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-M_Logo.svg/1024px-CPN-M_Logo.svg.png",
+  "candidates_current_position": "पूर्व आपूर्ति मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339521.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "मोरङ क्षेत्र नम्बर ५ मा सत्ता गठबन्धनका साझा उम्मेदवार रहेका उनी स्वतन्त्र उम्मेदवार योगेन्द्र मण्डलसँग फराकिलो मतान्तरले पराजित भए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/16692557342654313.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल आयल निगम जग्गा खरिद प्रकरणमा मौनता",
+      "date": "२०७४-०५-२४",
+      "details": "आपूर्ति मन्त्री रहँदा नेपाल आयल निगमको जग्गा खरिदमा भएको अर्बौंको घोटाला प्रकरणमा छानबिन गर्न र कारबाही गर्न चासो नदेखाएको भन्दै संसदमा उनको तीव्र आलोचना भयो।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/129712-1504938360.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आपूर्ति मन्त्रीमा नियुक्त",
+      "date": "२०७४-०४-११",
+      "details": "शेरबहादुर देउवाको मन्त्रिपरिषद्मा उनी आपूर्ति मन्त्रीको रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2017/07/611723",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बजार अनुगमन र 'पब्लिसिटी स्टन्ट' को आरोप",
+      "date": "२०७४-०६-०५",
+      "details": "चाडपर्वका बेला बजार अनुगमनमा सक्रिय देखिए पनि संरचनागत सुधार भन्दा चर्चाका लागि मात्र अनुगमन गरेको भन्दै उनलाई 'पब्लिसिटी स्टन्ट' को आरोप लाग्यो।",
+      "link_to_source": "https://www.onlinekhabar.com/2017/09/628172",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट मोरङ ५ मा कांग्रेसका अमृत अर्याललाई पराजित गर्दै उनी प्रतिनिधि सभामा निर्वाचित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा निर्वाचित",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा मोरङ क्षेत्र नम्बर ४ बाट तत्कालीन एकीकृत माओवादीका तर्फबाट निर्वाचित भएका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B2",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मधेसी मुक्ति मोर्चाको कोषाध्यक्ष",
+      "date": "२०५९-०१-०१",
+      "details": "माओवादी निकट मधेसी मुक्ति मोर्चाको केन्द्रीय कोषाध्यक्षको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJktR3tptqZdEQwh-dI0je5ZTg1VI2Chq6RtHqh8R7RsP9EvWniXFu2xvuTeinbl9XPIOc-bfI_JuKa7z6z_WQxtwOXwT808W99isOfLfijGDIT9bte-DEgNpkGJVC3EoQ-_ya19Q8TS8F0X9xyInaYOnepvbtEQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५७-०१-०१",
+      "details": "विद्यार्थी राजनीतिबाट यात्रा सुरु गरी २०५७ सालमा माओवादीको मोरङ जिल्ला सदस्य बनेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJktR3tptqZdEQwh-dI0je5ZTg1VI2Chq6RtHqh8R7RsP9EvWniXFu2xvuTeinbl9XPIOc-bfI_JuKa7z6z_WQxtwOXwT808W99isOfLfijGDIT9bte-DEgNpkGJVC3EoQ-_ya19Q8TS8F0X9xyInaYOnepvbtEQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शिव कुमार मंडल मोरङको राजनीतिमा माओवादी केन्द्रका एक प्रभावशाली मधेसी नेता हुन्। उनले २०७० र २०७४ को निर्वाचनमा लगातार जित हासिल गरेर आफ्नो पकड बलियो बनाएका थिए। आपूर्ति मन्त्रीको रूपमा उनको कार्यकाल भने विवादास्पद रह्यो। विशेष गरी नेपाल आयल निगमको जग्गा खरिद घोटालामा निगमका तत्कालीन प्रमुखलाई संरक्षण दिएको र भ्रष्टाचार विरुद्ध ठोस कदम नचालेको आरोप उनीमाथि लाग्यो। २०७९ को निर्वाचनमा मोरङ ५ बाट पराजित हुनुमा स्थानीय स्तरमा उनको लोकप्रियतामा आएको ह्रास र स्वतन्त्र उम्मेदवारको लहर प्रमुख कारण देखिन्छ। उनले मोरङ ४ बाट ५ मा क्षेत्र परिवर्तन गरेको हुनाले उनलाई 'वगुवा' उम्मेदवारको रूपमा हेरिएको छ, जसले गर्दा स्थानीय जनताको पूर्ण विश्वास जित्न उनलाई कठिन भएको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 42
+}

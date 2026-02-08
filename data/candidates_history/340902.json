@@ -1,0 +1,127 @@
+{
+  "candidate_id": 340902,
+  "candidate_name": "जगदिश्‍वर नरसिंह के.सी.",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "पूर्व संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340902.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "२ (क)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "२",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वतन्त्र उम्मेदवारी फिर्ता र पार्टीको आधिकारिक उम्मेदवारलाई समर्थन",
+      "date": "२०७९-०६-२६",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा नुवाकोट २ बाट आफ्नै दाजु अर्जुन नरसिंह केसी विरुद्ध स्वतन्त्र उम्मेदवारी दिएका जगदिश्वरले पार्टी नेतृत्वको आग्रहमा उम्मेदवारी फिर्ता लिएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1202888",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नुवाकोट जिल्ला सभापति निर्वाचनमा पराजय",
+      "date": "२०७८-०८-१६",
+      "details": "नेपाली काँग्रेसको १४ औं महाधिवेशन अन्तर्गत नुवाकोट जिल्ला सभापतिमा जगदिश्वर रमेश कुमार महतसँग पराजित भए, जसले जिल्लामा उनको लामो समयको वर्चस्व अन्त्य गरेको मानिन्छ।",
+      "link_to_source": "https://www.setopati.com/politics/255651",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "नुवाकोट क्षेत्र नम्बर २ (क) बाट प्रदेश सभा सदस्यको उम्मेदवार रहेका केसी वाम गठबन्धनका केशव राज पाण्डेसँग ७,२८० मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://reviewnepal.com/politics/veteran-leaders-of-nepali-congress-from-nuwakot-face-defeat.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "चौथो पटक नुवाकोट जिल्ला सभापतिमा निर्वाचित",
+      "date": "२०७२-११-२२",
+      "details": "केसी २०५७ देखि लगातार चार पटक नुवाकोट काँग्रेसको सभापति चुनिएर जिल्लाको राजनीतिमा बलियो पकड जमाउन सफल भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jagadiswor_Narsingh_KC",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सुडान घोटाला छानबिन समिति सदस्य",
+      "date": "२०६७-०३-१५",
+      "details": "संसदको राज्य व्यवस्था समिति अन्तर्गत सुडान घोटाला छानबिन उपसमितिको सदस्यका रूपमा भ्रष्टाचार नियन्त्रणका लागि महत्वपूर्ण भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jagadiswor_Narsingh_KC",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा विजय",
+      "date": "२०७०-०८-०४",
+      "details": "नुवाकोट क्षेत्र नम्बर २ बाट संविधान सभा सदस्यमा निर्वाचित भई संविधान निर्माण प्रक्रियामा सक्रिय सहभागिता जनाएका थिए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभामा विजय",
+      "date": "२०६४-१२-२८",
+      "details": "नुवाकोट जिल्लाबाट पहिलो संविधान सभामा सदस्य निर्वाचित भई संघीय लोकतान्त्रिक गणतन्त्रको संस्थागत विकासमा योगदान दिएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jagadiswor_Narsingh_KC",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल विद्यार्थी संघको केन्द्रीय निर्वाचन समिति सदस्य",
+      "date": "२०५६-०१-०१",
+      "details": "विद्यार्थी राजनीतिबाट उदाएका केसीले नेविसंघको केन्द्रीय तहमा बसेर सांगठनिक जिम्मेवारी पुरा गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jagadiswor_Narsingh_KC",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिल्ला विकास समिति सदस्य",
+      "date": "२०४९-०२-१५",
+      "details": "नुवाकोट जिल्ला विकास समितिको सदस्य निर्वाचित भई स्थानीय विकास निर्माण र योजना तर्जुमामा संलग्न रहेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jagadiswor_Narsingh_KC",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रजातन्त्र पुनस्र्थापना आन्दोलनमा जेल चलान",
+      "date": "२०४६-११-०७",
+      "details": "पञ्चायती व्यवस्था विरुद्धको जनआन्दोलनमा सक्रिय सहभागी हुँदा पटक-पटक गरी झण्डै ६ महिना जेल जीवन बिताएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jagadiswor_Narsingh_KC",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जगदिश्वर नरसिंह केसी नुवाकोटको राजनीतिमा एक प्रभावशाली र अनुभवी नेता हुन्। उनी लगातार चार पटक जिल्ला सभापति र दुई पटक संविधान सभा सदस्य भइसकेका व्यक्तित्व हुन्। नुवाकोटमा 'केसी र महत' परिवारको राजनीतिक वर्चस्व रहँदै आएकोमा जगदिश्वरको भूमिका मुख्य मानिन्छ। यद्यपि, पछिल्लो समय २०७४ को प्रदेश सभा र १४ औं महाधिवेशनमा जिल्ला सभापति पदमा भएको पराजयले उनको स्थानीय लोकप्रियतामा केही ह्रास आएको संकेत गर्दछ। २०७९ को निर्वाचनमा आफ्नै दाजु अर्जुन नरसिंह केसी विरुद्ध स्वतन्त्र उम्मेदवारी दर्ता गर्नुले पार्टीभित्रको आन्तरिक कलह र टिकट वितरण प्रतिको असन्तुष्टि छताछुल्ल पारेको थियो। भ्रष्टाचार विरुद्ध र सुडान घोटाला छानबिनमा उनको भूमिका सकारात्मक रहे पनि 'नातावाद' को आरोप उनीमाथि लागिरहने प्रमुख चुनौती हो।",
+  "overall_approval_rating": 62
+}

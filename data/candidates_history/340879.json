@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340879,
+  "candidate_name": "महेश कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340879.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "निर्वाचन क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (वागुवा प्रवृत्ति)",
+      "date": "२०८१-०१-१०",
+      "details": "धनुषा क्षेत्र नम्बर ४ मा निकै कम मत प्राप्त गरेपछि उनी महोत्तरी जिल्लालाई नयाँ राजनीतिक आधार बनाउन सरेका छन्, जसलाई 'वागुवा' उम्मेदवारको रूपमा विश्लेषण गरिएको छ।",
+      "link_to_source": "https://election.ekantipur.com",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा लज्जास्पद पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारी दिएका यादवले मात्र ९० मत प्राप्त गरी पराजित भएका थिए, जसले उनको कमजोर जनमतलाई पुष्टि गर्दछ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmQtAFvcITF2Bqrqi-4mMAOlvoAf7iCwP-pHxCAu-7FQOQinVaKw21sBWoiqcjNrm_Mmu62-l2D5oTm_hiL8ZGxJ8LQXUlzm3vCPNRoE4lCz8dkZRaf-U0WDuMpSzO30xqvwn4-O22MtqRb0ia7EsAfWl3n8iwotZLxZ6Vck-TmlRYgB81hqN0WGg12kig",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक दलविहीनता र स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०४-१५",
+      "details": "कुनै पनि राजनीतिक दलमा आबद्ध नभई उनले पटक-पटक स्वतन्त्र रूपमा उम्मेदवारी दिने गरेको पाइन्छ, जसले उनको राजनीतिक अस्थिरता देखाउँछ।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "महेश कुमार यादव एक 'वागुवा' वा अस्थिर स्वतन्त्र उम्मेदवार हुन्। २०७९ को निर्वाचनमा धनुषा क्षेत्र नम्बर ४ बाट प्रतिस्पर्धा गर्दा उनले मात्र ९० मत प्राप्त गर्नुले उनको स्थानीय प्रभाव नगण्य रहेको पुष्टि गर्छ। धनुषाबाट महोत्तरीमा आफ्नो निर्वाचन क्षेत्र सार्ने उनको निर्णयले उनलाई 'टुरिस्ट' उम्मेदवारको श्रेणीमा उभ्याएको छ। उनीसँग कुनै बलियो राजनीतिक संगठन वा एजेन्डाको अभाव देखिन्छ। क्षेत्र परिवर्तन गर्ने र अत्यन्तै न्यून मत ल्याउने इतिहासका कारण मतदाताहरूमा उनीप्रति खासै विश्वास देखिँदैन। समग्रमा, उनको उम्मेदवारी केवल उपस्थिति जनाउने खालको मात्र देखिन्छ।",
+  "overall_approval_rating": 15
+}

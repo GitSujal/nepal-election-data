@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339720,
+  "candidate_name": "सुर्य प्रसाद ढकाल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://cpnuml.org/assets/images/logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा बाँके जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339720.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बाँके",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उपसभामुखको राजीनामा माग",
+      "date": "२०८१-०५-३१",
+      "details": "एमाले सांसदको रूपमा सुर्य प्रसाद ढकालले पदीय मर्यादा विपरित कार्य गरेको भन्दै उपसभामुख इन्दिरा रानामगरको राजीनामा माग गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv8hPMqumjywyzVv4aD8BrLW9lqKI7YS1v07g8i3luxpwrM7vWOQs2ZPGmNImCeSb0uvAsIP8natGfnULQ1slalgAhJPhy2uvL6ad4aRrSMfYN_C9-caGsq8_3TyURUVJfFoTUeohxYeT0W3K6eOKEHsQs4rhSEVDwY-T-RpIxVBKqLkYqM16waM7Rpf3V4eEucdzpL5B89d5i5OkHrjlBdUbqvxoVamzEi1ZjFHLkcXP4DXE_2XooeC8QuhHk3BAjlLO1ZhD9WigU1Sy_wiwYP8z8oAuxZjP1_m9NM6F5a1p9ob5RIXDW",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०८",
+      "details": "बाँके क्षेत्र नं. १ बाट २५,०२६ मत प्राप्त गरी वाम-लोकतान्त्रिक गठबन्धनका उम्मेदवार महेश्वर गहतराज 'अथक' लाई पराजित गर्दै विजयी।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWmHeEiAEMrkzrGURj1PftMUT_ZRbNsAzFDf3R5vvgvDGb9DWnSKWEUVJ_VugUEb5Eg0uHy_UrqUkoOFzIszmri0pUCuu985cvqgeMm-XLt0ToSTZbMfKp5vbwwubTLWJg7o3TPr1DTUCJQl19BtjlWTBNNHePba7Zsq34vMvO_zngt6cfe7z6Y3MMsE5SyVpH8CvDJePcPZ9oItjtXw==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०८-१४",
+      "details": "नेकपा (एमाले) को दशौं राष्ट्रिय महाधिवेशनबाट केन्द्रीय कमिटी सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG5L4Xre6hbc5ihetMxsl1Cegazvutp989C9sl5eJ3mZNv4AyPaNKBpIy5ayrt807SIw5PpbYKm1URc2eSfaBao-S-OrJ-btypYxsIO-e9RZR0387lu0-xGwnA03imb-ArHCX2D2vEK_eQnTc1DleqprWCvEvbBU61lwv6P4xlPbJjOih5FuUgm4ggzNYCpp3NZyCGyhZoQ3Err8hk-2zbLBkxRCBFoPNQ8AAb0YM1ZH6hEmprIDb9",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा संघ नेपालको नेतृत्व",
+      "date": "२०७०-०३-१५",
+      "details": "युवा संघ नेपालको केन्द्रीय सचिव, उपाध्यक्ष र अध्यक्षको जिम्मेवारी सम्हाल्दै युवा राजनीतिमा सक्रिय।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwR1U-BYGPJGoHn6_kGmeAQsC9qmZz2Alt6JlJ2G9YfTRAGggFSVJqZWn5AP7KebwFWJ-AOJBM94qrMWGx0nMuJZoEZRwHvUweHV1VM8_L53-AyHBXiP5lI5or1wfRvBUcb1EuBsfn8CIcxX79k6McYKoqJ8-ecn4",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनआन्दोलनमा गिरफ्तारी",
+      "date": "२०६२-१२-२५",
+      "details": "२०६२/६३ को दोस्रो जनआन्दोलनका क्रममा लोकतन्त्रको पक्षमा प्रदर्शन गर्दा पक्राउ परी हिरासतमा बसेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwR1U-BYGPJGoHn6_kGmeAQsC9qmZz2Alt6JlJ2G9YfTRAGggFSVJqZWn5AP7KebwFWJ-AOJBM94qrMWGx0nMuJZoEZRwHvUweHV1VM8_L53-AyHBXiP5lI5or1wfRvBUcb1EuBsfn8CIcxX79k6McYKoqJ8-ecn4",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुर्य प्रसाद ढकाल नेकपा एमालेका एक प्रभावशाली र अनुभवी संगठक नेता हुन्। २०७९ को निर्वाचनमा बाँके क्षेत्र नं. १ बाट सत्ता गठबन्धनका बहालवाला मन्त्रीलाई ५,३९४ मतान्तरले पराजित गर्दै उनी पहिलोपटक प्रतिनिधि सभामा प्रवेश गरेका हुन्, जसले उनको बलियो स्थानीय पकड पुष्टि गर्दछ। उनी लामो समयसम्म एमालेको भ्रातृ संगठन युवा संघ र बाँके जिल्ला कमिटीको नेतृत्वमा रहेका थिए। राजनीतिक सक्रियताका साथै उनी एक लेखक र बौद्धिक व्यक्तित्व पनि हुन्, जसका आधा दर्जनभन्दा बढी पुस्तकहरू प्रकाशित छन्। उनलाई पार्टीभित्र केपी शर्मा ओली निकट मानिन्छ र उनी हालसम्म कुनै ठूलो भ्रष्टाचार वा नैतिक स्क्यान्डलमा मुछिएका छैनन्। बाँकेमा एमालेको संगठन बलियो बनाउन उनको महत्वपूर्ण भूमिका रहेको मानिन्छ।",
+  "overall_approval_rating": 82
+}

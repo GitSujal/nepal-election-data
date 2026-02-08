@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342230,
+  "candidate_name": "प्रमोद कुमार साह",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nepal_Election_Commission_Logo.png",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342230.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उज्यालो नेपाल पार्टीबाट धनुषामा उम्मेदवारी",
+      "date": "२०८१-०५-१०",
+      "details": "सप्तरीमा चुनावी आधार कमजोर भएपछि उनी उज्यालो नेपाल पार्टीमा आबद्ध भई धनुषाबाट राजनीतिक यात्रा अगाडि बढाउने प्रयासमा छन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टी परित्याग",
+      "date": "२०८०-०९-१५",
+      "details": "२०७९ को निर्वाचनमा लज्जास्पद हार व्यहोरेपछि उनले राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) छोडेका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGz5YTWvU7c2lf-yznUv4tPKWwOD_ZJlRWlx1N5NEG6vwD8GFMVNhBEYiNOHjd-mwq7blCYyKjEQVcaTUz6jcREVHzBOl_jtuXryg8LBpxVp452kDxjeRxDL0tuY7Fb-uLdUAF0TdwXxQx_5s_wHVWVHG2z904irX3huE3PuintwWi_egB37P4ntt",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा लज्जास्पद पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी क्षेत्र नम्बर ३ बाट रास्वपाको उम्मेदवार बनेका उनले कुल सदर मतको मात्र ०.३५ प्रतिशत अर्थात् २३७ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLXUM9_6iZj7Clla0lUTpdQoBxehlT4PZVPN64YpoMgNXDr2VJ2ZwNgD6SbzjfPOGrp0dk98xb-MNRcx8I3umIUyy81_1O32h5NGVV0o8KgtRqTgKl8W3jRq-EnECL9kTEYo_ciEKo3SWRmRI8KQ06iXR113dH1QEnDJhxyg0ClgGqAg==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पर्यटक उम्मेदवार (सप्तरीबाट धनुषा स्थानान्तरण)",
+      "date": "२०८१-०४-२०",
+      "details": "आफ्नो पुरानो निर्वाचन क्षेत्र सप्तरी छाडेर धनुषामा उम्मेदवारी दिएकाले उनलाई स्थानीय स्तरमा 'टुरिस्ट क्यान्डिडेट' को रूपमा आलोचना गरिएको छ।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "प्रमोद कुमार साह एक अस्थिर राजनीतिक पृष्ठभूमिका उम्मेदवार हुन्। २०७९ को निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी जस्तो लोकप्रिय लहर भएको दलबाट सप्तरी-३ मा प्रतिस्पर्धा गर्दा पनि उनले मात्र २३७ मत प्राप्त गर्नुले उनको कमजोर जनमतलाई पुष्टि गर्दछ। उनी हाल आफ्नो पुरानो निर्वाचन क्षेत्र सप्तरी छाडेर धनुषामा 'उज्यालो नेपाल पार्टी' बाट चुनावी प्रतिस्पर्धामा उत्रिएका छन्, जसले उनलाई 'भगुवा' र 'पर्यटक उम्मेदवार' को परिचय दिएको छ। छोटो समयमै पार्टी परिवर्तन गर्नु र चुनावी क्षेत्र बदल्नुले उनको राजनीतिक निष्ठा र क्षेत्रीय पकडमा ठूलो प्रश्नचिन्ह खडा गरेको छ। धनुषाका स्थानीय मतदाताहरूमाझ उनको पहुँच र प्रभाव अत्यन्त न्यून देखिन्छ, जसका कारण आगामी निर्वाचनमा उनको उपस्थिति चुनौतीपूर्ण हुने देखिन्छ।",
+  "overall_approval_rating": 12
+}

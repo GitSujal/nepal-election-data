@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341737,
+  "candidate_name": "रुपक लामा",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341737.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मकवानपुर",
+      "constituency": "२ (ख)",
+      "result": "पराजित",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०८०-०२-१५",
+      "details": "निर्वाचन पश्चात उनी लोकतान्त्रिक समाजवादी पार्टी छोडेर जनता समाजवादी पार्टी, नेपालमा सक्रिय भएका हुन्।",
+      "link_to_source": "https://ekantipur.com/news",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "मकवानपुर क्षेत्र नम्बर २ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका उनले मात्र ३९ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "लोकतान्त्रिक समाजवादी पार्टीमा प्रवेश",
+      "date": "२०७८-०५-०९",
+      "details": "राजपा र जसपाको विभाजन पछि उनी महन्थ ठाकुर नेतृत्वको लोकतान्त्रिक समाजवादी पार्टीमा आबद्ध रहेका थिए।",
+      "link_to_source": "https://www.ratopati.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीसँगको आबद्धता",
+      "date": "२०७४-०६-०१",
+      "details": "राजनीतिको सुरुवाती चरणमा उनी बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालमा आबद्ध भई स्थानीय स्तरमा काम गरेका थिए।",
+      "link_to_source": "https://www.setopati.com",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रुपक लामा मकवानपुर जिल्लाका एक कम प्रभाव भएका राजनीतिक खेलाडी हुन्। २०७९ को निर्वाचनमा उनले मकवानपुर २ (ख) बाट अत्यन्तै न्यून मत (३९) प्राप्त गर्नुले उनको स्थानीय स्तरमा जनाधार कमजोर रहेको पुष्टि गर्छ। उनी बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका देखिन्छन्; नयाँ शक्ति, राजपा, लोसपा हुँदै हाल उनी जसपा नेपालमा पुगेका छन्। उनको राजनीतिक यात्रामा कुनै ठूला घोटाला वा भ्रष्टाचारका मुद्दा नदेखिए पनि ठोस उपलब्धि वा विकासका कामको रेकर्ड पनि भेटिँदैन। उनलाई हालको अवस्थामा एक साना दलका कार्यकर्ताका रूपमा मात्र चिनिन्छ जसको चुनावी प्रतिस्पर्धामा जित्ने सम्भावना निकै न्यून देखिन्छ।",
+  "overall_approval_rating": 32
+}

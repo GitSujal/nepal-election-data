@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341155,
+  "candidate_name": "तृषण पुनमगर",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Nepal_Workers_and_Peasants_Party.svg/1200px-Flag_of_the_Nepal_Workers_and_Peasants_Party.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "कैलाली जिल्ला सदस्य/कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341155.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट कैलाली क्षेत्र नम्बर २ मा प्रतिनिधि सभा सदस्यको लागि मनोनयन दर्ता।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341155",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेमकिपाको सांगठनिक विस्तारमा सक्रियता",
+      "date": "२०७८-०५-१०",
+      "details": "सुदूरपश्चिम प्रदेशमा नेपाल मजदुर किसान पार्टीको संगठन विस्तार र विचारधारा प्रचार-प्रसारमा सक्रिय भूमिका।",
+      "link_to_source": "https://wikipedia.org/wiki/Nepal_Workers_Peasants_Party",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "तृषण पुनमगर नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान कार्यकर्ता हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा कैलाली क्षेत्र नम्बर २ बाट उम्मेदवारी दिएका थिए, तर उनले अत्यन्त न्यून मत प्राप्त गरे। नेमकिपाले आफ्नो राजनीतिक विचारधारा र मजदुर-किसानका मुद्धाहरू देशव्यापी रूपमा पुर्‍याउने उद्देश्यले उनलाई सुदूरपश्चिमको कैलालीबाट उम्मेदवार बनाएको देखिन्छ। उनको राजनीतिक छवि स्वच्छ रहेको छ र अहिलेसम्म कुनै पनि भ्रष्टाचार वा विवादमा उनको नाम जोडिएको छैन। यद्यपि, सुदूरपश्चिममा नेमकिपाको सांगठनिक आधार कमजोर रहेकाले उनको चुनावी उपस्थिति केवल पार्टीको उपस्थिति जनाउने स्तरमा मात्र सीमित रहेको देखिन्छ। उनी चुनावी नतिजा भन्दा पनि पार्टीको सिद्धान्त र अनुशासनमा बढी केन्द्रित देखिन्छन्।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342676,
+  "candidate_name": "बिक्रम साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342676.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर ३ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धामा सहभागी भएका, तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342676",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०७०-०१-०१",
+      "details": "पूर्वाञ्चल विश्वविद्यालयबाट व्यावसायिक प्रशासनमा स्नातकोत्तर (MBA) तहको शिक्षा पूरा गरी युवा शिक्षित वर्गको रूपमा पहिचान बनाएका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342676",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "व्यावसायिक संलग्नता",
+      "date": "२०७५-०१-०१",
+      "details": "राजनीतिमा प्रवेश गर्नुअघि व्यापारिक क्षेत्रमा सक्रिय रहेर आर्थिक र सामाजिक अनुभव हासिल गरेका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342676",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बिक्रम साह धनुषा निर्वाचन क्षेत्र नम्बर ३ का एक शिक्षित र युवा स्वतन्त्र उम्मेदवार हुन्। एमबीए (MBA) सम्मको उच्च शिक्षा हासिल गरेका साहले परम्परागत राजनीतिक दलका हेभीवेट उम्मेदवारहरूको विकल्पको रूपमा आफूलाई प्रस्तुत गरेका थिए। २०७९ को निर्वाचनमा उनले उल्लेख्य जनमत प्राप्त गर्न नसके पनि राजनीतिमा युवा र शैक्षिक जनशक्तिको हस्तक्षेप हुनुपर्ने एजेन्डालाई अघि सारेका थिए। उनी कुनै पनि भ्रष्टाचार वा ठूला राजनीतिक विवादमा मुछिएको रेकर्ड भेटिएको छैन, जसले उनको व्यक्तिगत छविलाई स्वच्छ देखाउँछ। निर्वाचन क्षेत्रमा उनको प्रभाव कमजोर देखिए पनि स्थानीय स्तरमा एक सचेत युवा व्यवसायीको रूपमा उनले आफ्नो पहिचान बनाएका छन्।",
+  "overall_approval_rating": 38
+}

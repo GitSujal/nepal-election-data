@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339434,
+  "candidate_name": "अमृता भुल",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nepal_Workers_Peasants_Party_Logo.png/220px-Nepal_Workers_Peasants_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339434.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "अमृता भुलले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा कैलाली निर्वाचन क्षेत्र नम्बर ४ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339434",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी संगठन सुदृढीकरण अभियान",
+      "date": "२०७८-०५-१०",
+      "details": "कैलाली जिल्लामा नेपाल मजदुर किसान पार्टीको विचारधारा विस्तार गर्न र मजदुर-किसानहरूको हक हितका लागि स्थानीय स्तरमा सक्रिय भूमिका निर्वाह गरेकी।",
+      "link_to_source": "https://sajilopatrika.com/amrita-bhul-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "समावेशी प्रतिनिधित्वको पहल",
+      "date": "२०७९-०६-२०",
+      "details": "सुदूरपश्चिम जस्तो दुर्गम क्षेत्रमा दलित र महिला प्रतिनिधित्व सुनिश्चित गर्न नेमकिपाको तर्फबाट सक्रिय राजनीतिक यात्रा सुरु गरेकी।",
+      "link_to_source": "https://gorkhapatraonline.com/news/37651",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अमृता भुल नेपाल मजदुर किसान पार्टी (नेमकिपा) की एक निष्ठावान र भुइँतहकी नेतृ हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा कैलाली निर्वाचन क्षेत्र नम्बर ४ बाट उम्मेदवारी दिएकी थिइन्। सुदूरपश्चिमको राजनीतिमा नेमकिपाको प्रभाव कम रहे पनि उनले उठाएका मजदुर र किसानका मुद्दाहरूलाई स्थानीय स्तरमा सकारात्मक रूपमा हेरिन्छ। उनी एक साक्षर र अनुभवजन्य ज्ञानले खारिएकी नेतृ हुन्, जसको छवि स्वच्छ र इमान्दार रहेको छ। निर्वाचनमा पराजित भए तापनि दलित र महिला वर्गको प्रतिनिधित्व गर्दै उनले गरेको चुनावी प्रतिस्पर्धालाई महत्वपूर्ण मानिन्छ। उनी विरुद्ध कुनै पनि भ्रष्टाचार वा कानुनी विवादहरू फेला परेका छैनन्, जसले उनको राजनीतिक नैतिकतालाई पुष्टि गर्दछ।",
+  "overall_approval_rating": 58
+}

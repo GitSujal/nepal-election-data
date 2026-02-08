@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341609,
+  "candidate_name": "वृज किशोर प्रसाद चौरसिया",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "आवद्धता छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341609.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा जिल्ला निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा निर्वाचनमा सहभागी भएका थिए।",
+      "link_to_source": "https://election.onlinekhabar.com/candidate/brij-kishor-prasad-chaurasiya/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "कुनै पनि राजनीतिक दलमा आवद्ध नभई उनले गिलास चुनाव चिन्ह लिएर स्वतन्त्र उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://www.hamropatro.com/election/candidates/341609",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक सेवामा सक्रियता",
+      "date": "२०७५-०१-०१",
+      "details": "पर्साको स्थानीय स्तरमा स्वास्थ्य, शिक्षा र कृषि सिँचाइका क्षेत्रमा समुदायसँग नजिक रहेर काम गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341609",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक संगठन र अनुभव",
+      "date": "२०७०-०१-०१",
+      "details": "विभिन्न राजनीतिक संगठनहरूमा अनुभव संगालेको भए तापनि पछिल्लो समय उनले स्वतन्त्र रूपमा आफ्नो राजनीतिक यात्रा अगाडि बढाएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341609",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "वृज किशोर प्रसाद चौरसिया पर्सा जिल्लाका एक स्थानीय स्वतन्त्र राजनीतिज्ञ तथा सामाजिक अभियन्ता हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा पर्सा क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारी दिएका थिए। उनको चुनावी एजेन्डा मुख्यतया स्थानीय स्तरमा शिक्षा, स्वास्थ्य र कृषिको विकासमा केन्द्रित रहेको पाइन्छ। यद्यपि, ठूला राजनीतिक दलहरूको वर्चस्व रहेको पर्सामा उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र उनको चुनावी प्रभाव न्यून देखियो। उनी राष्ट्रिय स्तरमा खासै चर्चित छैनन् तर स्थानीय समुदायमा सामाजिक कार्यका कारण चिनिन्छन्। भ्रष्टाचार वा कुनै ठूला घोटालाहरूमा उनको नाम जोडिएको पाइएको छैन।",
+  "overall_approval_rating": 42
+}

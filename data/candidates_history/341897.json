@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341897,
+  "candidate_name": "सन्तोष सिंह",
+  "candidate_party": "मितेरी पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Horse_symbol_Nepal.svg/1200px-Horse_symbol_Nepal.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341897.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "मितेरी पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "दाङ क्षेत्र नम्बर ३ बाट मितेरी पार्टी नेपालको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उनले उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/news/santosh-singh-miteri-party-nepal-dang",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मितेरी पार्टी नेपालमा आबद्धता र सक्रियता",
+      "date": "२०७८-०५-१०",
+      "details": "परम्परागत दलहरूको विकल्पका रूपमा उदाएको मितेरी पार्टी नेपालमा आबद्ध भई उनले विचार र नैतिकताको राजनीतिको वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341897",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सामाजिक उत्तरदायित्व र नागरिक सशक्तीकरण अभियान",
+      "date": "२०७७-०२-१५",
+      "details": "स्थानीय स्तरमा नागरिकका समस्याहरू बुझ्ने र समाधानका लागि पहल गर्ने एक सामाजिक अगुवाका रूपमा दाङमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://bhugolpark.com/candidate/santosh-singh",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माध्यमिक शिक्षा पूरा",
+      "date": "२०५४-०३-२०",
+      "details": "सल्यान जिल्लाको श्री त्रिभुवन जनता माध्यमिक विद्यालयबाट उनले प्रवेशिका परीक्षा (SLC) उत्तीर्ण गरेका थिए।",
+      "link_to_source": "https://sajilopatrika.com/news/santosh-singh-miteri-party-nepal-dang",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सन्तोष सिंह दाङ जिल्लाको राजनीतिमा एक उदयमान र वैचारिक व्यक्तिका रूपमा चिनिन्छन्। मितेरी पार्टी नेपालको तर्फबाट २०७९ सालको निर्वाचनमा दाङ क्षेत्र नं. ३ बाट प्रतिस्पर्धा गरेका सिंहले 'नैतिकता र जनउत्तरदायित्व' लाई आफ्नो मुख्य राजनीतिक एजेन्डा बनाएका छन्। सल्यानमा जन्मिएर हाल दाङको तुलसीपुरमा बसोबास गर्ने उनले सीमित साधन र स्रोतका बाबजुद ठूला राजनीतिक दलहरूसँग प्रतिस्पर्धा गर्ने साहस देखाएका छन्। उनको शैक्षिक पृष्ठभूमि एसएलसीसम्म मात्र भए पनि व्यवहारिक राजनीति र सामाजिक कार्यमा उनको सक्रियता सकारात्मक देखिन्छ। यद्यपि, साना दलको प्रतिनिधित्व र निर्वाचनमा न्यून मत प्राप्त गरेका कारण राष्ट्रिय राजनीतिमा उनको प्रभाव स्थापित हुन अझै समय लाग्ने देखिन्छ। उनी विरुद्ध हालसम्म कुनै भ्रष्टाचार वा गम्भीर काण्डहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 48
+}

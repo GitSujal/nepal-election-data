@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341295,
+  "candidate_name": "भग्गु प्रसाद चौधरी थारु",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/341295.jpg",
+  "candidates_current_position": "प्रदेशसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341295.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेशसभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नम्बर १ (क)",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेशसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलवस्तु क्षेत्र नम्बर १ (क) बाट प्रदेशसभा सदस्यको रूपमा निर्वाचनमा उम्मेदवारी दिएका थारुले ६,५४० मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2fVXX6eqdsvThiQV4EEZzrpoF_Z-Go7aGN1QCXNgvF0l981xTkHny19OhaUU8hPKSHURYzvSeAaGbga6l9_jp_gk3Xw4aoVxxlY05zlsxUvILUeL2nzJziI8naiaxRcSWrOZTrk6VyRAwwWnr_1JTBpmEJfpF0WQrDGQqFpSZbHCd-Zhoo-Cr9XaPJw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा आबद्धता",
+      "date": "२०७८-१०-१९",
+      "details": "थारु समुदायको अधिकार र पहिचानको मुद्दा उठाउन भग्गु प्रसाद चौधरी थारु नागरिक उन्मुक्ति पार्टीको स्थापनाकालदेखि नै सक्रिय रहेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmVieOnIAqTILF2GifDpcuOEscf5WUbocANdpGi2w1y6lWsfwkB3l-_dtMY-szqayFgZ5LltJU3NH5gSC1ImUD0q-aMOckbT0b4WPJzRVNW-D_4NlWkefQD6-Mdu26I6k=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय थारु अधिकार आन्दोलनमा नेतृत्व",
+      "date": "२०७२-०५-०१",
+      "details": "कपिलवस्तु क्षेत्रमा थरुहट आन्दोलन र स्थानीय थारु समुदायको अधिकारका लागि विभिन्न सामाजिक र राजनीतिक गतिविधिमा संलग्न रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIhWADVthQ3KEB-PoGYAYgcr22T_3RiHn75559OZz8KgyPeVH7Ttu7X3AjwNQUyrcNI0AfIHmspbItCe6M53A2O2FGuihomexQCLOVcgDUcyjHthi8Q4jYnaRHUzeDC1GMDfneHdHFbcXL",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "भग्गु प्रसाद चौधरी थारु कपिलवस्तुका एक प्रभावशाली स्थानीय थारु नेता हुन्। उनी २०७९ को निर्वाचनमा नागरिक उन्मुक्ति पार्टीबाट प्रदेशसभाका लागि प्रतिस्पर्धा गर्दा ६,५४० मत ल्याएर आफ्नो बलियो पकड प्रमाणित गरेका थिए। उनी 'टुरिस्ट' उम्मेदवार नभई आफ्नै गृहजिल्ला कपिलवस्तुको बाणगंगा नगरपालिका क्षेत्रमा लामो समयदेखि सामाजिक र राजनीतिक रूपमा सक्रिय छन्। रेशम चौधरी नेतृत्वको पार्टीसँग आबद्ध भएसँगै उनले थारु समुदायको पहिचान र अधिकारका मुद्दाहरूलाई प्राथमिकता दिँदै आएका छन्। उनको राजनीतिक छवि स्वच्छ रहेको र हालसम्म कुनै पनि ठूला भ्रष्टाचार वा काण्डहरूमा उनको संलग्नता देखिएको छैन। आगामी निर्वाचनहरूमा उनी सो क्षेत्रमा एक मुख्य प्रतिस्पर्धीको रूपमा उदाउने सम्भावना देखिन्छ।",
+  "overall_approval_rating": 65
+}

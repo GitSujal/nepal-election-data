@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340407,
+  "candidate_name": "अर्जुन बहादुर थापा मगर",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला सदस्य, रामेछाप",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340407.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रामेछाप",
+      "constituency": "रामेछाप-१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "रामेछाप निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थापा मगर १६५ मत प्राप्त गर्दै पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-ramechhap",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंसिर ४ मा सम्पन्न हुने निर्वाचनका लागि राष्ट्रिय जनमोर्चाको तर्फबाट रामेछाप जिल्लामा प्रत्यक्षतर्फको उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता विरोधी अभियानमा सक्रियता",
+      "date": "२०७८-०३-१५",
+      "details": "राष्ट्रिय जनमोर्चाको नीति अनुसार नेपालमा संघीयता खारेज गरी एकात्मक राज्य प्रणाली कायम गर्नुपर्ने पक्षमा स्थानीय स्तरमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "http://www.rajamo.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वच्छ छवि र सक्रिय पार्टी सदस्यता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि राष्ट्रिय जनमोर्चामा आबद्ध भई जिल्ला स्तरमा निष्ठावान कार्यकर्ताको रूपमा चिनिन्छन्, उनी विरुद्ध कुनै पनि भ्रष्टाचार वा अनियमितताको आरोप लागेको छैन।",
+      "link_to_source": "https://result.election.gov.np/Images/Candidate/340407.jpg",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अर्जुन बहादुर थापा मगर राष्ट्रिय जनमोर्चाका एक निष्ठावान र वैचारिक नेता हुन्। २०७९ को आम निर्वाचनमा रामेछाप-१ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका उनी पराजित भए तापनि आफ्नो दलको सिद्धान्तमा अडिग देखिन्छन्। उनको राजनीतिक प्रभाव मुख्यतया राष्ट्रिय जनमोर्चाको आधारभूत संगठन र संघीयता विरोधी एजेन्डामा केन्द्रित छ। निर्वाचनमा उनले प्राप्त गरेको मत संख्या न्यून रहेकाले ठूला दलहरूको तुलनामा उनको चुनावी पकड कमजोर देखिन्छ। यद्यपि, उनी कुनै पनि वित्तीय वा राजनीतिक विवादमा नमुछिएकाले उनको व्यक्तिगत प्रतिष्ठा स्वच्छ छ। उनी 'टुरिस्ट' उम्मेदवार नभई रामेछापका स्थानीय बासिन्दा हुन्।",
+  "overall_approval_rating": 48
+}

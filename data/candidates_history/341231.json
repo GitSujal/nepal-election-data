@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341231,
+  "candidate_name": "राम कुमार यादव",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा उम्मेदवार",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341231.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बाँके",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सप्तरी-२ बाट उम्मेदवारी दर्ता",
+      "date": "२०८१-१०-१०",
+      "details": "उनले आफ्नो पुरानो क्षेत्र बाँके छोडेर सप्तरी क्षेत्र नं २ बाट आगामी निर्वाचनका लागि नेपाली काँग्रेसको तर्फबाट उम्मेदवारी दर्ता गराएका छन्।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/saptari-2-looks-for-new-representative-as-former-comrades-clash",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली काँग्रेसमा प्रवेश",
+      "date": "२०८०-०४-१५",
+      "details": "जनता समाजवादी पार्टीमा उचित स्थान नपाएको भन्दै उनी दलबलसहित नेपाली काँग्रेसमा प्रवेश गरेका हुन्। यसलाई उनको राजनीतिक अस्थिरताको रूपमा हेरिएको छ।",
+      "link_to_source": "https://nagariknetwork.com/news/138456/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बाँकेबाट जनता समाजवादी पार्टीको टिकटमा चुनाव लड्दा उनले मात्र २६९३ मत प्राप्त गरी लज्जास्पद हार बेहोर्नु परेको थियो।",
+      "link_to_source": "https://election.ekantipur.com/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (वगुवा प्रवृत्ति)",
+      "date": "२०८१-१०-११",
+      "details": "बाँकेमा पकड कमजोर भएपछि सुरक्षित क्षेत्रको खोजीमा सप्तरी पुगेका कारण उनलाई 'वगुवा उम्मेदवार' को ट्याग लागेको छ, जसले स्थानीय कार्यकर्तामा असन्तुष्टि पैदा गरेको छ।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/saptari-2-looks-for-new-representative-as-former-comrades-clash",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "राम कुमार यादव मधेश प्रदेशको राजनीतिमा एक अस्थिर पात्रको रूपमा चिनिन्छन्। २०७९ को निर्वाचनमा बाँकेबाट जनता समाजवादी पार्टीको उम्मेदवार भई नराम्रोसँग पराजित भएपछि उनले पार्टी परिवर्तन गरी नेपाली काँग्रेस रोजेका छन्। उनको पहिचान हाल 'वगुवा उम्मेदवार' (District Shifter) को रूपमा बनेको छ, किनकि उनले आफ्नो पुरानो निर्वाचन क्षेत्र छोडेर सप्तरी-२ मा राजनीतिक अवसर खोजेका छन्। सप्तरीमा सीके राउत र उपेन्द्र यादव जस्ता भारी वजनका नेताहरूसँगको प्रतिस्पर्धा उनका लागि चुनौतीपूर्ण देखिन्छ। बारम्बारको पार्टी र क्षेत्र परिवर्तनले गर्दा मतदातामाझ उनको विश्वसनीयता र सैद्धान्तिक निष्ठामा ठूलो प्रश्नचिह्न खडा भएको छ। स्थानीय स्तरमा बलियो संगठन नहुनु र बाहिरिया उम्मेदवारको आरोप लाग्नु उनको मुख्य कमजोरी हो।",
+  "overall_approval_rating": 25
+}

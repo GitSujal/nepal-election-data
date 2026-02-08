@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339963,
+  "candidate_name": "करबीरे कडाँरा",
+  "candidate_party": "नेपाल मानवतावादी पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Content/images/party_logo/humanist_party.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339963.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "निर्वाचन क्षेत्र नं. २ (क)",
+      "result": "पराजित",
+      "party": "नेपाल दलित पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "निर्वाचन क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल मानवतावादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कैलाली निर्वाचन क्षेत्र नं. ४ बाट नेपाल मानवतावादी पार्टीको तर्फबाट उम्मेदवारी दिएका कडाँराले थोरै मत प्राप्त गरी पराजय भोग्नुपर्यो।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दल परिवर्तन: नेपाल दलित पार्टीबाट मानवतावादी पार्टीमा प्रवेश",
+      "date": "२०७९-०६-२३",
+      "details": "पहिचान र अधिकारको मुद्दा उठाउँदै आएका कडाँराले नेपाल दलित पार्टी छोडेर नेपाल मानवतावादी पार्टीको वैचारिक धार रोजेका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "कैलाली क्षेत्र नं. २ (क) बाट प्रदेश सभाका लागि नेपाल दलित पार्टीको तर्फबाट प्रतिस्पर्धा गरेका उनले १२६ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/4414",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलित अधिकार र सामाजिक आन्दोलनमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "कैलाली जिल्लामा दलित समुदायको हकहित र सामाजिक न्यायका लागि उनले लामो समयदेखि स्थानीय स्तरमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/4414",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "करबीरे कडाँरा कैलाली जिल्लाका एक निष्ठावान तर कम चुनावी प्रभाव भएका राजनीतिकर्मी हुन्। उनले २०७४ को निर्वाचनमा नेपाल दलित पार्टीबाट र २०७९ को निर्वाचनमा नेपाल मानवतावादी पार्टीबाट चुनाव लडेका थिए। कडाँराले मुख्यतया दलित र सीमान्तकृत समुदायको प्रतिनिधित्व गर्दै आएका छन्, यद्यपि चुनावी नतिजा भने उनको पक्षमा आउन सकेको छैन। २०७९ मा उनले ठूला राजनीतिक दलहरू नेपाली कांग्रेस र नेकपा एमालेका हेभीवेट उम्मेदवारहरूसँग प्रतिस्पर्धा गरेका थिए। उनको राजनीतिक यात्राले साना दलहरू र वैचारिक राजनीति प्रतिको उनको प्रतिबद्धता देखाउँछ, तर सांगठनिक र आर्थिक अभावका कारण उनी चुनावी प्रतिस्पर्धामा निकै पछाडि देखिन्छन्।",
+  "overall_approval_rating": 38
+}

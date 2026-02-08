@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339398,
+  "candidate_name": "खुम बहादुर गाहा मगर",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mongol_National_Organisation_Flag.png/220px-Mongol_National_Organisation_Flag.png",
+  "candidates_current_position": "राजनीतिकर्मी / प्रदेश सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "दाङ जिल्ला कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339398.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "N/A",
+      "district": "दाङ",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "१ (१)",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "खुम बहादुर गाहा मगरले दाङ क्षेत्र नं. १ (१) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका थिए। उनले ६३४ मत प्राप्त गरी आठौँ स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/pradesh-sabha/district/33",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनको सक्रिय राजनीति",
+      "date": "२०७६-०१-०१",
+      "details": "गाहा मगर लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनको नीति र सिद्धान्त अनुसार दाङ जिल्लामा पहिचानको राजनीतिमा सक्रिय छन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mongol_National_Organisation",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "धर्मनिरपेक्षता र जातीय पहिचानको वकालत",
+      "date": "२०७०-०१-०१",
+      "details": "उनले नेपाललाई पूर्ण धर्मनिरपेक्ष राष्ट्र बनाउनुपर्ने र मूलबासी मंगोलहरूको अधिकार सुनिश्चित हुनुपर्ने एजेन्डामा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://macalester.edu/digitalcommons/himalaya/vol25/iss1/6/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खुम बहादुर गाहा मगर दाङ जिल्लाको स्थानीय राजनीतिमा मंगोल नेशनल अर्गनाइजेसन (MNO) को प्रतिनिधित्व गर्ने एक निष्ठावान कार्यकर्ता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा दाङ क्षेत्र नं. १ (१) बाट उम्मेदवार बनेका उनले करिब १.७ प्रतिशत मत प्राप्त गरेका थिए। उनको राजनीतिक मूल आधार जातीय पहिचान, धर्मनिरपेक्षता र मूलबासी अधिकारको वकालत गर्नु रहेको छ। निर्वाचनमा ठूलो सफलता नमिले पनि उनले आफ्नो दलको एजेन्डालाई स्थानीय स्तरमा पुर्याउन महत्वपूर्ण भूमिका खेलेका छन्। व्यक्तिगत रूपमा उनीमाथि कुनै पनि भ्रष्टाचार वा फौजदारी अभियोगहरू लागेका छैनन्, जसले गर्दा उनको छवि सफा रहेको छ। यद्यपि, प्रमुख दलहरूको तुलनामा उनको सांगठनिक पहुँच कमजोर देखिन्छ।",
+  "overall_approval_rating": 42
+}

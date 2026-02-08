@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342549,
+  "candidate_name": "जाजुल देवान",
+  "candidate_party": "नेपाल संघीय समाजवादी पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nepal_Federal_Socialist_Party_Logo.png/200px-Nepal_Federal_Socialist_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342549.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "मधेश प्रदेश सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल संघीय समाजवादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट निर्वाचन क्षेत्र १ (ख) बाट मधेश प्रदेश सभा सदस्यका लागि निर्वाचन लडेका जाजुल देवानले १,२६१ मत प्राप्त गरी चौथो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-2/district-rautahat?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विस्तारमा सक्रियता",
+      "date": "२०७३-०९-०२",
+      "details": "मोहम्मद रिजवान अन्सारीको नेतृत्वमा नेपाल संघीय समाजवादी पार्टी गठन भएदेखि नै रौतहट जिल्लामा पार्टी संगठन निर्माणमा जाजुल देवान सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/नेपाल_सङ्घीय_समाजवादी_पार्टी",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जाजुल देवान रौतहट क्षेत्र नं १ (ख) का स्थानीय राजनीतिकर्मी हुन् जसले २०७९ को प्रदेश सभा निर्वाचनमा नेपाल संघीय समाजवादी पार्टीबाट उम्मेदवारी दिएका थिए। उनले १,२६१ मत प्राप्त गरेका थिए, जुन ठूला दलहरू जस्तै नेपाली कांग्रेसको तुलनामा कम भए तापनि क्षेत्रमा उनको एक निश्चित पहिचान रहेको देखाउँछ। उनी संघीयता र पहिचानको मुद्दा उठाउने साना दलहरूसँग आबद्ध छन्। उनको राजनीतिक करियरमा अहिलेसम्म कुनै पनि ठूला भ्रष्टाचार वा विवादित स्क्यान्डलहरू देखिएका छैनन्, जसले गर्दा उनलाई स्थानीय स्तरमा एक निष्ठावान कार्यकर्ताको रूपमा हेरिने गरिन्छ। निर्वाचनमा प्राप्त मतको आधारमा उनको प्रभाव हाललाई सीमित देखिए पनि स्थानीय राजनीतिमा उनको उपस्थिति निरन्तर रहेको छ।",
+  "overall_approval_rating": 35
+}

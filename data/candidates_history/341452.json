@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341452,
+  "candidate_name": "मनोज कुमार साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र (कुनै राजनीतिक दलमा आबद्ध नरहेको)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341452.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "निर्वाचन क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "धनुषाबाट पुनः स्वतन्त्र उम्मेदवारी",
+      "date": "२०८१-१०-१५",
+      "details": "पछिल्लो निर्वाचनमा सर्लाहीबाट प्रतिस्पर्धा गरेका साहले हाल पुनः धनुषा जिल्ला रोज्दै स्वतन्त्र उम्मेदवारी दर्ता गराएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4DzCc7LgEJUzoj_bxt6kKx8BpfbDvG46n9_T_Lj6bBmEEg9xclarjtK107BHjI7brYfhSfUzf7a_pBDN1xMl8zBwQo4HO8F2GswRvfzEYWT1ZqX6o8Iwui-Vo1aUeA1k3NoNwoqPfL7zQquHXhXmbbFU0u-cdbm9qwDO-",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "सर्लाही निर्वाचन क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवार बनेका साहले कुल सदर मतको अत्यन्तै न्यून अर्थात् मात्र ३४ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbBM_aRweFhd_pXMH_9GSU0mZO1TCYb93OlBCFPbEY76HPAjIqtunP55dJEtPCF3muHHTPGfKnvPoBEJsdFVLqGJx9s7IBcmArqmP7-sdEhd-49Z1vvS_9HyOAkXGTmdhKn34TNZq1lpQwNIkgw0PTV_WY14byUIpOATFblrAL",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा धनुषाबाट प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारका रूपमा निर्वाचन लडेका उनले १०१ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzpE23OHmi2Kfwkn2ES0xwEBs7bmK6IirhLSNA9JG4Vu7QtMkaBy882k4hTuQ1a-NhjJC-5mFZjNLPD1caF00SAuOzHdu2b1jGFXr5lC0b5xqKYAfa3zaPhdqcmvBflRghjwj8u7udk4M6eoyboKtn4QBPnUQZ8z5AvLVyRDo7iYfzQY54",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जन्म र पारिवारिक पृष्ठभूमि",
+      "date": "२०३५-०७-१२",
+      "details": "धनुषा जिल्लाको स्थायी बासिन्दाका रूपमा राम वृक्ष साहको छोराको रूपमा उनको जन्म भएको हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4DzCc7LgEJUzoj_bxt6kKx8BpfbDvG46n9_T_Lj6bBmEEg9xclarjtK107BHjI7brYfhSfUzf7a_pBDN1xMl8zBwQo4HO8F2GswRvfzEYWT1ZqX6o8Iwui-Vo1aUeA1k3NoNwoqPfL7zQquHXhXmbbFU0u-cdbm9qwDO-",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मनोज कुमार साह एक 'बगुवा' (Vaguwa) उम्मेदवार हुन्, जो निरन्तर आफ्नो चुनावी क्षेत्र परिवर्तन गरिरहेका छन्। उनले २०७४ को निर्वाचनमा धनुषा क्षेत्र नं. ४ बाट प्रतिस्पर्धा गर्दा मात्र १०१ मत प्राप्त गरेका थिए भने २०७९ मा सर्लाही क्षेत्र नं. २ मा पुगेर ३४ मत मात्रै समेट्न सफल भए। यसपटक उनी पुनः धनुषा फर्किएर स्वतन्त्र उम्मेदवारी दिएका छन्। उनको चुनावी इतिहासले उनलाई कुनै निश्चित क्षेत्रमा पकड नभएको र अत्यन्तै न्यून जनसमर्थन भएको उम्मेदवारका रूपमा देखाउँछ। राजनीतिक अस्थिरता र प्रभावहीन चुनावी प्रदर्शनका कारण उनको साख कमजोर देखिन्छ। मतदातामाझ उनको पहिचान एक गम्भीर प्रतिस्पर्धी भन्दा पनि चुनावी प्रक्रियामा सहभागी हुने पात्रका रूपमा मात्रै रहेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 8
+}

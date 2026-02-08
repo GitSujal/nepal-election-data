@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340165,
+  "candidate_name": "मुहम्मद वकील मुसलमान",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CPN-Unified-Socialist-Logo.png/200px-CPN-Unified-Socialist-Logo.png",
+  "candidates_current_position": "पूर्व सहायक मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340165.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही क्षेत्र नं. ४ बाट नेकपा (एकीकृत समाजवादी) को उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दा पराजित।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा प्रवेश",
+      "date": "२०७८-०५-०९",
+      "details": "एमाले विभाजनपछि माधव कुमार नेपाल नेतृत्वको एकीकृत समाजवादी पार्टीमा आबद्ध भई रुपन्देहीमा संगठन विस्तारमा सक्रिय।",
+      "link_to_source": "https://ekantipur.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ निर्वाचनमा सम्मानजनक मत",
+      "date": "२०७४-०८-२१",
+      "details": "संघीय समाजवादी फोरमबाट चुनाव लड्दा १४,१२१ मत प्राप्त गरे पनि नेपाली कांग्रेसका प्रमोद कुमार यादवसँग पराजित।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेसी जनअधिकार फोरम (लोकतान्त्रिक) मा आबद्धता",
+      "date": "२०७०-०७-०१",
+      "details": "विजय कुमार गच्छदार नेतृत्वको फोरम लोकतान्त्रिकमा सक्रिय भूमिका निर्वाह गर्दै मधेस आन्दोलनका मुद्दाहरू उठाएको।",
+      "link_to_source": "https://ratopati.com",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सहायक मन्त्रीमा नियुक्ति",
+      "date": "२०६८-०५-१८",
+      "details": "झलनाथ खनाल नेतृत्वको सरकारमा भूमिसुधार तथा व्यवस्था सहायक मन्त्रीको रूपमा जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://nepal.gov.np",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मुहम्मद वकील मुसलमान रुपन्देहीका एक अनुभवी राजनीतिज्ञ हुन्, जसको मुख्य प्रभाव मुस्लिम र मधेसी समुदायमा रहेको छ। उनले आफ्नो राजनीतिक जीवनमा धेरै पटक पार्टी परिवर्तन गरेका छन्, जसलाई स्थानीय स्तरमा 'वागुवा' प्रवृत्तिको रूपमा हेरिन्छ। भूमिसुधार सहायक मन्त्री भइसकेका मुसलमान २०७४ र २०७९ का दुवै निर्वाचनमा पराजित भए। उनको बारम्बारको पार्टी परिवर्तन (फोरम लोकतान्त्रिक देखि एकीकृत समाजवादीसम्म) ले गर्दा मतदातामाझ उनको विश्वसनीयतामा केही ह्रास आएको देखिन्छ। यद्यपि, रुपन्देही ४ मा उनको एउटा निश्चित मत बैंक भने कायमै छ। निर्वाचनमा विजय प्राप्त गर्न उनलाई आफ्नो सांगठनिक अस्थिरता सुधार्नु पर्ने चुनौती रहेको छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341848,
+  "candidate_name": "सीता देवी साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341848.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम घोषणा",
+      "date": "२०७९-०८-०८",
+      "details": "धनुषा क्षेत्र नं. ३ बाट प्रतिनिधि सभा निर्वाचनमा पराजित। उनले कूल १३९ मत प्राप्त गरेकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "धनुषा निर्वाचन क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सीता देवी साह धनुषा क्षेत्र नं. ३ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा चुनावी मैदानमा उत्रिएकी थिइन्। उनले उक्त निर्वाचनमा मात्र १३९ मत प्राप्त गरिन्, जसले उनको स्थानीय स्तरमा सांगठनिक पकड र जनमत निकै कमजोर रहेको देखाउँछ। उनी एक साधारण नागरिकको रूपमा स्वतन्त्र उम्मेदवारी दिएकी महिला राजनीतिज्ञ हुन्। उनको कुनै ठूलो राजनीतिक पृष्ठभूमि वा दलगत संलग्नताको इतिहास भेटिएको छैन। मुख्य दलका हेभीवेट उम्मेदवारहरूबीच उनको उपस्थिति सामान्य मात्र रह्यो। हालसम्म उनी कुनै पनि सार्वजनिक वा लाभको पदमा पुगेको र कुनै पनि विवादमा मुछिएको आधिकारिक जानकारी छैन।",
+  "overall_approval_rating": 30
+}

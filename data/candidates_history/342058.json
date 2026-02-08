@@ -1,0 +1,79 @@
+{
+  "candidate_id": 342058,
+  "candidate_name": "कृष्ण कुमार चौधरी",
+  "candidate_party": "सार्वभौम नागरिक पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिज्ञ / पूर्व संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342058.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं ३",
+      "result": "N/A",
+      "party": "N/A"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (वागुवा उम्मेदवार)",
+      "date": "२०८१-०१-१५",
+      "details": "लामो समय कैलालीलाई राजनीतिक आधार बनाएका चौधरीले अचानक सुनसरी जिल्लाबाट उम्मेदवारी दर्ता गराएका छन्। यसलाई राजनीतिक वृत्तमा 'वागुवा' (आफ्नो क्षेत्र छाडेर भागेको) उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342058",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सार्वभौम नागरिक पार्टीमा प्रवेश",
+      "date": "२०८०-१०-२०",
+      "details": "माओवादी केन्द्रमा आफ्नो भविष्य सुरक्षित नदेखेपछि उनले पार्टी परित्याग गरी नयाँ गठन भएको सार्वभौम नागरिक पार्टीमा प्रवेश गरेका हुन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342058",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "कैलाली क्षेत्र नं ३ बाट माओवादी केन्द्रको उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा उनले १७,७४९ मत प्राप्त गरे पनि नागरिक उन्मुक्ति पार्टीका गङ्गा राम चौधरीसँग पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzEBglc1sAd3v0FaCYrQWn2De-xnLLRl7LbwPq3XOVuCcq6ZkYqgOmL72rFwdB4nDHCEfFHFVD0JLeO53egt5xSXaygroYp8xKd6bYqqN6zalCg14BRo72fWfertEKAR182LjLtSImKdf-hk8-QwxFi8FeqvezH_CbT8ebgLwvBrSXdgjm7tA=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी केन्द्रमा पुनरागमन",
+      "date": "२०७९-०५-१०",
+      "details": "नयाँ शक्ति र जनता समाजवादी पार्टी (जसपा) मा केही समय बिताएपछि उनी २०७९ को निर्वाचनअघि पुन: माओवादी केन्द्रमा फर्किएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeOKn6-y5w_dfUxMprXO2aFu3lBzvantOhB_eyRri6mbPsMVG__pMeFSvP-cUjqvnDqT0MAJaKl4HBQJXM9p85gUB0bI1CkBBkTZD67ur7zzpYFJ-fHVpcpmZfxhE4IWB62iA=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा निर्वाचित",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा कैलाली निर्वाचन क्षेत्र नं ३ बाट तत्कालीन नेकपा (माओवादी) का तर्फबाट भारी मतका साथ विजयी भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGchS25kYXWYoWzk_X-Sq7jm8aywcLhVBswLTAv_UQW2a-NDps-X9lwAOY8wklImILDFn15p_QjVBJMTG1AJLUQvxv3Cn61agaZUzCBXFiMkzv7YBgXMBlfWfWAxm9Hwpqc0_iX_ZijJdR8bWOEIEyGfBwn1qexIVj-",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कृष्ण कुमार चौधरी थारु समुदायका एक अनुभवी तर राजनीतिक रूपमा अस्थिर नेता हुन्। माओवादी आन्दोलनबाट राजनीतिक उचाई प्राप्त गरेका उनी पछिल्लो समय बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण आलोचित छन्। २०७९ को निर्वाचनमा आफ्नो पुरानो गढ कैलालीमा लज्जास्पद पराजय भोगेपछि उनले सुदूरपश्चिम छाडेर पूर्वी नेपालको सुनसरी जिल्ला रोज्नुलाई राजनीतिक पलायनको रूपमा हेरिएको छ। 'वागुवा' (Vaguwa) उम्मेदवारको ट्याग लागेका कारण उनलाई सुनसरीका स्थानीय मतदाताको विश्वास जित्न निकै कठिन हुने देखिन्छ। कैलालीमा नागरिक उन्मुक्ति पार्टीको उदयसँगै उनको राजनीतिक सान्दर्भिकता कमजोर हुँदै गएको र नयाँ पार्टीमार्फत आफ्नो अस्तित्व जोगाउने प्रयासमा उनी लागेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 30
+}

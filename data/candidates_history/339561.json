@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339561,
+  "candidate_name": "सकुन्तला श्रेष्‍ठ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mongol_National_Organization_flag.png",
+  "candidates_current_position": "सक्रिय राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339561.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "नगर उप-प्रमुख (उपाध्यक्ष)",
+      "district": "मोरङ",
+      "constituency": "सुनवर्षी नगरपालिका",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "निर्वाचन क्षेत्र २ (क)",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा मोरङ निर्वाचन क्षेत्र नम्बर २ (क) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचनमा सहभागिता",
+      "date": "२०७९-०१-३०",
+      "details": "सुनवर्षी नगरपालिकाको उपाध्यक्ष पदमा चुनाव लडेकी उनले १७२ मत प्राप्त गरेकी थिइन्।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-morang/sunwarshi?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल पहिचानको वकालत",
+      "date": "२०७८-१०-१५",
+      "details": "मंगोल नेशनल अर्गनाइजेसनमा आबद्ध भई उनले पूर्वी नेपालमा मंगोल समुदायको हकहित र धर्मनिरपेक्षताका लागि निरन्तर काम गर्दै आएकी छिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKfC9TKN3irR5wikzEBwHiyt7hri488kpSc5dWRO25B7aSm0AlPAfeJys3FT_aLDA-ls5qCSvFK2LagNtuL8RlT93_ad70lasqv-BWl6q04ImKTa6tQzSzGnoOtmQo",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सकुन्तला श्रेष्ठ मोरङको सुनवर्षी क्षेत्रमा सक्रिय मंगोल नेशनल अर्गनाइजेसन (MNO) की एक जुझारु नेतृ हुन्। उनले २०७९ सालमा सम्पन्न स्थानीय र प्रदेश सभा दुवै तहका निर्वाचनमा सोही पार्टीबाट उम्मेदवारी दिएर आफ्नो राजनीतिक सक्रियता देखाएकी छिन्। विशेषगरी सुनवर्षी नगरपालिकामा उनले प्राप्त गरेको १७२ मतले त्यस क्षेत्रमा MNO को आधारभूत उपस्थितिलाई संकेत गर्दछ। उनका श्रीमान रविन्द्र कुमार श्रेष्ठ पनि सोही पार्टीका नेता हुन्, जसले गर्दा उनीहरूको राजनीतिक यात्रा पारिवारिक रूपमै जातीय पहिचान र अधिकारको मुद्दामा समर्पित देखिन्छ। ठूला दलहरूको वर्चस्व रहेको मोरङमा उनले चुनावी सफलता हात पार्न नसके पनि सीमान्तकृत समुदायको प्रतिनिधित्व गर्ने क्रम जारी राखेकी छिन्। हालसम्म उनी कुनै पनि आर्थिक वा नैतिक विवादमा परेकी छैनन्, जसले उनको व्यक्तिगत छविलाई स्वच्छ राखेको छ।",
+  "overall_approval_rating": 43
+}

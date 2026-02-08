@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341093,
+  "candidate_name": "गणेश पौडेल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य (प्रस्तावित/साझा समूह)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341093.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रौतहट क्षेत्र नं ४ बाट उम्मेदवारी घोषणा",
+      "date": "२०८०-०९-१५",
+      "details": "रुपन्देही छोडेर रौतहट क्षेत्र नं ४ बाट प्रतिनिधि सभाका लागि निर्वाचन लड्ने घोषणा गर्दै चुनावी अभियान सुरु।",
+      "link_to_source": "https://setokhabar.com/2024/02/01/21689/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा कडा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही-२ मा नेकपा एमालेका उपाध्यक्ष विष्णु पौडेलसँग मात्र १३६६ मतान्तरले पराजित हुँदै २५,७९५ मत प्राप्त।",
+      "link_to_source": "https://nepalnews.com/s/politics/uml-s-bishnu-prasad-paudel-wins-from-rupandehi-2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०४-२५",
+      "details": "वैकल्पिक राजनीतिको एजेन्डासहित रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भई निर्वाचनमा होमिएको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rastriya_Swatantra_Party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीको सक्रियता",
+      "date": "२०७४-०७-१०",
+      "details": "विवेकशील साझा र साझा पार्टीको स्थापनाकालदेखि नै सक्रिय रहँदै वैकल्पिक राजनीतिको जग बसाल्न भूमिका खेलेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bibeksheel_Sajha_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता र बौद्धिक छवि",
+      "date": "२०७०-०१-०१",
+      "details": "दुई फरक विषयमा स्नातकोत्तर हासिल गरेका पौडेललाई रास्वपाभित्र अध्ययनशील र बौद्धिक उम्मेदवारका रूपमा हेरिन्छ।",
+      "link_to_source": "https://setokhabar.com/2024/02/01/21689/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गणेश पौडेल राष्ट्रिय स्वतन्त्र पार्टीका एक प्रभावशाली र बौद्धिक छवि भएका नेता हुन्। २०७९ को निर्वाचनमा रुपन्देही क्षेत्र नं २ मा उनले एमालेका हेभीवेट नेता विष्णु पौडेललाई कडा टक्कर दिँदै २५,७९५ मत प्राप्त गरेका थिए, जुन उनको बलियो जनमतको प्रमाण हो। तर, हाल उनले आफ्नो निर्वाचन क्षेत्र परिवर्तन गरी रौतहट-४ मा सरेका छन्, जसले उनलाई 'वागुवा' उम्मेदवारको ट्याग दिलाएको छ। यस क्षेत्र परिवर्तनले गर्दा स्थानीय स्तरमा उनको पकड र कार्यकर्ताको विश्वासमा केही चुनौती थपिन सक्छ। यद्यपि, उनको सुशासन र शिक्षा सुधारको एजेन्डाले युवा मतदाताहरूमाझ सकारात्मक सन्देश प्रवाह गरेको छ। रुपन्देहीमा प्राप्त गरेको उल्लेख्य मतलाई रौतहटमा परिणत गर्न सक्नु नै उनको आगामी राजनीतिक भविष्यको कडी हुनेछ।",
+  "overall_approval_rating": 72
+}

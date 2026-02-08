@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341480,
+  "candidate_name": "हरि माया महतो",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nagarik_Unmukti_Party_Logo.png/200px-Nagarik_Unmukti_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341480.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "हरि माया महतोले चितवन क्षेत्र नं ३ बाट नागरिक उन्मुक्ति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि निर्वाचन लडेकी थिइन्। उनले यस क्षेत्रका स्थापित नेताहरूसँग प्रतिस्पर्धा गरेकी थिइन्।",
+      "link_to_source": "https://nepalelection.live/candidates/341480/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "उनले चितवन ३ बाट आफ्नो मनोनयन दर्ता गराउँदै थारु समुदाय र पहिचानको मुद्दालाई अगाडि सारेकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1213456",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा आबद्धता",
+      "date": "२०७८-०९-१९",
+      "details": "रेशम चौधरीको नेतृत्वमा गठन भएको नागरिक उन्मुक्ति पार्टीमा आबद्ध भई उनले चितवन क्षेत्रमा थारु समुदायको हकहितका लागि राजनीतिक सक्रियता बढाएकी थिइन्।",
+      "link_to_source": "https://nepsebajar.com/political-party/nagarik-unmukti-party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरि माया महतो चितवन जिल्लाको स्थानीय राजनीतिमा सक्रिय एक थारु महिला नेतृ हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा चितवन क्षेत्र नं ३ बाट नागरिक उन्मुक्ति पार्टीको उम्मेदवार बनेर आफ्नो राजनीतिक परिचय स्थापित गरिन्। यो क्षेत्रमा पुष्पकमल दाहाल 'प्रचण्ड' जस्ता शीर्ष नेताहरूले चुनाव लडिसकेको र विक्रम पाण्डे जस्ता प्रभावशाली नेताको पकड रहेको अवस्थामा पनि उनले पहिचानको राजनीतिलाई अगाडि बढाइन्। यद्यपि उनले उल्लेखनीय मत प्राप्त गर्न सकिनन्, तर उनलाई चितवनमा नागरिक उन्मुक्ति पार्टीको विस्तारमा महत्त्वपूर्ण पात्रको रूपमा हेरिन्छ। स्रोतका अनुसार उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय मुद्दाहरूमा केन्द्रित रहने नेता हुन्।",
+  "overall_approval_rating": 45
+}

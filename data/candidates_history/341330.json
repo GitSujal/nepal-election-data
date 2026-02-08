@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341330,
+  "candidate_name": "राम नारायण थारु",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व नगर प्रमुख, बुद्धभूमि नगरपालिका",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिज्ञ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341330.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "नगर प्रमुख (मेयर)",
+      "district": "कपिलबस्तु",
+      "constituency": "बुद्धभूमि नगरपालिका",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "निर्वाचन क्षेत्र २ (ख)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नेकपा एमालेबाट टिकट नपाएपछि उनले कपिलबस्तु २(ख) बाट स्वतन्त्र उम्मेदवारी दिएका थिए, जसमा उनी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341330",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नगर प्रमुखको कार्यकाल सम्पन्न",
+      "date": "२०७९-०२-०५",
+      "details": "बुद्धभूमि नगरपालिकाको पहिलो निर्वाचित नगर प्रमुखको रूपमा ५ वर्षे कार्यकाल सफलतापूर्वक सम्पन्न गरे।",
+      "link_to_source": "https://buddhabhumimun.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बुद्धभूमि नगरपालिकाको नगर प्रमुखमा निर्वाचित",
+      "date": "२०७४-०३-१४",
+      "details": "नेकपा एमालेको तर्फबाट ८,२०३ मत प्राप्त गर्दै बुद्धभूमि नगरपालिकाको पहिलो नगर प्रमुखमा विजयी भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-5/district-kapilvastu/buddhabhumi?lng=ne",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पूर्वाधार विकासमा सक्रियता",
+      "date": "२०७६-१०-१५",
+      "details": "नगर प्रमुख हुँदा बुद्धभूमि नगरपालिकामा सडक सञ्जाल विस्तार र चक्रपथ निर्माणको योजना अघि सारेका थिए।",
+      "link_to_source": "https://deshsanchar.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले परित्यागको निर्णय",
+      "date": "२०७९-०६-२३",
+      "details": "पार्टीले अन्य नेतालाई टिकट दिएपछि असन्तुष्टि जनाउँदै एमाले परित्याग गरी स्वतन्त्र चुनाव लड्ने घोषणा गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "राम नारायण थारु कपिलबस्तुका एक प्रभावशाली स्थानीय नेता हुन्। २०७४ को स्थानीय तह निर्वाचनमा नेकपा एमालेबाट बुद्धभूमि नगरपालिकाको नगर प्रमुखमा निर्वाचित भएर उनले स्थानीय राजनीतिमा बलियो पकड बनाएका थिए। थारु समुदायमा उनको लोकप्रियता राम्रो भए पनि २०७९ को प्रदेश सभा निर्वाचनमा पार्टीले टिकट नदिएपछि स्वतन्त्र उम्मेदवारी दिनु उनको राजनीतिक करियरको चुनौतीपूर्ण मोड रह्यो। उनले नगर प्रमुख रहँदा सडक र प्रशासनिक भवन निर्माण जस्ता कार्यमा ध्यान दिएका थिए। यद्यपि, स्वतन्त्र रूपमा चुनाव लड्दा दलीय संयन्त्रको अभावमा उनी पराजित हुन पुगे। उनको राजनीतिक भविष्य अब उनी पुनः कुनै दलमा आबद्ध हुन्छन् वा स्वतन्त्र रूपमै अघि बढ्छन् भन्नेमा निर्भर गर्दछ।",
+  "overall_approval_rating": 65
+}

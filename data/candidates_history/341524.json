@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341524,
+  "candidate_name": "आनन्द कार्की",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र नागरिक",
+  "candidates_current_position_in_party": "लागू नहुने (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341524.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "भक्तपुर २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "भक्तपुर निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका कार्कीले जम्मा ८२ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGGLOC9mDXcLLWwIn66w1MkHFjaUHO4FtvtjlADz-UdcuTfbzspEN2gtFZ84uybgFFiDUIzZRb5wFaUuc0Yfu-McTfA6XihB9OBrKcV8yRBQgCJ2OPZXgLH4rn6o7pFTlHBN-OYs2tSvJTbgBJ2IBHBOW-nV8yIfcUtcKKlGmaibwkm1zvxQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "भक्तपुर-२ बाट स्वतन्त्र उम्मेदवारको रूपमा उनले आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnleh-gEhJMH2SRGgLfMaQWXdXl4wHTpD3iNw44QW3zc6Q48aWHn4nQxo71ndQfUYMvyi74sNRtyHdpi5gdDyLYX84lKyir1LhhcGd86dYaztoP5fJbLJEW4rvB62h-Olpgt_YBle77mkOneLiekJOTWuy7dmvkD3AqBlt1hA=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "आनन्द कार्की भक्तपुर क्षेत्र नम्बर २ का एक न्यून प्रभाव भएका स्वतन्त्र उम्मेदवार हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले केवल ८२ मत प्राप्त गरेका थिए, जसले उनको चुनावी जनाधार अत्यन्तै कमजोर रहेको पुष्टि गर्छ। उनी कुनै स्थापित राजनीतिक दलमा आबद्ध नभई स्वतन्त्र रूपमा चुनावी मैदानमा होमिएका थिए। उनको विरुद्धमा कुनै ठूला भ्रष्टाचार वा काण्डका घटनाहरू सार्वजनिक भएका छैनन्, तर राजनीतिक र सामाजिक क्षेत्रमा उनको उपस्थिति र प्रभाव न्यून देखिन्छ। उनले मुख्यतया स्थानीय मुद्दाहरूलाई उठाउन खोजे पनि मतदाताहरूको ध्यान आकर्षित गर्न असफल रहे। समग्रमा, उनी एक 'लो-प्रोफाइल' स्वतन्त्र उम्मेदवारको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 15
+}

@@ -76,6 +76,7 @@ export interface Candidate extends BaseCandidate {
   prev_election_total_voters: number
   prev_qualification: string | null
   prev_qualification_level: string | null
+  prev_winner_votes: number | null
   prev_runner_up_votes: number | null
 
   // 2074 Election data
@@ -89,6 +90,7 @@ export interface Candidate extends BaseCandidate {
   prev_2074_election_constituency_id: string | null
   prev_2074_election_casted_vote: number | null
   prev_2074_election_total_voters: number
+  prev_2074_winner_votes: number | null
   prev_2074_runner_up_votes: number | null
 
   // Minister history from political profile

@@ -1,0 +1,79 @@
+{
+  "candidate_id": 341100,
+  "candidate_name": "सपना राजभण्डारी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_the_Nepali_Congress.svg/1200px-Flag_of_the_Nepali_Congress.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341100.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+      "district": "केन्द्र",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ८",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सांस्कृतिक सम्पदा संरक्षणमा जोड",
+      "date": "२०८०-०७-२१",
+      "details": "संसदमा बोल्दै काठमाडौंका विश्व सम्पदा सूचीमा रहेका स्थलहरू, विशेषगरी हनुमानढोका र स्वयम्भू क्षेत्रको संरक्षणका लागि बजेट र योजनाको माग।",
+      "link_to_source": "https://risingnepaldaily.com/news/35017",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यको रूपमा शपथ",
+      "date": "२०७९-०९-०७",
+      "details": "नेपाली काँग्रेसको तर्फबाट आदिवासी जनजाति कोटा अन्तर्गत समानुपातिक निर्वाचन प्रणालीबाट निर्वाचित भई पद तथा गोपनीयताको शपथ ग्रहण।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Sapana_Rajbhandari",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचनमा पराजित",
+      "date": "२०७९-०८-०८",
+      "details": "काठमाडौं क्षेत्र नं. ८ बाट प्रतिनिधिसभाको प्रत्यक्ष निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टीका विराजभक्त श्रेष्ठसँग पराजित।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/02/1258688",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा उम्मेदवार मनोनयन",
+      "date": "२०७९-०६-२३",
+      "details": "स्वर्गीय नवीन्द्रराज जोशीको राजनीतिक विरासत जोगाउन भन्दै काठमाडौं क्षेत्र नं. ८ बाट नेपाली काँग्रेसको उम्मेदवारका रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://www.onlinepana.com/2022/11/04/10452/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नवीन्द्रराज जोशीको निधन",
+      "date": "२०७७-१२-१३",
+      "details": "पति तथा प्रभावशाली कांग्रेस नेता नवीन्द्रराज जोशीको असामयिक निधनपछि उनी सक्रिय चुनावी राजनीतिमा सहभागी हुन थालेकी हुन्।",
+      "link_to_source": "https://enewspolar.com/politics-is-service-towards-society-and-people-president-paudel/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०४६-०१-०१",
+      "details": "विद्यार्थी कालदेखि नै नेपाल विद्यार्थी संघमा आबद्ध भई काठमाडौं जिल्लामा पार्टी संगठन विस्तारमा सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://risingnepaldaily.com/news/35017",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सपना राजभण्डारी जोशी नेपाली काँग्रेसका निष्ठावान नेता स्वर्गीय नवीन्द्रराज जोशीको राजनीतिक विरासतलाई अगाडि बढाउने प्रमुख पात्र हुन्। २०७९ को आम निर्वाचनमा काठमाडौं क्षेत्र नं. ८ बाट प्रत्यक्षतर्फ पराजित भए तापनि पार्टीले उनलाई समानुपातिक सूचीमार्फत प्रतिनिधिसभामा पुऱ्याएको छ। उनी विशेषगरी काठमाडौंका सांस्कृतिक सम्पदाको संरक्षण र स्थानीय समस्या समाधानमा केन्द्रित देखिन्छिन्। उनको राजनीतिक पृष्ठभूमि विद्यार्थी कालदेखिकै भए पनि सक्रिय चुनावी राजनीतिमा पतिको निधनपछि मात्र होमिएकी हुन्। उनको स्वच्छ छवि र जोशी परिवारको विरासतले उनलाई राजनीतिमा बलियो आधार प्रदान गरेको छ, यद्यपि शहरी क्षेत्रमा नयाँ राजनीतिक दलको उदयले उनलाई प्रत्यक्ष निर्वाचनमा ठूलो चुनौती थपेको छ।",
+  "overall_approval_rating": 75
+}

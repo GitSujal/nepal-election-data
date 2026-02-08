@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341238,
+  "candidate_name": "पुष्पा कुमारी चौधरी",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rastriya_Swatantra_Party_Logo.svg",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341238.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी क्षेत्र नं. १ बाट राष्ट्रिय स्वतन्त्र पार्टीको उम्मेदवारको रूपमा चुनाव लडेकी उनले पराजय भोग्नुपर्यो।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-saptari?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "उनले राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट सप्तरी-१ मा प्रत्यक्ष तर्फको उम्मेदवारी दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1202816",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्धता",
+      "date": "२०७९-०३-०७",
+      "details": "विवेकशील साझा पार्टी परित्याग गरी उनी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेकी हुन्।",
+      "link_to_source": "https://setopati.com/politics/287396",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "वैकल्पिक राजनीतिको प्रवर्द्धन",
+      "date": "२०७४-११-१०",
+      "details": "मधेस क्षेत्रमा साझा र विवेकशील साझा पार्टीमार्फत नयाँ राजनीतिक धार स्थापना गर्न सक्रिय भूमिका निर्वाह गरिन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/03/1443423",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पुष्पा कुमारी चौधरी सप्तरीको राजनीतिमा वैकल्पिक शक्तिको खोजी गर्ने एक सक्रिय महिला पात्र हुन्। उनी लामो समयदेखि साझा पार्टी र विवेकशील साझा पार्टीमा रहेर मधेसको राजनीतिमा परम्परागत शक्तिहरू विरुद्ध नयाँ विचारका साथ लागेकी थिइन्। २०७९ को निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट सप्तरी क्षेत्र नं. १ मा उम्मेदवारी दिनुले मधेसको राजनीतिमा वैकल्पिक शक्तिको प्रवेशलाई संकेत गर्दछ। यद्यपि उनले निर्वाचनमा सफलता प्राप्त गर्न सकिनन्, तर एक महिला र नयाँ दलको प्रतिनिधिका रूपमा उनको सक्रियता प्रशंसनीय छ। उनको अहिलेसम्म कुनै पनि भ्रष्टाचार वा विवादमा संलग्नता नदेखिनुले उनको छवि स्वच्छ रहेको पुष्टि गर्दछ। मधेसका स्थापित दलहरूसँग प्रतिस्पर्धा गर्नु उनका लागि मुख्य चुनौती देखिन्छ।",
+  "overall_approval_rating": 65
+}

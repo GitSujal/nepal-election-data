@@ -1,0 +1,79 @@
+{
+  "candidate_id": 341859,
+  "candidate_name": "गोरख बहादुर विष्ट",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Logo.png",
+  "candidates_current_position": "पूर्व आमन्त्रित केन्द्रीय सदस्य, नेपाली कांग्रेस",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341859.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं. २ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कैलाली निर्वाचन क्षेत्र नं. २ (ख) बाट प्रदेश सभा सदस्यका लागि नेपाली कांग्रेसको तर्फबाट चुनाव लडेका विष्टले ११,५३० मत प्राप्त गरे पनि एमाले उम्मेदवारसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-2079/kailali-2?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आमन्त्रित केन्द्रीय सदस्यको जिम्मेवारी",
+      "date": "२०७८-०८-२४",
+      "details": "नेपाली कांग्रेसको १४औँ महाधिवेशन पश्चात् प्रवासको संगठनमा पुर्‍याएको योगदानको कदर गर्दै पार्टीले उनलाई आमन्त्रित केन्द्रीय सदस्यमा मनोनीत गरेको थियो।",
+      "link_to_source": "https://nepalmanch.com/2026/02/03/99547/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली जनसम्पर्क समिति अमेरिकाको सभापति",
+      "date": "२०७२-०६-१०",
+      "details": "प्रवासमा नेपाली कांग्रेसको संगठनलाई बलियो बनाउन उनले नेपाली जनसम्पर्क समिति अमेरिकाको सभापतिका रूपमा नेतृत्वदायी भूमिका खेलेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFijdTmRgOBhRX_Bu6ubBKPO62PRSRwxYOd6tOvRuzo7xjKrI_ivkqOpS2U67FZ9MMSjumDwnGR6PUu8sO0mY8eeSfH4uDM69rgilYZWyg-eA5JCJ8HyEnQe8U_ItlzDtPojQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोभिड-१९ राहत कार्य",
+      "date": "२०७७-०२-१५",
+      "details": "कोरोना महामारीको समयमा अमेरिकामा रहेका नेपाली विद्यार्थी र अलपत्र नेपालीहरूको उद्धार तथा राहतका लागि उनले सक्रिय समन्वय गरेका थिए।",
+      "link_to_source": "https://nepalmanch.com/2026/02/03/99547/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महाभूकम्पमा राहत संकलन",
+      "date": "२०७२-०१-१५",
+      "details": "२०७२ को भूकम्पपछि अमेरिकामा रहेका नेपाली समुदायबाट ठूलो परिमाणमा आर्थिक र भौतिक राहत संकलन गरी नेपाल पठाउने कार्यको नेतृत्व गरे।",
+      "link_to_source": "https://nepalmanch.com/2026/02/03/99547/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सामाजिक सेवा (एम्बुलेन्स वितरण)",
+      "date": "२०७५-०५-२०",
+      "details": "आफ्नो जन्मभूमि डोटीको स्वास्थ्य सेवामा सुधार ल्याउन उनले व्यक्तिगत तथा संस्थागत पहलमा एम्बुलेन्स सहयोग प्रदान गरेका थिए।",
+      "link_to_source": "https://nepalmanch.com/2026/02/03/99547/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विद्यार्थी राजनीतिमा प्रवेश",
+      "date": "२०४५-१०-१५",
+      "details": "कैलाली बहुमुखी क्याम्पसबाट नेपाल विद्यार्थी संघको इकाई अध्यक्षका रूपमा उनले आफ्नो सक्रिय राजनीतिक यात्राको थालनी गरेका थिए।",
+      "link_to_source": "https://nepalmanch.com/2026/02/03/99547/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गोरख बहादुर विष्ट 'आनन्द' नेपाली कांग्रेसका एक निष्ठावान र बौद्धिक छवि भएका नेता हुन्। उनको राजनीतिक जीवनको लामो समय प्रवासमा व्यतित भए तापनि उनले नेपाली जनसम्पर्क समिति अमेरिकाको सभापतिका रूपमा नेपाली कांग्रेसको अन्तर्राष्ट्रिय सञ्जाल विस्तारमा उल्लेख्य योगदान दिएका छन्। २०७९ को निर्वाचनमा कैलाली २ (ख) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गर्दा उनले सम्मानजनक मत पाए पनि पराजित हुनुपर्‍यो। उनी कुनै पनि ठूला भ्रष्टाचार काण्डमा नमुछिएका र पार्टीभित्र 'क्लिन' छवि भएका नेताका रूपमा चिनिन्छन्। प्रवासबाट फर्केर स्थानीय राजनीतिमा सक्रिय भएकाले उनलाई कतिपयले 'टुरिस्ट' उम्मेदवारका रूपमा चित्रण गर्न खोजे पनि उनको सामाजिक कार्य र ४ दशक लामो राजनीतिक लगावका कारण स्थानीय कार्यकर्तामा उनको राम्रो पकड छ।",
+  "overall_approval_rating": 72
+}

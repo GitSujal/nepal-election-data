@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340196,
+  "candidate_name": "झनक प्याकुरेल",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_the_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340196.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय प्रजातन्त्र पार्टीको केन्द्रीय सदस्यमा मनोनित",
+      "date": "२०७८-०९-२०",
+      "details": "राप्रपा अध्यक्ष राजेन्द्र लिङ्देनले पार्टी विधान बमोजिम झनक प्याकुरेललाई केन्द्रीय कार्यसमिति सदस्यमा मनोनित गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/01/1058229",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नुवाकोट क्षेत्र नं २ बाट राप्रपाको तर्फबाट उम्मेदवारी दिएका प्याकुरेलले १,५७१ मत प्राप्त गरी चौथो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपाका विभिन्न घटकहरूको एकीकरणमा सहभागिता",
+      "date": "२०७७-०१-२४",
+      "details": "राप्रपा र राप्रपा (संयुक्त) बीचको एकता प्रक्रियामा सक्रिय रहँदै एकीकृत राप्रपाको सांगठनिक सुदृढीकरणमा भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://rpp.org.np/history/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नुवाकोट जिल्ला कार्यसमितिमा नेतृत्वदायी भूमिका",
+      "date": "२०७४-०३-१५",
+      "details": "लामो समयदेखि नुवाकोट जिल्लामा राप्रपाको संगठन विस्तार र स्थानीय राजनीतिमा सक्रिय भूमिका निर्वाह गर्दै आएका।",
+      "link_to_source": "https://www.nepsebajar.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "झनक प्याकुरेल नुवाकोट जिल्लाका एक निष्ठावान राप्रपा नेता हुन्। उनले लामो समयदेखि राष्ट्रवादी र हिन्दु राष्ट्रको एजेन्डा बोकेर नुवाकोटमा राजनीति गरिरहेका छन्। २०७९ को निर्वाचनमा उनले नुवाकोट क्षेत्र नं २ बाट प्रतिस्पर्धा गरे तापनि ठूला दलहरू नेपाली कांग्रेस र नेकपा (माओवादी केन्द्र) को दबदबाका कारण उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक यात्रामा कुनै ठूलो भ्रष्टाचार वा काण्ड जोडिएको पाइँदैन, जुन उनको सकारात्मक पक्ष हो। तर, पटक-पटकको पार्टी फुट र जुटले उनको निर्वाचन क्षेत्रको संगठनलाई प्रभावित पारेको देखिन्छ। नुवाकोटमा उनको प्रभाव मुख्यतः राप्रपाको परम्परागत भोट बैंकमा सिमित छ।",
+  "overall_approval_rating": 52
+}

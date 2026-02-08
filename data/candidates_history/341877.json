@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341877,
+  "candidate_name": "सीता देवी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/Independent.png",
+  "candidates_current_position": "समाजसेवी",
+  "candidates_current_position_in_party": "स्वतन्त्र सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341877.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सीता देवीले धनुषा निर्वाचन क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिनिधि सभा निर्वाचनमा भाग लिइन्। उनले जम्मा १३३ मत प्राप्त गरिन्।",
+      "link_to_source": "https://result.election.gov.np/SearchCandidateHoR.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "उनले धनुषा क्षेत्र नं. ३ बाट प्रतिनिधि सभाको प्रत्यक्ष तर्फको निर्वाचनका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन पत्र दर्ता गरिन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateListHoR.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक कार्यमा सक्रियता",
+      "date": "२०७५-०१-०१",
+      "details": "सीता देवी धनुषा जिल्लाको धनुषाधाम क्षेत्रमा लामो समयदेखि स्थानीय समस्या समाधान र सामाजिक सेवाका कार्यमा सक्रिय रहँदै आएकी छिन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341877",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सीता देवी धनुषा क्षेत्र नं. ३ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा चुनावी मैदानमा उत्रिएकी थिइन्। वुधन साहकी छोरी र राम भगत पुर्वेकी पत्नी सीता देवी स्थानीय स्तरमा एक समाजसेवीको रूपमा परिचित छिन्। उनले कुनै स्थापित राजनीतिक दलको समर्थन बिना नै स्वतन्त्र रूपमा निर्वाचनमा भाग लिएकी थिइन्। यद्यपि, उनले नेकपा एमालेकी जुली कुमारी महतो जस्ता प्रभावशाली नेताहरूसँग प्रतिस्पर्धा गर्नुपरेका कारण उल्लेख्य मत प्राप्त गर्न सकिनन् र पराजित भइन्। मधेशको राजनीतिमा महिलाहरूको स्वतन्त्र सक्रियतालाई उनको उम्मेदवारीले सकारात्मक सन्देश दिएको देखिन्छ, तर दलगत संगठनको अभावमा उनको चुनावी प्रभाव भने कमजोर रह्यो।",
+  "overall_approval_rating": 45
+}

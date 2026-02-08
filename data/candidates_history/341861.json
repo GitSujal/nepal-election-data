@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341861,
+  "candidate_name": "प्रमोद कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341861.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वतन्त्र उम्मेदवारी र निर्वाचन क्षेत्र परिवर्तन",
+      "date": "२०८१-०४-१५",
+      "details": "नेपाली कांग्रेस परित्याग गरी आगामी निर्वाचनका लागि धनुषा जिल्लाबाट स्वतन्त्र उम्मेदवारको रूपमा अघि बढ्ने निर्णय।",
+      "link_to_source": "https://www.setopati.com/politics/285642",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही क्षेत्र नम्बर ४ बाट नेपाली कांग्रेसको उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा लोकतान्त्रिक समाजवादी पार्टीका सर्वेन्द्र नाथ शुक्लासँग पराजित।",
+      "link_to_source": "https://nepsebajar.com/pramod-kumar-yadav-election-result-2079",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वास्थ्यकर्मीमाथि हातपात गरेको आरोप",
+      "date": "२०७८-०७-२०",
+      "details": "रुपन्देहीको कोटहीमाई गाउँपालिकाका स्वास्थ्य संयोजकमाथि कार्यकक्षमै हातपात र दुर्व्यवहार गरेको भन्दै गम्भीर विवादमा परेका।",
+      "link_to_source": "https://shilapatra.com/detail/68172",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "रुपन्देही ४ बाट ३१,७१८ मत प्राप्त गर्दै भारी अन्तरले प्रतिनिधि सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Pramod_Kumar_Yadav_(Nepali_politician)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटन र होटल व्यवसायमा संलग्नता",
+      "date": "२०७२-०१-०१",
+      "details": "भैरहवास्थित बोधि रेड सन होटलका मालिकका रूपमा लुम्बिनी क्षेत्रको पर्यटन प्रवर्द्धनमा सक्रिय।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Pramod_Kumar_Yadav_(Nepali_politician)",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रमोद कुमार यादव रुपन्देही क्षेत्र नम्बर ४ का पूर्व प्रभावशाली सांसद हुन्। २०७४ को निर्वाचनमा नेपाली कांग्रेसबाट विजयी भएका यादव २०७९ मा सोही क्षेत्रबाट पराजित भए। उनको कार्यकालमा एक स्वास्थ्य कर्मचारीमाथि भौतिक आक्रमण गरेको आरोप लागेपछि उनी निकै विवादित बनेका थिए। हाल उनले आफ्नो बलियो पकड भएको रुपन्देही छाडेर धनुषाबाट स्वतन्त्र उम्मेदवार बन्ने निर्णय गरेका छन्, जसले गर्दा उनलाई 'भगुवा' (Vaguwa) उम्मेदवारको रूपमा आलोचना गरिएको छ। व्यवसायीक पृष्ठभूमि र पूर्व सांसदको अनुभव भए तापनि राजनीतिक अस्थिरता, क्षेत्र परिवर्तन र विवादित छविका कारण उनको चुनावी यात्रा चुनौतीपूर्ण देखिन्छ।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339363,
+  "candidate_name": "प्रहलाद प्रसाद साह कलवार",
+  "candidate_party": "नेपाल जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nepal_Janata_Party_Logo.png/220px-Nepal_Janata_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339363.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बारा",
+      "constituency": "बारा निर्वाचन क्षेत्र नं. ३(ख)",
+      "result": "पराजित",
+      "party": "नेपाल जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नं. ३(ख) बाट नेपाल जनता पार्टीको तर्फबाट प्रदेश सभा सदस्यको लागि चुनाव लडेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339363",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०७-२०",
+      "details": "हिन्दुत्व र मधेशको पहिचानको एजेन्डा बोकेको नेपाल जनता पार्टीमार्फत राजनीतिक यात्रा अगाडि बढाएका।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/339363",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रहलाद प्रसाद साह कलवार बारा जिल्लाका स्थानीय स्तरका राजनीतिकर्मी हुन्। उनले २०७९ को निर्वाचनमा नेपाल जनता पार्टीको तर्फबाट बारा क्षेत्र नम्बर ३(ख) मा प्रदेश सभा सदस्यको लागि प्रतिस्पर्धा गरेका थिए। निर्वाचन परिणाम अनुसार उनी मुख्य प्रतिस्पर्धीहरूको तुलनामा निकै पछाडि रहँदै पराजित भए। उनको राजनीतिक प्रभाव हालसम्म स्थानीय स्तरमा मात्र सीमित देखिएको छ र राष्ट्रिय राजनीतिमा कुनै ठूलो पद वा जिम्मेवारी सम्हालेको रेकर्ड छैन। उनी आवद्ध रहेको दल नेपाल जनता पार्टीको संगठन कमजोर हुनु र ठूला दलहरूको वर्चस्व रहनु उनको चुनावी हारको मुख्य कारण मानिन्छ।",
+  "overall_approval_rating": 40
+}

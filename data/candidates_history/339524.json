@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339524,
+  "candidate_name": "राज किशोर यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/People%27s_Socialist_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य तथा सभापति, अन्तर्राष्ट्रिय सम्बन्ध र पर्यटन समिति",
+  "candidates_current_position_in_party": "कार्यकारिणी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339524.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. ६",
+      "result": "विजयी",
+      "party": "मधेशी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "अन्तर्राष्ट्रिय सम्बन्ध र पर्यटन समिति सभापतिमा चयन",
+      "date": "२०८०-०५-११",
+      "details": "प्रतिनिधि सभा अन्तर्गतको प्रभावशाली अन्तर्राष्ट्रिय सम्बन्ध र पर्यटन समितिको सभापतिमा निर्विरोध निर्वाचित।",
+      "link_to_source": "https://www.parliament.gov.np",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "सिराहा क्षेत्र नं. २ बाट नेपाली कांग्रेसकी चित्रलेखा यादवलाई पराजित गर्दै निर्वाचित।",
+      "link_to_source": "https://wikipedia.org/wiki/Raj_Kishor_Yadav",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "१२ दिने उद्योग मन्त्रीको कार्यकाल",
+      "date": "२०७८-०२-२७",
+      "details": "केपी शर्मा ओलीको मन्त्रिपरिषद्मा उद्योग, वाणिज्य तथा आपूर्ति मन्त्री नियुक्त, तर सर्वोच्चको आदेशले १२ दिनमै पदमुक्त।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1UI9W8A0gyEO5VGtEM_cjpiIuRD9rJMf7BE5fSkrZXdQ5SvaCNdqGkmhU-8OQhzMpSmifh04kKjl8cD0gNli7DBqrTEIQUdQhbqEHtmizJqNlXnfWGpWqU2-iFAOCJq6tjrON42pFOg==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टी (जसपा) मा आबद्ध",
+      "date": "२०७७-०१-१०",
+      "details": "राजपा र समाजवादी पार्टी मिलेर जसपा बनेपछि पार्टीको केन्द्रीय नेतृत्वमा प्रभाव बढाएको।",
+      "link_to_source": "https://www.ratopati.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "सिराहा क्षेत्र नं. ४ बाट २१,१४४ मत प्राप्त गरी भारी अन्तरले विजयी।",
+      "link_to_source": "https://wikipedia.org/wiki/Raj_Kishor_Yadav",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रेडियो नेपाल नियुक्ति विवाद",
+      "date": "२०६९-०३-१५",
+      "details": "सञ्चार मन्त्री हुँदा प्रक्रिया मिचेर रेडियो नेपालको कार्यकारी निर्देशकमा सुरेशकुमार दासलाई नियुक्त गरेको आरोप।",
+      "link_to_source": "https://www.nagariknetwork.com",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सूचना तथा सञ्चार मन्त्री नियुक्त",
+      "date": "२०६८-११-२२",
+      "details": "डा. बाबुराम भट्टराईको नेतृत्वमा रहेको सरकारमा सञ्चार मन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://www.himalayatv.com",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "फोरम गणतान्त्रिकको स्थापना",
+      "date": "२०६८-०२-१५",
+      "details": "उपेन्द्र यादव नेतृत्वको फोरमबाट अलग भई मधेशी जनअधिकार फोरम (गणतान्त्रिक) को नेतृत्व सम्हालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhm0GjdhrBBHX8LhLfS1CLk8yaz6bCuNGVENH0u9XdjSHNd_2OWzcwjY-bowMMKja3QCUmrBNYD3tqcgSUZjeTPizkzKZ9hjS1032PM65Hn6HYFDD2rWBDxFMCBV5RSUbor89zMrvWz1RNc9oR7pxExTEMCH7mN_fDjaPXKo8mZ8sa1LORzwNRwHjERUyww9vLgg==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "राज किशोर यादव मधेशी राजनीतिका एक चतुर र प्रभावशाली खेलाडी मानिन्छन्। उनले सिराहाबाट लगातार तीन पटक (२०६४, २०७४, २०७९) निर्वाचन जितेर आफ्नो पकड प्रमाणित गरेका छन्। २०७९ को निर्वाचनमा उनले आफ्नो पुरानो निर्वाचन क्षेत्र सिराहा-४ छोडेर सिराहा-२ रोज्नुलाई राजनीतिक वृत्तमा 'वगुवा' वा सुरक्षित सिटको खोजीका रूपमा विश्लेषण गरिएको छ, जसले गर्दा स्थानीय स्तरमा केही असन्तुष्टि देखिएको थियो। उनको राजनीतिक यात्रा सत्ता केन्द्रित रहेको आरोप लाग्ने गर्छ, विशेष गरी केपी ओलीको छोटो अवधिको मन्त्रिपरिषद्मा सामेल हुने निर्णय र सञ्चार मन्त्री हुँदाका नियुक्ति विवादहरूले उनको छविमा प्रश्न उठाएका छन्। यद्यपि, संसदीय समितिहरूको नेतृत्व र मधेश आन्दोलनको जगबाट उठेको नेता भएकाले उनको सांगठनिक शक्ति बलियो छ।",
+  "overall_approval_rating": 62
+}

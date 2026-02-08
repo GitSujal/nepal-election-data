@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341409,
+  "candidate_name": "सुरेश प्रसाद साह कानु",
+  "candidate_party": "नेपाल जनता पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/nepal_janta_party.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341409.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल जनता पार्टीको तर्फबाट चुनावी प्रतिस्पर्धामा उत्रिएका उनले केवल ८४ मत प्राप्त गरी पराजय भोग्नुपरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHceY6a1cPKIQux6lHmZ4b2kwKRewP93XrUnpNKir8ZrzZGZ6zLxIdi5fE5keDK5QbyLbafyujLWfszcQJgUskKCXonZVXqFTTlW8gZSkyJCpTqd7c6_mte1m1ANIjq4QM_lg5RmiB4EKjDPYXPb2Sa8dlclFnq2o1sWUdIS_d3NfNNog==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "पर्सा निर्वाचन क्षेत्र नम्बर १ बाट नेपाल जनता पार्टीको आधिकारिक उम्मेदवारका रूपमा उनले आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY4Hi6y1N-xWxTP4iYdhTkBbb6uyOKVszb4KtP8_nmav-hLhbk1HcIIXpgQw9FqB4NF1GVeI-rTsEluQeSsrav7fjBbPtBFd6qdNc4z9Nau8pytEegLxa9hRyGV_SToFMo-HvJ8yHXd8IUYhPpFIr_Rmlo0Q==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुरेश प्रसाद साह कानु पर्सा जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले २०७९ को आम निर्वाचनमा नेपाल जनता पार्टीको प्रतिनिधित्व गर्दै प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए। पर्सा क्षेत्र नम्बर १ बाट चुनाव लडेका उनले निकै कम अर्थात् ८४ मत मात्र प्राप्त गरेका थिए, जसले सो क्षेत्रमा उनको र उनको पार्टीको राजनीतिक पकड कमजोर रहेको पुष्टि गर्दछ। उनको पार्टी 'नेपाल जनता पार्टी' मुख्यतया हिन्दुत्व र स्थानीय मधेसका मुद्दाहरूमा केन्द्रित रहेको देखिन्छ। राष्ट्रिय राजनीतिमा उनको अहिलेसम्म कुनै ठूलो भूमिका वा मन्त्री पदमा नियुक्ति भएको पाइएको छैन। कुनै पनि भ्रष्टाचार वा ठूला काण्डहरूमा उनको नाम नजोडिएको भए पनि चुनावी नतिजाका आधारमा उनको जनमत र प्रभाव स्थानीय स्तरमै सीमित देखिन्छ।",
+  "overall_approval_rating": 15
+}

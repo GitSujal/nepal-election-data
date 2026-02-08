@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340632,
+  "candidate_name": "भगवती चौधरी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-UML_logo.png/600px-CPN-UML_logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340632.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा उनी महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रीको रूपमा नियुक्त भएकी थिइन्।",
+      "link_to_source": "https://kathmandupost.com/national/2024/07/15/pm-oli-forms-cabinet-with-21-ministers",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पुनः मन्त्री पदमा नियुक्ति",
+      "date": "२०८०-११-२३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को मन्त्रिपरिषद् पुनर्गठन हुँदा एमालेको तर्फबाट मन्त्री नियुक्त भएकी थिइन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%AD%E0%A4%97%E0%A4%B7%E0%A4%A4%E0%A5%80_%E0%A4%9A%E0%A5%81%E0%A4%A7%E0%A4%B0%E0%A5%80",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मन्त्री बन्नासाथ विदेश भ्रमणको विवाद",
+      "date": "२०८०-१२-०५",
+      "details": "मन्त्री नियुक्त भएको केही समयमै मन्त्रिपरिषद्ले उनको अमेरिका भ्रमण स्वीकृत गरेपछि काम छोडेर भ्रमणमा जान लागेको भन्दै आलोचना भएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/03/1451253",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पहिलो पटक क्याबिनेट मन्त्री नियुक्त",
+      "date": "२०७९-१०-०३",
+      "details": "प्रचण्ड नेतृत्वको सरकारमा पहिलो पटक महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रीको जिम्मेवारी पाएकी थिइन्।",
+      "link_to_source": "https://himalkhabar.com/story/129758",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा पहिलो पटक विजयी",
+      "date": "२०७९-०८-१३",
+      "details": "सुनसरी क्षेत्र नम्बर ३ बाट ४०,७८८ मत प्राप्त गर्दै नेपाली कांग्रेसका विजय कुमार गच्छदारलाई ५,१८८ मतान्तरले पराजित गरिन्।",
+      "link_to_source": "https://kathmandupost.com/koshi-province/2022/11/29/uml-s-bhagwati-chaudhary-elected-from-sunsari-3",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लघुवित्त शोषणको आरोप",
+      "date": "२०७९-०४-१०",
+      "details": "उनले स्थापना गरेको फरवार्ड माइक्रोफाइनान्सले ऋणीहरूलाई चर्को ब्याज लिएर शोषण गरेको भन्दै स्थानीय स्तरमा उनी विरुद्ध प्रदर्शन भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1215160",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा झिनो मतान्तरले पराजित",
+      "date": "२०७४-०८-२७",
+      "details": "कांग्रेस नेता गच्छदारसँग ३२१ मतको झिनो अन्तरले पराजित भएकी थिइन्, जसमा उनले धाँधली भएको आरोप लगाउँदै अदालतमा मुद्दा समेत हालेकी थिइन्।",
+      "link_to_source": "https://kathmandupost.com/national/2017/12/13/gachhadar-defeats-umls-chaudhary-in-sunsari-3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमाले केन्द्रीय सदस्य",
+      "date": "२०७८-०८-१५",
+      "details": "एमालेको १०औं महाधिवेशनबाट उनी लोकप्रिय मतका साथ केन्द्रीय सदस्यमा निर्वाचित भएकी थिइन्।",
+      "link_to_source": "https://janaboli.com/archives/357643",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७० को निर्वाचनमा पराजय",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधानसभा निर्वाचनमा पनि गच्छदारसँग ३६२ मतको झिनो अन्तरले पराजित भएकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1224169",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वन तथा भूसंरक्षण राज्यमन्त्री नियुक्त",
+      "date": "२०६७-१२-२९",
+      "details": "झलनाथ खनाल नेतृत्वको सरकारमा उनले वन तथा भूसंरक्षण राज्यमन्त्रीको जिम्मेवारी सम्हालेकी थिइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bhagwati_Chaudhary",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "भगवती चौधरी नेपाल कम्युनिष्ट पार्टी (एमाले) की एक प्रभावशाली महिला नेतृ हुन्। उनले लामो समयदेखि सुनसरी क्षेत्र नम्बर ३ मा शक्तिशाली नेता विजय कुमार गच्छदारसँग संघर्ष गर्दै आएकी छिन्। २०७० र २०७४ को निर्वाचनमा अत्यन्तै न्यून मतान्तरले पराजित भए पनि २०७९ मा उनले गच्छदारको अपराजित विरासत तोड्न सफल भइन्। उनलाई एक कुशल उद्यमीका रूपमा पनि चिनिन्छ, तर उनले सञ्चालन गरेको फरवार्ड लघुवित्तमार्फत गरिब जनतालाई चर्को ब्याज लगाएको आरोप लाग्ने गरेको छ। मन्त्रीको रूपमा उनले महिला र बालबालिकाको क्षेत्रमा नीतिगत काम गर्ने प्रयास गरे पनि उनको वैदेशिक भ्रमण मोह र लघुवित्त सम्बन्धी विवादले उनको छविलाई केही प्रभावित पारेको छ। उनी थारु समुदाय र महिला अधिकारको क्षेत्रमा एमालेभित्र एक बलियो आवाज मानिन्छिन्।",
+  "overall_approval_rating": 68
+}

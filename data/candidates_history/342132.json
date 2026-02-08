@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342132,
+  "candidate_name": "कल्पना देेवि यादव",
+  "candidate_party": "राष्ट्र निर्माण दल नेपाल",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/RashtraNirmanDalNepal.jpg",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342132.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "राष्ट्र निर्माण दल नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "कल्पना देवी यादवले मोरङ क्षेत्र नं. ५ बाट राष्ट्र निर्माण दल नेपालको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342132",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्र निर्माण दल नेपालमा आबद्धता",
+      "date": "२०७९-०१-०१",
+      "details": "यादव सानो राजनीतिक दल 'राष्ट्र निर्माण दल नेपाल' मार्फत राजनीतिमा सक्रिय रहँदै आएकी छिन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342132",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कल्पना देवी यादव मोरङ क्षेत्र नं. ५ बाट २०७९ को प्रतिनिधिसभा निर्वाचनमा राष्ट्र निर्माण दल नेपालको तर्फबाट चुनावी मैदानमा उत्रिएकी थिइन्। उनी एक कम चर्चित र साना दलको प्रतिनिधित्व गर्ने उम्मेदवार हुन्। मोरङ ५ जस्तो हेभीवेट उम्मेदवारहरू भएको क्षेत्रमा उनको चुनावी प्रभाव निकै न्यून देखिएको थियो, जहाँ स्वतन्त्र उम्मेदवार योगेन्द्र मण्डल विजयी भएका थिए। यादवको राजनीतिक इतिहासमा कुनै पनि ठूला भ्रष्टाचार, काण्ड वा विवादहरू फेला परेका छैनन्। उनको उम्मेदवारी मुख्यतया साना दलहरूको लोकतान्त्रिक सहभागिताको रूपमा लिन सकिन्छ। हालसम्म उनी कुनै लाभको पदमा पुगेको वा ठूलो राजनीतिक उपलब्धि हासिल गरेको देखिँदैन।",
+  "overall_approval_rating": 42
+}

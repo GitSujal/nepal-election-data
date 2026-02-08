@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342089,
+  "candidate_name": "शंकु प्रसाद जैसी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Independent_candidate_Nepal.png/200px-Independent_candidate_Nepal.png",
+  "candidates_current_position": "स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342089.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "चितवन",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "चितवन क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारी दिएका जैसी राष्ट्रिय स्वतन्त्र पार्टीका रवि लामिछानेसँग भारी मतान्तरले पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "प्रतिनिधिसभा सदस्यका लागि चितवन २ बाट उनले मसी (Ink) चुनाव चिन्ह लिएर स्वतन्त्र उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://nagariknetwork.com/news/134468-1665406080.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शंकु प्रसाद जैसी २०७९ को प्रतिनिधिसभा निर्वाचनमा चितवन क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारका रूपमा चुनावी मैदानमा उत्रिएका थिए। उच्च चर्चामा रहेको यस क्षेत्रमा राष्ट्रिय स्वतन्त्र पार्टीका रवि लामिछाने जस्ता प्रभावशाली उम्मेदवारका विरुद्ध उम्मेदवारी दिए पनि जैसीले निकै कम मत प्राप्त गरे। 'पर्यटक उम्मेदवार' (Tourist Candidate) को ट्याग लागेका कारण उनले स्थानीय स्तरमा बलियो राजनीतिक आधार निर्माण गर्न सकेको देखिँदैन। उनी मूलतः सो क्षेत्रको स्थायी बासिन्दा वा लामो समयदेखि स्थानीय राजनीतिमा सक्रिय नभएको कारण मतदाताहरूमाझ परिचित हुन सकेनन्। उनको राजनीतिक प्रभाव अत्यन्त न्यून रहेको र उनलाई एक सांकेतिक उम्मेदवारका रूपमा मात्र लिइएको देखिन्छ।",
+  "overall_approval_rating": 18
+}

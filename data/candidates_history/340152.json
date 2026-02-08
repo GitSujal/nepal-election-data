@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340152,
+  "candidate_name": "राजेश कुमार राई",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_the_Shram_Sanskriti_Party.png/220px-Flag_of_the_Shram_Sanskriti_Party.png",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340152.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "स्वतन्त्र/श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उदयपुर क्षेत्र नं. १ बाट उम्मेदवारी घोषणा",
+      "date": "२०८०-१०-०७",
+      "details": "श्रम संस्कृति पार्टीले आगामी निर्वाचनका लागि राजेश कुमार राईलाई उदयपुर क्षेत्र नं. १ बाट उम्मेदवारका रूपमा अघि सारेको छ।",
+      "link_to_source": "https://khojsamachar.com/news/109-candidates-from-shram-sanskriti-party/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०८०-०६-०७",
+      "details": "हर्क साम्पाङले नेतृत्व गरेको श्रम संस्कृति पार्टीमा सक्रिय भएर वैकल्पिक राजनीतिको अभियानमा जोडिएका थिए।",
+      "link_to_source": "https://bizshala.com/story/harka-sampang-political-party-shram-sanskriti",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को निर्वाचनमा उदयपुर क्षेत्र नं. १ बाट चुनावी मैदानमा उत्रिएका थिए, यद्यपि उनले सम्मानजनक मत प्राप्त गर्न सकेनन्।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सामाजिक तथा श्रमदान अभियानमा सक्रियता",
+      "date": "२०७९-०३-१५",
+      "details": "हर्क साम्पाङको 'श्रमदान' विचारधाराबाट प्रभावित भई स्थानीय विकास र जनचेतनाका कार्यक्रमहरूमा सक्रिय सहभागिता जनाउँदै आएका छन्।",
+      "link_to_source": "https://setopati.com/politics/312456",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राजेश कुमार राई धरानका मेयर हर्क साम्पाङद्वारा स्थापित 'श्रम संस्कृति पार्टी' का एक उदीयमान नेता हुन्। उदयपुर क्षेत्र नं. १ मा उम्मेदवारी दिएका राईलाई 'टुरिस्ट क्यान्डिडेट' को रूपमा हेरिएको छ, किनकि उनको मुख्य राजनीतिक आधार क्षेत्र उक्त जिल्ला बाहिर रहेको मानिन्छ। उनले मुख्य रूपमा श्रमको सम्मान, सांस्कृतिक संरक्षण र परम्परागत दलहरूको विकल्पका रूपमा आफ्नो एजेन्डा प्रस्तुत गर्दै आएका छन्। २०७९ को निर्वाचनमा उनको चुनावी नतिजा कमजोर रहे पनि, साम्पाङको क्रेज र पार्टीको साङ्गठनिक विस्तारले उनलाई आगामी दिनमा एक वैकल्पिक शक्तिको रूपमा स्थापित गर्न खोजेको देखिन्छ। उदयपुरको स्थानीय राजनीतिमा पकड जमाउन उनलाई 'बाहिरी' उम्मेदवारको ट्याग चुनौतीको रूपमा रहेको छ।",
+  "overall_approval_rating": 45
+}

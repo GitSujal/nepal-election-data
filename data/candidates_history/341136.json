@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341136,
+  "candidate_name": "कमला डाँगी",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rastriya_Janamorcha_logo.svg/1024px-Rastriya_Janamorcha_logo.svg.png",
+  "candidates_current_position": "महिला अधिकारकर्मी तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, अखिल नेपाल महिला संघ (जनमोर्चा निकट)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341136.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सल्यान",
+      "constituency": "सल्यान निर्वाचन क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सल्यानबाट प्रतिनिधि सभा सदस्यको लागि राष्ट्रिय जनमोर्चाको तर्फबाट उम्मेदवारी दिएकी थिइन्, जसमा उनले १४८ मत प्राप्त गरिन्।",
+      "link_to_source": "https://sajilopatrika.com/kamala-dangi/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "महिला अधिकार र सामाजिक न्यायको लागि सक्रियता",
+      "date": "२०७८-१०-१५",
+      "details": "अखिल नेपाल महिला संघमा आबद्ध भई सल्यान जिल्लामा महिला अधिकार र सामाजिक न्यायका मुद्दाहरूमा नेतृत्वदायी भूमिका निर्वाह गरेकी छन्।",
+      "link_to_source": "https://sajilopatrika.com/kamala-dangi/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संघीयता विरुद्धको आन्दोलनमा सहभागिता",
+      "date": "२०७७-०५-२०",
+      "details": "राष्ट्रिय जनमोर्चाको मुख्य एजेन्डा संघीयता खारेजीको अभियानमा सल्यान जिल्लाबाट सक्रिय रूपमा प्रदर्शन र संगठन विस्तारमा सहभागी भइन्।",
+      "link_to_source": "https://sajilopatrika.com/kamala-dangi/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमसीसी विरोधी प्रदर्शनमा नेतृत्व",
+      "date": "२०७८-११-१२",
+      "details": "पार्टीको निर्णय बमोजिम एमसीसी सम्झौताको विरोधमा जिल्ला स्तरका विरोध कार्यक्रमहरूको नेतृत्व गरेकी थिइन्।",
+      "link_to_source": "https://sajilopatrika.com/kamala-dangi/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कमला डाँगी राष्ट्रिय जनमोर्चाकी एक निष्ठावान र भुइँतहकी कार्यकर्ता हुन्। उनले २०७९ को निर्वाचनमा सल्यानबाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएकी थिइन्, जहाँ उनले जित हासिल नगरे तापनि आफ्नो दलको वैचारिक उपस्थितिलाई बलियो बनाउने प्रयास गरिन्। मुख्यत: महिला अधिकार र संघीयता विरोधी एजेन्डामा सक्रिय रहेकी डाँगीको चुनावी नतिजा अंकगणितीय हिसाबले कमजोर देखिए पनि आफ्नो दलभित्र उनको छवि एक जुझारु महिला नेताको रूपमा स्थापित छ। उनले सल्यानको स्थानीय स्तरमा सामाजिक न्याय र सामुदायिक विकासका मुद्दाहरूलाई निरन्तर उठाउँदै आएकी छन्। उनको राजनीति कुनै व्यक्तिगत लाभभन्दा पनि पार्टीको सिद्धान्त र सामुदायिक सेवामा केन्द्रित रहेको देखिन्छ।",
+  "overall_approval_rating": 42
+}

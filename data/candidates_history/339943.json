@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339943,
+  "candidate_name": "जनक सिंह धामी",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "कञ्चनपुर क्षेत्र नं. ३ प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339943.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कञ्चनपुर क्षेत्र नं. ३ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। उनले नयाँ राजनीतिक विकल्पको रूपमा चुनावी अभियान चलाएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/kanchanpur-3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध",
+      "date": "२०७९-०३-१५",
+      "details": "बैकल्पिक राजनीतिको खोजीमा रहेका धामी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टी स्थापना भएलगत्तै उक्त पार्टीमा सक्रिय भएका थिए।",
+      "link_to_source": "https://rspnepal.org/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "साझा पार्टीको तर्फबाट कञ्चनपुर क्षेत्र नं. ३ बाट चुनावी मैदानमा उत्रिएका थिए, जतिबेला उनले भ्रष्टाचार विरोधी अभियानलाई मुख्य मुद्दा बनाएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बैकल्पिक राजनीतिमा प्रवेश",
+      "date": "२०७३-११-१८",
+      "details": "रवीन्द्र मिश्र नेतृत्वको साझा पार्टी नेपालमा आबद्ध भएर कञ्चनपुरमा संगठन विस्तारको कार्य सुरु गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKYglNCcS_xDwrthFF2y08kxtoZd045M6ON5pJlUKtHkhMsifas49LZG-ikuVAbbWp0qXL0YhNdYPHOGydZllegCfkte9nnxY9vAJ8FYUavTB75KXWlaYJmGhu6qDqzKWvdv8N6-1AaClbrLUjqw==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय विकासका मुद्दामा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "कञ्चनपुरको महाकाली नदी किनारका तटबन्ध निर्माण र सीमा क्षेत्रका नेपाली नागरिकका समस्या समाधानका लागि लामो समयदेखि वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvrYaiTU4gg7oWz_uscooWXEs8lOS96X4W2kOUhUdNJmTJVYdb_CXx1wn1O0aWg2k_2rsTmqBxNy3r-RPYxIyxeffc2xsG9do_H9SKWzrRSowNzsv2OX9fiUqBgFCJ3oBRygXgI-cV6JJDX9zW95c=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जनक सिंह धामी कञ्चनपुर क्षेत्र नं. ३ का एक जुझारु र प्रतिबद्ध राजनीतिकर्मी हुन्। उनी नेपालको बैकल्पिक राजनीतिको धारमा सुरुदेखि नै सक्रिय रहँदै आएका छन्। वि.सं. २०७४ मा साझा पार्टीबाट राजनीति सुरु गरेका धामी हाल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा आबद्ध छन्। उनले दुईवटा संसदीय निर्वाचन लडे पनि विजयी हुन सकेका छैनन्, तर कञ्चनपुरको स्थानीय राजनीतिमा उनको उपस्थिति बलियो मानिन्छ। उनी विशेषगरी कञ्चनपुरको सीमा समस्या, सुकुम्वासी समस्या र महाकाली नदीको तटबन्ध जस्ता स्थानीय मुद्दाहरूमा प्रखर रूपमा प्रस्तुत हुने गर्छन्। उनको छवि एक स्वच्छ र भ्रष्टाचार विरोधी नेताको रूपमा स्थापित छ, जसले गर्दा शिक्षित र युवा मतदाताहरूमा उनको पकड राम्रो देखिन्छ। यद्यपि, परम्परागत पार्टीहरूको बलियो संगठन भएको क्षेत्रमा उनले आफ्नो चुनावी नतिजा सुधार गर्न थप मेहनत गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 58
+}

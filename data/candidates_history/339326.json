@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339326,
+  "candidate_name": "राजेन्द्र बखुन्छे",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NWPP_logo.png/220px-NWPP_logo.png",
+  "candidates_current_position": "सक्रिय सदस्य, नेपाल मजदुर किसान पार्टी",
+  "candidates_current_position_in_party": "क्षेत्रीय प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339326.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिन्धुली",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट सिन्धुली निर्वाचन क्षेत्र नं. १ मा प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता।",
+      "link_to_source": "https://sajilopatrika.com/news/17398",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विस्तार अभियानमा संलग्नता",
+      "date": "२०७८-०५-१०",
+      "details": "नेपाल मजदुर किसान पार्टीको विचारधारा भक्तपुर बाहिर फैलाउने उद्देश्यले सिन्धुली लगायतका जिल्लाहरूमा संगठन विस्तारमा सक्रिय।",
+      "link_to_source": "https://sajilopatrika.com/news/17398",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५०-०१-०१",
+      "details": "भक्तपुरको स्थानीय स्तरबाट नेपाल मजदुर किसान पार्टीको कार्यकर्ताको रूपमा राजनीतिक जीवनको सुरुवात।",
+      "link_to_source": "https://sajilopatrika.com/news/17398",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जन्म",
+      "date": "२०२८-०१-०६",
+      "details": "भक्तपुरमा सानु कृष्णबहादुर बखुन्छे र आमाको कोखबाट जन्म।",
+      "link_to_source": "https://sajilopatrika.com/news/17398",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राजेन्द्र बखुन्छे नेपाल मजदुर किसान पार्टीका एक निष्ठावान कार्यकर्ता हुन्। भक्तपुरका स्थायी बासिन्दा भए तापनि उनले २०७९ को निर्वाचनमा सिन्धुली निर्वाचन क्षेत्र नं. १ बाट उम्मेदवारी दिएका थिए, जसले उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा चिनाएको छ। नेमकिपाले आफ्नो संगठन र सिद्धान्तलाई भक्तपुर बाहिर विस्तार गर्ने रणनीतिको रूपमा उनलाई सिन्धुलीमा उठाएको देखिन्छ। यद्यपि, स्थानीय स्तरमा उनको पकड कमजोर हुनु र आफ्नो गृह जिल्ला छोडेर अन्यत्र चुनाव लड्नुले उनको चुनावी नतिजामा ठूलो प्रभाव पार्यो। उनी विरुद्ध कुनै भ्रष्टाचार वा गम्भीर स्क्यान्डलहरू फेला परेका छैनन्, तर प्रभावकारी चुनावी राजनीतिको तुलनामा उनी पार्टीको विचारधारा प्रचारमा बढी केन्द्रित देखिन्छन्।",
+  "overall_approval_rating": 45
+}

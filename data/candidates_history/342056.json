@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342056,
+  "candidate_name": "नरेश कुमार लाभ",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/राष्ट्रिय_मुक्ति_पार्टी_नेपाल.jpg",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342056.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "५ (ख)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०८१-०१-०१",
+      "details": "नरेश कुमार लाभले मोरङ जिल्लाबाट राष्ट्रिय मुक्ति पार्टी नेपालको तर्फबाट उम्मेदवारी दर्ता गराएका छन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342056",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा मोरङ क्षेत्र नम्बर ५ (ख) बाट स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा ३९० मत प्राप्त गरी उनी पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjhXepd26qiGbAYb99A1f6lKIZbOjSSs4Qhjfb_MePqqteh2WiIsMR8PSL1rjkt5jImrQfTe0Ha2Mcb5hW-qpMKS8Y_bDyN-HJCy3cGms-EfwWYxWu6Gh4sTxoc1AYdh-WXDPnC_SFUd70I4KTake-opeOQOZ8IB9yLkhIRnaffIAESVrxK49FNHEoPw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "स्थानीय मुद्दाहरूलाई सम्बोधन गर्ने भन्दै उनले पहिलो पटक मोरङबाट प्रदेश सभाका लागि स्वतन्त्र उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0v4pQKphS45XMTtDnKUczM7aWIu6tc14qFMLgM3CQ7g5FdAGj8BfwOO__FNxnSy4eBx7zBvkgzqV-s9dUMdurGQYfU-4xB0pFkJSNU44gLBd88iNTtf2J4sDVkPMO1hqi-XWjeVJtWOhS4er7dnFT8BefhU6JrDvAnX6EzTQ5jwR09Oc2wCs=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "नरेश कुमार लाभ मोरङ जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले हालैका वर्षहरूमा राजनीतिमा आफ्नो उपस्थिति देखाउन थालेका छन्। २०७९ सालको निर्वाचनमा मोरङ क्षेत्र नम्बर ५ (ख) बाट प्रदेश सभा सदस्यका लागि स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गरे तापनि उनले मात्र ३९० मत (करिब १.११%) प्राप्त गरेका थिए, जसले उनको चुनावी प्रभाव हालसम्म निकै कमजोर रहेको देखाउँछ। हाल उनी राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्ध भएका छन्, जुन एक सानो र नयाँ राजनीतिक शक्ति हो। उनको विरुद्धमा कुनै ठूला भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्, तर ठूला दलहरूको वर्चस्व रहेको मोरङमा उनलाई आफ्नो राजनीतिक आधार बलियो बनाउन ठूलो चुनौती रहेको देखिन्छ। उनी मुख्यतया स्थानीय मुद्दाहरू र सीमान्तकृत समुदायको प्रतिनिधित्व गर्ने दाबी गर्छन्।",
+  "overall_approval_rating": 35
+}

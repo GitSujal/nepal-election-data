@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340204,
+  "candidate_name": "कुमार बहादुर तामाङ",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hammer_and_sickle_red_on_transparent.svg/1024px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340204.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "निर्वाचन क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "कुमार बहादुर तामाङले धादिङ निर्वाचन क्षेत्र नं १ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल कम्युनिस्ट पार्टी (माओवादी) को तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340204",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय स्तरमा राजनीतिक सक्रियता",
+      "date": "२०७९-०१-०१",
+      "details": "तामाङ धादिङ जिल्लामा सानो समूहको रूपमा रहेको नेपाल कम्युनिस्ट पार्टी (माओवादी) मा लामो समयदेखि सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://election.gov.np/np/page/election-results-2079",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कुमार बहादुर तामाङ धादिङ जिल्लाको निर्वाचन क्षेत्र नं १ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा नेपाल कम्युनिस्ट पार्टी (माओवादी) को तर्फबाट प्रतिस्पर्धा गरेका उम्मेदवार हुन्। उनी मुख्यधारको माओवादी केन्द्र नभई सानो कम्युनिष्ट घटकको प्रतिनिधित्व गर्छन्। निर्वाचनमा उनले निकै कम मत प्राप्त गरेका थिए, जसले उनको राजनीतिक प्रभाव क्षेत्र सीमित रहेको देखाउँछ। उनी विरुद्ध कुनै ठूला घोटाला वा भ्रष्टाचारका मुद्दाहरू सार्वजनिक भएका छैनन्। उनी धादिङका स्थानीय बासिन्दा हुन् र आफ्नो समुदायमा राजनीतिक रूपमा परिचित छन्, तर राष्ट्रिय राजनीतिमा उनको प्रभाव नगन्य देखिन्छ।",
+  "overall_approval_rating": 42
+}

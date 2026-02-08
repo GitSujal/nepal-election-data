@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340983,
+  "candidate_name": "किरण कुमार साह",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CPN-UML_Logo.png/600px-CPN-UML_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340983.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा (एमाले) मा विधिवत प्रवेश",
+      "date": "२०७९-०९-१९",
+      "details": "स्वतन्त्र रूपमा निर्वाचित भएपछि किरण कुमार साह औपचारिक रूपमा नेकपा (एमाले) मा प्रवेश गरेका थिए। उनलाई एमाले अध्यक्ष केपी शर्मा ओलीले बालकोटमा स्वागत गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/01/1241901",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संस्कृत भाषामा शपथ ग्रहण",
+      "date": "२०७९-०९-०७",
+      "details": "प्रतिनिधिसभा सदस्यको रूपमा उनले संस्कृत भाषामा शपथ ग्रहण गरेर चर्चा कमाएका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/291672",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट क्षेत्र नं. २ बाट ३२,८४२ मत प्राप्त गरी नेपाली कांग्रेसका फिर्दोस आलमलाई पराजित गर्दै विजयी भएका थिए।",
+      "link_to_source": "https://gorkhapatraonline.com/news/37625",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आलम परिवारको विरासत अन्त्य",
+      "date": "२०७९-०८-०८",
+      "details": "रौतहटमा लामो समयदेखि पकड जमाएको मोहम्मद अफताब आलमको परिवार (छोरा फिर्दोस आलम) लाई निर्वाचनमा हराउनुलाई उनको ठूलो उपलब्धिको रूपमा हेरिएको छ।",
+      "link_to_source": "https://kathmandupost.com/politics/2023/01/03/independent-lawmaker-kiran-kumar-sah-joins-uml",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रभु साहको आम जनता पार्टी अस्वीकार",
+      "date": "२०७९-०९-१५",
+      "details": "उनलाई चुनावमा सहयोग गरेका प्रभु साहले गठन गरेको 'आम जनता पार्टी' मा समावेश गरिएको भए पनि उनले सो पार्टीमा बस्न अस्वीकार गर्दै एमाले रोजेका थिए।",
+      "link_to_source": "https://www.khabarhub.com/2023/03/284920/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "नेकपा (माओवादी केन्द्र) को उम्मेदवारको रूपमा रौतहट २ बाट निर्वाचन लडेका साह नेपाली कांग्रेसका मोहम्मद अफताब आलमसँग पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी केन्द्र परित्याग गरी एमाले प्रवेश",
+      "date": "२०७७-११-२३",
+      "details": "सर्वोच्च अदालतको नेकपा विघटनको फैसलापछि उनी माओवादी केन्द्र छोडेर केपी ओली नेतृत्वको एमाले समूहमा लागेका थिए।",
+      "link_to_source": "https://www.nayapatrikadaily.com/news-details/103982",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "किरण कुमार साह रौतहटको राजनीतिमा एक उदयमान र प्रभावशाली नेता हुन्। उनले २०७९ को निर्वाचनमा स्वतन्त्र उम्मेदवारी दिएर रौतहट क्षेत्र नं. २ मा मोहम्मद अफताब आलमको पारिवारिक राजनीतिक विरासतलाई तोड्न सफल भए, जसलाई उनको सबैभन्दा ठूलो राजनीतिक उपलब्धिको रूपमा हेरिन्छ। निर्वाचन जिते लगत्तै उनी नेकपा (एमाले) मा प्रवेश गरे, जसलाई केही स्थानीय मतदाताले 'अवसरवादी' कदमका रूपमा आलोचना गरे पनि यसले उनलाई राष्ट्रिय राजनीतिमा बलियो पकड दिलाएको छ। उनले संस्कृत भाषामा शपथ ग्रहण गरेर सांस्कृतिक पहिचानको मुद्दामा पनि ध्यानाकर्षण गराएका छन्। उनी माओवादी केन्द्र, जसपा हुँदै एमालेसम्मको यात्रा तय गरेका नेता हुन्, जसले उनको राजनीतिक अस्थिरतालाई पनि झल्काउँछ। तर, रौतहटमा आलम परिवारको डर र प्रभावलाई चुनौती दिन सक्ने सामर्थ्यका कारण उनको स्थानीय लोकप्रियता उच्च छ।",
+  "overall_approval_rating": 72
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340364,
+  "candidate_name": "सुनिल चाम्लिङ",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, जनता समाजवादी पार्टी, नेपाल",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340364.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "खोटाङ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नयाँ शक्ति पार्टी, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "खोटाङ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "खोटाङ जिल्लाबाट प्रतिनिधि सभा सदस्यका लागि जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका थिए तर पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-khotang?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जसपाको केन्द्रीय नेतृत्वमा निरन्तरता",
+      "date": "२०७७-०२-१५",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टी बीचको एकता पछि बनेको जनता समाजवादी पार्टीमा केन्द्रीय सदस्यको रूपमा सक्रिय रहे।",
+      "link_to_source": "https://khabarhub.com/2020/07/115432/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "नयाँ शक्ति पार्टी, नेपालको तर्फबाट खोटाङमा प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीमा आबद्धता",
+      "date": "२०७३-०३-३०",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालको स्थापना कालदेखि नै वैकल्पिक राजनीतिको वकालत गर्दै सक्रिय राजनीतिमा प्रवेश गरे।",
+      "link_to_source": "https://www.onlinekhabar.com/2016/06/440590",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुनिल चाम्लिङ खोटाङ जिल्लाका एक जुझारु र वैकल्पिक राजनीतिको पक्षधर नेता हुन्। उनी डा. बाबुराम भट्टराईको नयाँ शक्ति पार्टी हुँदै हाल जनता समाजवादी पार्टीमा सक्रिय छन्। उनी विशेषगरी खोटाङको स्थानीय विकास, हलेसी क्षेत्रको प्रवद्र्धन र किराँत पहिचानको राजनीतिमा रुचि राख्छन्। २०७४ र २०७९ दुवै निर्वाचनमा उनी प्रतिनिधि सभाका लागि प्रतिस्पर्धी रहे तापनि ठूला दलहरूको वर्चस्वका कारण विजयी हुन सकेनन्। चाम्लिङको व्यक्तिगत छवि स्वच्छ मानिन्छ र उनी स्थानीय स्तरमा सामाजिक कार्यहरूमा पनि संलग्न छन्। यद्यपि, खोटाङमा एमाले र कांग्रेस जस्ता ठूला दलहरूको बलियो संगठनका अगाडि उनको चुनावी आधार तुलनात्मक रूपमा कमजोर देखिन्छ।",
+  "overall_approval_rating": 62
+}

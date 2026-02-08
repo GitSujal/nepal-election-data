@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340415,
+  "candidate_name": "प्रमानन्द भट्ट",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hammer_and_sickle_red_on_transparent.svg/1024px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा पूर्व शिक्षक नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340415.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १ (क)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०८१-१०-२२",
+      "details": "बैतडीमा आगामी निर्वाचनका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट सशक्त उम्मेदवारको रूपमा हेरिएको र प्रचारप्रसारमा सक्रिय रहेको।",
+      "link_to_source": "https://gorkhapatraonline.com/news/51556",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल राष्ट्रिय शिक्षक संगठनको अध्यक्षमा निर्वाचित",
+      "date": "२०८१-११-१७",
+      "details": "नेपाल राष्ट्रिय शिक्षक संगठन बैतडीको १८ औं जिल्ला अधिवेशनबाट प्रमानन्द भट्ट निर्विरोध अध्यक्षमा निर्वाचित भएका।",
+      "link_to_source": "https://kushalkhabar.com/2025/02/10046/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले छाडेर नयाँ राजनीतिक यात्रा",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमालेको विभाजनपछि उनी नेकपा (एकीकृत समाजवादी) मा आबद्ध भएका र पछि नेपाली कम्युनिष्ट पार्टीको विचारधारा निकट रहेका।",
+      "link_to_source": "https://nepalkhabar.com/politics/134442",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बैतडी निर्वाचन क्षेत्र १ (क) बाट प्रदेश सभाको लागि टिकटको आकांक्षी रहे पनि चुनावी नतिजा आफ्नो पक्षमा पार्न नसकेको।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "शिक्षक आन्दोलन र पेशागत नेतृत्व",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयसम्म शिक्षण पेशामा आबद्ध रहँदै बैतडीमा शिक्षकहरूको हकहितका लागि नेतृत्वदायी भूमिका निर्वाह गरेको।",
+      "link_to_source": "https://melaulikhabar.com/2025/02/11556/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रमानन्द भट्ट बैतडीको राजनीतिमा एक बौद्धिक र निष्कलंक छवि भएका नेताका रूपमा चिनिन्छन्। लामो समय शिक्षा क्षेत्रमा बिताएका भट्ट नेपाल राष्ट्रिय शिक्षक संगठनको नेतृत्व गर्दै मूलधारको राजनीतिमा होमिएका हुन्। सुरुमा नेकपा एमालेको पृष्ठभूमिबाट आएका उनी पार्टी विभाजनपछि एकीकृत समाजवादी हुँदै हाल नेपाली कम्युनिष्ट पार्टीमा सक्रिय छन्। उनको मुख्य शक्ति आधार शिक्षक र बौद्धिक समुदाय हो। बैतडीमा उनको पकड राम्रो भए तापनि ठूला दलहरूको तीव्र प्रतिस्पर्धाका कारण उनले अहिलेसम्म ठूला निर्वाचनमा विजय हासिल गर्न सकेका छैनन्। उनलाई जिल्लामा 'स्वच्छ छविका नेता' मानिन्छ, जसले विकास र सुशासनका मुद्दाहरूलाई प्राथमिकता दिँदै आएका छन्।",
+  "overall_approval_rating": 58
+}

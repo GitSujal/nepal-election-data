@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340563,
+  "candidate_name": "नरेन्द्र कुमार केरुङ",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "पूर्व जिल्ला सभापति, नेपाली काँग्रेस, पाँचथर",
+  "candidates_current_position_in_party": "महासमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340563.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "पाँचथर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "पाँचथर",
+      "constituency": "१ (क)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "पाँचथर",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा समानुपातिक उम्मेदवार",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा नेपाली काँग्रेसको तर्फबाट आदिवासी जनजाति क्लस्टर अन्तर्गत समानुपातिक सूचीमा परेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "पाँचथर क्षेत्र नं. १ (क) बाट प्रदेश सभाका लागि प्रतिस्पर्धा गर्दा नेकपा एमालेका गणेश कुमार काम्बाङसँग पराजित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Panchthar_1_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली काँग्रेस जिल्ला सभापति कार्यकाल",
+      "date": "२०७२-११-२५",
+      "details": "पाँचथर जिल्ला कार्यसमितिको सभापति निर्वाचित भई एक कार्यकाल सफलताका साथ सम्पन्न गरेका थिए।",
+      "link_to_source": "https://samridinepal.com/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा पाँचथर क्षेत्र नं. १ बाट उम्मेदवार बनेका थिए तर पराजित हुन पुगे।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Panchthar_1_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विद्यार्थी राजनीतिमा सक्रियता",
+      "date": "२०४६-०१-०१",
+      "details": "नेपाल विद्यार्थी संघ मार्फत राजनीतिमा प्रवेश गरी लोकतन्त्र प्राप्तिको आन्दोलनमा सक्रिय सहभागी भएका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=Rhythmonlinetv",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नरेन्द्र कुमार केरुङ पाँचथर जिल्लामा नेपाली काँग्रेसका एक प्रभावशाली र पुराना नेता हुन्। उनले जिल्ला सभापतिको रूपमा पार्टीको संगठन विस्तारमा महत्वपूर्ण भूमिका खेलेका छन्। चुनावी इतिहास हेर्दा उनले २०७० को संविधान सभा र २०७४ को प्रदेश सभा निर्वाचनमा प्रत्यक्षतर्फ प्रतिस्पर्धा गरे पनि जित हासिल गर्न सकेनन्। २०७९ को निर्वाचनमा उनलाई पार्टीले समानुपातिक सूचीमा राखेको थियो। उनको छवि स्वच्छ रहेको छ र जिल्लामा उनी एक निष्ठावान नेताका रूपमा चिनिन्छन्। यद्यपि, प्रत्यक्ष निर्वाचनमा लगातारको पराजयले उनको चुनावी प्रभावकारितामा केही प्रश्न उठाए पनि पार्टीभित्र उनको सांगठनिक पकड बलियो रहेको देखिन्छ।",
+  "overall_approval_rating": 62
+}

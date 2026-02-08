@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340921,
+  "candidate_name": "युवराज दुलाल",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-Maoist-Centre-Logo.svg/1024px-CPN-Maoist-Centre-Logo.svg.png",
+  "candidates_current_position": "निवर्तमान प्रदेश मन्त्री / प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340921.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "२ (क)",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "२ (क)",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "भौतिक पूर्वाधार विकास मन्त्री नियुक्त",
+      "date": "२०७९-०९-२६",
+      "details": "बागमती प्रदेश सरकारको भौतिक पूर्वाधार विकास मन्त्रीका रूपमा नियुक्त भई विकास निर्माणका योजनाहरूमा सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY3JZwhoqwu_8LVShJk2WzMin8IXXMpxMDpzY-tCmTkh_LhS2e_1pySF9uYqz5S_gwYcqtCCLtl9fJQ_hDXjd230i-_rtWYa5m1DL89zZBH9hUn4tN04hvV9Hau6TS0IwHtbTgvn1-VhNz",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा दोस्रो पटक विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "सिन्धुपाल्चोक क्षेत्र नम्बर २ (क) बाट २०,९०६ मत प्राप्त गरी प्रदेश सभा सदस्यमा दोस्रो पटक विजयी भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kNC2zIBLExoIRAnI4XzZE-2TO-o_ekztQrvVMts2VivriUYH5eMlIaquM_mNDXsSmrpWZMmyMs_0P5IW5wDu94CGfItAsCv6PUdjetIHNXC3hv92RmIOIzMhe4Cauku8",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सुरक्षाकर्मी (PSO) मृत फेला प्रकरण",
+      "date": "२०८०-०७-२१",
+      "details": "मन्त्री रहँदा उनको सुरक्षामा खटिएका सई यमबहादुर सुवेदी हेटौँडामा मृत फेला परेका थिए, जसले प्रशासनिक र सुरक्षा तहमा चर्चा पाएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfoEk0cnJx9pm2b-ydJS_2FZD18Z4ZVsiXop2Cosqo1XajXeeFPFSt8uGecsDa7V0MKvNrxT0NVyXhABvx71hnZPMac2jg0ojybSlmLT6_BIcOASVV63uMs_9aqxT69ne4hQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक विकास मन्त्रीबाट राजीनामा",
+      "date": "२०७७-०९-१०",
+      "details": "नेकपा भित्रको आन्तरिक विवाद र पार्टी विभाजनको प्रक्रिया सुरु भएपछि मुख्यमन्त्री डोरमणि पौडेल विरुद्ध अविश्वासको प्रस्ताव दर्ता गर्दै मन्त्री पदबाट राजीनामा दिएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY3JZwhoqwu_8LVShJk2WzMin8IXXMpxMDpzY-tCmTkh_LhS2e_1pySF9uYqz5S_gwYcqtCCLtl9fJQ_hDXjd230i-_rtWYa5m1DL89zZBH9hUn4tN04hvV9Hau6TS0IwHtbTgvn1-VhNz",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कोभिड-१९ संकट व्यवस्थापन",
+      "date": "२०७६-१२-१५",
+      "details": "सामाजिक विकास मन्त्रीको रूपमा बागमती प्रदेशमा कोभिड-१९ विरुद्धको प्रतिकार्य र स्वास्थ्य पूर्वाधार निर्माणको नेतृत्व गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKjnp8YZnJ5sFn33rkxuPHmkmJRj8O94D3NUspFS4VmIi6_GKp4_TUymBT0Z2e4dlodGQ86x1X3ALAF-HSWWKOVfP-fHUIIR-GfRV9IN8taXAAsH1CLjIPvePbjRIXkdat9lO4TY3k-qPoP52v",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बागमती प्रदेशको पहिलो सामाजिक विकास मन्त्री",
+      "date": "२०७४-११-१७",
+      "details": "प्रदेश स्थापना पश्चात् पहिलो सामाजिक विकास मन्त्री नियुक्त भई शिक्षा र स्वास्थ्य क्षेत्रमा सुधारका कार्यक्रम सुरु गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY3JZwhoqwu_8LVShJk2WzMin8IXXMpxMDpzY-tCmTkh_LhS2e_1pySF9uYqz5S_gwYcqtCCLtl9fJQ_hDXjd230i-_rtWYa5m1DL89zZBH9hUn4tN04hvV9Hau6TS0IwHtbTgvn1-VhNz",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागिता",
+      "date": "२०५२-१०-०१",
+      "details": "माओवादी जनयुद्धमा 'शरद' उपनामले सक्रिय योद्धाका रूपमा सहभागी भई राजनीतिक यात्रा अगाडि बढाएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnQSULHx0ZTipdBfBJ6E619aJaCguTTkvd1c1hWqFY-5IY6wbK_AuAEf5JT57enISd1Iy80WGDg0-BqFaxjUr9yFg27ZNq2x3PXGZIMcUK4C8-0Yi3Ud1TuiJ1XoAc2JeAf8w6Qz8jNMSZesXREt25CzlFslLECaF8f_BErEV0nBDEilElo8VnkYKDMj4fWZKQCdu2JIqxb6ffjNUWuqYBOb-tXiyhlDjxO8jDZrGbLo7RXMY5uBmuka33_FbYZvH3WAsKDYoHGCB2a8N7xTco8CmA3nJUSKkL",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "युवराज दुलाल 'शरद' सिन्धुपाल्चोकका एक प्रभावशाली र विकासप्रेमी नेताका रूपमा चिनिन्छन्। माओवादी जनयुद्धका पूर्व कमाण्डर उनले संसदीय राजनीतिमा पनि आफूलाई कुशलतापूर्वक स्थापित गरेका छन्। सिन्धुपाल्चोक २ (क) बाट दुई पटक प्रदेश सभामा निर्वाचित हुनुले उनको बलियो स्थानीय जनाधार पुष्टि गर्छ। बागमती प्रदेशमा सामाजिक विकास र भौतिक पूर्वाधार जस्ता महत्वपूर्ण मन्त्रालय सम्हाल्दा उनले सिन्धुपाल्चोकमा सडक र स्वास्थ्य पूर्वाधारका दर्जनौँ योजनाहरू भित्र्याउन सफल भएका छन्। कोभिड-१९ को समयमा स्वास्थ्य संरचना सुधारमा उनको सक्रियता प्रशंसनीय मानिन्छ। यद्यपि, मन्त्री पदमा रहँदा केही खरिद प्रक्रिया र प्रशासनिक विषयमा लेखापरीक्षणका प्रश्नहरू उठ्ने गरेका छन्। हाल उनी प्रदेश राजनीतिबाट संघको राजनीतिमा प्रवेश गर्ने तयारीमा छन्, जहाँ उनको प्रतिस्पर्धी एमाले र कांग्रेसका हेभीवेट नेताहरूसँग हुने देखिन्छ।",
+  "overall_approval_rating": 82
+}

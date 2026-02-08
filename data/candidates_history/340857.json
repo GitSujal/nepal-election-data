@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340857,
+  "candidate_name": "सन्दिप पुन",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eye_Election_Symbol_Nepal.png/220px-Eye_Election_Symbol_Nepal.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "युवा नेता तथा केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340857.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रुकुम (पूर्वी भाग)",
+      "constituency": "रुकुम (पूर्वी भाग) - १",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन कार्ययोजना सार्वजनिक",
+      "date": "२०८२-१०-२०",
+      "details": "रुकुम पूर्वको विकासका लागि शिक्षा, स्वास्थ्य र पर्यटनलाई प्राथमिकता दिँदै विस्तृत चुनावी कार्ययोजना सार्वजनिक गरेका।",
+      "link_to_source": "https://radiopurbirukum.com.np/news-details/1529/2026-02-03",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नयाँ पार्टी गठन र आबद्धता",
+      "date": "२०८२-०८-१४",
+      "details": "विभिन्न वामपन्थी शक्तिहरूको एकताबाट बनेको प्रगतिशील लोकतान्त्रिक पार्टीमा सक्रिय भूमिका खेल्दै नेतृत्व तहमा आबद्ध।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Pragatisheel_Loktantrik_Party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "रुकुम पूर्वबाट प्रतिनिधिसभा सदस्यका लागि कान्छो उम्मेदवारका रूपमा चुनावी मैदानमा उत्रिएका।",
+      "link_to_source": "https://ratopati.com/story/271810/2022/11/10/sandip-pun",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सशस्त्र द्वन्द्वको पीडित पृष्ठभूमि",
+      "date": "२०६०-०१-०१",
+      "details": "सशस्त्र द्वन्द्वका क्रममा आफ्ना आमाबुबा गुमाएका पुनले द्वन्द्वपीडितको आवाज उठाउँदै राजनीतिमा प्रवेश गरेका।",
+      "link_to_source": "https://ratopati.com/story/271810/2022/11/10/sandip-pun",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सन्दिप पुन रुकुम पूर्वको राजनीतिमा उदाउँदै गरेका एक युवा र जुझारु नेता हुन्। सशस्त्र द्वन्द्वका क्रममा आमाबुबा गुमाएका कारण उनी द्वन्द्वपीडितहरूका माझ लोकप्रिय छन्। उनले परम्परागत माओवादी राजनीतिको विकल्पका रूपमा 'प्रगतिशील लोकतान्त्रिक पार्टी' मार्फत नयाँ राजनीतिक बाटो रोजेका छन्। २०७९ को निर्वाचनमा पराजित भए तापनि उनले स्थानीय विकास, सडक सञ्जाल र युवा रोजगारीका मुद्दाहरूलाई सशक्त रूपमा उठाएका छन्। रुकुम पूर्व जस्तो कम्युनिष्ट गढमा उनले वैकल्पिक राजनीतिको जग बसाल्ने प्रयास गरिरहेका छन्। उनको छवि स्वच्छ र विकासप्रेमी युवा नेताको रूपमा रहेको छ।",
+  "overall_approval_rating": 65
+}

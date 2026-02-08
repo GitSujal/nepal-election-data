@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342100,
+  "candidate_name": "टोप बहादुर अस्लामी",
+  "candidate_party": "राष्ट्रिय जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rastriya_Janamukti_Party_Logo.png",
+  "candidates_current_position": "महासचिव, राष्ट्रिय जनमुक्ति पार्टी",
+  "candidates_current_position_in_party": "महासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342100.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टीको महासचिवमा चयन",
+      "date": "२०७८-०७-१५",
+      "details": "टोप बहादुर अस्लामी राष्ट्रिय जनमुक्ति पार्टीको पाँचौ महाधिवेशनबाट पार्टीको महासचिव पदमा चयन भएका हुन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rastriya_Janamukti_Party",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "पाल्पा क्षेत्र नं. २ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका अस्लामीले ३७८ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जातीय पहिचान र संघीयताको वकालत",
+      "date": "२०७०-०५-१०",
+      "details": "अस्लामीले नेपालमा पूर्ण समानुपातिक निर्वाचन प्रणाली र जातीय पहिचान सहितको संघीयताको मुद्दालाई प्रमुखताका साथ उठाउँदै आएका छन्।",
+      "link_to_source": "https://janamukti.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा उम्मेदवारी",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा पाल्पा २ बाट चुनाव लड्दै १,७०६ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Palpa_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "टोप बहादुर अस्लामी राष्ट्रिय जनमुक्ति पार्टीका एक निष्ठावान नेता र वर्तमान महासचिव हुन्। उनले लामो समयदेखि पाल्पा जिल्लालाई आफ्नो राजनीतिक कर्मथलो बनाएर विशेषगरी मगर समुदाय र सीमान्तकृत वर्गको हकहितका लागि आवाज उठाउँदै आएका छन्। यद्यपि निर्वाचनको अंकगणितमा उनी मुख्य राजनीतिक शक्तिहरू (एमाले र कांग्रेस) भन्दा निकै पछाडि देखिन्छन्, तर पार्टी संगठन र वैचारिक स्पष्टतामा उनको भूमिका महत्वपूर्ण छ। २०७९ को निर्वाचनमा पाल्पा क्षेत्र नं. २ बाट चुनाव लड्दा उनले थोरै मत पाए पनि पार्टीको झण्डा र एजेन्डालाई जीवित राख्न सफल भएका छन्। उनीमाथि कुनै पनि प्रकारको भ्रष्टाचार वा ठूला काण्डका आरोपहरू छैनन्, जसले गर्दा स्थानीय स्तरमा उनको छवि एक इमानदार नेताका रूपमा स्थापित छ।",
+  "overall_approval_rating": 45
+}

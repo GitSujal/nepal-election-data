@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339727,
+  "candidate_name": "हुम बहादुर गुरुङ्ग",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mongol_National_Organization_flag.png/220px-Mongol_National_Organization_flag.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339727.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "हुम बहादुर गुरुङ्गले कञ्चनपुर निर्वाचन क्षेत्र नम्बर ३ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए। उनी सो निर्वाचनमा भारी मतान्तरले पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339727",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रुपमा मनोनयन",
+      "date": "२०७९-०६-२३",
+      "details": "कञ्चनपुर बाहिरको स्थायी बासिन्दा भएतापनि उनले कञ्चनपुर-३ बाट उम्मेदवारी दिएका कारण उनलाई स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को रुपमा चित्रण गरिएको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/166531393356247941.html",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल पहिचान र जातीय अधिकारको वकालत",
+      "date": "२०७५-१०-१५",
+      "details": "उनले लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनमा आवद्ध भई आदिवासी जनजातिहरूको अधिकार र धर्मनिरपेक्षताका लागि सांगठनिक काम गर्दै आएका छन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mongol_National_Organisation",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "हुम बहादुर गुरुङ्ग मंगोल नेशनल अर्गनाइजेसनका एक सक्रिय कार्यकर्ता हुन् जसले २०७९ को आम निर्वाचनमा कञ्चनपुर-३ बाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए। उनको उम्मेदवारी मुख्यतया मंगोल पहिचान र 'मुलबासी' अधिकारको मुद्दामा केन्द्रित थियो। यद्यपि, स्रोत सामग्री अनुसार उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रुपमा लिइएको छ, किनकि उनको स्थायी बसोबास वा राजनीतिक आधार कञ्चनपुरमा बलियो देखिएन। मंगोल नेशनल अर्गनाइजेसनको प्रभाव मुख्यतया पूर्वी नेपालमा बढी रहेकाले सुदूरपश्चिमको कञ्चनपुरमा उनको उपस्थिति संगठनको उपस्थिति देखाउने रणनीतिको रुपमा मात्र सिमित रह्यो। स्थानीयस्तरमा पकड नहुनु र संगठनको कमजोर संरचनाका कारण उनले चुनावी नतिजा आफ्नो पक्षमा पार्न सकेनन्।",
+  "overall_approval_rating": 42
+}

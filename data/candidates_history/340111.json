@@ -1,0 +1,191 @@
+{
+  "candidate_id": 340111,
+  "candidate_name": "के.पी शर्मा ओली",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "निवर्तमान प्रधानमन्त्री / पूर्व प्रधानमन्त्री",
+  "candidates_current_position_in_party": "अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340111.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "झापा",
+      "constituency": "७",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "झापा",
+      "constituency": "७",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रर्दशनपछि प्रधानमन्त्री पदबाट राजीनामा",
+      "date": "२०८२-०५-२४",
+      "details": "भ्रष्टाचार र सामाजिक सञ्जाल प्रतिबन्धविरुद्ध भएको 'जेनजी' आन्दोलनमा हिंसा भड्किएपछि ओलीले प्रधानमन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.deccanherald.com/world/nepal-politics-kp-sharma-olis-fall-from-power-highlights-failure-to-ensure-stability-3183188",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "चौथो पटक प्रधानमन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "नेपाली कांग्रेसको समर्थनमा ओली संविधानको धारा ७६ (२) बमोजिम चौथो कार्यकालका लागि प्रधानमन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://www.hindustantimes.com/world-news/kp-sharma-oli-appointed-as-nepals-new-prime-minister-who-is-he-101720938360252.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभाको दोस्रो विघटन",
+      "date": "२०७८-०२-०८",
+      "details": "आफूसँग बहुमत रहेको दाबी गर्दै ओलीले मध्यरातमा दोस्रो पटक प्रतिनिधिसभा विघटन गरेका थिए, जसलाई सर्वोच्च अदालतले बदर गरिदियो।",
+      "link_to_source": "https://kathmandupost.com/national/2021/05/22/in-a-midnight-drama-nepal-president-dissolves-house-and-calls-polls-for-november-12-and-19",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभाको पहिलो विघटन",
+      "date": "२०७७-०९-०५",
+      "details": "आन्तरिक पार्टी विवादका कारण ओलीले संसद विघटन गरी मध्यावधि निर्वाचनको घोषणा गरेका थिए, जसलाई सर्वोच्चले असंवैधानिक ठहर गर्यो।",
+      "link_to_source": "https://www.orfonline.org/expert-speak/nepal-supreme-courts-verdict-on-dissolution-of-parliament-and-the-emerging-situation",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपालको नयाँ नक्सा प्रकाशन",
+      "date": "२०७७-०३-०३",
+      "details": "लिम्पियाधुरा, लिपुलेक र कालापानी समावेश गरी नेपालको नयाँ राजनीतिक नक्सा सार्वजनिक गर्ने ऐतिहासिक निर्णय उनको कार्यकालमा भएको थियो।",
+      "link_to_source": "https://www.hindustantimes.com/world-news/kp-sharma-oli-appointed-as-nepals-new-prime-minister-who-is-he-101720938360252.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ओम्नी र यती ग्रुप घोटाला काण्ड",
+      "date": "२०७६-१२-१८",
+      "details": "कोरोना महामारीका बेला स्वास्थ्य सामग्री खरिदमा ओम्नी ग्रुपसँग भएको सम्झौता र यती ग्रुपलाई सरकारी जग्गा लिजमा दिँदा भ्रष्टाचार भएको आरोप लाग्यो।",
+      "link_to_source": "https://nepallive.com/story/252327",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दोस्रो पटक प्रधानमन्त्रीमा नियुक्ति",
+      "date": "२०७४-११-०३",
+      "details": "वाम गठबन्धनको भारी बहुमतपछि ओली शक्तिशाली प्रधानमन्त्रीको रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/114",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो पटक प्रधानमन्त्रीमा नियुक्ति",
+      "date": "२०७२-०६-२४",
+      "details": "संविधान जारी भएपछि भारतीय नाकाबन्दीको डटेर सामना गर्दै उनी पहिलो पटक प्रधानमन्त्री बनेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%96%E0%A4%A1%E0%A5%8D%E0%A4%97%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6_%E0%A4%93%E0%A4%B2%E0%A5%80",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले अध्यक्षमा निर्वाचित",
+      "date": "२०७१-०३-२५",
+      "details": "नवौं महाधिवेशनमा माधव कुमार नेपाललाई पराजित गर्दै ओली पहिलो पटक नेकपा एमालेको अध्यक्ष बनेका थिए।",
+      "link_to_source": "https://cpnuml.org/content/kp-sharma-oli",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वाइडबडी विमान खरिद भ्रष्टाचार",
+      "date": "२०७५-०९-१८",
+      "details": "वायुसेवा निगमको विमान खरिदमा ४ अर्बभन्दा बढी भ्रष्टाचार भएको संसदीय समितिको प्रतिवेदन आए पनि ओलीले मन्त्रीहरूको बचाउ गरेका थिए।",
+      "link_to_source": "https://www.muktikhabar.com/2020/04/18/14761/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "३३ किलो सुन काण्ड",
+      "date": "२०७४-१२-०२",
+      "details": "सुन तस्करी र सनम शाक्य हत्या प्रकरणमा ठूला माछा पक्रने दाबी गरिए पनि अनुसन्धान प्रभावित पारेको आरोप सरकारमाथि लाग्यो।",
+      "link_to_source": "https://www.muktikhabar.com/2020/04/18/14761/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "परराष्ट्रमन्त्री तथा उपप्रधानमन्त्री",
+      "date": "२०६३-०१-१९",
+      "details": "दोस्रो जनआन्दोलनपछि बनेको अन्तरिम सरकारमा ओलीले उपप्रधान एवं परराष्ट्रमन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://cpnuml.org/content/kp-sharma-oli",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिलो पटक गृहमन्त्री",
+      "date": "२०५१-०८-१४",
+      "details": "मनमोहन अधिकारीको नेतृत्वमा बनेको पहिलो कम्युनिष्ट सरकारमा ओलीले गृहमन्त्रीको कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%96%E0%A4%A1%E0%A5%8D%E0%A4%97%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A6_%E0%A4%93%E0%A4%B2%E0%A5%80",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१४ वर्ष जेल जीवन",
+      "date": "२०३०-०१-०१",
+      "details": "पञ्चायती व्यवस्थाविरुद्धको झापा आन्दोलनका क्रममा राजकाज मुद्दामा उनले १४ वर्ष लामो कठोर कारावास भोगेका थिए।",
+      "link_to_source": "https://www.weforum.org/people/k-p-sharma-oli/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "झापा आन्दोलनको नेतृत्व",
+      "date": "२०२८-०२-०१",
+      "details": "झापा आन्दोलन संगठन कमिटीको प्रमुख भई क्रान्तिकारी कम्युनिष्ट आन्दोलनको सुरुवात गरेका थिए।",
+      "link_to_source": "https://cpnuml.org/content/kp-sharma-oli",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "के.पी शर्मा ओली नेपाली राजनीतिको एक अत्यन्त प्रभावशाली र चतुर खेलाडी हुन्। झापा-५ बाट निरन्तर विजयी भए पनि स्रोत डेटामा उनलाई 'पर्यटक उम्मेदवार' भनिनुले उनी राष्ट्रिय राजनीतिमा बढी केन्द्रित हुँदा स्थानीय समस्याबाट टाढिएको देखाउँछ। उनले झापाका ६, २, ७ र ५ गरी विभिन्न क्षेत्र परिवर्तन गरिरहनु (वागुवा प्रवृत्ति) लाई चुनावी रणनीतिको रूपमा हेरिन्छ। भारतीय नाकाबन्दी विरुद्धको अडान र नयाँ नक्सा प्रकाशनले उनलाई 'राष्ट्रवादी' छवि दिए पनि दुई पटकको संसद विघटन र ओम्नी, यती जस्ता भ्रष्टाचार काण्डले उनको साख गिराएको छ। सन् २०२५ मा भ्रष्टाचार विरोधी प्रदर्शनका कारण उनले राजीनामा दिनुपरेको घटनाले उनको लोकप्रियतामा ठूलो धक्का पुगेको छ। उनको कार्यकाल विकासका नारामा केन्द्रित भए पनि कार्यान्वयन र सुशासनको पक्षमा भने निकै कमजोर र विवादास्पद रह्यो।",
+  "overall_approval_rating": 58
+}

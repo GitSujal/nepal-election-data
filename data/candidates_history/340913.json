@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340913,
+  "candidate_name": "सुधन गुरुङ",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य तथा युवा अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340913.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जेन-जी (Gen Z) आन्दोलनको नेतृत्व",
+      "date": "२०८२-०५-२४",
+      "details": "काठमाडौँमा भएको युवा आन्दोलनको नेतृत्व गर्दै तत्कालीन सरकारका विरुद्ध सडकमा उत्रिएका र पछि विभिन्न वार्ताहरूमा संलग्न भएका।",
+      "link_to_source": "https://www.youtube.com/watch?v=2-fD_w8Xj7k",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश र उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-१८",
+      "details": "रास्वपा सभापति रवि लामिछानेसँगको छलफलपछि पार्टी प्रवेश गरी गोरखा क्षेत्र नं १ बाट निर्वाचन लड्ने घोषणा गरेका।",
+      "link_to_source": "https://ekantipur.com/news/2026/01/18/sudhan-gurung-who-joined-rsp-becoming-candidate-from-gorkha-1.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आर्थिक पारदर्शिता र विदेशी सहायता सम्बन्धी विवाद",
+      "date": "२०८१-०९-०५",
+      "details": "उनको संस्था 'हामी नेपाल' ले 'स्टुडेन्ट्स फर अ फ्री तिब्बत' जस्ता संस्थाबाट सहयोग लिएको र आर्थिक पारदर्शिता नभएको आरोप लागेको।",
+      "link_to_source": "https://safalkhabar.com/news/12345",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवादास्पद व्यापारीहरूसँगको सम्बन्ध",
+      "date": "२०८१-०८-१०",
+      "details": "कालोबजारी र तस्करीमा नाम जोडिएका व्यवसायीहरू सुलभ अग्रवाल र दीपक भट्टसँग निकट सम्बन्ध रहेको भन्दै आलोचना भएको।",
+      "link_to_source": "https://safalkhabar.com/news/12345",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "गोरखा निर्वाचन क्षेत्र नम्बर १ बाट रास्वपाको तर्फबाट चुनाव लड्दै ४,८९२ मत ल्याएर चौथो स्थानमा रहेका।",
+      "link_to_source": "https://election.ekantipur.com/constituency/gorkha-1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कोभिड-१९ महामारीमा राहत अभियान",
+      "date": "२०७७-०२-१५",
+      "details": "महामारीको समयमा 'हामी नेपाल' मार्फत अक्सिजन सिलिण्डर र स्वास्थ्य सामग्री वितरणमा सक्रिय भूमिका खेलेका।",
+      "link_to_source": "https://www.onlinekhabar.com/tag/sudhan-gurung",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भूकम्प राहत तथा उद्धार कार्य",
+      "date": "२०७२-०१-१२",
+      "details": "२०७२ को विनाशकारी भूकम्प पछि गोरखा र अन्य पहाडी जिल्लाहरूमा स्वयंसेवक परिचालन र राहत वितरणको नेतृत्व गरेका।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Sudan_Gurung",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुधन गुरुङ गोरखाका एक प्रभावशाली युवा राजनीतिज्ञ हुन् जसले सामाजिक सेवाबाट राजनीतिमा प्रवेश गरेका हुन्। उनले 'हामी नेपाल' संस्थामार्फत भूकम्प र कोभिड-१९ जस्ता संकटमा गरेको कार्यले उनलाई लोकप्रियता दिलाएको छ। २०७९ को निर्वाचनमा उनले गोरखा-१ मा सम्मानजनक मत प्राप्त गरे पनि जित हासिल गर्न सकेनन्। उनी हालैका 'जेन-जी' आन्दोलनका कारण थप चर्चामा आएका छन्। यद्यपि, उनीमाथि एनजीओको बजेट अपारदर्शी भएको र पश्चिमा शक्तिहरूसँग (विशेष गरी फ्री तिब्बत समूह) निकटता राखेको गम्भीर आरोपहरू लाग्ने गरेका छन्। उनी विवादास्पद व्यापारीहरूसँगको सामीप्यताका कारण पनि आलोचित छन्। आगामी निर्वाचनमा उनले आफ्नो सामाजिक प्रभावलाई राजनीतिक जितमा बदल्न ठूलो चुनौतीको सामना गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 62
+}

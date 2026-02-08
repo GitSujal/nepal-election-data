@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340270,
+  "candidate_name": "कमरुल्लाह अंसारी",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Janamat_Party_Logo.png/220px-Janamat_Party_Logo.png",
+  "candidates_current_position": "राजनीतिक नेता",
+  "candidates_current_position_in_party": "बारा जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340270.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. १ (२)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य (उपनिर्वाचन)",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनमत पार्टीमा आबद्धता",
+      "date": "२०८०-०४-१५",
+      "details": "नागरिक उन्मुक्ति पार्टी परित्याग गरी अंसारी जनमत पार्टीमा प्रवेश गरेका हुन्। मधेस केन्द्रित राजनीतिमा आफ्नो प्रभाव बढाउन उनले यो कदम चालेको बुझिन्छ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/kamrullah-ansari-10",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बारा क्षेत्र नं. २ उपनिर्वाचनमा लज्जास्पद हार",
+      "date": "२०८०-०१-१०",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर २ मा भएको उपनिर्वाचनमा नागरिक उन्मुक्ति पार्टीबाट उम्मेदवार बनेका उनले मात्र १०९ मत प्राप्त गरी सातौं स्थानमा रहे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/kamrullah-ansari-10",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "प्रतिनिधि सभा तथा प्रदेश सभा निर्वाचन २०७९ मा उनले बारा क्षेत्र नं. १ (२) बाट स्वतन्त्र उम्मेदवारी दिएका थिए। सो निर्वाचनमा उनले ७०८ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/election2022/pradesh-2/district-bara",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कमरुल्लाह अंसारी बारा जिल्लाको राजनीतिमा एक अस्थिर पात्रका रूपमा देखिएका छन्। छोटो समय अन्तरालमै उनले स्वतन्त्र उम्मेदवारीबाट सुरु गरी नागरिक उन्मुक्ति पार्टी हुँदै हाल जनमत पार्टीसम्मको यात्रा तय गरेका छन्। निर्वाचन परिणामहरूलाई हेर्दा उनको जनमत निकै कमजोर देखिन्छ, विशेष गरी २०८० को उपनिर्वाचनमा उनले प्राप्त गरेको न्युनतम मत (१०९) ले उनको साखमा प्रश्न उठाएको छ। बाराको स्थानीय राजनीतिमा आफ्नो स्थान सुरक्षित गर्न उनले बारम्बार निर्वाचन क्षेत्र र दल परिवर्तन गर्ने गरेको देखिन्छ। यद्यपि उनी स्थानीय स्तरमा सक्रिय छन्, तर राजनीतिक विचारमा स्थिरता नहुँदा मतदाताहरूमाझ उनको विश्वसनीयता स्थापित हुन सकेको छैन।",
+  "overall_approval_rating": 35
+}

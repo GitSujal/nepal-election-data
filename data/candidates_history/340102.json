@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340102,
+  "candidate_name": "अर्जुन कुमार गुरुङ",
+  "candidate_party": "नेशनल रिपब्लिक नेपाल",
+  "candidate_party_logo": "https://election.gov.np/uploads/party_logo/national-republic-nepal.png",
+  "candidates_current_position": "राजनीतिज्ञ तथा समाजसेवी",
+  "candidates_current_position_in_party": "सक्रिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340102.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "नेशनल रिपब्लिक नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "उनले स्याङ्जा निर्वाचन क्षेत्र नम्बर १ (ख) बाट नेशनल रिपब्लिक नेपालको तर्फबाट प्रदेश सभा सदस्यका लागि चुनाव लडेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340102",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता र निर्वाचन अभियान",
+      "date": "२०७९-०७-२३",
+      "details": "राष्ट्रियता र सामाजिक न्यायको एजेन्डासहित उनले निर्वाचन आयोगमा आफ्नो उम्मेदवारी विधिवत दर्ता गराएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/arjun-kumar-gurung/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात र सामाजिक कार्य",
+      "date": "२०५०-०१-०१",
+      "details": "उनले स्याङ्जा जिल्लामा स्थानीयस्तरमा विभिन्न सामाजिक र सामुदायिक विकासका कार्यहरू मार्फत आफ्नो राजनीतिक यात्रा सुरु गरेका हुन्।",
+      "link_to_source": "https://sajilopatrika.com/arjun-kumar-gurung/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अर्जुन कुमार गुरुङ स्याङ्जा क्षेत्र नं. १ (ख) बाट २०७९ को प्रदेश सभा निर्वाचनमा नेशनल रिपब्लिक नेपालका तर्फबाट चुनावी मैदानमा उत्रिएका थिए। ८ कक्षासम्मको शिक्षा प्राप्त गरेका गुरुङ मुख्यतया साना दलको प्रतिनिधित्व गर्ने र स्थानीय स्तरमा समाजसेवीको छवि बनाउन प्रयासरत व्यक्ति हुन्। निर्वाचनमा उनले प्राप्त गरेको मत निकै कम (करिब १० मत) रहेकाले उनको चुनावी प्रभाव र संगठन निकै कमजोर देखिन्छ। यद्यपि, उनको राजनीतिक जीवनमा हालसम्म कुनै ठूला भ्रष्टाचार वा काण्डका विवरणहरू सार्वजनिक भएका छैनन्। उनी आफ्नो पार्टीको नीति अनुरूप राष्ट्रियता र क्षेत्रीय विकासका मुद्दाहरूमा केन्द्रित रहेर राजनीतिमा सक्रिय छन्।",
+  "overall_approval_rating": 35
+}

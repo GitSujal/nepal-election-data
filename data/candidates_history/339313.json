@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339313,
+  "candidate_name": "चन्द्र कुमारी गारु",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_the_Nepal_Workers_Peasants_Party.svg/1200px-Flag_of_the_Nepal_Workers_Peasants_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "नेपाल मजदुर किसान पार्टी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339313.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "झापा निर्वाचन क्षेत्र नम्बर २ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट उम्मेदवारी दिएकी थिइन्। उनले ७३ मत प्राप्त गरेकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विस्तार अभियान र झापामा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "नेपाल मजदुर किसान पार्टीले देशभर आफ्नो संगठन विस्तार गर्ने रणनीति अन्तर्गत चन्द्र कुमारी गारुलाई झापामा 'पर्यटक उम्मेदवार' को रूपमा खडा गरेको थियो।",
+      "link_to_source": "https://nepalnews.com/s/politics/hor-election-famous-candidates-and-election-issues-in-jhapa-constituency-no-2",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लामो समयदेखि पार्टीमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "उनी लामो समयदेखि नेपाल मजदुर किसान पार्टीको अनुशासित कार्यकर्ताको रूपमा क्रियाशील रहँदै आएकी छन्।",
+      "link_to_source": "https://wikipedia.org/wiki/Nepal_Workers_Peasants_Party",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चन्द्र कुमारी गारु नेपाल मजदुर किसान पार्टी (नेमकिपा) की एक समर्पित कार्यकर्ता हुन्। उनले २०७९ को निर्वाचनमा झापा क्षेत्र नं. २ बाट प्रतिनिधि सभाको लागि उम्मेदवारी दिएकी थिइन्, जहाँ उनले निकै कम ७३ मत मात्र प्राप्त गरिन्। नेमकिपाको मुख्य प्रभाव क्षेत्र भक्तपुर भए पनि पार्टीको राष्ट्रिय उपस्थितिलाई बलियो बनाउन उनलाई झापा जस्तो सुदूर पूर्वी जिल्लामा उम्मेदवार बनाइएको देखिन्छ। यस कारण उनलाई राजनीतिक वृत्तमा 'पर्यटक उम्मेदवार' को रूपमा चिनिन्छ, किनकि उनको स्थानीय प्रभाव र मतदाता आधार झापामा न्यून रहेको पाइएको छ। उनी विरुद्ध कुनै पनि सार्वजनिक भ्रष्टाचार वा विवादका मुद्दाहरू भेटिएका छैनन्, जुन नेमकिपाका कार्यकर्ताहरूको साझा विशेषता हो। यद्यपि, चुनावी परिणाम र प्रभावका हिसाबले उनी एक कमजोर उम्मेदवारको रूपमा देखिन्छिन्।",
+  "overall_approval_rating": 45
+}

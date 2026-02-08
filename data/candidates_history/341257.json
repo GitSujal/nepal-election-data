@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341257,
+  "candidate_name": "सम्झना विष्ट थापा",
+  "candidate_party": "मितेरी पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_Naglo.png/120px-Election_Symbol_Naglo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341257.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मितेरी पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सम्झना विष्ट थापाले कैलाली निर्वाचन क्षेत्र नम्बर २ बाट मितेरी पार्टी नेपालको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता गराउनुभएको थियो।",
+      "link_to_source": "https://gorkhapatraonline.com/news/41810",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "महिला प्रतिनिधित्वको पहल",
+      "date": "२०७९-०७-१५",
+      "details": "सुदूरपश्चिमका १६ निर्वाचन क्षेत्रमध्ये महिला उम्मेदवारहरूको न्यून उपस्थिति रहेको अवस्थामा उनले एक वैकल्पिक शक्तिको रूपमा उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://gorkhapatraonline.com/news/41810",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सम्झना विष्ट थापा २०७९ को निर्वाचनमा कैलाली निर्वाचन क्षेत्र नम्बर २ बाट मितेरी पार्टी नेपालको उम्मेदवार हुनुहुन्थ्यो। स्रोतका अनुसार उहाँलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ, जसको अर्थ उहाँ सो क्षेत्रको स्थायी बासिन्दा नभई निर्वाचनका लागि मात्र त्यहाँ पुग्नुभएको हो। मितेरी पार्टी नेपाल जस्तो सानो र नयाँ दलबाट उम्मेदवारी दिएका कारण र स्थानीय स्तरमा बलियो संगठन नभएकाले उहाँले निर्वाचनमा उल्लेख्य मत प्राप्त गर्न सक्नुभएन। उहाँको राजनीतिक यात्रा हाल प्रारम्भिक चरणमा रहेको देखिन्छ र उहाँको प्रभाव मुख्यतया साना दलको उपस्थितिलाई जनाउनमा सीमित छ। कुनै ठूला राजनीतिक काण्ड वा भ्रष्टाचारका घटनामा उहाँको नाम जोडिएको भेटिएको छैन।",
+  "overall_approval_rating": 20
+}

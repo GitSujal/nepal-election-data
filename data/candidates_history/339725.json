@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339725,
+  "candidate_name": "राजेन्द्र कुमार राई",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339725.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "खानेपानी मन्त्रीमा नियुक्त",
+      "date": "२०८०-११-२३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा खानेपानी मन्त्रीको रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://wikipedia.org/wiki/Rajendra_Kumar_Rai_(Nepalese_politician,_born_1964)",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भूमिव्यवस्था, सहकारी तथा गरिबी निवारण मन्त्री",
+      "date": "२०७९-०९-११",
+      "details": "नयाँ गठबन्धन सरकारमा मन्त्री नियुक्त भएका तर छोटो समयपछि नै एमाले सरकारबाट बाहिरिएपछि राजीनामा दिएका।",
+      "link_to_source": "https://wikipedia.org/wiki/Rajendra_Kumar_Rai_(Nepalese_politician,_born_1964)",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा जित",
+      "date": "२०७९-०८-०८",
+      "details": "लोकतान्त्रिक वाम गठबन्धनका साझा उम्मेदवार सुनील बहादुर थापालाई १३८७ मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1224151",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले विभाजनमा संस्थापन पक्षमा अडिग",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भएर एकीकृत समाजवादी बन्दा उनी केपी शर्मा ओलीकै पक्षमा रहेर पार्टी एकताको लागि वकालत गरेका।",
+      "link_to_source": "https://cpnuml.org",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ प्रतिनिधि सभा निर्वाचनमा भारी मतले विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "धनकुटाबाट ३७,३३३ मत ल्याई राप्रपाका सुनील बहादुर थापालाई १० हजारभन्दा बढी मतान्तरले पराजित गरेका।",
+      "link_to_source": "https://nagariknetwork.com/news/32824/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "धनकुटा जिल्ला अध्यक्ष",
+      "date": "२०६६-०१-०१",
+      "details": "वि.सं. २०६६ देखि २०७८ सम्म नेकपा एमाले धनकुटाको जिल्ला अध्यक्षको रूपमा सफल कार्यकाल सम्हालेका।",
+      "link_to_source": "https://cpnuml.org",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा संघ नेपालको केन्द्रीय अध्यक्ष",
+      "date": "२०४९-०१-०१",
+      "details": "एमालेको भ्रातृ संगठन युवा संघ नेपालको नेतृत्व सम्हाल्दै युवा आन्दोलनलाई उचाईमा पुर्‍याएको।",
+      "link_to_source": "https://cpnuml.org",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जेल जीवन र पञ्चायत विरोधी आन्दोलन",
+      "date": "२०४१-०१-०१",
+      "details": "पञ्चायती व्यवस्था विरुद्धको आन्दोलनमा सहभागी हुँदा पटक-पटक हिरासत र जेल जीवन बिताएको।",
+      "link_to_source": "https://cpnuml.org",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राजेन्द्र कुमार राई धनकुटाको राजनीतिमा एक अपराजित जस्तै शक्ति हुन्। उनले धनकुटाको रैथाने शक्ति मानिने सूर्यबहादुर थापाको विरासतलाई उनकै छोरा सुनील बहादुर थापालाई लगातार दुई पटक पराजित गरेर अन्त्य गरिदिएका छन्। उनी विद्यार्थी राजनीतिदेखि नै खारिएका र पार्टीको संगठन निर्माणमा पोख्त मानिन्छन्। धनकुटालाई एमालेको 'लालकिल्ला' बनाउन उनको मुख्य भूमिका रहेको छ। यद्यपि, धनकुटालाई प्रदेश राजधानी बनाउने आन्दोलनमा नेतृत्वदायी भूमिका निर्वाह गरे पनि सफल नभएकोमा स्थानीय स्तरमा केही आलोचना सुनिन्छ। दुई पटक संघीय मन्त्री बने पनि सत्ता समीकरणको अस्थिरताका कारण उनले ठोस काम देखाउने समय पाएनन्। उनको चुनावी आधार बलियो छ र उनी जिल्लामा 'संगठक' नेताको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 88
+}

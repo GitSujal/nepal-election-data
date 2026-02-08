@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340341,
+  "candidate_name": "हरसलाल राजवंशी",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_the_Janamat_Party.png",
+  "candidates_current_position": "शिक्षक तथा राजनीतिक नेता",
+  "candidates_current_position_in_party": "झापा जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340341.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "झापा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र/क्षेत्रीय दल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०८२ मा उम्मेदवारी",
+      "date": "२०८२-११-२१",
+      "details": "झापा निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि जनमत पार्टीको तर्फबाट उम्मेदवारी घोषणा।",
+      "link_to_source": "https://www.ratopati.com/story/469443/2026/2/4/election-candidates",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "जनमत पार्टीको तर्फबाट झापा ३ मा प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरे पनि पराजित भएका।",
+      "link_to_source": "https://nagariknetwork.com/news/134442-1674554321.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षण पेशाबाट अवकाश",
+      "date": "२०७५-०१-०१",
+      "details": "३७ वर्षसम्म विभिन्न विद्यालयहरूमा शिक्षण सेवा प्रदान गरी अवकाश प्राप्त गरेका।",
+      "link_to_source": "https://nepsebajar.com/candidates/harsalal-rajbanshi-340341",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०७० मा प्रतिस्पर्धा",
+      "date": "२०७०-०८-०४",
+      "details": "झापाबाट दोस्रो संविधान सभा निर्वाचनमा उम्मेदवारी दिएका तर निर्वाचित हुन सकेनन्।",
+      "link_to_source": "https://nepsebajar.com/candidates/harsalal-rajbanshi-340341",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजवंशी समुदायको हकहितका लागि सक्रियता",
+      "date": "२०६५-०५-१०",
+      "details": "झापाको आदिवासी राजवंशी समुदायको पहिचान र अधिकारका लागि विभिन्न सामाजिक संघ-संस्थामार्फत नेतृत्वदायी भूमिका निर्वाह।",
+      "link_to_source": "https://www.onlinekhabar.com/2026/02/1256485",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "हरसलाल राजवंशी झापा जिल्लाका एक अनुभवी र प्रतिष्ठित व्यक्तित्व हुन्। ३७ वर्षसम्म शिक्षण पेशामा रहेका कारण उनलाई स्थानीय स्तरमा 'गुरु' को रूपमा सम्मान गरिन्छ। उनी झापाको रैथाने राजवंशी समुदायको प्रतिनिधित्व गर्दछन् र जनमत पार्टीमार्फत सीमान्तकृत समुदायको आवाज संसदमा पुर्याउने लक्ष्य राखेका छन्। झापा ३ जस्तो हेभीवेट क्षेत्रमा राजेन्द्र लिङ्देन र कृष्णप्रसाद सिटौलासँगको प्रतिस्पर्धा उनका लागि चुनौतीपूर्ण रहे पनि उनको निष्कलंक छवि र बौद्धिक व्यक्तित्व उनको शक्ति हो। पछिल्ला निर्वाचनहरूमा पराजित भए तापनि उनी निरन्तर रूपमा आफ्नो एजेन्डासहित जनतामाझ गइरहेका छन्।",
+  "overall_approval_rating": 62
+}

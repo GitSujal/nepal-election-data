@@ -1,0 +1,95 @@
+{
+  "candidate_id": 341696,
+  "candidate_name": "अनिल कुमार झा",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341696.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली काँग्रेसमा प्रवेश र उम्मेदवारी",
+      "date": "२०८२-१०-०६",
+      "details": "आफ्नो नेतृत्वको नेपाल सद्भावना पार्टीलाई नेपाली काँग्रेसमा विलय गराउँदै रौतहट क्षेत्र नं. १ बाट उम्मेदवार चयन।",
+      "link_to_source": "https://nepalkhabar.com/politics/205625-2026-01-20-07-26-38",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "धनुषाबाट निर्वाचनमा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नं. ३ बाट लोसपाका उम्मेदवारका रूपमा चुनाव लडेका झा नेकपा एमालेकी जुली महतोसँग पराजित।",
+      "link_to_source": "https://onlinekhabar.com/2022/10/1202573",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "श्रीमती डिम्पल झाको निधन",
+      "date": "२०७९-०१-११",
+      "details": "झाकी श्रीमती तथा पूर्व राज्यमन्त्री डिम्पल कुमारी झाको क्यान्सरका कारण काठमाडौंमा निधन।",
+      "link_to_source": "https://wikipedia.org/wiki/Anil_Kumar_Jha",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "खानेपानी मन्त्रीबाट सर्वोच्चद्वारा पदमुक्त",
+      "date": "२०७८-०३-०८",
+      "details": "केपी ओली सरकारमा मन्त्री नियुक्त भएको १८ दिनमै सर्वोच्च अदालतको अन्तरिम आदेशले पदमुक्त।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/minister-jhas-homecoming-spoiled",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "रौतहट क्षेत्र नं. १ बाट २१,४७२ मत प्राप्त गरी विजयी।",
+      "link_to_source": "https://nepsebajar.com/election/341696/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उद्योग मन्त्रीका रूपमा कार्य",
+      "date": "२०६८-०५-३०",
+      "details": "बाबुराम भट्टराई नेतृत्वको सरकारमा उद्योग मन्त्रीका रूपमा जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://wikipedia.org/wiki/Anil_Kumar_Jha",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महाप्रबन्धकहरू हटाउने निर्णय बदर",
+      "date": "२०६८-०८-१५",
+      "details": "उद्योग मन्त्री हुँदा १० संस्थानका महाप्रबन्धक हटाउने झाको निर्णयलाई सर्वोच्चले बदर गरिदिएको।",
+      "link_to_source": "https://nagariknetwork.com/news/32959/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "अनिल कुमार झा मधेस केन्द्रित राजनीतिबाट मूलधारको राजनीतिमा प्रवेश गरेका नेता हुन्। २०७४ को निर्वाचनमा रौतहटबाट विजयी भए तापनि २०७९ मा उनले आफ्नो निर्वाचन क्षेत्र परिवर्तन गरी धनुषा ३ रोजेका थिए, जहाँ उनले पराजय भोग्नुपर्यो। यसरी निर्वाचन क्षेत्र परिवर्तन गर्ने (Vaguwa) र बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण उनको राजनीतिक स्थिरतामाथि प्रश्न उठ्ने गरेको छ। हालै उनले आफ्नै नेतृत्वको दललाई नेपाली काँग्रेसमा विलय गराउनुलाई आफ्नो चुनावी साख जोगाउने अन्तिम प्रयासका रूपमा हेरिएको छ। उद्योग र खानेपानी मन्त्रीका रूपमा उनी विवादरहित रहन सकेनन्, विशेष गरी कर्मचारी सरुवा-बढुवामा सर्वोच्चको हस्तक्षेपले उनको छविमा असर पुर्याएको छ। रौतहटमा उनको व्यक्तिगत प्रभाव राम्रो भए तापनि 'टुरिस्ट' उम्मेदवारको ट्याग र पछिल्लो हारले उनको राजनीतिक भविष्य चुनौतीपूर्ण बनाएको छ।",
+  "overall_approval_rating": 48
+}

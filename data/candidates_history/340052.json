@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340052,
+  "candidate_name": "दामोदर पौडेल वैरागी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "गण्डकी प्रदेश कमिटी सचिवालय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340052.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०९",
+      "details": "कास्की निर्वाचन क्षेत्र नम्बर ३ बाट २२ हजार ९८० मत प्राप्त गरी प्रतिनिधि सभा सदस्यमा निर्वाचित। उनले निकटतम प्रतिद्वन्द्वी माओवादी केन्द्रका रामजी प्रसाद बराललाई ५,४४५ मतान्तरले पराजित गरेका थिए।",
+      "link_to_source": "https://risingnepaldaily.com/news/19598",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा एमाले कास्की जिल्ला अध्यक्ष",
+      "date": "२०७८-१०-२५",
+      "details": "नेकपा एमाले कास्कीको दशौँ जिल्ला अधिवेशनबाट सर्वसम्मत रूपमा जिल्ला कमिटीको अध्यक्षमा निर्वाचित।",
+      "link_to_source": "https://ekantipur.com/election-2079/2022/11/25/166935270146959986.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भूमि समस्या समाधान आयोगको कास्की अध्यक्ष",
+      "date": "२०७७-०३-१५",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारको समयमा कास्की जिल्लाको भूमिसम्बन्धी समस्या समाधान आयोगको अध्यक्षका रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-damodar-paudel-bairagi-340052",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमाले कास्की सचिव",
+      "date": "२०७०-०१-०१",
+      "details": "२०७० देखि २०७६ सम्म नेकपा एमाले कास्कीको जिल्ला सचिवको रूपमा सांगठनिक नेतृत्व सम्हालेका।",
+      "link_to_source": "https://recentsnews.com/labor-leader-damodar-paudel-bairagi-contests-again-from-kaski-3-with-a-vision-for-prosperity/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शाही शासनकालमा हिरासत र यातना",
+      "date": "२०६१-०१-०१",
+      "details": "२०६१ सालमा शाही सेनाले उनलाई नियन्त्रणमा लिई बंकरमा राखेर निर्मम शारीरिक र मानसिक यातना दिएको थियो।",
+      "link_to_source": "https://recentsnews.com/labor-leader-damodar-paudel-bairagi-contests-again-from-kaski-3-with-a-vision-for-prosperity/",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिफन्ट (GEFONT) नेतृत्व",
+      "date": "२०४५-०१-०१",
+      "details": "२०४५ देखि २०५५ सम्म नेपाल ट्रेड युनियन महासंघ (जिफन्ट) मा नेतृत्वदायी भूमिका निर्वाह गर्दै मजदुर आन्दोलनमा सक्रिय।",
+      "link_to_source": "https://recentsnews.com/labor-leader-damodar-paudel-bairagi-contests-again-from-kaski-3-with-a-vision-for-prosperity/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पञ्चायत विरोधी आन्दोलनमा घाइते",
+      "date": "२०४२-०१-०१",
+      "details": "२०४२ र २०४६ को जनआन्दोलनका क्रममा राजतन्त्र समर्थकहरूसँगको झडपमा गम्भीर घाइते भएका थिए।",
+      "link_to_source": "https://recentsnews.com/labor-leader-damodar-paudel-bairagi-contests-again-from-kaski-3-with-a-vision-for-prosperity/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल कम्युनिष्ट पार्टी (माले) मा प्रवेश",
+      "date": "२०३९-०१-०१",
+      "details": "२०३९ सालमा तत्कालीन नेकपा (माले) मा आबद्ध भई भूमिगत राजनीति सुरु गरेका।",
+      "link_to_source": "https://recentsnews.com/labor-leader-damodar-paudel-bairagi-contests-again-from-kaski-3-with-a-vision-for-prosperity/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विद्यार्थी आन्दोलनबाट राजनीति सुरुवात",
+      "date": "२०३६-०१-०१",
+      "details": "२०३६ सालको विद्यार्थी आन्दोलनबाट राजनीतिक जीवनको सुरुवात गरेका।",
+      "link_to_source": "https://recentsnews.com/labor-leader-damodar-paudel-bairagi-contests-again-from-kaski-3-with-a-vision-for-prosperity/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दामोदर पौडेल 'वैरागी' नेकपा एमालेका एक अनुभवी र सांगठनिक पकड भएका नेता हुन्। कास्की जिल्लाको स्थानीय राजनीतिमा चार दशकभन्दा लामो समयदेखि सक्रिय उनी मजदुर आन्दोलन (जिफन्ट) बाट स्थापित भएका हुन्। २०७९ को निर्वाचनमा कास्की क्षेत्र नम्बर ३ बाट निर्वाचित हुनु उनको संसदीय राजनीतिको प्रमुख सफलता हो। उनी पञ्चायत काल र शाही शासनको समयमा पटक-पटक हिरासत र यातना भोगेका नेताका रूपमा चिनिन्छन्, जसले उनको लोकतान्त्रिक छवि बलियो बनाएको छ। एमालेभित्र केपी शर्मा ओली निकट मानिने वैरागीले भूमि आयोग र जिल्ला कमिटीको नेतृत्व सम्हाल्दा विवादरहित छवि कायम राखेका छन्। कास्कीमा उनको आफ्नै दरिलो संगठन रहेको छ, जसले गर्दा उनी यस क्षेत्रमा प्रभावशाली नेताका रूपमा स्थापित छन्।",
+  "overall_approval_rating": 78
+}

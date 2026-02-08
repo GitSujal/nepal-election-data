@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339808,
+  "candidate_name": "कुशल गुरुङ्ग",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://ujyaalonepalparty.org/logo.png",
+  "candidates_current_position": "अध्यक्ष, उज्यालो नेपाल पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339808.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कास्की",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "कास्की क्षेत्र नं २ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://www.ratopati.com/story/265538",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीको स्थापना र नेतृत्व",
+      "date": "२०७९-०४-१५",
+      "details": "नेपालमा वैकल्पिक राजनीतिको एजेन्डासहित उज्यालो नेपाल पार्टीको स्थापना गरी नेतृत्व सम्हालेको।",
+      "link_to_source": "https://www.setopati.com/politics/284534",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पोखरामा फोहोरबाट ऊर्जा उत्पादन परियोजना",
+      "date": "२०७७-०८-१०",
+      "details": "गण्डकी इनर्जीमार्फत पोखरामा फोहोरबाट बायोग्यास र प्राङ्गारिक मल उत्पादन गर्ने ठूलो परियोजनाको सुरुवात।",
+      "link_to_source": "https://nepalskillsnews.com/news/from-edinburgh-to-kathmandu-kushal-gurungs-mission-to-power-nepal",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विश्व बैंकको 'विन्ड म्यापिङ' परियोजना नेतृत्व",
+      "date": "२०७२-०३-२५",
+      "details": "विश्व बैंकसँगको सहकार्यमा नेपालभरको वायु ऊर्जा सम्भाव्यता अध्ययन (Nepal Wind Mapping Project) को नेतृत्व।",
+      "link_to_source": "https://windpowernepal.com/about-us",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विन्ड पावर नेपालको स्थापना",
+      "date": "२०६९-०१-१०",
+      "details": "स्कटल्याण्डबाट अध्ययन सकेर फर्किएपछि नेपालमा नवीकरणीय ऊर्जा प्रवर्द्धनका लागि विन्ड पावर नेपाल प्रालिको स्थापना।",
+      "link_to_source": "https://www.ku.edu.np/news-detail/916",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कुशल गुरुङ्ग नेपालका एक सफल नवीकरणीय ऊर्जा विज्ञ र बौद्धिक युवा नेता हुन्। उनी विन्ड पावर नेपालका संस्थापक तथा प्रमुख कार्यकारी अधिकृत हुन् र उनले नेपालको ऊर्जा संकट समाधानमा वायु तथा सौर्य ऊर्जा मार्फत महत्वपूर्ण योगदान पुर्‍याएका छन्। राजनीतिमा 'उज्यालो नेपाल पार्टी' मार्फत २०७९ को आम निर्वाचनमा कास्की क्षेत्र नं २ बाट चुनावी मैदानमा उत्रिए पनि उनले अपेक्षित मत प्राप्त गर्न सकेनन्। उनको राजनीतिक छवि अत्यन्त स्वच्छ र एजेन्डामा आधारित भए पनि बलियो सांगठनिक संरचनाको अभावले उनलाई चुनावी राजनीतिमा स्थापित हुन गाह्रो भएको देखिन्छ। कास्कीकै स्थानीय बासिन्दा भएकाले उनलाई 'टुरिस्ट' उम्मेदवारको आरोप लाग्दैन, तर उनको प्रभाव मुख्यतया शिक्षित र सहरी मतदाताहरूमा मात्र सीमित रहेको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 68
+}

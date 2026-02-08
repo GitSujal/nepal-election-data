@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340055,
+  "candidate_name": "सर्वेन्द्र नाथ शुक्ला",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "वरिष्ठ नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340055.jpg",
+  "election_history": [
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "तराई मधेश लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "तराई मधेश लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आतंकवादको विरोधमा कडा मन्तव्य",
+      "date": "२०८२-०१-२४",
+      "details": "सांसद शुक्लाले छिमेकी राष्ट्रहरूविरुद्ध आतंकवादलाई प्रश्रय दिने मुलुकहरूसँग नेपालले दूरी बनाउनुपर्ने माग संसदमा राखेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRqVi1xdWKDwLRJlg8kCgu9cuY4f1mjY2hUhlcos3dS_CA-bLZ6W-Fc9Rj8Si4PvECyWLp_J_5o3u9OE3NFgRKLPJBxLRrECaFJlXWMxEQKH8WzJpLLwq4SdRtBRroaRX9I_YVA4Ww5lrPWBcNU2YfjDnzjak6Ak3vcJpR1P27ef4tohaLPd8af27TA5IWOGtzupyM2x56oqYuWw_JCgmPv3Dmuo74qFENpzhBaF_IWlJRjiSne-PmXi0DmBB9IGXKQA==",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा जित",
+      "date": "२०७९-०८-०७",
+      "details": "रुपन्देही निर्वाचन क्षेत्र नम्बर ४ बाट २८,००० मत प्राप्त गरी प्रतिनिधि सभा सदस्यमा निर्वाचित। उनले नेपाली कांग्रेसका प्रमोद यादवलाई ५,२९६ मतान्तरले पराजित गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkL6Mh8U4DvbHVlFKU6BgrKqO9EN1sY2DQeGQpZWJMUPBPUj1VCXQJGWj0zU23VrRAHTsIw2ZnCXbcmDnqcVWYMDF3-ccQmIWfeM8xY51jsyBEb2Yao7o5ToOOEn3K2deWX57kaDTN-36AqBAwY4mdww3dNSUIHigp9EfY8gEh8PO0_R4UzMLCva2sdhUm4DI=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लोसपा परित्याग गरी जसपा नेपाल प्रवेश",
+      "date": "२०८१-०२-०१",
+      "details": "राजनीतिक अस्थिरता र पार्टी परिवर्तनको शृङ्खला जारी राख्दै शुक्ला लोकतान्त्रिक समाजवादी पार्टी छोडेर जनता समाजवादी पार्टी, नेपालमा सक्रिय भएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkL6Mh8U4DvbHVlFKU6BgrKqO9EN1sY2DQeGQpZWJMUPBPUj1VCXQJGWj0zU23VrRAHTsIw2ZnCXbcmDnqcVWYMDF3-ccQmIWfeM8xY51jsyBEb2Yao7o5ToOOEn3K2deWX57kaDTN-36AqBAwY4mdww3dNSUIHigp9EfY8gEh8PO0_R4UzMLCva2sdhUm4DI=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा हार",
+      "date": "२०७४-०८-२१",
+      "details": "रुपन्देही निर्वाचन क्षेत्र नम्बर ४ बाट राजपाको उम्मेदवार हुँदा २०,४१६ मत ल्याएर नेपाली कांग्रेसका प्रमोद यादवसँग पराजित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNjox6OlN-rmS3nfe8gmN6P47AhF5pouMycbf9J1IWpb2kvWHNd9IYtOcJjDGk-XuKEecbUi7HXpgSBYDpHHehyaofLwEFT-dbfqepH9hdLJwG38WsdXNsHVCxJGj9pO4abkSj8SVQp4g8dTbMEtAJxUo5",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मधेश आन्दोलन र तमुलोपामा आबद्धता",
+      "date": "२०६४-०९-१५",
+      "details": "महन्थ ठाकुरसँग मिलेर तराई मधेश लोकतान्त्रिक पार्टीको स्थापना गर्दै मधेश आन्दोलनमा नेतृत्वदायी भूमिका निर्वाह।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8-gVJ-cpEeGBXOxhO7vN8okkx2L6594ATooXrl47r0tKp90ig3xlWM7p8h126aoes8gJuKQY43zjee96ACilEM655dp1mTr-M8NdN82ggFU6g1t3lfhWHdn9NR1WNxXkhBDYs9D0VDRdqAyhr6AoYLQ-XVJkXwFPNPnUOXOSuSCYEMkw0j9IF2ZCvFefi8PSfokxbtEIVXEtCV3FxsG0BgVb3PFaMmA==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षा मन्त्रीको रूपमा नियुक्ति",
+      "date": "२०५४-१२-३०",
+      "details": "राप्रपा सरकारमा रहँदा शिक्षा मन्त्रीका रूपमा कार्यभार सम्हालेका थिए। उनको कार्यकालमा शैक्षिक सुधारका केही प्रयासहरू भए पनि पजेरो काण्डले ओझेलमा पार्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF91c2i6R2uASoZv0R5wgzz9CLG9K5v8H0NxwYJRIgWikkOpvnbx4RorbCJDJem_cnYfjEJfjpSfvuJA-N1lOGoy9ixBxnDW13A8DTsVj3yDWI6gMSv0WRZ6leIvB35CTywjS0K0J8KlMWJwyAh0D3Av-iUyT_zpRaH",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पजेरो काण्डमा संलग्नता",
+      "date": "२०५२-०५-१०",
+      "details": "सांसदहरूलाई करमुक्त विलासी गाडी (पजेरो) आयात गर्न दिने विवादित सरकारी निर्णयको फाइदा उठाएको भन्दै उनको कडा आलोचना भएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNjox6OlN-rmS3nfe8gmN6P47AhF5pouMycbf9J1IWpb2kvWHNd9IYtOcJjDGk-XuKEecbUi7HXpgSBYDpHHehyaofLwEFT-dbfqepH9hdLJwG38WsdXNsHVCxJGj9pO4abkSj8SVQp4g8dTbMEtAJxUo5",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "सर्वेन्द्र नाथ शुक्ला रुपन्देहीको राजनीतिमा एक चतुर र प्रभावशाली खेलाडी हुन्। उनी करिब चार दशकदेखि सक्रिय राजनीतिमा छन् र रुपन्देही निर्वाचन क्षेत्र नम्बर ४ र ६ बाट पटक-पटक चुनाव जित्दै आएका छन्। शुक्लालाई मधेश केन्द्रित राजनीतिका 'रणनीतिकार' मानिन्छ। तर, उनको राजनीतिक यात्रामा बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्ती (राप्रपा देखि जसपा सम्म) ले गर्दा उनलाई 'वागुवा' (अस्थिर) नेताको रूपमा आलोचना गर्ने गरिन्छ। रुपन्देही ४ र ६ को बीचमा आफ्नो निर्वाचन क्षेत्र सारिरहने भएकाले उनलाई स्थानीय स्तरमा अवसरवादीको रूपमा पनि हेरिन्छ। विगतमा भएको 'पजेरो काण्ड' मा उनको संलग्नताले उनको छविमा नकारात्मक असर पारेको छ। यद्यपि, उनी आफ्नो निर्वाचन क्षेत्रमा गहिरो पकड राख्छन् र मन्त्री हुँदा गरेका कामहरूले गर्दा अनुभवी नेताको रूपमा परिचित छन्।",
+  "overall_approval_rating": 62
+}

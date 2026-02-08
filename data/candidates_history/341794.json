@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341794,
+  "candidate_name": "सत्यनारायण महरा",
+  "candidate_party": "बहुजन एकता पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nepal_Election_Symbol_Elephant.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341794.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "निर्वाचन क्षेत्र नं. ४ (ख)",
+      "result": "पराजित",
+      "party": "बहुजन एकता पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सत्यनारायण महराले रौतहट क्षेत्र नं. ४ (ख) बाट प्रदेश सभा सदस्यका लागि बहुजन एकता पार्टी नेपालबाट उम्मेदवारी दिएका थिए। उनले जम्मा १९६ मत प्राप्त गरी १५औँ स्थानमा रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD-GK-3iSzfA15Hq-tY_tai-ibsXRdXWVJDecemmnAclC_fi1PTXxtpWQIkMzcdzCCYw6I_dMe5AT3y5i2zIvP20x-Vtp13WDDvxl_6RN5CMq36UEXQiv7M9e6mKBM6puQ1byoC3EwFAlCYowcQwvnhkE8TKdJ-PKEGf9RBB6vcZkA7LphoigV6BIN",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बहुजन एकता पार्टी नेपालमा आबद्धता",
+      "date": "२०७९-०५-०१",
+      "details": "दलित र पिछडिएका समुदायको अधिकारका लागि लड्ने उद्देश्यले उनी बहुजन एकता पार्टी नेपालमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa54pD97AfKjplm1z-2VEmBUnsRyUwjnWZAujUmTtclYImNhhSTLKjx5Fja9bxmbOlaSchWYHsJW8g4gLUl2ywbgBo6vKedxYmMOaUCYeN0Azc3zhwwZkus5V6jWHC8VoQv1f9Uh2mgdk-oQEPro7zoFIEf9GDttuE6rcPuIDNYBE_uVomeIJdvw==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल संघीय समाजवादी पार्टीसँगको आबद्धता",
+      "date": "२०७४-०७-०१",
+      "details": "महरा पूर्वमा नेपाल संघीय समाजवादी पार्टीसँग आबद्ध रही मधेसको पहिचानवादी राजनीतिमा संलग्न थिए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सत्यनारायण महरा रौतहट जिल्लामा सक्रिय एक स्थानीय स्तरका राजनीतिज्ञ हुन्। उनी मुख्यतया दलित र बहुजन समुदायको प्रतिनिधित्व गर्दै पहिचानवादी राजनीतिमा संलग्न छन्। २०७९ को प्रदेश सभा निर्वाचनमा रौतहट निर्वाचन क्षेत्र नम्बर ४ (ख) बाट उम्मेदवारी दिए पनि उनले उल्लेख्य जनमत (मात्र १९६ मत) प्राप्त गर्न सकेनन्। उनको राजनीतिक प्रभाव हालसम्म निर्वाचन जित्ने स्तरमा पुग्न सकेको देखिँदैन। उनी साक्षर मात्र रहेका र सानो राजनीतिक दलबाट चुनावी प्रतिस्पर्धामा उत्रिएकाले ठूला दलका उम्मेदवारहरूको तुलनामा उनको उपस्थिति कमजोर रहेको देखिन्छ। यद्यपि, उनी आफ्नो समुदायको आवाज उठाउन निरन्तर राजनीतिक रूपमा सक्रिय देखिन्छन्।",
+  "overall_approval_rating": 25
+}

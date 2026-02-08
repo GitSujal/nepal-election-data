@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341057,
+  "candidate_name": "जुली कुमारी महतो (महासेठ)",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341057.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "धनुषा ३",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "धनुषा ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "धनुषा-३ बाट प्रत्यक्ष निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को निर्वाचनमा लोकतान्त्रिक समाजवादी पार्टीका अनिल कुमार झालाई ९,६६९ मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://nepalkhabar.com/politics/142981-2022-11-25-05-33-35",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "निर्वाचन आचारसंहिता उल्लंघनको आरोप",
+      "date": "२०७९-०८-०१",
+      "details": "मौन अवधिमा जनकपुरमा चुनावी भेला आयोजना गरेको आरोपमा निर्वाचन आयोगको ध्यानाकर्षण।",
+      "link_to_source": "https://en.wikipedia.org/wiki/2022_Janakpur_municipal_election",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सर्वोच्च अदालतको आदेशबाट मन्त्री पद मुक्त",
+      "date": "२०७८-०३-०८",
+      "details": "प्रतिनिधिसभा विघटनपछिको मन्त्रिपरिषद् विस्तार असंवैधानिक भएको भन्दै सर्वोच्चले पदमुक्त गर्ने आदेश दिएको।",
+      "link_to_source": "https://ekantipur.com/news/2021/06/22/162435728362141505.html",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्री नियुक्त",
+      "date": "२०७७-०९-१०",
+      "details": "तत्कालीन प्रधानमन्त्री केपी शर्मा ओलीको मन्त्रिपरिषद्मा मन्त्रीका रूपमा जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Juli_Kumari_Mahato",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सम्पत्ति विवरण सार्वजनिक र आलोचना",
+      "date": "२०७५-०२-०९",
+      "details": "पति रघुवीर महासेठको सम्पत्ति विवरणमा अधिकांश चल-अचल सम्पत्ति जुलीको नाममा रहेको खुलासा भएपछि सार्वजनिक चर्चा।",
+      "link_to_source": "https://kathmandupost.com/national/2018/05/23/transport-minister-wealthiest-two-women-ministers-poorest-in-oli-cabinet",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा समानुपातिक सांसद",
+      "date": "२०७४-११-१८",
+      "details": "नेकपा एमालेको तर्फबाट समानुपातिक प्रणालीमार्फत प्रतिनिधिसभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://ekantipur.com/election2079/candidate-profile-1505.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचनमा पराजित",
+      "date": "२०७०-०८-०४",
+      "details": "धनुषा क्षेत्र नं ३ मा नेपाली कांग्रेसका विमलेन्द्र निधिसँग १३,५३९ मत प्राप्त गर्दै पराजित।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/जुली_कुमारी_महतो",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जुली कुमारी महतो मधेश प्रदेशको राजनीतिमा एक प्रभावशाली र शक्तिशाली महिला नेतृ हुन्। उनी नेकपा एमालेका हेभीवेट नेता रघुवीर महासेठकी पत्नी र प्रतिष्ठित व्यवसायी उपेन्द्र महतोकी बहिनी हुन्। पारिवारिक राजनीतिक विरासत र आर्थिक पहुँचका कारण उनलाई 'पावर कपल' र 'नातावाद' को आरोप लाग्ने गरे तापनि २०७९ को निर्वाचनमा धनुषा-३ बाट प्रत्यक्ष जित निकालेर उनले आफ्नो स्वतन्त्र राजनीतिक पकड प्रमाणित गरेकी छिन्। यसअघि दुई पटक समानुपातिक सांसद भइसकेकी उनी केपी ओली नेतृत्वको सरकारमा मन्त्री समेत बनेकी थिइन्, तर सर्वोच्चको आदेशले उनको कार्यकाल छोटो अवधिमै सकिएको थियो। सम्पत्ति विवरण र निर्वाचन आचारसंहिताका विषयमा बेलाबेला विवादमा परिरहने उनी मधेशमा एमालेको बलियो खम्बा मानिन्छिन्।",
+  "overall_approval_rating": 72
+}

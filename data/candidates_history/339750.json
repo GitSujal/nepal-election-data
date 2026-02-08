@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339750,
+  "candidate_name": "रमेश बल्ल",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://election.gov.np/images/symbols/lamp.png",
+  "candidates_current_position": "प्रतिनिधिसभा उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339750.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को आम निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "भक्तपुर क्षेत्र नं. २ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/SearchCandidate.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "बैकल्पिक शक्तिको रूपमा उदाएको उज्यालो नेपाल पार्टीमा आबद्ध भई राजनीतिक सक्रियता बढाएका हुन्।",
+      "link_to_source": "https://ratopati.com/story/271101/2022/10/24/ujyalo-nepal-party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रमेश बल्ल भक्तपुर क्षेत्र नं. २ का स्थानीय राजनीतिज्ञ हुन् जसले २०७९ को आम निर्वाचनमा उज्यालो नेपाल पार्टीबाट प्रतिनिधिसभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। उक्त निर्वाचनमा उनी निकै थोरै मतका साथ पराजित भए। उनको राजनीतिक प्रभाव भक्तपुरको स्थानीय स्तरमा सीमित रहेको देखिन्छ र उनी मुख्य दलहरूको तुलनामा कमजोर प्रतिस्पर्धीको रूपमा देखिए। हालसम्म उनको नाम कुनै ठूलो भ्रष्टाचार काण्ड वा विवादमा मुछिएको छैन, जसले उनको व्यक्तिगत छविलाई स्वच्छ राखेको छ। यद्यपि, संगठनात्मक शक्ति र जनमतको अभावका कारण उनी राष्ट्रिय राजनीतिमा स्थापित हुन सकेका छैनन्।",
+  "overall_approval_rating": 30
+}

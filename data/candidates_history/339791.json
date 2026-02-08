@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339791,
+  "candidate_name": "गणेश बहादुर श्रेष्ठ",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E6V0oW5e2_lP6kX8-iGvC6V7QzD1L3o4w&s",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339791.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ सालको प्रतिनिधि सभा निर्वाचनमा सिन्धुपाल्चोक क्षेत्र नम्बर २ बाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। यस निर्वाचनमा उनी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-3/district-sindhupalchok?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०६-०१",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई उनले आफ्नो राजनीतिक यात्रालाई अगाडि बढाएका हुन्।",
+      "link_to_source": "https://www.ratopati.com/story/267803/2022/10/9/election",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गणेश बहादुर श्रेष्ठ सिन्धुपाल्चोकका एक स्थानीय राजनीतिक व्यक्तित्व हुन् जसले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा सिन्धुपाल्चोक क्षेत्र नम्बर २ बाट प्रतिस्पर्धा गरेका थिए। उनी प्रभु साह नेतृत्वको आम जनता पार्टीका उम्मेदवार थिए, यद्यपि निर्वाचनमा उनको मत परिणाम निकै न्यून रहेको देखिन्छ। सिन्धुपाल्चोकको राजनीतिमा उनी स्थापित वा प्रभावशाली नेताको रूपमा अझै चिनिन सकेका छैनन्। उनको उम्मेदवारीले मुख्यतया नयाँ राजनीतिक दलको उपस्थिति जनाउने कार्य गरेको देखिन्छ। हालसम्म उनको संलग्नतामा कुनै ठूला राजनीतिक उपलब्धि वा विवादहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनी एक स्वच्छ छवि भएका तर कम प्रभावशाली उम्मेदवारको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 32
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340951,
+  "candidate_name": "गणेश पराजुली",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340951.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "७",
+      "result": "विजयी",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "संसदीय नियमावली उल्लंघनको विरोध",
+      "date": "२०८१-१०-२९",
+      "details": "सांसद पराजुलीले सरकारले दुई तिहाइको दम्भमा संसदीय प्रक्रिया मिचेको आरोप लगाउँदै संसदको गरिमा जोगाउन सभामुखको ध्यानाकर्षण गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6s4oiJPaW2Z10ymleXSxg0yu9LBS6oc0GKb_yxgILDR1Gd4KxQxzKD1HNkJm-8VJZsmXjDuhexhz15-RO0bRnKpZeSzimL04Lxmaue0gQb1LlP08p7DVvqNriflCqZsa3x6F2cOVmbbbWnNhXIbAqaYlbCzcIThyvtZ8DFW7w9ig_OsfBL9dyVrs7cCSHd0bGXLRyXTKTHyQB8v1WfA==",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भिजिट भिसा घोटाला विरुद्ध आवाज",
+      "date": "२०८१-०२-१४",
+      "details": "भिजिट भिसाको नाममा भइरहेको मानव बेचबिखन र सेटिङ विरुद्ध संसदमा खरो रूपमा उत्रिँदै उनले गृहमन्त्रीको राजीनामा समेत माग गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwBoO7aw4-QmvfMIk2rD2vahidMrECc6YvmyK3lNEA1V_LgnO50Zd0CNdZmhCDO7ui-IPAlFw3ETGBb0uu6Gn18_oxpeOdWXHEAJAv7f4sLB7VwwgI5n2oWyHuguv1E5rbKUfGBlArSw==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पूर्वाधार विकास समिति सदस्यमा चयन",
+      "date": "२०८०-०१-१५",
+      "details": "संसदीय समितिको जिम्मेवारी अन्तर्गत उनलाई पूर्वाधार विकास समितिमा नियुक्त गरियो, जहाँ उनले राष्ट्रिय गौरवका आयोजनाको अनुगमनमा सक्रियता देखाएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhmgx8REDV9TnbdpMOUJfEQXcCGGJ94F-aC2RQTMSJ9-NMCPzB8r6cH928fEH9bg6_pMn5Nn2rVJTWU9w6RUGRXvHxhe9Paj_SeVaC1_6oxML1C1RWUNdL8BNARsqNbAoKqJSlXviAc6LMsTo_AmD0vna6iXOvXrJa",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा जित",
+      "date": "२०७९-०८-०७",
+      "details": "काठमाडौं क्षेत्र नं. ७ बाट ८,७४३ मत प्राप्त गरी विजयी। उनले एमालेका श्यामकुमार घिमिरे र मानुषी यमी भट्टराईलाई पराजित गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtdgLIHIJ2Wx3IO4Lh1H23GtN8Vi3ncybU-HgqIckvMfA-G8GKio6zpt-xM9rAxwctAEKzJYvWYznXue9Ciw0iocaGYeqCFwcSNrnMBPTatOk3DJjx0itFpjF0ivQp8YoAnUS1NCbEHH9XFjJVqwJHi0BU2k3c_9PdQ_Qd5Muf2ctgZS66AAN8Cz4nACqTsQ==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-०७",
+      "details": "विवेकशील साझा पार्टी छोडेर रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीको संस्थापक लहरमा सहभागी हुँदै केन्द्रीय सदस्य चयन।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ3KpVPmZaMewhE6Z86yzN-cq01SNdv2pxiSiawEuHid-gJ9Hl7rd7fpu2sbF_RaGnrdC0NrMZxHiqaz0ivZA6_8JgLUAwR9HDJcmEG3wy55HG_ZHq78GyaMsMzi9jR8k1NoC9jW2qShs3ehX2P_oklLC_epb9yRhoUXGU3zaxAzeUFe5k8smGVd_XY7stasIoLbkGdPZkBHem",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गणेश पराजुली काठमाडौं क्षेत्र नं. ७ बाट निर्वाचित राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद हुन्। २०७९ को आम निर्वाचनमा उनले ८,७४३ मत प्राप्त गर्दै परम्परागत शक्ति र चर्चित अनुहार मानुषी यमी भट्टराईलाई पराजित गरेर चकित पारेका थिए। पर्यटन र व्यवसायिक पृष्ठभूमि भएका पराजुली संसदमा नीतिगत बहस र जनसरोकारका मुद्दामा खरो रूपमा प्रस्तुत हुने गर्छन्। उनी विशेषगरी मानव बेचबिखन र सेटिङ विरुद्धको आवाजमा दृढ देखिएका छन्। उनको राजनीतिक यात्रा विवेकशील साझाबाट सुरु भए पनि रास्वपाको लहरमा उनले आफूलाई एक स्थापित नेताको रूपमा प्रमाणित गरेका छन्। उनको हालसम्मको छवि स्वच्छ रहेको छ र निर्वाचन क्षेत्रमा उनको पकड बलियो देखिन्छ।",
+  "overall_approval_rating": 85
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341850,
+  "candidate_name": "रिजवाना खातुन",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Symbol_Independent_Nepal.svg/1024px-Symbol_Independent_Nepal.svg.png",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "संलग्न छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341850.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम घोषणा",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सप्तरी क्षेत्र नं. ४ बाट स्वतन्त्र उम्मेदवारी दिएकी खातुनले १३७ मत प्राप्त गरी पराजित भइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341850",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "सप्तरी जिल्लाको निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://election.gov.np/np/page/election-result-2079",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रिजवाना खातुन सप्तरी जिल्लाको निर्वाचन क्षेत्र नम्बर ४ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा चुनावी मैदानमा उत्रिएकी थिइन्। अल्पसङ्ख्यक मुस्लिम समुदाय र महिला प्रतिनिधित्वको हिसाबले उनको उम्मेदवारीलाई स्थानीय स्तरमा सांकेतिक महत्त्वका साथ हेरिएको थियो। यद्यपि, कुनै स्थापित राजनीतिक दलको संगठन र बलियो चुनावी आधार नभएका कारण उनले केवल १३७ मत प्राप्त गरिन्। सप्तरी ४ मा नेपाली कांग्रेसका तेजुलाल चौधरी जस्ता स्थापित नेताहरूसँगको प्रतिस्पर्धामा उनको चुनावी नतिजा निकै कमजोर रह्यो। उनको राजनीतिक प्रभाव हालका लागि आफ्नो क्षेत्रको सीमित घेरामा मात्र देखिन्छ र उनी कुनै पनि ठूला भ्रष्टाचार वा काण्डमा संलग्न भएको आधिकारिक रेकर्ड भेटिएको छैन।",
+  "overall_approval_rating": 45
+}

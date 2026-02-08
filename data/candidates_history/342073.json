@@ -1,0 +1,71 @@
+{
+  "candidate_id": 342073,
+  "candidate_name": "हरि नारायण यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "पूर्व केन्द्रीय सदस्य, जनता समाजवादी पार्टी (जसपा)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342073.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "मधेशी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मधेशी जनअधिकार फोरम, नेपाल (लोकतान्त्रिक)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "धनुषाबाट स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०८१-०१-०५",
+      "details": "पार्टीले टिकट नदिएपछि वा आन्तरिक असन्तुष्टिका कारण महोत्तरी छाडेर धनुषाबाट स्वतन्त्र उम्मेदवारी दिएका हुन्।",
+      "link_to_source": "https://result.election.gov.np/Images/Candidate/342073.jpg",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "महोत्तरी-३ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "प्रतिनिधिसभा निर्वाचनमा जसपाको तर्फबाट उम्मेदवार बनेका यादवले १४,३२५ मत प्राप्त गरे तापनि लोसपाका महन्थ ठाकुरसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/Mahottari?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेशी जनअधिकार फोरमको केन्द्रीय राजनीतिमा सक्रियता",
+      "date": "२०७२-०३-१५",
+      "details": "मधेश आन्दोलन र त्यसपछिका राजनीतिक घटनाक्रममा मधेशी जनअधिकार फोरमको एक प्रभावशाली नेताको रूपमा भूमिका निर्वाह।",
+      "link_to_source": "https://nepalarchives.com/content/constituent-assembly-election-2008-results-mahottari-2/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा विजय",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा महोत्तरी क्षेत्र नं. २ बाट ७,४५७ मत ल्याएर विजयी भएका थिए।",
+      "link_to_source": "https://nepalarchives.com/content/constituent-assembly-election-2008-results-mahottari-2/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "हरि नारायण यादव मधेशी राजनीतिका एक पुराना खेलाडी हुन्, जसले २०६४ को पहिलो संविधान सभामा महोत्तरीबाट जित हासिल गरेका थिए। यद्यपि, पछिल्लो समय उनको चुनावी पकड कमजोर हुँदै गएको देखिन्छ, जुन २०७९ को निर्वाचनमा महन्थ ठाकुरसँगको पराजयले पुष्टि गर्छ। श्रोतका अनुसार उनले आफ्नो गृह जिल्ला महोत्तरी छाडेर धनुषामा स्वतन्त्र उम्मेदवारी दिएका छन्, जसले उनलाई 'वागुवा' (Vaguwa) उम्मेदवारको रूपमा चित्रण गरेको छ। यसरी क्षेत्र परिवर्तन गर्नु र पार्टीको आधिकारिक टिकट बिना स्वतन्त्र लड्नुले उनको राजनीतिक अस्थिरता र स्थानीय स्तरमा घट्दै गएको प्रभावलाई संकेत गर्दछ। धनुषाका स्थानीय मतदाताहरूमाझ उनलाई बाहिरी उम्मेदवारको रूपमा हेरिन सक्ने चुनौती छ।",
+  "overall_approval_rating": 42
+}

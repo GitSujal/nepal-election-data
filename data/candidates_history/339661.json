@@ -1,0 +1,111 @@
+{
+  "candidate_id": 339661,
+  "candidate_name": "शेरधन राई",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CPN-UML_logo.png/120px-CPN-UML_logo.png",
+  "candidates_current_position": "कोशी प्रदेशका संस्थापक मुख्यमन्त्री तथा पूर्व सञ्चार मन्त्री",
+  "candidates_current_position_in_party": "स्थायी कमिटी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339661.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-२",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेशसभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-१(ख)",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-१",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "भोजपुरबाट प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धामा माओवादी केन्द्रका सुदन किरातीसँग २,३८५ मतान्तरले पराजित।",
+      "link_to_source": "https://election.ekantipur.com/candidate/325",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मुख्यमन्त्री पदबाट राजीनामा",
+      "date": "२०७८-०५-१०",
+      "details": "नेकपा एमालेभित्रको आन्तरिक शक्ति संघर्ष र पार्टी विभाजनका कारण कोशी प्रदेश (तत्कालीन प्रदेश १) को मुख्यमन्त्री पदबाट राजीनामा दिएका।",
+      "link_to_source": "https://np.wikipedia.org/wiki/%E0%A4%B6%E0%A5%87%E0%A4%B0%E0%A4%A7%E0%A4%A8_%E0%A4%B0%E0%A4%BE%E0%A4%88_%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A4%Aद्",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जाङ्मु शेर्पासँग विवाह",
+      "date": "२०७७-१०-११",
+      "details": "मुख्यमन्त्री बहाल रहेकै अवस्थामा मिस मङ्गोल २०१८ जाङ्मु शेर्पासँग काठमाडौंमा विवाह सम्पन्न।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/435153-1611488040.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बालिका खड्काद्वारा अदालतमा मुद्दा दायर",
+      "date": "२०७६-११-१६",
+      "details": "दोलाखाकी बालिका खड्काले शेरधन राई आफ्नो श्रीमान् भएको दाबी गर्दै अंश र सम्बन्ध स्थापित गर्न काठमाडौं जिल्ला अदालतमा मुद्दा दायर गरेकी थिइन्।",
+      "link_to_source": "https://setopati.com/politics/200582",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश १ को प्रथम मुख्यमन्त्रीमा नियुक्त",
+      "date": "२०७४-११-०२",
+      "details": "भोजपुरबाट प्रदेशसभामा निर्वाचित भएपछि उनी प्रदेश १ को इतिहासमै पहिलो मुख्यमन्त्रीका रूपमा नियुक्त भएका।",
+      "link_to_source": "https://ekantipur.com/province-1/2018/02/14/20180214132808.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सञ्चार तथा सूचना प्रविधि मन्त्रीमा नियुक्त",
+      "date": "२०७२-०७-१९",
+      "details": "केपी शर्मा ओलीको पहिलो मन्त्रिमण्डलमा सञ्चार मन्त्री तथा सरकारको प्रवक्ताको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/govt-to-develop-it-sector-info-minister-rai",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "देशकै कान्छो सांसदको कीर्तिमान",
+      "date": "२०५६-०१-०१",
+      "details": "२०५६ सालको आम निर्वाचनमा २८ वर्षको उमेरमा भोजपुर-२ बाट निर्वाचित भएर तत्कालीन समयमा देशकै सबैभन्दा कान्छो सांसद बनेका।",
+      "link_to_source": "https://www.cpnuml.org/profile/details/15.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शेरधन राई भोजपुरका एक प्रभावशाली राजनीतिक व्यक्तित्व हुन्, जसले अत्यन्तै सानो उमेरमा संसदीय राजनीतिमा सफलता प्राप्त गरे। २०५६ सालमा देशकै कान्छो सांसद बनेर चर्चामा आएका राईले सञ्चार मन्त्री र प्रदेश १ को संस्थापक मुख्यमन्त्री जस्ता महत्वपूर्ण पदहरू सम्हालिसकेका छन्। उनको कार्यकालमा प्रदेशको प्रशासनिक संरचना निर्माण हुनु सकारात्मक पक्ष रहे पनि बालिका खड्कासँग जोडिएको व्यक्तिगत विवादले उनको सार्वजनिक छविमा ठूलो धक्का पुर्‍याएको थियो। पछिल्लो २०७९ को निर्वाचनमा सुदन किरातीसँगको हारले उनको क्षेत्रमा पकड कमजोर भएको देखिन्छ, यद्यपि उनी नेकपा एमालेभित्र कोशी प्रदेशको नेतृत्वदायी भूमिकामा अझै सक्रिय छन्। उनको राजनीतिक भविष्य मुख्यतया आगामी निर्वाचनमा स्थानीय जनताको विश्वास पुन: प्राप्त गर्ने क्षमतामा निर्भर रहनेछ।",
+  "overall_approval_rating": 62
+}

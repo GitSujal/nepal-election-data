@@ -1,0 +1,79 @@
+{
+  "candidate_id": 339323,
+  "candidate_name": "रुवी कुमारी कर्ण",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/CPN-M-logo.png/600px-CPN-M-logo.png",
+  "candidates_current_position": "पूर्व राज्यमन्त्री, मधेश प्रदेश",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339323.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य (समानुपातिक)",
+      "district": "सप्तरी",
+      "constituency": "समानुपातिक (मधेशी महिला)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "सप्तरी",
+      "constituency": "समानुपातिक (मधेशी समूह)",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा समानुपातिक उम्मेदवार",
+      "date": "२०७९-०८-०४",
+      "details": "नेकपा (माओवादी केन्द्र) को तर्फबाट मधेशी महिला कोटामा प्रतिनिधि सभाको समानुपातिक बन्दसूचीमा समावेश भएकी थिइन् तर अन्तिम छनोटमा परिनन्।",
+      "link_to_source": "https://election.gov.np/np/page/proportional-representation-election-2079",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेश प्रदेशको राज्यमन्त्री पदबाट बिदाइ",
+      "date": "२०७९-०९-२८",
+      "details": "प्रदेश सभाको कार्यकाल समाप्त भई नयाँ सरकार गठन हुने प्रक्रिया सुरु भएपछि उनी राज्यमन्त्री पदबाट मुक्त भएकी थिइन्।",
+      "link_to_source": "https://provincialassembly.p2.gov.np/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेश प्रदेशको आन्तरिक मामिला तथा कानून राज्यमन्त्री नियुक्त",
+      "date": "२०७४-११-१७",
+      "details": "मधेश प्रदेश सरकारको पहिलो कार्यकालमा उनी आन्तरिक मामिला तथा कानून राज्यमन्त्रीको रूपमा नियुक्त भएकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH61FbPulMZX7luleRMU0suexpHfOg9T86H20yvXnfbWKBfTP8MMFtpc7FPdqca55SbWMZ0CmNsAM1HBWqM_-_LtaJFjWqPduPsF3eEQ9ZnXhnZLFVsMiDaGpRZujDkG7nvq66xrWuCxt8=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-१०-२५",
+      "details": "नेकपा (माओवादी केन्द्र) को तर्फबाट मधेश प्रदेश सभामा समानुपातिक निर्वाचन प्रणालीमार्फत सदस्य निर्वाचित भएकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH61FbPulMZX7luleRMU0suexpHfOg9T86H20yvXnfbWKBfTP8MMFtpc7FPdqca55SbWMZ0CmNsAM1HBWqM_-_LtaJFjWqPduPsF3eEQ9ZnXhnZLFVsMiDaGpRZujDkG7nvq66xrWuCxt8=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दलित बालबालिकाको शिक्षा अभियानमा सक्रियता",
+      "date": "२०७५-०८-२१",
+      "details": "राज्यमन्त्रीको रूपमा उनले सप्तरीका दलित बालबालिकाहरूलाई विद्यालय पठाउने अभियानको नेतृत्व गर्दै सामाजिक सचेतना फैलाएकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH61FbPulMZX7luleRMU0suexpHfOg9T86H20yvXnfbWKBfTP8MMFtpc7FPdqca55SbWMZ0CmNsAM1HBWqM_-_LtaJFjWqPduPsF3eEQ9ZnXhnZLFVsMiDaGpRZujDkG7nvq66xrWuCxt8=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी जनयुद्ध र मधेश आन्दोलनमा सहभागिता",
+      "date": "२०५९-०१-०१",
+      "details": "सप्तरी जिल्लामा माओवादी आन्दोलन र त्यसपछिको मधेश आन्दोलनमा सक्रिय भूमिका निर्वाह गर्दै राजनीतिमा स्थापित भएकी थिइन्।",
+      "link_to_source": "https://www.ratopati.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रुवी कुमारी कर्ण नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) की एक अनुभवी मधेशी महिला नेता हुन्। २०७४ सालको निर्वाचनमा समानुपातिक तर्फबाट मधेश प्रदेश सभा सदस्य निर्वाचित भएपछि उनले आन्तरिक मामिला तथा कानून राज्यमन्त्रीको रूपमा ५ वर्ष सेवा गरिन्। उनको कार्यकालमा मधेश प्रदेशमा कानून निर्माण र प्रहरी ऐन कार्यान्वयनमा केही महत्वपूर्ण प्रयासहरू भएका थिए। २०७९ को संघीय निर्वाचनमा उनलाई पार्टीले प्रतिनिधि सभाको समानुपातिक सूचीमा राखे पनि उनी निर्वाचित हुन सकिनन्। उनी अहिलेसम्म कुनै पनि ठूला भ्रष्टाचार वा विवादमा नमुछिएकी स्वच्छ छविकी नेता मानिन्छिन्। सप्तरी जिल्लाको खडक नगरपालिका स्थायी ठेगाना भएकी कर्ण पार्टीभित्र दलित, महिला र मधेशी मुद्दाहरूलाई उठाउने नेताका रूपमा परिचित छिन्। यद्यपि, उनी अहिलेसम्म प्रत्यक्ष निर्वाचन लडेकी छैनन्, जसले उनको व्यक्तिगत जनमतको परीक्षणलाई सीमित गरेको छ।",
+  "overall_approval_rating": 72
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340074,
+  "candidate_name": "मदन डंगोल",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_the_Federal_Limbuwan_State_Council.svg/1200px-Flag_of_the_Federal_Limbuwan_State_Council.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340074.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "निर्वाचन क्षेत्र नं. ८",
+      "result": "पराजित",
+      "party": "राष्ट्रिय मुक्ति पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ८ बाट प्रतिनिधिसभा सदस्यका लागि राष्ट्रिय मुक्ति पार्टी नेपालको तर्फबाट उम्मेदवारी दिएका थिए। सो निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टीका विराज भक्त महर्जन विजयी हुँदा डंगोलले थोरै मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "पहिचान र संघीयताको मुद्दा उठाउने राष्ट्रिय मुक्ति पार्टी नेपालमा सक्रिय भई स्थानीय स्तरमा राजनीतिक गतिविधि सुरु गरेका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मदन डंगोल काठमाडौं निर्वाचन क्षेत्र नम्बर ८ का एक उदीयमान राजनीतिकर्मी हुन् जसले २०७९ को आम निर्वाचनमा राष्ट्रिय मुक्ति पार्टी नेपालबाट प्रतिस्पर्धा गरेका थिए। उनको मुख्य राजनीतिक एजेन्डा पहिचानमा आधारित संघीयता र स्थानीय नेवार समुदायको हकहितको संरक्षण रहेको देखिन्छ। यद्यपि, निर्वाचनमा उनको प्रदर्शन निकै कमजोर रह्यो र उनले ठूला राजनीतिक दलहरूका अगाडि आफ्नो प्रभाव जमाउन सकेनन्। उनको पृष्ठभूमिमा कुनै पनि ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको मान्न सकिन्छ। हाल उनी आफ्नो दलको संगठन विस्तार र स्थानीय मुद्दाहरूमा केन्द्रित छन्। चुनावी अंकगणितमा कमजोर देखिए पनि उनी वैचारिक रूपमा स्पष्ट र प्रतिवद्ध देखिन्छन्।",
+  "overall_approval_rating": 45
+}

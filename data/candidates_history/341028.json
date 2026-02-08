@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341028,
+  "candidate_name": "डम्बर बहादुर लिम्बु",
+  "candidate_party": "संयुक्त नागरिक पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341028.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "धादिङबाट प्रतिनिधि सभाको उम्मेदवारी",
+      "date": "२०८२-१०-०४",
+      "details": "लिम्बुले आफ्नो चुनावी क्षेत्र परिवर्तन गर्दै झापाबाट धादिङ पुगेर संयुक्त नागरिक पार्टीको तर्फबाट उम्मेदवारी दर्ता गराएका छन्।",
+      "link_to_source": "https://result.election.gov.np/Images/Candidate/341028.jpg",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी परिवर्तन - संयुक्त नागरिक पार्टीमा प्रवेश",
+      "date": "२०८१-०५-०३",
+      "details": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च परित्याग गरी लिम्बु हालै दर्ता भएको संयुक्त नागरिक पार्टीमा आबद्ध भएका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdvIBtVKtLHDYGWy4VtsMwyB9SsgLOWV8uiEPsxZhLqPeGs0msMiyzv-3C1XTUHljWJcFWOCfjxXjVJNM7pbOCMcsQ69yaXqa-NxZ_vAlGrOBKbGFoKY3Yv_R8vJnMnwqE2koq2HZOg==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "झापा क्षेत्र नं. ३ मा चुनावी पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "आम निर्वाचन २०७९ मा झापा ३ बाट उम्मेदवार बनेका लिम्बुले मात्र ११३ मत प्राप्त गरी लज्जास्पद हार बेहोरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfqr0TgXWBWOqRaCtV6gsqhgFRqckDKhmkxX9-uzGr-MyuNvbuMxBFjjP8qrlq8sgjgz2PyNnUiIxqNo5IRFiX8g0qMbwAzm2RNBSqpe7ZnpaDLFhnb__YsPQnqwNiFkbE6_6YatoOO47GwKqm6AuJ9caBKjbcLyGFTP3gbeezDLAITw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "डम्बर बहादुर लिम्बु नेपाली राजनीतिका एक अस्थिर र सिमान्तकृत पात्र हुन्। २०७९ को निर्वाचनमा झापा क्षेत्र नं. ३ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको उम्मेदवार हुँदा उनले कूल सदर मतको अत्यन्त न्यून (०.१३%) अर्थात् ११३ मत मात्र प्राप्त गरेका थिए। हाल उनी आफ्नो पुरानो क्षेत्र झापा छाडेर धादिङबाट संयुक्त नागरिक पार्टीको उम्मेदवार बनेका छन्, जसले उनलाई 'वगुवा' उम्मेदवारको श्रेणीमा राखेको छ। झापाबाट धादिङको यो भौगोलिक स्थानान्तरणले उनको कुनै निश्चित स्थानीय आधार नरहेको र राजनीतिक अवसरवादलाई संकेत गर्दछ। बारम्बारको पार्टी परिवर्तन र कमजोर जनमतका कारण उनको चुनावी प्रतिस्पर्धा निकै कमजोर देखिन्छ।",
+  "overall_approval_rating": 25
+}

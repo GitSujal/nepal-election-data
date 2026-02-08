@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340093,
+  "candidate_name": "डा. विक्रम तिमिल्सिना",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rastriya_Swatantra_Party_Logo.svg/1200px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "अनुसन्धानकर्ता तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340093.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "साझा पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "नुवाकोट",
+      "constituency": "समानुपातिक",
+      "result": "N/A",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रास्वपाबाट नुवाकोट क्षेत्र नं १ को उम्मेदवार घोषणा",
+      "date": "२०८०-१०-०५",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीले आगामी निर्वाचनका लागि नुवाकोट क्षेत्र नम्बर १ बाट डा. विक्रम तिमल्सिनालाई प्रत्यक्षतर्फको उम्मेदवार बनाउने निर्णय गरेको छ।",
+      "link_to_source": "https://dainiki.com/2024/01/19/521780/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा समानुपातिक उम्मेदवार",
+      "date": "२०७९-०८-०४",
+      "details": "डा. तिमिल्सिना राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट समानुपातिक बन्द सूचीमा खस-आर्य समूहबाट उम्मेदवार रहेका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/samanupatik-result-2079",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीति र अन्तर्राष्ट्रिय सम्बन्धमा विद्यावारिधि (PhD) उपाधि",
+      "date": "२०७९-०१-१०",
+      "details": "अस्ट्रेलियाको ग्रिफिथ विश्वविद्यालयबाट राजनीति र अन्तर्राष्ट्रिय सम्बन्ध विषयमा उनले विद्यावारिधि उपाधि हासिल गरेका थिए।",
+      "link_to_source": "https://aifar.org.np/team/dr-bikram-timilsina/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "साझा पार्टीबाट विवेकशील साझामा आबद्धता",
+      "date": "२०७४-०५-१०",
+      "details": "रवीन्द्र मिश्र नेतृत्वको साझा पार्टी र उज्वल थापा नेतृत्वको विवेकशील नेपाली दल एकीकरण भएपछि उनी विवेकशील साझा पार्टीमा सक्रिय भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bibeksheel_Sajha_Party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "साझा पार्टीको तर्फबाट नुवाकोट क्षेत्र नम्बर १ (ख) मा उम्मेदवार बनेका तिमिल्सिनाले वैकल्पिक राजनीतिको एजेन्डा उठाएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रेडियो सगरमाथामा एक दशक लामो पत्रकारिता",
+      "date": "२०७०-०१-०१",
+      "details": "डा. तिमिल्सिनाले रेडियो सगरमाथामा करिब १० वर्ष पत्रकारको रूपमा काम गरी सामाजिक र राजनीतिक मुद्दाहरूमा बहस चलाएका थिए।",
+      "link_to_source": "https://dainiki.com/2024/01/19/521780/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एशियन इन्स्टिच्युट फर एड्भान्स्ड रिसर्च (AIFAR) को स्थापना",
+      "date": "२०७७-०२-१५",
+      "details": "विभिन्न सामाजिक र राजनीतिक अनुसन्धानका लागि उनले एशियन इन्स्टिच्युट फर एड्भान्स्ड रिसर्च (AIFAR) को नेतृत्व सम्हालेका छन्।",
+      "link_to_source": "https://aifar.org.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. विक्रम तिमिल्सिना नुवाकोटका एक बौद्धिक र निष्कलंक छविका राजनीतिक व्यक्तित्व हुन्। पत्रकारिताबाट आफ्नो करियर सुरु गरेका उनले रेडियो सगरमाथामा लामो समय काम गरेर सामाजिक मुद्दाहरूमा दख्खल राखेका छन्। राजनीति र अन्तर्राष्ट्रिय सम्बन्धमा विद्यावारिधि गरेका कारण उनीसँग नीतिगत तहमा काम गर्ने क्षमता देखिन्छ। वैकल्पिक राजनीतिको धार समात्दै साझा पार्टीबाट सक्रिय भएका उनी हाल राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध छन्। २०७९ को निर्वाचनमा समानुपातिक उम्मेदवार रहेका उनी अहिले प्रत्यक्ष निर्वाचनका लागि तयारी गरिरहेका छन्। उनको मुख्य शक्ति उनको शैक्षिक योग्यता र स्वच्छ छवि हो, तर ठूला दलहरूको बलियो पकड भएको नुवाकोटमा चुनावी नतिजा आफ्नो पक्षमा पार्नु उनका लागि चुनौतीपूर्ण रहेको देखिन्छ।",
+  "overall_approval_rating": 85
+}

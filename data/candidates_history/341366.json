@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341366,
+  "candidate_name": "मचिन्द्र प्रसाद बेघा",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Janata_Samajbadi_Party_Nepal_Logo.png/220px-Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा निर्वाचन उम्मेदवार (पाँचथर)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341366.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "पाँचथर",
+      "constituency": "क्षेत्र नं. १ (क)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आगामी प्रतिनिधि सभा निर्वाचनका लागि उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-२४",
+      "details": "पाँचथरको एक मात्र प्रतिनिधि सभा क्षेत्रका लागि जनता समाजवादी पार्टीको तर्फबाट मचिन्द्र प्रसाद बेघाले उम्मेदवारी दिएका छन्।",
+      "link_to_source": "https://hariyalinepal.com/2026/02/07/hor-elections-new-party-entry-making-elections-competitive-in-paanchthar/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "पाँचथर निर्वाचन क्षेत्र नम्बर १ (क) मा जसपाका उम्मेदवार बेघाले ९४२ मत प्राप्त गर्दै पाँचौँ स्थान हासिल गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341366",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंसिर ४ मा हुने निर्वाचनका लागि पाँचथर १ (क) बाट मचिन्द्र प्रसाद बेघाले आधिकारिक रूपमा मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://deshsanchar.com/election/constituency/panchthar-1-1/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचान र संघीयताको राजनीतिमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "बेघा लामो समयदेखि लिम्बूवान पहिचान र जातीय संघीयताको पक्षमा वकालत गर्दै जसपाको सांगठनिक सुदृढीकरणमा संलग्न छन्।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-detail/341366",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मचिन्द्र प्रसाद बेघा पाँचथर जिल्लाका एक अनुभवी र निष्ठावान राजनीतिकर्मी हुन्। उनले लामो समयदेखि जनता समाजवादी पार्टी (र यसका पूर्ववर्ती घटकहरू) मार्फत पहिचान र संघीयताको मुद्दामा आधारित राजनीति गर्दै आएका छन्। २०७९ को प्रदेश सभा निर्वाचनमा पाँचथर १ (क) बाट उम्मेदवार बने पनि उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए। ठूला राजनीतिक दलहरूको वर्चस्व रहेको पाँचथरमा तेस्रो वा वैकल्पिक शक्तिका रूपमा आफ्नो उपस्थितिलाई निरन्तरता दिनु उनको मुख्य चुनौती रहेको देखिन्छ। उनको राजनीतिक छवि स्वच्छ छ र अहिलेसम्म कुनै पनि ठूला भ्रष्टाचार वा काण्डहरूमा उनको संलग्नता देखिएको छैन। उनी स्थानीय स्तरमा लिम्बूवान पहिचानको आन्दोलनका एक सक्रिय समर्थकका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 42
+}

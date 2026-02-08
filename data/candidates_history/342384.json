@@ -1,0 +1,119 @@
+{
+  "candidate_id": 342384,
+  "candidate_name": "विष्णु प्रसाद पौडेल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "उपप्रधानमन्त्री तथा अर्थमन्त्री",
+  "candidates_current_position_in_party": "पूर्व उपाध्यक्ष (नेकपा एमाले)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342384.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पाँचौँ पटक अर्थमन्त्रीमा नियुक्ति",
+      "date": "२०८१-०३-३१",
+      "details": "एमाले-कांग्रेस सत्ता समीकरण अन्तर्गत केपी शर्मा ओली नेतृत्वको सरकारमा पौडेल पाँचौँ पटक अर्थमन्त्री नियुक्त भएका हुन्।",
+      "link_to_source": "https://gorkhapatraonline.com/news/101416",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रुपन्देही-२ बाट निर्वाचित (२०७९)",
+      "date": "२०७९-०८-०९",
+      "details": "प्रतिनिधिसभा निर्वाचनमा रुपन्देही क्षेत्र नं. २ बाट २७,१६५ मत प्राप्त गर्दै रास्वपाका गणेश पौडेललाई पराजित गरी विजयी भएका थिए।",
+      "link_to_source": "https://setopati.com/politics/287389",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नवलपरासीबाट स्वतन्त्र उम्मेदवारी (भगुवा)",
+      "date": "२०८०-०७-१५",
+      "details": "आफ्नो पुरानो क्षेत्र रुपन्देही छाडेर नवलपरासी (बर्दघाट सुस्ता पश्चिम) बाट स्वतन्त्र उम्मेदवारी दिएका छन्, जसलाई राजनीतिक वृत्तमा 'भगुवा' रणनीतिको रूपमा हेरिएको छ।",
+      "link_to_source": "https://nepsebajar.com/election-result-navalparasi-bardghat-susta-west-2-candidate-bishnu-prasad-paudel/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "ललिता निवास जग्गा प्रकरण विवाद",
+      "date": "२०७६-१०-२२",
+      "details": "बालुवाटारको सरकारी जग्गा छोरा नवीन पौडेलको नाममा पास गराएको खुलासा भएपछि उनी ठूलो विवादमा परेका थिए; पछि जग्गा फिर्ता गर्ने सर्तमा मुद्दाबाट जोगिएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2020/02/13/what-is-the-land-scam-that-as-shaken-the-government-s-seat-all-about",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उपप्रधान तथा अर्थमन्त्री (२०७९-०९-११)",
+      "date": "२०७९-०९-११",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा उपप्रधानमन्त्रीसहित अर्थ मन्त्रालयको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://gorkhapatraonline.com/news/101416",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले उपाध्यक्षमा निर्वाचित",
+      "date": "२०७८-०८-१४",
+      "details": "नेकपा एमालेको १०औँ राष्ट्रिय महाधिवेशनबाट पौडेल उपाध्यक्ष पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Bishnu_Prasad_Paudel",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रुपन्देही-२ बाट भारी मतले विजयी (२०७४)",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट उम्मेदवार बन्दै ४४,००९ मतका साथ प्रतिनिधिसभा सदस्यमा विजयी भएका थिए।",
+      "link_to_source": "https://bishnuprasadpaudel.com/biography/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपाको महासचिव नियुक्त",
+      "date": "२०७५-०२-०३",
+      "details": "तत्कालीन नेकपा एमाले र माओवादी केन्द्रबीच एकता भई बनेको नेपाल कम्युनिष्ट पार्टी (नेकपा) को शक्तिशाली महासचिव पदको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://lokpath.com/story/337142",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो पटक अर्थमन्त्रीमा नियुक्ति",
+      "date": "२०७२-०६-२५",
+      "details": "केपी शर्मा ओलीको पहिलो प्रधानमन्त्रीकालमा भूकम्प र नाकाबन्दीको कठिन समयमा अर्थमन्त्रीको कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2020/10/901980",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रक्षामन्त्रीको रूपमा कार्य",
+      "date": "२०६७-१२-०३",
+      "details": "झलनाथ खनाल नेतृत्वको सरकारमा रक्षामन्त्रीको रूपमा काम गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/business/2024/07/15/bishnu-poudel-became-minister-for-the-eighth-time-and-finance-minister-for-the-fifth-time-52-16.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३५-०६-०१",
+      "details": "१८ वर्षको उमेरमा बामपन्थी राजनीतिमा सक्रिय हुँदै पूर्णकालीन कार्यकर्ताका रूपमा भूमिगत राजनीतिमा लागेका थिए।",
+      "link_to_source": "https://bikashnews.com/2022/12/26/410884.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विष्णु प्रसाद पौडेल नेपालको राजनीतिमा एक चतुर र प्रभावशाली रणनीतिकार मानिन्छन्। रुपन्देही-२ लाई आफ्नो राजनीतिक किल्ला बनाएका उनी यसपटक नवलपरासी (बर्दघाट सुस्ता पश्चिम) बाट स्वतन्त्र उम्मेदवारका रूपमा मैदानमा उत्रनुले ठूलो तरंग पैदा गरेको छ। उनी एमालेका पूर्व उपाध्यक्ष र पटक-पटकका अर्थमन्त्री भए तापनि ललिता निवास (बालुवाटार) जग्गा प्रकरणले उनको छविमा गम्भीर दाग लगाएको छ। सरकारी जग्गा छोराको नाममा ल्याएको घटनामा कारबाहीबाट बच्न जग्गा फिर्ता गर्ने उनको निर्णयले नैतिक संकट निम्त्याएको थियो। आफ्नै सुरक्षित जिल्ला छाडेर नयाँ जिल्लामा उम्मेदवारी दिनु (भगुवा प्रवृत्ति) ले उनीमाथि स्थानीय र राष्ट्रिय स्तरमा तीव्र आलोचना भएको छ। निर्वाचन जित्ने कौशलमा निपुण भए पनि उनको भ्रष्टाचारमा मुछिएको इतिहासले उनको अनुमोदन रेटिङलाई निकै कमजोर बनाएको छ।",
+  "overall_approval_rating": 42
+}

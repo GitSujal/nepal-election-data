@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341442,
+  "candidate_name": "सबिन कुमार खड्का",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Rastriya_Prajatantra_Party.svg/1024px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "प्रदेश सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "ललितपुर जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341442.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "३ (ख)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सबिन कुमार खड्काले ललितपुर क्षेत्र नम्बर ३ (ख) बाट बागमती प्रदेश सभा सदस्यका लागि राप्रपाको तर्फबाट चुनाव लडेका थिए। उनले ७,७४५ मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341442",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपाको एकीकरण र राजनीतिक सक्रियता",
+      "date": "२०७७-०१-२४",
+      "details": "राप्रपाका विभिन्न घटकहरू (प्रजातान्त्रिक, एकीकृत, र संयुक्त) को एकीकरण प्रक्रियामा खड्का सक्रिय रहे र एकीकृत राप्रपामा आफ्नो आबद्धता निरन्तर राखे।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय राजनीतिमा प्रवेश",
+      "date": "२०७४-०७-१०",
+      "details": "ललितपुरको रैथाने बासिन्दाको रूपमा खड्काले राप्रपाको स्थानीय संगठन निर्माण र युवा परिचालनमा भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341442",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सबिन कुमार खड्का ललितपुर जिल्लाका एक निष्ठावान राप्रपा कार्यकर्ता र नेता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले ललितपुर ३ (ख) बाट करिब ८ हजार मत ल्याएर आफ्नो बलियो उपस्थिति प्रमाणित गरेका थिए। उनी कुनै ठूला काण्ड वा भ्रष्टाचारमा मुछिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको देखिन्छ। यद्यपि, उनले अहिलेसम्म कुनै पनि प्रमुख निर्वाचन जित्न सकेका छैनन्। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय नेता हुन्, जसले स्थानीय स्तरमा पार्टीको संगठन बलियो बनाउन महत्वपूर्ण भूमिका खेलेका छन्। राप्रपाभित्र हुने गरेका विभिन्न टुटफुटका बीच पनि उनी पार्टीको मूलधारसँगै जोडिएर बसेका देखिन्छन्।",
+  "overall_approval_rating": 52
+}

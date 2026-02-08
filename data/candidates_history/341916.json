@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341916,
+  "candidate_name": "कर्ण बहादुर थापा",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_of_Ujyalo_Nepal_Party.png/200px-Election_Symbol_of_Ujyalo_Nepal_Party.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341916.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उज्यालो नेपाल पार्टीबाट गुल्मीमा उम्मेदवारी दर्ता",
+      "date": "२०८१-१०-२३",
+      "details": "२०८२ फागुन २१ गते हुने भनिएको निर्वाचनका लागि उनले गुल्मीबाट उज्यालो नेपाल पार्टीको तर्फबाट उम्मेदवारी दर्ता गराएका हुन्।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (वागुवा)",
+      "date": "२०८१-१०-२०",
+      "details": "२०७९ मा सुर्खेतबाट चुनाव लडेका थापाले यस पटक गुल्मीलाई आफ्नो चुनावी क्षेत्र रोजेका छन्, जसलाई स्थानीय स्तरमा 'वागुवा' उम्मेदवारीको रूपमा टिप्पणी गरिएको छ।",
+      "link_to_source": "https://reportersnepal.com",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सुर्खेत क्षेत्र नं. १ बाट जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका थापाले मात्र ३५० मत प्राप्त गरी पराजय भोगेका थिए।",
+      "link_to_source": "https://ekantipur.com",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनता समाजवादी पार्टी (जसपा) मा आबद्धता",
+      "date": "२०७८-०५-०१",
+      "details": "थापाले लामो समय जसपा नेपालको क्षेत्रीय राजनीतिमा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://ratopati.com",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कर्ण बहादुर थापा एक राजनीतिक रूपमा अस्थिर र 'वागुवा' उम्मेदवारका रूपमा चिनिन्छन्। २०७९ को आम निर्वाचनमा सुर्खेत क्षेत्र नम्बर १ बाट जनता समाजवादी पार्टीको उम्मेदवार बनेका उनले निकै न्यून (३५०) मत मात्र प्राप्त गरेका थिए, जसले उनको कमजोर जनमतलाई स्पष्ट पार्छ। हाल उनी आफ्नो पुरानो निर्वाचन क्षेत्र र पार्टी दुवै छोडेर गुल्मीबाट 'उज्यालो नेपाल पार्टी' को तर्फबाट प्रतिस्पर्धामा उत्रिएका छन्। यसरी बारम्बार निर्वाचन क्षेत्र र राजनीतिक दल परिवर्तन गर्नाले उनको स्थानीय स्तरमा विश्वसनीयता र सङ्गठनात्मक पकड कमजोर देखिन्छ। गुल्मीमा उनलाई बाहिरी जिल्लाबाट आएको उम्मेदवारको रूपमा हेरिएकाले उनको चुनावी यात्रा थप चुनौतीपूर्ण हुने देखिन्छ।",
+  "overall_approval_rating": 22
+}

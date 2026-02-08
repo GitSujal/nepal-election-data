@@ -1,0 +1,71 @@
+{
+  "candidate_id": 342541,
+  "candidate_name": "गनेश प्रसाद सिंह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिक व्यक्तित्व",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342541.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नम्बर ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नम्बर ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "गनेश प्रसाद सिंहले २०७९ को आम निर्वाचनमा सर्लाही क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारी दिएका थिए, जहाँ उनले १० मत प्राप्त गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6VUTC8sHWuebKI9vGn41E8zmyYu6YMxZoP2991Dvm1kFhfWhayCsINYVlFtuWZqMDdrNne2lPdBGjp8y1aHJc9uqi9LF248xDz3LILGMyuFoJonLdlmQHdDtwfkBjEtEK9mRn7duLPc4ND5lrX1PHiVlv9OUFjj01Sf_GhEfLg-FpkRCIQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन चिन्ह 'अर्ना' प्राप्त",
+      "date": "२०७९-०७-२६",
+      "details": "निर्वाचन आयोगले स्वतन्त्र उम्मेदवार सिंहलाई २०७९ को निर्वाचनका लागि 'अर्ना' चुनाव चिन्ह प्रदान गरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEp85NVti1kfrfLvn4a_qo5eBCPpphRn2SJ90Pqo5kS0ah2JsXHiXfscN4Tl9z78A8kfoTLR5ANCdtxvVyZ_kRU3MjhnP9-Y_lVs94-PE9eNwnVYks1OPGxO8GQ0qJymXK1_7kVQQiKQ1mFxZw",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को निर्वाचनमा पनि उनी सर्लाही ४ बाटै स्वतन्त्र रूपमा चुनावी प्रतिस्पर्धामा उत्रिएका थिए, जसमा उनले ४५ मत पाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6VUTC8sHWuebKI9vGn41E8zmyYu6YMxZoP2991Dvm1kFhfWhayCsINYVlFtuWZqMDdrNne2lPdBGjp8y1aHJc9uqi9LF248xDz3LILGMyuFoJonLdlmQHdDtwfkBjEtEK9mRn7duLPc4ND5lrX1PHiVlv9OUFjj01Sf_GhEfLg-FpkRCIQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय राजनीतिमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "सर्लाहीको बलरा नगरपालिका निवासी सिंह लामो समयदेखि स्थानीय स्तरमा राजनीतिक र सामाजिक रूपमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEp85NVti1kfrfLvn4a_qo5eBCPpphRn2SJ90Pqo5kS0ah2JsXHiXfscN4Tl9z78A8kfoTLR5ANCdtxvVyZ_kRU3MjhnP9-Y_lVs94-PE9eNwnVYks1OPGxO8GQ0qJymXK1_7kVQQiKQ1mFxZw",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक पृष्ठभूमि",
+      "date": "२०३०-०१-०१",
+      "details": "उनले माध्यमिक तह (अण्डर एसएलसी) सम्मको औपचारिक शिक्षा हासिल गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQp5zYftvVGUx-IrzPd3O6GJ6To-wvd0MNCuo9_rPZTzSeXrdYrQXHNihsCzCWvjJXj7tRB_KJC4PXy7sFZgoG9I5JgBoGXBen3vA0G7xPh5LsD8dpduBP1E5tkcyfPmHysnEMMciLO1Br7FrnOVn74dd5L342FPMB5BquhgI5UP1wzr8=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गनेश प्रसाद सिंह सर्लाही निर्वाचन क्षेत्र नम्बर ४ का एक निरन्तर स्वतन्त्र उम्मेदवार हुन्। उनी मुख्यतया सर्लाहीको बलरा नगरपालिका क्षेत्रमा आधारित रहेर स्थानीय राजनीतिमा रुचि राख्छन्। २०७४ र २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले निकै कम मत (क्रमशः ४५ र १० मत) प्राप्त गरे पनि, उनको चुनावी सहभागिताले लोकतान्त्रिक प्रक्रियामा उनको व्यक्तिगत प्रतिबद्धता देखाउँछ। कुनै ठूलो राजनीतिक दलको समर्थन र बलियो आर्थिक स्रोतको अभावका कारण उनले चुनावी नतिजामा खासै प्रभाव पार्न सकेका छैनन्। हालसम्म उनको नाममा कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू देखिएका छैनन्, तर कमजोर चुनावी जनाधारका कारण उनी स्थानीय स्तरमा सीमित प्रभाव भएका उम्मेदवारका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 15
+}

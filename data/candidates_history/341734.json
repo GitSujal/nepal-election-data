@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341734,
+  "candidate_name": "सुरेन्द्र प्रसाद यादव",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://janamatparty.org/wp-content/uploads/2021/11/cropped-favicon-192x192.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341734.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर २ बाट जनमत पार्टीको उम्मेदवारका रूपमा ८,२९५ मत प्राप्त गर्दै पाँचौँ स्थानमा रहे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/dhanusha/2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पीएचडी (PhD) स्तरको उच्च शिक्षा",
+      "date": "२०७९-०७-१७",
+      "details": "नेपालको प्रतिनिधि सभा निर्वाचनमा सहभागी हुने कुल ५५ जना पीएचडी धारक उम्मेदवारहरू मध्ये एक, जसले उनको बौद्धिक छविलाई दर्शाउँछ।",
+      "link_to_source": "https://english.onlinekhabar.com/phd-candidates-nepal-election.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनमत पार्टीको संगठन निर्माण",
+      "date": "२०७६-०३-०४",
+      "details": "सीके राउत नेतृत्वको स्वतन्त्र मधेश गठबन्धन मूलधारको राजनीतिमा आएपछि जनमत पार्टीको संस्थापक र धनुषाको सक्रिय नेताका रूपमा कार्य।",
+      "link_to_source": "https://janamatparty.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. सुरेन्द्र प्रसाद यादव जनमत पार्टीका एक शिक्षित र बौद्धिक नेता हुन्। ताराचन्द्र यादवका छोरा सुरेन्द्रले २०७९ को आम निर्वाचनमा धनुषा क्षेत्र नम्बर २ बाट प्रतिस्पर्धा गर्दै ८,२९५ मत प्राप्त गरेका थिए। उनी पीएचडी उपाधि हासिल गरेका मधेसका सीमित राजनीतिज्ञहरूमध्ये पर्छन्, जसले गर्दा स्थानीय स्तरमा उनको राम्रो सम्मान छ। निर्वाचनमा पराजित भए पनि जनमत पार्टीको नयाँ लहर र शिक्षित पुस्ताको प्रतिनिधित्व गर्ने उम्मेदवारका रूपमा उनले बलियो उपस्थिति देखाएका छन्। उनको राजनीतिक करियर हालसम्म कुनै ठूलो विवाद वा भ्रष्टाचार काण्डमा मुछिएको छैन। मधेशको अधिकार र विकासका मुद्दाहरूमा तार्किक बहस गर्ने उनको क्षमताले उनलाई भविष्यको आशालाग्दो नेताको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 68
+}

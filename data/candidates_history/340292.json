@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340292,
+  "candidate_name": "हरि बहादुर बस्नेत",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CPN-Maoist_Centre_Logo.png/600px-CPN-Maoist_Centre_Logo.png",
+  "candidates_current_position": "पूर्व अध्यक्ष, विद्यालय व्यवस्थापन समिति",
+  "candidates_current_position_in_party": "जिल्ला नेता, मोरङ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340292.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नम्बर ४ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "हरि बहादुर बस्नेतले मोरङ निर्वाचन क्षेत्र नम्बर ४ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका थिए। उनले स्थानीय विकास र पूर्वाधार निर्माणको एजेन्डा अघि सारेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340292",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सिँचाई आयोजनाको नेतृत्व",
+      "date": "२०७०-०५-१०",
+      "details": "बेतना तथा लोहन्द्रा नहर सिँचाई आयोजनाको संस्थापक अध्यक्षको रूपमा कार्य गर्दै स्थानीय किसानहरूलाई सिँचाई सुविधा पुर्‍याउन महत्वपूर्ण भूमिका निर्वाह गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340292",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शिक्षा क्षेत्रमा योगदान",
+      "date": "२०६८-१०-१५",
+      "details": "मोरङको धनपाल माध्यमिक विद्यालयको व्यवस्थापन समिति अध्यक्षको रूपमा शिक्षाको गुणस्तर सुधार र विद्यालयको भौतिक पूर्वाधार विकासमा सक्रिय रहे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340292",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा संलग्नता",
+      "date": "२०५२-११-०१",
+      "details": "नेपालको तत्कालीन माओवादी जनयुद्धमा सहभागी भई मोरङ जिल्लामा संगठन विस्तार र जन परिचालनमा सक्रिय रहे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFywjlABVhKP-aEA9dXKffx3AwHQNrhKZJN0RYN-so8u5UVLIQfJqhEG_igVJLFmwf13kWzDRLwLH2ZqsSTQXHlhK9CeRKMwHiiZeSnKWzRCC6wNzYLpNopWor5_PvsrnI9flMhe2_EDG0FMEsHZkPaQy6m5cnkpu9T83nifE38LcU=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरि बहादुर बस्नेत मोरङ जिल्लाका एक निष्ठावान र स्थानीय स्तरमा चिनिएका माओवादी नेता हुन्। विशेष गरी मोरङ क्षेत्र नम्बर ४ मा उनको राजनीतिक आधार बलियो छ। उनले स्थानीय स्तरमा शिक्षा र सिँचाई क्षेत्रमा पुर्याएको योगदानका कारण उनको सामाजिक छवि सकारात्मक रहेको देखिन्छ। बेतना तथा लोहन्द्रा नहर सिँचाई आयोजनाको संस्थापक अध्यक्षको रूपमा उनले किसानहरूमाझ लोकप्रियता कमाएका छन्। २०७९ को निर्वाचनमा उनले प्रदेश सभाको लागि उम्मेदवारी दिएका थिए, तर निर्वाचन परिणाम उनको पक्षमा आउन सकेन। उनी पार्टीका एक अनुशासित र संगठन प्रेमी नेताको रूपमा परिचित छन् र कुनै ठूला भ्रष्टाचार वा काण्डहरूमा उनको नाम जोडिएको छैन।",
+  "overall_approval_rating": 68
+}

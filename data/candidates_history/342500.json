@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342500,
+  "candidate_name": "सफलता बोगटी",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6f9Y_jG6I5LwW0p2Xm7Q-rFj_S_uX6N8NfQ&s",
+  "candidates_current_position": "सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342500.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "हाम्रो नेपाली पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (भगुवा उम्मेदवार)",
+      "date": "२०८१-०२-१५",
+      "details": "नुवाकोटबाट कम मत ल्याएर पराजित भएपछि आगामी निर्वाचनका लागि काठमाडौंलाई आधार क्षेत्र बनाएको र 'पर्यटक उम्मेदवार' को रूपमा चिनिएकी।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आम जनता पार्टीमा प्रवेश",
+      "date": "२०८०-०९-१०",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरी राजनीतिक यात्रालाई अगाडि बढाउने निर्णय।",
+      "link_to_source": "https://www.ratopati.com/story/424933/2024/5/1/madhes-based-parties-in-kathmandu",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "हाम्रो नेपाली पार्टी (लौरो चिन्ह) बाट नुवाकोट-१ मा उम्मेदवारी दिँदा केवल १८४ मत (०.३१%) प्राप्त गरी पराजित।",
+      "link_to_source": "https://nepsebajar.com/election-result-nuwakot-election-2082-success-story/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "हाम्रो नेपाली पार्टीसँगको आबद्धता",
+      "date": "२०७९-०४-२५",
+      "details": "स्वतन्त्र अभियान र 'लौरो' अभियानसँग जोडिएर वैकल्पिक राजनीतिको नाममा राजनीतिमा प्रवेश।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/हाम्रो_नेपाली_पार्टी",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सफलता बोगटी मुख्यतया सामाजिक अभियन्ताको रूपमा चिनिन चाहने तर चुनावी राजनीतिमा निकै कमजोर उपस्थिति भएकी पात्र हुन्। २०७९ को निर्वाचनमा नुवाकोट क्षेत्र नम्बर १ बाट हाम्रो नेपाली पार्टीको तर्फबाट प्रतिस्पर्धा गर्दा उनले कुल सदर मतको १ प्रतिशत पनि ल्याउन सकिनन् (मात्र १८४ मत)। हाल उनले आफ्नो निर्वाचन क्षेत्र परिवर्तन गरी काठमाडौं रोज्नु र पार्टी फेरबदल गर्नुले उनलाई 'पर्यटक' वा 'भगुवा' उम्मेदवारको ट्याग दिएको छ। उनको राजनीतिक पृष्ठभूमिमा कुनै ठोस उपलब्धि देखिँदैन र अस्थिर दलीय आबद्धताका कारण मतदाता माझ उनको विश्वसनीयता निकै कम छ। प्रभु साहको आम जनता पार्टीमा आबद्ध भए पनि सहरी क्षेत्रमा उनको प्रभाव नगन्य देखिन्छ।",
+  "overall_approval_rating": 15
+}

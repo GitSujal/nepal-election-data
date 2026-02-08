@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341863,
+  "candidate_name": "लक्ष्मी प्रसाद सा कलवार",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rastriya_Prajatantra_Party_Logo.svg/1024px-Rastriya_Prajatantra_Party_Logo.svg.png",
+  "candidates_current_position": "नेता, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341863.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. १ (क)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बारा क्षेत्र नं. १ (क) बाट प्रदेश सभा सदस्यका लागि राप्रपाको तर्फबाट उम्मेदवारी दिएका कलवारले ४,४८६ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341863",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकीकरण र सक्रियता",
+      "date": "२०७७-०१-२४",
+      "details": "विभिन्न चिरामा विभाजित राप्रपा (संयुक्त) र राप्रपा नेपालबीचको एकता प्रक्रियामा सहभागी भई एकीकृत राप्रपामा सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://rpp.org.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपा (संयुक्त) मा आबद्धता",
+      "date": "२०७५-१०-१८",
+      "details": "पार्टी विभाजनका क्रममा उनी राष्ट्रिय प्रजातन्त्र पार्टी (संयुक्त) सँग आवद्ध भई बारा जिल्लामा सांगठनिक विस्तारमा लागेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लक्ष्मी प्रसाद सा कलवार बारा जिल्लाका स्थानीय राजनीतिज्ञ हुन्। उनले २०७९ को निर्वाचनमा बारा क्षेत्र नं. १ (क) बाट प्रदेश सभाका लागि राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट प्रतिस्पर्धा गरेका थिए। उनले ४,४८६ मत प्राप्त गरे तापनि विजयी हुन सकेनन्। उनी राप्रपाका विभिन्न घटकहरू (राप्रपा संयुक्त, राप्रपा नेपाल) मा लामो समयदेखि सक्रिय रहँदै आएका छन्। कलवार मुख्यतया बाराको कोल्हवी नगरपालिका क्षेत्रमा प्रभावशाली मानिन्छन्। उनको राजनीतिक छवि निष्कलंक रहे पनि राष्ट्रिय राजनीतिमा र ठूला निर्वाचनमा उनको प्रभाव अझै स्थापित हुन बाँकी देखिन्छ। उनी स्थानीय कलवार समुदायका बीचमा पनि परिचित अनुहार हुन्।",
+  "overall_approval_rating": 48
+}

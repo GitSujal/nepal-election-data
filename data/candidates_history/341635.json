@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341635,
+  "candidate_name": "कृष्ण कुमारी दनुवार",
+  "candidate_party": "नेकपा (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CPN-M_logo.svg/1200px-CPN-M_logo.svg.png",
+  "candidates_current_position": "केन्द्रीय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा दनुवार मुक्ति मोर्चा नेतृत्व",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341635.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य उम्मेदवारी (२०७९)",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि नेकपा (माओवादी केन्द्र) को उम्मेदवार बनेकी थिइन्। उनले उक्त निर्वाचनमा प्रत्यक्ष तर्फ प्रतिस्पर्धा गरेपनि एमालेका उम्मेदवारसँग पराजित भइन्।",
+      "link_to_source": "https://election.ekantipur.com/constituency/sunasari-2?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७८-०९-१८",
+      "details": "नेकपा (माओवादी केन्द्र) को आठौँ राष्ट्रिय महाधिवेशनबाट उनी केन्द्रीय सदस्यको रूपमा चुनिएकी थिइन्।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/01/03/cpn-maoist-center-selects-236-central-members-from-general-convention/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "समानुपातिक उम्मेदवार सूची (२०७४)",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को प्रतिनिधिसभा निर्वाचनमा माओवादी केन्द्रले उनलाई आदिवासी जनजाति क्लस्टरबाट समानुपातिक सूचीमा राखेको थियो।",
+      "link_to_source": "https://election.ekantipur.com/pr-candidate-list/2074?pr_type=1&party=13",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दनुवार मुक्ति मोर्चाको सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "दनुवार समुदायको हकहित र पहिचानका लागि स्थापित दनुवार मुक्ति मोर्चामा आबद्ध भई नेतृत्वदायी भूमिका निर्वाह गर्दै आएकी छिन्।",
+      "link_to_source": "https://nagariknetwork.com/news/3762/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कृष्ण कुमारी दनुवार सुनसरी जिल्लाकी एक महिला राजनीतिज्ञ हुन् जसले विशेषगरी अल्पसंख्यक दनुवार समुदायको प्रतिनिधित्व गर्छिन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा सुनसरी निर्वाचन क्षेत्र नम्बर २ बाट नेकपा (माओवादी केन्द्र) को तर्फबाट प्रतिस्पर्धा गरेकी थिइन्। यद्यपि उनले सो निर्वाचनमा पराजय बेहोर्नु पर्यो, उनी पार्टीभित्र एक निष्ठावान र भुइँतहका कार्यकर्ताको रूपमा चिनिन्छिन्। दनुवार समुदायको पहिचान र राजनीतिक अधिकारका लागि उनले दनुवार मुक्ति मोर्चा मार्फत लामो समयदेखि आवाज उठाउँदै आएकी छिन्। उनको राजनीतिक जीवनमा हालसम्म कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, जसले उनको छवि स्वच्छ राखेको छ। तथापि, प्रत्यक्ष निर्वाचनमा जनमत आकर्षित गर्न उनलाई अझै चुनौती देखिन्छ।",
+  "overall_approval_rating": 55
+}

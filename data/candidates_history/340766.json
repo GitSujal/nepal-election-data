@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340766,
+  "candidate_name": "नेक महम्मद",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rastriya_Janamorcha_Symbol.png/220px-Rastriya_Janamorcha_Symbol.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरका नेता तथा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340766.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "नगर प्रमुख",
+      "district": "रौतहट",
+      "constituency": "राजपुर नगरपालिका",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नेक महम्मदले रौतहट निर्वाचन क्षेत्र नं २ बाट राष्ट्रिय जनमोर्चाको तर्फबाट प्रतिनिधि सभाको लागि उम्मेदवारी दिएका थिए। मधेस प्रदेशमा पार्टीको उपस्थिति कमजोर रहेका कारण उनी पराजित हुन पुगे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340766",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचन २०७९ मा राजपुरबाट उम्मेदवारी",
+      "date": "२०७९-०१-३०",
+      "details": "उनले रौतहटको राजपुर नगरपालिकामा राष्ट्रिय जनमोर्चाको तर्फबाट नगर प्रमुख पदका लागि उम्मेदवारी दिएका थिए। मधेस केन्द्रित राजनीतिमा आफ्नो पार्टीको विचारधारा स्थापित गर्ने प्रयास गरे पनि उनले सफलता प्राप्त गर्न सकेनन्।",
+      "link_to_source": "https://ekantipur.com/local-election-2079/candidates-list/rastriya-janamorcha",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको विचारधारा प्रचारमा संलग्नता",
+      "date": "२०७९-०७-२०",
+      "details": "राष्ट्रिय जनमोर्चाको संघीयता विरोधी र विकेन्द्रीकरणको पक्षधर एजेन्डालाई मधेसको जिल्ला रौतहटमा प्रचार प्रसार गर्न उनी सक्रिय रहेका छन्।",
+      "link_to_source": "https://sthaniyanews.com.np/news/24128",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नेक महम्मद रौतहट जिल्लामा राष्ट्रिय जनमोर्चाको तर्फबाट निरन्तर सक्रिय रहने एक इमानदार कार्यकर्ताको रूपमा चिनिन्छन्। मधेस प्रदेशमा राष्ट्रिय जनमोर्चाको संगठन अत्यन्तै कमजोर र त्यसको संघीयता विरोधी धारणा त्यहाँको स्थानीय जनमतसँग मेल नखाने हुनाले उनको चुनावी प्रदर्शन निकै कमजोर देखिन्छ। २०७९ को आम निर्वाचनमा रौतहट क्षेत्र नं २ बाट उम्मेदवार बनेका उनको मत परिणामले देखाउँछ कि उनलाई स्थानीय मतदाताको खासै साथ छैन। यद्यपि, प्रतिकूल राजनीतिक वातावरणका बाबजुद पनि पार्टीको झण्डा बोकेर चुनावी मैदानमा उत्रनुले उनको राजनीतिक निष्ठा भने पुष्टि गर्दछ।",
+  "overall_approval_rating": 25
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339993,
+  "candidate_name": "योग नारायण महतो",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Janata_Samajbadi_Party_logo.png/200px-Janata_Samajbadi_Party_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (महोत्तरी क्षेत्र नं. १)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339993.jpg",
+  "election_history": [
+    {
+      "year": "२०८१/८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "महोत्तरी १ को उपनिर्वाचनमा उम्मेदवारी",
+      "date": "२०८१-१०-२०",
+      "details": "महोत्तरी क्षेत्र नम्बर १ मा जनता समाजवादी पार्टी, नेपालको तर्फबाट आधिकारिक उम्मेदवारको रूपमा दर्ता।",
+      "link_to_source": "https://gorkhapatraonline.com/news/101904",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक पृष्ठभूमि - स्नातक तह पूरा",
+      "date": "२०५९-०३-१५",
+      "details": "भारतको मगध विश्वविद्यालय, पटनाबाट स्नातक तहको अध्ययन पूरा गरी राजनीतिमा सक्रिय।",
+      "link_to_source": "https://nepsebajar.com/election-result-mahottari",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टी नेपालमा आबद्धता",
+      "date": "२०७३-०२-३०",
+      "details": "बाबुराम भट्टराईको नेतृत्वमा रहेको नयाँ शक्ति पार्टीमा आबद्ध भई वैकल्पिक राजनीतिको वकालत।",
+      "link_to_source": "https://gorkhapatraonline.com/news/101904",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेश आन्दोलनमा सक्रिय सहभागिता",
+      "date": "२०६३-१०-०५",
+      "details": "मधेशको पहिचान र संघीयताका लागि भएको आन्दोलनमा स्थानीय स्तरबाट सक्रिय नेतृत्वदायी भूमिका।",
+      "link_to_source": "https://gorkhapatraonline.com/news/101904",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "योग नारायण महतो महोत्तरी जिल्लाका एक शिक्षित र युवा राजनीतिकर्मी हुन्। मगध विश्वविद्यालयबाट स्नातक गरेका उनी मधेश आन्दोलन र पहिचानको राजनीतिबाट उदाएका नेता हुन्। बाबुराम भट्टराईको नयाँ शक्ति पार्टीदेखि हालको जनता समाजवादी पार्टीसम्मको यात्रामा उनले आफ्नो सांगठनिक क्षमता प्रदर्शन गरेका छन्। महोत्तरी क्षेत्र नम्बर १ मा उनलाई एक सम्भावित र बौद्धिक उम्मेदवारका रूपमा हेरिएको छ। यद्यपि, पार्टीभित्रको आन्तरिक अन्तरघात र अन्य पुराना राजनीतिक शक्तिहरूको प्रभाव उनका लागि मुख्य चुनौती हुन्। उनको स्वच्छ छवि र युवा उमेरले गर्दा नयाँ मतदातामाझ उनको आकर्षण देखिन्छ।",
+  "overall_approval_rating": 68
+}

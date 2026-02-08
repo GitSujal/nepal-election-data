@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339673,
+  "candidate_name": "तिलक बहादुर जी.सी",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Janamorcha_Logo.png",
+  "candidates_current_position": "लुम्बिनी प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339673.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "अध्यक्ष (गाउँपालिका)",
+      "district": "प्यूठान",
+      "constituency": "झिमरुक गाउँपालिका",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "प्यूठान",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "लुम्बिनी प्रदेश सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "प्यूठान १ (ख) बाट एमालेका उम्मेदवार हरिप्रसाद रिजाललाई ७१ मतको झिनो मतान्तरले पराजित गर्दै प्रदेश सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166927429676735166.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभामा संघीयता विरुद्धको अडान",
+      "date": "२०७९-१०-०५",
+      "details": "आफ्नो दलको नीति बमोजिम प्रदेश सभा सदस्यको सपथ लिए पनि संघीयता खारेज गर्नुपर्ने अडान प्रदेश सभामै राखेका।",
+      "link_to_source": "https://www.setopati.com/politics/290875",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "झिमरुक गाउँपालिका अध्यक्षको रूपमा सफल कार्यकाल",
+      "date": "२०७९-०१-३०",
+      "details": "पाँच वर्षे कार्यकालमा स्थानीय सडक, खानेपानी र शिक्षा क्षेत्रमा उल्लेख्य सुधार गरी कार्यकाल पुरा गरेको।",
+      "link_to_source": "https://nepalarchives.com/2020/01/jhimruk-rural-municipality-pyuthan-election-results-2017/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "झिमरुक गाउँपालिका अध्यक्षमा निर्वाचित",
+      "date": "२०७४-०३-१४",
+      "details": "स्थानीय तह निर्वाचनमा ३,६६० मत प्राप्त गरी प्यूठानको झिमरुक गाउँपालिकाको पहिलो अध्यक्षमा निर्वाचित।",
+      "link_to_source": "https://nepalarchives.com/2020/01/jhimruk-rural-municipality-pyuthan-election-results-2017/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक सक्रियता र पार्टी विस्तार",
+      "date": "२०७०-०८-०४",
+      "details": "प्यूठानमा राष्ट्रिय जनमोर्चाको संगठन सुदृढीकरण र किसान आन्दोलनमा लामो समयदेखि सक्रिय नेतृत्व।",
+      "link_to_source": "https://rajamo.org/news/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "तिलक बहादुर जी.सी. राष्ट्रिय जनमोर्चाका एक निष्ठावान र भुइँतहका नेता हुन्। उनले २०७४ मा झिमरुक गाउँपालिकाको अध्यक्ष भएर स्थानीय सरकार सञ्चालनको सफल अनुभव बटुलेका छन्। २०७९ को निर्वाचनमा प्यूठान १ (ख) बाट कडा प्रतिस्पर्धाका बीच विजयी भई उनले आफ्नो लोकप्रियता प्रमाणित गरेका छन्। उनको छवि स्वच्छ रहेको छ र उनीमाथि हालसम्म कुनै ठूला भ्रष्टाचारका आरोपहरू लागेका छैनन्। राष्ट्रिय जनमोर्चाको संघीयता विरोधी दर्शनलाई आत्मसात् गर्दै प्रदेश सभामा भाग लिनुलाई कतिपयले विरोधाभास माने पनि स्थानीय स्तरमा उनलाई विकास प्रेमी र इमान्दार नेताका रूपमा हेरिन्छ।",
+  "overall_approval_rating": 82
+}

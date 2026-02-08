@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342201,
+  "candidate_name": "सरोज कुमार कुशवाहा",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "संलग्न छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342201.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका थिए। उनले यस निर्वाचनमा निकै कम मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/rautahat-1?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०६५-०१-०१",
+      "details": "त्रिभुवन विश्वविद्यालयबाट स्नातक तह (Bachelor's Degree) सम्मको अध्ययन पुरा गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342201",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सामाजिक कार्यमा संलग्नता",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिमा सक्रिय हुनुअघि रौतहटको स्थानीय तहमा सामाजिक कार्यकर्ताका रूपमा चिनिन्थे।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सरोज कुमार कुशवाहा रौतहट जिल्लाका एक युवा स्वतन्त्र राजनीतिज्ञ हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा उनले रौतहट क्षेत्र नम्बर १ बाट स्वतन्त्र उम्मेदवारी दिएका थिए। त्रिभुवन विश्वविद्यालयबाट स्नातक तहको शिक्षा हासिल गरेका कुशवाहा राजनीतिमा नयाँ र शिक्षित अनुहारका रूपमा चिनिन्छन्। यद्यपि, माधव कुमार नेपाल र अजय कुमार गुप्ता जस्ता भारी उम्मेदवारहरू सहभागी रहेको उक्त निर्वाचन क्षेत्रमा उनले उल्लेखनीय मत प्राप्त गर्न सकेनन्। उनको विरुद्धमा कुनै पनि ठूला भ्रष्टाचार वा फौजदारी मुद्दाहरू फेला परेका छैनन्। उनी हाल स्थानीय स्तरमा आफ्नो राजनीतिक पहिचान बनाउने क्रममा छन्।",
+  "overall_approval_rating": 42
+}

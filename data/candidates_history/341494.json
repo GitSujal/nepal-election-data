@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341494,
+  "candidate_name": "विनोद कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी / स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341494.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (वागुवा उम्मेदवारी)",
+      "date": "२०७९-०७-२३",
+      "details": "लामो समय बारा जिल्लालाई राजनीतिक आधार बनाएका यादवले २०७९ को निर्वाचन पछि आफ्नो कार्यक्षेत्र परिवर्तन गरी धनुषा रोजेका छन्, जसले गर्दा उनलाई राजनीतिक वृत्तमा 'वागुवा' उम्मेदवार मानिन्छ।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "बारा क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारको रूपमा ७७७ मत प्राप्त गरेका थिए। यो उनको २०७४ को तुलनामा सुधारिएको मत परिणाम भए तापनि उनी आठौं स्थानमा रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhuM7ghFPAYPlY07jxK2TR7qVa_D2eFUNk1exziyfRU2J_qpB5L2BdugZ5ISjKrjGI3pv4fumOgKKc_tZ1lOL2sYrfJbHcjyll1kL1b8q7pZj74vnv9i_vrbDTu4Z9W2_AlQQTBRmAT9WO5uaWTfKleEqWU7hIALEzc4RoJhuxuwlh",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा न्यून मत",
+      "date": "२०७४-०८-२१",
+      "details": "बारा २ बाट स्वतन्त्र उम्मेदवारी दिँदा उनले मात्र २६ मत प्राप्त गरेका थिए, जसले उनको प्रारम्भिक राजनीतिक आधार अत्यन्त कमजोर रहेको देखाउँछ।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "विनोद कुमार यादव मधेस प्रदेशका एक निरन्तर स्वतन्त्र उम्मेदवार हुन्, जसको चुनावी इतिहासमा स्थिरता र प्रभाव दुवैको अभाव देखिन्छ। उनले २०७४ मा बारा क्षेत्र नं. २ बाट अत्यन्तै न्यून (२६ मत) प्राप्त गरेका थिए भने २०७९ मा सोही क्षेत्रमा आफ्नो मत संख्या ७७७ पुऱ्याएका थिए। अहिले उनले बारा छोडेर धनुषालाई आफ्नो नयाँ निर्वाचन क्षेत्र रोजेका छन्, जसले गर्दा उनलाई स्थानीय स्तरमा 'वागुवा' (पर्यटक जस्तै क्षेत्र बदल्ने) उम्मेदवारको रूपमा आलोचना गरिने गरिएको छ। कुनै ठूलो राजनीतिक दलको समर्थन नभएको र व्यक्तिगत प्रभाव पनि कमजोर रहेकाले उनको चुनावी प्रतिस्पर्धा निकै कठिन देखिन्छ। मधेसको राजनीतिमा उनको पहिचान एक गम्भीर प्रतिस्पर्धी भन्दा पनि चुनावी प्रक्रियामा सहभागी हुने पात्रको रूपमा बढी सीमित रहेको पाइन्छ।",
+  "overall_approval_rating": 25
+}

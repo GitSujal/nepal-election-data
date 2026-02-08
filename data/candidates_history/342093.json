@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342093,
+  "candidate_name": "खेम प्रसाद श्रेष्ठ",
+  "candidate_party": "नेशनल रिपब्लिक नेपाल",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342093.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी परिवर्तन - नेशनल रिपब्लिक नेपालमा प्रवेश",
+      "date": "२०८०-०१-०१",
+      "details": "मंगोल नेशनल अर्गनाइजेसन छोडेर श्रेष्ठ नेशनल रिपब्लिक नेपालमा आबद्ध भएका हुन् । बीउ तथ्याङ्क अनुसार उनको वर्तमान दल नेशनल रिपब्लिक नेपाल रहेको पुष्टि हुन्छ ।",
+      "link_to_source": "https://result.election.gov.np/Images/Candidate/342093.jpg",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "ललितपुर क्षेत्र नं. २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिएका श्रेष्ठले मात्र ४० मत प्राप्त गरेका थिए र २० औं स्थानमा रहेका थिए ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX9OtOQhpY5Qoj4ScZpRUiJ5px9NiRkg2JNkQYQy4x_mg85nqIvnyHjF2NSdorpK0N9E9-1CSR5j4boxR3EmvagjM7uUt-iQJ9z9wzEGCw8-7TXSYFLySy2sgXz7zlBoaBSHoQUXeulfJBfAfa95RwHc61s_Y_GMkT8uyIZXehDNhsl0tA3chZYNUM7UyGA8pN3a0d",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "खेम प्रसाद श्रेष्ठ ललितपुर क्षेत्र नं. २ का एक सिमान्त राजनीतिक पात्र हुन्। २०७९ को आम निर्वाचनमा मंगोल नेशनल अर्गनाइजेसनबाट उम्मेदवार बन्दा उनले प्राप्त गरेको मात्र ४० मतले उनको स्थानीय स्तरमा जनाधार र प्रभाव अत्यन्तै कमजोर रहेको पुष्टि गर्दछ। हाल उनी नेशनल रिपब्लिक नेपालमा आबद्ध भई आफ्नो राजनीतिक यात्रा जारी राखेका छन्। उनले साम्प्रदायिक वा जातीय मुद्दामा केन्द्रित मंगोल अर्गनाइजेसनबाट गणतन्त्रात्मक राष्ट्रवादको वकालत गर्ने दलतर्फ मोडिएको देखिन्छ। उनको विरुद्धमा कुनै ठूला भ्रष्टाचार वा काण्डहरू नपाइए पनि, चुनावी प्रतिस्पर्धामा उनको उपस्थिति केवल सांकेतिक मात्र देखिन्छ। मतदातामाझ उनको पहिचान र विश्वास स्थापित हुन बाँकी नै देखिन्छ।",
+  "overall_approval_rating": 15
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341287,
+  "candidate_name": "कल्पना कुमाल",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aam_Janata_Party_logo.png/220px-Aam_Janata_Party_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (पूर्व)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341287.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "गोरखा क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएकी थिइन्, जहाँ उनले पुष्पकमल दाहाल 'प्रचण्ड' विरुद्ध प्रतिस्पर्धा गरेकी थिइन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-gorkha?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०९-१४",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई सामाजिक र राजनीतिक मुद्दाहरूमा सक्रिय हुन थालेकी हुन्।",
+      "link_to_source": "https://www.ajp.org.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कुमाल समुदायको प्रतिनिधित्व",
+      "date": "२०७८-१०-१५",
+      "details": "गोरखाका अल्पसङ्ख्यक कुमाल समुदायको हकहित र उत्थानका लागि स्थानीय स्तरमा आवाज उठाउँदै आएकी छिन्।",
+      "link_to_source": "https://sankalpakhabar.com/2020/08/22/22759/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कल्पना कुमाल गोरखाको राजनीतिमा उदाउँदै गरेकी एक महिला नेतृ हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा गोरखा क्षेत्र नं २ बाट आम जनता पार्टीको उम्मेदवार बनेर चर्चा कमाएकी थिइन्। सो निर्वाचनमा उनले नेपालका दिग्गज नेता पुष्पकमल दाहाल 'प्रचण्ड' विरुद्ध प्रतिस्पर्धा गरेकी थिइन्। उनको राजनीतिक आधार मुख्यतया कुमाल समुदाय र पिछडिएका वर्गको प्रतिनिधित्वमा केन्द्रित देखिन्छ। यद्यपि निर्वाचनमा उनको मत परिणाम न्यून रहेको थियो, तर सीमान्तकृत समुदायबाट नेतृत्वको प्रयास गर्नुलाई सकारात्मक रूपमा लिइन्छ। उनको हालसम्मको राजनीतिक यात्रा स्वच्छ रहेको छ र उनी विरुद्ध कुनै भ्रष्टाचार वा अन्य गम्भीर काण्डहरू फेला परेका छैनन्।",
+  "overall_approval_rating": 38
+}

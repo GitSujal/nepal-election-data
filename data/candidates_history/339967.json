@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339967,
+  "candidate_name": "लाल प्रसाद साँवा लिम्बू",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CPN-UML_logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339967.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "झापा-४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "झापा-४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को आम निर्वाचनमा विजयी",
+      "date": "2079-08-08",
+      "details": "झापा क्षेत्र नं. ४ बाट २९,३१५ मत प्राप्त गरी नेपाली कांग्रेसका उम्मेदवारलाई पराजित गर्दै दोस्रो पटक प्रतिनिधिसभामा निर्वाचित।",
+      "link_to_source": "https://nepsebajar.com/lal-prasad-sawa-limbu-election-result-jhapa-election-2082-who-won",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वार्थको बाझिने (Conflict of Interest) सम्बन्धी विवाद",
+      "date": "2075-04-15",
+      "details": "म्यानपावर व्यवसायी भएर पनि संसदको अन्तर्राष्ट्रिय सम्बन्ध र श्रम समितिमा बसेर नीतिगत निर्णयहरूमा प्रभाव पारेको भन्दै तीव्र आलोचना।",
+      "link_to_source": "https://ekantipur.com/news/2018/09/21/153750106880053916.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को आम निर्वाचनमा पहिलो जित",
+      "date": "2074-08-21",
+      "details": "वाम गठबन्धनको तर्फबाट ४३,५१५ मत ल्याई झापा ४ बाट पहिलो पटक संसदमा प्रवेश।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/लाल_प्रसाद_साँवा_लिम्बू",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल वैदेशिक रोजगार व्यवसायी संघको नेतृत्व",
+      "date": "2063-01-01",
+      "details": "वैदेशिक रोजगार व्यवसायीहरूको छाता संगठन (NAFEA) को अध्यक्ष निर्वाचित भई व्यवसायीहरूको हकहितमा कार्य गरेको।",
+      "link_to_source": "https://nafea.org.np/about-nafea",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लाल प्रसाद साँवा लिम्बू झापा क्षेत्र नम्बर ४ का प्रभावशाली एमाले नेता हुन्। उनले २०७४ र २०७९ का दुवै निर्वाचनमा भारी मतान्तरले जितेर आफ्नो चुनावी पकड प्रमाणित गरेका छन्। राजनीतिमा आउनुअघि उनी सफल म्यानपावर व्यवसायी (Rainbow Overseas) का रूपमा परिचित थिए। संसदमा रहँदा म्यानपावर व्यवसायी भएर श्रम समितिमा बस्नु र नीतिगत निर्णयमा संलग्न हुनुलाई 'स्वार्थको बाझिने' विषयका रूपमा हेरिन्छ, जसले उनको छविमा केही नैतिक प्रश्नहरू उब्जाएको छ। यद्यपि, झापाको स्थानीय विकास र एमालेको बलियो संगठनका कारण उनी आफ्नो क्षेत्रमा लोकप्रिय छन्। उनलाई एक कुशल संगठनकर्ता र व्यावसायिक पृष्ठभूमिका राजनीतिज्ञका रूपमा चिनिन्छ।",
+  "overall_approval_rating": 75
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340241,
+  "candidate_name": "सत्य नारायण भगत बीन",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://election.gov.np/static/media/party_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340241.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "४ (ख)",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका बीन निकै कम मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी परिवर्तन र नयाँ आबद्धता",
+      "date": "२०७९-०७-२०",
+      "details": "मुख्यधारको पार्टी नेकपा (माओवादी केन्द्र) त्यागेर उनी प्रगतिशील लोकतान्त्रिक पार्टीमा प्रवेश गरी सोही दलबाट चुनाव लडे।",
+      "link_to_source": "https://shirishnews.com/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "रौतहट ४ (ख) बाट प्रदेश सभाका लागि माओवादी केन्द्रको तर्फबाट उम्मेदवार बनेका बीनले १२,३३१ मत प्राप्त गरे पनि पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultPA2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी केन्द्रमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयसम्म रौतहट जिल्लामा नेकपा (माओवादी केन्द्र) को स्थानीय राजनीतिमा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.setopati.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सत्य नारायण भगत बीन रौतहट जिल्लाका एक राजनीतिकर्मी हुन् जसले हालैका वर्षहरूमा आफ्नो राजनीतिक आधार गुमाउँदै गएको देखिन्छ। २०७४ सालको प्रदेश सभा निर्वाचनमा माओवादी केन्द्रबाट सम्मानजनक १२,३३१ मत प्राप्त गरेका उनी २०७९ सालमा आइपुग्दा उक्त पार्टी त्याग गरी सानो र नयाँ दल प्रगतिशील लोकतान्त्रिक पार्टीबाट चुनाव लडे। प्रदेश तहबाट संघीय तहमा उम्मेदवारी सार्नु र स्थापित पार्टी छाड्नुले उनलाई 'वागुवा' (अस्थिर) उम्मेदवारको रूपमा देखाएको छ। २०७९ को निर्वाचनमा उनले निकै कम मत प्राप्त गर्नुले उनको राजनीतिक सान्दर्भिकता कमजोर हुँदै गएको पुष्टि गर्दछ। उनी स्थानीय स्तरमा चिनिए पनि ठूला दलहरूको गठबन्धन र आफ्नै अस्थिरताका कारण चुनावी प्रतिस्पर्धामा पछि परेका हुन्।",
+  "overall_approval_rating": 32
+}

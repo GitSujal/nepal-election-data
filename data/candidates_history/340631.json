@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340631,
+  "candidate_name": "मो.साविर नूरि",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Soil_in_Hand_Symbol.png/200px-Soil_in_Hand_Symbol.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340631.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को आम निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मो.साविर नूरि श्रम संस्कृति पार्टीको तर्फबाट महोत्तरी क्षेत्र नं. २ बाट प्रतिनिधिसभा सदस्यका लागि चुनावी मैदानमा उत्रिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "धरानका मेयर हर्क साम्पाङको 'श्रमदान' अभियान र विचारबाट प्रभावित भई उनले यो नयाँ राजनीतिक शक्तिसँग सहकार्य सुरु गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340631",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "महोत्तरीमा श्रम अभियानको नेतृत्व",
+      "date": "२०८०-०३-१०",
+      "details": "स्थानीय तहमा मजदुर र किसानका समस्या समाधानका लागि वकालत गर्दै उनले महोत्तरीमा पार्टीको संगठन विस्तारमा भूमिका खेलेका छन्।",
+      "link_to_source": "https://khojsamachar.com/news/shram-sanskriti-party-candidate-list/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मो.साविर नूरि महोत्तरीको राजनीतिमा एक उदाउँदो र वैकल्पिक धारका उम्मेदवार हुन्। धरानका मेयर हर्क साम्पाङको नेतृत्वमा रहेको श्रम संस्कृति पार्टीबाट राजनीतिमा प्रवेश गरेका उनले परम्परागत राजनीतिक दलहरूको विकल्पका रूपमा आफूलाई प्रस्तुत गरेका छन्। २०७९ को निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न नसके पनि श्रमजीवी वर्ग र भुइँतहका मानिसहरूको मुद्दा उठाउन सफल देखिएका छन्। महोत्तरी जस्तो राजनीतिक रूपमा प्रभावशाली जिल्लामा सानो र नयाँ दलबाट प्रतिस्पर्धा गर्नु उनका लागि चुनौती र अवसर दुवै हो। उनीमाथि हालसम्म कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू देखिएका छैनन्, जसले उनको छवि स्वच्छ राखेको छ। यद्यपि, संगठनात्मक पकड र चुनावी अनुभवको कमीले गर्दा उनलाई मुख्यधारका नेताहरूसँग प्रतिस्पर्धा गर्न कठिन देखिन्छ।",
+  "overall_approval_rating": 42
+}

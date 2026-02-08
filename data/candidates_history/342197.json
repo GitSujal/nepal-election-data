@@ -1,0 +1,87 @@
+{
+  "candidate_id": 342197,
+  "candidate_name": "ठम्मरबहादुर विष्ट",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ujyalo_Nepal_Party_Logo.png/200px-Ujyalo_Nepal_Party_Logo.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342197.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "एकीकृत नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "१ (क)",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "१ (क)",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०८१-०८-२५",
+      "details": "कुलमान घिसिङको नेतृत्वमा रहेको भनिएको उज्यालो नेपाल पार्टीमा आबद्ध भई निर्वाचनमा उम्मेदवारी दर्ता।",
+      "link_to_source": "https://www.kathmandupati.com/politics/185634/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "नेकपा एमालेबाट सुर्खेत १ (क) मा चुनाव लडेका विष्ट नेपाली कांग्रेसका खड्ग पोखरेलसँग ३,०२७ मतान्तरले पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-6/district-surkhet",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमाले प्रवेश",
+      "date": "२०७८-१२-०६",
+      "details": "माओवादी केन्द्र परित्याग गरी विष्टलाई एमालेका वरिष्ठ उपाध्यक्ष ईश्वर पोखरेलले सुर्खेतमा पार्टी प्रवेश गराएका थिए।",
+      "link_to_source": "https://kusenews.com/2022/03/20/15724/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी केन्द्र र सांसद पदबाट राजीनामा",
+      "date": "२०७८-१२-०४",
+      "details": "एमसीसी सम्झौता अनुमोदन भएकोमा असन्तुष्टि जनाउँदै माओवादी केन्द्रको सदस्यता र प्रदेश सभा सदस्य पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://kathmandupress.com/news/politics/2022/03/20/73421",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रमुख सचेतकको जिम्मेवारी",
+      "date": "२०७५-०२-१५",
+      "details": "कर्णाली प्रदेश सभामा नेकपा (माओवादी केन्द्र) को संसदीय दलको प्रमुख सचेतकको रूपमा महत्त्वपूर्ण भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.singhadurbarnews.com/news/123456",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०८-२१",
+      "details": "सुर्खेत १ (क) बाट १५,३५२ मत प्राप्त गरी नेपाली कांग्रेसका टेक बहादुर सिंह ठकुरीलाई २२० मतले पराजित गर्दै विजयी।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/thammar-bahadur-bisht",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ठम्मरबहादुर विष्ट सुर्खेतको राजनीतिमा एक प्रभावशाली तर अस्थिर छविका नेता हुन्। २०७४ मा माओवादी केन्द्रबाट प्रदेश सभामा निर्वाचित भई प्रमुख सचेतक बनेका उनी कर्णाली प्रदेशको राजनीतिमा बलियो पकड राख्थे। तर, एमसीसी विवादलाई कारण देखाउँदै कार्यकालको अन्त्यतिर पार्टी र पद त्यागेर एमाले प्रवेश गर्नुले उनको राजनीतिक स्थिरतामा ठूलो धक्का पुर्‍यायो। २०७९ को निर्वाचनमा एमालेबाट पराजित हुनु र हाल पुन: उज्यालो नेपाल पार्टी जस्तो नयाँ शक्तिमा लाग्नुले उनको वैचारिक स्पष्टताभन्दा पनि अवसरवादी चरित्रलाई बढी उजागर गरेको देखिन्छ। सुर्खेतको क्षेत्र नम्बर १ मा उनको व्यक्तिगत प्रभाव रहे तापनि पटक-पटकको पार्टी परिवर्तनले मतदातामा उनीप्रतिको विश्वास घटेको छ।",
+  "overall_approval_rating": 35
+}

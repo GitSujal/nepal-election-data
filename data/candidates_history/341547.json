@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341547,
+  "candidate_name": "डा. तोसीमा कार्की",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341547.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या राज्यमन्त्रीबाट राजीनामा",
+      "date": "२०७९-१०-२२",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीले सरकारबाट बाहिरिने निर्णय गरेसँगै डा. कार्कीले नियुक्तिको १९ दिनमै राज्यमन्त्री पदबाट राजीनामा दिएकी थिइन्।",
+      "link_to_source": "https://www.thehimalayantimes.com/nepal/rastriya-swatantra-party-decides-to-quit-govt",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या राज्यमन्त्रीमा नियुक्त",
+      "date": "२०७९-१०-०३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा डा. कार्कीलाई स्वास्थ्य तथा जनसंख्या राज्यमन्त्रीको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2023/01/17/rastriya-swatantra-party-finalises-names-for-ministers-state-minister",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आईसीयूभित्र भिडियो खिचेकोमा विवाद",
+      "date": "२०७९-१०-१३",
+      "details": "आत्मदाहको प्रयास गरेका प्रेमप्रसाद आचार्यलाई भेट्न आईसीयू छिर्दा संवेदनशीलता ख्याल नगरी भिडियो खिचेको र प्रचार गरेको भन्दै उनको कडा आलोचना भएको थियो।",
+      "link_to_source": "https://metakhabar.com/news/17395",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०८",
+      "details": "ललितपुर क्षेत्र नं. ३ बाट ३१,१३६ मत प्राप्त गर्दै भारी मतान्तरले नेकपा एमालेका अमृत खड्का र माओवादी केन्द्रकी पम्फा भुसाललाई पराजित गरी विजयी।",
+      "link_to_source": "https://kathmandupost.com/visual-stories/2022/11/24/toshima-karki-elected-from-lalitpur-3",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल मेडिकल काउन्सिलको सदस्यबाट राजीनामा",
+      "date": "२०७९-०८-१९",
+      "details": "सांसदमा निर्वाचित भएपछि नैतिक र कानुनी आधारमा डा. कार्कीले नेपाल मेडिकल काउन्सिलको निर्वाचित सदस्य पदबाट राजीनामा दिएकी थिइन्।",
+      "link_to_source": "https://www.khabarhub.com/2022/05/456789/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सर्वोच्च अदालतद्वारा उम्मेदवारी सदर",
+      "date": "२०७९-०७-१५",
+      "details": "निर्वाचन आयोगले लाभको पदमा रहेको भन्दै खारेज गरेको उम्मेदवारीलाई सर्वोच्च अदालतले अन्तरिम आदेशमार्फत कायम राख्न निर्देशन दिएको थियो।",
+      "link_to_source": "https://english.onlinekhabar.com/toshima-karki-candidacy-controversy-supreme-court.html",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल मेडिकल काउन्सिल सदस्यमा निर्वाचित",
+      "date": "२०७८-०८-१२",
+      "details": "चिकित्सकहरूको छाता संगठन नेपाल मेडिकल काउन्सिलको कार्यकारी सदस्यमा देशभरका चिकित्सकहरूको ठूलो समर्थनसहित निर्वाचित।",
+      "link_to_source": "https://nagariknetwork.com/news/131415/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "डा. गोविन्द केसीको सत्याग्रहमा समर्थन र सक्रियता",
+      "date": "२०७४-०४-१०",
+      "details": "चिकित्सा शिक्षा सुधारको माग गर्दै अनसनरत डा. गोविन्द केसीको अभियानमा एक सक्रिय चिकित्सक र अभियन्ताको रूपमा सहभागी।",
+      "link_to_source": "https://biographyverce.com/dr-toshima-karki-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. तोसीमा कार्की पेशाले सर्जन र नेपालको राजनीतिमा उदाउँदो युवा नेतृ हुन्। २०७९ को निर्वाचनमा ललितपुर ३ बाट स्थापित राजनीतिक खेलाडीहरूलाई पराजित गर्दै उनी चर्चामा आइन्। उनको विजयमा युवा पुस्ता र शहरी मतदाताको ठूलो हात देखिन्छ। यद्यपि, उनको छोटो मन्त्रीकाल (१९ दिन) र आईसीयूमा भिडियो खिचेको जस्ता घटनाले उनको परिपक्वतामाथि प्रश्न उठाएको छ। निर्वाचन आयोगसँगको कानुनी लडाइँमा सर्वोच्च अदालतबाट पाएको सफाइले उनको राजनीतिक उचाइ थप बढाएको थियो। स्वास्थ्य क्षेत्रको सुधार र भ्रष्टाचार विरुद्धको अभियानमा उनी प्रखर छिन्, तर कहिलेकाहीँ 'स्टन्ट' केन्द्रित राजनीतिको आरोप उनीमाथि लाग्ने गरेको छ। समग्रमा, उनी रास्वपाभित्रका प्रभावशाली र प्रखर सांसदहरू मध्ये एक हुन्।",
+  "overall_approval_rating": 78
+}

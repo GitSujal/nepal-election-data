@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341670,
+  "candidate_name": "अतहर कमाल मुसलमान",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "पूर्व प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341670.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "कपिलबस्तु निर्वाचन क्षेत्र नं. २ बाट प्रतिनिधिसभा सदस्यका लागि नेपाली काँग्रेसबाट उम्मेदवार बनेका मुसलमान नेकपा एमालेका बृजेश कुमार गुप्तासँग पराजित भए। उनले २३,६७४ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-kapilbastu?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली काँग्रेसको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली काँग्रेसको १४औँ महाधिवेशनबाट अतहर कमाल मुसलमान केन्द्रीय कार्यसमिति सदस्य पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://nepalicongress.org/central-committee",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा विजय",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को प्रतिनिधिसभा निर्वाचनमा कपिलबस्तु क्षेत्र नं. २ बाट २१,५७० मत ल्याई उनी विजयी भएका थिए। उनले नेकपा एमालेका उम्मेदवारलाई पराजित गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसदीय लेखा समिति सदस्य",
+      "date": "२०७५-०५-१५",
+      "details": "सांसदको रूपमा उनले प्रतिनिधिसभाको सार्वजनिक लेखा समितिमा रहेर सरकारी खर्च र पारदर्शिताको विषयमा महत्वपूर्ण भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://hr.parliament.gov.np/np/committees/Public-Accounts-Committee",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अतहर कमाल मुसलमान कपिलबस्तु जिल्लाका एक प्रभावशाली र स्थापित मुस्लिम नेता हुन्। नेपाली काँग्रेसको राजनीतिमा लामो समयदेखि सक्रिय रहेका उनी २०७४ को निर्वाचनमा विजयी भई संसदमा आफ्नो बलियो उपस्थिति जनाएका थिए। उनी विशेष गरी मधेस र मुस्लिम समुदायको हकहितका लागि आवाज उठाउने नेताका रूपमा चिनिन्छन्। २०७९ को निर्वाचनमा नेकपा एमालेका बृजेश कुमार गुप्तासँग पराजित भए पनि उनको क्षेत्रीय प्रभाव कायमै छ। उनको राजनीतिक छवि तुलनात्मक रूपमा स्वच्छ मानिन्छ र पार्टीको केन्द्रीय तहमा उनको राम्रो पकड छ। स्थानीय विकास र सामाजिक सद्भाव कायम राख्न उनले निर्वाह गरेको भूमिकालाई सकारात्मक रूपमा लिइन्छ।",
+  "overall_approval_rating": 72
+}

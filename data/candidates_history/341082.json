@@ -1,0 +1,79 @@
+{
+  "candidate_id": 341082,
+  "candidate_name": "अजय बाबु शिवाकोटी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nepali_Congress_Logo.png",
+  "candidates_current_position": "बागमती प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341082.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "क्षेत्र नं १(२)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "गगन थापा नेतृत्वको 'विशेष महाधिवेशन' टिममा सक्रिय सहभागिता",
+      "date": "२०८२-०९-२६",
+      "details": "नेपाली काँग्रेसभित्र सुधारको पक्षमा वकालत गर्दै महामन्त्री गगन थापा र विश्वप्रकाश शर्माले आयोजना गरेको विशेष महाधिवेशनको व्यवस्थापन र प्रचारप्रसारमा नेतृत्वदायी भूमिका निर्वाह।",
+      "link_to_source": "https://khabarhub.com/2026/10/393248/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०८",
+      "details": "दोलखा १(२) बाट नेकपा एमालेका भरत केसीलाई पराजित गर्दै १४,२७९ मतका साथ बागमती प्रदेश सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-dolakha?lng=np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेस केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "काँग्रेसको १४ औं महाधिवेशनमा खुला तर्फबाट १,८११ मत प्राप्त गरी केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित।",
+      "link_to_source": "https://thenepalipost.com/2021/12/20/journalist-ajay-babu-elected-as-nc-central-member/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गोकुल बास्कोटा ७० करोड काण्डको खुलासा",
+      "date": "२०७६-११-०८",
+      "details": "हाम्राकुरा डटकमको सम्पादकका रूपमा तत्कालीन सञ्चारमन्त्री गोकुल बास्कोटाले सेक्युरिटी प्रिन्टिङ प्रेस खरिदमा ७० करोड घुस मागेको अडियो सार्वजनिक गरेपछि मन्त्रीले राजीनामा दिनुपरेको थियो।",
+      "link_to_source": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/nepal-journalist-and-union-leader-threatened-for-reporting.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कृष्णबहादुर महरा काण्डको खुलासा",
+      "date": "२०७६-०६-१३",
+      "details": "तत्कालीन सभामुख कृष्णबहादुर महरामाथि लागेको बलात्कार प्रयासको गम्भीर आरोप सार्वजनिक गरेपछि महराले पदबाट राजीनामा दिनुपरेको थियो।",
+      "link_to_source": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/nepal-journalist-and-union-leader-threatened-for-reporting.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लोकतन्त्र र पत्रकारिता पुरस्कारबाट सम्मानित",
+      "date": "२०७७-०२-१५",
+      "details": "खोज पत्रकारिता र भ्रष्टाचार विरुद्धको अभियानमा योगदान पुर्याए बापत तेज तीर्थ ट्रष्टद्वारा प्रतिष्ठित पुरस्कार प्रदान।",
+      "link_to_source": "https://nagariknetwork.com/news/122096/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल प्रेस युनियनको महासचिव",
+      "date": "२०७१-०५-२२",
+      "details": "नेपाल प्रेस युनियनको महासचिवका रूपमा श्रमजीवी पत्रकारहरूको हकहित र प्रेस स्वतन्त्रताको पक्षमा वकालत।",
+      "link_to_source": "https://wikipedia.org/wiki/Ajaya_Babu_Shiwakoti",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अजय बाबु शिवाकोटी नेपाली राजनीतिमा 'खोज पत्रकारिता' बाट उदाएका एक प्रभावशाली युवा नेता हुन्। उनले सम्पादन गरेको 'हाम्राकुरा' अनलाइनमार्फत तत्कालीन मन्त्री गोकुल बास्कोटा र सभामुख कृष्णबहादुर महरा जोडिएका उच्च प्रोफाइलका भ्रष्टाचार र नैतिक काण्डहरूको पर्दाफास गरेपछि उनी देशभर चर्चित भए। यही स्वच्छ र 'ह्वीसल ब्लोअर' को छविका कारण उनले नेपाली काँग्रेसको १४ औं महाधिवेशनमा उच्च मतका साथ केन्द्रीय सदस्य जित्न सफल भए। २०७९ को चुनावमा उनले दोलखाबाट प्रदेश सभा सदस्य जितेर आफ्नो चुनावी पकड पनि प्रमाणित गरेका छन्। उनी काँग्रेसभित्र विशेषगरी महामन्त्री गगन थापासँग निकट रहेर पार्टी सुधार र सुशासनको पक्षमा वकालत गर्ने नेताका रूपमा चिनिन्छन्। पत्रकारिताको पृष्ठभूमिबाट राजनीतिमा आएकाले उनलाई बौद्धिक र निडर नेताको रूपमा हेरिन्छ।",
+  "overall_approval_rating": 88
+}

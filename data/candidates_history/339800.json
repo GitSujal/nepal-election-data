@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339800,
+  "candidate_name": "रमेश प्रसाद यादव",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hammer_and_sickle_within_a_circle.svg/1024px-Hammer_and_sickle_within_a_circle.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339800.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "निर्वाचन क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र/अन्य"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "निर्वाचन क्षेत्र नं २",
+      "result": "N/A",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "बारा-२ मा नेपाली कम्युनिष्ट पार्टीबाट उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "रमेश प्रसाद यादवले बारा क्षेत्र नं २ बाट आगामी प्रतिनिधि सभा निर्वाचनका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट मनोनयन दर्ता गराए।",
+      "link_to_source": "https://www.ratopati.com/story/330055/2023/4/3/bara-2-nepali-communist-party-candidate",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) परित्याग",
+      "date": "२०७९-०५-२०",
+      "details": "लामो समय नेकपा (एकीकृत समाजवादी) मा रहेका यादवले पार्टीको आन्तरिक कलह र टिकट वितरणमा असन्तुष्टि जनाउँदै पार्टी परित्याग गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/330055",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्धता",
+      "date": "२०७८-०६-०९",
+      "details": "नेकपा (एमाले) को विभाजनपछि उनी माधव नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा सनाखत गर्दै आबद्ध भएका थिए।",
+      "link_to_source": "https://nagariknetwork.com/news/131065-1630456140.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा नराम्रो पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "प्रतिनिधि सभा निर्वाचन २०७४ मा बारा क्षेत्र नं २ बाट चुनाव लड्दा उनले मात्र १४ मत प्राप्त गरी लज्जास्पद हार व्यहोर्नु परेको थियो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "रमेश प्रसाद यादव बारा जिल्लाको राजनीतिमा एक विवादास्पद र अस्थिर पात्रका रूपमा चिनिन्छन्। २०७४ को निर्वाचनमा मात्र १४ मत प्राप्त गर्नुले उनको स्थानीय स्तरमा अत्यन्त कमजोर जनाधार रहेको पुष्टि गर्दछ। उनी पटक-पटक पार्टी परिवर्तन गरिरहने 'वगुवा' प्रवृत्तिका नेता हुन्, जसले माओवादी केन्द्र, एकीकृत समाजवादी हुँदै हाल नेपाली कम्युनिष्ट पार्टीको ओत लागेका छन्। उनकी श्रीमती उमरावती देवी यादव जनता समाजवादी पार्टी (जसपा) की केन्द्रीय सदस्य हुनुले उनको परिवारभित्रै राजनीतिक स्वार्थको टकराव र अवसरवादिता झल्काउँछ। बारा-२ जस्तो 'हेभीवेट' उम्मेदवारहरू हुने क्षेत्रमा उनको उम्मेदवारीलाई केवल मत काट्ने रणनीतिका रूपमा मात्र हेरिएको छ, जसका कारण मतदाताहरूमा उनीप्रति खासै भरोसा देखिँदैन।",
+  "overall_approval_rating": 15
+}

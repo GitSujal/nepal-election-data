@@ -1,0 +1,111 @@
+{
+  "candidate_id": 341419,
+  "candidate_name": "प्रकाश शरण महत",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य (समानुपातिक), पूर्व अर्थमन्त्री",
+  "candidates_current_position_in_party": "प्रवक्ता, नेपाली काँग्रेस",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341419.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "विद्युतीय सवारी कर विवाद",
+      "date": "२०८०-०२-१५",
+      "details": "आर्थिक वर्ष २०८०/८१ को बजेटमार्फत विद्युतीय सवारी साधनमा करको दर हेरफेर गर्दा निश्चित व्यापारिक घरानालाई फाइदा पुर्‍याएको आरोप लागेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/05/1315482",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अर्थमन्त्रीमा नियुक्ति",
+      "date": "२०७९-१२-१७",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा नेपाली काँग्रेसको तर्फबाट डा. महत अर्थमन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%B6%E0%A4%B0%E0%A4%A3_%E0%A4%AE%E0%A4%B9%E0%A4%A4",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी प्रवक्तामा मनोनित",
+      "date": "२०७८-१०-११",
+      "details": "नेपाली काँग्रेसका सभापति शेरबहादुर देउवाले डा. महतलाई पार्टीको केन्द्रीय प्रवक्ताको जिम्मेवारी दिएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/01/1070774",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२४",
+      "details": "काठमाडौं क्षेत्र नं ५ बाट वाम गठबन्धनका उम्मेदवार ईश्वर पोखरेलसँग भारी मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/news/32824/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "परराष्ट्र मन्त्रीमा नियुक्ति",
+      "date": "२०७३-०५-२०",
+      "details": "प्रचण्ड नेतृत्वको सरकारमा परराष्ट्र मन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%B6%E0%A4%B0%E0%A4%A3_%E0%A4%AE%E0%A4%B9%E0%A4%A4",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उर्जामन्त्री र सचिवबीच हातपात विवाद",
+      "date": "२०६६-०६-१५",
+      "details": "ऊर्जामन्त्री हुँदा मन्त्रालयका सचिव शंकर कोइरालासँग कार्यकक्षमै हातपात भएको भन्दै ठूलो विवाद सिर्जना भएको थियो।",
+      "link_to_source": "https://hamroneta.online/candidate/prakash-sharan-mahat-263.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "थर्मल प्लान्ट खरिद प्रकरण",
+      "date": "२०६६-०८-१०",
+      "details": "अनुपयुक्त थर्मल प्लान्ट खरिद गरी विद्युत प्राधिकरणलाई घाटा पुर्‍याउन खोजेको आरोपमा उनी विवादित बनेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%B6%E0%A4%B0%E0%A4%A3_%E0%A4%AE%E0%A4%B9%E0%A4%A4",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "परराष्ट्र राज्यमन्त्री र शरणार्थी विवाद",
+      "date": "२०६१-०३-२०",
+      "details": "भुटानी शरणार्थी वार्ता र कर्मचारी पोष्टिङमा अनियमितता गरेको भन्दै तत्कालीन परराष्ट्र सचिव मधुरमण आचार्यसँग सम्बन्ध बिग्रिएको थियो।",
+      "link_to_source": "https://hamroneta.online/candidate/prakash-sharan-mahat-263.html",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "डा. प्रकाश शरण महत नेपाली काँग्रेसका एक प्राज्ञिक तर विवादास्पद छविका नेता हुन्। अमेरिकाबाट अर्थशास्त्रमा विद्यावारिधि गरेका उनी सभापति शेरबहादुर देउवाका अत्यन्तै विश्वासपात्र मानिन्छन्। तर, चुनावी राजनीतिमा भने उनी कमजोर देखिन्छन्; २०७४ मा काठमाडौं-५ बाट पराजित भएपछि २०७९ मा उनले सुरक्षित बाटो रोज्दै समानुपातिक प्रणालीमार्फत संसदमा प्रवेश गरे, जसले गर्दा उनलाई 'बगुवा' वा 'भगौडा' उम्मेदवारको रूपमा आलोचना गरियो। मन्त्री हुँदाका विभिन्न कार्यकालमा उनी सधैं विवादमा तानिएका छन्। विशेषगरी उर्जा मन्त्री हुँदा सचिवसँगको हातपात र अर्थमन्त्री हुँदा विद्युतीय सवारीमा कर हेरफेर गरेको घटनाले उनको नैतिक साखमा धक्का पुर्‍याएको छ। उनीसँग नीतिगत स्पष्टता भए पनि जनस्तरमा उनी लोकप्रिय भन्दा पनि शक्ति-केन्द्रको निकट रहेर राजनीति गर्ने नेताका रूपमा परिचित छन्।",
+  "overall_approval_rating": 42
+}

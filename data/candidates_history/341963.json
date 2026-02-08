@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341963,
+  "candidate_name": "प्रेम बहादुर तारामी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/CPN_United_Logo.svg/1024px-CPN_United_Logo.svg.png",
+  "candidates_current_position": "साधारण सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341963.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को आम निर्वाचनमा सुर्खेत क्षेत्र नं. २ बाट नेपाल कम्युनिष्ट पार्टी (संयुक्त) को तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://bhugolpark.com/candidate/prem-bahadur-tarami-341963",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी आबद्धता र सक्रियता",
+      "date": "२०७९-०१-०१",
+      "details": "लामो समयदेखि नेपाल कम्युनिष्ट पार्टी (संयुक्त) मा आबद्ध भई सुर्खेत र रोल्पा क्षेत्रमा पार्टी विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://bhugolpark.com/candidate/prem-bahadur-tarami-341963",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक कार्य र स्थानीय नेतृत्व",
+      "date": "२०७०-०५-१०",
+      "details": "राजनीतिसँगै स्थानीयस्तरमा सामाजिक कार्यहरूमा संलग्न रहँदै आएका र सीमान्तकृत समुदायको आवाज उठाउने गरेका छन्।",
+      "link_to_source": "https://bhugolpark.com/candidate/prem-bahadur-tarami-341963",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रेम बहादुर तारामी सुर्खेत क्षेत्र नं. २ का एक कम चर्चित तर वैचारिक रूपमा प्रतिबद्ध उम्मेदवार हुन्। ५६ वर्षीय तारामी नेपाल कम्युनिष्ट पार्टी (संयुक्त) जस्तो सानो दलबाट चुनावी मैदानमा उत्रिएका थिए। उनको शैक्षिक योग्यता साधारण लेखपढ मात्र रहेको र उनको मुख्य आधार क्षेत्र रोल्पा भए पनि सुर्खेतबाट चुनाव लडेका थिए। चुनावी परिणाम अनुसार उनले मुख्य दलका उम्मेदवारहरू हृदयराम थानी र अमृत बहादुर बुढा क्षेत्रीको तुलनामा नगण्य मत प्राप्त गरेका थिए। उनको राजनीतिक प्रभाव सीमित छ र उनलाई मुख्य गरी एक 'साङ्केतिक' उम्मेदवारका रूपमा हेरिने गरिन्छ। उनी विरुद्ध कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू नभेटिए पनि चुनावी प्रतिस्पर्धामा उनको उपस्थिति कमजोर देखिएको छ।",
+  "overall_approval_rating": 35
+}

@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341223,
+  "candidate_name": "कृष्ण चन्द्र प्रसाद साह",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341223.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "धनुषा-४",
+      "result": "पराजित",
+      "party": "नेपाल लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "धनुषा-४",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "धनुषा क्षेत्र नं. ४ बाट जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका साहले मात्र २०४ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341223",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टीको एकीकरणपछि बनेको जनता समाजवादी पार्टीमा उनी आबद्ध भएका हुन्।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/217196-1587612716.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीबाट समाजवादीमा विलय",
+      "date": "२०७६-०२-२३",
+      "details": "साह आबद्ध रहेको तत्कालीन नयाँ शक्ति पार्टी र संघीय समाजवादी फोरमबीच एकता भई समाजवादी पार्टी गठन भएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2019/05/763183",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "नेपाल लोकतान्त्रिक पार्टीको तर्फबाट धनुषाबाट निर्वाचन लडेका उनले मात्र ९८ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टी नेपालमा संलग्नता",
+      "date": "२०७३-०२-३०",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टीमा उनी स्थापना कालदेखि नै वैकल्पिक राजनीतिको पक्षमा आबद्ध रहेका थिए।",
+      "link_to_source": "https://www.bbc.com/nepali/news/2016/06/160612_naya_shakti",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कृष्ण चन्द्र प्रसाद साह धनुषा जिल्लाका एक स्थानीय राजनीतिक उम्मेदवार हुन् जसको चुनावी प्रदर्शन निकै कमजोर देखिन्छ। उनले २०७४ र २०७९ का दुवै निर्वाचनमा अत्यन्तै न्यून मत प्राप्त गरेका छन्, जसले उनको स्थानीय स्तरमा जनाधारको अभाव रहेको पुष्टि गर्दछ। २०७४ मा मात्र ९८ मत र २०७९ मा २०४ मत प्राप्त गर्नुले उनी एक प्रभावशाली प्रतिस्पर्धीको रूपमा स्थापित हुन नसकेको स्पष्ट पार्छ। उनको राजनीतिक यात्रा नयाँ शक्ति पार्टीदेखि जसपासम्म फैलिएको छ, तर बारम्बारको दल परिवर्तन र कमजोर चुनावी नतिजाले उनको राजनीतिक भविष्यमा प्रश्नचिन्ह खडा गरेको छ। उनी मधेस केन्द्रित राजनीतिमा सक्रिय रहे पनि ठूला नेताहरूको प्रभावका कारण छायामा परेको देखिन्छ।",
+  "overall_approval_rating": 15
+}

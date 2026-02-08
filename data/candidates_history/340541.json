@@ -1,0 +1,143 @@
+{
+  "candidate_id": 340541,
+  "candidate_name": "माधव कुमार नेपाल",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CPN-Unified_Socialist_Logo.png/200px-CPN-Unified_Socialist_Logo.png",
+  "candidates_current_position": "पूर्व प्रधानमन्त्री",
+  "candidates_current_position_in_party": "अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340541.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "राष्ट्रिय सभा सदस्य",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१ र ४",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "काठमाडौँ र रौतहट",
+      "constituency": "काठमाडौँ-२ र रौतहट-६",
+      "result": "पराजित",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "काठमाडौँ र रौतहट",
+      "constituency": "काठमाडौँ-२ र रौतहट-१",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौँ",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पाताञ्जली जग्गा प्रकरणमा भ्रष्टाचार मुद्दा दर्ता",
+      "date": "२०८२-०२-२२",
+      "details": "अख्तियार दुरुपयोग अनुसन्धान आयोगले पाताञ्जली योगपीठलाई सरकारी जग्गा नियम विपरित उपलब्ध गराएको भन्दै पूर्व प्रधानमन्त्री नेपाल विरुद्ध भ्रष्टाचार मुद्दा दर्ता गरेको छ।",
+      "link_to_source": "https://khabarhub.com/2025/05/215647/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "ललिता निवास जग्गा प्रकरणमा बयान",
+      "date": "२०८०-०५-०४",
+      "details": "ललिता निवास जग्गा घोटाला प्रकरणमा नेपाल प्रहरीको केन्द्रीय अनुसन्धान ब्यूरो (CIB) ले पूर्व प्रधानमन्त्रीको हैसियतमा नेपालसँग बयान लिएको थियो।",
+      "link_to_source": "https://theannapurnaexpress.com/news/lalita-niwas-scam-probe-people-have-every-right-to-know-uncensored-truth-44445/",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) को गठन",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा (एमाले) बाट विद्रोह गरी नेपालको नेतृत्वमा नयाँ पार्टी नेकपा (एकीकृत समाजवादी) निर्वाचन आयोगमा दर्ता भएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Madhav_Kumar_Nepal",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपालको २१ औं प्रधानमन्त्रीको रूपमा नियुक्ति",
+      "date": "२०६६-०२-११",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को राजीनामा पछि नेपाल २२ दलीय गठबन्धनको समर्थनमा नेपालको प्रधानमन्त्री निर्वाचित भएका थिए।",
+      "link_to_source": "https://columbia.edu/worldleaders/madhav-kumar-nepal",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले महासचिव पदबाट राजीनामा",
+      "date": "२०६४-१२-३०",
+      "details": "पहिलो संविधानसभा निर्वाचनमा दुई निर्वाचन क्षेत्रबाट पराजित भएपछि नैतिक जिम्मेवारी लिँदै उनले १५ वर्षे महासचिव कार्यकालबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Madhav_Kumar_Nepal",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१२ बुँदे सम्झौतामा महत्वपूर्ण भूमिका",
+      "date": "२०६२-०८-०७",
+      "details": "दिल्लीमा भएको तत्कालीन सात राजनीतिक दल र माओवादीबीचको १२ बुँदे समझदारीमा उनले एमालेको तर्फबाट मुख्य नेतृत्वदायी भूमिका खेलेका थिए।",
+      "link_to_source": "https://peaceagreements.org/viewmasterdetails/512",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उपप्रधानमन्त्री तथा विदेश मन्त्री",
+      "date": "२०५१-०८-१४",
+      "details": "मनमोहन अधिकारीको नेतृत्वको पहिलो कम्युनिष्ट सरकारमा उनले उपप्रधानमन्त्रीका साथै परराष्ट्र र रक्षा मन्त्रालय सम्हालेका थिए।",
+      "link_to_source": "https://columbia.edu/worldleaders/madhav-kumar-nepal",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सुझाव आयोग सदस्य",
+      "date": "२०४७-०२-१६",
+      "details": "२०४७ सालको नेपालको अधिराज्यको संविधानको मस्यौदा तयार पार्ने आयोगमा उनी एक सक्रिय सदस्यका रूपमा सहभागी थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidates/340541",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (माले) को संस्थापक सदस्य",
+      "date": "२०३५-०९-११",
+      "details": "उनले झापा विद्रोह पछिको नेकपा (माले) गठनमा संस्थापक पोलिटब्युरो सदस्यको रूपमा महत्वपूर्ण भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Madhav_Kumar_Nepal",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "माधव कुमार नेपाल नेपालको समकालीन राजनीतिका एक चतुर र अनुभवी खेलाडी हुन्। १५ वर्षसम्म नेकपा (एमाले) को शक्तिशाली महासचिव र देशको प्रधानमन्त्री भइसकेका नेपालले १२ बुँदे शान्ति सम्झौता र लोकतान्त्रिक आन्दोलनमा निर्णायक भूमिका निर्वाह गरेका थिए। तर, पछिल्लो दशकमा उनीमाथि 'नीतिगत भ्रष्टाचार' को गम्भीर आरोप लाग्दै आएको छ। विशेष गरी ललिता निवास जग्गा प्रकरण र २०८२ मा अख्तियारले दर्ता गरेको पाताञ्जली जग्गा प्रकरणको भ्रष्टाचार मुद्दाले उनको राजनीतिक छविमा गम्भीर क्षति पुर्याएको छ। २०७९ को निर्वाचनमा काठमाडौँ छाडेर आफ्नै गृहजिल्ला रौतहट फर्किएका उनले आफ्नो चुनावी पकड सुरक्षित राखे पनि राष्ट्रिय स्तरमा उनको दलको उपस्थिति खुम्चिँदै गएको देखिन्छ। सत्ताका लागि पार्टी विभाजन गर्ने र पटक-पटक गठबन्धन फेर्ने प्रवृत्तिका कारण उनी आलोचित छन्। भ्रष्टाचारका मुद्दाहरूमा परिरहेको कानुनी झमेलाले उनको आगामी राजनीतिक भविष्य चुनौतीपूर्ण बनाएको छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339954,
+  "candidate_name": "पूर्ण बहादुर वाइवा तामाङ्ग",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rastriya_Prajatantra_Party_Logo.png/220px-Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339954.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "निर्वाचन क्षेत्र १ (क)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा बलियो उपस्थिति",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. १ (क) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिई ९,१८४ मत प्राप्त गरेका। उनी तेस्रो स्थानमा रहे पनि राप्रपाको संगठन सो क्षेत्रमा बलियो बनाउन सफल भएका।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-morang?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको विभिन्न घटकहरूमा निरन्तर आबद्धता",
+      "date": "२०७७-११-२०",
+      "details": "राप्रपाका विभिन्न विभाजन र एकताका चरणहरू (राप्रपा राष्ट्रवादी, प्रजातान्त्रिक, संयुक्त) मा विचलित नभई पार्टीको वैचारिक लाइनमा अडिग रहेका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339954",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वच्छ राजनीतिक छवि र सामुदायिक कार्य",
+      "date": "२०७५-०५-१०",
+      "details": "लामो समयदेखि मोरङमा रहेर तामाङ्ग समुदाय र स्थानीय विकासका मुद्दाहरूमा सक्रिय। उनको राजनीतिक करियरमा अहिलेसम्म कुनै पनि भ्रष्टाचार वा नैतिक विवाद देखिएको छैन।",
+      "link_to_source": "https://techie.com.np/election/candidate/339954",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पूर्ण बहादुर वाइवा तामाङ्ग मोरङ जिल्लाको निर्वाचन क्षेत्र नं. १ का एक पुराना र निष्ठावान राप्रपा नेता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले मोरङ १ (क) बाट ९,१८४ मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए, जसले उक्त क्षेत्रमा उनको व्यक्तिगत र पार्टीको प्रभाव राम्रो रहेको संकेत गर्दछ। उनी राप्रपाका विभिन्न टुटफुट र एकताका चरणहरूमा पार्टीको सिद्धान्तप्रति अडिग रहँदै आएका छन्। विशेष गरी तामाङ्ग समुदाय र स्थानीय स्तरमा संगठन विस्तारमा उनको महत्वपूर्ण भूमिका रहेको छ। उनको कुनै पनि ठूला विवाद वा भ्रष्टाचार काण्डमा संलग्नता नदेखिनु उनको बलियो पक्ष हो। यद्यपि, प्रमुख दलहरूको बलियो पकडका कारण उनी चुनावी नतिजा आफ्नो पक्षमा पार्न भने संघर्षरत देखिन्छन्।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340889,
+  "candidate_name": "डाक प्रसाद गौतम",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्वतन्त्र उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340889.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "इलाम",
+      "constituency": "इलाम-२",
+      "result": "पराजित",
+      "party": "नेपाली कांग्रेस (बी.पी.)"
+    },
+    {
+      "year": "२०८१",
+      "position": "प्रतिनिधि सभा सदस्य (उपनिर्वाचन)",
+      "district": "इलाम",
+      "constituency": "इलाम-२",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "इलाम-२ उपनिर्वाचनमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०८१-०१-१५",
+      "details": "२०८१ को प्रतिनिधि सभा उपनिर्वाचनमा इलाम क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दा उनले मात्र १४ मत प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/dak-prasad-gautam-election-result-elam-election-2081-who-won/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र राजनीतिक यात्राको सुरुवात",
+      "date": "२०८०-१२-२४",
+      "details": "नेपाली कांग्रेस (बी.पी.) परित्याग गरी आगामी उपनिर्वाचनका लागि उनले स्वतन्त्र रूपमा आफ्नो उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/इलाम–२_उपनिर्वाचन,_२०८१",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "प्रतिनिधि सभा निर्वाचन २०७९ मा नेपाली कांग्रेस (बी.पी.) को तर्फबाट इलाम-२ मा उम्मेदवारी दिँदा उनले ५४ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/dak-prasad-gautam-nepal-election-result-update/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "डाक प्रसाद गौतम इलाम क्षेत्र नं. २ का एक निरन्तर तर चुनावी रूपमा निकै कमजोर उम्मेदवार हुन्। उनले २०७९ को आम निर्वाचनमा नेपाली कांग्रेस (बी.पी.) बाट ५४ मत प्राप्त गरेका थिए भने २०८१ को उपनिर्वाचनमा स्वतन्त्र रूपमा उठ्दा यो संख्या घटेर १४ मा पुग्यो। उनको राजनीतिक यात्रामा कुनै ठूला भ्रष्टाचार वा काण्डहरू नदेखिए पनि जनताको विश्वास जित्न उनी असफल देखिएका छन्। उनी मुख्यतया साना दल र स्वतन्त्र पहिचानमा आधारित रहेर चुनाव लड्दै आएका छन्। इलामको राजनीतिमा उनको प्रभाव नगन्य छ र उनले ठूला दलको विकल्प बन्ने प्रयास गरे पनि मतदाताको समर्थन जुटाउन सकेका छैनन्।",
+  "overall_approval_rating": 12
+}

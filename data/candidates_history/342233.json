@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342233,
+  "candidate_name": "राम चरण चौधरी",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harka_Sampang_Shram_Sanskriti_Party_Logo.png/200px-Harka_Sampang_Shram_Sanskriti_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "बाँके जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342233.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बाँके",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्ध",
+      "date": "२०८१-०७-०७",
+      "details": "हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीमा आबद्ध भई आगामी निर्वाचनको लागि बाँके क्षेत्र नं. २ बाट उम्मेदवारी दर्ता।",
+      "link_to_source": "https://www.hamropatro.com/election/candidates/342233",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "बाँके क्षेत्र नं. २ बाट लोसपाको उम्मेदवार भई जम्मा ३८८ मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक दल परिवर्तन (लोसपा परित्याग)",
+      "date": "२०८१-०१-१०",
+      "details": "पुरानो दल लोकतान्त्रिक समाजवादी पार्टी छोडेर नयाँ वैकल्पिक शक्तिको रुपमा उदाएको श्रम संस्कृति पार्टी रोजेको।",
+      "link_to_source": "https://www.hamropatro.com/election/candidates/342233",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "शैक्षिक योग्यता विवरण",
+      "date": "२०७९-०७-१५",
+      "details": "नारायण माध्यमिक विद्यालयबाट कक्षा १० अनुत्तीर्ण भएको विवरण निर्वाचन आयोगमा पेश।",
+      "link_to_source": "https://www.hamropatro.com/election/candidates/342233",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राम चरण चौधरी बाँके जिल्लाको राजनीतिमा एक सिमान्तकृत र अस्थिर पात्रका रूपमा चिनिन्छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा लोकतान्त्रिक समाजवादी पार्टी (लोसपा) बाट उम्मेदवार बन्दा उनले प्राप्त गरेको मात्र ३८८ मतले उनको कमजोर जनमत र चुनावी पकडलाई प्रस्ट पार्छ। स्रोतमा उनलाई 'वगुवा' (अस्थिर) उम्मेदवारका रूपमा उल्लेख गरिनुले उनको बारम्बार दल परिवर्तन गर्ने प्रवृत्तिलाई पुष्टि गर्दछ, जुन हाल लोसपा त्यागेर हर्क साम्पाङको श्रम संस्कृति पार्टीमा प्रवेश गरेको घटनाबाट पनि देखिन्छ। उनको शैक्षिक पृष्ठभूमि (कक्षा १० अनुत्तीर्ण) र कमजोर सांगठनिक आधारका कारण उनी मुख्य प्रतिस्पर्धीभन्दा पनि चुनावी प्रक्रियामा सहभागी हुने 'सांकेतिक उम्मेदवार' का रूपमा मात्र सीमित देखिन्छन्। बाँकेको स्थानीय राजनीतिमा उनको प्रभाव नगन्य छ।",
+  "overall_approval_rating": 18
+}

@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341615,
+  "candidate_name": "विरेन्द्र महतो",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janamat_Party_Logo.png/600px-Janamat_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341615.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा-४",
+      "result": "विजयी",
+      "party": "मधेशी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "मधेशी जनअधिकार फोरम, नेपाल (लोकतान्त्रिक)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा-४",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा-४",
+      "result": "विजयी",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनमत पार्टीमा प्रवेश र उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-०५",
+      "details": "लामो समय जनता समाजवादी पार्टी (जसपा) मा रहेका महतो पार्टी परित्याग गरी जनमत पार्टीमा प्रवेश गरेका छन् र महोत्तरी-१ बाट उम्मेदवार चयन भएका छन्।",
+      "link_to_source": "https://talknepaltv.com/2026/01/19/31336/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बैंकिङ च्यानल र अवैध विदेशी मुद्रा बारे प्रश्न",
+      "date": "२०८१-१२-०६",
+      "details": "प्रतिनिधि सभामा बोल्दै उनले ठूलो परिमाणमा विदेशी मुद्रा बरामद भएको घटनामा नेपालको बैंकिङ प्रणालीको संलग्नता हुन सक्ने भन्दै छानबिनको माग गरेका थिए।",
+      "link_to_source": "https://www.khabarhub.com/2025/03/437943/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माछापुच्छ्रे बैंकको संस्थापक शेयर खरिद",
+      "date": "२०८१-०७-०८",
+      "details": "आफ्ना दाइ उपेन्द्र महतोले बैंकबाट बाहिरिने क्रममा बेचेको शेयर विरेन्द्र महतोले खरिद गरी आफ्नो हिस्सा १.५८ प्रतिशत पुर्‍याएका थिए।",
+      "link_to_source": "https://clickmandu.com/2025/10/342981.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वन तथा वातावरण मन्त्रीमा नियुक्ति",
+      "date": "२०८०-०२-०९",
+      "details": "जसपाको तर्फबाट प्रचण्ड नेतृत्वको सरकारमा वन तथा वातावरण मन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://ratopati.com/story/357941/2023/5/23/birendra-mahato",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मन्त्रालयमा वास्तु र ज्योतिष विवाद",
+      "date": "२०८०-०३-१५",
+      "details": "वन मन्त्रालयको कार्यकक्षमा 'वास्तु' मिलाउन भन्दै सरकारी खर्चमा तोडफोड र फेरबदल गरेको विषयमा उनको आलोचना भएको थियो।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/social-affairs/1253491-1688643840.html",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०८",
+      "details": "सिराहा क्षेत्र नम्बर ४ बाट २४,१०२ मत प्राप्त गरी जनता समाजवादी पार्टीको तर्फबाट विजयी भएका थिए।",
+      "link_to_source": "https://nagariknetwork.com/news/140021/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माछापुच्छ्रे बैंकको अध्यक्षमा नियुक्ति",
+      "date": "२०७५-०९-२०",
+      "details": "माछापुच्छ्रे बैंक लिमिटेडको सञ्चालक समितिले उनलाई सर्वसम्मत रूपमा अध्यक्ष चयन गरेको थियो।",
+      "link_to_source": "https://www.sharesansar.com/newsdetail/machhapuchchhre-bank-concludes-its-20th-agm-on-20th-poush-appoints-dr-birendra-bahadur-mahato-as-the-new-chairman-2019-01-06",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विरेन्द्र महतो मधेश राजनीतिको एक प्रभावशाली तर विवादास्पद पात्र हुन्। लामो समयसम्म उपेन्द्र यादव र अशोक राई पक्षीय राजनीतिमा सक्रिय रहेका उनी हालै जनमत पार्टीमा प्रवेश गरेका छन्। उनको यो कदमलाई राजनीतिक अवसरवादको रूपमा पनि हेरिएको छ, किनकि उनले आफ्नो पुरानो निर्वाचन क्षेत्र सिराहा छाडेर महोत्तरी-१ बाट उम्मेदवारी दिएका छन्, जसले उनलाई 'टुरिस्ट क्यान्डिडेट' को ट्याग दिएको छ। उनी सफल व्यवसायी र माछापुच्छ्रे बैंकका पूर्व अध्यक्ष समेत हुन्, जसका कारण राजनीति र व्यवसायिक स्वार्थको द्वन्द्व (Conflict of Interest) का विषयमा उनीमाथि निरन्तर प्रश्न उठ्ने गरेको छ। वन मन्त्री हुँदा कर्मचारी सरुवा र मन्त्रालयमा 'वास्तु' फेरबदल जस्ता साना तर विवादास्पद घटनाले उनको प्रशासनिक छबिमा केही धक्का पुर्‍याएको थियो। जनमत पार्टीको नयाँ लहरमा सवार भएर महोत्तरीमा आफ्नो पकड बनाउन खोज्नु उनको लागि ठूलो चुनावी चुनौती र अवसर दुवै हो।",
+  "overall_approval_rating": 52
+}

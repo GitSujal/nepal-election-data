@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340613,
+  "candidate_name": "केशव राज पाण्डे",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CPN-UML_logo.png",
+  "candidates_current_position": "पूर्व मन्त्री, बागमती प्रदेश",
+  "candidates_current_position_in_party": "प्रदेश कमिटी सदस्य, नेकपा (एमाले)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340613.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं २ (क)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं २ (क)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "नुवाकोट निर्वाचन क्षेत्र नम्बर २ (क) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गर्दा नेकपा (माओवादी केन्द्र) का रामप्रसाद ढुङ्गानासँग ४४८ मतको झिनो अन्तरले पराजित हुनुभयो। पाण्डेले ११,६६२ मत प्राप्त गर्नुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlY3RoXaTulpZcBOcb3ZGBdQ05v4gaBRmGp0wroR629ORAv4r2KyiEwl_p2Rvkk7rUar7kgaZlmCYOrb2yLPcS8j9PQeuBpXbAfa7FNvDz3LerOCqUEJOxhbNKeH-myV3IT_6x612JjS2G7n8A8J88VR7WkaR1PwORo4b4LxOU3jhTJFvzOmt8OJ7KzuQ=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आन्तरिक मामिला तथा कानुन मन्त्रीमा नियुक्त",
+      "date": "२०७८-०१-१४",
+      "details": "बागमती प्रदेशका तत्कालीन मुख्यमन्त्री डोरमणि पौडेलको मन्त्रिमण्डलमा आन्तरिक मामिला तथा कानुन मन्त्रीको रूपमा नियुक्त हुनुभएको थियो। उहाँले प्रदेशको सुरक्षा र कानुन निर्माणमा भूमिका खेल्नुभयो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFupKcQlmg-EvdKYvFD_68O-wcJmygUyyhJ-YcYKMbyHUDj5Za1OXy1sCb9peE1uUdspj-IFZGttQYVwpLtC68UXRuCVRPztaXs1h-J17z6YMHJWJr5adw4T-vZQ-EyntxV4qwQNneTu8EWf67A==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भौतिक पूर्वाधार विकास मन्त्रीको जिम्मेवारी",
+      "date": "२०७८-०१-१५",
+      "details": "आन्तरिक मामिला मन्त्रालयसँगै उहाँले केही समय भौतिक पूर्वाधार विकास मन्त्रालयको जिम्मेवारी पनि सम्हाल्नुभएको थियो। उहाँलाई बागमती सरकारको प्रवक्ताको जिम्मेवारी समेत दिइएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFupKcQlmg-EvdKYvFD_68O-wcJmygUyyhJ-YcYKMbyHUDj5Za1OXy1sCb9peE1uUdspj-IFZGttQYVwpLtC68UXRuCVRPztaXs1h-J17z6YMHJWJr5adw4T-vZQ-EyntxV4qwQNneTu8EWf67A==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी विभाजनमा एमालेमै रहने निर्णय",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भई एकीकृत समाजवादी गठन हुँदा उहाँले माधव नेपालको साथ छोडेर एमालेमै रहने निर्णय गर्नुभयो। यसलाई उहाँको पार्टी प्रतिको निष्ठाको रूपमा हेरिएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFupKcQlmg-EvdKYvFD_68O-wcJmygUyyhJ-YcYKMbyHUDj5Za1OXy1sCb9peE1uUdspj-IFZGttQYVwpLtC68UXRuCVRPztaXs1h-J17z6YMHJWJr5adw4T-vZQ-EyntxV4qwQNneTu8EWf67A==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मन्त्रिपरिषदबाट राजीनामा/बहिर्गमन",
+      "date": "२०७८-०७-१०",
+      "details": "बागमती प्रदेशमा अष्टलक्ष्मी शाक्य नेतृत्वको सरकार ढलेसँगै उहाँले मन्त्री पदबाट विदा लिनुभएको थियो। उहाँ एमाले सरकारका प्रभावशाली मन्त्री मानिनुहुन्थ्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFupKcQlmg-EvdKYvFD_68O-wcJmygUyyhJ-YcYKMbyHUDj5Za1OXy1sCb9peE1uUdspj-IFZGttQYVwpLtC68UXRuCVRPztaXs1h-J17z6YMHJWJr5adw4T-vZQ-EyntxV4qwQNneTu8EWf67A==",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा भारी मतले विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "नुवाकोट २ (क) बाट २०,००९ मत प्राप्त गर्दै प्रदेश सभा सदस्यमा निर्वाचित हुनुभएको थियो। उहाँले लोकतान्त्रिक गठबन्धनका जगदीश्वर नरसिंह केसीलाई ७,२८० मतको फराकिलो अन्तरले पराजित गर्नुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUcE6uPGC1zC7KVdiqSOxyJ-p_u_vgoXYQYsCMgvRITpFfrs5Q36oM-JKTL7j3vzkdGqMiYM2XcV6z__AUzQsfsPKSp1VCcNZWOxADekndyqLrM4jr3HGjPsmKUx2ycQRSc6QJKYLPwvYCeh-4Ea8z6UkI6O1ZNJ4WkQNSIB_SEbmp5Pk-",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले नुवाकोट जिल्ला अध्यक्षको जिम्मेवारी",
+      "date": "२०७०-०१-०१",
+      "details": "पाण्डेले लामो समय नेकपा एमाले नुवाकोटको जिल्ला अध्यक्ष भएर पार्टी संगठन विस्तारमा मुख्य भूमिका खेल्नुभएको थियो। उहाँ जिल्लामा एमालेको बलियो खम्बा मानिनुहुन्छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp1y3rwr3g2zei2ueSHnWlGTxae31rdREDWmHv-GcTkktD0DYDzTYgFIWR9cteogZBSTqm68-veWAjNqwSuu4MQMQVrXkcE8mFXcArdJyhp_l_GPDK2VzSKRWW69yGpqa0RFesUxxGclghnWls1_C1rvltDgxonhqLLn8ZGwzcYzd84L7T1QiP7Lq4",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "केशव राज पाण्डे नुवाकोट जिल्लाका एक स्थापित र प्रभावशाली एमाले नेता हुन्। २०७४ को निर्वाचनमा भारी मतले विजयी भई बागमती प्रदेशको मन्त्रीसम्म बनेका पाण्डेको राजनीतिक उचाई राम्रो देखिएको थियो। उहाँ विशेष गरी संगठन निर्माण र स्थानीयस्तरमा कार्यकर्ताहरूसँगको निकटताका लागि चिनिनुहुन्छ। २०७९ को निर्वाचनमा झिनो मतान्तरले पराजित हुनुमा तत्कालीन सत्ता गठबन्धन (कांग्रेस-माओवादी) को संयुक्त शक्ति मुख्य कारण मानिन्छ। उहाँ बागमती प्रदेश सरकारमा आन्तरिक मामिला र भौतिक पूर्वाधार जस्ता महत्वपूर्ण मन्त्रालय सम्हाल्दा विवादरहित रहन सफल हुनुभएको देखिन्छ। पाण्डेलाई एमाले भित्र एक 'लोयल' र 'लोकल' नेताको रूपमा लिइन्छ, जसले गर्दा उहाँको जिल्ला राजनीतिमा पकड अझै पनि मजबुत छ।",
+  "overall_approval_rating": 72
+}

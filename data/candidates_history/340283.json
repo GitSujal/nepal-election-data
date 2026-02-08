@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340283,
+  "candidate_name": "राधेश्‍याम तेली गुप्‍ता",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8rY2l1N_5Q3_S6u1r9_D5_X6z9_r_v_w_Q&s",
+  "candidates_current_position": "राजनीतिकर्मी तथा उद्यमी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, आम जनता पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340283.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा रूपन्देही क्षेत्र नम्बर ३ बाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। उनले यस क्षेत्रका प्रभावशाली नेताहरूसँग प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340283",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१५",
+      "details": "प्रभु साहको नेतृत्वमा रहेको आम जनता पार्टीमा आबद्ध भई रूपन्देही जिल्लामा पार्टीको संगठन विस्तारमा सक्रिय भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340283",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय कृषि उद्यमीका रूपमा पहिचान",
+      "date": "२०७८-१०-१२",
+      "details": "कञ्चन गाउँपालिका-२ का स्थायी बासिन्दा गुप्ता व्यावसायिक तरकारी खेती र स्थानीय कृषि प्रवर्द्धनमा संलग्न रहेका छन्।",
+      "link_to_source": "https://kanchanmun.gov.np/sites/kanchanmun.gov.np/files/2021-12/Krishi%20Anudan%20Notice.pdf",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राधेश्‍याम तेली गुप्‍ता रूपन्देही जिल्लाका एक स्थानीय राजनीतिकर्मी र कृषि उद्यमी हुन्। उनी प्रभु साह नेतृत्वको आम जनता पार्टीका तर्फबाट २०७९ को प्रतिनिधि सभा निर्वाचनमा रूपन्देही निर्वाचन क्षेत्र नम्बर ३ बाट उम्मेदवार बनेका थिए। यद्यपि उक्त निर्वाचनमा उनी पराजित भए, तर उनले मधेशी समुदाय र किसानका मुद्दाहरूलाई स्थानीय स्तरमा उठाउँदै आएका छन्। कञ्चन गाउँपालिका-२ का बासिन्दा भएकाले उनको प्रभाव विशेष गरी स्थानीय तहमा बढी देखिएको छ। ठूला राजनीतिक दलहरूको वर्चस्व रहेको रूपन्देही-३ मा नयाँ पार्टीबाट उम्मेदवारी दिनुले उनको राजनीतिक साहसलाई दर्शाउँछ। उनको मुख्य चुनौती भनेको आफ्नो पार्टीको संगठनलाई बलियो बनाउनु र जनमतलाई ठूला दलहरूबाट आफूतिर आकर्षित गर्नु रहेको देखिन्छ।",
+  "overall_approval_rating": 38
+}

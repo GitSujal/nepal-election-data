@@ -1,0 +1,79 @@
+{
+  "candidate_id": 342143,
+  "candidate_name": "अम्विर बाबु गुरुङ्ग",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/CPN-UML_logo.png",
+  "candidates_current_position": "पूर्व मन्त्री, प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "प्रदेश कमिटी सदस्य, नेकपा (एमाले)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342143.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "ओखलढुंगा",
+      "constituency": "१ (क)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "ओखलढुंगा",
+      "constituency": "१ (क)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "ओखलढुंगा निर्वाचन क्षेत्र १ (क) बाट नेकपा एमालेका उम्मेदवार गुरुङ्ग नेपाली कांग्रेसका प्रदिप कुमार सुनुवारसँग ३६० मतान्तरले पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/pradeep-kumar-sunuwar-election-result-okhaldhunga-election-2082-who-won",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आफ्नै घर जाने सडकमा बजेट विनियोजन गरेको विवाद",
+      "date": "२०७८-०३-१५",
+      "details": "प्रदेश १ को पूर्वाधार मन्त्री रहँदा उनले नीतिगत भ्रष्टाचार गर्दै ओखलढुंगाको आफ्नै घर पुग्ने सडकका लागि राज्यको ठूलो बजेट विनियोजन गरेको भन्दै व्यापक आलोचना भएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/06/974652",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कोशी प्रदेशको भौतिक पूर्वाधार विकास मन्त्रीमा नियुक्त",
+      "date": "२०७७-१२-१३",
+      "details": "शेरधन राई नेतृत्वको सरकारमा राज्यमन्त्रीबाट पदोन्नति भई उनी भौतिक पूर्वाधार विकास मन्त्री बनेका थिए।",
+      "link_to_source": "https://sajilopatrika.com/ambir-babu-gurung/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भौतिक पूर्वाधार राज्यमन्त्रीको जिम्मेवारी",
+      "date": "२०७६-१०-०५",
+      "details": "प्रदेश १ को भौतिक पूर्वाधार विकास राज्यमन्त्रीका रूपमा पहिलोपटक मन्त्रीमण्डलमा सहभागी भएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/ambir-babu-gurung/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को प्रदेश सभा निर्वाचनमा भारी मतले विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "ओखलढुंगा १ (क) बाट १८,९०८ मत प्राप्त गरी उनी पहिलोपटक प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2017/12/08/20171208101416.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र द्वन्द्वका बेला सुरक्षाकर्मीबाट बेपत्ता",
+      "date": "२०६०-११-०४",
+      "details": "२००४ फेब्रुअरी १६ मा सादा पोसाकमा आएका सुरक्षाकर्मीले उनलाई नियन्त्रणमा लिएपछि केही समय बेपत्ता पारिएको विषयमा एम्नेस्टी इन्टरनेशनलले चासो देखाएको थियो।",
+      "link_to_source": "https://www.amnesty.org/en/documents/asa31/151/2004/en/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अम्विर बाबु गुरुङ्ग ओखलढुंगाको राजनीतिमा नेकपा (एमाले) का एक प्रभावशाली तर विवादास्पद पात्र हुन्। प्रदेश १ को भौतिक पूर्वाधार मन्त्री रहँदा उनले जिल्लामा धेरै विकास आयोजनाहरू भित्र्याए पनि बजेट विनियोजनमा आफ्नै निजी क्षेत्र र घरतर्फ ढल्केको भन्दै उनको कडा आलोचना भयो। २०७४ को चुनावमा भारी मतले जितेका उनी २०७९ मा आफ्नै कार्यकालका विवादहरू र सत्ता गठबन्धनको प्रभावका कारण झिनो मतान्तरले पराजित हुन पुगे। उनलाई स्थानीयस्तरमा 'विकासप्रेमी' र 'हक्की' नेताका रूपमा हेरिए पनि शक्ति र स्रोतको दुरुपयोग गरेको आरोपले उनको छविमा नकारात्मक असर पारेको छ। हाल उनी ओखलढुंगामा एमालेको संगठनलाई पुनर्जीवित गर्ने प्रयासमा सक्रिय छन्।",
+  "overall_approval_rating": 64
+}

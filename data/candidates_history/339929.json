@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339929,
+  "candidate_name": "गोकर्ण राई",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://janamukti.org/wp-content/uploads/2021/08/logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339929.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "गोकर्ण राईले उदयपुर क्षेत्र नं १ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका थिए, जहाँ उनले १२० मत मात्र प्राप्त गरे।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-udaypur?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को निर्वाचनमा उदयपुरबाटै उम्मेदवारी दिएका राईले जम्मा ७८ मत प्राप्त गरी पराजय व्यहोर्नु परेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHHxp1x0067WKg7QhdUko283BiJ8PpPED6wwlCHnqhoR22zuI971PB2_iCuGvtPri3uI3RcFybGbAgdeqT3EPSiryE8Ft_PzPY7z0XZSXGfd1Q6wD4tKY2qKA3QouTgkKbL8WC1xQJ9B9MvDNNwMtUQDYC3zZVrYQr",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा पहिचान",
+      "date": "२०७९-०७-१५",
+      "details": "राईको नागरिकता सुनसरी जिल्लाको भए पनि उनले उदयपुरबाट चुनाव लड्ने गरेकाले उनलाई स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को रूपमा हेरिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihgz1kYstd6HKnWo-a0JfcJwIme71FhlxUHQ-e0cBJTLxTx0B0S66avqPNS_xJJKU_Rr6GJKGNS3RIHmQj_UrFEOosT6uysisbqQ5wGVL3K4cWbndAroc2OPVRCEKNd_HKH3Bpo285EWeX3Y6ONAfYFNyJhPuFwvI",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दल परिवर्तन तथा आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "पहिले राष्ट्रिय जनमुक्ति पार्टीमा रहेका राई पछिल्लो समय नेपाल जनमुक्ति पार्टीसँग आबद्ध भई निर्वाचनमा होमिएका छन्।",
+      "link_to_source": "https://lokpath.com/story/465225",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गोकर्ण राई नेपाल जनमुक्ति पार्टीका एक निरन्तर तर कम प्रभावशाली उम्मेदवार हुन्। उनले २०७४ र २०७९ का दुवै आम निर्वाचनमा उदयपुरबाट उम्मेदवारी दिए पनि दुवै पटक निकै न्यून मत (७८ र १२०) प्राप्त गरेका छन्। उनको नागरिकता सुनसरीको रहेको र उदयपुरमा चुनावी प्रतिस्पर्धामा उत्रने गरेकाले उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को ट्याग दिइएको छ। यसले गर्दा स्थानीय मतदाताहरूसँग उनको प्रत्यक्ष र गहिरो सम्बन्ध स्थापना हुन सकेको देखिँदैन। साना दलको प्रतिनिधित्व गर्ने हुनाले र चुनावी परिणाममा उल्लेखनीय प्रभाव पार्न नसकेका कारण उनको राजनीतिक हैसियत जिल्लामा कमजोर देखिन्छ।",
+  "overall_approval_rating": 28
+}

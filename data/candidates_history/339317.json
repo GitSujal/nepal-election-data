@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339317,
+  "candidate_name": "इन्द्र कुमार गुरुङ्ग",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mongol_National_Organization_flag.png/220px-Mongol_National_Organization_flag.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339317.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) क्षेत्र नं. १ बाट प्रतिनिधिसभा सदस्यका लागि मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-nawalparasi-west?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "मंगोल पहिचान र अधिकारका लागि आवाज उठाउने राजनीतिक दल मंगोल नेशनल अर्गनाइजेसनमा लामो समयदेखि सक्रिय कार्यकर्ताको रूपमा संलग्न।",
+      "link_to_source": "https://mno.org.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानवादी एजेन्डाको वकालत",
+      "date": "२०७९-०७-१५",
+      "details": "चुनाव प्रचारप्रसारका क्रममा उनले नेपालमा मंगोल मूलबासीहरूको अधिकार र हिन्दू अधिपत्य विरुद्धको एजेन्डालाई मुख्य मुद्दा बनाएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/constituency/127",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "इन्द्र कुमार गुरुङ्ग मंगोल नेशनल अर्गनाइजेसनका तर्फबाट नवलपरासी (बर्दघाट सुस्ता पश्चिम) क्षेत्र नं. १ का लागि एक प्रतिबद्ध पहिचानवादी उम्मेदवार हुन्। उनले २०७९ को निर्वाचनमा विनोद चौधरी जस्ता हेभीवेट उम्मेदवारहरू विरुद्ध प्रतिस्पर्धा गरेका थिए। यद्यपि उनले उल्लेखनीय मत प्राप्त गर्न सकेनन्, उनको उम्मेदवारीले सो क्षेत्रमा मंगोल नेशनल अर्गनाइजेसनको वैचारिक उपस्थिति देखाएको छ। उनी कुनै पनि ठूला भ्रष्टाचार वा काण्डमा मुछिएका छैनन् र पार्टीभित्र एक निष्ठावान कार्यकर्ताको रूपमा चिनिन्छन्। उनको राजनीतिक भविष्य मुख्यतया पहिचानको राजनीतिमा आधारित छ।",
+  "overall_approval_rating": 45
+}

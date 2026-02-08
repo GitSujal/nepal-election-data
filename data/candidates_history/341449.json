@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341449,
+  "candidate_name": "मुमतज बेगम",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_p6vjYmK2B7E1I_7Y1B7Z8Gv9O2eWfXlXQw&s",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341449.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "निर्वाचन क्षेत्र ३",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मुमतज बेगमले २०७९ को आम निर्वाचनमा बारा क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि श्रम संस्कृति पार्टीको तर्फबाट उम्मेदवारी दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://baraupdate.com.np/2026/01/20/24-candidates-filed-nominations-in-bara-3/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०५-२०",
+      "details": "धरानका मेयर हर्क साम्पाङको नेतृत्वमा रहेको श्रम संस्कृति पार्टीको एजेन्डा र विचारबाट प्रभावित भई उनी उक्त पार्टीमा आबद्ध भएकी हुन्।",
+      "link_to_source": "https://khojsamachar.com/2026/01/21/shram-sanskriti-party-candidate-list/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत प्राप्ति",
+      "date": "२०७९-०८-०४",
+      "details": "बारा ३ मा भएको निर्वाचनमा उनले अत्यन्तै न्यून मत प्राप्त गरेकी थिइन्, जहाँ नेकपा एमालेकी ज्वाला कुमारी साह विजयी भएकी थिइन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341449",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "मुमतज बेगम २०७९ को प्रतिनिधि सभा निर्वाचनमा बारा क्षेत्र नम्बर ३ बाट श्रम संस्कृति पार्टीको प्रतिनिधित्व गर्दै चुनावी मैदानमा उत्रिएकी थिइन्। साना राजनीतिक दल र नयाँ अनुहारका रूपमा उनको उम्मेदवारीलाई चासोका साथ हेरिए पनि उनले उल्लेख्य जनमत प्राप्त गर्न सकिनन्। स्रोतका अनुसार उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा चित्रण गरिएको छ, जसको अर्थ उनको स्थायी बसोबास वा राजनीतिक आधार उक्त क्षेत्रमा बलियो नभएको देखिन्छ। यस निर्वाचन क्षेत्रमा नेकपा एमाले र जनता समाजवादी पार्टी जस्ता ठूला दलहरूको वर्चस्व रहेको कारण उनको प्रभाव सीमित रह्यो। उनी विरुद्ध कुनै भ्रष्टाचार वा फौजदारी मुद्दाहरू सार्वजनिक भएका छैनन्, तर राजनीतिक स्थिरता र प्रभावकारिताको दृष्टिले उनी अहिले पनि संघर्षरत छिन्।",
+  "overall_approval_rating": 40
+}

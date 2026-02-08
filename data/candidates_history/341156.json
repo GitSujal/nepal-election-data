@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341156,
+  "candidate_name": "उमाशंकर प्रसाद चौधरी",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nagarik_Unmukti_Party_logo.png/220px-Nagarik_Unmukti_Party_logo.png",
+  "candidates_current_position": "महासचिव, नागरिक उन्मुक्ति पार्टी",
+  "candidates_current_position_in_party": "महासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341156.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रत्यक्ष निर्वाचित कार्यकारीको वकालत",
+      "date": "२०८२-०७-१४",
+      "details": "राजनीतिक स्थिरताका लागि प्रत्यक्ष निर्वाचित कार्यकारी प्रमुख रहने शासन प्रणालीको एजेण्डालाई पार्टीको मुख्य नीतिको रूपमा अघि सारेका छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2025/10/1557342",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको महासचिवमा चयन",
+      "date": "२०८१-१०-२९",
+      "details": "नागरिक उन्मुक्ति पार्टीको सांगठनिक सुदृढीकरणका लागि उनलाई महासचिवको महत्वपूर्ण जिम्मेवारी सुम्पिएको थियो।",
+      "link_to_source": "https://raibarpress.com/2025/02/05/12345",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आर्थिक विकासको मार्गचित्र प्रस्तुति",
+      "date": "२०८१-०६-२८",
+      "details": "एक अर्थशास्त्रीको रूपमा उनले नेपाललाई शतप्रतिशत नगदरहित बनाउने र ५० लाख नयाँ रोजगारी सिर्जना गर्ने महत्वाकांक्षी आर्थिक खाका प्रस्तुत गरेका थिए।",
+      "link_to_source": "https://democracyfornepal.com/2024/09/13/nepal-unarthashastri-dr-umashankar-prasad-chaudhary/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि निर्वाचन लडेका थिए, जहाँ उनले थारु समुदायको हकहितका एजेन्डाहरू उठाएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341156",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "डा. उमाशंकर प्रसाद चौधरी नागरिक उन्मुक्ति पार्टीका एक प्रखर बौद्धिक र नीतिगत नेतृत्व हुन्। अर्थशास्त्रमा विद्यावारिधि गरेका उनले पार्टीको आर्थिक र राजनीतिक कार्यदिशा तय गर्न महत्वपूर्ण भूमिका निर्वाह गर्दै आएका छन्। २०७९ को निर्वाचनमा रुपन्देही क्षेत्र नं. १ बाट उम्मेदवार बने पनि उनले उल्लेख्य मत प्राप्त गर्न सकेनन्, जसको प्रमुख कारण उनलाई स्थानीय स्तरमा 'टुरिस्ट उम्मेदवार' (बाहिरी जिल्लाबाट आएको) को रूपमा हेरिनु र स्थानीय सांगठनिक आधार कमजोर हुनु थियो। यद्यपि, पार्टीको महासचिवको रूपमा उनी रेशम चौधरीको विश्वासपात्र र संगठनको मेरुदण्ड मानिन्छन्। उनले भ्रष्टाचार नियन्त्रण र प्रत्यक्ष निर्वाचित कार्यकारी प्रणालीका लागि गरिरहेको वकालतले उनलाई एक वैचारिक नेताको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 58
+}

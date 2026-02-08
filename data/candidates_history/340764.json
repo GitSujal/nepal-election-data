@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340764,
+  "candidate_name": "समिर श्रेष्ठ",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-M_logo.png/200px-CPN-M_logo.png",
+  "candidates_current_position": "वडा अध्यक्ष, चौतारा साँगाचोकगढी नगरपालिका-७",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य (नेकपा माओवादी केन्द्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340764.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "वडा अध्यक्ष",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "चौतारा साँगाचोकगढी नगरपालिका-७",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनका लागि सिफारिस",
+      "date": "२०८२-१०-१५",
+      "details": "पार्टीले उनलाई सिन्धुपाल्चोक क्षेत्र नं. १ बाट प्रतिनिधिसभाको आगामी निर्वाचनका लागि सम्भावित उम्मेदवारको रूपमा चर्चामा ल्याएको छ।",
+      "link_to_source": "https://osnepalnews.com/samir-shrestha-heading-toward-parliament/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वडा अध्यक्षमा निर्वाचित",
+      "date": "२०७९-०१-३०",
+      "details": "स्थानीय तह निर्वाचन २०७९ मा सिन्धुपाल्चोकको चौतारा साँगाचोकगढी नगरपालिका वडा नं. ७ को वडा अध्यक्ष पदमा भारी मतका साथ विजयी।",
+      "link_to_source": "https://ekantipur.com/news/2022/05/17/1652763456.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी केन्द्रको केन्द्रीय सदस्यमा नियुक्ति",
+      "date": "२०७९-०३-२०",
+      "details": "पार्टीको स्थानीय तहमा उत्कृष्ट कार्यसम्पादन र युवा नेतृत्वको पहिचान स्वरूप केन्द्रीय सदस्यको जिम्मेवारी प्रदान गरियो।",
+      "link_to_source": "https://osnepalnews.com/samir-shrestha-central-member/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भूकम्पपछिको पुनर्निर्माणमा नेतृत्व",
+      "date": "२०७२-०२-१५",
+      "details": "२०७२ को विनाशकारी भूकम्पपछि सिन्धुपाल्चोकको निगाले क्षेत्रमा राहत वितरण र निजी आवास पुनर्निर्माणमा सामाजिक अभियन्ताको रूपमा सक्रिय सहभागिता।",
+      "link_to_source": "https://wordpress.com/samir-shrestha-mentorship/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विद्यार्थी राजनीति र सङ्गठन विस्तार",
+      "date": "२०६५-०५-१०",
+      "details": "सिन्धुपाल्चोकबाट विद्यार्थी राजनीति सुरु गरी अनेरास्ववियु (क्रान्तिकारी) मा विभिन्न जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://radiosindhu.org/news/local-news/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "समिर श्रेष्ठ सिन्धुपाल्चोकको राजनीतिमा एक प्रभावशाली युवा नेताको रूपमा उदाएका छन्। चौतारा साँगाचोकगढी नगरपालिका वडा नं. ७ को वडा अध्यक्षका रूपमा उनले स्थानीय विकास, विशेष गरी सडक र खानेपानी पूर्वाधारमा उल्लेख्य सुधार गरेका छन्। २०७२ को भूकम्पपछि उनले गरेको सामाजिक सेवाले उनलाई जनतामाझ लोकप्रिय बनाएको हो। माओवादी केन्द्रले उनलाई युवा अनुहारका रूपमा केन्द्रमा पनि स्थान दिएको छ, जसले गर्दा उनी आगामी प्रतिनिधिसभा निर्वाचनका लागि बलियो दावेदार मानिन्छन्। उनको कार्यशैली जनमुखी र जुझारु रहेको स्थानीय विश्लेषण छ।",
+  "overall_approval_rating": 82
+}

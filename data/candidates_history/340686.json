@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340686,
+  "candidate_name": "डोल प्रसाद अर्याल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rastriya_Swatantra_Party_Logo.svg/1024px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य तथा पूर्व श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्री",
+  "candidates_current_position_in_party": "उपसभापति",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340686.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "काठमाडौं",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रास्वपा र विवेकशील साझा पार्टीबीच एकता",
+      "date": "२०८२-०८-१४",
+      "details": "रास्वपा र विवेकशील साझा पार्टीबीच एकता घोषणा पत्रमा अर्यालले कार्यवाहक सभापतिको रूपमा हस्ताक्षर गरे।",
+      "link_to_source": "https://risingnepaldaily.com/news/35652",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सहकारी ठगी प्रकरणमा मुछिएको आरोप",
+      "date": "२०८१-०१-२०",
+      "details": "हाम्रो नयाँ कृषि सहकारी संस्थाको उपाध्यक्ष रहँदा बचतकर्ताको रकम फिर्ता नगरेको र सहकारी ठगीमा संलग्न रहेको आरोप लाग्यो।",
+      "link_to_source": "https://nagariknetwork.com/news/143521/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दोस्रो पटक श्रम मन्त्रीको रूपमा शपथ",
+      "date": "२०८०-११-२३",
+      "details": "नयाँ सत्ता समीकरण बनेपछि अर्याल पुनः श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्री नियुक्त भए।",
+      "link_to_source": "https://www.sidhakura.com/news/125431",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम स्वीकृति एक घण्टाभित्रै दिने व्यवस्थाको सुरुवात",
+      "date": "२०८०-१२-०४",
+      "details": "मन्त्रीको रूपमा अर्यालले वैदेशिक रोजगारीमा जाने श्रमिकलाई एक घण्टाभित्रै अनलाइनबाट श्रम स्वीकृति दिने प्रणाली कार्यान्वयनमा ल्याए।",
+      "link_to_source": "https://nepalnews.com/s/nation/labour-permit-within-an-hour-minister-aryal",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसदीय दलको नेताबाट राजीनामा",
+      "date": "२०८०-०१-१६",
+      "details": "रवि लामिछाने उपनिर्वाचनबाट निर्वाचित भएर आएपछि अर्यालले संसदीय दलको नेता पदबाट राजीनामा दिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2023/04/29/aryal-resigns-as-rastriya-swatantra-party-parliamentary-party-leader",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिलो पटक श्रम मन्त्री नियुक्त र विवाद",
+      "date": "२०७९-१०-०३",
+      "details": "श्रम मन्त्री नियुक्त भएकै दिन म्यानपावर व्यवसायी र रेमिट्यान्स कम्पनीको सञ्चालक भएकोले स्वार्थको द्वन्द्व भएको भन्दै व्यापक आलोचना भयो।",
+      "link_to_source": "https://www.nepallivetoday.com/2023/01/17/rsp-minister-criticized-for-conflict-of-interest/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०९-०७",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट खस आर्य कोटाबाट समानुपातिक सांसदको रूपमा निर्वाचित भए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dol_Prasad_Aryal",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीको स्थापना र उपसभापति",
+      "date": "२०७९-०३-१७",
+      "details": "रवि लामिछानेको नेतृत्वमा रास्वपा गठन हुँदा अर्याल संस्थापक उपसभापति चयन भएका थिए।",
+      "link_to_source": "https://rspnepal.org/about-us",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "डोल प्रसाद अर्याल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का प्रमुख हस्ती र कुशल संगठक मानिन्छन्। २०७९ को आम निर्वाचनमा समानुपातिक तर्फबाट निर्वाचित भएपछि उनले दुई पटक श्रम मन्त्रालयको जिम्मेवारी सम्हालेका छन्। उनको कार्यकालमा वैदेशिक रोजगारीका लागि अनलाइन श्रम स्वीकृति जस्ता केही सुधारका कार्यहरू भए पनि उनी व्यवसायीक पृष्ठभूमिका कारण निकै विवादित रहे। म्यानपावर र रेमिट्यान्स व्यवसायमा संलग्न व्यक्ति नै श्रम मन्त्री बन्दा 'स्वार्थको द्वन्द्व' (Conflict of Interest) भएको भन्दै उनको कडा आलोचना हुने गरेको छ। यसका साथै हाम्रो नयाँ कृषि सहकारी संस्थामा उपाध्यक्ष रहँदा बचतकर्ताको रकम हिनामिना भएको आरोपले उनको राजनीतिक छवीमा गम्भीर प्रश्न उठाएको छ। यद्यपि, पार्टीभित्र उनी सभापति रवि लामिछानेको सबैभन्दा विश्वासिलो पात्र र संकटको समयमा नेतृत्व सम्हाल्ने व्यक्तिको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 58
+}

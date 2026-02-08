@@ -23,6 +23,9 @@ export function ElectionResultCard({ candidate, year }: ElectionResultCardProps)
   const castedVotes = isYear2079 
     ? candidate.prev_election_casted_vote 
     : candidate.prev_2074_election_casted_vote
+  const winnerVotes = isYear2079
+    ? candidate.prev_winner_votes
+    : candidate.prev_2074_winner_votes
   const runnerUpVotes = isYear2079 
     ? candidate.prev_runner_up_votes 
     : candidate.prev_2074_runner_up_votes
@@ -33,7 +36,10 @@ export function ElectionResultCard({ candidate, year }: ElectionResultCardProps)
 
   const isWinner = result === "Winner"
   const votePercentage = getVotePercentage(votes, castedVotes)
-  const margin = getMargin(votes, runnerUpVotes)
+  // For winners, margin = their votes - runner up votes
+  // For losers, margin = their votes - winner votes (will be negative)
+  const opponentVotes = isWinner ? runnerUpVotes : winnerVotes
+  const margin = getMargin(votes, opponentVotes)
 
   return (
     <div
@@ -148,13 +154,13 @@ export function ElectionResultCard({ candidate, year }: ElectionResultCardProps)
           )}
 
           {/* Runner-up/Winner votes */}
-          {runnerUpVotes && (
+          {opponentVotes && (
             <div className="rounded-xl bg-secondary/50 p-4">
               <div className="mb-1 text-sm text-muted-foreground">
                 {isWinner ? "Runner-up Votes" : "Winner Votes"}
               </div>
               <p className="text-2xl font-bold text-muted-foreground">
-                {runnerUpVotes.toLocaleString()}
+                {opponentVotes.toLocaleString()}
               </p>
             </div>
           )}

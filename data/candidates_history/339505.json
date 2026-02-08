@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339505,
+  "candidate_name": "शेखर अर्याल",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nepal_Election_Symbol_Candle.svg/1200px-Nepal_Election_Symbol_Candle.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339505.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "७",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "शेखर अर्यालले प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट काठमाडौं निर्वाचन क्षेत्र नं. ७ बाट प्रतिनिधि सभा सदस्यका लागि आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रगतिशील लोकतान्त्रिक पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१५",
+      "details": "वैकल्पिक राजनीतिको एजेन्डा बोकेको साना दलहरूमध्येको एक प्रगतिशील लोकतान्त्रिक पार्टीमा सक्रिय भई उनले चुनावी अभियान सञ्चालन गरेका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शेखर अर्याल काठमाडौं निर्वाचन क्षेत्र नं. ७ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा प्रगतिशील लोकतान्त्रिक पार्टीका उम्मेदवार हुन्। उनी मुख्य राजनीतिक धारभन्दा बाहिरका साना दलको प्रतिनिधित्व गर्ने उम्मेदवारका रूपमा चिनिन्छन्। उनले निर्वाचनमा निकै कम मत प्राप्त गरेका थिए, जसले उनको चुनावी जनाधार कमजोर रहेको पुष्टि गर्छ। यद्यपि, उनको नाममा कुनै ठूला भ्रष्टाचार वा विवादहरू सार्वजनिक भएका छैनन्। काठमाडौं जस्तो क्षेत्रमा स्थापित दल र चर्चित स्वतन्त्र उम्मेदवारहरूको बीचमा उनको उपस्थिति ओझेलमा परेको देखिन्छ। उनी 'टुरिष्ट' उम्मेदवार नभई स्थानीय स्तरबाटै वैकल्पिक राजनीतिको अभ्यासमा लागेका व्यक्ति हुन्।",
+  "overall_approval_rating": 42
+}

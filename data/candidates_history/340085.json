@@ -1,0 +1,183 @@
+{
+  "candidate_id": 340085,
+  "candidate_name": "इश्वर पोखरेल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CPN_UML_Logo.png",
+  "candidates_current_position": "पूर्व उपप्रधानमन्त्री",
+  "candidates_current_position_in_party": "वरिष्ठ उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340085.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं ५ बाट प्रतिनिधि सभा सदस्यमा उम्मेदवारी दिएका पोखरेल नेपाली कांग्रेसका प्रदीप पौडेलसँग ५,०७९ मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एमालेको वरिष्ठ उपाध्यक्षमा निर्वाचित",
+      "date": "२०७८-०८-१४",
+      "details": "चितवनमा सम्पन्न नेकपा (एमाले) को १०औँ महाधिवेशनबाट पोखरेल सर्वसम्मत रूपमा वरिष्ठ उपाध्यक्ष पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रधानमन्त्री कार्यालयको मन्त्रीमा नियुक्त",
+      "date": "२०७७-०६-२८",
+      "details": "रक्षा मन्त्रालयको जिम्मेवारीबाट हटाएर प्रधानमन्त्री केपी शर्मा ओलीले उनलाई प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयको मन्त्रीको जिम्मेवारी दिएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ओम्नी समूह स्वास्थ्य सामग्री खरिद विवाद",
+      "date": "२०७७-०१-१९",
+      "details": "कोभिड-१९ संकट व्यवस्थापन केन्द्र (CCMC) को संयोजक रहँदा ओम्नी समूहसँग महँगो मूल्यमा स्वास्थ्य सामग्री खरिद गरेको विषयमा भ्रष्टाचारको गम्भीर आरोप लागेको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2020/04/01/health-ministry-scraps-deal-with-omni-group-to-procure-medical-equipment",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "यती होल्डिङ्स र नेपाल ट्रस्ट विवाद",
+      "date": "२०७६-११-१४",
+      "details": "नेपाल ट्रस्टको अध्यक्षको हैसियतमा सरकारी जग्गा यती होल्डिङ्सलाई कौडीको भाउमा लिजमा दिने निर्णयको बचाउ गर्दै श्वेतपत्र जारी गरेपछि उनी विवादमा तानिएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2020/02/26/nepal-trust-issues-white-paper-on-its-properties-leased-to-yeti-holdings",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उपप्रधान तथा रक्षा मन्त्रीमा नियुक्त",
+      "date": "२०७४-११-१४",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा गठित सरकारमा उनी उपप्रधानमन्त्री तथा रक्षा मन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "काठमाडौं क्षेत्र नं ५ बाट २३,०२९ मत प्राप्त गरी भारी मतान्तरले विजयी भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमालेको महासचिवमा पुन: निर्वाचित",
+      "date": "२०७१-०३-१८",
+      "details": "पार्टीको ९औँ महाधिवेशनमा सुरेन्द्र पाण्डेलाई पराजित गर्दै उनी दोस्रो कार्यकालका लागि महासचिवमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विभिन्न मन्त्रालयको अल्पकालीन कार्यभार",
+      "date": "२०६९-०२-०३",
+      "details": "बाबुराम भट्टराई नेतृत्वको सरकारमा केही दिनका लागि परराष्ट्र, कृषि र खेलकुद मन्त्रालयको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमालेको महासचिवमा पहिलो पटक निर्वाचित",
+      "date": "२०६५-०८-०१",
+      "details": "८औँ महाधिवेशनबाट पहिलो पटक महासचिवको जिम्मेवारी सम्हालेका थिए, जसले पार्टीमा उनको सांगठनिक पकड बलियो बनायो।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा पराजय",
+      "date": "२०६४-१२-२८",
+      "details": "काठमाडौं ५ बाट पहिलो संविधान सभा निर्वाचनमा नेपाली कांग्रेसका नरहरि आचार्यसँग पराजित भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्री",
+      "date": "२०६१-०३-२१",
+      "details": "शेरबहादुर देउवाको संयुक्त सरकारमा एमालेको तर्फबाट उद्योग मन्त्रीको रूपमा सहभागी भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०५६ मा विजयी",
+      "date": "२०५६-०२-०३",
+      "details": "काठमाडौं क्षेत्र नं ३ बाट निर्वाचित भई संसदमा प्रतिनिधित्व गरेका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय सभा सदस्य",
+      "date": "२०५४-०३-१३",
+      "details": "दुई वर्षका लागि राष्ट्रिय सभा सदस्यको रूपमा मनोनित भई कार्य गरेका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०४८ मा पराजय",
+      "date": "२०४८-०१-२९",
+      "details": "धनुषा ३ बाट पहिलो आम निर्वाचनमा प्रतिस्पर्धा गरेका पोखरेल नेपाली कांग्रेसका उम्मेदवारसँग पराजित भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "इश्वर पोखरेल नेकपा (एमाले) का एक वरिष्ठ र प्रभावशाली वैचारिक नेता हुन्। उनले पार्टीको संगठन र 'जनताको बहुदलीय जनवाद' को व्याख्यामा दशकौंदेखि महत्वपूर्ण भूमिका खेल्दै आएका छन्। २०७४ मा काठमाडौं ५ बाट भारी मतले विजयी भएका पोखरेल २०७९ को निर्वाचनमा भने सोही क्षेत्रबाट नेपाली कांग्रेसका युवा नेता प्रदीप पौडेलसँग पराजित भए। उनको कार्यकालमा ओम्नी समूहसँगको स्वास्थ्य सामग्री खरिद विवाद र यती होल्डिङ्सलाई नेपाल ट्रस्टको जग्गा लिजमा दिने निर्णयहरूले उनको छविमा गम्भीर नकारात्मक असर पारेको छ। यी भ्रष्टाचारका आरोपहरू र कोभिड-१९ महामारी व्यवस्थापनमा देखिएको कमजोरीका कारण सहरी मतदाताहरूमा उनीप्रतिको आकर्षण घटेको विश्लेषण गरिन्छ। यद्यपि, एमालेभित्र उनी अझै पनि वरिष्ठ उपाध्यक्षको रूपमा निर्णायक शक्ति राख्छन्।",
+  "overall_approval_rating": 42
+}

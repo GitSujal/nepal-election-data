@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342456,
+  "candidate_name": "राम बहादुर विश्‍वकर्मा",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hammer_and_sickle.svg/1024px-Hammer_and_sickle.svg.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, नेकपा (माओवादी)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342456.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "४ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कैलाली निर्वाचन क्षेत्र नं ४ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जसमा उनले उल्लेख्य मत प्राप्त गरे तापनि पराजित हुनुपर्‍यो।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342456",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जातीय विभेद विरुद्धको सक्रियता",
+      "date": "२०७६-०४-१०",
+      "details": "रुपन्देही र कैलाली क्षेत्रमा दलित अधिकार र जातीय विभेद विरुद्धका आन्दोलनहरूमा नेतृत्वदायी भूमिका निर्वाह गरेको।",
+      "link_to_source": "https://amarc-ap.org/nepal-community-radio-conflict-resolution-peacebuilding/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल दलित मुक्ति मोर्चामा नेतृत्व",
+      "date": "२०७०-०९-१५",
+      "details": "नेकपा (माओवादी) निकट दलित संगठनको केन्द्रीय तहमा रही उत्पीडित समुदायको राजनीतिक सशक्तिकरणका लागि कार्य गरेको।",
+      "link_to_source": "https://nhrcnepal.org/uploads/publication/Strategic_Plan_2015-2020.pdf",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागिता",
+      "date": "२०५२-११-०१",
+      "details": "तत्कालीन सशस्त्र विद्रोहको समयदेखि नै भूमिगत राजनीतिमा आबद्ध भई सामाजिक न्यायको मुद्दामा सक्रिय रहेको।",
+      "link_to_source": "https://wikipedia.org/wiki/Communist_Party_of_Nepal_(Maoist_Centre)",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राम बहादुर विश्वकर्मा नेपाल कम्युनिस्ट पार्टी (माओवादी) का एक वैचारिक र निष्ठावान नेता हुन्। २०७९ को निर्वाचनमा उनले कैलाली-४ (ख) बाट प्रदेश सभाको चुनाव लडेका थिए, जहाँ उनलाई 'पर्यटक उम्मेदवार' को रूपमा चित्रण गरिए तापनि उनले स्थानीयस्तरमा राम्रो प्रभाव छाड्न सफल भएका थिए। उनी विशेष गरी दलित अधिकार र जातीय समानताको पक्षमा वकालत गर्ने नेताका रूपमा परिचित छन्। उनको राजनीतिक आधार मुख्यतया उत्पीडित समुदाय र माओवादी विचारधारामा टिकेको छ। निर्वाचनमा पराजित भए तापनि उनी आफ्नो पार्टीको संगठन विस्तार र सामाजिक न्यायका मुद्दाहरूमा सुदूरपश्चिम क्षेत्रमा सक्रिय रहँदै आएका छन्। उनको सफा राजनीतिक छवि र भ्रष्टाचारमा संलग्नता नदेखिनु उनको बलियो पक्ष हो।",
+  "overall_approval_rating": 48
+}

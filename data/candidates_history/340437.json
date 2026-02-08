@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340437,
+  "candidate_name": "विर बहादुर तामाङ",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Election_Symbol_of_Progressive_Democratic_Party_Nepal.png/200px-Election_Symbol_of_Progressive_Democratic_Party_Nepal.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340437.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र र पार्टी परिवर्तन",
+      "date": "२०८१-०४-१५",
+      "details": "लामो समय राप्रपा नेपालमा रहेका तामाङले पार्टी परित्याग गरी प्रगतिशील लोकतान्त्रिक पार्टीबाट धादिङमा उम्मेदवारी दिएका छन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को आम निर्वाचनमा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "सिन्धुपाल्चोक क्षेत्र नं १ बाट राप्रपा नेपालको तर्फबाट उम्मेदवारी दिएका उनले मात्र १२१ मत (०.१८%) प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election/result/340437",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "पहिलो पटक सिन्धुपाल्चोकबाट निर्वाचन लड्दा उनले १२७९ मत प्राप्त गरेका थिए, जुन उनको राजनीतिक जीवनको उच्च मत हो।",
+      "link_to_source": "https://election.gov.np/np/page/election-results-2074",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "विर बहादुर तामाङ एक राजनीतिक अस्थिरता भएका उम्मेदवार हुन् जसको लोकप्रियतामा तीव्र गिरावट आएको देखिन्छ। विगतमा सिन्धुपाल्चोकबाट दुई पटक निर्वाचन लडेका उनले २०७४ मा १२७९ मत पाएका थिए भने २०७९ मा त्यो घटेर केवल १२१ मा खुम्चिएको थियो। आफ्नो अघिल्लो क्षेत्र सिन्धुपाल्चोकमा प्रभाव गुमाएपछि हाल उनी धादिङमा सरेका छन्, जसलाई 'भगुवा' (Vaguwa) प्रवृत्तिको रूपमा विश्लेषण गरिएको छ। बारम्बारको पार्टी परिवर्तन (राप्रपा नेपालबाट प्रगतिशील लोकतान्त्रिक पार्टी) र न्यून चुनावी प्रदर्शनले उनको राजनीतिक भविष्य संकटपूर्ण र अस्थिर रहेको पुष्टि गर्दछ। उनीसँग कुनै ठोस राजनीतिक एजेण्डा वा बलियो स्थानीय आधार देखिँदैन।",
+  "overall_approval_rating": 18
+}

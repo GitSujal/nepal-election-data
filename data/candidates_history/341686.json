@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341686,
+  "candidate_name": "आन सिंह भण्डारी",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Janata_Samajbadi_Party%2C_Nepal.svg/1200px-Flag_of_the_Janata_Samajbadi_Party%2C_Nepal.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341686.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को आम निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बैतडी निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधिसभा सदस्यका लागि जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका भण्डारीले मात्र १३९ मत प्राप्त गरी पराजित भए ।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीबाट राजनीतिक यात्रा",
+      "date": "२०७३-०२-३०",
+      "details": "भण्डारी डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालमा स्थापनाकालदेखि नै आवद्ध रहेका थिए र सो पार्टीको स्थानीय संगठन निर्माणमा सक्रिय थिए ।",
+      "link_to_source": "https://www.onlinekhabar.com/2016/06/440536",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आवद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "विभिन्न शक्तिहरूको समायोजन र एकता प्रक्रिया मार्फत उनी जनता समाजवादी पार्टी, नेपालको बैतडी जिल्लाको नेतृत्व तहमा सक्रिय भूमिकामा रहेका छन् ।",
+      "link_to_source": "https://ratopati.com/story/127394/2020/4/23/jsp-nepal",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "आन सिंह भण्डारी बैतडी जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जो लामो समयदेखि वैकल्पिक राजनीतिक शक्ति निर्माणको अभियानमा सक्रिय छन्। डा. बाबुराम भट्टराईको नयाँ शक्ति पार्टीबाट आफ्नो पहिचान बनाएका भण्डारी हाल जनता समाजवादी पार्टी (जसपा) सँग आबद्ध छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा बैतडी क्षेत्र नं. १ बाट उम्मेदवार बने पनि उनले प्राप्त गरेको १३९ मतले उनको चुनावी आधार निकै कमजोर रहेको स्पष्ट पार्छ। जिल्लामा एमाले र कांग्रेसको बलियो पकड रहेको अवस्थामा जसपाको उपस्थितिलाई प्रतिनिधित्व गराउनु नै उनको मुख्य भूमिका देखिएको छ। राष्ट्रिय स्तरमा कुनै पद वा मन्त्री पदमा नपुगेका उनी स्थानीय संगठन विस्तारमा मात्र केन्द्रित देखिन्छन्।",
+  "overall_approval_rating": 22
+}

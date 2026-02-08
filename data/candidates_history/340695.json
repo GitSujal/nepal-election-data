@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340695,
+  "candidate_name": "दिपक बहादुर साउंद",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "जिल्ला सचिव, नेकपा (एमाले) अछाम",
+  "candidates_current_position_in_party": "सचिव, अछाम जिल्ला कमिटी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340695.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनका लागि टिकट प्राप्त र परिवर्तन",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा अछाम क्षेत्र नम्बर १ बाट एमालेले सुरुमा झपट बोहरालाई टिकट दिए पनि पछि दिपक साउंदलाई आधिकारिक उम्मेदवार बनाएको समाचार सार्वजनिक भएको थियो। तर अन्ततः प्राविधिक र राजनीतिक कारणले बोहरा नै उम्मेदवार बनेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMagdAhb4ZYm1rM7rD0JK53WducCTSPxzd9hfrCY5kFZ98AbBkG8kPLXJhJf8HYkNZQrj72iN7e159G0mN2C6no2E-1-Tgoek5wcoBVxBNenRX-R7JtkTh4XGwoXtO6Z0CrvvSSOrh21VAYFDL03fPPhUpo5sqrQJZc_5dFxQXQdQtPglea1CNZoOX00gE5cyUFYYSnxwVAacU7KhSuhnJZMxTQmf6",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (एमाले) अछामको जिल्ला सचिवमा निर्वाचित",
+      "date": "२०७८-०९-२६",
+      "details": "नेकपा (एमाले) अछामको ९औं जिल्ला अधिवेशनबाट दिपक बहादुर साउंद सचिव पदमा निर्वाचित भएका थिए। उनले पार्टीको सांगठनिक सुदृढीकरणमा महत्वपूर्ण भूमिका खेल्दै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcTwoMn5CwmlmWjk6tDjYV0iDmGUSeqNExkDr1RlXrWMpgWOBeGF2YvsywODQLgW0xVVltO1DxD8UcrizGoMd-lRcAl-iUQ8VUJaniqM09PS7hL0xuwEqr",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले र माओवादी विभाजनपछि एमालेमै रहने निर्णय",
+      "date": "२०७७-११-२३",
+      "details": "नेकपा विभाजनका क्रममा साउंदले साविकको नेकपाका विभिन्न गुटहरूमध्ये केपी शर्मा ओली पक्षीय एमालेलाई रोजेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0UfM2yVmE33p5pTRm8QTnbmTGKqbc2_dFCuQUtj5bqLI-1mOpINhgy6sOTQ8GG2j9f_fqxs3oz2j99chMYnqIE8c_OK0EMrjzlVVCXKu-zsYs1OHPUNKq-p8Lt2xiKWVmTKJKeRDUUAXDVUTG5rKjkN9kibBC37Xk6YEhJjlQgT5atS60u7UNneFVjadzvPtVc0DM8qVJUhnVz95P_RZyXDp_H8CerlAdkaPkGIV0QsEJYiTmWzRFhtjICf16qMluTK7bgQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७०-०८-०४",
+      "details": "२०७० सालको निर्वाचनमा एकीकृत माओवादीको तर्फबाट अछाम निर्वाचन क्षेत्र नम्बर १ बाट प्रतिस्पर्धा गर्दै १०,९६७ मत प्राप्त गरी तेस्रो स्थानमा रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8i3zcyWoS9SgWq0_aLKvQAF0YJNJ7x6S3JW6OfMn4pckISOgQZbVmFQTtc387rydw_nj3WdsNAt4DDE5bL4Mme0YqB3gy4RDK_89zwJzz_ApyWzF6EhzDRBJvnWOjdtMpNHNfXBAVoGJMhnjtbGE=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दिपक बहादुर साउंद नेकपा (एमाले) अछामका एक अनुभवी र सांगठनिक पकड भएका नेता हुन्। उनले आफ्नो राजनीतिक यात्रा माओवादीबाट सुरु गरे पनि हाल उनी एमालेको जिल्ला सचिवको रूपमा शक्तिशाली भूमिकामा छन्। २०७० को संविधान सभा निर्वाचनमा माओवादीबाट १० हजार भन्दा बढी मत ल्याएर उनले आफ्नो लोकप्रीयता पुष्टि गरेका थिए। २०७९ को निर्वाचनमा टिकट पाउने अन्तिम चरणमा पुगेर पनि वञ्चित भएका उनी अहिले अछाम १ मा एमालेको मुख्य खम्बाको रूपमा चिनिन्छन्। उनलाई भीम रावलको विकल्पको रूपमा एमालेले अघि सारेको देखिन्छ। साउंदको छवि एक इमानदार र स्थानीय समस्या बुझेको नेताको रूपमा रहेकाले आगामी निर्वाचनमा उनको दावेदारी बलियो देखिन्छ।",
+  "overall_approval_rating": 65
+}

@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340953,
+  "candidate_name": "प्रकाश बहादुर शाह",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-Unified_Socialist_Logo.svg/1024px-CPN-Unified_Socialist_Logo.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री, सुदूरपश्चिम प्रदेश",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340953.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बाजुरा",
+      "constituency": "निर्वाचन क्षेत्र १ (ख)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बाजुरा",
+      "constituency": "निर्वाचन क्षेत्र १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बाजुरा १ (ख) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गरेका शाह नेकपा एमालेका पदम बहादुर शाहीसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-bajura?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भएपछि शाहले माधवकुमार नेपाल नेतृत्वको एकीकृत समाजवादी रोजेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/08/1004351",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मन्त्री पदबाट राजीनामा",
+      "date": "२०७८-०५-२३",
+      "details": "एमाले विभाजन र पार्टी फेरबदलका कारण सुदूरपश्चिम प्रदेशको आन्तरिक मामिला तथा कानून मन्त्रीबाट शाहले राजीनामा दिएका थिए।",
+      "link_to_source": "https://sudurpashchim.gov.np/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आन्तरिक मामिला तथा कानून मन्त्रीमा नियुक्त",
+      "date": "२०७५-०२-०१",
+      "details": "सुदूरपश्चिम प्रदेश सरकारको शक्तिशाली मन्त्रालय आन्तरिक मामिला तथा कानून मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://moial.sudurpashchim.gov.np/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०८-२१",
+      "details": "बाजुरा १ (ख) बाट १८,१८६ मत प्राप्त गरी भारी अन्तरले विजयी भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रकाश बहादुर शाह बाजुराका एक प्रभावशाली र अनुभवी वामपन्थी नेता हुन्। २०७४ को निर्वाचनमा नेकपा एमालेबाट भारी मतका साथ विजयी भएका शाहले सुदूरपश्चिम प्रदेश सरकारमा आन्तरिक मामिला तथा कानून मन्त्री र आर्थिक मामिला मन्त्रीको रूपमा महत्त्वपूर्ण जिम्मेवारी निर्वाह गरेका थिए। उनी तत्कालीन एमालेभित्र संसदीय दलको नेता समेत रहेका थिए। तथापि, २०७८ मा नेकपा एमाले विभाजन हुँदा उनी एकीकृत समाजवादीमा लागे, जसले गर्दा उनको स्थानीय संगठनमा विभाजन आयो। २०७९ को निर्वाचनमा उनी आफ्नै पूर्व सहकर्मी (एमालेका उम्मेदवार) सँग पराजित हुनुमा पार्टी परिवर्तन र बाजुरामा एमालेको बलियो पकड मुख्य कारण देखिन्छ। बाजुराको राजनीतिमा उनी अझै पनि एक बौद्धिक र नीतिगत दख्खल राख्ने नेताका रूपमा परिचित छन्।",
+  "overall_approval_rating": 58
+}

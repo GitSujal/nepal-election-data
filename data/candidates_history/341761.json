@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341761,
+  "candidate_name": "रजनिस राय",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/141.png",
+  "candidates_current_position": "डाक्टर तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341761.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "निर्वाचन क्षेत्र नं ४",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सर्लाही निर्वाचन क्षेत्र नम्बर ४ बाट नेपाली कम्युनिष्ट पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए तर निकै कम मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://ratopati.com/story/469446/2025/1/20/sarlahi-4-election",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी परिवर्तन र राजनीतिक आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "विगतमा माओवादी केन्द्र र नेपाल समाजवादी पार्टीसँग आबद्ध रहेका रायले साना कम्युनिष्ट घटकहरूसँग मिलेर नयाँ राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://nepalnews.com/s/politics/sarlahi-4-contest-will-gagan-thapa-s-national-profile-or-amresh-kumar-singh-s-local-roots-decide-the-vote",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पेशेवर पृष्ठभूमि र चिकित्सा क्षेत्र",
+      "date": "२०७५-०१-०१",
+      "details": "राजनीतिमा सक्रिय हुनुअघि र सँगसँगै उनी चिकित्सा पेशामा आबद्ध रहेको र सर्लाही क्षेत्रमा 'डाक्टर' को रूपमा चिनिने गरेका छन्।",
+      "link_to_source": "https://nepalnews.com/s/politics/sarlahi-4-contest-will-gagan-thapa-s-national-profile-or-amresh-kumar-singh-s-local-roots-decide-the-vote",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रजनिस राय सर्लाही जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले २०७९ को प्रतिनिधि सभा निर्वाचनमा सर्लाही-४ बाट प्रतिस्पर्धा गरेका थिए। उनी मुख्यतया साना कम्युनिष्ट समूहहरूसँग आबद्ध छन् र उनको चुनावी उपस्थिति निकै कमजोर देखिएको छ। निर्वाचनमा उनले अमरेश कुमार सिंह जस्ता प्रभावशाली उम्मेदवारहरूको तुलनामा अत्यन्तै न्यून मत प्राप्त गरेका थिए। उनी पेशाले डाक्टर भएको र स्थानीय स्तरमा केही सामाजिक पहिचान बनाएको भए तापनि ठूला दलहरूको सांगठनिक पकडका कारण उनको चुनावी नतिजा सन्तोषजनक हुन सकेन। पटक-पटक साना दल र घटकहरू परिवर्तन गरिरहने प्रवृत्तिका कारण उनको राजनीतिक स्थिरतामाथि पनि प्रश्न उठ्ने गरेको छ।",
+  "overall_approval_rating": 32
+}

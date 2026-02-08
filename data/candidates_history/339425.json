@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339425,
+  "candidate_name": "श्याम कृष्ण धुख्वा",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339425.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "भक्तपुर २ (क)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "भक्तपुर क्षेत्र नं २ (क) बाट प्रदेश सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका धुख्वाले जम्मा ४५ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/shyam-krishna-dhukhwa-339425",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह उपनिर्वाचनमा मनोनयन दर्ता",
+      "date": "२०८१-०८-०१",
+      "details": "भक्तपुरको स्थानीय तह उपनिर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा उनले आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://ehimalayatimes.com/2024/11/17/233451/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०५०-०१-०१",
+      "details": "उनले प्रवीणता प्रमाणपत्र तह (I.A.) सम्मको शिक्षा पूरा गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/shyam-krishna-dhukhwa-339425",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "श्याम कृष्ण धुख्वा भक्तपुर जिल्लाका एक स्थानीय स्वतन्त्र राजनीतिज्ञ हुन्। उनले २०७९ को प्रदेश सभा निर्वाचनमा भक्तपुर क्षेत्र नं २ (क) बाट प्रतिस्पर्धा गरेका थिए, जहाँ उनले निकै न्यून अर्थात् ४५ मत मात्र प्राप्त गर्न सफल भए। उनको राजनीतिक प्रभाव राष्ट्रिय स्तरमा भन्दा पनि स्थानीय स्तरको उम्मेदवारीमा सीमित देखिन्छ। उनी मुख्य राजनीतिक दलहरूको विकल्पका रूपमा स्वतन्त्र रूपमा चुनावी मैदानमा उत्रिने गरेका छन्। उनको व्यक्तिगत छविमा कुनै ठूलो भ्रष्टाचार वा स्क्यान्डल देखिएको छैन, तर चुनावी परिणामले उनलाई जनताको व्यापक समर्थन प्राप्त हुन नसकेको संकेत गर्दछ। उनी भक्तपुरको स्थानीय मुद्दाहरूमा चासो राख्ने एक सचेत नागरिकका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 28
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339692,
+  "candidate_name": "मनिषा द्धा",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://election.gov.np/storage/logos/ujyalo-nepal-party.png",
+  "candidates_current_position": "खगोलविद् तथा शिक्षाविद्",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339692.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कास्की",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कास्की क्षेत्र नम्बर २ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धामा उत्रिएकी थिइन्। उनले कुल १२१ मत प्राप्त गरी पराजित भइन्।",
+      "link_to_source": "https://result.election.gov.np/Search?styp=constituency&dist=39&cons=2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिमा प्रवेश र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "विज्ञान र शिक्षाको क्षेत्रबाट राजनीतिमा परिवर्तन ल्याउने उद्देश्यका साथ उनले उज्यालो नेपाल पार्टीबाट उम्मेदवारी दर्ता गराएकी थिइन्। उनी बौद्धिक जनशक्तिको राजनीतिक प्रतिनिधित्वको वकालत गर्छिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe8OeIxmFyB48kcCTwYeL_3hViokfocLS3Z2atI0AgHWwMvNjce2Bi-6MPpGVFABRHtab521YcpWfoqr_WBiHD0kvh9LbqH3cwbeDZUyCyLzmOMOsIaWeUxKrXT6O4itpBzkQiFw5Mst9eHydDOqmPJGotepR-03s6jbrK6ZQ4Lknu4icrPbfgncbAF1YyfSGB7SP_Lvn94C6aG3wXSr37x-qHiApRFQXLeL8NTJE8",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अन्तर्राष्ट्रिय खगोलीय संघ (IAU) मा नियुक्ति",
+      "date": "२०७७-०५-१०",
+      "details": "नेपालको तर्फबाट अन्तर्राष्ट्रिय खगोलीय संघ (IAU) को 'आउटरीच कोर्डिनेटर' को रूपमा नियुक्त भई विज्ञान प्रसारमा योगदान पुऱ्याइन्।",
+      "link_to_source": "https://nepalastronomicalsociety.org/manisha-dwa/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महिला खगोलविद् समूह (WIAN) को नेतृत्व",
+      "date": "२०७५-०३-१५",
+      "details": "नेपालमा महिलाहरूलाई विज्ञान र प्रविधि (STEM) क्षेत्रमा प्रोत्साहित गर्न 'विमेन इन एस्ट्रोनोमी नेपाल' को संयोजकको रूपमा काम सुरु गरिन्।",
+      "link_to_source": "https://smartcheli.org.np/interview-manisha-dwa/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल एस्ट्रोनोमिकल सोसाइटीमा आवद्धता",
+      "date": "२०७०-१०-०५",
+      "details": "नेपाल एस्ट्रोनोमिकल सोसाइटी (NASO) मा आबद्ध भई राष्ट्रिय खगोल ओलम्पियाड र विज्ञान शिक्षाको प्रवर्द्धनमा महत्वपूर्ण भूमिका खेल्न थालिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUPnLR2iK4GDXADunA2ra007r-PqCeZtM-7xhmBZD8u6HnrpFT07YcSTcDW6wwh5uIsmDUvaWBoFxY1SC9Bc3gX_W02a3URv5QjDRIiXLwSEl5UwrORAPwd8lTRjj56n-LhGG-2uB4POxME2VowH-AzdrNTnSJdIOwwBo=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मनिषा द्धा एक शिक्षित र प्राविधिक पृष्ठभूमिबाट आएकी उदीयमान राजनीतिज्ञ हुन्। पेशाले खगोलविद् र शिक्षाविद् रहेकी उनले २०७९ को निर्वाचनमा कास्की क्षेत्र नम्बर २ बाट वैकल्पिक राजनीतिको एजेन्डासहित उम्मेदवारी दिएकी थिइन्। उनी नेपाल एस्ट्रोनोमिकल सोसाइटी (NASO) मा सक्रिय छिन् र अन्तर्राष्ट्रिय स्तरमा नेपालको विज्ञान क्षेत्रको प्रतिनिधित्व गर्छिन्। यद्यपि निर्वाचनमा उनले निकै न्यून मत (१२१ मत) प्राप्त गरे तापनि, उनको छवि एक इमानदार र बौद्धिक उम्मेदवारको रूपमा स्थापित छ। उनले वैज्ञानिक योजना र शैक्षिक सुधारलाई आफ्नो मुख्य राजनीतिक मुद्दा बनाएकी छिन्। हालसम्म उनको नाम कुनै पनि भ्रष्टाचार वा राजनीतिक विवादमा मुछिएको छैन, जसले उनलाई स्वच्छ छविको नेताका रूपमा प्रस्तुत गर्दछ। उनको राजनीतिक प्रभाव कास्कीमा विस्तार हुन समय लाग्ने देखिए पनि युवा र बौद्धिक वर्गमा उनको पकड राम्रो छ।",
+  "overall_approval_rating": 62
+}

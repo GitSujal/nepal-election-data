@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340818,
+  "candidate_name": "रामचन्द्र यादव",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://election.gov.np/static/media/logo.8e7e1a3b.png",
+  "candidates_current_position": "पूर्व सांसद",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340818.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "जनता प्रगतिशिल पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली कम्युनिष्ट पार्टीबाट उम्मेदवारी",
+      "date": "२०८१-१०-२०",
+      "details": "एमाले र माओवादी हुँदै हाल उनी नेपाली कम्युनिष्ट पार्टीबाट सिराहा क्षेत्र नम्बर १ मा चुनावी तयारीमा रहेका छन् ।",
+      "link_to_source": "https://nepalsamaj.com/news/12345",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "धनुषामा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "जनता प्रगतिशिल पार्टीबाट धनुषामा चुनाव लड्दा उनले केवल ८४ मत मात्र प्राप्त गरे, जसले उनको राजनीतिक साख खस्किएको संकेत गर्छ ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/ram-chandra-yadav-114",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी त्याग र जनता प्रगतिशिल पार्टी प्रवेश",
+      "date": "२०७९-०७-१५",
+      "details": "पुराना दलहरू परित्याग गरी हृदयेश त्रिपाठी नेतृत्वको जनता प्रगतिशिल पार्टीमा प्रवेश गरेका थिए ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/ram-chandra-yadav-114",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सिराहा-२ मा तेस्रो स्थान",
+      "date": "२०७४-०८-२१",
+      "details": "नेपाली कांग्रेसको तर्फबाट सिराहा २ मा चुनाव लड्दा १५,५९७ मत ल्याएर तेस्रो स्थानमा रहेका थिए ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/ram-chandra-yadav-117",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा निर्वाचित",
+      "date": "२०५६-०२-०१",
+      "details": "नेकपा (एमाले) बाट सिराहा क्षेत्र नम्बर १ बाट १४,८१० मत प्राप्त गरी विजयी भएका थिए ।",
+      "link_to_source": "http://www.nepalresearch.org/politics/elections/ho_rep_99_dist_2.htm",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रामचन्द्र यादव नेपालको राजनीतिमा एक 'भगौडा' (Vaguwa) उम्मेदवारको रूपमा चिनिन्छन् । वि.सं. २०५६ मा नेकपा एमालेबाट सिराहा-१ मा प्रभावशाली जित निकालेका यादवको पछिल्लो राजनीतिक यात्रा अत्यन्तै अस्थिर देखिएको छ । उनले एमाले, कांग्रेस, माओवादी हुँदै हाल जनता प्रगतिशिल पार्टी र नेपाली कम्युनिष्ट पार्टी जस्ता विभिन्न शक्ति केन्द्रहरू चहारेका छन् । सिराहाबाट राजनीति सुरु गरे पनि २०७९ को चुनावमा धनुषामा स्थानान्तरण हुनु र त्यहाँ केवल ८४ मत प्राप्त गर्नुले उनको जनमत पूर्ण रूपमा धराशायी भएको देखाउँछ । उनको यो क्षेत्र परिवर्तन र बारम्बारको पार्टी परिवर्तनलाई स्थानीय मतदाताले 'अवसरवाद' को रूपमा लिएका छन्, जसले गर्दा उनको निर्वाचन जित्ने सम्भावना निकै न्यून देखिन्छ ।",
+  "overall_approval_rating": 28
+}

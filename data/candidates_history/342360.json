@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342360,
+  "candidate_name": "प्रयाग प्रसाद चौधरी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342360.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारको रूपमा चुनाव लडेका चौधरीले २२८ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342360",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०१-३०",
+      "details": "पचरौता नगरपालिकाको वडा नं. ५ मा वडा अध्यक्ष पदका लागि स्वतन्त्र उम्मेदवारी दिएका थिए तर सफल हुन सकेनन्।",
+      "link_to_source": "https://result.election.gov.np/LocalLevelResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रयाग प्रसाद चौधरी बारा जिल्लाका एक स्वतन्त्र राजनीतिक उम्मेदवार हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा बारा निर्वाचन क्षेत्र नं. २ बाट स्वतन्त्र रूपमा प्रतिस्पर्धा गरेका थिए, जहाँ उनले मात्र २२८ मत प्राप्त गरे। उनको राजनीतिक प्रभाव स्थानीय स्तरमा सीमित देखिन्छ र उनी कुनै मुख्य राजनीतिक दलमा आबद्ध भएको पाइएको छैन। उनले सोही वर्ष स्थानीय तहको वडा अध्यक्ष पदमा पनि प्रयास गरेका थिए, जसले उनको राजनीतिक सक्रियतालाई पुष्टि गर्दछ। यद्यपि, चुनावी नतिजाहरूले उनलाई जनस्तरमा एक कमजोर उम्मेदवारको रूपमा देखाउँछन्। हालसम्म उनको नाममा कुनै ठूला घोटाला वा विवादहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 18
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339848,
+  "candidate_name": "धन बहादुर लिम्बु",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_the_Mongol_National_Organisation.svg/1200px-Flag_of_the_Mongol_National_Organisation.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339848.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए जसमा उनले १३५ मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/SearchCandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०३-१५",
+      "details": "लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनको नीति र सिद्धान्तमा रहेर मोरङ जिल्लामा सांगठनिक विस्तारमा सक्रिय रहेका।",
+      "link_to_source": "https://mno.org.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानवादी आन्दोलनमा सहभागिता",
+      "date": "२०७९-०२-२०",
+      "details": "प्रादेशिक नामकरण र पहिचानको मुद्दामा मंगोल नेशनल अर्गनाइजेसनले लिएको अडानको समर्थन गर्दै स्थानीय स्तरमा प्रदर्शनमा सहभागी।",
+      "link_to_source": "https://nepallive.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "धन बहादुर लिम्बु मोरङ जिल्लाका स्थानीय राजनीतिज्ञ हुन् जसले मंगोल नेशनल अर्गनाइजेसनको तर्फबाट पहिचानको राजनीति गर्दै आएका छन्। २०७९ को निर्वाचनमा मोरङ क्षेत्र नं. २ बाट उम्मेदवार बने पनि उनले मात्र १३५ मत प्राप्त गरे, जसले उनको चुनावी जनाधार अत्यन्त कमजोर रहेको देखाउँछ। स्रोतका अनुसार उनलाई 'वागुवा' उम्मेदवारको रूपमा हेरिएको छ, जसको अर्थ उनी आफ्नो निर्वाचन क्षेत्र वा राजनीतिक अडानमा स्थिर नभएको भन्ने बुझिन्छ। मोरङ जस्तो ठूला दलहरूको वर्चस्व रहेको जिल्लामा सीमान्तकृत दलको प्रतिनिधित्व गर्ने हुनाले उनको प्रभाव सीमित छ। उनको राजनीतिक भविष्य मुख्य रूपमा जातीय र पहिचानको एजेन्डामा आधारित छ, तर हालसम्मको चुनावी परिणामले उनलाई मतदाताले विश्वास गरिनसकेको स्पष्ट पार्छ।",
+  "overall_approval_rating": 25
+}

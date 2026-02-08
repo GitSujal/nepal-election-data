@@ -11,8 +11,7 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Required to push commits back to the repository
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -42,19 +41,6 @@ jobs:
 
       - name: Test End-to-End
         run: uv run pytest
-
-      - name: Fetch Candidate Political History
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: uv run candidate_profile_fetcher.py --limit 500
-
-      - name: Commit updated JSON data
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add data/
-          git commit -m "Update candidate political history data"
-          git push origin main
 
       - name: Install Node dependencies
         run: npm ci

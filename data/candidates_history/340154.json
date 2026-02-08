@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340154,
+  "candidate_name": "राज कुमार पासमान",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_the_Nepal_Workers_and_Peasants_Party.svg/1200px-Flag_of_the_Nepal_Workers_and_Peasants_Party.svg.png",
+  "candidates_current_position": "पार्टी कार्यकर्ता",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340154.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा क्षेत्र नं. २ बाट प्रतिनिधिसभा निर्वाचनमा सहभागी भई १५५ मत प्राप्त गर्दै पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/constituency/siraha-2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "नेमकिपाको तर्फबाट सिराहा क्षेत्र नं. २ मा चुनाव लडेका तर मात्र ९० मत प्राप्त गरी पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/CandidateWinnerReport.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विचार विस्तार",
+      "date": "२०७०-०१-०१",
+      "details": "तराई मधेश क्षेत्रमा नेपाल मजदुर किसान पार्टीको विचारधारा फैलाउन सक्रिय भूमिका निर्वाह गर्दै आएका।",
+      "link_to_source": "https://nwpp.org.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राज कुमार पासमान नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान र स्थिर कार्यकर्ता हुन्। भक्तपुर बाहिर नेमकिपाको पकड कमजोर रहे पनि पासमानले सिराहा क्षेत्र नम्बर २ मा पार्टीको प्रतिनिधित्व गर्दै लगातार दुईवटा निर्वाचन (२०७४ र २०७९) लडेका छन्। उनको चुनावी नतिजा निकै कमजोर देखिन्छ; २०७४ मा ९० र २०७९ मा १५५ मत मात्र प्राप्त गर्नुले सो क्षेत्रमा उनको व्यक्तिगत र सांगठनिक प्रभाव अत्यन्तै न्यून रहेको स्पष्ट पार्छ। यद्यपि, कुनै पनि आर्थिक भ्रष्टाचार वा व्यक्तिगत काण्डमा नाम नमुछिएका कारण उनको राजनीतिक छवि स्वच्छ मानिन्छ। उनी चुनावी जितका लागि भन्दा पनि पार्टीको सिद्धान्त र झण्डा जोगाउन चुनाव लड्ने 'सैद्धान्तिक' उम्मेदवारका रूपमा देखिएका छन्।",
+  "overall_approval_rating": 45
+}

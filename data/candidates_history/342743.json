@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342743,
+  "candidate_name": "पंकज कुमार ठाकुर",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Harka_Sampang_Party_Logo.png/200px-Harka_Sampang_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342743.jpg",
+  "election_history": [
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं ४",
+      "result": "N/A",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा उम्मेदवारी",
+      "date": "२०८१-१०-०५",
+      "details": "हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीबाट सिराहा क्षेत्र नम्बर ४ मा प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://nepalnews.com/s/nation/58-gen-z-candidates-in-madhesh-zero-from-nepali-congress",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०८१-०४-१०",
+      "details": "श्रम र संस्कृतिको एजेन्डा बोकेको हर्क साम्पाङको अभियानमा सहभागी भई राजनीतिक यात्रा सुरु।",
+      "link_to_source": "https://nagariknetwork.com/news/140023-1694354516.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा नेतृत्वको प्रतिनिधित्व",
+      "date": "२०८१-०९-१५",
+      "details": "मधेश प्रदेशमा २६ वर्षीय 'जेन-जी' उम्मेदवारको रूपमा उदाउँदै युवा राजनीतिमा सक्रियता।",
+      "link_to_source": "https://nepalnews.com/s/nation/58-gen-z-candidates-in-madhesh-zero-from-nepali-congress",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पंकज कुमार ठाकुर श्रम संस्कृति पार्टीका एक उदाउँदा युवा नेता हुन्। २६ वर्षको उमेरमा सिराहा क्षेत्र नम्बर ४ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका उनलाई 'जेन-जी' पुस्ताको प्रतिनिधिको रूपमा हेरिएको छ। धरानका मेयर हर्क साम्पाङको राजनीतिक अभियानबाट प्रभावित ठाकुरले श्रम, संस्कृति र स्थानीय विकासका मुद्दाहरूलाई प्राथमिकता दिएका छन्। मधेशमा परम्परागत राजनीतिक दलहरूको वर्चस्व रहेको अवस्थामा उनको उम्मेदवारीले युवा वर्गमा नयाँ उत्साह थपेको छ। यद्यपि, नयाँ दल र सिमित चुनावी अनुभवका कारण स्थापित शक्तिहरूसँग प्रतिस्पर्धा गर्नु उनका लागि मुख्य चुनौती देखिन्छ। उनको राजनीतिक भविष्य आगामी निर्वाचनमा प्राप्त हुने जनमतले निर्धारण गर्नेछ।",
+  "overall_approval_rating": 55
+}

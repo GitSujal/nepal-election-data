@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341576,
+  "candidate_name": "जुद्ध बहादुर बुढा मगर",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CPN-Maoist_Logo.svg/1024px-CPN-Maoist_Logo.svg.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "प्रदेश कमिटी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341576.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रुकुम (पूर्वी भाग)",
+      "constituency": "रुकुम (पूर्व) १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "रुकुम पूर्व निर्वाचन क्षेत्र १(ख) बाट माओवादी केन्द्रको उम्मेदवार बनेका उनी आफ्नै पार्टीका विद्रोही स्वतन्त्र उम्मेदवार सुरुल पुनसँग मात्र ३३ मतको अन्तरले पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtYLYhtypbPup-Kj5XDCdTbcAAYr2fVMqN_i9A0FeVxc6fLX6wfkIvlMQIJpWS3jqeDstaqet8pDNMBBkZyhkZrrgbfJyG3RcQCp-GaviJSMY9_5DRE8JPNyJpG1VfV4nWr3eGlKGe1KOAUjOErSwe14_yoDRks8Ykrhome3ipRv9Irs64bFCChg==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आन्तरिक पार्टी विद्रोह र टिकट विवाद",
+      "date": "२०७९-०७-२३",
+      "details": "माओवादीको पकड क्षेत्र मानिएको रुकुम पूर्वमा टिकट वितरणमा चित्त नबुझाएर स्वतन्त्र उम्मेदवारी दिएका सुरुल पुनलाई रोक्न नसक्दा जुद्ध बहादुरले हार व्यहोर्नु पर्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtYLYhtypbPup-Kj5XDCdTbcAAYr2fVMqN_i9A0FeVxc6fLX6wfkIvlMQIJpWS3jqeDstaqet8pDNMBBkZyhkZrrgbfJyG3RcQCp-GaviJSMY9_5DRE8JPNyJpG1VfV4nWr3eGlKGe1KOAUjOErSwe14_yoDRks8Ykrhome3ipRv9Irs64bFCChg==",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय भलिबल प्रशिक्षक र रेफ्रीको रूपमा योगदान",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिसँगै उनी खेलकुद क्षेत्रमा पनि सक्रिय छन्, उनले राष्ट्रिय स्तरको भलिबल प्रशिक्षक र रेफ्रीको रूपमा लामो समय काम गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DSmy1gcpmv3Mc2KGq-sh-l-cOO4dsHlf6Zj4ski8wrdh_KZCLtLo8Ly2iM051pHKsgRFni5WdBJg6TZAfmy8o3fYQdL1D1kLUIwkYOnYFAt4iNEuUnlJjeTPh2cygc76k0wNZhERAIsz8sDg3c4DwCC6Yg==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी आन्दोलनमा संलग्नता",
+      "date": "२०५२-११-०१",
+      "details": "जुद्ध बहादुर बुढा मगर जनयुद्ध कालदेखि नै माओवादी आन्दोलनमा सक्रिय रहेका र रुकुम क्षेत्रमा पार्टी संगठन विस्तारमा महत्वपूर्ण भूमिका खेलेका नेता हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DSmy1gcpmv3Mc2KGq-sh-l-cOO4dsHlf6Zj4ski8wrdh_KZCLtLo8Ly2iM051pHKsgRFni5WdBJg6TZAfmy8o3fYQdL1D1kLUIwkYOnYFAt4iNEuUnlJjeTPh2cygc76k0wNZhERAIsz8sDg3c4DwCC6Yg==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जुद्ध बहादुर बुढा मगर नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र) का एक पुराना र निष्ठावान नेता हुन्। रुकुम (पूर्वी भाग) मा उनको बलियो पकड भए तापनि २०७९ को प्रदेश सभा निर्वाचनमा उनी आफ्नै पार्टीका विद्रोही उम्मेदवार सुरुल पुनसँग मात्र ३३ मतको झिनो अन्तरले पराजित हुन पुगे। यो हारले माओवादीको गढ मानिने रुकुम पूर्वमा पार्टीभित्रको आन्तरिक गुटबन्दी र विद्रोही उम्मेदवार व्यवस्थापनमा देखिएको कमजोरीलाई छर्लङ्ग पारेको छ। उनी एक खेलाडी र प्रशिक्षकको पृष्ठभूमिका भएकाले युवाहरूमाझ लोकप्रिय छन्, तर चुनावी राजनीतिमा उनी विद्रोही मतलाई रोक्न असफल देखिए। उनको छवि इमानदार र विकासप्रेमी नेताको भए तापनि आगामी निर्वाचनमा जनमत फर्काउन उनलाई आन्तरिक एकता कायम गर्ने चुनौती छ।",
+  "overall_approval_rating": 58
+}

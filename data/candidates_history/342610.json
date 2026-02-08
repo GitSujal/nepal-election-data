@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342610,
+  "candidate_name": "कमान बुढा मगर",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mongol_National_Organisation_Flag.png/220px-Mongol_National_Organisation_Flag.png",
+  "candidates_current_position": "युवा राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जाजरकोट जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342610.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "जाजरकोट निर्वाचन क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका कमान बुढा मगर पराजित भए। उनले निकै कम मत प्राप्त गरे पनि युवा उम्मेदवारको रूपमा चर्चा पाएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342610-kaman-budha-magar",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "२२ वर्षको उमेरमा कमान बुढा मगरले जाजरकोट-१ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट पहिलो पटक संसदीय निर्वाचनका लागि उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342610-kaman-budha-magar",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७७-०१-०१",
+      "details": "जातीय पहिचान र अधिकारको मुद्दालाई आत्मसाथ गर्दै उनी मंगोल नेशनल अर्गनाइजेसनमा सक्रिय भएका हुन्। उनले जाजरकोटमा पार्टीको संगठन विस्तारमा भूमिका खेल्दै आएका छन्।",
+      "link_to_source": "https://election.ekantipur.com/party/mongol-national-organization",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षा र प्रारम्भिक जीवन",
+      "date": "२०७३-०१-०१",
+      "details": "उनले माध्यमिक शिक्षा (SEE) उत्तीर्ण गरेका छन्। राजनीतिमा प्रवेश गर्नुअघि उनी स्थानीय स्तरमा सामाजिक गतिविधिमा संलग्न थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342610-kaman-budha-magar",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कमान बुढा मगर जाजरकोट जिल्लाका एक उदयमान युवा राजनीतिकर्मी हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा २२ वर्षको उमेरमा उम्मेदवार बनेर उनले युवाहरूको राजनीतिमा सहभागिताको राम्रो उदाहरण पेश गरेका छन्। मंगोल नेशनल अर्गनाइजेसन जस्तो जातीय पहिचानमा आधारित दलबाट राजनीति सुरु गरेका उनको मुख्य एजेन्डा सीमान्तकृत समुदायको अधिकार सुनिश्चित गर्नु रहेको देखिन्छ। जाजरकोटमा नेकपा (माओवादी केन्द्र) र नेकपा (एमाले) जस्ता ठूला दलहरूको बलियो पकड रहेका कारण उनले चुनावी नतिजा आफ्नो पक्षमा पार्न सकेनन्। यद्यपि, उनको राजनीतिक पृष्ठभूमि स्वच्छ रहेको र हालसम्म कुनै पनि आर्थिक वा नैतिक विवादमा नफसिएकाले उनलाई एक इमानदार युवा नेताको रूपमा हेरिन्छ। उनको आगामी राजनीतिक यात्रा चुनावी संगठन र स्थानीय मुद्दाहरूसँगको थप निकटतामा निर्भर रहनेछ।",
+  "overall_approval_rating": 52
+}

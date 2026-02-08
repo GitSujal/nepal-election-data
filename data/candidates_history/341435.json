@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341435,
+  "candidate_name": "कृष्ण मुरारी प्रजापति",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Light_bulb_icon.svg/1024px-Light_bulb_icon.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341435.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "कृष्ण मुरारी प्रजापतिले पर्सा क्षेत्र नम्बर १ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341435",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१५",
+      "details": "बैकल्पिक राजनीतिको नारासहित स्थापना भएको उज्यालो नेपाल पार्टीमा आबद्ध भई उनले आफ्नो राजनीतिक यात्रा अगाडि बढाएका हुन्।",
+      "link_to_source": "https://farakdhar.com/story/95180/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय मुद्दाहरूमा सक्रियता",
+      "date": "२०७९-०७-२०",
+      "details": "निर्वाचन प्रचारप्रसारका क्रममा उनले पर्सा क्षेत्र नं १ का स्थानीय समस्या र विकासका मुद्दाहरूलाई उठाएका थिए।",
+      "link_to_source": "https://farakdhar.com/story/95180/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कृष्ण मुरारी प्रजापति पर्सा जिल्लाको राजनीतिमा उज्यालो नेपाल पार्टीका तर्फबाट देखा परेका एक नयाँ अनुहार हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा पर्सा क्षेत्र नं १ बाट उम्मेदवारी दिएका उनले स्थापित र ठूला राजनीतिक दलहरूको विरुद्धमा चुनावी प्रतिस्पर्धा गरेका थिए। उनको मुख्य चुनावी एजेन्डा विकास र सुशासन रहेको थियो। यद्यपि, सो निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए। हालसम्म उनको राजनीतिक जीवनमा कुनै ठूला घोटाला वा विवादहरू सार्वजनिक भएका छैनन्। उनी एक स्वच्छ छवि भएका तर निर्वाचनमा कमजोर पकड भएका उम्मेदवारका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 45
+}

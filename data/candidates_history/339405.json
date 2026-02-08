@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339405,
+  "candidate_name": "धुब्र बहादुर प्रधान",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य, पूर्व कानुन, न्याय तथा संसदीय मामिला मन्त्री",
+  "candidates_current_position_in_party": "उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339405.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी (प्रजातान्त्रिक)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "नवलपरासी पश्चिम-२ बाट ३४,७६४ मत प्राप्त गरी नेपाली कांग्रेसका देवेन्द्रराज कँडेललाई १५,३६५ मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1225883",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कानुन, न्याय तथा संसदीय मामिला मन्त्रीमा नियुक्त",
+      "date": "२०७९-१०-०३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट मन्त्री नियुक्त।",
+      "link_to_source": "https://www.bbc.com/nepali/news-64299948",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मन्त्री पदबाट राजीनामा",
+      "date": "२०७९-११-१३",
+      "details": "राप्रपाले सरकारलाई दिएको समर्थन फिर्ता लिने निर्णय गरेपछि मन्त्री पदबाट राजीनामा दिएका।",
+      "link_to_source": "https://setopati.com/politics/295328",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपा उपाध्यक्षमा निर्वाचित",
+      "date": "२०७८-०८-१९",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टीको एकता महाधिवेशनबाट केन्द्रीय उपाध्यक्ष पदमा निर्वाचित।",
+      "link_to_source": "https://dhrubapradhan.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रहरी महानिरीक्षक (IGP) कार्यकाल",
+      "date": "२०५३-११-१५",
+      "details": "नेपाल प्रहरीको १८औं प्रहरी महानिरीक्षकका रूपमा सेवा गरेका र भ्रष्टाचारको आरोप नलागेका सीमित प्रमुखहरूमध्ये एक।",
+      "link_to_source": "https://humanrights.asia/news/ahrc-news/AHRC-STM-011-2016/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल ओलम्पिक कमिटी (NOC) विवाद",
+      "date": "२०६३-०५-०१",
+      "details": "दुईवटा ओलम्पिक कमिटी अस्तित्वमा रहँदा एक पक्षको नेतृत्व गरेको र यस सम्बन्धमा अदालतमा लामो समय मुद्दा चलेको।",
+      "link_to_source": "https://wikipedia.org/wiki/Dhruba_Bahadur_Pradhan",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "नवलपरासी पश्चिम-२ बाट प्रतिस्पर्धा गरे पनि देवेन्द्रराज कँडेलसँग पराजित भएका।",
+      "link_to_source": "https://theannapurnaexpress.com/news/former-igp-pradhan-emerges-victorious-by-defeating-former-home-state-minister-kandel-9028",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुरक्षाकर्मी (PSO) फिर्ता विवाद",
+      "date": "२०८२-०२-१४",
+      "details": "सरकारले बिना कुनै पूर्व जानकारी प्रधान लगायत राप्रपाका सांसदहरूको सुरक्षाकर्मी फिर्ता बोलाएको भन्दै संसद्मा विरोध।",
+      "link_to_source": "https://setopati.com/politics/330558",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रहरी सुधार आयोगको सदस्य सचिव",
+      "date": "२०५०-०३-१०",
+      "details": "प्रहरी हिरासत व्यवस्थापन र झुटा अभियोग न्यूनीकरणका लागि कानुनी सुधारका पक्षमा वकालत गरेको।",
+      "link_to_source": "https://dhrubapradhan.org/service/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "धुब्र बहादुर प्रधान नेपाल प्रहरीका पूर्व महानिरीक्षक (IGP) हुन्, जो आफ्नो व्यावसायिक छवि र भ्रष्टाचारमुक्त कार्यकालका लागि चिनिन्छन्। २०७९ को निर्वाचनमा नवलपरासी (बर्दघाट सुस्ता पश्चिम)-२ बाट भारी मतान्तरले विजयी हुनुले उनको स्थानीय लोकप्रियता पुष्टि गर्छ। उनी राप्रपाको केन्द्रीय उपाध्यक्ष र पूर्व कानुन मन्त्री समेत रहिसकेका छन्। प्रहरी सेवाबाट राजनीतिमा प्रवेश गरेका उनी नवलपरासीमा 'टुरिस्ट' नभई स्थानीयस्तरमा बलियो पकड राख्ने नेता मानिन्छन्। नेपाल ओलम्पिक कमिटीको नेतृत्व गर्दा सिर्जना भएको विवाद बाहेक उनको करियरमा ठूला कानुनी लान्छनाहरू छैनन्। उनको चुनावी शक्ति मुख्यतया उनको स्वच्छ छवि र राप्रपाको सांगठनिक प्रभावमा आधारित छ।",
+  "overall_approval_rating": 82
+}

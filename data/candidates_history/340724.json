@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340724,
+  "candidate_name": "देव प्रसाद तिमलसेना",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Party_Flag.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340724.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "रौतहट ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "रौतहट ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "संसद्मा विनियोजन विधेयकमाथि छलफलमा सहभागिता",
+      "date": "२०८१-०२-२९",
+      "details": "संसद्को बैठकमा विनियोजन विधेयक २०८१ अन्तर्गत शिक्षा, कृषि र खेलकुद मन्त्रालयको बजेट विनियोजनमाथि सक्रिय रूपमा आफ्ना धारणा राखेका।",
+      "link_to_source": "https://parliament.gov.np/ne/member/326",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०७",
+      "details": "रौतहट क्षेत्र नं. ४ बाट ३४,१६१ मत प्राप्त गर्दै एमालेका उम्मेदवारलाई ७,६०२ मतान्तरले पराजित गरी दोस्रो पटक सांसद चुनिएका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340724",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा पहिलो जित",
+      "date": "२०७४-०८-२१",
+      "details": "२८,२२८ मतका साथ वाम गठबन्धनका उम्मेदवार डा. बंशीधर मिश्रलाई ५,२२२ मतले पछि पार्दै पहिलो पटक सङ्घीय संसद् छिरेका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340724",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसदीय समितिको जिम्मेवारी",
+      "date": "२०७५-०५-१५",
+      "details": "प्रतिनिधि सभा अन्तर्गतको सार्वजनिक लेखा समिति वा अन्य विषयगत समितिमा बसेर नीतिगत सुधारका लागि पहल गरेको।",
+      "link_to_source": "https://parliament.gov.np/ne",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "देव प्रसाद तिमलसेना नेपाली काँग्रेसका एक प्रभावशाली र चुनावी रूपमा सफल नेता हुन्। उनले रौतहट क्षेत्र नं. ४ बाट लगातार दुई पटक (२०७४ र २०७९) निर्वाचन जितेर आफ्नो पकड बलियो बनाएका छन्। रौतहटको यो क्षेत्र पहाडी र मधेशी मतदाताको सम्मिश्रण भएको क्षेत्र हो, जहाँ तिमलसेनाले दुवै समुदायको विश्वास जित्न सफल देखिएका छन्। उनी संसद्मा बजेट र विकासका मुद्दाहरूमा खरो रूपमा उत्रने गर्दछन्। यद्यपि उनी अहिलेसम्म मन्त्री पदमा पुगेका छैनन्, तर आफ्नो क्षेत्रको विकास र पार्टी संगठनमा उनको भूमिका निर्णायक मानिन्छ। उनी 'टुरिष्ट' नभई स्थानीय स्तरबाटै राजनीतिमा स्थापित नेता हुन्।",
+  "overall_approval_rating": 82
+}

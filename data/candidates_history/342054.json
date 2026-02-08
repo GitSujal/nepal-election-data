@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342054,
+  "candidate_name": "ओम प्रकाश यादव",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Janamat_Party_Logo.png/600px-Janamat_Party_Logo.png",
+  "candidates_current_position": "नेता",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342054.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनमत पार्टीमा प्रवेश",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचन अघि उनी जनता समाजवादी पार्टी परित्याग गरी जनमत पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Rupandehi_4_(constituency)",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही निर्वाचन क्षेत्र नम्बर ४ बाट उम्मेदवार बनेका उनले २,६२३ मत प्राप्त गरी चौथो स्थानमा रहेर पराजय भोगे।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342054",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "रुपन्देही ४ बाट निर्वाचनमा प्रतिस्पर्धा गर्दा उनले निकै कम मत प्राप्त गरी पराजय व्यहोरेका थिए।",
+      "link_to_source": "https://ekantipur.com/pratinidhi-sabha-2074/district-rupandehi",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी फेरबदल र राजनीतिक अस्थिरता",
+      "date": "२०७९-०१-०१",
+      "details": "विगतमा संघीय समाजवादी फोरम र जनता समाजवादी पार्टीमा रहेका उनले पटक-पटक दल परिवर्तन गरेका छन्।",
+      "link_to_source": "https://wikipedia.org/wiki/Rupandehi_4_(constituency)",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ओम प्रकाश यादव रूपन्देहीको मर्चवार क्षेत्रका स्थानीय नेता हुन्। उनी विगतमा जनता समाजवादी पार्टी (जसपा) मा आबद्ध थिए तर २०७९ को निर्वाचन अघि जनमत पार्टीमा प्रवेश गरेका थिए। उनले २०७४ र २०७९ का दुवै प्रतिनिधि सभा निर्वाचनमा पराजय भोग्नुपरेको छ। स्रोतका अनुसार उनलाई 'वागुवा' उम्मेदवारको रूपमा वर्गीकृत गरिएको छ, जसले उनको राजनीतिक अस्थिरता र बारम्बारको दल परिवर्तनलाई जनाउँछ। रुपन्देही निर्वाचन क्षेत्र नम्बर ४ मा उनी प्रभावशाली देखिए तापनि लोसपाका सर्वेन्द्रनाथ शुक्ल र कांग्रेसका उम्मेदवारहरूका अगाडि उनको चुनावी नतिजा कमजोर रहने गरेको छ। उनको मुख्य राजनीतिक चुनौती भनेको आफ्नो क्षेत्रमा जनमत पार्टीको आधार बलियो बनाउनु र मतदाताको विश्वास जित्नु हो।",
+  "overall_approval_rating": 32
+}

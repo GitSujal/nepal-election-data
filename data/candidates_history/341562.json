@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341562,
+  "candidate_name": "प्रमोद पौड्याल",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_of_Progressive_Democratic_Party_Nepal.png/120px-Election_Symbol_of_Progressive_Democratic_Party_Nepal.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341562.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "सुनसरी जिल्लाको निर्वाचन क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। उनी यस निर्वाचनमा पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341562",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारका रूपमा पहिचान",
+      "date": "२०७९-०४-१०",
+      "details": "मोरङ जिल्लाको स्थायी बासिन्दा र नागरिकता रहे पनि उनले सुनसरी क्षेत्र नं. ४ बाट निर्वाचन लडेकाले उनलाई स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को रूपमा हेरिएको थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341562",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०७०-०१-०१",
+      "details": "प्रमोद पौड्यालले मानविकी संकायमा स्नातकोत्तर (MA) सम्मको उच्च शिक्षा हासिल गरेका छन्, जसले उनको राजनीतिक यात्रामा बौद्धिक पहिचान दिएको छ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341562",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रमोद पौड्याल प्रगतिशील लोकतान्त्रिक पार्टीका एक युवा नेता हुन् जसले २०७९ को आम निर्वाचनमा सुनसरी क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। उनको नागरिकता मोरङ जिल्लाको भए तापनि सुनसरीबाट उम्मेदवारी दिएका कारण उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) का रूपमा चित्रित गरियो, जसले उनको चुनावी नतिजामा प्रतिकूल प्रभाव पारेको देखिन्छ। सुनसरी ४ जस्तो हाई-प्रोफाइल क्षेत्रमा साना दलको तर्फबाट उम्मेदवारी दिएकाले उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। यद्यपि, उनको स्नातकोत्तर तहको शैक्षिक योग्यता र युवा जोशले भविष्यमा राजनीतिक सक्रियता बढाउन सक्ने सम्भावना देखाउँछ। हाल उनी आफ्नो पार्टीको संगठन विस्तार र स्थानीय मुद्दाहरूमा केन्द्रित रहेका छन्।",
+  "overall_approval_rating": 35
+}

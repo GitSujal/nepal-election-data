@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341769,
+  "candidate_name": "ज्ञानु देवी दनुवार",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6uR8A7M_f6zO8C6J_X9m_F-WfX7u-q8R-PQ&s",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341769.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "ज्ञानु देवी दनुवारले सिराहा निर्वाचन क्षेत्र नं ३ बाट प्रभु साह नेतृत्वको आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://nepsebajar.com/election/district/siraha/3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०७-१५",
+      "details": "मधेसको राजनीतिमा नयाँ शक्तिका रूपमा उदाएको प्रभु साहको आम जनता पार्टीमा आबद्ध भई उनले सक्रिय राजनीति सुरु गरेकी हुन्।",
+      "link_to_source": "https://ratopati.com/story/271295/2022/10/24/siraha-3-election",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सीमान्तकृत दनुवार समुदायको प्रतिनिधित्व",
+      "date": "२०७९-०१-०१",
+      "details": "नेपालको अति सीमान्तकृत दनुवार समुदायबाट महिला नेतृत्वका रूपमा उनी राजनीतिको मूल प्रवाहमा आउने प्रयास गरेकी छिन्।",
+      "link_to_source": "https://www.indigenousvoice.com/en/indigenous-peoples/danuwar.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ज्ञानु देवी दनुवार सिराहा जिल्लाको राजनीतिमा एक उदयमान महिला व्यक्तित्व हुन्। उनले २०७९ को आम निर्वाचनमा सिराहा निर्वाचन क्षेत्र नं ३ बाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएकी थिइन्। अति सीमान्तकृत दनुवार समुदायबाट प्रतिनिधित्व गर्ने भएकाले उनको उम्मेदवारीलाई समावेशिताको दृष्टिले महत्वपूर्ण मानिन्छ। यद्यपि, स्थापित दलहरूको बलियो सङ्गठन र प्रभावका कारण उनले उल्लेख्य मत प्राप्त गर्न सकिनन् र पराजित भइन्। प्रभु साह नेतृत्वको पार्टीमा आबद्ध भएर उनले मधेसका स्थानीय र जातीय मुद्दाहरूलाई उठाउने प्रयास गरिरहेकी छिन्। उनको राजनीतिक भविष्य पार्टीको सङ्गठन विस्तार र दनुवार समुदायको मत परिचालनमा निर्भर देखिन्छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341190,
+  "candidate_name": "दिपक कुमार साह",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "नेत्र विशेषज्ञ र राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341190.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा क्षेत्र नं ३ बाट प्रतिनिधिसभा सदस्यका लागि प्रतिस्पर्धा गर्दा मात्र ४६३ मत प्राप्त गरी पाँचौं स्थानमा सीमित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpxa1RFMvKWvjrNwTodcLGVOk3jYynibM2K-MbimWcOthWoO9c8Tr9RBEGfDWAw3gsAI3__nh9CY00yFghadhZ10h6IBqTBwz2h_SdHmMUmoji14Y0FmR9_YI0XrPGjddwG9V5CnFXiJLFScV7inKRrHMyVF0NuW-PZMY5DbQ8MTvW2z5aGpei8A==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्धता",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको नारासहित रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरी सक्रिय राजनीति सुरु गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX7W_3yoRsMqwkKcf4rYTL-eSsBSesCUXkhDqp5kZ3HdKZDPg1GYvmIEAsbC3KmzROr9PI63KCZ7EvA4zDEp_P2FzRKzNp24R8L8_sUDv5xWxwYj-oSpA94EIriGomlfq9CRE0iVTjS_BQzfKea09-hEZNCLBWrzlVKUAcHUVwJASqkL-BA9H0ARmnigl4_YjFDxUuKlH7XAZovKpr34wbbWK3JJccaZ5EpChGLVlDLZlM_ijEK-s-XDhxqyaxpX_-HmCK-0ZmTEKSTwLR-R0CqKv2zcbiYwRDCzP9HFugtvA3RDPIM6fYSz92gKri_azfIcwgUq_X6RSxAraEfdNJZ7yY0jqIzSTnfmfUp9QAdj5TYKWCDW1DeO6sYLEj_rT7QZhKmSG6m7qvzrp-xx7873dZ4W0L",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अन्तर्राष्ट्रिय 'आई हेल्थ हिरो' सम्मान",
+      "date": "२०७७-०६-०१",
+      "details": "नेपालको नेत्र स्वास्थ्य क्षेत्रमा पुर्‍याएको योगदान र नीतिगत पैरवीका लागि IAPB द्वारा 'आई हेल्थ हिरो २०२०' को रूपमा सम्मानित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhIZjoeWPwBMSMQlh7jA3qmVQ2KTGVD6V78RXaTtLJlSWv9mdl8njCtsYrWggZloSaxOUyF-CLczGkwSr8S0m3nPmJcXpkyEKv7kx8bk8YvEh3csmEzgZYgnIKGwXmGdMyPdTq4xjQX-iX1pTv6Bo9MnNyFdF53munGH2RNGxY28Q66VYiYW1OwChCGBKGB8alAmuOlR2bbyzIiJ6Zj6g_agFKVTo=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल स्वास्थ्य नीति २०७६ मा योगदान",
+      "date": "२०७६-०३-१६",
+      "details": "राष्ट्रिय स्वास्थ्य नीति २०७६ मा नेत्र स्वास्थ्यलाई आधारभूत स्वास्थ्य सेवाको प्याकेजमा एकीकृत गर्न सफल पैरवीको नेतृत्व गरेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhIZjoeWPwBMSMQlh7jA3qmVQ2KTGVD6V78RXaTtLJlSWv9mdl8njCtsYrWggZloSaxOUyF-CLczGkwSr8S0m3nPmJcXpkyEKv7kx8bk8YvEh3csmEzgZYgnIKGwXmGdMyPdTq4xjQX-iX1pTv6Bo9MnNyFdF53munGH2RNGxY28Q66VYiYW1OwChCGBKGB8alAmuOlR2bbyzIiJ6Zj6g_agFKVTo=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा आबद्धता",
+      "date": "२०७४-०४-११",
+      "details": "साझा पार्टी र विवेकशील नेपाली दलको एकीकरण पश्चात बनेको विवेकशील साझा पार्टीको अभियानमा जोडिएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX7jU85pp9IkLftLPqGypG2W_YJmZMahFPr2e2EIH0F13lGMSq78Npgj6Ij_2FxvbBWk3A_k3UU3rqFNIixix8TdppgjOxJuLlZSYITHxM5j9AN7MgYfskcuG6U512zZXwWdd0Tnr-3MuPPUPyoZSZ3ToAUOYQLvgSnXgMzZDokUvoHWOwaSGnKHwvRlu4YkF0y1pl9oeQnbyzyNu0WHSkRpHd1gqpy5MqSeZA4-oLPaYf7a8mBUUeCL-PX9qXiXS45sksbdWtyo0VDsYtbfuGDtirjERYo0Jnh5YdcaE9s0h6YnCjPxSxmlhQpb3EfXaSl_joYkL-fvpLaG1cHKI=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दिपक कुमार साह पेशाले एक सफल नेत्र विशेषज्ञ (Optometrist) हुन् जसले नेत्र स्वास्थ्यको क्षेत्रमा अन्तर्राष्ट्रिय पहिचान समेत बनाएका छन्। राजनीतिक रूपमा उनी वैकल्पिक राजनीतिक शक्तिहरू साझा पार्टी र विवेकशील साझा हुँदै राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भएका हुन्। २०७९ को निर्वाचनमा सिराहा क्षेत्र नं ३ बाट प्रतिस्पर्धा गर्दा उनले उल्लेख्य जनमत (मात्र ४६३ मत) प्राप्त गर्न सकेनन्, जसले उनको चुनावी पकड निकै कमजोर रहेको पुष्टि गर्छ। हाल उनी सिराहा छोडेर महोत्तरीमा सक्रिय रहेकाले उनलाई 'वागुवा' उम्मेदवारको रूपमा चित्रण गरिएको छ। उनीसँग पेशागत दक्षता र नीतिगत ज्ञान भए तापनि स्थानीय स्तरमा सांगठनिक आधार र मतदातासँगको पहुँच सुदृढ गर्न ठूलो चुनौती रहेको देखिन्छ।",
+  "overall_approval_rating": 35
+}

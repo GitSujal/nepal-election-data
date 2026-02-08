@@ -61,6 +61,7 @@ export function PRCandidateFilter({
 }: PRCandidateFilterProps) {
   const [badgeDropdownOpen, setBadgeDropdownOpen] = useState(false)
   const badgeDropdownRef = useRef<HTMLDivElement>(null)
+  const isClearing = useRef(false)
 
   const effectiveBadges = useMemo(
     () => urlState.badges.map(badge => tagNameToIdMap[badge] ?? badge),
@@ -155,23 +156,60 @@ export function PRCandidateFilter({
     onFilteredCandidatesChange(filteredCandidates)
   }, [filteredCandidates, onFilteredCandidatesChange])
 
-  // Auto-select candidate if only one available
-  useEffect(() => {
-    if ((urlState.party || urlState.group) && filteredCandidates.length === 1) {
-      onSelectCandidate(filteredCandidates[0])
-      onUrlStateChange({ candidate: filteredCandidates[0].serial_no })
-    }
-  }, [filteredCandidates, urlState.party, urlState.group, onSelectCandidate, onUrlStateChange])
+  // Track the last candidate ID we restored from URL to prevent duplicate selections
+  const lastUrlSelectedId = useRef<number>(0)
+  // Suppress auto-select after user explicitly dismisses a candidate (back button)
+  const suppressAutoSelect = useRef(false)
 
-  // Select candidate from URL state on initial load
+  // Reset suppressAutoSelect when actual filter values change (user is browsing again)
   useEffect(() => {
-    if (urlState.candidate && allCandidates && !selectedCandidate) {
+    suppressAutoSelect.current = false
+  }, [urlState.party, urlState.group, effectiveBadges])
+
+  // Auto-select candidate if only one available after applying filters
+  // Only triggers when filters or results change, not when selection is cleared
+  useEffect(() => {
+    if (suppressAutoSelect.current) return
+    if ((urlState.party || urlState.group) &&
+        filteredCandidates.length === 1 &&
+        !urlState.candidate &&
+        !selectedCandidate) {
+      onSelectCandidate(filteredCandidates[0])
+      // URL is updated by the handler
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filteredCandidates, urlState.party, urlState.group, onSelectCandidate])
+
+  // Select candidate from URL state on initial load or when URL candidate changes
+  useEffect(() => {
+    // Don't run if we're deliberately clearing the selection
+    if (isClearing.current) {
+      isClearing.current = false
+      return
+    }
+
+    if (urlState.candidate && allCandidates) {
       const candidate = filteredCandidates.find(c => c.serial_no === urlState.candidate)
-      if (candidate) {
+      if (candidate && urlState.candidate !== lastUrlSelectedId.current) {
+        // New candidate from URL - select it (initial load or browser navigation)
+        lastUrlSelectedId.current = urlState.candidate
         onSelectCandidate(candidate)
-      } else if (filteredCandidates.length > 0) {
+      } else if (!candidate && filteredCandidates.length > 0) {
         // Candidate ID doesn't match any in filtered results, clear it
+        lastUrlSelectedId.current = 0
         onUrlStateChange({ candidate: 0 })
+      }
+    } else if (!urlState.candidate) {
+      if (selectedCandidate && lastUrlSelectedId.current) {
+        // URL cleared but we have a selection that came from URL - user pressed back
+        lastUrlSelectedId.current = 0
+        isClearing.current = true
+        suppressAutoSelect.current = true
+        onSelectCandidate(null)
+      } else {
+        // No URL candidate and either no selection or selection came from a click
+        // (URL hasn't caught up yet) - just reset the ref without clearing
+        lastUrlSelectedId.current = 0
       }
     }
   }, [urlState.candidate, allCandidates, filteredCandidates, selectedCandidate, onSelectCandidate, onUrlStateChange])
@@ -189,6 +227,7 @@ export function PRCandidateFilter({
 
   // Handle party change - cascade reset children
   const handlePartyChange = (partyId: number) => {
+    isClearing.current = true
     onUrlStateChange({
       party: partyId,
       group: 0,
@@ -199,6 +238,7 @@ export function PRCandidateFilter({
 
   // Handle group change
   const handleGroupChange = (groupId: number) => {
+    isClearing.current = true
     onUrlStateChange({
       group: groupId,
       candidate: 0,
@@ -207,6 +247,7 @@ export function PRCandidateFilter({
   }
 
   const handleReset = () => {
+    isClearing.current = true
     onUrlStateChange({
       party: 0,
       group: 0,

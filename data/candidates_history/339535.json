@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339535,
+  "candidate_name": "खगेन्द्र बहादुर शाही",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nepal_Workers_Peasants_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधि, नेपाल मजदुर किसान पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339535.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा (समानुपातिक)",
+      "district": "दैलेख",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "डोटी १",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट डोटी जिल्लाबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (पर्यटक उम्मेदवार)",
+      "date": "२०७९-०६-०१",
+      "details": "२०७४ मा दैलेखबाट समानुपातिक सूचीमा रहेका शाही २०७९ मा डोटी सरेकाले उनलाई 'पर्यटक उम्मेदवार' को रूपमा हेरियो।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को समानुपातिक बन्दसूचीमा नाम",
+      "date": "२०७४-०७-०१",
+      "details": "नेपाल मजदुर किसान पार्टीले प्रतिनिधि सभाको समानुपातिक निर्वाचन प्रणालीका लागि दैलेखबाट बन्दसूचीमा समावेश गरेको।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खगेन्द्र बहादुर शाही नेपाल मजदुर किसान पार्टीका एक निष्ठावान कार्यकर्ता हुन्। २०७९ को निर्वाचनमा उनले डोटीबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए, तर उनको उपस्थिति मुख्यतया वैचारिक प्रचारमा मात्र सीमित देखियो। उनलाई 'पर्यटक उम्मेदवार' भनिनुको मुख्य कारण २०७४ सालमा दैलेख जिल्लाबाट समानुपातिक सूचीमा रहेका उनी एक्कासी डोटीमा उम्मेदवार बन्नु हो। डोटीमा उनको कुनै ठोस स्थानीय राजनीतिक आधार वा प्रभाव देखिँदैन, जसका कारण उनले निकै कम मत प्राप्त गरे। पार्टीको संगठन सुदूरपश्चिममा कमजोर रहेकाले उनको उम्मेदवारीलाई सांकेतिक मात्र मान्न सकिन्छ।",
+  "overall_approval_rating": 35
+}

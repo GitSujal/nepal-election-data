@@ -1,0 +1,95 @@
+{
+  "candidate_id": 339403,
+  "candidate_name": "राजेन्द्र प्रसाद लिङ्देन",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rastriya_Prajatantra_Party_Logo.png/220px-Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व उपप्रधानमन्त्री",
+  "candidates_current_position_in_party": "अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339403.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी नेपाल"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं ३",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं ३",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पोखरा विमानस्थल भ्रष्टाचार छानबिनको नेतृत्व",
+      "date": "२०८२-०१-०४",
+      "details": "सार्वजनिक लेखा समिति अन्तर्गतको उपसमितिको संयोजकका रूपमा पोखरा अन्तर्राष्ट्रिय विमानस्थल निर्माणमा १४ अर्ब बराबरको भ्रष्टाचार भएको निष्कर्षसहित प्रतिवेदन बुझाएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6AP-v72f7HE4LRSiYE8sU5rQDQVUH8ltnJJkl5ialng4FYE-rT3pA0zbVQXR9Z5vVZuDBQjMu3LXWO__3hx18IilwW7XNr6HbM3shOvimOA9PvjinTWUHE5270lSw5te5DzQ=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उपप्रधानमन्त्री पदबाट राजीनामा",
+      "date": "२०७९-११-१३",
+      "details": "सत्ता समीकरणमा आएको बदलाव र राष्ट्रपति निर्वाचनको विषयलाई लिएर नैतिकताको आधारमा उपप्रधानमन्त्री र मन्त्री पदबाट सामूहिक राजीनामा दिएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0QfUYx4KPkqPkpLtN2LwER8CJBPQ3GrPP1SCez8SulgMvJbm02bO5HABvuhw6mLsZ3Jr04HOl5RqmlGw-0iGm1IebtwkzDLgfBKCcetpfe9JBzCGulDjzmyJXWK_rdBHaBKbo6aNMOR1luKP2bNQV",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उपप्रधान तथा ऊर्जा मन्त्रीमा नियुक्ति",
+      "date": "२०७९-१०-०३",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा उपप्रधानमन्त्री तथा ऊर्जा, जलस्रोत र सिँचाइ मन्त्रीको रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBGtM4dfrtNb82vijyLU3k-gW-10UFiVIvdT-p7QsWGc-xoNy9ZQ3ROxfw0VCB_dHRQ9J6PTpWrne-NEoZ00NdrP8gIAABoHZxGrLiThs4Kc6BOYA8XVPWls6MkSBOYldq_PHoobSHinzkoXbKWaetrI7aCmL9tWtGwuuy8jqTO9gMuSYhwvS1aoV5hDqvrj4_u6BL5pIHOgtKMulTCv-78--A6xnwnCGDQLgpMx2eiTcUDjwnMgY5E4nWlbkyU-Cu60Afu4G-lagucyh8kw9K5B2VmYSPRJGLxFSq7zIkFb3YrIldj5zfqXEGAWLKXd9rmHeaUlCiRLuxy9Uz31bA1qFvOdMm2sZTKDKms2jFpb91Db7wB4_kaL7oxaADa1PZgv54UvqDHyU=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "झापा-३ बाट पुनः निर्वाचित",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाली कांग्रेसका कृष्णप्रसाद सिटौलालाई ३ हजार २७६ मतान्तरले पराजित गर्दै दोस्रो पटक प्रतिनिधिसभा सदस्यमा निर्वाचित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVGCXU5ZiMnEnfc7qfPemnjV32WJB9eiwk83rZ8B3U-AbSYEoLz0BaJASK8TO5ofqLKesDLXLbt9FzkhaN2hQHLzfZ5e3v70gj_v6XnfZOGLuGcfjDjuK8KUxMpJaJcZjfMTE=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राप्रपा अध्यक्षमा निर्वाचित",
+      "date": "२०७८-०८-१९",
+      "details": "पार्टीको एकता महाधिवेशनमा तत्कालीन अध्यक्ष कमल थापालाई पराजित गर्दै राप्रपाको केन्द्रीय अध्यक्षमा निर्वाचित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHQyQAQp-W_bWNZZcf7XP4qngnAbBipqU8IMz1SiyOS-uo_xwcgzdmMhcIK_JBsjyJ_HpSlJvFyCZ27aJYNVexdc_zoSJkir_OpigAZsHpVdwAxHgk_HEYtPtwbISa5sU3aXxOJYuK_uyq09X_nb9WCgYevbJNnQX6yhPAj2Dl_BLBQ9nCfWaXdMcPqtob-lzgIRuk17fFEDQvEphY8Et-0zOIyXfBOIr8MmepqVM9rJsFR7FjEnw4vr7TbIrofqZlCAEolZQBoEJky8Vxe62n6UIHTYd6TyV_RAAwe3ip331aghmKYlkHgPf2DySBYBIWBaLWdA_EZLWi_KrtuP4UT080cbjdRoZ43kKnZoM2dVD4Z7bhDQV2RXNLFKtVDt7wAWgf3wnl4Q==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "निर्मल निवास हस्तक्षेपको आरोप",
+      "date": "२०७८-०८-२०",
+      "details": "पराजित नेता कमल थापाले लिङ्देनको जितमा पूर्व राजाको सचिवालय (निर्मल निवास) को नाङ्गो हस्तक्षेप रहेको गम्भीर आरोप लगाएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0QfUYx4KPkqPkpLtN2LwER8CJBPQ3GrPP1SCez8SulgMvJbm02bO5HABvuhw6mLsZ3Jr04HOl5RqmlGw-0iGm1IebtwkzDLgfBKCcetpfe9JBzCGulDjzmyJXWK_rdBHaBKbo6aNMOR1luKP2bNQV",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जिविस सभापतिमा नियुक्ति",
+      "date": "२०६१-०२-१५",
+      "details": "राजा ज्ञानेन्द्र शाहको प्रत्यक्ष शासनकालमा झापा जिल्ला विकास समितिको सभापतिमा मनोनित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuNqBkPeEmYtLQh_uOOAydPEr9q3APjjTDbHBnZ7LL-t9E1FEA38JLCGT3aAqze3VPz6Z-7qW3c0nfOWSgt94aReH4UNokJtvG-6AjyC36XPntc4f4fxq-xt1TJ86WI2m8cErnkPEMhpJ58ZmbZEo-QYqSwRYfHaknu73GmYk_QX4KT6fwCKvN2G90qQH65TyxywRN45ANsLXuWZRKtekWzi7zheeuJlxrXeP-4vwRknr8eGJOawIhPqQqZ8YqaqPJZDMMtv54HDIQuZK61HBGEtZUYeKqapVijrRIBGqnAMxMocvFyGCYnNGdDwkyY7N_TQXuM8PPvdlxYH7gg1n664T3BSobgFX2WVdBbLUKzHyt1Snq-qyXmr4PSBBNjnMr",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राजेन्द्र लिङ्देन नेपालको दक्षिणपन्थी राजनीतिका एक प्रभावशाली र उदाउँदो नेता हुन्। उनले राप्रपाको नेतृत्व सम्हालेपछि पार्टीलाई चुनावी रूपमा पुनर्जीवित गर्दै १ सिटबाट १४ सिटमा पुर्याउन सफल भए। झापा क्षेत्र नं ३ मा नेपाली कांग्रेसका प्रभावशाली नेता कृष्णप्रसाद सिटौलालाई लगातार दुई पटक पराजित गरेर उनले आफ्नो स्थानीय पकड मजबुत बनाएका छन्। उनले 'भ्रष्टाचार गर्नु आमाको रगत खानु सरह हो' भन्ने नाराका साथ आफूलाई निष्कलंक र सुशासनको पक्षपातीका रूपमा स्थापित गरेका छन्। यद्यपि, राजतन्त्र र हिन्दु राष्ट्रको वकालत गर्ने उनको राजनीतिक एजेन्डा गणतन्त्रवादी पक्षधरहरूका लागि विवादास्पद मानिन्छ। उनले संसदीय उपसमितिको नेतृत्व गर्दै पोखरा विमानस्थलको अर्बौंको भ्रष्टाचार सार्वजनिक गरेर सुशासनको क्षेत्रमा ठोस कदम चालेका छन्।",
+  "overall_approval_rating": 88
+}

@@ -1,0 +1,127 @@
+{
+  "candidate_id": 340467,
+  "candidate_name": "रघुबीर महासेठ",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://shikshyasansar.com/wp-content/uploads/2022/10/UML-Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य, पूर्व उपप्रधानमन्त्री",
+  "candidates_current_position_in_party": "सचिव तथा मधेस प्रदेश इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340467.jpg",
+  "election_history": [
+    {
+      "year": "२०६५",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उपप्रधानमन्त्री तथा भौतिक पूर्वाधार मन्त्रीमा नियुक्त",
+      "date": "२०८०-११-२१",
+      "details": "एमाले-माओवादी गठबन्धनको नयाँ सरकारमा महासेठलाई उपप्रधानमन्त्रीसहित भौतिक पूर्वाधार तथा यातायात मन्त्रालयको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://www.nepalitimes.com/banner/skeletons-in-the-cabinet",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "धनुषा-४ बाट प्रतिनिधि सभामा पुनः निर्वाचित",
+      "date": "२०७९-०८-१३",
+      "details": "नेपाली कांग्रेसका महेन्द्र यादवलाई १२४ मतको झिनो अन्तरले पराजित गर्दै महासेठ दोस्रो पटक सोही क्षेत्रबाट विजयी भएका हुन्।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/29/uml-s-raghubir-mahaseth-elected-from-dhanusha-4",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अल्पकालीन उपप्रधानमन्त्री र परराष्ट्र मन्त्री",
+      "date": "२०७८-०२-२१",
+      "details": "केपी शर्मा ओलीको मन्त्रिमण्डलमा उपप्रधानमन्त्री र परराष्ट्र मन्त्री नियुक्त भएको १८ दिनमै सर्वोच्च अदालतको आदेशले पदमुक्त हुनुपरेको थियो।",
+      "link_to_source": "https://kathmandupost.com/politics/2021/06/06/raghubir-mahaseth-as-pick-for-deputy-prime-minister-and-foreign-minister-surprises-many",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा विवाद र गुट परिवर्तन",
+      "date": "२०७७-०९-०७",
+      "details": "नेकपा विभाजनका क्रममा सुरुमा प्रचण्ड-माधव समूहमा देखिए पनि केही समयमै उनी पुनः ओली समूहमा फर्किएका थिए।",
+      "link_to_source": "https://setopati.com/politics/224794",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कार्यसम्पादन सन्तोषजनक नभएको भन्दै बर्खास्त",
+      "date": "२०७६-०८-०४",
+      "details": "भौतिक पूर्वाधार मन्त्रीका रूपमा कमजोर कार्यसम्पादन र ठेकेदारसँगको साँठगाँठको आरोप लागेपछि प्रधानमन्त्री ओलीले उनलाई मन्त्री पदबाट हटाएका थिए।",
+      "link_to_source": "https://www.nepalitimes.com/banner/skeletons-in-the-cabinet",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "ठेकेदारलाई पक्राउ नगर्न निर्देशन",
+      "date": "२०७५-०३-०४",
+      "details": "समयमै काम नगर्ने ठेकेदारलाई गृह मन्त्रालयले पक्राउ गरिरहँदा महासेठले ठेकेदारहरूलाई पक्राउ नगर्न आश्वासन दिएर संरक्षण गरेको भन्दै विवादमा परेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2018/06/18/minister-mahaseth-assures-contractors-of-no-arrest",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मन्त्रिपरिषद्कै सबैभन्दा धनी मन्त्री",
+      "date": "२०७५-०२-१०",
+      "details": "सम्पत्ति विवरण सार्वजनिक गर्दा महासेठ ओली सरकारकै सबैभन्दा धनी मन्त्रीका रूपमा देखिएका थिए, जसले उनको आर्थिक स्रोतमाथि प्रश्न उठाएको थियो।",
+      "link_to_source": "https://nepalindata.com/news/mahaseth-the-richest-minister-in-cabinet-news-nepal-in-data/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "भौतिक पूर्वाधार मन्त्री नियुक्त",
+      "date": "२०७४-११-०३",
+      "details": "वाम गठबन्धनको सरकार बनेपछि महासेठले शक्तिशाली भौतिक पूर्वाधार तथा यातायात मन्त्रालयको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/25/166935028540879601.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सिँचाइ मन्त्रीको रूपमा कार्य",
+      "date": "२०६७-१०-२३",
+      "details": "झलनाथ खनालको नेतृत्वमा रहेको सरकारमा महासेठले पहिलो पटक सिँचाइ मन्त्रीको रूपमा क्याबिनेटमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%98%E0%A5%81%E0%A4%AC%E0%A5%80%E0%A4%B0_%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A5%87%E0%A4%A0",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "यातायात सिन्डिकेट अन्त्यको घोषणा",
+      "date": "२०७५-०१-०४",
+      "details": "यातायात क्षेत्रको सिन्डिकेट अन्त्य गर्ने साहसिक निर्णय गरे पनि पछि ठेकेदार र व्यवसायीसँग नरम भएको आरोप उनलाई लागेको थियो।",
+      "link_to_source": "https://b360nepal.com/raghubir-mahaseth-minister-ministry-of-physical-infrastructure-and-transport/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रघुबीर महासेठ मधेस प्रदेशमा नेकपा एमालेका एक प्रभावशाली र रणनीतिक नेता हुन्। उनले धनुषा-४ बाट लगातार दुई पटक निर्वाचन जितेर आफ्नो पकड प्रमाणित गरेका छन्। तथापि, उनको राजनीतिक छवि 'विवादास्पद' र 'धनी मन्त्री'का रूपमा बढी चर्चामा रहने गरेको छ। भौतिक पूर्वाधार मन्त्री हुँदा काम नगर्ने ठेकेदारहरूलाई संरक्षण गरेको र कार्यसम्पादन फितलो भएको भन्दै आफ्नै पार्टी अध्यक्षद्वारा बर्खास्त हुनु उनको करियरको ठूलो धक्का थियो। उनको परिवार नै राजनीतिमा सक्रिय छ (श्रीमती जुली कुमारी महतो पनि सांसद/मन्त्री)। मधेसमा एमालेको संगठन विस्तारमा उनको ठूलो भूमिका रहे पनि सुशासन र नैतिक राजनीतिको सवालमा उनीमाथि प्रश्न उठिरहन्छन्। धनुषामा उनको प्रभाव बलियो भए तापनि भ्रष्टाचार र अपारदर्शी सम्पत्तिको आरोपले उनको लोकप्रियतामा ह्रास आएको देखिन्छ।",
+  "overall_approval_rating": 52
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340822,
+  "candidate_name": "योगेन्द्र व साउद",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://election.gov.np/static/media/party_logo/ujyalo_nepal.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340822.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कञ्चनपुर क्षेत्र नं. २ बाट उज्यालो नेपाल पार्टीको उम्मेदवारका रूपमा निर्वाचनमा सहभागी भएका थिए। तर, उनी निकै कम मत ल्याई पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFanGLJnGpBYRCmZs-n8kQOxVlFi9W0c-dMephGkEWCY2jptNSBvVNniLGuJCYZlpvInWwLFX-_7Jn1cT_uDhnTcwsdey8YoWkhr1ykioNesqKU1VL-uVSEYD9c6x-PmQqmeslD",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमाले र युवा संघ परित्याग",
+      "date": "२०७९-०१-१५",
+      "details": "लामो समय नेकपा एमालेमा सक्रिय रहेका साउदले पार्टी र राष्ट्रिय युवा संघको जिम्मेवारी छाडेर उज्यालो नेपाल पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhP1oLNIVPlrcYJUJaGzv22liGQ4GyA7qTEA7JAXYqM7kPE4MRMe9mvyITAjEaf_0LtZMKHhB4dDdK0bJrAn8Cc_GtlvZn3J4Uo9tOwOeCGGKfpNk4lzC5apWKilkk2PVIwsk6nNf3",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय युवा संघको केन्द्रीय उपाध्यक्ष",
+      "date": "२०७७-११-२०",
+      "details": "नेकपा एमाले निकट राष्ट्रिय युवा संघको केन्द्रीय उपाध्यक्षको रूपमा नेतृत्वदायी भूमिका निर्वाह गरेका थिए। उनी युवा राजनीतिमा प्रभावशाली मानिन्थे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhP1oLNIVPlrcYJUJaGzv22liGQ4GyA7qTEA7JAXYqM7kPE4MRMe9mvyITAjEaf_0LtZMKHhB4dDdK0bJrAn8Cc_GtlvZn3J4Uo9tOwOeCGGKfpNk4lzC5apWKilkk2PVIwsk6nNf3",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "योगेन्द्र व साउद कञ्चनपुरका एक युवा नेता हुन् जसले आफ्नो राजनीतिक यात्रा नेकपा एमालेको भ्रातृ संगठन राष्ट्रिय युवा संघबाट सुरु गरेका थिए। उनले युवा संघमा केन्द्रीय उपाध्यक्ष जस्तो गरिमामय पद सम्हालेका थिए, जुन उनको राजनीतिक जीवनको ठूलो उपलब्धि थियो। तथापि, २०७९ को निर्वाचनअघि एमाले परित्याग गरी साना र नयाँ दल 'उज्यालो नेपाल पार्टी' रोज्नु उनका लागि चुनावी रूपमा घातक सिद्ध भयो। कञ्चनपुर २ मा भएको निर्वाचनमा उनले अत्यन्तै न्यून मत प्राप्त गरे, जसले गर्दा उनको क्षेत्रीय प्रभाव कमजोर देखिएको छ। ठूला दलहरूबीचको प्रतिस्पर्धामा उनी ओझेलमा परेका छन्।",
+  "overall_approval_rating": 38
+}

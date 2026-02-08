@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342286,
+  "candidate_name": "युवराज थापा",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342286.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर १",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "युवराज थापाले २०७९ को प्रतिनिधिसभा निर्वाचनमा भोजपुर निर्वाचन क्षेत्र नम्बर १ बाट आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०६-२५",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई उनले आफ्नो राजनीतिक यात्रालाई अगाडि बढाएका हुन्।",
+      "link_to_source": "https://hamropatro.com/election/candidate/342286",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "युवराज थापा भोजपुर जिल्लाबाट उदाउँदै गरेका राजनीतिक व्यक्तित्व हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा प्रभु साह नेतृत्वको आम जनता पार्टीबाट उम्मेदवारी दिएका थिए। भोजपुरमा सुदन किराती र शेरधन राई जस्ता हेभिवेट नेताहरूसँगको प्रतिस्पर्धामा उनको मत परिणाम न्यून रहे पनि उनले नयाँ दलको तर्फबाट वैकल्पिक राजनीतिको अभ्यास गरेको देखिन्छ। उनको राजनीतिक प्रभाव हाल जिल्लास्तरमा मात्र सीमित छ र उनी प्रभु साहको 'स्वतन्त्र' राजनीतिक धारलाई पहाडी जिल्लामा विस्तार गर्न प्रयासरत छन्। हालसम्म उनको कुनै ठूला घोटाला वा विवादहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 42
+}

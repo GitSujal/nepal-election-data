@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340561,
+  "candidate_name": "अरुण कुमार साह",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h7A5kM4O7R-XnQ-q7K8j-O0XmN2R1-yS9A&s",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340561.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सप्तरीबाट उम्मेदवारी दर्ता (भागुवा प्रवृत्ति)",
+      "date": "२०८०-०१-०१",
+      "details": "धनुषाबाट नराम्रोसँग पराजित भएपछि राजनीतिक भविष्य खोज्दै सप्तरी जिल्ला पुगेर उम्मेदवारी दर्ता गराएको।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा केवल ३३ मत (०.०४%) प्राप्त गरी पराजित भएको।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340561",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विभिन्न कम्युनिष्ट घटकहरूसँगको आबद्धता",
+      "date": "२०७५-०३-१५",
+      "details": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) र एकीकृत समाजवादी जस्ता विभिन्न पार्टीहरूसँग आवद्धता परिवर्तन गरिरहेको।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अरुण कुमार साह एक अत्यन्तै कमजोर चुनावी आधार भएका उम्मेदवार हुन्। २०७९ को निर्वाचनमा धनुषा ४ बाट केवल ३३ मत प्राप्त गर्नुले उनको जनस्तरमा रहेको न्यून प्रभावलाई स्पष्ट पार्दछ। यस पटक धनुषा छोडेर सप्तरीबाट उम्मेदवारी दिनुले उनलाई 'भागुवा' वा अवसरवादी उम्मेदवारको रूपमा चित्रित गरेको छ। उनी पटक-पटक पार्टी परिवर्तन गर्ने र चुनावैपिच्छे जिल्ला फेर्ने प्रवृत्तिका कारण मतदातामाझ अविश्वसनीय देखिन्छन्। उनको राजनीतिक यात्रामा कुनै ठोस उपलब्धि वा विकासका कामहरू भेटिएका छैनन्, जसले गर्दा उनको चुनावी सम्भावना निकै न्यून देखिन्छ।",
+  "overall_approval_rating": 12
+}

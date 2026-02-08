@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340687,
+  "candidate_name": "प्रकाश चन्‍द्र दवाडी",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nepali_Congress_Party_Logo.svg/1200px-Nepali_Congress_Party_Logo.svg.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि तथा पूर्व संसदीय दलको प्रवक्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340687.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "२ (ख)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "२ (ख)",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी भित्रको टिकट व्यवस्थापन",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को निर्वाचनमा गोरखा २ (ख) बाट बहालवाला सांसद भए पनि पार्टीले सुरेन्द्रराज पाण्डेलाई टिकट दिएपछि उनले पार्टीको निर्णयलाई स्वीकार गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/166531393699732151.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संसदीय दलको प्रवक्तामा नियुक्त",
+      "date": "२०७७-०२-११",
+      "details": "गण्डकी प्रदेश सभामा नेपाली काँग्रेस संसदीय दलको प्रवक्ताको रूपमा जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Prakash_Chandra_Dawadi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोरोना महामारीमा परोपकारी कार्य",
+      "date": "२०७७-०३-१५",
+      "details": "सांसदको रूपमा पाउने तलब सुविधा गरिब, बिरामी र अशक्तहरूको उपचारमा खर्च गर्ने घोषणा गरी सक्रिय सामाजिक सेवामा लागेका थिए।",
+      "link_to_source": "https://namasteonlinenews.com/prakash-chandra-dawadi-gorkha-2/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनका उम्मेदवार अमर तामुलाई २,४४२ मतान्तरले पराजित गर्दै १५,८५३ मतका साथ प्रदेश सभा सदस्यमा विजयी भएका थिए।",
+      "link_to_source": "https://namasteonlinenews.com/prakash-chandra-dawadi-gorkha-2/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रकाश चन्द्र दवाडी गोरखा जिल्लाका एक प्रभावशाली र लोकप्रिय युवा नेता हुन्। २०७४ सालको निर्वाचनमा वाम गठबन्धनको लहरका बीच पनि गोरखा २ (ख) बाट विजयी भएर उनले आफ्नो व्यक्तिगत पकड प्रमाणित गरेका थिए। उनी राजनीतिलाई पदभन्दा पनि सेवाको माध्यम ठान्ने नेताको रूपमा परिचित छन्; विशेष गरी सांसद हुँदा आफ्नो तलब स्वास्थ्य र शिक्षा क्षेत्रमा दान गरेर उनले 'परोपकारी नेता'को छवि बनाएका छन्। २०७९ को निर्वाचनमा उनले आफ्नो साविकको क्षेत्र पार्टीका वरिष्ठ नेता सुरेन्द्रराज पाण्डेका लागि छोडिदिएका थिए, जसले उनको पार्टीप्रतिको निष्ठा र त्यागलाई झल्काउँछ। उनीमाथि हालसम्म कुनै ठूला भ्रष्टाचार वा काण्डका आरोपहरू छैनन्, जसका कारण जनस्तरमा उनको छवि निकै स्वच्छ र भरोसायोग्य रहेको छ।",
+  "overall_approval_rating": 82
+}

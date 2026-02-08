@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340743,
+  "candidate_name": "भोपेन्द्र प्रसाद यादव",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Janamat_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, जनमत पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340743.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "भोपेन्द्र प्रसाद यादवले रूपन्देही क्षेत्र नं. ४ बाट जनमत पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, जहाँ उनले १५,५२६ मत प्राप्त गरे पनि पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/rupandehi?constituency=4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "किसान आन्दोलनमा नेतृत्वदायी भूमिका",
+      "date": "२०७८-१०-१५",
+      "details": "जनमत पार्टीले तराई-मधेशमा सञ्चालन गरेको किसान आन्दोलनमा रूपन्देही जिल्लाबाट सक्रिय सहभागी र परिचालनमा भूमिका खेलेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/01/1068832",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनमत पार्टीको मूलधारको राजनीतिमा प्रवेश",
+      "date": "२०७६-०१-१५",
+      "details": "डा. सीके राउत नेतृत्वको जनमत पार्टी स्थापना भएपछि उक्त पार्टीको संगठनात्मक विस्तारमा रूपन्देही क्षेत्रमा महत्त्वपूर्ण योगदान पुर्‍याए।",
+      "link_to_source": "https://janamatparty.org.np/about-us/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भोपेन्द्र प्रसाद यादव जनमत पार्टीका रूपन्देही क्षेत्रका एक प्रभावशाली र जुझारु नेता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा रूपन्देही क्षेत्र नं. ४ बाट उनले प्राप्त गरेको १५,५२६ मतले उक्त क्षेत्रमा जनमत पार्टीको बलियो उपस्थितिलाई दर्शाउँछ। यद्यपि उनले निर्वाचन जित्न सकेनन्, तर स्थापित मधेशी नेताहरूलाई कडा चुनौती दिएका थिए। स्रोतले उनलाई 'वगुवा' (अस्थिर) उम्मेदवारको रूपमा संकेत गरे पनि उनी रूपन्देहीकै स्थानीय बासिन्दा हुन् र स्थानीय मुद्दाहरू, विशेष गरी किसानका समस्याहरूमा केन्द्रित रहने गरेका छन्। उनको राजनीतिक भविष्य जनमत पार्टीको संगठन विस्तार र मधेशी मतदाताहरूको विश्वासमा निर्भर देखिन्छ।",
+  "overall_approval_rating": 58
+}

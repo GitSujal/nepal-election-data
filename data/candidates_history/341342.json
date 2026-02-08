@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341342,
+  "candidate_name": "डिक प्रसाद बास्तोला",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेतृत्व, ओखलढुंगा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341342.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ओखलढुंगा",
+      "constituency": "ओखलढुंगा १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "बास्तोलाले ओखलढुंगा निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले २२२ मत प्राप्त गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvyqw-GFCWxjinZRx4rRoZPzkPh2ccEXGuQzQR2G1XL7zQpycFrT32CChTvnGRlLruN8b30EXCGCKYoNdeKr9brsj4QTCtlD7PRMJPEfk0N3TI51ECoq9u-rqNFnswy7jEifqvIeoFaGqCrBsER7qqA4U6I9Q636NMWEmV81hubO0urwixnJ0BYZma",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपाको विभिन्न घटकहरूको एकता र सक्रियता",
+      "date": "२०७८-०८-१५",
+      "details": "पार्टीका विभिन्न टुक्राहरू एकीकृत हुँदा उनी राप्रपाको मूलधारमै रहेर संगठन विस्तारमा सक्रिय रहे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3oMcvJ3iOw4IyKPUpp1Tp5A5tpR9OJc2ukDvJgO_oMu6J4BOnCGbU0FJZCsr603xmxgsbTsO5M8307Y-31dwYV7HD3I-GxlIbxvsr4ZnZNSrXDXbCicWvp4R_BXqXj9mEn3fpNOH8xk3P8CC92nx34bPsnhNERaqCYgikQ4zUxA==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०५०-०१-०१",
+      "details": "बास्तोलाले लामो समयदेखि ओखलढुंगा जिल्लामा राष्ट्रवादी राजनीतिक विचारधारा बोकेका दलहरूमा आबद्ध भई काम गर्दै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3oMcvJ3iOw4IyKPUpp1Tp5A5tpR9OJc2ukDvJgO_oMu6J4BOnCGbU0FJZCsr603xmxgsbTsO5M8307Y-31dwYV7HD3I-GxlIbxvsr4ZnZNSrXDXbCicWvp4R_BXqXj9mEn3fpNOH8xk3P8CC92nx34bPsnhNERaqCYgikQ4zUxA==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "डिक प्रसाद बास्तोला ओखलढुंगा जिल्लाका एक निष्ठावान राजनीतिकर्मी हुन्। उनले लामो समयदेखि राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का विभिन्न घटकहरूमा आबद्ध रहेर काम गर्दै आएका छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले ओखलढुंगा निर्वाचन क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका थिए, जहाँ उनले जम्मा २२२ मत प्राप्त गरे। यो नतिजाले जिल्लामा राप्रपाको सांगठनिक पकड कमजोर रहेको र बास्तोलाको व्यक्तिगत चुनावी प्रभाव पनि सीमित रहेको पुष्टि गर्दछ। उनको राजनीतिक यात्रामा हालसम्म कुनै ठूला भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्, जसले उनको छवि स्वच्छ देखाउँछ। उनी जिल्लाकै स्थानीय बासिन्दा हुन् र उनलाई पार्टीको एक इमानदार कार्यकर्ताका रूपमा हेरिन्छ।",
+  "overall_approval_rating": 38
+}

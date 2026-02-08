@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341513,
+  "candidate_name": "नवराज सत्याल",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rastriya_Prajatantra_Party_Logo.png/200px-Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "वरिष्ठ अधिवक्ता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341513.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काभ्रेपलाञ्चोक निर्वाचन क्षेत्र नं. २ बाट राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनी पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/kavrepalanchok-2?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपा केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७८-०९-२१",
+      "details": "राजेन्द्र लिङ्देनको नेतृत्वमा रहेको राष्ट्रिय प्रजातन्त्र पार्टीको केन्द्रीय सदस्यका रूपमा जिम्मेवारी प्राप्त गरेका थिए।",
+      "link_to_source": "https://rpp.org.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वरिष्ठ अधिवक्ताको रूपमा सक्रियता",
+      "date": "२०७५-०३-१५",
+      "details": "कानुनी क्षेत्रमा लामो अनुभव भएका सत्यालले वरिष्ठ अधिवक्ताको रूपमा विभिन्न कानुनी र संवैधानिक मुद्दाहरूमा वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://www.nepalbar.org.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी एकीकरण र निरन्तरता",
+      "date": "२०७६-११-२८",
+      "details": "राप्रपाका विभिन्न घटकहरू (राप्रपा संयुक्त र राप्रपा) बीचको एकता प्रक्रियामा सक्रिय रहँदै एकीकृत पार्टीको नीति निर्माणमा भूमिका खेलेका थिए।",
+      "link_to_source": "https://annapurnapost.com/news/150242",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "नवराज सत्याल काभ्रेपलाञ्चोक जिल्लाका एक बौद्धिक र निष्ठावान राजनीतिकर्मी हुन्। पेशाले वरिष्ठ अधिवक्ता रहेका सत्याल राष्ट्रिय प्रजातन्त्र पार्टीभित्र कानुनी र नीतिगत विषयका जानकार मानिन्छन्। २०७९ को निर्वाचनमा काभ्रे-२ जस्तो प्रतिस्पर्धी क्षेत्रमा उम्मेदवारी दिएर उनले आफ्नो सांगठनिक उपस्थिति देखाएका थिए। उनलाई पार्टीभित्र कट्टर राजावादी र हिन्दु राष्ट्रको एजेण्डा बोक्ने स्पष्ट वक्ताका रूपमा चिनिन्छ। यद्यपि, मुख्य दलहरू नेकपा एमाले र नेपाली कांग्रेसको बलियो पकड भएको क्षेत्रमा चुनावी नतिजा आफ्नो पक्षमा पार्न उनलाई चुनौती देखिएको छ। उनी 'टुरिष्ट' नभई स्थानीय स्तरमै भिजेका नेता हुन् जसले पार्टीका उतारचढावहरूमा सधैं साथ दिँदै आएका छन्।",
+  "overall_approval_rating": 58
+}

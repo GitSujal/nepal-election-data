@@ -1,0 +1,95 @@
+{
+  "candidate_id": 341221,
+  "candidate_name": "रामेश्‍वर राय यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/JSP-Nepal-Logo.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341221.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सर्लाही क्षेत्र नम्बर ३ बाट जनता समाजवादी पार्टीको उम्मेदवारका रूपमा प्रतिस्पर्धा गरेका यादव नेकपा एमालेका हरिप्रसाद उप्रेतीसँग पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/rameshwar-rai-yadav-election-result-sarlahi-3/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनता समाजवादी पार्टी (जसपा) मा प्रवेश",
+      "date": "२०७९-०३-१५",
+      "details": "लामो समय माओवादी केन्द्रमा रहेका यादव निर्वाचनको पूर्वसन्ध्यामा अवसर र चुनावी समीकरणका लागि जसपामा प्रवेश गरे, जसले गर्दा उनलाई 'वागुवा' नेताको आरोप लाग्यो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rameshwar_Raya_Yadav",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मन्त्री पदबाट बिदाइ",
+      "date": "२०७७-०९-१०",
+      "details": "प्रधानमन्त्री केपी शर्मा ओलीले मन्त्रिमण्डल पुनर्गठन गर्दा यादवलाई श्रम मन्त्रीबाट हटाएका थिए। उनको कार्यकालमा वैदेशिक रोजगारीका समस्या समाधानमा प्रभावकारी भूमिका नखेलेको गुनासो थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2020/12/919504",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रीमा नियुक्ति",
+      "date": "२०७६-०८-०४",
+      "details": "तत्कालीन नेपाल कम्युनिष्ट पार्टी (नेकपा) को सरकारमा माओवादी कोटाबाट उनी मन्त्री नियुक्त भएका थिए। उनको कार्यकाल मलेसिया र कोरिया रोजगारी सुचारु गर्ने विषयमा केन्द्रित थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2019/11/814131",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ प्रतिनिधिसभा निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट माओवादी केन्द्रको चुनाव चिन्हमा २२,३६७ मत ल्याई सर्लाही-३ बाट निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo0Awa_Z4QR0kbOLlMfqy1AiHOUk2Y5HQMZxCfSUNZF1USa3onsvs-PbwC9w3RGmCm5b3h7VIOf8ZqcBMJmx0ihzm3kS_FpzEg7S2cCLEoPgup27DnSiepgfAV7ndIKkXx2lScEK42ZUpiubIkTMCjgomKV95y_ofayDzYYBjjuHgo6leBt1LBolLUNw==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी केन्द्रमा प्रवेश",
+      "date": "२०७४-०६-१०",
+      "details": "नयाँ शक्ति पार्टी छोडेर उनी पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको माओवादी केन्द्रमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.wikiwand.com/en/Rameshwar_Raya_Yadav",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेसी जनाधिकार फोरम (लोकतान्त्रिक) सँगको यात्रा",
+      "date": "२०६८-०२-१५",
+      "details": "विजयकुमार गच्छदारसँग मिलेर फोरम लोकतान्त्रिकमा सक्रिय रहेका यादव मधेस आन्दोलनपछिको शक्ति संघर्षमा संलग्न थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rameshwar_Raya_Yadav",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सद्भावना पार्टीबाट राजनीतिक सुरुवात",
+      "date": "२०४१-०१-०१",
+      "details": "यादवले आफ्नो राजनीतिक यात्रा नेपाल सद्भावना पार्टीबाट सुरु गरेका थिए र लामो समय गजेन्द्रनारायण सिंहको सामीप्यमा रहेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/yadav-rejoins-nsp",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रामेश्‍वर राय यादव सर्लाहीका अनुभवी तर अस्थिर राजनीतिक छविका नेता हुन्। उनको राजनीतिक यात्रा सद्भावना, फोरम, नयाँ शक्ति, माओवादी हुँदै अहिले जसपासम्म आइपुगेको छ। यसै कारण उनलाई स्थानीय स्तरमा 'वागुवा' (अवसरवादी) उम्मेदवारको रूपमा चिनिन्छ। २०७४ को निर्वाचनमा माओवादी केन्द्रबाट विजयी भएर श्रम मन्त्री बने पनि उनको कार्यकाल विवादरहित रहन सकेन। वैदेशिक रोजगारीको सिन्डिकेट अन्त्य गर्ने सवालमा उनी चुकेको आरोप लाग्ने गरेको छ। २०७९ को निर्वाचनमा अन्तिम समयमा पार्टी परिवर्तन गरेर चुनाव लड्दा उनले साख जोगाउन सकेनन् र पराजित भए। उनको चुनावी आधार कमजोर हुनुमा पटक-पटकको पार्टी परिवर्तन र विकास निर्माणमा जनअपेक्षा अनुसार काम गर्न नसक्नु प्रमुख कारण देखिन्छ।",
+  "overall_approval_rating": 42
+}

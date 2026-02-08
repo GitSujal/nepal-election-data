@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340608,
+  "candidate_name": "देउ कुमार थेवे",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_party_logo.png",
+  "candidates_current_position": "नेपाली काँग्रेस, झापा जिल्ला सभापति",
+  "candidates_current_position_in_party": "जिल्ला सभापति",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340608.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "झापा क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गर्दा २२,४४८ मत प्राप्त गरी नेकपा (एमाले) का लालप्रसाद साँवा लिम्बूसँग पराजित हुनुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कांग्रेस झापाको जिल्ला सभापतिमा निर्वाचित",
+      "date": "२०७८-०८-१२",
+      "details": "नेपाली कांग्रेसको १४ औं महाधिवेशन अन्तर्गत भएको जिल्ला अधिवेशनमा १७६५ मत प्राप्त गरी रामबहादुर कट्टेललाई पराजित गर्दै झापाको सभापतिमा निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/11/1045239",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "झापा निर्वाचन क्षेत्र नम्बर ४ बाट पहिलो पटक प्रतिनिधि सभा सदस्यको उम्मेदवार बन्दा २६,८२२ मत प्राप्त गरी नेकपा (एमाले) का लालप्रसाद साँवा लिम्बूसँग पराजित हुनुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/Result2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको विभिन्न पदमा सक्रियता",
+      "date": "२०४६-०१-०१",
+      "details": "वि.स. २०४६ सालको सत्याग्रह र प्रजातन्त्र पुनस्र्थापनाको आन्दोलनमा सक्रिय सहभागी भई राजनीतिक यात्रालाई उचाई दिनुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELaz9l9F9dbqexSBrO_xm1TBmH3IBvtGkXyTZpZO5kO34GxAo4EZD12Tu6TAcTU8plwNQyOyRUxzw6jqg91-KrhpjGqn8wUp5YQKjExbuii5kipno2-jhTZHZTYOQQtBPhvqoasXW358CJssFj902IUj4WwBCuUhHjA80=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विद्यार्थी राजनीतिबाट राजनीतिक यात्राको सुरुवात",
+      "date": "२०३६-०१-०१",
+      "details": "वि.स. २०३६ सालको विद्यार्थी आन्दोलन देखि नै नेपाल विद्यार्थी संघ मार्फत राजनीतिमा आबद्ध हुनुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELaz9l9F9dbqexSBrO_xm1TBmH3IBvtGkXyTZpZO5kO34GxAo4EZD12Tu6TAcTU8plwNQyOyRUxzw6jqg91-KrhpjGqn8wUp5YQKjExbuii5kipno2-jhTZHZTYOQQtBPhvqoasXW358CJssFj902IUj4WwBCuUhHjA80=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "देउ कुमार थेवे नेपाली कांग्रेस झापाका एक स्थापित सांगठनिक नेता हुन्। उनले २०७८ को १४ औं महाधिवेशनमा सभापति शेरबहादुर देउवा पक्षको तर्फबाट झापा जिल्ला सभापतिमा निर्वाचित भएर आफ्नो सांगठनिक पकड प्रमाणित गरेका थिए। झापा जस्तो राजनीतिक रूपमा महत्त्वपूर्ण जिल्लाको नेतृत्व सम्हाले पनि चुनावी राजनीतिमा भने उनी सफल देखिँदैनन्। २०७४ र २०७९ का दुवै आम निर्वाचनमा उनी झापा क्षेत्र नम्बर ४ बाट पराजित भएका छन्, जहाँ एमालेका लालप्रसाद साँवा लिम्बूले उनलाई दुवै पटक ठूलो मतान्तरले हराएका थिए। उनी लामो समयदेखि झापामै केन्द्रित रही राजनीति गरिरहेका छन्, त्यसैले उनलाई 'टुरिस्ट' उम्मेदवार मान्न सकिँदैन। यद्यपि, एमालेको गढ मानिने यस क्षेत्रमा उनले आफ्नो व्यक्तिगत प्रभाव बढाउन र मतदाता रिझाउन थप कसरत गर्नुपर्ने देखिन्छ। पार्टी भित्र उनको भूमिका बलियो रहे पनि आम मतदातामाझ चुनावी नतिजा निकाल्न नसक्नु उनको मुख्य कमजोरी हो।",
+  "overall_approval_rating": 60
+}

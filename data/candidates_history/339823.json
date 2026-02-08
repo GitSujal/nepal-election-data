@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339823,
+  "candidate_name": "बाल कुमार ताम्ली",
+  "candidate_party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_Election_Symbol_Nepal.png/220px-House_Election_Symbol_Nepal.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339823.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बाल कुमार ताम्लीले धनकुटा निर्वाचन क्षेत्र नं १ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "ताम्लीले धनकुटा निर्वाचन क्षेत्र नं १ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले ४६३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLXjUm-HTDuBI_AyIH7fIVBzJc55QGbvBdnIKhn_FCgiLh2_v4b8fIb5FoeovrhBBGFIr8vAIleAGOrZBn8DE75h5e6wr0foeSJsc_x_wIFM1ao-29yCIQgcy-_Fsn7irrw6j5p4go02X9UNqQ-dzBMPFGMC9GtGTj7mAthrrcAYTZIA==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लिम्बुवान राज्यको माग र पहिचानको राजनीति",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि संघीय लोकतान्त्रिक राष्ट्रिय मञ्चमा आवद्ध भई उनले पूर्वी नेपालमा लिम्बुवान स्वायत्त राज्यको माग गर्दै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPzuJhUT9zodSorvibvpR42fISZLMTjnXPg3VcYG93a1dPyDGPQHAqZgZextN81Oi_6Qm91ZAY-a0P4gRN8Z1cZdv6fHRO3RGLt9_rzwa3gxj_q8z4whWY0DB_c2DfLixn8K_Mn1plZxsvlJqAZubJu23nWNhNtMXGeLwGmewesTjpU5dXxeZ-EZSxQt-njfxNohNP4EU-P-TCN1iYf6VSstb7dY3F-RaNusI9G5VbnbUHyt9kpu-J9roFyLKhZnvcvBJC9euJzRYmll8LLMcyNzH4stz8my7-d3v1nb_7JoaxUgGObVLQedKwZAwmW9vK_jc1Q0y2MTNg4oWkaPJk482KjAFZezczFCrzr1piPCTgj68VkxbFxsU6Iqxeu6Kazd7Zgz6sMD8FJcXfLImKjZrux9BtdX0Pm9kIHp4kEdgOrxfs8yN2uoRh8i2CWtM2LQ0gtQAUszJCGHxObKWeyv5ot-Y3CuKFfl9KUCc0-OvZoWE=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बाल कुमार ताम्ली धनकुटाका एक स्थानीय राजनीतिज्ञ हुन् जो संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको तर्फबाट पहिचानवादी राजनीतिमा सक्रिय छन्। २०७४ र २०७९ का निर्वाचनहरूमा उनले धनकुटाबाट उम्मेदवारी दिएका थिए, जसले उनको राजनीतिक निरन्तरता र दलप्रतिको निष्ठा झल्काउँछ। यद्यपि, ठूला राजनीतिक दलहरू (नेकपा एमाले र नेपाली कांग्रेस) को वर्चस्व रहेको धनकुटामा उनको चुनावी प्रभाव भने निकै कम देखिएको छ। उनी मुख्यतया लिम्बुवान राज्यको माग र जनजातिका मुद्दाहरूलाई आफ्नो राजनीतिको मुख्य आधार बनाउँछन्। उनको छवि एक स्वच्छ र निष्ठावान कार्यकर्ताको रूपमा रहेको छ, तर चुनावी प्रतिस्पर्धामा उनले अझै पनि जनमत बटुल्न संघर्ष गरिरहेका छन्।",
+  "overall_approval_rating": 45
+}

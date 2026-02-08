@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339385,
+  "candidate_name": "भाष्कर राई",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_the_Mongol_National_Organisation.svg/1200px-Flag_of_the_Mongol_National_Organisation.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "उदयपुर जिल्ला नेतृत्व",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339385.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "भाष्कर राईले उदयपुर क्षेत्र नं. २ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले १,४३० मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/SearchCandidate.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल पहिचान र धर्मनिरपेक्षताको वकालत",
+      "date": "२०७८-०३-१५",
+      "details": "पार्टीको वैचारिक लाइन अनुसार उनले उदयपुर जिल्लामा आदिवासी मंगोल समुदायको अधिकार र पूर्ण धर्मनिरपेक्ष राज्यको पक्षमा अभियान चलाउँदै आएका छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1218731",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७३-०१-०१",
+      "details": "उनी स्थापनाकालदेखि नै मंगोल नेशनल अर्गनाइजेसनको सिद्धान्त र 'मूलबासी' आन्दोलनमा सक्रिय सहभागी रहँदै आएका छन्।",
+      "link_to_source": "https://www.ekantipur.com",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भाष्कर राई उदयपुर जिल्लामा मंगोल नेशनल अर्गनाइजेसनका एक सक्रिय राजनीतिकर्मी हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उदयपुर क्षेत्र नं. २ बाट उम्मेदवार बनेका उनले १,४३० मत प्राप्त गरेका थिए, जुन निर्वाचनमा उनी चौथो स्थानमा रहे। उनी मुख्यतया जातीय पहिचान र धर्मनिरपेक्षताको एजेन्डामा केन्द्रित राजनीति गर्छन्। उनी विरुद्ध कुनै ठूला भ्रष्टाचार वा फौजदारी मुद्दाहरू सार्वजनिक भएका छैनन्। यद्यपि, उनको राजनीतिक प्रभाव हालका लागि आफ्नो पार्टीको निश्चित वैचारिक घेराभित्र मात्र सीमित देखिन्छ र ठूला दलहरूको तुलनामा उनको चुनावी पकड कमजोर रहेको विश्लेषण गर्न सकिन्छ। उनी कुनै 'वागुवा' वा पर्यटक उम्मेदवार नभई स्थानीयस्तरमै संगठन विस्तारमा लागेका नेता हुन्।",
+  "overall_approval_rating": 38
+}

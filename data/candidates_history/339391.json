@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339391,
+  "candidate_name": "इन्द्र बहादुर रावल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Communist_Party_of_Nepal_%28United%29_Logo.svg/1024px-Communist_Party_of_Nepal_%28United%29_Logo.svg.png",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "पार्टी कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339391.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बर्दिया निर्वाचन क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल कम्युनिष्ट पार्टी (संयुक्त) को तर्फबाट उम्मेदवारी दिएका रावलले मात्र १११ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339391",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (संयुक्त) मा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि नेपाल कम्युनिष्ट पार्टी (संयुक्त) मा आबद्ध रही बर्दिया जिल्लामा पार्टीको सांगठनिक र वैचारिक काममा सक्रिय रहँदै आएका।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "इन्द्र बहादुर रावल बर्दिया जिल्लाका एक निष्ठावान तर कम प्रभावशाली राजनीतिक व्यक्तित्व हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा नेपाल कम्युनिष्ट पार्टी (संयुक्त) बाट उम्मेदवार बनेका उनले प्राप्त गरेको मत संख्या (१११) ले उनको निर्वाचन क्षेत्रमा जनाधार अत्यन्तै कमजोर रहेको पुष्टि गर्छ। उनी कुनै ठूला राजकीय पदमा पुगेको वा विवादित काण्डहरूमा मुछिएको इतिहास छैन। मुख्यधारका कम्युनिष्ट पार्टीहरूको लहरका बीच पनि एउटा सानो कम्युनिष्ट घटकको प्रतिनिधित्व गर्नुले उनको वैचारिक दृढता झल्काउँछ, तर चुनावी राजनीतिको प्रतिस्पर्धामा उनको उपस्थिति नगण्य देखिएको छ। स्थानीय स्तरमा उनको सामान्य पहिचान रहे तापनि राष्ट्रिय राजनीतिमा उनको भूमिका सीमित छ।",
+  "overall_approval_rating": 25
+}

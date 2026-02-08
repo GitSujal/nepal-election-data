@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341260,
+  "candidate_name": "गंगा प्रसाद ज्ञवाली",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/CPN-M-logo.png",
+  "candidates_current_position": "केन्द्रिय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रिय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341260.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "constituency": "२ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी पूर्व क्षेत्र नम्बर २ (ख) बाट प्रदेश सभा सदस्यको उम्मेदवार बनेका ज्ञवाली ५,७८७ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल बैंक लिमिटेडको अध्यक्षमा नियुक्ति",
+      "date": "२०७९-०५-०१",
+      "details": "नेपाल सरकारले ज्ञवालीलाई नेपालको पहिलो बैंक, नेपाल बैंक लिमिटेडको सञ्चालक समिति अध्यक्षमा नियुक्त गरेको थियो।",
+      "link_to_source": "https://sharesansar.com/newsdetail/nepal-bank-welcomes-new-chairman-mr-ganga-prasad-gyawali-new-chair-receives-his-oath-from-nrb-governor-2022-08-17",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक नियुक्तिमा विवाद",
+      "date": "२०७९-०५-१५",
+      "details": "एउटा सक्रिय राजनीतिक कार्यकर्तालाई सरकारी बैंकको अध्यक्ष बनाइएको भन्दै उनको नियुक्तिलाई लिएर सञ्चारमाध्यममा केही आलोचना भएको थियो।",
+      "link_to_source": "https://www.setopati.com/kinmel/banking/279813",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (माओवादी केन्द्र) को केन्द्रिय सदस्य",
+      "date": "२०७८-१०-१५",
+      "details": "पार्टीको आठौं महाधिवेशनपश्चात ज्ञवालीलाई माओवादी केन्द्रको केन्द्रिय सदस्यको रूपमा चयन गरिएको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2022/01/02/164112631558586043.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षक संगठनको नेतृत्व",
+      "date": "२०६५-०१-१०",
+      "details": "ज्ञवालीले लामो समय नेपाल राष्ट्रिय शिक्षक संगठन (माओवादी निकट) को केन्द्रीय तहमा रहेर शिक्षकहरूको हकहितका लागि काम गरेका थिए।",
+      "link_to_source": "https://nepalbank.com.np/list-of-board-chairperson",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गंगा प्रसाद ज्ञवाली नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) का एक अनुभवी र वैचारिक नेता हुन्। उनको मुख्य पहिचान शिक्षक राजनीति र बौद्धिक क्षेत्रबाट बनेको हो। २०७९ को प्रदेश सभा निर्वाचनमा नवलपरासी पूर्वबाट उम्मेदवार बनेका उनी चुनावी प्रतिस्पर्धामा विजयी हुन सकेनन्, जसले उनको स्थानीय चुनावी पकड कमजोर रहेको देखाउँछ। उनीमाथि नेपाल बैंकको अध्यक्ष नियुक्त हुँदा 'राजनीतिक भागवण्डा' को आरोप लागे पनि उनको व्यक्तिगत छवि भने निष्कलंक रहेको पाइन्छ। पार्टीभित्र उनी अध्यक्ष पुष्पकमल दाहाल 'प्रचण्ड' को विश्वासपात्र मानिन्छन्। चुनावी राजनीतिमा सफल हुन उनले आफ्नो सांगठनिक प्रभाव अझ बलियो बनाउनुपर्ने देखिन्छ।",
+  "overall_approval_rating": 55
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341285,
+  "candidate_name": "राजेश चन्द",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "पूर्व महासेनानी (नेपाली सेना)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341285.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दार्चुला",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "राजेश चन्दले दार्चुला क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि राप्रपाको तर्फबाट प्रतिस्पर्धा गरेका थिए। उनी पराजित भए पनि पार्टीको संगठन विस्तारमा महत्वपूर्ण भूमिका खेलेका थिए।",
+      "link_to_source": "https://ratopati.com/story/271813/2022/10/9/rpp-candidate-list",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपा केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७८-०८-१५",
+      "details": "सैनिक सेवाबाट अवकाश पाएपछि उनी राष्ट्रिय प्रजातन्त्र पार्टीमा प्रवेश गरी केन्द्रीय सदस्यको जिम्मेवारीमा रहेका छन्।",
+      "link_to_source": "https://www.khabarhub.com/2022/11/447432/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली सेनाबाट सम्मानजनक अवकाश",
+      "date": "२०७७-०३-१५",
+      "details": "राजेश चन्दले नेपाली सेनामा महासेनानी (Colonel) पदबाट लामो सेवा पछि सम्मानजनक अवकाश प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341285",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राजेश चन्द राष्ट्रिय प्रजातन्त्र पार्टीका एक उदीयमान नेता र नेपाली सेनाका अवकाशप्राप्त पूर्व महासेनानी हुन्। २०७९ को निर्वाचनमा उनले दार्चुलाबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जसमा उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको थियो। लामो समय सैनिक सेवामा रहेका कारण जिल्ला बाहिर बसोबास गरेकाले उनलाई स्थानीय स्तरमा पकड बनाउन केही चुनौती परेको देखिन्छ। यद्यपि, उनको अनुशासित पृष्ठभूमि र स्वच्छ छविले गर्दा पार्टीभित्र उनी एक बौद्धिक र सक्षम नेतृत्वको रूपमा चिनिन्छन्। उनी हाल राप्रपाको केन्द्रीय सदस्यका रूपमा सक्रिय छन् र राजतन्त्र तथा हिन्दु राष्ट्रको एजेन्डालाई दार्चुलामा बलियो बनाउने प्रयासमा छन्। चुनावी नतिजा प्रतिकुल रहे पनि उनको व्यावसायिक पृष्ठभूमिले उनलाई एक गम्भीर उम्मेदवारको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 58
+}

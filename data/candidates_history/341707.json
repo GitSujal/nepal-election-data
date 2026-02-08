@@ -1,0 +1,95 @@
+{
+  "candidate_id": 341707,
+  "candidate_name": "ऋषीराज धमला",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Aam_Janata_Party.svg/1200px-Flag_of_Aam_Janata_Party.svg.png",
+  "candidates_current_position": "अध्यक्ष, रिपोर्टर्स क्लब नेपाल",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा प्रतिनिधि सभा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341707.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "N/A"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "N/A"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "४",
+      "result": "N/A",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा प्रवेश र चुनावी उम्मेदवारी",
+      "date": "२०८२-१०-०६",
+      "details": "पत्रकारिता छोडेर सक्रिय राजनीतिमा प्रवेश गर्दै प्रभु साह नेतृत्वको आम जनता पार्टीबाट रौतहट-४ का लागि उम्मेदवारी दर्ता।",
+      "link_to_source": "https://www.khabarhub.com/2026/01/20/341707/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल एयरलाइन्सको विमानभित्र सुरक्षा प्रोटोकल उल्लंघन",
+      "date": "२०७८-१२-२०",
+      "details": "प्रधानमन्त्री शेरबहादुर देउवा भारतबाट फर्कने क्रममा विमान अवतरण नहुँदै सुरक्षा घेरा तोडेर बिजनेस क्लासमा प्रवेश गरी अन्तर्वार्ता लिन खोजेकोमा विवाद।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/04/05/rishi-dhamala-goes-bizarre-inside-nac-aircraft/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल बार एसोसिएसनको बैठकमा अभद्र व्यवहार",
+      "date": "२०७८-०८-१५",
+      "details": "वकिलहरूको आन्तरिक बैठक चलिरहेको समयमा बिना अनुमति क्यामेरासहित प्रवेश गरी पत्रकारिताको मर्यादा विपरीत काम गरेको आरोप।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/04/05/rishi-dhamala-goes-bizarre-inside-nac-aircraft/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्राइम टाइम्स टेलिभिजनको स्थापना",
+      "date": "२०७४-०१-०१",
+      "details": "आफ्नै नेतृत्वमा प्राइम टाइम्स एचडी टेलिभिजन सञ्चालनमा ल्याई 'जनता जान्न चाहन्छन्' कार्यक्रममार्फत चर्चामा।",
+      "link_to_source": "https://punote.com/rishi-dhamala-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "हातहतियार तथा खरखजाना मुद्दामा पक्राउ",
+      "date": "२०६५-१०-२१",
+      "details": "सशस्त्र भूमिगत समूह 'रणवीर सेना' सँग सम्बन्ध रहेको र फिरौती संकलनमा सहयोग गरेको आरोपमा प्रहरीद्वारा पक्राउ।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/seven-year-jail-sought-for-dhamala-two-others",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अदालतबाट सफाइ र रिहाइ",
+      "date": "२०६६-०१-१०",
+      "details": "पाटन पुनरावेदन अदालतले पर्याप्त प्रमाण नपुगेको भन्दै उनलाई थुनामुक्त गर्न आदेश दिएको।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/seven-year-jail-sought-for-dhamala-two-others",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रिपोर्टर्स क्लब नेपालको स्थापना",
+      "date": "२०५५-०१-१७",
+      "details": "नेपालको राजनीति र पत्रकारिताको साझा मञ्चको रूपमा रिपोर्टर्स क्लब स्थापना गरी राजनीतिक बहसको सुरुवात।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rishi_Dhamala",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ऋषीराज धमला नेपालका एक अत्यन्त चर्चित तर उत्तिकै विवादित सञ्चारकर्मी हुन्। धादिङमा जन्मिएर काठमाडौंलाई कार्यथलो बनाएका उनी रौतहट-४ बाट चुनाव लड्नुले उनलाई 'पर्यटक उम्मेदवार' को सूचीमा राखेको छ। उनको पत्रकारिता शैली आक्रामक र सनसनीपूर्ण हुने भए पनि व्यावसायिक नैतिकताका प्रश्नहरू बारम्बार उठ्ने गरेका छन्। विशेषगरी सन् २००९ को गिरफ्तारी र सन् २०२२ को विमान सुरक्षा उल्लंघनका घटनाले उनको सार्वजनिक छविमा ठूलो धक्का पुऱ्याएको छ। प्रभु साह नेतृत्वको आम जनता पार्टीसँगको सहकार्यलाई धेरैले राजनीतिक अवसरवादको रूपमा व्याख्या गरेका छन्। रौतहटको स्थानीय राजनीतिमा उनको उपस्थिति नयाँ र बाहिरी भएकाले उनलाई मतदाताको मन जित्न निकै कठिन देखिन्छ। उनको चुनाव प्रचारप्रसार सामाजिक सञ्जालमा भाइरल भए पनि वास्तविक चुनावी नतिजामा त्यसको प्रभाव न्यून हुने विश्लेषण गरिएको छ।",
+  "overall_approval_rating": 32
+}

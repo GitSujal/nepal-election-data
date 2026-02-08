@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339324,
+  "candidate_name": "उत्तम साखकर्मी",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Nepal_Workers_and_Peasants_Party.svg/1200px-Flag_of_Nepal_Workers_and_Peasants_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "पार्टी संगठक/कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339324.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "धनकुटाबाट प्रतिनिधिसभामा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल मजदुर किसान पार्टीका तर्फबाट धनकुटा जिल्लाको एकमात्र निर्वाचन क्षेत्रमा प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आफैंलाई मत हाल्न नपाउने 'पर्यटक उम्मेदवार'",
+      "date": "२०७९-०८-०४",
+      "details": "साखकर्मीको मतदाता नामावली धनकुटामा नरहेका कारण उनले निर्वाचनमा आफूलाई नै मतदान गर्न पाएनन्, जसले गर्दा उनलाई स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को रुपमा हेरियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1205166",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टीको विचार विस्तारमा सक्रियता",
+      "date": "२०७४-०७-०१",
+      "details": "नेपाल मजदुर किसान पार्टीको विचारधारा जिल्ला तहमा पुर्याउन लामो समयदेखि पार्टी कार्यकर्ताको रुपमा सक्रिय रहेका।",
+      "link_to_source": "https://nwpp.org.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "उत्तम साखकर्मी नेपाल मजदुर किसान पार्टीका एक निष्ठावान कार्यकर्ता हुन्, जसले २०७९ को प्रतिनिधिसभा निर्वाचनमा धनकुटाबाट प्रतिस्पर्धा गरेका थिए। उनी धनकुटाका लागि 'पर्यटक उम्मेदवार' (Tourist Candidate) हुन्, किनभने उनको मतदाता नामावली धनकुटा बाहिर रहेको थियो र उनले आफैंलाई समेत मतदान गर्न पाएका थिएनन्। नेपाल मजदुर किसान पार्टीले आफ्नो चुनावी उपस्थिति देशभर देखाउने रणनीतिका कारण उनलाई धनकुटा पठाएको देखिन्छ। निर्वाचनमा उनले निकै कम अर्थात् १३० मत मात्र प्राप्त गरेका थिए, जसले उनको स्थानीय प्रभाव अत्यन्त कमजोर रहेको पुष्टि गर्दछ। उनी विरुद्ध कुनै ठूला घोटाला वा भ्रष्टाचारका मुद्दाहरू नभए तापनि चुनावी राजनीतिमा उनको हैसियत एक सांकेतिक उम्मेदवारको रूपमा मात्र सीमित छ।",
+  "overall_approval_rating": 25
+}

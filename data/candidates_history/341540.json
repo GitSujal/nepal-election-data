@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341540,
+  "candidate_name": "दील बहादुर कामी",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_of_Aam_Janata_Party.png/220px-Election_Symbol_of_Aam_Janata_Party.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341540.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रोल्पा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "दील बहादुर कामीले रोल्पा क्षेत्र नं. १ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://bhugolpark.com/candidate/detail/341540",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०७-१५",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई उनले रोल्पामा पार्टीको संगठन विस्तारमा भूमिका खेलेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/dil-bahadur-kami-341540",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलित अधिकार र सामाजिक कार्य",
+      "date": "२०७५-०१-०१",
+      "details": "रोल्पाको रुन्टीगढी क्षेत्रमा स्थानीय सामाजिक कार्यकर्ताको रूपमा दलित समुदायको हकहितका लागि सक्रिय रहेका थिए।",
+      "link_to_source": "https://bhugolpark.com/candidate/detail/341540",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "दील बहादुर कामी रोल्पा जिल्लाका एक स्थानीय नेता हुन् जसले २०७९ को निर्वाचनमा प्रभु साह नेतृत्वको आम जनता पार्टीबाट प्रतिनिधि सभामा प्रतिस्पर्धा गरेका थिए। रोल्पा माओवादी केन्द्रको बलियो गढ मानिने जिल्ला हो, जहाँ उनले नयाँ पार्टीबाट दलित समुदायको प्रतिनिधित्व गर्दै चुनावी मैदानमा उत्रिने साहस देखाएका थिए। यद्यपि निर्वाचनमा उनको मत परिणाम निकै न्यून रह्यो, तर एउटा वैकल्पिक शक्तिको रूपमा उनले स्थानीय तहमा आफ्नो उपस्थिति जनाएका छन्। उनको राजनीतिक यात्रा मुख्यतया स्थानीय मुद्दा र दलित अधिकारमा केन्द्रित देखिन्छ। कुनै ठूलो राजनीतिक काण्ड वा विवादमा उनको नाम जोडिएको नपाइएकाले उनी एक स्वच्छ छविका स्थानीय कार्यकर्ताका रूपमा परिचित छन्।",
+  "overall_approval_rating": 42
+}

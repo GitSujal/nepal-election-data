@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342344,
+  "candidate_name": "शेष नारायण शुक्ल",
+  "candidate_party": "नेपाल जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wheel_symbol_Nepal_Janata_Party.png/200px-Wheel_symbol_Nepal_Janata_Party.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342344.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "कपिलबस्तु क्षेत्र नम्बर २ बाट नेपाल जनता पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342344",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक सेवामा संलग्नता",
+      "date": "२०७८-०१-०१",
+      "details": "कपिलबस्तु क्षेत्रमा युवा समाजसेवीको रूपमा पहिचान बनाएका शुक्ल विभिन्न स्थानीय सामाजिक क्रियाकलापमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342344",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शैक्षिक पृष्ठभूमि",
+      "date": "२०६५-०३-१५",
+      "details": "उनले रुपन्देहीको भैरहवा नमुना उच्च माध्यमिक विद्यालयबाट १०+२ सम्मको शिक्षा हासिल गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342344",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शेष नारायण शुक्ल कपिलबस्तु जिल्लाका एक युवा राजनीतिकर्मी हुन्। उनले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा नेपाल जनता पार्टीको तर्फबाट कपिलबस्तु क्षेत्र नं. २ मा प्रतिस्पर्धा गरेका थिए। उनी मुख्यतया तराई-मधेशको राजनीतिमा सक्रिय साना दलको प्रतिनिधित्व गर्छन्। निर्वाचनमा उनको उपस्थिति उल्लेख्य नरहे तापनि स्थानीय स्तरमा युवा समाजसेवीका रूपमा चिनिन्छन्। उनले भारी मत ल्याउन नसक्नुमा स्थापित ठूला दलहरूको वर्चस्व र उनको दलको सांगठनिक कमजोरी मुख्य कारण देखिन्छ। उनको विरुद्धमा हालसम्म कुनै ठूला भ्रष्टाचार वा फौजदारी अभियोगहरू फेला परेका छैनन्, जसले गर्दा उनको छवि एक स्वच्छ युवा उम्मेदवारको रूपमा रहेको छ।",
+  "overall_approval_rating": 35
+}

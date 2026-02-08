@@ -1,0 +1,79 @@
+{
+  "candidate_id": 339589,
+  "candidate_name": "खगेन्द्र सुनार",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/assets/img/logo.png",
+  "candidates_current_position": "दलित अधिकार अभियन्ता तथा नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339589.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बाँके",
+      "constituency": "क्षेत्र नं. २",
+      "result": "N/A",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन आचारसंहिता उल्लंघन स्पष्टीकरण",
+      "date": "२०८२-१०-२०",
+      "details": "२०८२ को निर्वाचन प्रचारप्रसारका क्रममा निर्वाचन आचारसंहिता उल्लंघन गरेको भन्दै निर्वाचन आयोगले स्पष्टीकरण सोधेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM7wACnxtxwNAO7nHOdKfoadOa0PQpv09qMvGMgvllO6FZn9d4Xn2WpCMFXDXcKK7voVcXnN9TOovH_Vi4EkFvEneRvZ2LI_zzUTJVD_qxXc64B4Vpvz8Xl5X8UOz6_Wy9F9ksGCLl34sT",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मन्त्रिमण्डलमा नियुक्ति (सांकेतिक/दाबी)",
+      "date": "२०८२-०७-१०",
+      "details": "दलित अधिकारको आन्दोलन र राजनीतिक सक्रियतापछि उनलाई सामाजिक सुरक्षा र रोजगार मन्त्रीका रूपमा चर्चा र नियुक्ति गरिएको दाबी।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeguxfGtcQXt56jnSPvCSKecvHYkYFj9qQOk6SB2TZqs_PzupfJy8eDZKkyi0NcmQ8RexguttOI8x7TzKlqh4-LaPsnG4ruurSLoVY58-TDx7Tf4NxY9szYpN9djSowGHJ2IWsIguD5jKoElIm8GQil2vYo4MbGejDHDn1-jCv86A=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "'दलितलाई खै?' आन्दोलन र ४५ दिने धर्ना",
+      "date": "२०८१-०६-०४",
+      "details": "काठमाडौंको माइतीघरमा शरीरमा फलामको साङ्लो बाँधेर दलित प्रतिनिधित्वको माग गर्दै ४५ दिन लामो शान्तिपूर्ण धर्ना सम्पन्न।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMmrOe55KvYXRO3W75WCck1F9KaVIITtMHhsvcanFVZuSlQWdtvYfTdOxFbzfiruFkJL9YvWmCmDaz8Nsi_f-TFGyeb5VFn1BzqHUjOzpo3rSlP18DlV7tbB546pFJPPcL9YWd6cAEuxGq7yA2NrDa9nBm",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसद भवन प्रवेश प्रयासमा पक्राउ",
+      "date": "२०८१-०४-२९",
+      "details": "दलित प्रतिनिधित्व सुनिश्चित गर्न माग गर्दै निषेधित क्षेत्र तोडेर संघीय संसद भवन छिर्न खोज्दा प्रहरीद्वारा पक्राउ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8x1tUEYTgtYDP0tvTsCm5nZhsWcA8nQuo7maycZ9HizcmlUJQPi76J8yndkM0NTQOU-L__28UqnYc9n_vHWGJAu_-Y1dBCoa63oFhhFM2AdOfwpa_LSQyCdi38J15k6uN8xn12KYD",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०६-०५",
+      "details": "वैकल्पिक राजनीतिलाई बलियो बनाउन विवेकशील साझा पार्टी परित्याग गरी रवि लामिछाने नेतृत्वको रास्वपामा प्रवेश।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQHAM62pZ3gXS7Ao4H1Wzaa8rpFpmc0BmZeBY4NeL8BceCrfZcv2UUTBavLg7HGjapMOLzbOVr22MX_Cj2it9BqDbJMNADQEn3CX8Gb9oYNr6soQ5IIlx5F7CdahjIqtkvTLN72OCEIme5TV3Lf-yM4ka7KsDvGmq0goUnx8c6mhPXjQOfHQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझाबाट राजीनामा",
+      "date": "२०७९-०६-०१",
+      "details": "विवेकशील साझा पार्टीको केन्द्रीय सदस्य पदबाट राजीनामा दिई नयाँ राजनीतिक यात्राको घोषणा।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQHAM62pZ3gXS7Ao4H1Wzaa8rpFpmc0BmZeBY4NeL8BceCrfZcv2UUTBavLg7HGjapMOLzbOVr22MX_Cj2it9BqDbJMNADQEn3CX8Gb9oYNr6soQ5IIlx5F7CdahjIqtkvTLN72OCEIme5TV3Lf-yM4ka7KsDvGmq0goUnx8c6mhPXjQOfHQ==",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रुमम घटनाको न्यायका लागि आन्दोलन",
+      "date": "२०७७-०२-१३",
+      "details": "रुकुम पश्चिममा भएको नवराज बिकसहित ६ जनाको हत्याकाण्ड विरुद्ध न्याय माग्दै कर्णाली र काठमाडौंमा आन्दोलनको नेतृत्व।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeguxfGtcQXt56jnSPvCSKecvHYkYFj9qQOk6SB2TZqs_PzupfJy8eDZKkyi0NcmQ8RexguttOI8x7TzKlqh4-LaPsnG4ruurSLoVY58-TDx7Tf4NxY9szYpN9djSowGHJ2IWsIguD5jKoElIm8GQil2vYo4MbGejDHDn1-jCv86A=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "खगेन्द्र सुनार नेपालको समकालीन राजनीतिमा एक प्रभावशाली दलित अधिकार अभियन्ता र युवा नेताका रूपमा उदाएका छन्। उनी विशेष गरी 'दलितलाई खै?' अभियान र शरीरमा साङ्लो बाँधेर गरिने प्रतिकात्मक विरोध प्रदर्शनका कारण राष्ट्रिय रूपमा चर्चामा आए। सुर्खेतका स्थायी बासिन्दा भए पनि बाँके क्षेत्र नम्बर २ बाट राष्ट्रिय स्वतन्त्र पार्टीको उम्मेदवार बनेकाले उनलाई स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को आरोप लाग्ने गरेको छ। उनको मुख्य राजनीतिक शक्ति भनेको उत्पीडित समुदायको आवाज उठाउनु र युवाहरू माझको लोकप्रियता हो। उनी विवेकशील साझाबाट रास्वपामा प्रवेश गरेका हुन्, जसले उनको वैकल्पिक राजनीतिप्रतिको झुकाव देखाउँछ। चुनावी नतिजामा उनको 'पर्यटक' छवि चुनौतीपूर्ण भए पनि उनको सामाजिक अभियानले उनलाई एक निष्कलंक र जुझारु नेताको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 72
+}

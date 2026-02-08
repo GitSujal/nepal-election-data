@@ -1,0 +1,127 @@
+{
+  "candidate_id": 342364,
+  "candidate_name": "सर्वेन्द्र खनाल",
+  "candidate_party": "राष्ट्रिय परिवर्तन पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x_2_6z_q9x_x_x_x",
+  "candidates_current_position": "पूर्व प्रहरी महानिरीक्षक",
+  "candidates_current_position_in_party": "केन्द्रीय नेतृत्व (समुन्नत नेपाल पार्टीका संस्थापक अध्यक्ष)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342364.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य (उपनिर्वाचन)",
+      "district": "तनहुँ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "४",
+      "result": "N/A",
+      "party": "राष्ट्रिय परिवर्तन पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "बारा-४ बाट उम्मेदवारी दर्ता",
+      "date": "२०८०-११-२२",
+      "details": "एमाले परित्याग गरी आफ्नै नेतृत्वमा 'समुन्नत नेपाल पार्टी' गठन गरेपछि खनालले राष्ट्रिय परिवर्तन पार्टीसँगको सहकार्यमा बारा क्षेत्र नं. ४ बाट उम्मेदवारी दिएका हुन्।",
+      "link_to_source": "https://www.ratopati.com/story/415512/sarvendra-khanal",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (एमाले) परित्याग",
+      "date": "२०८०-०९-२०",
+      "details": "पार्टीभित्र उपेक्षा गरिएको महसुस गर्दै खनालले एमालेको साधारण सदस्यबाट समेत राजीनामा दिएर स्वतन्त्र रहने घोषणा गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2025/01/05/former-igp-sarbendra-khanal-quits-cpn-uml",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "तनहुँ-१ उपनिर्वाचनमा पराजय",
+      "date": "२०८०-०१-१०",
+      "details": "तनहुँ-१ को उपनिर्वाचनमा नेकपा (एमाले) का उम्मेदवार खनाल भारी मतान्तरले पराजित हुँदै तेस्रो स्थानमा रहेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079bi.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "काठमाडौं-६ प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "आम निर्वाचनमा काठमाडौं क्षेत्र नं. ६ बाट एमालेको टिकटमा चुनाव लडेका खनाल राष्ट्रिय स्वतन्त्र पार्टीका शिशिर खनालसँग पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election-result-kathmandu-6-2079/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एमाले) मा प्रवेश",
+      "date": "२०७९-०६-०६",
+      "details": "प्रहरी सेवाबाट अवकाश भएको केही समयपछि एमाले अध्यक्ष केपी शर्मा ओलीले खनाललाई पार्टीमा स्वागत गरेका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/282464",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सांसद सुरेन्द्र यादव अपहरण प्रकरण",
+      "date": "२०७७-०१-१०",
+      "details": "तत्कालीन समाजवादी पार्टीका सांसद सुरेन्द्र यादवलाई महोत्तरीबाट काठमाडौं ल्याएर होटल मेरियटमा राखेको भन्दै खनाल विरुद्ध अपहरणको जाहेरी परेको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/complaint-lodged-at-district-attorneys-office-against-basnet-shrestha-and-former-igp-khanal",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रहरी महानिरीक्षकबाट अवकाश",
+      "date": "२०७६-१०-२८",
+      "details": "३० वर्षे सेवा अवधि पुरा गरी नेपाल प्रहरीको २६ औं महानिरीक्षकको रुपमा खनालले अवकाश पाएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Sarbendra_Khanal",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्मला पन्त हत्याकाण्ड अनुसन्धानमा आलोचना",
+      "date": "२०७५-०४-१०",
+      "details": "कञ्चनपुरकी निर्मला पन्तको बलात्कार र हत्याकाण्डको सफल अनुसन्धान गर्न नसकेको भन्दै महानिरीक्षक खनालको व्यापक आलोचना भएको थियो।",
+      "link_to_source": "https://www.nepallivetoday.com/2023/04/11/commentary-is-retired-police-chief-sarbendra-khanals-political-aspirations-a-shield-to-divert-allegations/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रहरी महानिरीक्षकमा नियुक्ति",
+      "date": "२०७४-१२-२७",
+      "details": "मन्त्रिपरिषद्को निर्णय अनुसार खनाललाई नेपाल प्रहरीको सर्वोच्च पद महानिरीक्षकमा नियुक्त गरिएको थियो।",
+      "link_to_source": "https://kathmandupost.com/national/2018/04/10/sarbendra-khanal-appointed-nepal-police-ig-sailendra-khanal-new-afp-chief",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "फुटबल म्याच फिक्सिङ अनुसन्धान",
+      "date": "२०७२-०६-२७",
+      "details": "अपराध महाशाखाको प्रमुख हुँदा खनालले राष्ट्रिय फुटबल टोलीका खेलाडीहरू संलग्न रहेको म्याच फिक्सिङको पर्दाफास गरेका थिए।",
+      "link_to_source": "https://www.huffpost.com/entry/sarbendra-from-nepal-proves-cop-can-be-hero_b_11105474",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गुण्डा नाइके कुमार घैंटे इन्काउन्टर",
+      "date": "२०७२-०५-०३",
+      "details": "खनालको नेतृत्वमा काठमाडौंको सामाखुसीमा भएको इन्काउन्टरमा गुण्डा नाइके कुमार घैंटे मारिएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Sarbendra_Khanal",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सर्वेन्द्र खनाल नेपाल प्रहरीका पूर्व महानिरीक्षक हुन् जसले प्रहरी संगठनमा रहँदा गुण्डागर्दी नियन्त्रण र म्याच फिक्सिङ अनुसन्धानमा उल्लेख्य सफलता पाएका थिए। तर, उनको राजनीतिक यात्रा भने अत्यन्त अस्थिर र विवादास्पद रहेको देखिन्छ। २०७९ को आम निर्वाचनमा काठमाडौं-६ बाट पराजित भएका खनाल त्यसको केही महिनामै तनहुँ-१ को उपनिर्वाचनमा पनि भारी मतान्तरले पराजित भए। अहिले उनी बारा-४ मा 'टुरिस्ट क्यान्डिडेट' का रुपमा उम्मेदवार बनेका छन्, जसले उनको राजनीतिक अस्थिरतालाई झल्काउँछ। सांसद सुरेन्द्र यादव अपहरण काण्ड र निर्मला पन्त हत्याकाण्डको फितलो अनुसन्धान जस्ता गम्भीर आरोपहरूले उनको छविमा नकारात्मक असर पारेको छ। एमाले जस्तो ठूलो दल छोडेर नयाँ र सानो दलबाट बारामा चुनाव लड्नुले उनको चुनावी पकड कमजोर रहेको संकेत गर्दछ।",
+  "overall_approval_rating": 32
+}

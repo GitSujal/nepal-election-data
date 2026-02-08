@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340692,
+  "candidate_name": "ढोलराम बारकोटी",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_the_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला कार्यसमिति सदस्य, सर्लाही",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340692.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. २ (ख)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा सर्लाही जिल्लाको निर्वाचन क्षेत्र नं. २ (ख) बाट राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट प्रदेश सभा सदस्यको लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/Candidate_Detail.aspx?id=340692",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपाको एकीकरण र सक्रियता",
+      "date": "२०७८-०८-१९",
+      "details": "राजेन्द्र लिङ्देन नेतृत्वमा पार्टी आएपछि सर्लाहीमा राप्रपाको संगठन विस्तारमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://rpp.org/leaders/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी विभाजन र आवद्धता",
+      "date": "२०७४-०४-२१",
+      "details": "राप्रपा विभाजन हुँदा तत्कालीन राप्रपा (प्रजातान्त्रिक) र पछि राप्रपा (संयुक्त) मा आबद्ध भई राष्ट्रवादी राजनीतिक धारमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2017/08/06/20170806141315.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ढोलराम बारकोटी सर्लाही जिल्लाका स्थानीय राप्रपा नेता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले सर्लाही २ (ख) बाट ५६९ मत प्राप्त गरेका थिए, जुन निर्वाचन परिणाम अनुसार निकै न्यून हो। मधेस प्रदेशमा राप्रपाको प्रभाव कमजोर रहेको क्षेत्रमा उनको उम्मेदवारीले पार्टीको उपस्थिति मात्र देखाएको देखिन्छ। उनी पार्टीका विभिन्न घटकहरू (राप्रपा प्रजातान्त्रिक, संयुक्त, राष्ट्रवादी) विभाजन र एकताको चरणमा स्थिर रहँदै आएका छन्। उनको राजनीतिक प्रभाव राष्ट्रिय स्तरमा भन्दा स्थानीय स्तरमा मात्र सिमित देखिन्छ र कुनै ठूला उपलब्धि वा भ्रष्टाचारका काण्डहरूमा उनको नाम जोडिएको भेटिएको छैन।",
+  "overall_approval_rating": 38
+}

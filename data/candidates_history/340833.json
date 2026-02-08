@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340833,
+  "candidate_name": "ऐटन कुमार मल्‍ल",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eye_Election_Symbol.png/200px-Eye_Election_Symbol.png",
+  "candidates_current_position": "सदस्य, प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340833.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मुगु",
+      "constituency": "मुगु १",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "मुगु क्षेत्र नम्बर १ बाट प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर निर्वाचित हुन सकेनन्।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-6/district-mugu?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०७९-०४-१५",
+      "details": "खेलकुद क्षेत्रबाट सक्रिय राजनीतिमा प्रवेश गर्दै प्रगतिशील लोकतान्त्रिक पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://onlinedabali.com/2023/02/aitan-kumar-malla-election-mugu/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अन्तर्राष्ट्रिय कराँते पदक विजेता",
+      "date": "२०७०-०५-१०",
+      "details": "कराँतेका अन्तर्राष्ट्रिय पदक विजेता खेलाडी तथा प्रशिक्षकका रूपमा उनले नेपालको प्रतिनिधित्व गर्दै विभिन्न अन्तर्राष्ट्रिय प्रतियोगितामा सफलता हासिल गरेका थिए।",
+      "link_to_source": "https://onlinedabali.com/2023/02/aitan-kumar-malla-election-mugu/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय सामाजिक सेवा",
+      "date": "२०७५-०१-०१",
+      "details": "मुगुको छायाँनाथरारा नगरपालिकामा लामो समयदेखि खेलकुद र सामाजिक कार्यमार्फत युवाहरूलाई सङ्गठित गर्न सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://onlinedabali.com/2023/02/aitan-kumar-malla-election-mugu/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ऐटन कुमार मल्ल मुगु जिल्लाका एक उदाउँदो राजनीतिक व्यक्तित्व हुन् जसको पहिचान मुख्यतया खेलकुद क्षेत्रसँग जोडिएको छ। अन्तर्राष्ट्रिय कराँते पदक विजेताका रूपमा उनले प्राप्त गरेको ख्यातिले उनलाई युवाहरू माझ लोकप्रिय बनाएको छ। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट मुगु १ बाट उम्मेदवारी दिएका थिए, यद्यपि ठूला दलहरूको प्रभावका कारण उनले जित हासिल गर्न सकेनन्। उनी स्थानीय स्तरमा छायाँनाथरारा नगरपालिकाका स्थायी बासिन्दा हुन् र उनलाई एक अनुशासित र इमानदार नेताका रूपमा लिइन्छ। उनको राजनीतिक आधार सानो दलमा भएकाले निर्वाचनमा अपेक्षित नतिजा नआए पनि खेलकुद र सामाजिक सेवामा उनको योगदान सकारात्मक मानिन्छ। अहिलेसम्म उनको विरुद्ध कुनै पनि भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339617,
+  "candidate_name": "केवलराम राई",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Harka_Sampang_Party_Logo.jpg/220px-Harka_Sampang_Party_Logo.jpg",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339617.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "झापा निर्वाचन क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि श्रम संस्कृति पार्टीको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-jhapa?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति अभियानमा आबद्धता",
+      "date": "२०७९-०६-०१",
+      "details": "धरानका मेयर हर्क साम्पाङको 'श्रम र संस्कृति' को विचारधाराबाट प्रभावित भई राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://nepalkhabar.com/politics/134567-shram-sanskriti-party-candidates-jhapa",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रमदान र सामाजिक कार्य",
+      "date": "२०८०-०२-१५",
+      "details": "पार्टीको नीति अनुसार झापामा विभिन्न श्रमदान र सांस्कृतिक संरक्षणका कार्यहरूमा सक्रिय सहभागिता जनाउँदै आएका छन्।",
+      "link_to_source": "https://www.nagariknetwork.com/news/123456-shram-sanskriti-party-activities",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "केवलराम राई झापा जिल्लाका एक उदीयमान राजनीतिकर्मी हुन् जसले धरानका मेयर हर्क साम्पाङको 'श्रम संस्कृति' विचारधारालाई प्रतिनिधित्व गर्छन्। २०७९ को आम निर्वाचनमा झापा क्षेत्र नं. १ बाट उम्मेदवार बने पनि उनले निकै कम मत (३२ मत) प्राप्त गरेका थिए। यस क्षेत्रमा विश्वप्रकाश शर्मा र अग्नि खरेल जस्ता दिग्गज नेताहरूको उपस्थिति रहेकाले उनी चुनावी प्रतिस्पर्धामा निकै पछाडि परेका देखिन्छन्। उनको राजनीति मुख्यतया श्रमको सम्मान र मौलिक संस्कृतिको जगेर्नामा केन्द्रित रहेको छ। उनी झापामा श्रम संस्कृति पार्टीको संगठन विस्तारमा सक्रिय छन्। हालसम्म उनको कुनै पनि भ्रष्टाचार वा विवादमा नाम मुछिएको छैन, जसले गर्दा उनको व्यक्तिगत छवि स्वच्छ रहेको मानिन्छ।",
+  "overall_approval_rating": 35
+}

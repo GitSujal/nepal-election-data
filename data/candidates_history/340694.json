@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340694,
+  "candidate_name": "हरिहर मुखिया बिन",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "आबद्धता नभएको",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340694.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "हरिहर मुखिया बिनले २०७९ को प्रतिनिधि सभा निर्वाचनमा रौतहट क्षेत्र नम्बर १ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-rautahat",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा नगन्य मत",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को प्रतिनिधि सभा निर्वाचनमा रौतहट क्षेत्र नम्बर १ बाट उम्मेदवारी दिँदा उनले केवल ५ मत मात्र प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/harihar-mukhiya-bin-340694",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरिहर मुखिया बिन रौतहट जिल्लाको निर्वाचन क्षेत्र नम्बर १ बाट स्वतन्त्र रूपमा चुनाव लड्दै आएका एक सीमान्तकृत उम्मेदवार हुन्। उनको राजनीतिक प्रभाव अत्यन्तै न्यून रहेको चुनावी परिणामले देखाउँछ; २०७४ को निर्वाचनमा उनले मात्र ५ मत प्राप्त गरेका थिए। कुनै पनि ठूला राजनीतिक दलको समर्थन बिना मैदानमा उत्रिने उनको प्रवृत्ति देखिए तापनि उनले जनताको विश्वास जित्न सकेका छैनन्। स्रोतले उनलाई 'वगुवा' (अस्थिर वा प्रभावहीन) उम्मेदवारको रूपमा सूचीकृत गरेको छ, जसले उनको राजनीतिक गम्भीरतामा प्रश्न उठाएको छ। उनी साक्षर मात्र हुनु र कुनै स्पष्ट राजनीतिक एजेन्डा नदेखिनुले उनको चुनावी उपस्थिति केवल सांकेतिक मात्र देखिन्छ।",
+  "overall_approval_rating": 10
+}

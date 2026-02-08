@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342051,
+  "candidate_name": "जितेन्द्र कुमार श्रेष्ठ",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nepali_Congress_Logo.png",
+  "candidates_current_position": "पूर्व प्रत्यासी, बागमती प्रदेश सभा",
+  "candidates_current_position_in_party": "जिल्ला सभापति, नेपाली काँग्रेस ललितपुर",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342051.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "३ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "ललितपुर क्षेत्र नं. ३ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका श्रेष्ठ ८,०३० मत प्राप्त गरी दोस्रो स्थानमा रहे र नेकपा एमालेका प्रेम भक्त महर्जनसँग पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH0baCJWluiJbq6Pe-JzeAv7yWPX8_9BjkAGcKpPYxilbfYf8Gm33rzNT3U3nqMVQXrK8fQEorUfIwhX6gmfsB6v9wHUrx5R6jVNKPNhEtkYnagv7qmzDGvbNdBfDJ-3afPsm4Je2M4Q2eDhPoa8sB08_5P7m-D2bJSxAI9RANczABJJAyHsJPbr34WECzaxndDDYWDHA3qw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचनमा सांगठनिक सफलता",
+      "date": "२०७९-०१-३०",
+      "details": "श्रेष्ठको नेतृत्वमा ललितपुर जिल्लामा नेपाली काँग्रेसले ५६ प्रतिशत सफलता हासिल गर्‍यो, जसमा ललितपुर महानगरपालिकाका प्रमुख चिरिबाबु महर्जनको १८,००० मतान्तरको विजय महत्वपूर्ण थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhaa5eynGfkiw4vUhkLv1H6HughcuQW_W5poH2aKSkhOC8vh8zeqF4hs1tF7lu88ossYjSlTWrzC0Hx9LE50EMWj1tjfA7PeW6Iy4C_IaXBrvn7O2ZkiP083GCI6vPCcSWzpNTO3SvGyST9yDuOI6_qyJ2e6-WxJE59OLFDgi8dcs8LHXTRWmS0s5r42Og4_FxcSi2cPWbWPVQ4pakkrjbhf698og=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ललितपुर जिल्ला सभापतिमा निर्वाचित",
+      "date": "२०७८-०८-२०",
+      "details": "नेपाली काँग्रेसको १४ औं महाधिवेशन अन्तर्गत ललितपुर जिल्लाको सभापति पदमा निर्वाचित भई जिल्लाको नेतृत्व सम्हालेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDBTqa2egz5_jYnGrZ4HMj4UW5dd99DJqbxNA2jeWD2U007eYI-2BTjg1Vymq7jz97XZ8-stbOuQKTAEUX7kbf9Np49txhCIGAgGYA5FOGPmp4Y4xPHW3aLJtHLWtHtvX_FS1fLuxu3RTDE7YC",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोभिड-१९ महामारीमा जनसेवा",
+      "date": "२०७७-०१-१५",
+      "details": "कोभिड-१९ लकडाउनको समयमा आफ्नो व्यवसाय थाती राखेर स्थानीय जनतालाई राहत र स्वास्थ्य सेवा पुर्याउन सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhaa5eynGfkiw4vUhkLv1H6HughcuQW_W5poH2aKSkhOC8vh8zeqF4hs1tF7lu88ossYjSlTWrzC0Hx9LE50EMWj1tjfA7PeW6Iy4C_IaXBrvn7O2ZkiP083GCI6vPCcSWzpNTO3SvGyST9yDuOI6_qyJ2e6-WxJE59OLFDgi8dcs8LHXTRWmS0s5r42Og4_FxcSi2cPWbWPVQ4pakkrjbhf698og=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भूकम्प पछिको उद्धार र पुनर्स्थापना",
+      "date": "२०७२-०१-१२",
+      "details": "२०७२ सालको विनाशकारी भूकम्पको समयमा ललितपुरका प्रभावित क्षेत्रमा उद्धार र राहत वितरणमा व्यक्तिगत र सांगठनिक रूपमा संलग्न।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhaa5eynGfkiw4vUhkLv1H6HughcuQW_W5poH2aKSkhOC8vh8zeqF4hs1tF7lu88ossYjSlTWrzC0Hx9LE50EMWj1tjfA7PeW6Iy4C_IaXBrvn7O2ZkiP083GCI6vPCcSWzpNTO3SvGyST9yDuOI6_qyJ2e6-WxJE59OLFDgi8dcs8LHXTRWmS0s5r42Og4_FxcSi2cPWbWPVQ4pakkrjbhf698og=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जितेन्द्र कुमार श्रेष्ठ ललितपुरमा नेपाली काँग्रेसका एक निष्ठावान र सांगठनिक रूपमा बलिया नेता मानिन्छन्। उनी हाल नेपाली काँग्रेस ललितपुरको जिल्ला सभापति हुन् र उनको नेतृत्वमा स्थानीय निर्वाचनमा काँग्रेसले राम्रो नतिजा ल्याएको थियो। २०७९ को प्रदेश सभा निर्वाचनमा ललितपुर ३ (ख) बाट उम्मेदवार बने पनि उनी झिनो मतान्तरले पराजित भए। श्रेष्ठको छवि भ्रष्टचारमुक्त र सेवामुखी नेताको रूपमा रहेको छ, विशेषगरी भूकम्प र कोभिडको समयमा उनले गरेको कार्यले उनलाई स्थानीय स्तरमा लोकप्रिय बनाएको छ। उनी 'टुरिष्ट' उम्मेदवार नभई पुल्चोककै स्थानीय बासिन्दा हुन्, जसले गर्दा स्थानीय मुद्दाहरूमा उनको राम्रो दख्खल छ। यद्यपि, प्रदेश निर्वाचनमा भएको हारले उनलाई आगामी दिनमा जनमत बटुल्न थप मेहेनत गर्नुपर्ने चुनौती थपेको छ।",
+  "overall_approval_rating": 68
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342501,
+  "candidate_name": "ज्योती योन्जन",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://logowik.com/content/uploads/images/mongol-national-organisation9649.logowik.com.webp",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य तथा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342501.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा बर्दिया निर्वाचन क्षेत्र नम्बर १ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342501",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक सेवा र महिला सशक्तिकरण अभियान",
+      "date": "२०८०-०५-१०",
+      "details": "बर्दिया जिल्लामा महिला सशक्तिकरण र जातीय समानताका लागि विभिन्न सामाजिक अभियानहरूमा सक्रियता जनाउँदै आएकी छिन्।",
+      "link_to_source": "https://sajilopatrika.com/jyoti-yonjan/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मंगोल पहिचानको राजनीतिमा संलग्नता",
+      "date": "२०७५-०१-१५",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको विचारधारा र 'मंगोल' पहिचानको मुद्दालाई बर्दियाका स्थानीय समुदायमा पुर्‍याउन निरन्तर सक्रिय।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mongol_National_Organisation",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ज्योती योन्जन मंगोल नेशनल अर्गनाइजेसनको तर्फबाट बर्दियामा सक्रिय एक महिला नेतृत्व हुन्। उनको राजनीति मुख्यतया जातीय पहिचान, सामाजिक न्याय र आदिवासी मंगोल समुदायको अधिकारमा केन्द्रित छ। २०७९ को निर्वाचनमा उनले बर्दिया क्षेत्र नम्बर १ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरे पनि उल्लेख्य जनमत प्राप्त गर्न सकिनन्। यद्यपि, उनले स्थानीय स्तरमा महिला सशक्तिकरण र सामाजिक चेतना अभिवृद्धिमा पुर्‍याएको योगदान सकारात्मक देखिन्छ। उनी आफ्नो पार्टीको एजेन्डामा प्रतिबद्ध छिन् र कुनै पनि ठूला भ्रष्टाचार वा काण्डहरूमा उनको नाम जोडिएको छैन। चुनावी राजनीतिमा उनको प्रभाव अझै पनि प्रारम्भिक चरणमै रहेको देखिन्छ।",
+  "overall_approval_rating": 45
+}

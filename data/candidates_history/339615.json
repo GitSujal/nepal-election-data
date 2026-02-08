@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339615,
+  "candidate_name": "टेक बहादुर तामाङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mongol_National_Organization_Logo.png/200px-Mongol_National_Organization_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339615.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी र पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "चितवन क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि निर्वाचन लडेका तामाङले जम्मा २७७ मत प्राप्त गरेका थिए। यस निर्वाचनमा उनी रवि लामिछानेसँग भारी मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339615",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनको संगठन विस्तार",
+      "date": "२०७६-०५-२०",
+      "details": "चितवन जिल्लामा मंगोल नेशनल अर्गनाइजेसनको वैचारिक प्रचारप्रसार र संगठन विस्तारमा सक्रिय भूमिका निर्वाह गर्दै आएका।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/मङ्गोल_नेसनल_अर्गनाइजेसन",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "टेक बहादुर तामाङ मंगोल नेशनल अर्गनाइजेसन (MNO) का एक स्थानीय नेता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले चितवन क्षेत्र नं. २ बाट प्रतिस्पर्धा गरे तापनि निकै कम (२७७) मत प्राप्त गरेका थिए, जसले उनको चुनावी पकड कमजोर रहेको देखाउँछ। स्रोतका अनुसार उनलाई 'वागुवा' (Vaguwa) उम्मेदवारको रूपमा चिनिनुले उनी एउटै क्षेत्रमा स्थिर नभई निर्वाचन अनुसार क्षेत्र परिवर्तन गरिरहने उम्मेदवार हुन् भन्ने बुझिन्छ। उनको राजनीति मूलतः जातीय पहिचान र मंगोल मूलका मानिसहरूको अधिकारमा केन्द्रित छ। चितवन जस्तो ठूला दलहरूको वर्चस्व रहेको जिल्लामा सानो दलबाट उम्मेदवारी दिनुले उनको वैचारिक निष्ठा देखाए तापनि चुनावी परिणाममा भने उनले कुनै प्रभाव पार्न सकेका छैनन्।",
+  "overall_approval_rating": 42
+}

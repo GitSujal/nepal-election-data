@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341741,
+  "candidate_name": "शिव प्रिथी दमाई",
+  "candidate_party": "संयुक्त नागरिक पार्टी",
+  "candidate_party_logo": "https://election.gov.np/static/images/party_logos/sanyukta_nagarik.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा दलित अधिकार अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341741.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "संयुक्त नागरिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "शिव प्रिथी दमाईले रुपन्देही क्षेत्र नम्बर ३ बाट संयुक्त नागरिक पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए। उनले यस निर्वाचनमा सीमान्तकृत र दलित समुदायको प्रतिनिधित्वको एजेण्डा उठाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHts1NCERjYMG9Dja0pypxu82qmflY4MjRoyXT0I_fPuUzfBotxtqsF8loGic8KpI7sfu-bZoO91_V8j7hSq3gmT1ov0m5Av5b5xSQfA0mlyPCa8tb6KS8amdpzucRqO0r2nWoMqX8jEqvf5RRFRoFWmTEulRb95D2-mcUfpjaRsS6WpYBmF46z",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संयुक्त नागरिक पार्टीमा आबद्धता र राजनीतिक सक्रियता",
+      "date": "२०७९-०४-०१",
+      "details": "नेपाल दलित पार्टी र सामाजिक एकता पार्टीको एकता वा गठबन्धनपछि बनेको संयुक्त नागरिक पार्टीमा रहेर उनले सक्रिय राजनीति सुरु गरे। यसले उनको साना दलहरू बीचको एकता र शक्ति सञ्चयको प्रयासलाई देखाउँछ।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलित अधिकार र सामाजिक न्यायका लागि वकालत",
+      "date": "२०७४-०१-०१",
+      "details": "उनले रुपन्देही र आसपासका क्षेत्रमा दलित समुदायमाथि हुने भेदभाव विरुद्ध र उनीहरूको राजनीतिक पहुँचका लागि विभिन्न नागरिक अभियानहरूमा नेतृत्वदायी भूमिका खेलेका थिए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शिव प्रिथी दमाई रुपन्देही क्षेत्र नम्बर ३ का एक स्थानीय राजनीतिकर्मी हुन् जसले मुख्यतया दलित र सीमान्तकृत समुदायको मुद्दालाई प्रतिनिधित्व गर्दै आएका छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा संयुक्त नागरिक पार्टीबाट उम्मेदवार बनेका उनको चुनावी प्रदर्शन कमजोर रहे पनि, उनी साना दलहरूलाई एकीकृत गर्ने प्रक्रियामा सक्रिय देखिन्छन्। विगतमा नेपाल दलित पार्टी र सामाजिक एकता पार्टीमा आबद्ध रहेकाले उनको राजनीतिक आधार जातीय र सामाजिक न्यायमा केन्द्रित छ। उनलाई 'पर्यटक उम्मेदवार' वा 'वागुवा' मानिएको छैन, जसले उनको स्थानीय स्तरमा निरन्तरता रहेको पुष्टि गर्दछ। यद्यपि, ठूला राजनीतिक दलहरूको प्रभाव र स्रोत-साधनको कमीका कारण उनको चुनावी नतिजा भने सफल हुन सकेको छैन।",
+  "overall_approval_rating": 35
+}

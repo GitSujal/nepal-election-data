@@ -1,0 +1,119 @@
+{
+  "candidate_id": 339822,
+  "candidate_name": "राजेश शाक्य",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CPN-UML_logo.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "जिल्ला कमिटी सदस्य, काठमाडौं",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339822.jpg",
+  "election_history": [
+    {
+      "year": "२०५४",
+      "position": "वडा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "काठमाडौं महानगरपालिका-१९",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "८ (क)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "८ (क)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन उम्मेदवार (प्रस्तावित)",
+      "date": "२०८२-०१-०१",
+      "details": "आगामी प्रतिनिधि सभा निर्वाचनका लागि काठमाडौं क्षेत्र नम्बर ८ बाट नेकपा एमालेको सम्भावित उम्मेदवारको रूपमा चर्चामा रहेका छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2026/02/1608920",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "काठमाडौं निर्वाचन क्षेत्र ८ (क) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गर्दा हाम्रो नेपाली पार्टीका शैलेन्द्र मान बज्राचार्यसँग पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/rajesh-shakya-kathmandu-8-ka-2079",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बागमती प्रदेश सभा सदस्यको कार्यकाल",
+      "date": "२०७४-११-०१",
+      "details": "२०७४ देखि २०७९ सम्म बागमती प्रदेश सभा सदस्यको रूपमा काठमाडौं ८ (क) को प्रतिनिधित्व गर्दै विकास र नीति निर्माणमा सहभागी भए।",
+      "link_to_source": "https://nagariknetwork.com/news/113245/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७४ प्रदेश सभा निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "काठमाडौं ८ (क) बाट ७,७८० मत प्राप्त गर्दै प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/rajesh-shakya-kathmandu-8-ka-2074",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले जिल्ला कमिटी सदस्य",
+      "date": "२०६७-०३-१५",
+      "details": "नेकपा एमालेको काठमाडौं जिल्ला कमिटी सदस्यमा निर्वाचित भई पार्टीको संगठन विस्तारमा सक्रिय भएका थिए।",
+      "link_to_source": "https://suchanapress.com/rajesh-shakya-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले क्षेत्रीय सचिव",
+      "date": "२०६५-०४-१०",
+      "details": "पार्टीको क्षेत्रीय सचिवको जिम्मेवारी सम्हाल्दै स्थानीय राजनीतिक मुद्दाहरूमा नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://suchanapress.com/rajesh-shakya-biography/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वडा सदस्यमा निर्वाचन",
+      "date": "२०५४-०२-०१",
+      "details": "काठमाडौं महानगरपालिका वडा नम्बर १९ बाट वडा सदस्यमा विजयी भएर स्थानीय विकासको कार्यमा सक्रिय भए।",
+      "link_to_source": "https://suchanapress.com/rajesh-shakya-biography/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा एमालेमा प्रवेश",
+      "date": "२०५१-०५-०१",
+      "details": "मदन भण्डारीको 'जनताको बहुदलीय जनवाद' बाट प्रभावित भई नेपाली कांग्रेस त्याग गरेर एमालेमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://suchanapress.com/rajesh-shakya-biography/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कांग्रेस परित्याग",
+      "date": "२०४८-१०-१५",
+      "details": "कांग्रेसभित्रको आन्तरिक कलह र नेता कृष्णप्रसाद भट्टराईको पराजयपछि असन्तुष्ट भई पार्टी छोडेका थिए।",
+      "link_to_source": "https://suchanapress.com/rajesh-shakya-biography/",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३६-०१-०१",
+      "details": "२०३६ सालको विद्यार्थी आन्दोलनबाट प्रभावित भई नेपाल विद्यार्थी संघबाट आफ्नो राजनीतिक जीवन सुरु गरेका थिए।",
+      "link_to_source": "https://suchanapress.com/rajesh-shakya-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राजेश शाक्य काठमाडौंको राजनीतिमा एक अनुभवी र स्थानीयस्तरमा भिजेका नेता हुन्। २०५४ सालमा वडा सदस्यबाट सुरु भएको उनको चुनावी यात्रा २०७४ को प्रदेश सभा निर्वाचनमा विजयी भएसँगै उचाइमा पुगेको थियो। नेपाल कम्युनिष्ट पार्टी (एमाले) मा करिब तीन दशकदेखि आबद्ध उनी नेवा: संस्कृति र सम्पदा संरक्षणमा सक्रिय मानिन्छन्। २०७९ को निर्वाचनमा 'हाम्रो नेपाली पार्टी' का उम्मेदवारसँग पराजित भए पनि उनी पार्टीभित्र र स्थानीय स्तरमा अझै प्रभावकारी देखिन्छन्। उनलाई 'भगुवा' वा 'पर्यटक' उम्मेदवार भन्न मिल्दैन किनकि उनी आफ्नै जन्मथलो र स्थायी बसोबास रहेको क्षेत्रबाटै निरन्तर प्रतिस्पर्धा गरिरहेका छन्। हाल उनी आगामी प्रतिनिधि सभा निर्वाचनका लागि काठमाडौं क्षेत्र नं. ८ बाट उम्मेदवारको रूपमा तयारी गरिरहेका छन्।",
+  "overall_approval_rating": 72
+}

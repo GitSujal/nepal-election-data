@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342181,
+  "candidate_name": "बुधेश्‍वर यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "N/A",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342181.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "बुधेश्‍वर यादवले सुनसरी क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत प्राप्त",
+      "date": "२०७९-०८-०८",
+      "details": "निर्वाचनको अन्तिम परिणाम अनुसार उनले अत्यन्तै न्यून अर्थात् जम्मा ४१ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "बुधेश्‍वर यादव सुनसरी क्षेत्र नम्बर २ का एक स्थानीय स्वतन्त्र उम्मेदवार हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा उनले स्वतन्त्र रूपमा चुनाव लडे पनि कुनै उल्लेख्य प्रभाव पार्न सकेनन्। उनले प्राप्त गरेको जम्मा ४१ मतले उनको राजनीतिक आधार र जनसमर्थन अत्यन्त कमजोर रहेको पुष्टि गर्दछ। उनको बारेमा हालसम्म कुनै ठूला भ्रष्टाचारका काण्ड वा विशेष उपलब्धिहरू सार्वजनिक भएका छैनन्। उनी कुनै मुख्य राजनीतिक दलमा आबद्ध नरहेको र स्थानीय स्तरमा पनि उनको राजनीतिक सक्रियता न्यून रहेको देखिन्छ।",
+  "overall_approval_rating": 15
+}

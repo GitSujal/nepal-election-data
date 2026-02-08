@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340352,
+  "candidate_name": "सरिता प्रसाई",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340352.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "झापा",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "झापा",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "राष्ट्रिय सभा सदस्य",
+      "district": "कोशी प्रदेश",
+      "constituency": "कोशी प्रदेश",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "समानुपातिक (खस आर्य महिला)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा निर्वाचित",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को संसदीय निर्वाचनमा नेपाली काँग्रेसको तर्फबाट खस आर्य महिला कोटा अन्तर्गत समानुपातिक प्रणालीबाट प्रतिनिधिसभा सदस्यमा निर्वाचित हुनुभएको हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvzPVcbsrjJ91bfvMuDlVkj4a5zVzbn01v_urrGRG1LXbUVHyz_YO2N7KdoJZGc2gO42vJFmJ1ip4Y2FsYQb0e2e0_rpdDgwfKqUSoELHsjUQZfNEqckHrYaSZdB4oDjxZxEdTTdLpJQ==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेस केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली काँग्रेसको १४ औं महाधिवेशनमा डा. शेखर कोइराला प्यानलबाट केन्द्रीय सदस्य पदमा भारी मतका साथ निर्वाचित हुनुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvzPVcbsrjJ91bfvMuDlVkj4a5zVzbn01v_urrGRG1LXbUVHyz_YO2N7KdoJZGc2gO42vJFmJ1ip4Y2FsYQb0e2e0_rpdDgwfKqUSoELHsjUQZfNEqckHrYaSZdB4oDjxZxEdTTdLpJQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय सभामा प्रमुख सचेतक नियुक्त",
+      "date": "२०७५-०३-०५",
+      "details": "नेपाली काँग्रेस संसदीय दलका नेता शेरबहादुर देउवाले उहाँलाई राष्ट्रिय सभाको प्रमुख सचेतकको जिम्मेवारी सुम्पिनुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqWBeN2FYdEVS9W3myNTxhPt1HhK4h9210YIrjDGK_pfA354xnS5AB6EGKdolaJhcxMloewI4ai-molJEI1Wxl6NdYm8hnBsuut6AA-b56jL4-0MD-Z5OBGu20Pj3_JCTUJOY=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय सभा सदस्यमा विजयी",
+      "date": "२०७४-१०-२४",
+      "details": "कोशी प्रदेशबाट राष्ट्रिय सभा सदस्यको निर्वाचनमा विजयी भई संघीय संसदको माथिल्लो सदनमा प्रतिनिधित्व गर्नुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rMhG_ZLlFmlSl3T-w1tGbNzjRPv4ixjrf6fuqHenAEKzoBFCmbXKqbpSW_q8cwzbEv5BNiW0Qy9RO2GUCtwEgWyL2XrOmB6-PSQx6x0QEah01ozozZg87Lr5h5h2IEUI2o16DUuUby0o96M=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या राज्यमन्त्री नियुक्त",
+      "date": "२०७४-०५-२६",
+      "details": "शेरबहादुर देउवाको प्रधानमन्त्रीकालमा स्वास्थ्य तथा जनसंख्या राज्यमन्त्रीको रूपमा महत्वपूर्ण जिम्मेवारी सम्हाल्नुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnKtdUUj8Nlvpj6QogFiX-9-foHKJq4BjQrr6km1rhHWI1n2eaaPrWhLAgsHESja8Sr5SBIQztJWkhLzaolXPVdfb5AASV3ikSbJRHozil9ctcUsL2vn_urZj-_wOnpNpD8-swazgkmBj9MIiZEsGQBrtHBEw=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा प्रतिनिधित्व",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभा निर्वाचनमा समानुपातिक कोटाबाट चयन भई संविधान निर्माण प्रक्रियामा सक्रिय सहभागिता जनाउनुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnKtdUUj8Nlvpj6QogFiX-9-foHKJq4BjQrr6km1rhHWI1n2eaaPrWhLAgsHESja8Sr5SBIQztJWkhLzaolXPVdfb5AASV3ikSbJRHozil9ctcUsL2vn_urZj-_wOnpNpD8-swazgkmBj9MIiZEsGQBrtHBEw=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३६-०१-०१",
+      "details": "२०३६ सालको विद्यार्थी आन्दोलनदेखि नेपाल विद्यार्थी संघ र नेपाल तरुण दलमार्फत सक्रिय राजनीतिमा प्रवेश गर्नुभएको हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ3dPEXTSHqF0oYyPDDisyqmlELuQ2feRYph8QgB3qksobZx-0sbceLVyBI-_z7Gs7s9_HcMKskoWa9vAEqbIK4G8RjRc7OVOJRueAwgx-e0RuGn9BWovH-WEwghF1nWbusgyviZRHncxkUgmrd-elGJZpiRvL6sh4mBAsTykfv_OGBnqCD4nY1omD8k8kNFBhg2rw2vL4uXpt0Jc9iBFxtCR1jOnu3K5rmbLUPf_59OrqiQNSwgJ2bwWM5AA3",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सरिता प्रसाई नेपाली काँग्रेसकी एक निष्ठावान र अनुभवी महिला नेतृ हुन्। झापा जिल्लालाई आफ्नो राजनीतिक कर्मथलो बनाएकी उनले विद्यार्थी जीवनदेखि नै लोकतान्त्रिक आन्दोलनमा महत्वपूर्ण भूमिका निर्वाह गरेकी छन्। उनी पार्टीको केन्द्रीय समितिमा डा. शेखर कोइराला निकट मानिन्छिन् र गुटगत राजनीतिमा पनि आफ्नो बलियो प्रभाव राख्छिन्। दुई पटक संविधान सभा सदस्य र एक पटक राष्ट्रिय सभा सदस्य भइसकेकी प्रसाई हाल प्रतिनिधिसभामा समानुपातिक तर्फबाट प्रतिनिधित्व गर्छिन्। स्वास्थ्य राज्यमन्त्रीको रूपमा काम गर्दा उनले आफ्नो कार्यकालमा खासै ठूला विवादमा नफसी प्रशासनिक काम सम्पन्न गरेको देखिन्छ। झापा-२ मा उनी प्रत्यक्ष निर्वाचन लड्ने चाहना राख्ने भए पनि पार्टी समीकरणका कारण पछिल्लो समय समानुपातिकमा सिमित हुनुपरेको छ। उनलाई स्वच्छ छवि भएकी र महिला सशक्तिकरणको क्षेत्रमा आवाज उठाउने नेताको रूपमा लिइन्छ।",
+  "overall_approval_rating": 82
+}

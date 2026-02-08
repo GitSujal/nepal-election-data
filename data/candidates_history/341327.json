@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341327,
+  "candidate_name": "बिश्‍वेन्द्र पासवान",
+  "candidate_party": "बहुजन शक्ति पार्टी",
+  "candidate_party_logo": "https://bahujanshakti.org.np/wp-content/uploads/2022/10/logo.png",
+  "candidates_current_position": "पूर्व मन्त्री तथा दुई पटकका संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341327.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "दलित जनजाति पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "दलित जनजाति पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "बहुजन शक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "बहुजन शक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सिराहाबाट उम्मेदवारी र 'वगुवा' घोषित",
+      "date": "२०७९-०७-२३",
+      "details": "लामो समय सप्तरीलाई राजनीतिक आधार बनाएका पासवानले यसपटक सिराहाबाट उम्मेदवारी दिएका छन्, जसले गर्दा उनलाई 'बगुवा' वा चुनावी पर्यटक उम्मेदवारको रुपमा हेरिएको छ।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341327",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जलवायु परिवर्तन शिखर सम्मेलन (COP21) मा सहभागिता",
+      "date": "२०७२-०८-२०",
+      "details": "फ्रान्सको पेरिसमा आयोजित जलवायु परिवर्तनसम्बन्धी विश्व सम्मेलनमा नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै नेपालको पर्यावरणीय मुद्दाहरू विश्वसामु राखेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/minister-led-delegation-attends-global-climate-summit",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विज्ञान, प्रविधि तथा वातावरण मन्त्रीमा नियुक्त",
+      "date": "२०७२-०६-२५",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा गठित मन्त्रिपरिषद्‌मा उनी विज्ञान, प्रविधि तथा वातावरण मन्त्रीको रूपमा नियुक्त भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Ministry_of_Science,_Technology_and_Environment_(Nepal)",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दलित अधिकारका लागि आमरण अनसन",
+      "date": "२०७२-०५-३०",
+      "details": "नयाँ संविधानमा दलित समुदायको १४ प्रतिशत प्रतिनिधित्व र अन्य अधिकार सुनिश्चित गर्न माग गर्दै उनले नयाँ बानेश्वरमा आमरण अनसन बसेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/fasting-lawmaker-bishwendra-paswans-health-deteriorating",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बहुजन शक्ति पार्टीको स्थापना",
+      "date": "२०७२-०१-०१",
+      "details": "दलित, जनजाति र पिछडिएका समुदायको राजनीतिक अधिकारका लागि उनले दलित जनजाति पार्टीलाई पुनर्गठित गरी बहुजन शक्ति पार्टीको नेतृत्व सम्हालेका हुन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bahujan_Shakti_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा समानुपातिक सदस्य",
+      "date": "२०७०-०८-०४",
+      "details": "२०७० को निर्वाचनमा दलित जनजाति पार्टीबाट समानुपातिकतर्फ संविधान सभा सदस्य निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Bishwendra_Paswan",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभामा प्रवेश",
+      "date": "२०६४-१२-२८",
+      "details": "२०६४ को ऐतिहासिक संविधान सभा निर्वाचनमा आफ्नो पार्टीबाट निर्वाचित भई दलित मुद्दाहरूलाई संविधान निर्माणको प्रक्रियामा उठाएका थिए।",
+      "link_to_source": "https://www.forwardpress.in/2015/11/nepals-now-a-bahujan-rashtra/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बिश्‍वेन्द्र पासवान नेपालको राजनीतिमा 'नेपालका अम्बेडकर' का रूपमा परिचित दलित अधिकारकर्मी र नेता हुन्। उनी दुई पटकसम्म समानुपातिक प्रणालीबाट संविधान सभा सदस्य बनेका र मन्त्री पदसमेत सम्हालेका अनुभवी नेता हुन्। यद्यपि, प्रत्यक्ष निर्वाचनमा उनको प्रदर्शन कमजोर देखिन्छ; २०७४ मा मात्र ८०० मत प्राप्त गरेका उनले २०७९ मा सप्तरी क्षेत्र नं. ४ बाट ३१७५ मत ल्याए पनि पराजित भए। यसपटक सिराहाबाट उम्मेदवारी दिएका कारण उनलाई 'वगुवा' वा स्थिर क्षेत्र नभएको उम्मेदवारको रूपमा आलोचना गरिएको छ। उनले सधैं साना दलको नेतृत्व गर्दै सत्ता समीकरणमा आफ्नो उपस्थिति जनाउने गरेका छन्। उनको शक्ति मुख्यतया दलित र सीमान्तकृत समुदायको एजेन्डा उठाउनुमा केन्द्रित छ, तर ठूला दलहरूसँगको प्रतिस्पर्धामा उनी पछाडि परेको देखिन्छ।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341432,
+  "candidate_name": "आइत राज लिम्‍वु",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Janata_Samajbadi_Party%2C_Nepal.svg/1200px-Flag_of_the_Janata_Samajbadi_Party%2C_Nepal.svg.png",
+  "candidates_current_position": "जसपा नेपाल, धनकुटा स्थानीय नेता",
+  "candidates_current_position_in_party": "जसपा नेपाल, प्रदेश समिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341432.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धनकुटा जिल्लाको एक मात्र निर्वाचन क्षेत्रबाट उनले प्रतिनिधि सभा सदस्यका लागि जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, तर उनले उल्लेख्य मत प्राप्त गर्न सकेनन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341432",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचान र संघीयताको पक्षमा सक्रियता",
+      "date": "२०७७-०३-२४",
+      "details": "पार्टी एकता र समायोजनपछि उनी धनकुटामा जसपा नेपालको संगठन विस्तारमा सक्रिय रहेका छन्, विशेष गरी पहिचान र जातीय स्वशासनको मुद्दामा।",
+      "link_to_source": "https://ekantipur.com/election-2079/district/dhankuta-1",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जसपा नेपालमा आवद्धता",
+      "date": "२०७६-०२-०३",
+      "details": "संघीय समाजवादी फोरम र नयाँ शक्ति पार्टीबीचको एकता पश्चात उनी एकीकृत पार्टीको संगठन निर्माणमा धनकुटा जिल्लामा क्रियाशील रहे।",
+      "link_to_source": "https://www.setopati.com/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "आइत राज लिम्बु धनकुटा जिल्लाका एक निष्ठावान स्थानीय नेता हुन् जो लामो समयदेखि पहिचानवादी राजनीतिमा सक्रिय छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले जनता समाजवादी पार्टी, नेपालको तर्फबाट धनकुटा क्षेत्र नं. १ बाट प्रतिस्पर्धा गरेका थिए। यद्यपि, नेकपा एमालेका राजेन्द्र राई र नेपाली कांग्रेसका सुनिल बहादुर थापा जस्ता राष्ट्रिय कदका नेताहरूको तुलनामा उनको चुनावी पकड कमजोर देखियो। उनले मुख्य रूपमा लिम्बुवान पहिचान र संघीयताको एजेन्डालाई अघि सारेका छन्। उनको राजनीतिक छवि स्वच्छ रहे पनि ठूला दलहरूको वर्चस्व रहेको धनकुटामा आफ्नो स्थान बनाउन उनलाई निकै चुनौतीपूर्ण देखिन्छ। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय स्तरमै भिजेका कार्यकर्ता मानिन्छन्।",
+  "overall_approval_rating": 42
+}

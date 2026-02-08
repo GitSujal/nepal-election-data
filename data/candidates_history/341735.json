@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341735,
+  "candidate_name": "प्रेम बहादुर थापा",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-M_logo.svg/1200px-CPN-M_logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341735.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कास्कीमा कार्यक्षेत्र विस्तार र 'पर्यटक उम्मेदवार' को परिचय",
+      "date": "२०८१-०१-१५",
+      "details": "आफ्नो पुरानो निर्वाचन क्षेत्र तनहुँ छोडेर कास्कीमा राजनीतिक सक्रियता बढाएको र 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा चिनिएको।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसन परित्याग गरी माओवादीमा प्रवेश",
+      "date": "२०८०-०४-१०",
+      "details": "जातीय पहिचानको राजनीति गर्ने मंगोल नेशनल अर्गनाइजेसन छोडेर नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र) मा प्रवेश गरेको।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166927622955938555.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "तनहुँ क्षेत्र नं १ बाट मंगोल नेशनल अर्गनाइजेसनको उम्मेदवार भई चुनाव लडेकोमा मात्र ३६० मत (०.५७%) प्राप्त गरी छैटौं स्थानमा आएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU5H8LZ7EpKu9BdnTyQME2IxuPGerr6Dm1czuxo-phyyVr4qjLP8Lo-mp1WuUUzq2mUbrOISF3jSkYPVHD6Oo-wKAJz_PzxE4k2D6EOEVKw-3G8mZNkHU2wb0iF-xiUckai2_bfYeS9SiFVcjUJ1F3zdFO84YsfbZy2HtzgNRMOGqjiuKIPDXpBNFAlC7M",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रेम बहादुर थापाको राजनीतिक यात्रा अत्यन्त अस्थिर र अवसरवादी प्रकृतिको देखिन्छ। २०७९ को आम निर्वाचनमा तनहुँ निर्वाचन क्षेत्र नं १ बाट 'मंगोल नेशनल अर्गनाइजेसन' का तर्फबाट प्रतिस्पर्धा गर्दा उनले मात्र ३६० मत प्राप्त गरेका थिए। सो लज्जास्पद पराजय पश्चात् उनले आफ्नो पुरानो पार्टी र भूगोल दुवै परिवर्तन गरेका छन्। जातीय पहिचानको राजनीति छोडेर माओवादी केन्द्रमा प्रवेश गर्नु र तनहुँबाट कास्कीमा राजनीतिक कार्यक्षेत्र सार्नु (बगुवा प्रवृत्ति) ले उनलाई एक 'पर्यटक उम्मेदवार' को रूपमा स्थापित गरेको छ। वैचारिक स्पष्टताको अभाव र निर्वाचन जित्नकै लागि भूगोल परिवर्तन गर्ने उनको कदमले स्थानीय मतदाताहरूमा उनको विश्वसनीयता कमजोर बनाएको छ।",
+  "overall_approval_rating": 15
+}

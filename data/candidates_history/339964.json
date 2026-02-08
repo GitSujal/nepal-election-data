@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339964,
+  "candidate_name": "आरेन राई",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Soil_in_Hands_Symbol.png/200px-Soil_in_Hands_Symbol.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (खोटाङ)",
+  "candidates_current_position_in_party": "केन्द्रीय महासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339964.jpg",
+  "election_history": [
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "खोटाङ",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टीको महासचिवमा नियुक्त",
+      "date": "२०८२-०७-१६",
+      "details": "धरानका मेयर हर्क साम्पाङको नेतृत्वमा गठित श्रम संस्कृति पार्टीको पहिलो केन्द्रीय समितिको महासचिवमा आरेन राई नियुक्त भएका हुन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Shram_Sanskriti_Party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०८२-१०-१५",
+      "details": "खोटाङ जिल्लाबाट प्रतिनिधि सभा सदस्यको निर्वाचनका लागि श्रम संस्कृति पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://www.google.com/search?q=Aren+Rai+Khotang+candidacy",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति अभियानमा आबद्धता",
+      "date": "२०७९-०२-१५",
+      "details": "धरानका मेयर हर्क साम्पाङले सुरु गरेको श्रमदान र श्रम संस्कृति अभियानमा सुरुवाती चरणदेखि नै सक्रिय सहभागिता।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/11/1572041",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "आरेन राई श्रम संस्कृति पार्टीका प्रभावशाली नेता तथा केन्द्रीय महासचिव हुन्। उनी धरानका मेयर हर्क साम्पाङको 'श्रम संस्कृति' विचारधारालाई देशभर फैलाउने मुख्य योजनाकार मानिन्छन्। खोटाङ जिल्लाबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका राईले परम्परागत दलहरूको विकल्पका रूपमा 'माटो र श्रम'को राजनीति अगाडि सारेका छन्। उनको मुख्य चुनावी एजेन्डा स्थानीय स्रोतको परिचालन, युवा स्वरोजगार र भ्रष्टाचार मुक्त प्रशासन रहेको छ। यद्यपि, उनको पार्टी नयाँ भएकाले र खोटाङमा ठूला दलहरूको बलियो पकड रहेकाले उनलाई चुनावी नतिजा आफ्नो पक्षमा पार्न कडा चुनौती देखिन्छ। उनको व्यक्तिगत छवि स्वच्छ रहेको र उनी युवा पुस्ता माझ लोकप्रिय रहेका छन्।",
+  "overall_approval_rating": 65
+}

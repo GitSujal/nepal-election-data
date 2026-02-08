@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340186,
+  "candidate_name": "सुरेन्द्र राज भट्ट",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NWPP_logo.png/200px-NWPP_logo.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340186.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "डडेलधुरा क्षेत्र नं. १ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०५०-०३-१५",
+      "details": "प्रविणता प्रमाणपत्र तह (PCL) सम्मको शिक्षा पुरा गरेको।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340186",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०४५-०१-०१",
+      "details": "नेपाल मजदुर किसान पार्टीको विचारधाराबाट प्रभावित भई विद्यार्थी राजनीति वा स्थानीय स्तरको संगठनमा आबद्ध।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Nepal_Workers_and_Peasants_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुरेन्द्र राज भट्ट नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान कार्यकर्ता हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा उनले डडेलधुरा क्षेत्र नं. १ बाट उम्मेदवारी दिएका थिए, जहाँ उनले नेपाली कांग्रेसका प्रभावशाली नेता शेरबहादुर देउवासँग प्रतिस्पर्धा गरेका थिए। उनको स्थायी ठेगाना कञ्चनपुर भएता पनि डडेलधुराबाट चुनाव लडेकाले उनलाई 'टूरिस्ट उम्मेदवार' का रूपमा चित्रण गरिएको थियो। नेमकिपाले आफ्नो क्रान्तिकारी विचारधारा र 'मादल' चुनाव चिन्हलाई देशभर चिनाउने रणनीतिको भाग स्वरूप उनलाई सो क्षेत्रमा उठाएको मानिन्छ। उनको चुनावी प्रदर्शन निकै कमजोर रहे पनि उनी पार्टीको नीति र अनुशासनप्रति प्रतिबद्ध देखिन्छन्। उनलाई कुनै पनि भ्रष्टाचार वा विवादमा नमुछिएको स्वच्छ छविको कार्यकर्ताको रूपमा चिनिन्छ।",
+  "overall_approval_rating": 35
+}

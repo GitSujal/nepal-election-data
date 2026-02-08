@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340485,
+  "candidate_name": "माईला लामा",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hammer_and_sickle_red_on_transparent.svg/1200px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "उपत्यका इन्चार्ज",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340485.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "९",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राज्य विरुद्धको कसुरमा पक्राउ पुर्जी जारी",
+      "date": "२०८०-०८-१८",
+      "details": "काठमाडौं जिल्ला अदालतले माईला लामा र महासचिव विप्लव विरुद्ध राज्य विरुद्धको कसुर र देशको अखण्डतामा आँच पुऱ्याएको अभियोगमा ३५ दिने पक्राउ पुर्जी जारी गरेको थियो।",
+      "link_to_source": "https://nepalkhabar.com/politics/180217-2023-12-04-06-21-43",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं ९ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका लामा एमालेका कृष्णगोपाल श्रेष्ठसँग पराजित भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1221469",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जेलबाट रिहा",
+      "date": "२०७७-११-२१",
+      "details": "नेपाल सरकार र विप्लव समूहबीच भएको तीन बुँदे सहमति पश्चात् माईला लामा नख्खु कारागारबाट रिहा भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2021/03/05/government-and-chand-outfit-ink-a-three-point-deal",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "काठमाडौंबाट पक्राउ",
+      "date": "२०७६-०४-०५",
+      "details": "नख्खु विष्फोट र चन्दा असुलीको आरोपमा तत्कालीन प्रतिबन्धित विप्लव नेकपाका उपत्यका इन्चार्ज लामालाई काँडाघारीबाट पक्राउ गरिएको थियो।",
+      "link_to_source": "https://myrepublica.nagariknetwork.com/news/police-arrest-key-leader-of-outlawed-ncp-from-capital/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विप्लव नेतृत्वको पार्टीमा आवद्धता",
+      "date": "२०७१-०८-०८",
+      "details": "नेकपा (माओवादी केन्द्र) बाट फुटेर नेत्रविक्रम चन्द 'विप्लव'ले गठन गरेको नेपाल कम्युनिस्ट पार्टीमा लामा आवद्ध भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/chand-led-party-s-kathmandu-head-held",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामना सांस्कृतिक परिवारको नेतृत्व",
+      "date": "२०६०-०१-०१",
+      "details": "जनयुद्धको समयदेखि नै माओवादी सांस्कृतिक विङ सामना सांस्कृतिक परिवारको नेतृत्व गर्दै जनपक्षीय गीत र संगीतमा सक्रिय योगदान।",
+      "link_to_source": "https://sarthakonline.com/news/2924",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "माईला लामा नेपाली राजनीतिमा एक प्रभावशाली सांस्कृतिक योद्धा र विद्रोही नेताका रूपमा परिचित छन्। सामना सांस्कृतिक परिवारमार्फत उनले जनयुद्धको समयमा जनचेतना फैलाउन महत्वपूर्ण भूमिका खेलेका थिए। यद्यपि, विप्लव समूहको कट्टरपन्थी राजनीतिमा संलग्न हुँदा नख्खु बम विष्फोट र राज्य विरुद्धको कसुर जस्ता गम्भीर मुद्दाहरूले उनको छविमा नकारात्मक असर पारेको छ। २०७९ को निर्वाचनमा काठमाडौं-९ बाट पराजित हुनुले उनको व्यक्तिगत लोकप्रियता भन्दा पनि उनको पार्टीको शहरी आधार कमजोर रहेको देखिन्छ। उनी हाल शान्तिपूर्ण राजनीतिमा फर्किएका भए पनि पुराना कानुनी मुद्दाहरूले अझै पनि उनलाई पछ्याइरहेका छन्।",
+  "overall_approval_rating": 45
+}

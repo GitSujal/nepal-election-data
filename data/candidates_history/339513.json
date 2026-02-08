@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339513,
+  "candidate_name": "छवीलाल मगर",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Janata_Samajbadi_Party_Nepal_Logo.png/800px-Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339513.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "constituency": "निर्वाचन क्षेत्र १ (ख)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ सालको आम निर्वाचनमा नवलपरासी (बर्दघाट सुस्ता पूर्व) को क्षेत्र नम्बर १ (ख) बाट प्रदेश सभा सदस्यका लागि जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339513",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत प्राप्ति",
+      "date": "२०७९-०८-०८",
+      "details": "निर्वाचनको अन्तिम मतपरिणाम अनुसार उनले जम्मा ३८० मत प्राप्त गरी सातौं स्थान हासिल गरेका थिए, जुन कुल सदर मतको करिब ०.८८ प्रतिशत मात्र थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/339513",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आवद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "तत्कालीन संघीय समाजवादी फोरम र नयाँ शक्ति पार्टीको एकता पश्चात बनेको जनता समाजवादी पार्टीमा उनी स्थापना कालदेखि नै सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2020/04/23/158758832718118043.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आदिवासी जनजाति आन्दोलनमा सहभागिता",
+      "date": "२०७४-०३-१५",
+      "details": "नवलपरासी क्षेत्रमा मगर समुदायको हकहित र पहिचानको राजनीतिमा उनी लामो समयदेखि वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://www.inseconline.org/region/gandaki-province/nawalparasi-east/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "छवीलाल मगर नवलपरासी (बर्दघाट सुस्ता पूर्व) जिल्लाका एक निष्ठावान राजनीतिक कार्यकर्ता हुन्। ६९ वर्षीय मगर मुख्यतया जनता समाजवादी पार्टीको संगठन निर्माणमा स्थानीय स्तरमा सक्रिय छन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले नवलपुर १ (ख) बाट प्रतिस्पर्धा गरे तापनि उनी निकै कमजोर चुनावी प्रतिस्पर्धी देखिए। जम्मा ३८० मत प्राप्त गर्नुले उनको चुनावी आधार र जनमत निकै कम रहेको पुष्टि गर्छ। उनको राजनीतिक जीवनमा कुनै ठूला भ्रष्टाचार वा काण्डहरू नदेखिएकाले उनको छवि स्वच्छ छ, तर प्रभावशाली नेतृत्वको अभावले गर्दा निर्वाचन जित्न चुनौतीपूर्ण देखिन्छ। उनी पहिचानवादी राजनीति र मगर समुदायका मुद्दाहरूमा केन्द्रित रहेर राजनीति गरिरहेका छन्।",
+  "overall_approval_rating": 42
+}

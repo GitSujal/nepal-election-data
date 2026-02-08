@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342172,
+  "candidate_name": "प्रबल थापा क्षेत्री",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_Nepali_Congress.svg",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (काठमाडौं-१)",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342172.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ४ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "काठमाडौं-१ बाट प्रतिनिधि सभाका लागि मनोनित",
+      "date": "२०८२-१०-०६",
+      "details": "नेपाली काँग्रेसले चार पटकका विजेता प्रकाशमान सिंहको स्थानमा युवा नेता प्रबल थापालाई काठमाडौं-१ बाट प्रतिनिधि सभाको उम्मेदवार चयन गरेको छ। यसलाई पार्टीभित्र पुस्तान्तरणको प्रयासको रूपमा हेरिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENIbOiSeULwIxPmNX0H2mnyX5Bj4UpPqCbSCc-T8S3ufFY4_EX1LqrpONx5LEBy-TOB2Moznk9bmpDx8rqzMJ35GWg0NwXcOXLzNT8peF0jPfpiuakE42f-oexIXFvJ_fVZs06WVbU1O4XJENiQ4dXuKfm7HXgAW2YzlT0T5duPmW_Y-KcyKLEh65kiysUAgHCpXkluT-ovERP4DqMHQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विशेष महाधिवेशन प्रतिनिधि",
+      "date": "२०८२-१०-०१",
+      "details": "काँग्रेसको आन्तरिक शक्ति सन्तुलन र विशेष महाधिवेशनका क्रममा थापाले प्रतिनिधिको रूपमा सक्रिय भूमिका निर्वाह गरेका छन्। उनलाई पार्टीको संस्थापन इतर पक्षले पनि विश्वासिलो युवा नेताका रूपमा स्वीकार गरेको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENIbOiSeULwIxPmNX0H2mnyX5Bj4UpPqCbSCc-T8S3ufFY4_EX1LqrpONx5LEBy-TOB2Moznk9bmpDx8rqzMJ35GWg0NwXcOXLzNT8peF0jPfpiuakE42f-oexIXFvJ_fVZs06WVbU1O4XJENiQ4dXuKfm7HXgAW2YzlT0T5duPmW_Y-KcyKLEh65kiysUAgHCpXkluT-ovERP4DqMHQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ४ (ख) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गर्दा थापाले ९,९२३ मत प्राप्त गरेका थिए। उनी नेकपा एमालेका जयराम थापासँग मात्र ४६० मतको झिनो अन्तरले पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdQumfu7a5apH3ktvCcRxIyKzjWyL7sAMMxFKDdywq16GK4UMJKsGN8jNSIt4Uqop3DeOi7X6ND-9y6nsJU0UYZ_8fJBng74DwOmZdVg_P-4CJgha8xvy8vRad4VC7DBz5ySEPyHLhSf6HdZPXGEPgHSQNhKVIxiiju5nRgfSFnmUYOC2NNrjdhh3ZpEME2wn-mLdgPaFY",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कमल थापासँगको पारिवारिक सम्बन्धको चर्चा",
+      "date": "२०७९-०७-१५",
+      "details": "राप्रपा नेपालका अध्यक्ष कमल थापाका नजिकका नातेदार (भतिज) भए पनि प्रबलले आफ्नो राजनीतिक यात्रा नेपाली काँग्रेसबाटै अगाडि बढाएका छन्, जसले उनको वैचारिक दृढतालाई पुष्टि गर्दछ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENIbOiSeULwIxPmNX0H2mnyX5Bj4UpPqCbSCc-T8S3ufFY4_EX1LqrpONx5LEBy-TOB2Moznk9bmpDx8rqzMJ35GWg0NwXcOXLzNT8peF0jPfpiuakE42f-oexIXFvJ_fVZs06WVbU1O4XJENiQ4dXuKfm7HXgAW2YzlT0T5duPmW_Y-KcyKLEh65kiysUAgHCpXkluT-ovERP4DqMHQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रबल थापा क्षेत्री नेपाली काँग्रेसका एक उदीयमान युवा नेता हुन्। २०७९ को निर्वाचनमा काठमाडौं ४(ख) बाट प्रदेश सभामा झिनो मतान्तरले पराजित भए पनि उनले स्थानीय स्तरमा बलियो प्रभाव छाडेका छन्। पछिल्लो समय पार्टीले उनलाई अनुभवी नेता प्रकाशमान सिंहको विकल्पमा काठमाडौं-१ बाट प्रतिनिधि सभाको टिकट दिनुले उनको बढ्दो राजनीतिक कदलाई दर्शाउँछ। उनी राप्रपा नेपालका नेता कमल थापाका नातेदार भए पनि काँग्रेसको लोकतान्त्रिक विचारधारामा स्पष्ट देखिएका छन्। युवा पुस्ताको प्रतिनिधित्व गर्ने र बौद्धिक छविका कारण उनलाई काठमाडौंको सहरी मतदातामाझ लोकप्रिय उम्मेदवार मानिन्छ। तथापि, अनुभवी नेताको ठाउँमा उम्मेदवार बन्दा पार्टीभित्रको आन्तरिक असन्तुष्टि व्यवस्थापन गर्नु उनका लागि मुख्य चुनौती देखिन्छ।",
+  "overall_approval_rating": 72
+}

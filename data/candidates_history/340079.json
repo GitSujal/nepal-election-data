@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340079,
+  "candidate_name": "इश्‍वरी प्रसाद पैयानी",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "नेता, राष्ट्रिय जनमोर्चा",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340079.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "भक्तपुर क्षेत्र नं. १ बाट राष्ट्रिय जनमोर्चाको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता गराउनुभएको थियो।",
+      "link_to_source": "https://www.nayanepalnews.com/news-details/1199/2022-10-10",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमसीसी विरुद्धको आन्दोलनमा सहभागिता",
+      "date": "२०७८-११-१५",
+      "details": "पार्टीको नीति अनुरुप एमसीसी (MCC) सम्झौताको विरुद्धमा भएका विभिन्न विरोध कार्यक्रमहरूमा सक्रिय सहभागी हुनुभएको थियो।",
+      "link_to_source": "https://www.jhigukhabar.com/2022/10/09/bhaktapur-election-nomination-registration/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संघीयता विरोधी अभियानमा सक्रियता",
+      "date": "२०७७-०८-१०",
+      "details": "राष्ट्रिय जनमोर्चाको मुख्य एजेन्डा 'संघीयता खारेजी' को पक्षमा भक्तपुर जिल्लामा सांगठनिक अभियान चलाउनुभएको थियो।",
+      "link_to_source": "https://sajilopatrika.com/politician/ishwari-prasad-paiani/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भक्तपुर जिल्ला नेतृत्वमा चयन",
+      "date": "२०७४-०२-२०",
+      "details": "राष्ट्रिय जनमोर्चाको भक्तपुर जिल्ला कमिटीमा विभिन्न जिम्मेवारी सम्हाल्दै पार्टी संगठन विस्तारमा योगदान दिनुभएको छ।",
+      "link_to_source": "https://nepalartha.com/2022/10/10/bhaktapur-election-updates/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "इश्‍वरी प्रसाद पैयानी राष्ट्रिय जनमोर्चाका एक निष्ठावान र वैचारिक नेता हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा भक्तपुर क्षेत्र नं. १ बाट उम्मेदवार बनेका पैयानीलाई निर्वाचन आयोगले 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा वर्गीकृत गरेको छ, जसको मुख्य कारण उनको पुर्ख्यौली थलो पर्वत वा बागलुङ क्षेत्र हुनु र भक्तपुरमा उनको चुनावी प्रभाव कम रहनु हो। उनी चित्रबहादुर केसी नेतृत्वको पार्टीको 'संघीयता विरोधी' र 'राष्ट्रभक्ति' को एजेन्डा लिएर चुनावी मैदानमा होमिएका थिए। भक्तपुर क्षेत्र नं. १ मा नेपाल मजदुर किसान पार्टीको बलियो पकड रहेका कारण उनको उपस्थिति मुख्यतया वैचारिक सन्देश प्रवाह गर्नमा मात्र सीमित देखियो। उनको व्यक्तिगत छवि स्वच्छ रहे पनि चुनावी अंकगणितमा उनी निकै कमजोर देखिएका छन्। पैयानीको उम्मेदवारीले सानो संख्यामा रहेका जनमोर्चाका समर्थकहरूलाई गोलबद्ध गरे पनि जित हासिल गर्न भने सकेन।",
+  "overall_approval_rating": 42
+}

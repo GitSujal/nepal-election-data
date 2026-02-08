@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340630,
+  "candidate_name": "रन बहादुर राई",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hammer_and_sickle_red_on_transparent.svg/600px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340630.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "इलाम",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "इलाम क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट चुनावी प्रतिस्पर्धामा होमिएका तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी परिवर्तन र नयाँ आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "माओवादी केन्द्र र एकीकृत समाजवादीको पृष्ठभूमि छोडेर 'नेपाली कम्युनिष्ट पार्टी' को चुनाव चिन्ह लिएर निर्वाचनमा सहभागी भएको।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकिकृत समाजवादी) मा सक्रियता",
+      "date": "२०७८-०६-०९",
+      "details": "एमाले विभाजन पछि केही समय नेकपा (एकिकृत समाजवादी) मा आबद्ध भई इलाम जिल्लामा पार्टी विस्तारमा योगदान दिएको।",
+      "link_to_source": "https://www.setopati.com/politics/247163",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी आन्दोलनमा सहभागिता",
+      "date": "२०६४-०७-१५",
+      "details": "शान्ति प्रक्रिया पछि तत्कालीन नेकपा (माओवादी) मा आबद्ध भई इलाम जिल्लाको स्थानीय राजनीतिमा सक्रिय भूमिका निर्वाह गरेको।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रन बहादुर राई इलाम जिल्लाका एक पुराना कम्युनिष्ट कार्यकर्ता हुन्। उनको राजनीतिक यात्रा तत्कालीन नेकपा (माओवादी) बाट सुरु भए पनि उनी विभिन्न समयमा नेकपा (एकीकृत समाजवादी) र हाल 'नेपाली कम्युनिष्ट पार्टी' जस्ता साना कम्युनिष्ट घटकहरूमा आबद्ध रहँदै आएका छन्। २०७९ को आम निर्वाचनमा इलाम क्षेत्र नम्बर २ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिए पनि उनी मुख्य प्रतिस्पर्धीहरूको तुलनामा निकै कमजोर देखिए र अत्यन्तै न्यून मत प्राप्त गरे। उनी सोही क्षेत्रका स्थानीय बासिन्दा भएकाले 'पर्यटक उम्मेदवार' नभए तापनि उनको राजनीतिक प्रभाव जिल्ला स्तरमा सीमित छ। पटक-पटक पार्टी परिवर्तन गरिरहने प्रवृत्तिले उनको राजनीतिक स्थिरतामा प्रश्न उठाएको देखिन्छ, जसका कारण उनले बलियो चुनावी आधार तयार गर्न सकेका छैनन्।",
+  "overall_approval_rating": 42
+}

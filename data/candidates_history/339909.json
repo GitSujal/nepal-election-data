@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339909,
+  "candidate_name": "ओपेन्द्र कुमार राय",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/nepali_communist_party.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339909.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ६",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मोरङ क्षेत्र नम्बर ६ बाट प्रतिनिधि सभा सदस्यका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://ehimalayatimes.com/2022/10/165-candidates-of-nepalese-communist-party/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कम्युनिष्ट पार्टीमा आबद्धता",
+      "date": "२०७८-१२-१५",
+      "details": "विभिन्न कम्युनिष्ट घटकहरूको ध्रुवीकरणका क्रममा नेपाली कम्युनिष्ट पार्टीमा सक्रिय भूमिका निर्वाह गर्दै पार्टीको जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://www.ukeraa.com/news/detail/145236/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एकीकृत समाजवादीसँगको सहकार्य",
+      "date": "२०७८-०६-०९",
+      "details": "नेकपा एमालेको विभाजन पछि केही समय नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी) सँग वैचारिक निकटता राख्दै राजनीतिक गतिविधिमा सक्रिय।",
+      "link_to_source": "https://election.ekantipur.com/news/2022-10-09/nepali-communist-party-candidates-list",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय स्तरमा राजनीतिक उदय",
+      "date": "२०७४-०३-१४",
+      "details": "मोरङ जिल्लाको स्थानीय राजनीतिमा बामपन्थी कार्यकर्ताको रूपमा सङ्गठन विस्तारमा संलग्न।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339909",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ओपेन्द्र कुमार राय मोरङ जिल्लाका एक स्थानीय राजनीतिक अनुहार हुन्। उनले विशेष गरी मोरङ क्षेत्र नम्बर ६ लाई आफ्नो राजनीतिक आधार क्षेत्र बनाएका छन्। २०७९ को निर्वाचनमा उनले नेपाली कम्युनिष्ट पार्टीको तर्फबाट प्रतिनिधि सभामा प्रतिस्पर्धा गरे तापनि स्थापित नेताहरूका अगाडि उल्लेखनीय मत प्राप्त गर्न सकेनन्। उनको राजनीतिक यात्रा माओवादी केन्द्र र एकीकृत समाजवादी जस्ता दलहरूसँगको वैचारिक निकटताबाट सुरु भएको देखिन्छ। यद्यपि उनले हालसम्म कुनै सार्वजनिक पद धारण गरेका छैनन्, उनी स्थानीय स्तरमा साना कम्युनिष्ट शक्तिहरूलाई एकीकृत गर्ने अभियानमा सक्रिय छन्। उनको शैक्षिक योग्यता एसएलसी मात्र भए पनि स्थानीय कार्यकर्तामाझ उनको पहुँच राम्रो मानिन्छ। कुनै ठूला भ्रष्टाचार वा विवादमा नाम नमुछिएकाले उनको छवि स्वच्छ रहेको छ।",
+  "overall_approval_rating": 48
+}

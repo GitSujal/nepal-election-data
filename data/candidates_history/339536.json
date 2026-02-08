@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339536,
+  "candidate_name": "श्रीराम गुरुङ",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://ujyaalonepalparty.org/wp-content/uploads/2022/08/Ujyalo-Nepal-Party-Logo.png",
+  "candidates_current_position": "राजनीतिज्ञ तथा व्यवसायी",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339536.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०८०-०३-१५",
+      "details": "स्वतन्त्र अभियानबाट राजनीति सुरु गरेका गुरुङ वैकल्पिक राजनीतिको एजेन्डासहित उज्यालो नेपाल पार्टीमा सक्रिय भएका हुन्।",
+      "link_to_source": "https://sajilopatrika.com/shriram-gurung-profile/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ५ बाट स्वतन्त्र उम्मेदवारका रूपमा २,७६१ मत प्राप्त गरी पाँचौं स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वैकल्पिक राजनीतिक अभियानको सुरुवात",
+      "date": "२०७९-०४-२०",
+      "details": "परम्परागत दलहरूको विकल्प खोज्दै 'लौरो' चुनाव चिन्ह लिएर स्वतन्त्र उम्मेदवारहरूको लहरमा सामेल भएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/shriram-gurung-profile/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "व्यावसायिक तथा सामाजिक क्षेत्रमा सक्रियता",
+      "date": "२०७५-१०-१२",
+      "details": "इभेन्ट म्यानेजमेन्ट, रेस्टुरेन्ट व्यवसाय र मिडिया क्षेत्रमा सफल अनुभव बटुलेपछि उनी राजनीतिमा होमिएका हुन्।",
+      "link_to_source": "https://sajilopatrika.com/shriram-gurung-profile/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "श्रीराम गुरुङ काठमाडौंको वैकल्पिक राजनीतिक परिदृश्यमा एक उदाउँदो पात्र हुन्। २०७९ को निर्वाचनमा काठमाडौं क्षेत्र नं. ५ बाट स्वतन्त्र उम्मेदवार बनेका उनले २,७६१ मत प्राप्त गर्दै आफ्नो प्रभाव देखाएका थिए। संखुवासभामा जन्मिएर काठमाडौंलाई कार्यक्षेत्र बनाएका कारण उनलाई 'पर्यटक उम्मेदवार' को ट्याग लागेको भए पनि स्थानीय मुद्दाहरूमा उनको पकड राम्रो देखिन्छ। उनी उच्च शिक्षित (एमबीए) र व्यावसायिक पृष्ठभूमि भएका व्यक्ति हुन्, जसले गर्दा युवा र बौद्धिक मतदाताहरूमाझ उनको लोकप्रियता छ। हाल उनी उज्यालो नेपाल पार्टीमा आबद्ध भई संगठनात्मक विस्तारमा लागेका छन्। कुनै ठूलो विवाद वा भ्रष्टाचारमा नमुछिएका कारण उनको राजनीतिक भविष्य सम्भावनायुक्त देखिन्छ, तर आगामी निर्वाचनमा जित हासिल गर्न उनले स्थानीयस्तरमा थप मजबुत संगठन बनाउन आवश्यक छ।",
+  "overall_approval_rating": 65
+}

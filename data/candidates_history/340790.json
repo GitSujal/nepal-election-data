@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340790,
+  "candidate_name": "दावा फेन्‍जु लामा / तामाङ",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Shram_Sanskriti_Party.png/220px-Flag_of_the_Shram_Sanskriti_Party.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "नुवाकोट जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340790.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीको नुवाकोट उम्मेदवारी",
+      "date": "२०८१-११-२१",
+      "details": "दावा फेन्जु लामाले हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीबाट नुवाकोट क्षेत्र नम्बर १ मा आफ्नो चुनावी सक्रियता बढाएका छन्।",
+      "link_to_source": "https://shilapatracdn.de/politics/2024/02/10/nuwakot-election-context",
+      "event_type": "ELECTION_WIN",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०८१-०७-०७",
+      "details": "धरानका मेयर हर्क साम्पाङले नयाँ दल दर्ता गरेसँगै लामा उक्त पार्टीको वैचारिक अभियान र सांगठनिक विस्तारमा नुवाकोटबाट सक्रिय भएका हुन्।",
+      "link_to_source": "https://www.bizmandu.com/content/20251102143022.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को संसदीय निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "लामाले नुवाकोटबाट प्रतिनिधि सभाको निर्वाचनमा प्रतिस्पर्धा गरे पनि उल्लेख्य मत प्राप्त गर्न सकेनन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-nuwakot?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हर्क साम्पाङको 'श्रमदान' अभियानमा समर्थन",
+      "date": "२०७९-०३-१५",
+      "details": "स्वतन्त्र राजनीति र श्रम संस्कृतिको प्रवर्द्धन गर्ने उद्देश्यका साथ उनले स्थानीय स्तरमा जनचेतना फैलाउने कार्य गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Harka_Sampang",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "दावा फेन्‍जु लामा नुवाकोटका उदीयमान राजनीतिक पात्र हुन्, जो हाल धरानका मेयर हर्क साम्पाङको 'श्रम संस्कृति पार्टी' सँग आबद्ध छन्। उनले मुख्य रूपमा श्रमदान, प्राकृतिक स्रोतको संरक्षण र रैथाने संस्कृतिको उत्थानलाई आफ्नो राजनीतिक एजेन्डा बनाएका छन्। २०७९ को निर्वाचनमा उनको चुनावी उपस्थिति सामान्य रहे पनि नयाँ दलको गठनपछि उनी नुवाकोट १ मा वैकल्पिक शक्तिको रूपमा स्थापित हुने प्रयासमा छन्। उनी विशेषगरी युवा र श्रमजीवी वर्गमाझ लोकप्रिय हुने प्रयास गरिरहेका छन्। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय स्तरकै कार्यकर्ता भएकाले स्थानीय मुद्दाहरूमा उनको पकड राम्रो देखिन्छ, यद्यपि ठूला दलका दिग्गज उम्मेदवारहरूसँगको प्रतिस्पर्धा उनका लागि चुनौतीपूर्ण छ।",
+  "overall_approval_rating": 45
+}

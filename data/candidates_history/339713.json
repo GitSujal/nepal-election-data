@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339713,
+  "candidate_name": "प्रिती झा",
+  "candidate_party": "सार्वभौम नागरिक पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x1S0B9V8W-o5Z_K_H5T1L3J6z7V6G2L-Q",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339713.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "सार्वभौम नागरिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "प्रिती झा मोरङ क्षेत्र नं. ५ बाट सार्वभौम नागरिक पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रत्यक्ष उम्मेदवार बनेकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सार्वभौम नागरिक पार्टीमा आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "वैकल्पिक राजनीतिको एजेन्डासहित स्थापना भएको सार्वभौम नागरिक पार्टीमा आबद्ध भई राजनीतिक यात्रा सुरु गरेकी थिइन्।",
+      "link_to_source": "https://kathmandupati.com/news/173041",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक सक्रियता",
+      "date": "२०७७-०५-१०",
+      "details": "मोरङको विराटनगर र आसपासका क्षेत्रमा महिला सशक्तीकरण र सामाजिक सचेतना कार्यक्रमहरूमा सहभागी हुँदै आएकी छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339713",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रिती झा मोरङ जिल्लाकी एक उभरिँदो महिला राजनीतिकर्मी हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा मोरङ क्षेत्र नं. ५ बाट 'सार्वभौम नागरिक पार्टी' को तर्फबाट प्रतिस्पर्धा गरेकी थिइन्। यद्यपि उनले निर्वाचनमा विजय हासिल गर्न सकिनन् र प्राप्त मत पनि निकै न्यून रहेको थियो, तर सानो र नयाँ दलबाट उम्मेदवार बनेर उनले चुनावी प्रतिस्पर्धामा आफ्नो उपस्थिति जनाएकी छन्। मुख्य राजनीतिक दलहरूको पकड रहेको मोरङ ५ मा उनको उम्मेदवारीलाई वैकल्पिक राजनीतिको प्रयासका रूपमा हेरिएको छ। उनको राजनीतिक पृष्ठभूमिमा हालसम्म कुनै पनि आर्थिक भ्रष्टाचार वा ठूला विवादहरू देखिएका छैनन्, जसले उनको व्यक्तिगत छवि स्वच्छ रहेको देखाउँछ।",
+  "overall_approval_rating": 42
+}

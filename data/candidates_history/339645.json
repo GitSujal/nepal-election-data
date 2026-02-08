@@ -1,0 +1,79 @@
+{
+  "candidate_id": 339645,
+  "candidate_name": "युवराज संग्रौला",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "वरिष्ठ अधिवक्ता तथा काठमाडौं स्कुल अफ लका संस्थापक",
+  "candidates_current_position_in_party": "स्वतन्त्र उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339645.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०८२ को निर्वाचनमा उम्मेदवारी",
+      "date": "२०८२-१०-२२",
+      "details": "झापा क्षेत्र नं २ बाट प्रतिनिधि सभाका लागि पुनः स्वतन्त्र उम्मेदवारी घोषणा। उनलाई यस क्षेत्रमा 'भारी वजन' को उम्मेदवार मानिए तापनि 'टुरिस्ट' उम्मेदवारको आरोप लाग्दै आएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECnvegYSIoyX2abeBGuF1ZRoUExC8xpUhiHeNWvJoZlkAGbO533vUW-eehXn_R0BGqfQzBTAxBK4QG3jvE3dIxmtjRIYFN3a90bAv51v9dFSw91GjIJ9E7rPgqqT7S0uPQ9nXO5QUlNDfp1i0dr9SBmdFWfOSRnC-n242h3c2Ad8lsqh1BtZfvV82FgUMQHzaQPqxETSXKRECGakSAQJSkHfIXbggoFWc=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "यौन दुर्व्यवहार र गम्भीर अनुशासनहीनताको आरोप",
+      "date": "२०८१-११-२६",
+      "details": "काठमाडौं स्कुल अफ लका पूर्व विद्यार्थीहरूले संग्रौलामाथि यौन दुर्व्यवहार र लैंगिक अल्पसंख्यकहरूका विरुद्ध अपमानजनक टिप्पणी गरेको आरोप लगाउँदै छानबिनको माग गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA9prvncrVYnWSvOLhCoyuUU1ibInOz3IH4vj50KWMjpHaZ61Z49KFATyC0pimo_t0IU4xYbRokG_Xe5irGBP9HB8BUExAZ7RbWvBsYE7z66RRHLpqBiIAld6czj66LWVCfv8YcP3k8AODGndqCSdOPyArE8MqSZ0Y6SM1JSl15DtvOCfOgn9ZPk7RAmk0X_GoTij_TihsBeN5Vw1UhiLiUkmHBCwg5XqMvc0Wb7C_FDJ2r0hkmkhI=",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०७",
+      "details": "झापा क्षेत्र नं २ बाट स्वतन्त्र उम्मेदवारी दिएका संग्रौला एमालेका देवराज घिमिरेसँग पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_M20d36E3KlIFY9E0hcfZgnMQptrztb47tASEue9JUhWvZ1u8u9jFCSc0qAXRF2yX520AVX8K2s6YCnu1DN4JpCKfuNgmWn_MAT1FmP72vHJuuTUyYGDwiP03onlImKVzem0pFxyv0w_J9n4F-Ggc-6wkslFM4m4C52QYpZZ4GBgaW7xSoPYihi0f5oEVHZUt7bou1EE=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सार्क कानुन विद्वान पुरस्कार (SAARC Law Scholar Award)",
+      "date": "२०६९-०६-१५",
+      "details": "आर्थिक, सामाजिक र विकासको अधिकारको क्षेत्रमा पुर्‍याएको योगदानका लागि उनलाई भारतमा सार्क कानुन विद्वान पुरस्कार प्रदान गरियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD6YZcg_Jvt4zi8AX4lD7Pe4gG28zRd8CNGHiiPmrUnhmxJGw2Wl5TRO1fk1zMC93GrlERhrUo2SWOzdR83b1t1XX5hVUUJKj_mhUBJP1R_iQIY4i1pfIgJOmYY-j4uvE-reXGXKEHCNrQ9Vun",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महान्यायाधिवक्ता पदबाट राजीनामा",
+      "date": "२०६८-०५-१३",
+      "details": "प्रधानमन्त्री झलनाथ खनालको राजीनामासँगै उनले पनि महान्यायाधिवक्ताको पदबाट राजीनामा दिएका थिए। उनको कार्यकालमा सरकारी वकिलहरूको कार्यक्षमता अभिवृद्धिका लागि पञ्चवर्षीय योजना ल्याइएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECxNuVJ6uGNGHWOXak3siNF9eF-QTz8bRCg34IEZs_MteJOJZGsuRGeX7gY0B4h4rs5rCFz4VNMUG2Hup7TT4TxPlUUYcHWTZHfGxEXUfCMkOB_Fv9vsLbUUuJ9giYqS4=",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपालको महान्यायाधिवक्तामा नियुक्ति",
+      "date": "२०६८-०२-१८",
+      "details": "तत्कालीन प्रधानमन्त्री झलनाथ खनालको सिफारिसमा राष्ट्रपतिद्वारा नेपालको महान्यायाधिवक्ता नियुक्त। उनी सरकारको मुख्य कानुनी सल्लाहकारका रूपमा कार्यरत रहे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjKCpZNzoXez0xSwZoSiv0FxKzKMmAo_2Ps9YmaBLv5-hYfOEgCCyn9-DklLk7TI2GGMAEpUyKKBmnK4zKWo-ds0iJ_xw5JdXe9QEirqIHnQ_tcR_AAimr5qUw3myUVyDdejPR0jSDPzec-igXL5WKKwEzZEA=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "काठमाडौं स्कुल अफ ल (KSL) को स्थापना",
+      "date": "२०५७-०३-१५",
+      "details": "नेपालमा कानुनी शिक्षाको आधुनिकीकरण र गुणस्तर सुधारका लागि निजी क्षेत्रबाट पहिलो कानुन कलेजको रूपमा KSL को स्थापना।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMVln54kzXHaQLK0sULLhFXJxSYYtXEsq44_oIzZvKag134KLpd1nBtoV2mkfBOYLBi98Zan21Z6_g5TnPLE2SFZZSGf6R5BO1QlasZLi519BEROt7lJkA7JVHUIACD4wzTVv4-kLXLd8KJSIdhhV8w4eEkgJpv4s6zDA0sk6et8uSQa_1pAVnRXIuGVw=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "युवराज संग्रौला नेपालका एक प्रतिष्ठित कानुनी विद्वान र काठमाडौं स्कुल अफ ल (KSL) का संस्थापक हुन्। उनको बौद्धिक व्यक्तित्व र महान्यायाधिवक्ताको रूपमा गरिएको सेवाले उनलाई राष्ट्रिय स्तरमा स्थापित गरेको छ। यद्यपि, चुनावी राजनीतिमा भने उनले अपेक्षित सफलता प्राप्त गर्न सकेका छैनन्। २०७९ को निर्वाचनमा झापा क्षेत्र नं २ बाट स्वतन्त्र उम्मेदवारी दिँदा उनलाई 'टुरिस्ट' उम्मेदवारको रूपमा हेरियो, जसले गर्दा स्थानीय मतदातासँगको सम्बन्ध कमजोर देखियो। पछिल्लो समय २०८१ सालमा उनीमाथि लागेका यौन दुर्व्यवहारका आरोपहरूले उनको शैक्षिक र सामाजिक प्रतिष्ठामा गम्भीर प्रश्न चिन्ह खडा गरेको छ। एमसीसी जस्ता राष्ट्रिय विषयमा उनको कडा अडानले उनलाई चर्चामा ल्याए तापनि हालैका व्यक्तिगत विवादहरूले उनको चुनावी सम्भावना र छविमा नकारात्मक प्रभाव पार्न सक्छ।",
+  "overall_approval_rating": 45
+}

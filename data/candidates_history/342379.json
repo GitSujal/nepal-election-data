@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342379,
+  "candidate_name": "तवरेज आलम अंसारी",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा उम्मेदवार",
+  "candidates_current_position_in_party": "स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342379.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी क्षेत्र नम्बर ४ बाट आम जनता पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342379",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्ध",
+      "date": "२०७९-०९-१५",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टी गठन भएदेखि नै उक्त पार्टीको सांगठनिक विस्तारमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://tabrejalamansari.com.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पत्रकारिता र शैक्षिक क्षेत्रमा संलग्नता",
+      "date": "२०७५-०१-०१",
+      "details": "उनले सुनसरीमा शम्स एकेडेमीको स्थापना गर्नुका साथै पोस्टमोर्टम न्युजको प्रकाशकका रूपमा पत्रकारितामा सक्रिय रहेका छन्।",
+      "link_to_source": "https://tabrejalamansari.com.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल पत्रकार महासंघको सदस्यता",
+      "date": "२०७०-०५-१०",
+      "details": "पत्रकारिता क्षेत्रमा लामो समयदेखि आबद्ध रहँदै नेपाल पत्रकार महासंघको सदस्यका रूपमा काम गरिरहेका छन्।",
+      "link_to_source": "https://tabrejalamansari.com.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "तवरेज आलम अंसारी सुनसरी जिल्लाका एक युवा राजनीतिज्ञ र पत्रकार हुन्। उनी मुख्यतया प्रभु साह नेतृत्वको आम जनता पार्टी (AJP) सँग आबद्ध छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा सुनसरी क्षेत्र नम्बर ४ बाट उम्मेदवारी दिएका उनले स्थापित दलका हेभिवेट उम्मेदवारहरू ज्ञानेन्द्र बहादुर कार्की र जगदीश कुसियतको तुलनामा निकै कम मत प्राप्त गरे। उनको राजनीतिक शक्ति सीमित भए पनि उनी स्थानीयस्तरमा पत्रकारिता र शिक्षा (शम्स एकेडेमी) मार्फत चिनिएका छन्। उनी विशेष गरी मधेश प्रदेश र आसपासका क्षेत्रमा भ्रष्ट्राचार विरोधी अभियान र आम जनताका सवालहरूमा आवाज उठाउने प्रयास गर्छन्। निर्वाचनमा कमजोर प्रदर्शन गरे तापनि उनी नयाँ र वैकल्पिक राजनीतिक शक्तिको रूपमा स्थानीय क्षेत्रमा सक्रिय देखिन्छन्।",
+  "overall_approval_rating": 35
+}

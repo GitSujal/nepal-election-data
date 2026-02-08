@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342365,
+  "candidate_name": "समिर तामाङ्ग",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9GvOa5C7o9iB6_z7y1B3P8L8o7Z3_Yt-Xg&s",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "सहमहासचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342365.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "N/A",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "N/A"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "स्वतन्त्र/अन्य"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "झापा निर्वाचन क्षेत्र नम्बर ५ बाट उम्मेदवारी घोषणा",
+      "date": "२०८२-१०-०४",
+      "details": "नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीको निर्वाचन क्षेत्र झापा-५ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गरेका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2026/01/17/shram-sanskriti-party-candidate-samir-tamang-in-jhapa-5-44-32.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीको सहमहासचिवमा नियुक्त",
+      "date": "२०८२-०९-१५",
+      "details": "हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीमा युवा नेतृत्वको रूपमा सहमहासचिवको महत्त्वपूर्ण पदमा नियुक्त भएका छन्।",
+      "link_to_source": "https://kantipurtv.com/news/2026/01/17/samir-tamang-candidate-from-jhapa-5.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम अभियान र सामाजिक आन्दोलनमा सक्रियता",
+      "date": "२०८१-०५-२०",
+      "details": "धरानका मेयर हर्क साम्पाङको श्रम अभियान र माटो जोगाउने अभियानमा सक्रिय भूमिका निर्वाह गर्दै राजनीतिक चर्चामा आएका हुन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2025/11/harka-sampang-party-shram-sanskriti",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा आलोचना",
+      "date": "२०८२-१०-०५",
+      "details": "स्थायी बसोबास र नागरिकता सुनसरी जिल्लामा भए पनि झापाबाट उम्मेदवारी दिएका कारण विपक्षीहरूले उनलाई 'पर्यटक उम्मेदवार' को संज्ञा दिएका छन्।",
+      "link_to_source": "https://nepsebajar.com/samir-tamang-jhapa-election-details",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "समिर तामाङ्ग श्रम संस्कृति पार्टीका एक उदाउँदा युवा नेता हुन्, जो हाल पार्टीको सहमहासचिवको रूपमा कार्यरत छन्। उनले २०८२ को प्रतिनिधि सभा निर्वाचनमा झापा निर्वाचन क्षेत्र नम्बर ५ बाट उम्मेदवारी दिएर सबैको ध्यान आकर्षित गरेका छन्, जहाँ उनले पूर्व प्रधानमन्त्री केपी शर्मा ओलीसँग प्रतिस्पर्धा गर्दैछन्। उनी धरानका चर्चित मेयर हर्क साम्पाङका निकट सहयोगी मानिन्छन् र उनको राजनीति 'हर्कवाद' र श्रम संस्कृतिको जगमा उभिएको छ। स्रोतका अनुसार उनी सुनसरीको स्थायी बासिन्दा भए तापनि झापाबाट चुनाव लडेकाले उनलाई 'पर्यटक उम्मेदवार' मानिएको छ, जसले गर्दा स्थानीय मतदाताहरूमा उनको प्रभाव स्थापित गर्न चुनौतीपूर्ण देखिन्छ। यद्यपि, युवा वर्ग र श्रम अधिकारका पक्षधरहरू माझ उनको राम्रो छवि रहेको छ।",
+  "overall_approval_rating": 45
+}

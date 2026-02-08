@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341107,
+  "candidate_name": "सुशिला थिङ",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_Nepali_Congress.svg",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य एवं सचेतक",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341107.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "आदिवासी जनजाति",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली काँग्रेसको सचेतकमा नियुक्त",
+      "date": "२०८०-०२-२५",
+      "details": "नेपाली काँग्रेसका संसदीय दलका नेता शेरबहादुर देउवाले थिङलाई प्रतिनिधिसभाको सचेतकमा मनोनयन गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/06/1317511",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सङ्घीय निजामती ऐनका लागि माफी माग्न प्रस्ताव",
+      "date": "२०८१-०८-२७",
+      "details": "प्रतिनिधिसभा बैठकमा समयमै निजामती ऐन ल्याउन नसकेकोमा सांसदहरूको तर्फबाट माफी माग्नुपर्ने धारणा राखेकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/12/1583307",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उपसभामुखको विवादमा प्रश्न",
+      "date": "२०८१-०२-२३",
+      "details": "उपसभामुख इन्दिरा रानाको विवादित अभिव्यक्तिका विषयमा संसदमा प्रश्न उठाउँदै नैतिकताको कुरा गरेकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/06/1490288",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली काँग्रेसको १४औँ महाधिवेशनबाट उनी केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भएकी थिइन्।",
+      "link_to_source": "https://kathmandupost.com/national/2023/06/08/sushila-thing-nominated-congress-whip",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "समानुपातिक सांसदमा दोहोरिएको",
+      "date": "२०७९-०९-०७",
+      "details": "२०७९ को निर्वाचनमा आदिवासी जनजाति कोटाबाट उनी लगातार दोस्रो पटक समानुपातिक सांसद निर्वाचित भइन्।",
+      "link_to_source": "https://nepalkhabar.com/politics/134446-2023-06-08-12-16-16",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुशिला थिङ नेपाली काँग्रेसभित्र एक शालीन र प्रभावशाली महिला नेतृत्वका रूपमा चिनिन्छिन्। सिन्धुली स्थायी घर भएकी थिङले २०७४ र २०७९ दुवै निर्वाचनमा समानुपातिक प्रणालीमार्फत प्रतिनिधिसभामा प्रतिनिधित्व गरेकी छिन्। उनी हाल नेपाली काँग्रेसको केन्द्रीय सदस्य र संसदीय दलको सचेतक जस्तो महत्त्वपूर्ण जिम्मेवारीमा छिन्। संसदमा उनले सुशासन र निजामती सेवाका सवालमा सशक्त आवाज उठाउने गरेकी छिन्। लामो समयदेखि पार्टीको महिला विभाग र सङ्गठनमा सक्रिय रहेकी उनलाई काँग्रेस नेतृत्वले विश्वासिलो पात्रका रूपमा हेर्ने गरेको छ। उनी हाल सिन्धुली क्षेत्र नम्बर २ बाट आगामी निर्वाचनमा प्रत्यक्षतर्फको उम्मेदवारका रूपमा समेत चर्चामा छिन्, जसले उनको बढ्दो लोकप्रीयता र राजनीतिक पकडलाई जनाउँछ।",
+  "overall_approval_rating": 82
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341583,
+  "candidate_name": "विनोद घिमिरे",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (दोलखा)",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341583.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेश्नलिष्ट पिपल्स पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "विनोद घिमिरेले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा दोलखा जिल्लाबाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र र जिल्ला परिवर्तन (भगुवा उम्मेदवार)",
+      "date": "२०७९-०६-०१",
+      "details": "२०७४ मा संखुवासभाबाट चुनाव लडेका घिमिरे २०७९ मा दोलखा सर्नुलाई राजनीतिक रूपमा अस्थिरता र 'भगुवा' प्रवृत्तिको रूपमा हेरिएको छ।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा अत्यन्तै न्यून मत",
+      "date": "२०७४-०८-२१",
+      "details": "संखुवासभा क्षेत्र नं. १ बाट नेश्नलिष्ट पिपल्स पार्टीको तर्फबाट उम्मेदवार बन्दा उनले मात्र २६ मत प्राप्त गरेका थिए, जुन कुल सदर मतको करिब ०.०४ प्रतिशत मात्र हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSeWUnKKfovOtHhd11afY-1cM086ndVXes1V7szndQ6jLzZJqyp4Cv8-5vWyFw6hO47lDdtbbjgiQYot0b0F3OiQeMNs6awhrI6C2Knh24Na4t0eC7aENCGMJcFYHV8ZzYZsJMeAtAIWlim8fjOt_f5siI0HDJqzgTP6l1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेश्नलिष्ट पिपल्स पार्टीसँगको आबद्धता त्याग",
+      "date": "२०७९-०१-०१",
+      "details": "घिमिरेले २०७४ मा आफू आबद्ध रहेको नेश्नलिष्ट पिपल्स पार्टी छाडेर २०७९ मा स्वतन्त्र रूपमा उम्मेदवारी दिएका हुन्।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "विनोद घिमिरे नेपाली राजनीतिमा एक सीमान्त (marginal) र अस्थिर पात्रका रूपमा देखिएका छन्। २०७४ को प्रतिनिधि सभा निर्वाचनमा संखुवासभाबाट चुनाव लड्दा उनले प्राप्त गरेको मात्र २६ मतले उनको जनस्तरमा रहेको कमजोर पकडलाई पुष्टि गर्दछ। २०७९ को निर्वाचनमा उनले आफ्नो साविकको जिल्ला र पार्टी दुवै परिवर्तन गरी दोलखाबाट स्वतन्त्र उम्मेदवारी दिएका थिए। एक जिल्लाबाट पराजित भएपछि अर्को जिल्लामा जाने उनको यो 'भगुवा' प्रवृत्तिले मतदाताहरूमाझ उनको विश्वसनीयता कमजोर बनाएको छ। उनको राजनीतिक प्रभाव नगण्य छ र उनलाई कुनै ठोस एजेन्डा नभएको एक साङ्केतिक उम्मेदवारका रूपमा मात्र हेरिने गरिएको छ।",
+  "overall_approval_rating": 15
+}

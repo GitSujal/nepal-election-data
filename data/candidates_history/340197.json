@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340197,
+  "candidate_name": "बिनिता कठायत",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rastriya_Swatantra_Party_Logo.svg/1200px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340197.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "जुम्ला",
+      "constituency": "समानुपातिक (खस आर्य ग्रामीण)",
+      "result": "विजयी",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "संसदीय समितिको होटल सीसीटीभी फुटेज माग",
+      "date": "२०८१-१०-१३",
+      "details": "सांसद कठायतले पोखराको होटल ओपन हाउसमा बसेका कृषि, सहकारी तथा प्राकृतिक स्रोत समितिका सदस्यहरूको पारदर्शिताका लागि सीसीटीभी फुटेज सार्वजनिक गर्न माग गरेकी थिइन्।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/1529606-1737890250.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कर्णालीका नारी स्वरको प्रतिनिधित्व",
+      "date": "२०८१-१०-०१",
+      "details": "मार्टिन चौतारीद्वारा आयोजित कार्यक्रममा उनले काठमाडौंको संसदमा कर्णालीका महिलाहरूको समस्या र आवाजलाई कसरी प्रतिनिधित्व गराइरहेकी छिन् भन्नेबारे चर्चा गरेकी थिइन्।",
+      "link_to_source": "https://www.martinchautari.org.np/mc-activities/events/831-binita-kathayat",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सुकुमवासी समस्या समाधानको वकालत",
+      "date": "२०८०-०९-१७",
+      "details": "काठमाडौंको सुकुमवासी समस्या समाधानका लागि महानगरपालिकालाई सहयोग गर्नुपर्ने र यसमा सरकारको स्पष्ट नीति हुनुपर्ने भन्दै उनले संसदमा आवाज उठाएकी थिइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/01/1413809",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यको शपथ ग्रहण",
+      "date": "२०७९-०९-०७",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीबाट समानुपातिक प्रणालीमार्फत निर्वाचित भई उनले प्रतिनिधि सभा सदस्यको रूपमा पद तथा गोपनीयताको शपथ लिएकी थिइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Binita_Kathayat",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको धारमा सक्रिय हुनका लागि उनी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेकी थिइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Binita_Kathayat",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ग्यालेक्सी ४के टेलिभिजनमा काम",
+      "date": "२०७८-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि उनले ग्यालेक्सी ४के टेलिभिजनमा कार्यक्रम सञ्चालक र सञ्चारकर्मीको रूपमा कार्य गरेकी थिइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Binita_Kathayat",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "चलचित्र क्षेत्रमा आबद्धता",
+      "date": "२०७३-०१-०१",
+      "details": "उनले 'लुट २' र 'होस्टल रिटर्न्स' जस्ता चर्चित नेपाली चलचित्रहरूमा सहायक निर्देशकको रूपमा काम गरेकी थिइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Binita_Kathayat",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बिनिता कठायत जुम्लाबाट प्रतिनिधित्व गर्ने राष्ट्रिय स्वतन्त्र पार्टीकी एक युवा र प्रभावशाली सांसद हुन्। उनी २०७९ सालको प्रतिनिधि सभा निर्वाचनमा समानुपातिक निर्वाचन प्रणाली (खस आर्य ग्रामीण क्लस्टर) मार्फत निर्वाचित भएकी थिइन्। राजनीतिमा आउनुअघि उनी सञ्चार र चलचित्र क्षेत्रमा सक्रिय थिइन्, विशेषगरी ग्यालेक्सी ४के टेलिभिजनमा काम गरेकी थिइन्। संसदमा उनी कृषि, सहकारी तथा प्राकृतिक स्रोत समितिको सदस्यको रूपमा सक्रिय छिन् र पारदर्शिताका लागि होटलको सीसीटीभी फुटेज माग्ने जस्ता साहसी कदमका लागि चिनिन्छिन्। उनले कर्णालीका महिलाहरूको आवाजलाई केन्द्रीय राजनीतिमा बुलन्द पार्दै आएकी छिन्। उनी जुम्लाकै रैथाने उम्मेदवार भएकाले उनलाई 'टुरिस्ट' उम्मेदवारको आरोप छैन र उनको राजनीतिक छवि स्वच्छ रहेको छ। उनलाई नेपालको वैकल्पिक राजनीतिको एक आशालाग्दो र बौद्धिक युवा अनुहारको रूपमा हेरिन्छ।",
+  "overall_approval_rating": 88
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342437,
+  "candidate_name": "उमेश प्रसाद साह तेली",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342437.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "पर्सा क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://result.ekantipur.com/election/2079/pratinidhi-sabha/parsa/4",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को आम निर्वाचनमा पर्सा क्षेत्र नं. ४ बाट प्रतिस्पर्धा गर्दा नेपाली कांग्रेसका रमेश रिजालसँग पराजित।",
+      "link_to_source": "https://result.ekantipur.com/election/2079/pratinidhi-sabha/parsa/4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "उमेश प्रसाद साह तेली पर्सा जिल्लाको निर्वाचन क्षेत्र नं. ४ बाट २०७९ सालको प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका व्यक्ति हुन्। उनले मुख्य राजनीतिक दलहरूका विरुद्धमा स्थानीय मुद्दाहरू उठाउँदै चुनावी मैदानमा उत्रिएका थिए। यद्यपि उनले उल्लेखनीय मत प्राप्त गर्न सकेनन् र पराजित भए। उनको राजनीतिक जीवन मुख्यतया स्थानीय स्तरमा केन्द्रित रहेको देखिन्छ र उनी हालसम्म कुनै पनि ठूला दलमा आबद्ध भएर राष्ट्रिय राजनीतिमा स्थापित भइसकेका छैनन्। उनीमाथि हालसम्म कुनै गम्भीर भ्रष्टाचार वा विवादका मुद्दाहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनको छवि एक स्वच्छ तर कम प्रभावकारी स्थानीय उम्मेदवारको रूपमा रहेको छ।",
+  "overall_approval_rating": 35
+}

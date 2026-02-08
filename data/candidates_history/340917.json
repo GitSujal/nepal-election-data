@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340917,
+  "candidate_name": "उपेन्द्र यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य (बारा-२)",
+  "candidates_current_position_in_party": "केन्द्रीय अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340917.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "मधेसी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "मधेसी जनअधिकार फोरम, नेपाल (लोकतान्त्रिक)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य (उपनिर्वाचन)",
+      "district": "बारा",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी अध्यक्षमा निर्विरोध निर्वाचित",
+      "date": "२०८१-०२-३०",
+      "details": "जनकपुरधाममा सम्पन्न जनता समाजवादी पार्टी (जसपा) नेपालको राष्ट्रिय महाधिवेशनबाट उपेन्द्र यादव पुनः केन्द्रीय अध्यक्षमा निर्विरोध निर्वाचित भएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELNMZ8CzWJBj5eU3lHMI7EVNDvecyjPWiEzHQ7m6VHIr9A_KqzrIrvhoZ9bcgZu-6CEI92Spwn-LgiIEenPLSIenlA8ySLk-oINfP4oGed6OwDFxsj8OR4PaYw1kLo6ssnJTxT7O1V3xx6lPLcvJYEGeNnpDzXlK1PZDWb0BPZL-rxfKFxMf7R_wIUifhGJHbxgP2xjP0UNjidMA==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उपप्रधानमन्त्री पदबाट राजीनामा",
+      "date": "२०८१-०१-३१",
+      "details": "पार्टी विभाजन र बदलिएको राजनीतिक परिस्थितिपछि उपेन्द्र यादवले उपप्रधान तथा स्वास्थ्य मन्त्री पदबाट राजीनामा दिई सरकारबाट बाहिरिएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwwsCBN3rL08ugfSCNs1-cjiU4cNRs7MCAZ9Ac9x4Exqg43VEkA6vmUWs118nXYiqTCSiGlXbhicRDcKVdvt01w2fZtiUSA6dbp5UbnDsZdKjW-MMOdPkcprTTFG-UQBvn-WrxfkDEuzlOBYeMwUQiGSNY6sOgKXMYrP8iN6ybRTIRds9slsjW-PtAdPLCN5SPjgJXuYZde_0yoDyZRHH3QbmeCVI5QAfugEg=",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जसपा नेपाल विभाजन",
+      "date": "२०८१-०१-२३",
+      "details": "उपेन्द्र यादव अमेरिका भ्रमणमा रहेका बेला अशोक राईको नेतृत्वमा ७ सांसद र ३० केन्द्रीय सदस्यले पार्टी फुटाएर नयाँ जसपा गठन गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYkZF1jePWZi3atUhtJAmhaBAnO5iRF5ZTsZwB4GGjRCAyBCeGaXWoliMI4DKQpn2pmhuONXraoMcCBAiGQJ70UPlSk2QT8qWB01vKwhiYiPyN1tfnQaBQUypW8iV2zq2nCT1qB-w=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बारा-२ उपनिर्वाचनमा विजयी",
+      "date": "२०८०-०१-१३",
+      "details": "सप्तरीबाट पराजित भएको ५ महिनापछि उपेन्द्र यादव बारा-२ को उपनिर्वाचनमा शिवचन्द्र कुशवाहालाई पराजित गर्दै पुनः संसद छिरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvSlQX1wfjOeGDgOoYv9C4Wj-D9vT2BlPtYS9VIE9E_dmGHaOzCjNK1sM5j3kwhdglhOYT07Kia1kpqYe0XcllTNeRC8no6wGsu0XmPNHK6z4_k3jdg0POLUSm3ZL6A23FHzYEZpXf2pekYjEk8X9aU8z4GdJXgYZczj8gJgLCsLHkVSMmCOpuroX9D0_Jw_yZ4N5O3ph3pU799Z9_u460o3AtRTDui_BxQkvc7CI2SQ==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सप्तरी-२ मा भारी पराजय",
+      "date": "२०७९-०८-०७",
+      "details": "प्रतिनिधि सभा निर्वाचन २०७९ मा जनमत पार्टीका अध्यक्ष डा. सीके राउतसँग उपेन्द्र यादव १८,०७३ मतान्तरले पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHa_kUaXgS2pjCBlhtwFHrG6f0V3Q63qJY49ldQjyL5VVZ4WU7XE8UsHZ1HPJ-zi3iXQA4qcocMisiGPa4eqswCnN9lR3iy_XhK7h-bcelEhQ7YbB3_A1PlJ7g6eLQJJONZKNgHEBcQ2t6rlWRE41ItH9_OOOoDevm3W1i4Gcqk_z1XS5z9PtONNs4edoDYDpb4WS0EFnF",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कानुन मन्त्रीबाट राजीनामा",
+      "date": "२०७६-०९-०९",
+      "details": "तत्कालीन प्रधानमन्त्री केपी शर्मा ओलीसँगको मतभेदका कारण स्वास्थ्य मन्त्रालयबाट कानुन मन्त्रालयमा सारिएपछि उनले मन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjWPRsn3FOwB9rMQRh-6H6av60mPxA-A9lYqy2dG5c5HofoPkS4LW35jVGkhJiBc26GqTrqCTS37Q_uVrEgIlQxGUx4kgg13vuVj0MrfCnfR6zTzCnUOKZCqIO07FmIXR44MHhmPxMoe3nSGYPWNnN4JcFQ4X_ug==",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "गौर हत्याकाण्ड छानबिन पुनः सुरु",
+      "date": "२०८०-०४-२२",
+      "details": "२०६३ सालमा भएको २७ जना माओवादी कार्यकर्ताको हत्या (गौर हत्याकाण्ड) मा उपेन्द्र यादवको संलग्नता रहेको आरोपमा पीडितले उजुरी दिएपछि सर्वोच्चको आदेशमा पुनः छानबिन प्रक्रिया अघि बढेको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmwYzUOYM_-sHuv8l6qo6JRr6V7-dSpwRybIiq8bR6qxb67_lThQ4E4LesSfgBMHBgJjrvfBr1clr5hA_GtWHuxeODRFk_hnIDIMmnhsOciT9tiPAUMKgwWF9BG-ujk_odOMlwgAqlrL-lXrlJFT4x0fMS0PSqcaEAY1q1ECavqVxeq1JieEfrAswbzk2NnXZi8o1fvrDcvNgtB4W-fN2uUHG1eW8vIdHyOhMo3DQHrnOk2Dwy9GctKdJxsx662b-igP6ETD8PsCboTZEC1J5kfH0dB86WHA==",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मधेस आन्दोलनको नेतृत्व",
+      "date": "२०६३-१०-०१",
+      "details": "अन्तरिम संविधान जलाएर उपेन्द्र यादवले पहिलो मधेस आन्दोलनको शंखघोष गरे, जसले नेपालमा संघीयता र समावेशिता सुनिश्चित गर्न महत्वपूर्ण भूमिका खेल्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHez4pJy-Ghp-R9j8UxRjkkW7kdUl-Mh1Xr4TsUbUn8qXuRpVEZ1ElbehC-saOg9EBGHmuXIHNdnodxIPOn9HHMoiHJgyxOwR1czHlSoyprchL_ADjMp1mOgOY5PUnH8jM8ycOvMQ==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "उपेन्द्र यादव नेपालको मधेस राजनीतिका एक प्रभावशाली र चतुर खेलाडी हुन्। उनले मधेस आन्दोलनको नेतृत्व गर्दै देशमा संघीयता र समानुपातिक प्रतिनिधित्व स्थापित गर्न निर्णायक भूमिका निर्वाह गरे। तर, पछिल्लो समय उनको राजनीतिक साखमा ह्रास आएको देखिन्छ, जसको उदाहरण २०७९ को चुनावमा आफ्नै गृहजिल्ला सप्तरीमा सीके राउतसँगको फराकिलो हार हो। त्यसपछि बारा-२ बाट उपनिर्वाचन लड्नुले उनलाई 'पलायनवादी' वा 'भगुवा' (Tourist Candidate) को परिचय दिएको छ। २०६३ को गौर हत्याकाण्डमा उनको नाम जोडिएर पुनः छानबिन सुरु हुनु र पटक-पटक पार्टी फुट्नुले उनको नैतिकतामाथि गम्भीर प्रश्न उठाएको छ। सत्ता मोह र पदका लागि जस्तोसुकै गठबन्धन गर्ने प्रवृत्तिका कारण उनको सार्वजनिक लोकप्रियता र विश्वसनीयता खस्किएको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 45
+}

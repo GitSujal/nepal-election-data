@@ -1,0 +1,87 @@
+{
+  "candidate_id": 339860,
+  "candidate_name": "आत्‍माराम प्रसाद साह",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "पूर्व संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "वरिष्ठ नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339860.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "बारा",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "तराई मधेश लोकतान्त्रिक पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बारा",
+      "constituency": "४ (ख)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "बारा",
+      "constituency": "४ (ख)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा आबद्ध",
+      "date": "२०७९-०९-१५",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा प्रवेश गरी केन्द्रीय तहमा महत्वपूर्ण भूमिका निर्वाह गर्न थाले।",
+      "link_to_source": "https://ratopati.com/story/301323/2022/11/1/atmaram-sah",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर ४ (ख) बाट जसपाको उम्मेदवार भई ८,२८३ मत प्राप्त गरेर दोस्रो स्थानमा रहे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339860",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "राजपा नेपालको तर्फबाट बारा ४ (ख) मा निर्वाचन लडेका थिए तर जित हासिल गर्न सकेनन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2074/bara-4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा निर्वाचित",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा बारा क्षेत्र नम्बर ४ बाट तमलोपाको तर्फबाट निर्वाचित भई सक्रिय संसदीय भूमिका निर्वाह गरे।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "औद्योगिक व्यवस्थापनमा अनुभव",
+      "date": "२०५५-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि ज्योति स्पिनिङ मिल्समा महाप्रबन्धक र वृन्दावन डेरीमा संचालकको रूपमा कार्य गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339860",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "इन्जिनियरिङ शिक्षा पूरा",
+      "date": "२०४५-०३-१५",
+      "details": "भारतको नागपुरस्थित भि.एन.आइ.टी (VNIT) बाट मेकानिकल इन्जिनियरिङमा स्नातक (B.E.) उपाधि हासिल गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339860",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "आत्माराम प्रसाद साह बारा जिल्लाका एक बौद्धिक र अनुभवी राजनीतिज्ञ हुन्। मेकानिकल इन्जिनियरिङमा स्नातक गरेका साहले २०६४ को संविधान सभा निर्वाचनमा विजयी भएर आफ्नो राजनीतिक प्रभाव स्थापित गरेका थिए। उनी लामो समय मधेश केन्द्रित राजनीतिमा सक्रिय रहेका छन् र तमलोपा, राजपा हुँदै हाल प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध छन्। यद्यपि उनी पछिल्ला दुई निर्वाचनमा पराजित भएका छन्, तर उनले प्राप्त गरेको मत संख्याले स्थानीय स्तरमा उनको बलियो पकड रहेको पुष्टि गर्छ। उनको प्राविधिक शैक्षिक पृष्ठभूमि र औद्योगिक अनुभवले उनलाई अन्य नेताहरूभन्दा फरक र सक्षम छविको रूपमा प्रस्तुत गर्दछ। बारम्बारको पार्टी परिवर्तनले केही अस्थिरता देखाए तापनि बारा ४ मा उनी एक प्रभावशाली शक्तिका रूपमा रहिआएका छन्।",
+  "overall_approval_rating": 62
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342551,
+  "candidate_name": "राकेश कुमार साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "लागू नहुने",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342551.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं ३ (क)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "महोत्तरी निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधिसभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका साहले १,६०८ मत प्राप्त गरे पनि पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDTD2iSMJfI8mB44nYS12u_dT1tM_6y-cZp2bzrz2ZdUPNpUKH39D1fBbMyGc-Xq5oFwTT8MHRN3V7XJiTHT5aPDviBMBlpgrrLc2JDpqoBIQJRH1b6O9sXEF6mmvsnIy3pWd8_oISkZiXO4pz254kjO46fJ7f2CAYaVxSMzRQlFwo7h5wSRpOZg==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "महोत्तरी ४ मा स्थानीय मुद्दाहरू उठाउँदै उनले निर्वाचन आयोगमा आफ्नो स्वतन्त्र उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG19U4bC7jKr3SdREwjezvsjTLXNl1wUve3FPAhQD4_uXkfzHOEPdOneEj_XltjZZ5X7mpU7eMN-cAIB7AwE8sO3gZEHCwdVZKhd1oVm9x-T8SIUUp1XsuHYp4-eNnY5TgqRHdDTIm0R6iyxoBT9N7v_iENFAp2",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "महोत्तरी क्षेत्र नम्बर ३ (क) बाट प्रदेश सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका साहले जम्मा २२ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqZb9R3rc3NJ2UFciq603ZEkEuzv3bnM-6CIDTW6hBdtTo_L3C5I6QiqoBq-Eq473Zgugno8TRAu_A61N317VTJN4dNKhwkPas7fnhTbCNrAwX3q6EwtCIhYz-J-OgUKE9wxkjqMqNU5hx2hbieshPrKmcdmcLa7vHjpnJx8aCrkZNU_c=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राकेश कुमार साह महोत्तरी जिल्लाका एक सक्रिय स्वतन्त्र राजनीतिज्ञ हुन् जसले लगातार दुई निर्वाचनमा स्वतन्त्र उम्मेदवारी दिएका छन्। २०७४ को प्रदेश सभा निर्वाचनमा अत्यन्तै न्यून मत (२२ मत) प्राप्त गरे तापनि २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले आफ्नो मत संख्यामा उल्लेख्य सुधार गर्दै १,६०८ मत पुर्याउन सफल भएका देखिन्छन्। उनी कुनै ठूलो राजनीतिक दलमा आबद्ध नभई स्थानीय स्तरमा स्वतन्त्र रूपमा राजनीतिक पहिचान बनाउने प्रयासमा छन्। उनको पृष्ठभूमिमा कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू फेला परेका छैनन्, जसले गर्दा उनको छवि स्वच्छ देखिन्छ। यद्यपि, दलीय संगठनको अभाव र प्रभावशाली राष्ट्रिय नेताहरूको उपस्थितिका कारण उनलाई निर्वाचन जित्न कठिन चुनौती रहेको देखिन्छ।",
+  "overall_approval_rating": 35
+}

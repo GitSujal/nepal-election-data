@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341652,
+  "candidate_name": "रामेश्वर साह",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/NWPP_Logo.png",
+  "candidates_current_position": "पार्टी कार्यकर्ता",
+  "candidates_current_position_in_party": "सिराहा जिल्ला सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341652.jpg",
+  "election_history": [
+    {
+      "year": "२०७९ (बैशाख)",
+      "position": "नगरप्रमुख",
+      "district": "सिराहा",
+      "constituency": "कल्याणपुर नगरपालिका",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा ४",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "साहले सिराहा निर्वाचन क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले १५१ मत प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/rameshwar-sah-341652",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०१-३०",
+      "details": "कल्याणपुर नगरपालिकाको नगरप्रमुख पदका लागि नेपाल मजदुर किसान पार्टीको तर्फबाट उनले उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/local-level-election-2079/candidates?pradesh=2&district=16&municipality=102",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी निष्ठा र विचार प्रसार",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि नेपाल मजदुर किसान पार्टीको वैचारिक सिद्धान्त र मजदुर-किसानको हकहितका लागि सिराहामा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1218844",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रामेश्वर साह नेपाल मजदुर किसान पार्टीका एक निष्ठावान र वैचारिक कार्यकर्ता हुन्। उनले २०७९ सालको स्थानीय र आम निर्वाचन दुवैमा सिराहाबाट उम्मेदवारी दिएका थिए, जसले उनको राजनीतिक सक्रियतालाई पुष्टि गर्दछ। यद्यपि, प्रतिनिधि सभा निर्वाचनमा उनले प्राप्त गरेको १५१ मतले उनको प्रभाव पार्टीको सानो घेराभन्दा बाहिर विस्तार हुन नसकेको संकेत गर्दछ। मधेशको राजनीतिमा प्रभावशाली दलहरू र स्वतन्त्र उम्मेदवारहरूको बीचमा साहको उपस्थिति मुख्य रूपमा सांकेतिक र वैचारिक मात्र देखिन्छ। उनी विरुद्ध कुनै सार्वजनिक भ्रष्टाचार वा स्क्यान्डलका घटनाहरू भेटिएका छैनन्, जुन नेमकिपाका कार्यकर्ताहरूको साझा विशेषता हो।",
+  "overall_approval_rating": 38
+}

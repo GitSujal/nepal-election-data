@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341169,
+  "candidate_name": "श्रवण पासवान",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://shirishnews.com/wp-content/uploads/2022/10/ujyalo-nepal-party.jpg",
+  "candidates_current_position": "युवा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341169.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा निर्वाचन क्षेत्र नम्बर ३ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधि सभा निर्वाचनमा प्रतिस्पर्धा गरेका थिए। उनले युवा र दलित मुद्दाहरूलाई प्राथमिकता दिएर चुनाव लडेका थिए।",
+      "link_to_source": "https://nepalnews.com/s/nation/58-gen-z-candidates-in-madhesh-zero-from-nepali-congress",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जेन-जी (Gen Z) युवा उम्मेदवारको रूपमा उदय",
+      "date": "२०७९-०६-२३",
+      "details": "२६ वर्षको उमेरमा प्रतिनिधि सभाका लागि उम्मेदवारी दर्ता गर्दै मधेस प्रदेशकै कान्छा उम्मेदवारहरू मध्ये एकको रूपमा चर्चामा आएका थिए।",
+      "link_to_source": "https://nepalnews.com/s/nation/58-gen-z-candidates-in-madhesh-zero-from-nepali-congress",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टी र हाम्रो नेपाल पार्टी बीचको सहकार्य",
+      "date": "२०७९-०६-२४",
+      "details": "उनको दल उज्यालो नेपाल पार्टीले निर्वाचनमा 'बालेको चिम' चिन्ह लिएर निर्वाचनमा जाने सहमति गरेको थियो। यसले साना दलहरू बीचको एकताको प्रयासलाई दर्शाउँछ।",
+      "link_to_source": "https://www.ratopati.com/story/267812/2022/10/9/ujyalo-nepal-party-hamro-nepal-party-agreement",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "श्रवण पासवान सिराहा क्षेत्र नम्बर ३ का एक युवा र जुझारु राजनीतिज्ञ हुन्। उनले २०७९ को निर्वाचनमा 'जेन-जी' पुस्ताको प्रतिनिधित्व गर्दै उज्यालो नेपाल पार्टीबाट उम्मेदवारी दिएका थिए। मधेसको दलित (पासवान) समुदायको प्रतिनिधित्व गर्ने उनले वैकल्पिक राजनीतिको जग बसाल्ने प्रयास गरेका छन्। ठूला दलहरूको दबदबा रहेको क्षेत्रमा नयाँ पार्टीबाट चुनाव लडे पनि उनले उल्लेख्य जनमत भने प्राप्त गर्न सकेनन्। उनको राजनीतिक करियरमा अहिलेसम्म कुनै भ्रष्टाचार वा विवादित काण्डहरू देखिएका छैनन्, जसले उनको सामाजिक छविलाई स्वच्छ राखेको छ। सिराहामा युवा नेतृत्वको आवश्यकता र दलित सशक्तिकरणका लागि उनको भूमिका महत्वपूर्ण मानिन्छ। आगामी दिनमा जनस्तरमा आफ्नो संगठन बलियो बनाउन सकेमा उनी एक प्रभावकारी नेताको रूपमा स्थापित हुने सम्भावना छ।",
+  "overall_approval_rating": 45
+}

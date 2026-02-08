@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341364,
+  "candidate_name": "लिला बहादुर सुनुवार",
+  "candidate_party": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Janata_Samajbadi_Party_logo.png/220px-Janata_Samajbadi_Party_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341364.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "इलाम",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "लिला बहादुर सुनुवारले इलाम निर्वाचन क्षेत्र नं. २ बाट जनता समाजवादी पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341364",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७८-०५-०१",
+      "details": "सुनुवार लामो समयदेखि जनता समाजवादी पार्टी (जसपा) को स्थानीय संगठन र जातीय मुद्दाहरूमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/candidate/leela-bahadur-sunuwar",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुनुवार समुदायको पहिचानको आन्दोलनमा सहभागी",
+      "date": "२०७५-१०-१५",
+      "details": "इलाममा रहेका अल्पसङ्ख्यक सुनुवार समुदायको हकहित र पहिचानका लागि हुने विभिन्न सामाजिक र राजनीतिक कार्यक्रमहरूमा उनी सक्रिय रहने गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/candidate/leela-bahadur-sunuwar",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लिला बहादुर सुनुवार इलाम जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले २०७९ को आम निर्वाचनमा जनता समाजवादी पार्टी (जसपा) को तर्फबाट इलाम क्षेत्र नं. २ मा प्रतिस्पर्धा गरेका थिए। उनी मुख्यतः सुनुवार समुदायको प्रतिनिधित्व गर्दै राजनीतिमा सक्रिय छन्। सो क्षेत्रमा नेकपा एमालेका सुवास चन्द्र नेम्वाङ र नेपाली कांग्रेसका डम्बर बहादुर खड्का जस्ता भारी तौल भएका नेताहरूको प्रतिस्पर्धाका कारण सुनुवारको चुनावी नतिजा कमजोर रह्यो। उनको राजनीतिक प्रभाव हालसम्म जिल्ला र समुदाय स्तरमा मात्र सीमित देखिन्छ। कुनै ठूला स्क्यान्डल वा विवादमा नमुछिएका भए तापनि ठूला दलहरूको वर्चस्व रहेको इलाममा उनलाई चुनावी जित हासिल गर्न निकै चुनौतीपूर्ण देखिन्छ।",
+  "overall_approval_rating": 40
+}

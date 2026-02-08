@@ -1,0 +1,87 @@
+{
+  "candidate_id": 339693,
+  "candidate_name": "सोम प्रसाद मिश्र",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CPN-UML_logo.png",
+  "candidates_current_position": "पूर्व नगर प्रमुख, चाँगुनारायण नगरपालिका",
+  "candidates_current_position_in_party": "सदस्य, भक्तपुर जिल्ला कमिटी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339693.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "नगर प्रमुख",
+      "district": "भक्तपुर",
+      "constituency": "चाँगुनारायण नगरपालिका",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "नगर प्रमुख",
+      "district": "भक्तपुर",
+      "constituency": "चाँगुनारायण नगरपालिका",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को प्रतिनिधि सभा तथा प्रदेश सभा निर्वाचनमा भक्तपुर क्षेत्र नं. १ (ख) बाट प्रदेश सभा सदस्यका लागि प्रतिस्पर्धा गरे पनि नेमकिपाका उम्मेदवारसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०२-०४",
+      "details": "चाँगुनारायण नगरपालिकाको प्रमुख पदमा पुन: उम्मेदवारी दिएका मिश्र नेपाली कांग्रेसका जीवन खत्रीसँग झिनो मतान्तरले पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/changunarayan?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उद्यमी युवा स्वरोजगार योजना",
+      "date": "२०७९-०१-११",
+      "details": "नगर प्रमुखको कार्यकालमा १८ देखि ४५ वर्षका बेरोजगार युवाहरूलाई ३ लाख रुपैयाँसम्मको निब्याजी ऋण उपलब्ध गराउने कार्यक्रम सुरु गरे।",
+      "link_to_source": "https://theannapurnaexpress.com/news/changunarayan-embraces-progress-5221",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "छोरी शिक्षा बचत खाता कार्यक्रम",
+      "date": "२०७८-०३-१५",
+      "details": "नगरपालिकाभित्रका सामुदायिक विद्यालयमा पढ्ने छात्राहरूका लागि वार्षिक ४ हजार रुपैयाँ बचत गरिदिने 'छोरीको खाता, सुन्दर भविष्य' कार्यक्रमको सफल कार्यान्वयन।",
+      "link_to_source": "https://theannapurnaexpress.com/news/changunarayan-embraces-progress-5221",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नगर अस्पताल सञ्चालन",
+      "date": "२०७७-०६-१०",
+      "details": "कोभिड-१९ महामारीको समयमा चाँगुनारायणमा २५ शय्याको नगर अस्पताल सञ्चालनमा ल्याई स्वास्थ्य सेवामा सुधार गरे।",
+      "link_to_source": "https://theannapurnaexpress.com/news/changunarayan-embraces-progress-5221",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "चाँगुनारायण नगर प्रमुखमा निर्वाचित",
+      "date": "२०७४-०३-१६",
+      "details": "स्थानीय तह निर्वाचन २०७४ मा एमालेको तर्फबाट उम्मेदवार भई चाँगुनारायण नगरपालिकाको पहिलो नगर प्रमुख बन्न सफल।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सोम प्रसाद मिश्र भक्तपुरको राजनीतिमा एमालेका एक अनुभवी र प्रभावशाली नेता हुन्। चाँगुनारायण नगरपालिकाको पहिलो नगर प्रमुखका रूपमा उनले शिक्षा, स्वास्थ्य र युवा स्वरोजगारका क्षेत्रमा लोकप्रिय कार्यक्रमहरू ल्याएका थिए। विशेषगरी छात्राहरूका लागि बैंक खाता र निब्याजी युवा ऋण जस्ता कार्यक्रमले उनको सकारात्मक छवि बनाएको थियो। यद्यपि, २०७९ को स्थानीय निर्वाचनमा उनले आफ्नो साख जोगाउन सकेनन् र कांग्रेसका उम्मेदवारसँग पराजित भए। लगत्तै प्रदेश सभा निर्वाचनमा पनि पराजय भोग्नुले स्थानीयस्तरमा उनको राजनीतिक पकड केही कमजोर भएको संकेत गर्दछ। उनी पार्टीप्रति सधैं बफादार र सिद्धान्तनिष्ठ नेताका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 62
+}

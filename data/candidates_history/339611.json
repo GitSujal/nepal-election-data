@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339611,
+  "candidate_name": "विजय कुमार यादब",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "समाजसेवी तथा स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "छैन (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339611.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नम्बर १ बाट स्वतन्त्र उम्मेदवारी दिएका यादबले मात्र २२ मत प्राप्त गरी १५औं स्थानमा रहेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/339611",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "धनुषाबाट स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा उनले ४२ मत मात्र प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक पृष्ठभूमि र सामाजिक सेवा",
+      "date": "२०४५-०१-०१",
+      "details": "उनले आर.आर.एम. क्याम्पस (RRM Campus) बाट स्नातक (BA) तह उत्तीर्ण गरेका छन् र लामो समयदेखि समाजसेवामा संलग्न छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/339611",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विजय कुमार यादब धनुषा जिल्लाबाट निरन्तर स्वतन्त्र उम्मेदवारी दिँदै आएका एक सामान्य राजनीतिक व्यक्तित्व हुन्। उनले २०७४ र २०७९ का दुवै आम निर्वाचनमा स्वतन्त्र रूपमा प्रतिस्पर्धा गरे तापनि जनताको उल्लेख्य समर्थन प्राप्त गर्न सकेनन्। २०७९ को निर्वाचनमा उनले प्राप्त गरेको मात्र २२ मतले उनको कमजोर चुनावी आधार र जनमतलाई स्पष्ट पार्छ। उनी कुनै ठूलो राजनीतिक दलसँग आबद्ध नभएको र मुख्यधारको राजनीतिमा प्रभाव पार्न नसकेको देखिन्छ। उनको पहिचान मुख्यतया एक 'सांकेतिक' स्वतन्त्र उम्मेदवार र स्थानीय समाजसेवीको रूपमा मात्र सीमित छ।",
+  "overall_approval_rating": 5
+}

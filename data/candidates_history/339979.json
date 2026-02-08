@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339979,
+  "candidate_name": "ईरस श्रेष्‍ठ",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339979.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं ९",
+      "result": "पराजित",
+      "party": "हाम्रो नेपाली पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा प्रवेश",
+      "date": "२०८०-०९-२५",
+      "details": "काठमाडौं क्षेत्र नं. ९ का तत्कालीन सांसद प्रत्याशी ईरस श्रेष्ठ प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरेका हुन्। उनलाई कोटेश्वरस्थित पार्टी कार्यालयमा साहले स्वागत गरेका थिए।",
+      "link_to_source": "https://publicsuchana.com/archives/14981",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं ९ बाट 'लौरो' चुनाव चिन्ह लिएर हाम्रो नेपाली पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, जहाँ उनले १५८६ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/339979/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "युवा तथा सामाजिक अभियन्ताका रूपमा सक्रियता",
+      "date": "२०७८-०१-०१",
+      "details": "विभिन्न सामाजिक संघसंस्थामा आबद्ध भई काठमाडौं क्षेत्र नं ९ मा युवा सशक्तिकरण र सामाजिक कार्यमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/339979/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ईरस श्रेष्ठ काठमाडौं क्षेत्र नं ९ का एक उदाउँदा युवा राजनीतिकर्मी हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले 'हाम्रो नेपाली पार्टी' (लौरो अभियान) को तर्फबाट प्रतिस्पर्धा गर्दै १५८६ मत प्राप्त गरेका थिए, जुन पहिलो प्रयासमा सन्तोषजनक मानिन्छ। हाल उनी प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध भएका छन्। श्रेष्ठको छवि अहिलेसम्म स्वच्छ र विवादरहित रहेको छ। उनले विशेष गरी युवाहरूलाई राजनीतिमा आकर्षित गर्ने र सुशासनको मुद्दा उठाउने गरेका छन्। यद्यपि, एउटा वैकल्पिक शक्तिबाट पुनः अर्को साना दलमा प्रवेश गर्नुले उनको राजनीतिक यात्रामा स्थिरताको चुनौती देखाउन सक्छ। उनको चुनावी पकड अझै पनि बलियो बनाउन बाँकी छ।",
+  "overall_approval_rating": 58
+}

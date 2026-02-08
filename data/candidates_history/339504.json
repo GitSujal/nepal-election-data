@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339504,
+  "candidate_name": "विष्णु बहादुर खत्री",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NWPP_logo.png/220px-NWPP_logo.png",
+  "candidates_current_position": "नेपाल मजदुर किसान पार्टीका स्थानीय नेता",
+  "candidates_current_position_in_party": "जिल्ला स्तरका कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339504.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-१०",
+      "details": "उदयपुर क्षेत्र नं. १ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका खत्रीले जम्मा ४४ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-udayapur?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट उदयपुर निर्वाचन क्षेत्र नम्बर १ मा प्रतिनिधिसभाका लागि औपचारिक रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल मजदुर किसान पार्टीमा आबद्धता",
+      "date": "२०७५-०१-०१",
+      "details": "लामो समयदेखि नेपाल मजदुर किसान पार्टीको वैचारिक सिद्धान्तमा रहेर उदयपुर जिल्लामा सांगठनिक कार्यमा सक्रिय।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "विष्णु बहादुर खत्री उदयपुर जिल्लामा नेपाल मजदुर किसान पार्टी (नेमकिपा) को तर्फबाट सक्रिय एक वैचारिक कार्यकर्ता हुन्। २०७९ को निर्वाचनमा उनले उदयपुर क्षेत्र नं. १ बाट प्रतिनिधिसभाका लागि प्रतिस्पर्धा गरेका थिए, जहाँ उनले निकै कम अर्थात् ४४ मत मात्र प्राप्त गरे। नेमकिपाको प्रभाव मुख्यतया भक्तपुरमा केन्द्रित रहेकाले उदयपुर जस्तो जिल्लामा उनको उम्मेदवारीलाई पार्टीको उपस्थितिको रूपमा मात्र लिइन्छ। उनको चुनावी इतिहासले जनाधार कमजोर देखाए पनि पार्टीप्रतिको निष्ठा भने प्रस्ट देखिन्छ। अहिलेसम्म उनको नाममा कुनै पनि भ्रष्टाचार वा ठूला विवादहरू देखिएका छैनन्, जसले उनको व्यक्तिगत छवि सफा रहेको संकेत गर्दछ। उनी उदयपुरमा पार्टीको विचारधारा फैलाउने कार्यमा संलग्न रहँदै आएका छन्।",
+  "overall_approval_rating": 42
+}

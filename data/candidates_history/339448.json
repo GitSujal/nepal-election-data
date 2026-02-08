@@ -1,0 +1,151 @@
+{
+  "candidate_id": 339448,
+  "candidate_name": "राम चन्द्र झा",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hammer_and_sickle_standard.svg",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "सचिवालय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339448.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "एकीकृत नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "धनुषा निर्वाचन क्षेत्र नम्बर २ बाट उम्मेदवारी",
+      "date": "२०८२-१०-२१",
+      "details": "२०८२ को निर्वाचनका लागि झा 'नेपाली कम्युनिष्ट पार्टी' का तर्फबाट धनुषा-२ मा मुख्य प्रतिस्पर्धीका रूपमा मैदानमा उत्रिएका छन्।",
+      "link_to_source": "https://www.nayapatrikadaily.com/news-details/135081/2024-02-04",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नं. २ बाट नेकपा (एकीकृत समाजवादी) का उम्मेदवार रहेका झा १३,६०५ मत प्राप्त गरी तेस्रो स्थानमा रहे र पराजित भए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dhanusha_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भएपछि झा माधव कुमार नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा आबद्ध भई सचिवालय सदस्य बने।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Communist_Party_of_Nepal_(Unified_Socialist)",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "माओवादी केन्द्रका उम्मेदवार झा १८,७१५ मत प्राप्त गरी संघीय समाजवादी फोरमका उमाशंकर अरगरियासँग पराजित भए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dhanusha_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एमाले) परित्याग गरी माओवादीमा प्रवेश",
+      "date": "२०७०-०३-१५",
+      "details": "लामो समय एमालेमा रहेका झा मधेशको मुद्दा र पार्टी नेतृत्वसँगको असन्तुष्टिका कारण एकीकृत नेकपा (माओवादी) मा प्रवेश गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dhanusha_1_(constituency)",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सामान्य प्रशासन मन्त्री नियुक्त",
+      "date": "२०६५-०५-१५",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको सरकारमा झाले सामान्य प्रशासन मन्त्रीको कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B0_%E0%A4%9D%E0%A4%BE",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा विजयी",
+      "date": "२०६४-१२-२८",
+      "details": "धनुषा क्षेत्र नं. १ बाट १२,१८३ मत प्राप्त गरी झाले माओवादीका जोगकुमार बर्बरियालाई पराजित गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dhanusha_1_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०५६ मा विजयी",
+      "date": "२०५६-०२-०३",
+      "details": "धनुषा क्षेत्र नं. १ बाट १८,३५२ मतका साथ विजयी भई उनी पुन: संसदमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dhanusha_1_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०५१ मा विजयी",
+      "date": "२०५१-०७-२९",
+      "details": "नेपाली कांग्रेसका उम्मेदवारलाई पराजित गर्दै झाले पहिलो पटक संसदीय निर्वाचन जितेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Dhanusha_1_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३२-०१-०१",
+      "details": "पञ्चायतकालदेखि नै अर्धभूमिगत भएर झाले कम्युनिष्ट राजनीति सुरु गरेका थिए र लामो समय जनकपुर इन्चार्ज रहे।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B0_%E0%A4%9D%E0%A4%BE",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राम चन्द्र झा धनुषा जिल्लाका एक अनुभवी र पाका कम्युनिष्ट नेता हुन्। उनले नेकपा (एमाले) बाट आफ्नो राजनीतिक उचाइ प्राप्त गरे र २०५१, २०५६ र २०६४ को निर्वाचनमा लगातार जित हासिल गरी मन्त्री समेत बने। तर, २०७० मा एमाले छोडेर माओवादीमा प्रवेश गरेपछि उनको चुनावी प्रभाव निरन्तर कमजोर हुँदै गएको छ। पछिल्ला तीनवटा मुख्य निर्वाचन (२०७०, २०७४, २०७९) मा उनी पराजित भएका छन्। एमाले, माओवादी, नयाँ शक्ति र एकीकृत समाजवादी हुँदै पुन: माओवादी केन्द्रको नयाँ गठबन्धनमा समाहित हुने उनको यात्राले उनलाई 'अस्थिर' नेताको रूपमा चित्रित गरेको छ। धनुषा क्षेत्र नं. २ मा उनको जनाधार खुम्चिँदै गएको र नयाँ राजनीतिक शक्तिहरूको उदयले उनको आगामी राजनीतिक भविष्य चुनौतीपुर्ण देखिन्छ।",
+  "overall_approval_rating": 38
+}

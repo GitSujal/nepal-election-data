@@ -1,0 +1,79 @@
+{
+  "candidate_id": 341181,
+  "candidate_name": "पुरन राना थारु",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341181.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य (समानुपातिक)",
+      "district": "कञ्चनपुर",
+      "constituency": "समानुपातिक सूची",
+      "result": "पराजित",
+      "party": "एकीकृत नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "कञ्चनपुर क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिए पनि निकै कम मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सानाे माओवादी समूहमा सक्रियता",
+      "date": "२०७५-०२-०३",
+      "details": "मूलधारको माओवादी केन्द्र र एमाले एकता भएपछि उनी सानो माओवादी समूह (नेपाल कम्युनिस्ट पार्टी माओवादी) मा आवद्ध भएका थिए।",
+      "link_to_source": "https://wikipedia.org",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा समानुपातिक उम्मेदवार",
+      "date": "२०७०-०८-०४",
+      "details": "एकीकृत नेकपा (माओवादी) को तर्फबाट समानुपातिक निर्वाचन प्रणाली अन्तर्गत १८१ औं स्थानमा सिफारिस भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZRJ8B1UOm_DP-63l7EZALRQonzK4qgin2dWvBgAHzAxWxDyx9yi-6Lg_VzGYm9iDoSjCL-grkpScwT4ie7egZ5gtmxl96g1zDC5VqvRY2Zsmk5bso2vKO55VDuKYJ_MgFtozg2Q74cm0=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिलो संविधान सभा निर्वाचनमा ऐतिहासिक जित",
+      "date": "२०६४-१२-२८",
+      "details": "कञ्चनपुर क्षेत्र नं. १ बाट १४,७६५ मत प्राप्त गर्दै विजयी भई संविधान सभा सदस्य बनेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5s-2ueOlWIb6KLuXt3jAEm5UkVbgAA_0nruCuLkrhkK4Nv0x-zZlvwbvrelIoe1x2XYZql9aQGRkBrFQBzg_yumPWeRyvPBvFQ5z0fGgpgCig_ZNawj5hQWD3ZlxtOLNZdzzxG-h-ebduSHn7fhy3lrS8bWbGXZpYqX8pBHhH7BMmqAg=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राना थारु पहिचानको आन्दोलनमा नेतृत्व",
+      "date": "२०६३-०१-०१",
+      "details": "कञ्चनपुर र कैलालीका राना थारु समुदायको छुट्टै पहिचान र अधिकारका लागि राजनीतिक र सामाजिक रूपमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuwGafRQXHlnb5GUNsBdzhKQrf6vryWE9gZtlBOQau1zEo0hthn_-TMpxDq_rN5DUs6Yh9uDr7gh6zdlnKKUvWe2VXORYkfCGzKqsSbBhA9CE7Olx06sWm22UtHu5WWhBMTPmfiUOfL2vdU7bipSAvOKHGUTUKRriLUSpC50dFDLWLl6k=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पुरन राना थारु कञ्चनपुरका एक अनुभवी थारु नेता हुन् जसले २०६४ सालको पहिलो संविधान सभामा कञ्चनपुर-१ बाट विजयी भएर राष्ट्रिय राजनीतिमा आफ्नो स्थान बनाएका थिए। उनको मुख्य शक्ति राना थारु समुदायको जातीय पहिचान र अधिकारका लागि गरेको लामो समयको संघर्ष हो। यद्यपि, माओवादी पार्टीको विभाजन र राजनीतिक अस्थिरताका कारण पछिल्ला वर्षहरूमा उनको चुनावी प्रभाव घटेको देखिन्छ। २०७९ को निर्वाचनमा उनले निकै कम मत प्राप्त गर्नुले उनी मूलधारको राजनीतिबाट केही पछि परेको संकेत गर्दछ। कञ्चनपुरको स्थानीय राजनीतिमा उनको पुरानो साख रहे पनि नयाँ शक्ति र ठूला दलहरूको गठबन्धनका कारण उनलाई पुनः स्थापित हुन कठिन देखिएको छ।",
+  "overall_approval_rating": 55
+}

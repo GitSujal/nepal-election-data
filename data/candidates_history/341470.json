@@ -1,0 +1,111 @@
+{
+  "candidate_id": 341470,
+  "candidate_name": "शेर बहादुर तामाङग",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://shakti-production.s3.ap-south-1.amazonaws.com/political_party_logos/CPN_UML_Logo.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341470.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "सिन्धुपाल्चोक क्षेत्र नं. २ बाट नेकपा एमालेको उम्मेदवार रहेका तामाङ नेपाली कांग्रेसका मोहन बहादुर बस्नेतसँग ११,८७४ मतान्तरले पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW1Kws2A7l0lyS3amxfFtDG6WMOJyd6wTX01tiRhZJxfLcC0d6scZc2I2S2aCujVd8Vz0g32PeAxcydORLR_xtyYz2jRvLwny4z3dhVGpkOyEVOspWgmcww44OuTBhvB-T-tswdCvHfULClw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या मन्त्री नियुक्त",
+      "date": "२०७८-०२-२१",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा पुनर्गठित मन्त्रीमण्डलमा १८ दिनका लागि स्वास्थ्य मन्त्री नियुक्त भएका थिए तर सर्वोच्चको आदेशले पदमुक्त हुनुपर्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmTvEoIQEKUkbX66_-cRMN_uJR08mq61IDbliC5yntRzosyLjZk1wXXO_f8d4oKpAvtYFHSiYbe3aNfW1Bu4zQXG5a22eGNXDE0dELBEfvndi24hDMUcnXUJBUzL-bLj3VsxWe9_Sgb8jftQqgBebZjUfzFKL3lEOn-Wmk15SbdT2gwERWoSleT7-hpDonwjKkOCQelldtRa0yTBl4vZb9fPD0d8FwbTLyu87MfrkJ3jGcUvThsVjOnnmUB8mKOActDQ==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "गाँजा खेतीलाई वैधानिकता दिने विधेयक दर्ता",
+      "date": "२०७६-११-१९",
+      "details": "नेपालमा गाँजा खेतीलाई औषधीय र आर्थिक प्रयोजनका लागि वैधानिकता दिनुपर्ने माग राख्दै उनले संसदमा निजी विधेयक दर्ता गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJw6EPZ3ELwJadZCvOBt6Tq7fGp0CKM5qT-EyiXpXKBix8QpYgKIS1nE1UPwSZ--9cDEXZdvnyH4AAprcIyLHKE30PjhZaWiW_joZic5OUQtNt4W99OO-dWrOmDZhM7cvKTUjiJkYCvpBO5eDd4ovGiI7YghjuYnhM6l0DmwDa2Qwjo4RLRAtarikR5TuKOoEddPwX2lBRfTkn5yULUoI_4UI9DqO3wxYYh1EiquEcR4Y=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कानुन मन्त्री पदबाट राजीनामा",
+      "date": "२०७५-०४-०८",
+      "details": "बंगलादेशमा चिकित्सा शिक्षा अध्ययनरत नेपाली छात्राहरुको अस्मितामा आँच आउने अभिव्यक्ति दिएपछि चौतर्फी आलोचना भएपछि उनले राजीनामा दिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGas_SYSTcuZGTXBYGdaovVV2lpBvAZd21OeS-fE9VM5H2egMVqHritL7UKvUPpB9b-2WH_AC4SooXhjg-x2zuUycNpVZLp9Z-8Y0cjH7f8Hy5lMKGIDQNLSeRiwIpZPiE8zKs3aakPOEdRBaftyw1JsMxlAUSN2Gr5VJbS5_N6Pyj_B7ahxExbIPdrLofTzkpBMH-_IHofCooC-CYO-xTg3de_eQ==",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बंगलादेशमा अध्ययनरत छात्राहरुबारे विवादित बयान",
+      "date": "२०७५-०४-०४",
+      "details": "एक कार्यक्रममा उनले 'बंगलादेशमा डाक्टर पढ्न जाने चेलीहरुले सर्टिफिकेट पाउन आफ्नो अस्मिता सुम्पिनुपर्छ' भनी अत्यन्तै विवादित र आपत्तिजनक बयान दिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJGU5ha-pHcz3_0m0GYcrV171D-peXxLpq0nG24SRN6mRLTcBpWMRXS-9E8W_YsW1PLc4gib3DPduwDdDM7JCU4iyScmX6JWLDhfVltbACqc4BA3XAVNpH5KF_LHasK4iUDmDBGFMR4MtXNOeW5jG6H_hFD3OvFVCKLcrUwMW0sBa1tVd6ehOSYJRsx8yNpLd95rNqFsMUKo_e464UBdWCtjO7OOBYRwA3lySIIg==",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "कानुन, न्याय तथा संसदीय मामिला मन्त्री नियुक्त",
+      "date": "२०७४-१२-०२",
+      "details": "प्रतिनिधि सभामा निर्वाचित भएलगत्तै केपी ओली नेतृत्वको सरकारमा पहिलो पटक मन्त्रीको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHckvgWPn4Cwo7_R9SXLkGiG4qM919OvUNNKDsh6h0L8rkI_2n0dt8_zPOlBQTikdu768iYx5ZrY-znn6NjH9FNOpKforQp4ZAJxiZvDdd_ihVN6E0JTTdMwsEAzUGQ6fTda09DSRSvzP-ssJg=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्य २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "सिन्धुपाल्चोक-२ बाट ३८,४०१ मत प्राप्त गरी राप्रपाका पशुपति शमशेर जबरालाई पराजित गर्दै निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqyZjjscdNirlZvZMQZ-0tH-S-ba5iEeKm1bPb4gMjCP8vDpto5APsL0VT5RkKM2fooLlCk_7j5DKZXiXddM8xcVKgc8hEzuZ_Dy9VfHk9ZxW4vpugZ_4Efjer3CTZ5LaG_5V_6unwVmig2ZklJuz9xzeUFSZSR8dVEZPv4-lnQc=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचनमा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "सिन्धुपाल्चोक क्षेत्र नं. ३ बाट नेकपा एमालेका तर्फबाट संविधान सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiLXCddeLuYq6zP2eAz6c1_4mOk_rHV_SR2Gp-teqoaVCSWKGQ_W84U_pVlPT-dI-TjeElbp_ZFI_tGFySA0F_9GL0IVQm7abxBpGCWBkmcpq_bu1Dtc7dmlHKRqkFZEpoPYFTf_nrJQMwjt3nsaA5sACIPRDO-kOt",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शेर बहादुर तामाङ सिन्धुपाल्चोकका एक अनुभवी तर विवादित राजनीतिज्ञ हुन्। उनले २०७० र २०७४ को निर्वाचनमा लगातार जित हासिल गरेर आफ्नो क्षेत्रमा बलियो पकड बनाएका थिए। तामाङको राजनीतिक करियरमा २०७५ सालमा कानुन मन्त्री हुँदा बंगलादेशमा अध्ययनरत नेपाली छात्राहरूका बारेमा दिएको अत्यन्तै आपत्तिजनक र गैर-जिम्मेवारपूर्ण अभिव्यक्तिका कारण ठूलो धक्का लाग्यो, जसका कारण उनले राजीनामा समेत दिनुपरेको थियो। यो घटनाले उनको नैतिक छविमा गम्भीर प्रश्न उठाएको छ। पछिल्लो समय उनले नेपालमा गाँजा खेतीलाई वैधानिकता दिनुपर्ने अभियानको नेतृत्व गरेर केही युवा पुस्ता र किसानहरू माझ सकारात्मक चर्चा बटुल्ने प्रयास गरेका छन्। यद्यपि, २०७९ को निर्वाचनमा सिन्धुपाल्चोक-२ मा नेपाली कांग्रेसका मोहन बहादुर बस्नेतसँग ठूलो मतान्तरले पराजित हुनुले उनको लोकप्रियतामा ह्रास आएको र पुराना विवादहरूले मतदातामा नकारात्मक असर पारेको देखिन्छ।",
+  "overall_approval_rating": 42
+}

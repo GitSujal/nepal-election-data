@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342410,
+  "candidate_name": "अब्दुल उमर साई",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "नेता, आम जनता पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342410.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बाँके",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "अब्दुल उमर साईले आम जनता पार्टीको तर्फबाट बाँके क्षेत्र नम्बर २ मा प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342410",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०५-२०",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टीमा आबद्ध भई उनले बाँके क्षेत्रमा पार्टीको संगठन विस्तारमा भूमिका खेलेका थिए।",
+      "link_to_source": "https://missiontodaynews.com/news/12111",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अब्दुल उमर साई आम जनता पार्टीका एक सक्रिय राजनीतिकर्मी हुन् जसले २०७९ को प्रतिनिधिसभा निर्वाचनमा बाँके क्षेत्र नम्बर २ बाट प्रतिस्पर्धा गरेका थिए। उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा चित्रित गरिएको थियो, जसले गर्दा स्थानीय मतदाताहरूसँग बलियो सम्बन्ध स्थापित गर्न उनलाई कठिन भएको देखिन्छ। बाँके-२ जस्तो राजनीतिक रूपमा संवेदनशील र भारी जनमत भएका क्षेत्रमा राप्रपाका धवल शम्शेर राणा र जसपाका मोहम्मद इस्तियाक राई जस्ता स्थापित नेताहरूसँगको प्रतिस्पर्धामा उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक प्रभाव हाललाई आफ्नो पार्टीको संगठन विस्तारमा मात्र सीमित देखिएको छ।",
+  "overall_approval_rating": 35
+}

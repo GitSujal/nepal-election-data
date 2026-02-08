@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342653,
+  "candidate_name": "प्रमोद कुमार साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिज्ञ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342653.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सप्तरीबाट सर्लाहीमा क्षेत्र स्थानान्तरण (भगौडा उम्मेदवार)",
+      "date": "२०८१-१०-२०",
+      "details": "२०७९ को निर्वाचनमा सप्तरीबाट उम्मेदवार बनेका साहले यस पटक सर्लाहीलाई आफ्नो कार्यक्षेत्र रोजेका छन्, जसलाई राजनीतिक वृत्तमा 'वगुवा' वा अस्थिर उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टी परित्याग र स्वतन्त्र उम्मेदवारी",
+      "date": "२०८१-१०-०१",
+      "details": "पार्टीगत आबद्धता छाडेर उनले आगामी निर्वाचनका लागि स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी क्षेत्र नं ३ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवार बन्दा उनले मात्र २३७ मत (कुल सदर मतको ०.३५%) प्राप्त गरी नवौं स्थानमा रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeNH9EReLbAX41aar0aTrHX1inUvINHEkdLgL0p7VFsw-XPMnDT61xw58cJ6VkfiFZMzgEZO3zSmKz0PF4-PHMmUI9wPEcThzde8es56zsdzAHHLOsD1NtpZgk9QW_07SnbadR3fGx7tJweXJA1WDIfkMB0eRYzGgvWsCyf16e3BV92g==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "प्रमोद कुमार साह एक अत्यन्तै न्यून जनमत भएका र राजनीतिक रूपमा अस्थिर उम्मेदवार देखिन्छन्। २०७९ को निर्वाचनमा सप्तरी क्षेत्र नं ३ बाट राष्ट्रिय स्वतन्त्र पार्टीको टिकटमा चुनाव लड्दा उनले केवल २३७ मत प्राप्त गरेका थिए, जसले उनको कमजोर चुनावी आधारलाई स्पष्ट पार्छ। यस पटक उनी आफ्नो अघिल्लो क्षेत्र छाडेर सर्लाहीमा स्वतन्त्र उम्मेदवारका रूपमा आएका छन्, जसलाई निर्वाचन आयोगको तथ्याङ्कले 'वगुवा' (Tourist Candidate) को रूपमा वर्गीकृत गरेको छ। क्षेत्र परिवर्तन र पार्टी त्याग्नुले उनीमा राजनीतिक निष्ठा र स्थानीय पकडको अभाव रहेको संकेत गर्दछ। सर्लाहीका स्थानीय मतदातामाझ उनको परिचय र प्रभाव नगण्य रहेकाले आगामी निर्वाचनमा पनि उनको अवस्था चुनौतीपूर्ण देखिन्छ।",
+  "overall_approval_rating": 15
+}

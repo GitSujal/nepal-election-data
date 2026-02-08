@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341957,
+  "candidate_name": "बिजय यादव",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "नेता, आम जनता पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341957.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा प्रवेश",
+      "date": "२०८०-०१-१५",
+      "details": "२०७९ को निर्वाचनमा राप्रपा नेपालबाट पराजित भएपछि उनी प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरेका हुन्।",
+      "link_to_source": "https://shilapatra.com/detail/108542",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बारा क्षेत्रमा राजनीतिक सक्रियता",
+      "date": "२०८०-०३-१०",
+      "details": "सिराहाबाट चुनाव लडेका यादवले आफ्नो राजनीतिक आधार परिवर्तन गर्दै बारा जिल्लालाई मुख्य कार्यक्षेत्र बनाएका छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/04/1294857",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा क्षेत्र नं. २ बाट राप्रपा नेपालको उम्मेदवार बन्दा उनले मात्र १७५ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राप्रपा नेपालमा आबद्धता",
+      "date": "२०७९-०७-०१",
+      "details": "कमल थापा नेतृत्वको राप्रपा नेपालमा प्रवेश गरी उनले संसदीय निर्वाचनको टिकट लिएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/16653145465487654.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बिजय यादव मधेशको राजनीतिमा एक अस्थिर र 'पर्यटक' उम्मेदवारको रूपमा चिनिन्छन्। २०७९ को आम निर्वाचनमा सिराहा क्षेत्र नं. २ बाट राप्रपा नेपालको तर्फबाट चुनाव लड्दा उनले १७५ मत मात्रै प्राप्त गर्नुले उनको कमजोर जनमतलाई स्पष्ट पार्छ। हाल उनी आफ्नो अघिल्लो निर्वाचन क्षेत्र र पार्टी दुवै परिवर्तन गरी बारा जिल्लामा आम जनता पार्टीको राजनीति गरिरहेका छन्। पूर्व मन्त्री राधाकृष्ण राय यादवका छोरा भए पनि उनले बुबाको राजनीतिक विरासतलाई जोगाउन सकेको देखिँदैन। सिराहाबाट बारा सर्नु र बारम्बार पार्टी परिवर्तन गर्नुले उनको राजनीतिक नैतिकता र स्थिरतामाथि गम्भीर प्रश्न उठाएको छ। स्थानीय मतदाताले उनलाई बाहिरी जिल्लाबाट आएको 'टुरिस्ट' उम्मेदवारको रूपमा हेर्ने गरेका छन्।",
+  "overall_approval_rating": 28
+}

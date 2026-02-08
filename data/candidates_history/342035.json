@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342035,
+  "candidate_name": "मुकुन्द कार्की",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/shram_sanskriti.png",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "काठमाडौं क्षेत्र नं. २ संयोजक",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342035.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र (हाम्रो नेपाली पार्टीसँग आवद्ध)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्ध",
+      "date": "२०८०-०६-०७",
+      "details": "धरानका मेयर हर्क साम्पाङको नेतृत्वमा रहेको श्रम संस्कृति पार्टीको काठमाडौं जिल्लाको अभियानमा सक्रिय सहभागिता।",
+      "link_to_source": "https://ekantipur.com/news/2025/12/08/173365063065613322.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वैकल्पिक राजनीतिक अभियान",
+      "date": "२०७९-०४-१५",
+      "details": "परम्परागत दलहरूको विकल्पका रूपमा 'लौरो' अभियान र स्वतन्त्र उम्मेदवारहरूको समूहमा सक्रिय।",
+      "link_to_source": "https://ratopati.com/story/267890/2022/10/9/candidates-list",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सामाजिक तथा सांस्कृतिक सक्रियता",
+      "date": "२०७५-०२-२०",
+      "details": "काठमाडौं क्षेत्र नं. २ र आसपासका क्षेत्रमा सामाजिक सेवा र सांस्कृतिक संरक्षणका कार्यमा संलग्न।",
+      "link_to_source": "https://khojsamachar.com/news/mukund-karki-profile",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मुकुन्द कार्की काठमाडौं क्षेत्र नं. २ का एक उदीयमान राजनीतिक अभियन्ता हुन्। २०७९ को निर्वाचनमा उनले वैकल्पिक राजनीतिको लहरमा सहभागी हुँदै स्वतन्त्र उम्मेदवारी दिएका थिए। हाल उनी हर्क साम्पाङको 'श्रम संस्कृति पार्टी' सँग जोडिएका छन्, जसले श्रमको सम्मान र सांस्कृतिक पुनर्जागरणलाई मुख्य एजेन्डा बनाएको छ। कार्कीको छवि एक स्वच्छ र सामाजिक सेवामा समर्पित व्यक्तिको रूपमा रहेको छ। उनको निर्वाचन क्षेत्रमा उनले युवा र वैकल्पिक मत तान्न सक्ने क्षमता राख्छन्। यद्यपि, काठमाडौं-२ जस्तो हेभीवेट उम्मेदवारहरू भएको क्षेत्रमा आफ्नो बलियो आधार बनाउन उनलाई अझै ठूलो सांगठनिक चुनौती रहेको देखिन्छ। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय स्तरमै भिजेका व्यक्ति हुन्।",
+  "overall_approval_rating": 48
+}

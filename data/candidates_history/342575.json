@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342575,
+  "candidate_name": "सुर्य देव यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342575.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कृषि पूर्वाधार सहयोगका लागि छनौट",
+      "date": "२०८१-१२-११",
+      "details": "उनको 'सुर्य कृषि फर्म' प्रधानमन्त्री कृषि आधुनिकीकरण परियोजना अन्तर्गत स्यालो ट्युबवेल अनुदानका लागि सिराहामा छनौट भएको थियो।",
+      "link_to_source": "https://pmamp.gov.np/news/detail/matasye-pokhari-2082",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा क्षेत्र नम्बर ३ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिनिधि सभा निर्वाचनमा प्रतिस्पर्धा गरेको तर न्यून मत प्राप्त गरी पराजित भएको।",
+      "link_to_source": "https://ratopati.com/story/409418/balen-shah-rastriya-swatantra-party",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा उम्मेदवारी",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा सिराहा क्षेत्र नम्बर ३ बाट स्वतन्त्र उम्मेदवार भई ८२९ मत प्राप्त गरेको।",
+      "link_to_source": "https://github.com/opennepal/odp-election/blob/master/CA%20Election%202064%20FPTP%20Candidates/data.csv",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुर्य देव यादव सिराहाका एक अनुभवी स्वतन्त्र राजनीतिक उम्मेदवार हुन्, जसले २०६४ र २०७९ का निर्वाचनहरूमा सिराहा निर्वाचन क्षेत्र नम्बर ३ बाट स्वतन्त्र रूपमा प्रतिस्पर्धा गरेका छन्। उनको राजनीतिक पहिचान मुख्यतया एक स्थानीय कृषि उद्यमी र समाजसेवीको रूपमा रहेको छ। उनले धनगढीमाई-२ मा 'सुर्य कृषि फर्म' सञ्चालन गरिरहेका छन् र कृषि आधुनिकीकरणका सरकारी परियोजनाहरूमा सक्रिय सहभागी हुँदै आएका छन्। निर्वाचनहरूमा उनले ठूला दलहरूलाई चुनौती दिने प्रयास गरे पनि पर्याप्त जनमत जुटाउन नसकेका कारण उनको राजनीतिक प्रभाव हालसम्म सीमित देखिएको छ। उनलाई सिराहा क्षेत्रमा दलीय राजनीति भन्दा बाहिर रहेर स्थानीय मुद्दा उठाउने एक निष्ठावान पात्रका रूपमा चिनिन्छ, तर संगठनात्मक संरचनाको अभावले उनलाई चुनावी सफलता दिलाउन सकेको छैन।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341703,
+  "candidate_name": "मो. सदिक मियाँ",
+  "candidate_party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Sanghiya_Loktantrik_Rastriya_Manch.svg/1200px-Flag_of_Sanghiya_Loktantrik_Rastriya_Manch.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341703.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "निर्वाचन क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "सुनसरी निर्वाचन क्षेत्र नं ३ बाट संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341703",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन परिणाम घोषणा",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को निर्वाचनमा जम्मा ८७ मत प्राप्त गरी पराजित, स्थानीयस्तरमा चुनावी प्रभाव न्यून देखिएको।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341703",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्चमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "क्षेत्रीय र जातीय पहिचानको मुद्दा उठाउने संघीय लोकतान्त्रिक राष्ट्रिय मञ्चमा सक्रिय रहँदै आएको।",
+      "link_to_source": "https://onlinekhabar.com",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मो. सदिक मियाँ सुनसरी जिल्लाका स्थानीय राजनीतिज्ञ हुन् जसले संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको प्रतिनिधित्व गर्छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा सुनसरी क्षेत्र नं ३ बाट प्रतिस्पर्धा गरे पनि उनले मात्र ८७ मत प्राप्त गरे, जसले उनको राजनीतिक पकड र जनमत निकै कमजोर रहेको संकेत गर्छ। उनी 'टुरिस्ट' उम्मेदवार नभए तापनि ठूला दलहरूको वर्चस्व रहेको सुनसरीमा आफ्नो प्रभाव जमाउन असफल देखिएका छन्। उनको राजनीतिक करियर मुख्यतया साना क्षेत्रीय दलहरूको एजेन्डामा केन्द्रित रहेको देखिन्छ। कुनै ठूलो विवाद वा भ्रष्टाचारको मुद्दा नभए पनि चुनावी प्रतिस्पर्धामा उनको उपस्थिति नगण्य रहँदै आएको छ।",
+  "overall_approval_rating": 18
+}

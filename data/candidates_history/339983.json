@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339983,
+  "candidate_name": "प्रज्जवल बोहरा",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rastriya_Prajatantra_Party_Logo.svg/1200px-Rastriya_Prajatantra_Party_Logo.svg.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "युवा नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339983.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "क्षेत्र नं ३ (क)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उपनिर्वाचनमा सम्भावित उम्मेदवारी चर्चा",
+      "date": "२०८२-०५-०१",
+      "details": "पिता दीपक बोहराको निधनपछि रिक्त रहेको रूपन्देही क्षेत्र नं. ३ मा हुने उपनिर्वाचनका लागि प्रज्जवलको नाम राप्रपाबाट प्रमुख दावेदारका रूपमा चर्चामा आएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz_7cOOVFlGIXIukRlQpH0_rmI_dxiL88SGo2oYR4xpPvK3ODY1RLwPihIL2n5PACIyJDrgBeNG9-KnwjuIZ4HX8_NZIe3V7HlPsnRa9oZMjS5bFpZY2diH_u1rWhw9lsJF5jqsN4Hg5PBPDq48OgTRuC56NBysZ6GhxvXiUkVDf_8eYd7aaOl0dwvYaDzNtaoh_AFkVJuXAgKLttcM9rjF67l94Qi3lqwlnN589zmFETLj3UcTyBkXYrv6iYMNTvqZbmSC4EaUB5REsSTaERD6zmzkWiSkMVvQDxRpRkx1qATu9f5buYH6neH8PE3zzeOiO4LmFOWfzXTpW-gBoUzlxU=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पिता दीपक बोहराको निधन",
+      "date": "२०८१-१२-१८",
+      "details": "प्रज्जवलका पिता तथा राप्रपाका वरिष्ठ नेता दीपक बोहराको उपचारका क्रममा काठमाडौंको ओम अस्पतालमा निधन भयो, जसले प्रज्जवलमाथि पारिवारिक बिरासत थाम्ने जिम्मेवारी थप्यो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI0djN-Cp__k8SfIidf8FoAWPpVYTPvMny_8c488U0vkThGgJAcDcnIFj5P7nluYW4EpWG6X7QqgB2ZwRqyCugO8hVffwI09pkcnzoSG9bqmZtQyj3-CUHKgDjVSOju01E4vjqTk-8MS1NPO0XpRwPQ1W2DoMtnCgi4ZDKKlFDRfWOnKac",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्य निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा रूपन्देही क्षेत्र नं. ३ (क) बाट प्रदेश सभाका लागि उम्मेदवारी दिएका प्रज्जवल लोकतान्त्रिक समाजवादी पार्टीका सन्तोष कुमार पाण्डेसँग पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ERm8vXWPeQfJDOhxPA_Msfot9V5lbzweR4hycv6HHfSz00nIgA1Lj-D3d20mfVXvuJj4XHQ2WOdI_FjEPxEBiQypdODCniNGaPJZG8pAdn_Id4uxoRFQd389hgZ1_GEYcaCNdWtvi0ix9JdTB0ruZeHjGYoTmwbIYRdiSftx5HAeRw==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सक्रिय राजनीतिमा प्रवेश",
+      "date": "२०७९-०१-१०",
+      "details": "पेशाले आईटी इन्जिनियर रहेका प्रज्जवल आफ्ना बुबा दीपक बोहराको स्वास्थ्य अवस्था र निर्वाचन अभियानमा सहयोग पुर्‍याउन सक्रिय राजनीतिमा होमिएका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaUBUWw5AH07-FNZP0EsI0PiprvGjsoGfir9SbYFP1mREKVXTCeX_uSwDkiOml48tGhLJQCSHdxdx5ThIkDWurFoUcOaa8WlbOkMGv7g8pvnXbp6rWxwzyutdCAVkxYFhIUTmvWMfC3BDnjxUtZeYfEUq8w05gM-9HHjgBfZ9tnG8nYgA5EqiiRh6pGJ9lMXmbVwJnXfWGfQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रज्जवल बोहरा राष्ट्रिय प्रजातन्त्र पार्टीका प्रभावशाली एवं दिवंगत नेता दीपक बोहराका छोरा हुन्। उनी राजनीतिमा आउनुअघि आईटी इन्जिनियरका रूपमा कार्यरत थिए, जुन उनको शैक्षिक र आधुनिक पृष्ठभूमिको प्रमाण हो। २०७९ को आम निर्वाचनमा रूपन्देही ३ (क) बाट प्रदेश सभाको चुनाव लडेका उनी पराजित भए पनि उनले बुबाको निर्वाचन अभियानमा महत्वपूर्ण भूमिका निर्वाह गरेका थिए। उनीमाथि 'वंशवाद' को आधारमा राजनीतिमा आएको आलोचना हुने गरे तापनि युवा र शिक्षित उम्मेदवारको रूपमा उनको आफ्नै पहिचान बन्दै गएको छ। हाल बुबाको निधनपछि रिक्त क्षेत्रमा उनको सम्भावित उम्मेदवारीले रूपन्देहीको राजनीतिमा नयाँ बहस सिर्जना गरेको छ। उनलाई आफ्नो बुबाको बलियो राजनीतिक विरासत जोगाउनु र जनतामाझ आफ्नै स्वतन्त्र छवि स्थापित गर्नु मुख्य चुनौती रहेको देखिन्छ।",
+  "overall_approval_rating": 48
+}

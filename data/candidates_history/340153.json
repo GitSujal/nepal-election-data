@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340153,
+  "candidate_name": "तेज कुमार कुरुम्वाङ्ग",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला नेता, पाँचथर",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340153.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाँचथर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "पाँचथर जिल्लाको एकमात्र निर्वाचन क्षेत्रबाट राष्ट्रिय प्रजातन्त्र पार्टीका तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए, जहाँ उनले २,२२५ भन्दा बढी मत प्राप्त गरे।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-panchthar?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकीकरण र संगठन विस्तारमा भूमिका",
+      "date": "२०७८-०८-१५",
+      "details": "विभिन्न समूहमा विभाजित राष्ट्रिय प्रजातन्त्र पार्टीको एकता प्रक्रियामा पाँचथर जिल्ला तहबाट सक्रिय समर्थन र सांगठनिक भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://sajilopatrika.com/2022/11/13/112674/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय मुद्दा र विकासको वकालत",
+      "date": "२०७६-०५-१०",
+      "details": "पाँचथरका ग्रामीण क्षेत्रमा न्याय, सुशासन र समावेशी विकासको पक्षमा राजनीतिक अभियानहरू सञ्चालन गर्दै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/2022/11/13/112674/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राप्रपाका विभिन्न घटकहरूमा आबद्धता",
+      "date": "२०७४-०७-२०",
+      "details": "पार्टी फुट र जुटको समयमा राप्रपा राष्ट्रवादी र राप्रपा संयुक्त जस्ता विभिन्न घटकहरूमा रहेर राष्ट्रवादी एजेन्डाको पक्षमा काम गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "तेज कुमार कुरुम्वाङ्ग पाँचथर जिल्लाका एक अनुभवी र निष्ठावान राप्रपा नेता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले सशक्त प्रतिस्पर्धा नगरे पनि जिल्लामा राप्रपाको उपस्थिति जोगाउन महत्वपूर्ण भूमिका खेलेका थिए। उनलाई स्थानीय स्तरमा न्यायप्रेमी र ग्रामीण विकासका मुद्दामा चासो राख्ने नेताका रूपमा चिनिन्छ। पाँचथरमा नेकपा एमाले र नेपाली कांग्रेसको बलियो पकड रहेका कारण उनी चुनावी नतिजामा भने पछि परेका देखिन्छन्। उनी लामो समयदेखि राप्रपाको विचार र एजेन्डामा अडिग रहेकाले पार्टी भित्र उनको राम्रो साख छ। कुनै ठूला भ्रष्टाचार वा काण्डहरूमा नाम नमुछिएकाले उनी एक स्वच्छ छविको स्थानीय राजनीतिकर्मीका रूपमा स्थापित छन्।",
+  "overall_approval_rating": 55
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339552,
+  "candidate_name": "बुद्ध लाल मेचे",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_the_Mongol_National_Organisation.png",
+  "candidates_current_position": "अध्यक्ष, मंगोल नेशनल अर्गनाइजेसन",
+  "candidates_current_position_in_party": "केन्द्रीय अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339552.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "इलाम",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टीको ३६ औं स्थापना दिवसमा सम्बोधन",
+      "date": "२०८१-०९-१७",
+      "details": "झापाको पाडाजुँगीमा आयोजित ३६ औं स्थापना दिवसमा उनले मंगोल दर्शनको व्याख्या गर्दै ब्राह्मण-क्षेत्री शासन विरुद्ध कडा भाषण दिएका थिए। उनले मंगोल नेशनल अर्गनाइजेसन अब कसैले रोक्न नसक्ने दाबी समेत गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0BigdiXk661LWFOnHV4mMWVl5RpNW7DCVvvYr3vHYpSf2m7pxONCRiNGYJCxqUL6hO7f-y2oAHwNQDeGfhjOTw-uM6HL4uHPuiFWrgJ9eBErQTTWPxxh3yxXI2wX2",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "इलाम क्षेत्र नं. १ बाट उम्मेदवारी दिएका मेचेले २,४४२ मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए। उनी नेकपा एमालेका महेश बस्नेतसँग पराजित भएका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKU0p_kx2GLInp61Uye1vmJED0pWPHWAGDyaPewmCeByQ3OkWQNxw8Je1LKa6AZSoc5UyVXO6rI32iNrB8N_5bDO28GS-9BJLnJ2k7-BQuj5lX8tCuXBG1kYtovqs-BdJx5aN12B56RGBcs7wS70g65nfFWjC1plw3lsJaDNiQg1If6bXkcPzR",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी अध्यक्षको रूपमा निर्वाचन कमाण्ड",
+      "date": "२०७४-०८-२१",
+      "details": "संस्थापक गोपाल गुरुङको निधनपछि बुद्ध लाल मेचेले मंगोल नेशनल अर्गनाइजेसनको नेतृत्व सम्हाल्दै २०७४ को निर्वाचनमा पार्टीको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZpsJ7noYbMRcWBlmKTGfM6uT-Kv1DjVs-J0rFbHZxwbxEQ0XChiBZLtMBRFa5rVOd_AFea2XZt3Ddu_Sruv6T6KjPPzVZQirqCtKV0KHtmJdLEr4hs-R_vb2DCxUmo8vfp1MOLrw3ki0p_s-Cv4sn1_DqPA==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संस्थापक गोपाल गुरुङको निधन र उत्तराधिकार",
+      "date": "२०७३-०२-२८",
+      "details": "एमएनओका संस्थापक डा. गोपाल गुरुङको निधनको आधिकारिक जानकारी उनका सहयोगी बुद्ध लाल मेचेले दिएका थिए। त्यसपछि उनले पार्टीको मुख्य जिम्मेवारी सम्हाल्न थालेका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2Lg7umm63fTNFlZDEyyB2QiDXWHYzV641B1XX3sW85sQYcZB4pEzeXb4OOyVvY3SqvN6S-2qDRG3xcZgwhijFjsUukgIIw_NDkVT9WhmMvnxAJGgNuk5xrz23jhwrsonUss0jySu6bIZekAZgvegtjTxnRmQ8JP3Dv0z0aKRlnEwGDsuB3ar1ETbrbv5C8NX3FA==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बुद्ध लाल मेचे मंगोल नेशनल अर्गनाइजेसन (MNO) का केन्द्रीय अध्यक्ष हुन् र उनी पार्टीका संस्थापक गोपाल गुरुङका निकै विश्वासिला सहयोगी मानिन्थे। उनले मुख्यतया 'मंगोल' पहिचान र धर्मनिरपेक्षताको पक्षमा वकालत गर्दै आएका छन्। २०७९ को आम निर्वाचनमा इलाम-१ बाट प्रतिस्पर्धा गर्दा उनले उल्लेख्य २,४४२ मत प्राप्त गरे पनि उनी पराजित भए। झापाका बासिन्दा भए पनि इलाममा चुनाव लडेकाले उनलाई कतिपयले 'पर्यटक उम्मेदवार' को संज्ञा दिन्छन्। उनको राजनीतिक शैली आक्रामक छ र उनी प्रायः ब्राह्मण-क्षेत्री समुदायलाई 'विदेशी' र 'शासक' को रूपमा आलोचना गर्ने विवादित बयानका लागि चिनिन्छन्। चुनावी नतिजा कमजोर रहे पनि पूर्वी नेपालमा आफ्ना समर्थकहरूलाई गोलबन्द गर्ने उनको क्षमता र वैचारिक अडानले उनलाई आफ्नो पार्टीभित्र एक शक्तिशाली नेताका रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 40
+}

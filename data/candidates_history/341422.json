@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341422,
+  "candidate_name": "बद्री विक्रम राई",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_of_Mongol_National_Organization.png/220px-Logo_of_Mongol_National_Organization.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341422.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "बाल विवाह र मानव बेचबिखनको आरोपमा पक्राउ",
+      "date": "२०८१-०७-०३",
+      "details": "सुनसरीको चतराबाट चिनियाँ नागरिकहरूसँग मिलेर १७ वर्षीया नेपाली किशोरीको बाल विवाह गराएको र मानव बेचबिखनमा संलग्न रहेको आरोपमा प्रहरीले पक्राउ गरेको।",
+      "link_to_source": "https://www.nepalsamaya.com/detail/118331",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवाह गराउने लमीको भूमिका",
+      "date": "२०८१-०७-०३",
+      "details": "आर्थिक प्रलोभनमा पारी नेपाली किशोरीहरूलाई चिनियाँ नागरिकसँग विवाह गराउन मध्यस्थता (लमी) गरेको र आफ्नै छोरीको समेत चिनियाँसँग विवाह गराएको खुलासा।",
+      "link_to_source": "https://www.nepalsamaya.com/detail/118331",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा हार",
+      "date": "२०७९-०८-०४",
+      "details": "उदयपुर निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधिसभा सदस्यमा चुनाव लडेका राईले मात्र १०९ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/person/341422",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यको उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उदयपुर निर्वाचन क्षेत्र नम्बर १ मा आफ्नो आधिकारिक उम्मेदवारी दर्ता गराएको।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/1000632-1665324634.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानवादी राजनीतिमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "मंगोल नेशनल अर्गनाइजेसन मार्फत उदयपुर जिल्लामा जातीय पहिचान र अधिकारको मुद्दामा सक्रिय रहँदै आएको।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1218731",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बद्री विक्रम राई उदयपुरका एक स्थानीय राजनीतिज्ञ हुन् जसले मंगोल नेशनल अर्गनाइजेसन (MNO) को तर्फबाट २०७९ को आम निर्वाचनमा सहभागिता जनाएका थिए। उनको राजनीतिक प्रभाव जिल्लामा निकै सीमित रहेको देखिन्छ, जसको पुष्टि उनले प्राप्त गरेको न्यून मत (१०९) ले गर्दछ। राईको सार्वजनिक छवि २०८१ सालमा गम्भीर रूपमा धुमिल भएको छ। उनी चिनियाँ नागरिकहरूसँग मिलेर १७ वर्षीया किशोरीको बाल विवाह गराएको र मानव बेचबिखन जस्तो जघन्य अपराधको आरोपमा पक्राउ परेका छन्। यस्तो गम्भीर नैतिक र कानुनी संकटका कारण उनको राजनीतिक भविष्य र सामाजिक प्रतिष्ठा धरासायी बनेको छ। स्थानीयस्तरमा उनी 'लमी'को रूपमा चिनिए पनि उनको यो क्रियाकलापले उनलाई राजनीतिक भन्दा पनि आपराधिक गतिविधिमा संलग्न व्यक्तिको रूपमा चित्रण गरेको छ।",
+  "overall_approval_rating": 12
+}

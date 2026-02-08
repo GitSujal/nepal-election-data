@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342263,
+  "candidate_name": "दिप कुमार लामा",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://ssparty.org.np/wp-content/uploads/2025/11/SSP-Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342263.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०८२-०१-०५",
+      "details": "हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीमा आबद्ध भई पार्टीको नीति र श्रम संस्कृतिको प्रचार प्रसारमा सक्रिय।",
+      "link_to_source": "https://shramsanskriti.org.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सिराहा निर्वाचन क्षेत्र नं २ बाट स्वतन्त्र उम्मेदवारका रूपमा निर्वाचनमा प्रतिस्पर्धा गरी १४८ मत प्राप्त गरेको।",
+      "link_to_source": "https://result.election.gov.np/SearchSelection.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दिप कुमार लामा सिराहा जिल्लाका एक सक्रिय स्थानीय राजनीतिकर्मी हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा सिराहा क्षेत्र नं २ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए, जहाँ उनले मात्र १४८ मत प्राप्त गरेका थिए। यो चुनावी नतिजाले उनको तत्कालिन जनमत र प्रभाव निकै कमजोर रहेको संकेत गर्दछ। हाल उनी धरानका मेयर हर्क साम्पाङद्वारा स्थापित श्रम संस्कृति पार्टीमा आबद्ध भएका छन्। उनको राजनीतिक यात्रामा कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, जसले उनको व्यक्तिगत छविलाई स्वच्छ देखाउँछ। यद्यपि, स्थापित राजनीतिक दलहरूको वर्चस्व रहेको सिराहामा आफ्नो उपस्थिति बलियो बनाउन उनलाई निकै संघर्ष गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 25
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342121,
+  "candidate_name": "प्रेम कुमारी त्रिपाठी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342121.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट निर्वाचन क्षेत्र नं १ बाट स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गरेकी त्रिपाठी माधव कुमार नेपालसँग पराजित भइन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-rautahat?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "निर्वाचन आयोगमा आधिकारिक रूपमा मनोनयन दर्ता गर्दै रौतहट-१ बाट चुनावी मैदानमा प्रवेश।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342121",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रेम कुमारी त्रिपाठी रौतहट क्षेत्र नं १ बाट २०७९ को आम निर्वाचनमा स्वतन्त्र उम्मेदवारका रूपमा देखा परेकी हुन्। यो क्षेत्र नेपालको राजनीतिमा माधव कुमार नेपाल जस्ता हेभीवेट नेताहरूको निर्वाचन क्षेत्र भएकाले उनको उम्मेदवारीलाई एक साहसी प्रयासको रूपमा हेरिएको थियो। नयाँ उम्मेदवार भएकाले र कुनै स्थापित दलको समर्थन नभएकाले उनले उल्लेख्य मत भने प्राप्त गर्न सकिनन्। उनको राजनीतिक यात्रा भर्खरै सुरु भएकाले अहिले नै उनको ठूलो प्रभाव नदेखिए पनि निर्वाचनमा उनको सहभागिताले स्वतन्त्र आवाजको प्रतिनिधित्व गरेको छ। हालसम्म उनको नाममा कुनै भ्रष्टाचार वा ठूला राजनीतिक विवादहरू जोडिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको छ।",
+  "overall_approval_rating": 45
+}

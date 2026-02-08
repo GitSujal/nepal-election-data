@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340293,
+  "candidate_name": "हित बहादुर तामाङ",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Symbol_of_CPN-Maoist_Centre.png/220px-Symbol_of_CPN-Maoist_Centre.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य, पूर्व संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340293.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "नुवाकोट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रीमा नियुक्त",
+      "date": "२०८०-११-२१",
+      "details": "प्रधानमन्त्री पुष्पकमल दाहाल 'प्रचण्ड'को मन्त्रिमण्डल पुनर्गठन हुँदा तामाङलाई पर्यटन मन्त्रालयको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hit_Bahadur_Tamang",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल वायुसेवा निगम सुधारको प्रतिबद्धता",
+      "date": "२०८०-१२-२०",
+      "details": "मन्त्री तामाङले नेपाल वायुसेवा निगमको व्यवस्थापन करारमा दिने योजना निजीकरण नभई सुधारका लागि चालिएको कदम भएको प्रष्ट पारेका थिए।",
+      "link_to_source": "https://himalpress.com/2024/04/02/tourism-minister-clears-air-on-management-contract-of-nac/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा पुनः निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "नुवाकोट क्षेत्र नं १ बाट २६,५४८ मत प्राप्त गरी नेकपा एमालेका बद्री मैनालीलाई ३,०८३ मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://nepsebajar.com/election/hit-bahadur-tamang-340293",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०९-२१",
+      "details": "वाम गठबन्धनका तर्फबाट नुवाकोट १ मा ३६,४७३ मत ल्याई नेपाली कांग्रेसका रामशरण महतलाई ८,५५३ मतान्तरले पराजित गरे।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hit_Bahadur_Tamang",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा तथा खेलकुद मन्त्रीको रूपमा कार्य",
+      "date": "२०६८-०२-२१",
+      "details": "झलनाथ खनाल नेतृत्वको सरकारमा पहिलो पटक युवा तथा खेलकुद मन्त्री बनेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hit_Bahadur_Tamang",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०७० मा पराजय",
+      "date": "२०७०-०८-०४",
+      "details": "नुवाकोट १ बाट कांग्रेस नेता रामशरण महतसँग पराजित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hit_Bahadur_Tamang",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अन्तरिम व्यवस्थापिका संसदको सदस्य",
+      "date": "२०६३-१०-०१",
+      "details": "शान्ति प्रक्रियापछि पुनःस्थापित संसदमा माओवादीका तर्फबाट सांसद मनोनित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hit_Bahadur_Tamang",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सशस्त्र जनयुद्धमा सहभागी",
+      "date": "२०५२-११-०१",
+      "details": "नेकपा (माओवादी) ले सुरु गरेको जनयुद्धमा सहभागी भई नुवाकोट क्षेत्रमा भूमिगत राजनीति गरेका थिए।",
+      "link_to_source": "https://mhendolafole.org/hit-bahadur-tamang/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एकता केन्द्रको जिल्ला उपसभापति",
+      "date": "२०४९-०१-०१",
+      "details": "नुवाकोट जिल्लामा नेकपा एकता केन्द्रको उपसभापति र केन्द्रीय सदस्यको रूपमा सक्रिय राजनीति सुरु।",
+      "link_to_source": "https://mhendolafole.org/hit-bahadur-tamang/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हित बहादुर तामाङ नुवाकोटको राजनीतिमा एक स्थापित र प्रभावशाली नाम हुन्। उनले कांग्रेसका हेभीवेट नेता रामशरण महतलाई दुई पटक (२०६४ र २०७४) पराजित गरेर आफ्नो पकड प्रमाणित गरेका छन्। उनी माओवादी केन्द्रभित्र निष्ठावान र भुइँतहका नेताका रूपमा चिनिन्छन्। पर्यटन मन्त्रीको रूपमा उनको पछिल्लो कार्यकालमा नेपाल वायुसेवा निगमको व्यवस्थापकीय सुधारका कुरा उठे पनि ठोस उपलब्धिमा भने प्रश्न चिन्ह बाँकी नै छ। नुवाकोटमा उनलाई विकास प्रेमी नेताका रूपमा हेरिन्छ, यद्यपि राष्ट्रिय राजनीतिमा उनको प्रभाव अझै विस्तार हुन आवश्यक देखिन्छ। उनी कुनै ठूला भ्रष्टाचार काण्डमा नमुछिएका कारण उनको छवि स्वच्छ मानिन्छ।",
+  "overall_approval_rating": 75
+}

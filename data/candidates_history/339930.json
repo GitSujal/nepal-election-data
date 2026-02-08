@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339930,
+  "candidate_name": "नरेश भण्‍डारी",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://election.gov.np/assets/images/party_logos/maoist.png",
+  "candidates_current_position": "पूर्व आन्तरिक मामिला तथा कानून मन्त्री, कर्णाली प्रदेश",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339930.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "जुम्ला",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "जुम्ला",
+      "constituency": "क",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "जुम्ला",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा पराजित",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा जुम्लाबाट स्वतन्त्र/विद्रोही उम्मेदवारी दिएका भण्डारी राप्रपाका ज्ञानेन्द्र शाहीसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी निर्णय विरुद्ध स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सत्ता गठबन्धनको तर्फबाट टिकट नपाएपछि उनले माओवादी केन्द्रको आधिकारिक उम्मेदवार विरुद्ध स्वतन्त्र उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/cpn-mcs-bhandari-wins-provincial-seat-from-jumla",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "द्वन्द्व पीडितको उपचारका लागि सम्झौता",
+      "date": "२०७७-११-०४",
+      "details": "कानून मन्त्री हुँदा कर्णालीका द्वन्द्व पीडितहरूको निःशुल्क उपचारका लागि कर्णाली स्वास्थ्य विज्ञान प्रतिष्ठानसँग सम्झौता गरे।",
+      "link_to_source": "https://www.khabarhub.com/2021/15/185797/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कर्णालीको आन्तरिक मामिला तथा कानून मन्त्रीमा नियुक्त",
+      "date": "२०७४-११-०६",
+      "details": "कर्णाली प्रदेश सरकारको पहिलो मन्त्रीमण्डलमा आन्तरिक मामिला तथा कानून मन्त्रीको रूपमा कार्यभार सम्हाले।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Naresh_Bhandari",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "जुम्ला क्षेत्र नम्बर १ (क) बाट १२,५७४ मत प्राप्त गरी प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/cpn-mcs-bhandari-wins-provincial-seat-from-jumla",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कर्णाली स्वास्थ्य विज्ञान प्रतिष्ठानको स्थापना",
+      "date": "२०६८-०७-०३",
+      "details": "जुम्लामा स्वास्थ्य सेवा र शिक्षा पुर्याउन कर्णाली स्वास्थ्य विज्ञान प्रतिष्ठान ऐन ल्याउन र संस्था स्थापना गर्न प्रमुख भूमिका निर्वाह गरे।",
+      "link_to_source": "https://kahs.edu.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभामा निर्वाचित",
+      "date": "२०६४-१२-२८",
+      "details": "जुम्ला क्षेत्र नम्बर १ बाट २१,१२७ मतका साथ भारी बहुमतले संविधान सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Naresh_Bhandari",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "खस आर्य पहिचानको मुद्दा",
+      "date": "२०७५-०३-१५",
+      "details": "कर्णाली प्रदेश सभामा खस आर्यको पहिचान र अधिकारका लागि 'खस विधेयक' अगाडि बढाउन नेतृत्वदायी भूमिका खेले।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/cpn-mcs-bhandari-wins-provincial-seat-from-jumla",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नरेश भण्डारी जुम्लाको राजनीतिमा एक बौद्धिक र विकासप्रेमी नेताका रूपमा स्थापित छन्। उनलाई कर्णाली स्वास्थ्य विज्ञान प्रतिष्ठानको 'जन्मदाता' मानिन्छ, जसले पिछडिएको जुम्लामा स्वास्थ्य क्रान्ति ल्यायो। २०७४ मा कर्णाली प्रदेशको कानून मन्त्री हुँदा उनले प्रदेशका धेरै आधारभूत कानूनहरू निर्माण गर्न महत्त्वपूर्ण योगदान दिए। यद्यपि, २०७९ को निर्वाचनमा पार्टीले टिकट नदिएपछि विद्रोही उम्मेदवार बन्नु र पराजित हुनुले उनको राजनीतिक जीवनमा केही चुनौती थपेको छ। उनी खस आर्य पहिचान र कर्णालीको विकासका लागि निरन्तर आवाज उठाउने नेता हुन्। स्थानीय स्तरमा उनको लोकप्रियता विकासका एजेन्डाका कारण बलियो छ, तर पार्टी भित्रको अस्थिरताले उनको भविष्य प्रभावित पार्न सक्छ।",
+  "overall_approval_rating": 78
+}

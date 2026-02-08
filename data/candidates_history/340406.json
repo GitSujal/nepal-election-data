@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340406,
+  "candidate_name": "प्रकास बुढाथोकी",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hammer_and_sickle_red_on_transparent.svg/1200px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "केन्द्रीय नेता (गोपाल किराती समूह)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340406.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौँ क्षेत्र नं. ४ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका थिए तर मुख्य प्रतिस्पर्धी गगन थापासँग पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340406",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल कम्युनिस्ट पार्टी (माओवादी) मा आबद्धता",
+      "date": "२०७५-०२-०३",
+      "details": "तत्कालीन माओवादी केन्द्र र एमाले बीचको एकता प्रक्रियामा असहमति जनाउँदै गोपाल किरातीको नेतृत्वमा गठन भएको माओवादी समूहमा सक्रिय रहे।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/05/680326",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय संगठन विस्तार अभियान",
+      "date": "२०७८-०६-१५",
+      "details": "काठमाडौँका विभिन्न क्षेत्रहरूमा साना कम्युनिस्ट घटकहरूको संगठन विस्तार र जनपरिचालनमा सहभागी भएका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/199012",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रकास बुढाथोकी नेपाल कम्युनिस्ट पार्टी (माओवादी) का एक प्रतिबद्ध राजनीतिक कार्यकर्ता हुन्। उनले २०७९ को निर्वाचनमा काठमाडौँ क्षेत्र नं. ४ जस्तो उच्च प्रतिस्पर्धात्मक क्षेत्रबाट उम्मेदवारी दिएर आफ्नो राजनीतिक उपस्थिति जनाएका थिए। उनी मूलधारको माओवादी केन्द्रबाट अलग भई गोपाल किराती नेतृत्वको समूहमा लागेका हुनाले उनलाई क्रान्तिकारी धारको नेताका रूपमा चिनिन्छ। उनको चुनावी पकड कमजोर रहे पनि साना कम्युनिस्ट घटकहरूका बीचमा उनको राम्रो प्रभाव रहेको छ। काठमाडौँमा बसोबास गर्दै उनले स्थानीय स्तरमा पार्टीको विचार प्रवाह गर्ने कार्य गरिरहेका छन्। निर्वाचनमा प्राप्त मतका आधारमा उनको स्थिति निकै पछाडि देखिए पनि उनी निरन्तर राजनीतिक अभियानमा सक्रिय छन्।",
+  "overall_approval_rating": 42
+}

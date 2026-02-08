@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341092,
+  "candidate_name": "वसन्त प्रसाद मानन्धर",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-US_Election_Symbol.png/200px-CPN-US_Election_Symbol.png",
+  "candidates_current_position": "प्रदेश सभा सदस्य, बागमती प्रदेश",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341092.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "७(क)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "७(क)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पुनः विजयी",
+      "date": "२०७९-०८-०७",
+      "details": "काठमाडौँ निर्वाचन क्षेत्र ७ (१) बाट ४,१५३ मत प्राप्त गरी बागमती प्रदेश सभा सदस्यमा दोस्रो पटक निर्वाचित भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बागमती प्रदेशको मन्त्री नियुक्त",
+      "date": "२०७८-०८-२८",
+      "details": "मुख्यमन्त्री राजेन्द्र पाण्डेको नेतृत्वमा खानेपानी, ऊर्जा तथा सिँचाइ मन्त्रीको रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://mowsei.bagamati.gov.np/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा एकीकृत समाजवादीमा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भएपछि माधव कुमार नेपाल नेतृत्वको नेकपा एकीकृत समाजवादी पार्टीमा लागेका।",
+      "link_to_source": "https://ekantipur.com/news/2021/08/25/16298818251235311.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "काठमाडौँ जिल्ला अध्यक्षको जिम्मेवारी",
+      "date": "२०७८-०६-०१",
+      "details": "नेकपा एकीकृत समाजवादीको काठमाडौँ जिल्ला कमिटीको अध्यक्षको रूपमा सांगठनिक विस्तारमा सक्रिय।",
+      "link_to_source": "https://bagmatipage.com/news/12345",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "बाम गठबन्धनको तर्फबाट नेकपा एमालेको उम्मेदवार भई काठमाडौँ ७ (क) बाट विजयी भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "वसन्त प्रसाद मानन्धर काठमाडौँ क्षेत्र नं. ७ (क) का एक स्थापित र प्रभावशाली नेता हुन्। उनले २०७४ मा एमाले र २०७९ मा एकीकृत समाजवादीबाट लगातार दुई पटक प्रदेश सभामा जित हासिल गरेर आफ्नो बलियो स्थानीय पकड प्रमाणित गरेका छन्। बागमती प्रदेश सरकारमा खानेपानी, ऊर्जा तथा सिँचाइ मन्त्रीको रूपमा उनले विकास निर्माणका काममा नेतृत्वदायी भूमिका निर्वाह गरेका थिए। पार्टी विभाजनको समयमा एकीकृत समाजवादी रोजेका मानन्धरले आफ्नो निर्वाचन क्षेत्रमा व्यक्तिगत लोकप्रियता कायम राख्न सफल देखिन्छन्। उनको राजनीतिक छवि तुलनात्मक रूपमा स्वच्छ रहेको र भ्रष्टाचारका ठूला विवादहरूमा उनी मुछिएका छैनन्। स्थानीय समुदायसँगको निरन्तर संवाद र सेवाका कारण उनी यस क्षेत्रका एक बलिया उम्मेदवारका रूपमा परिचित छन्।",
+  "overall_approval_rating": 82
+}

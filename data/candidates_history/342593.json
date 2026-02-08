@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342593,
+  "candidate_name": "चनचन चौधरी थारु",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NUP_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342593.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम घोषणा",
+      "date": "२०७९-०८-०९",
+      "details": "रौतहट क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यमा पराजित। यस निर्वाचनमा स्वतन्त्र उम्मेदवार प्रभु साह विजयी भएका थिए।",
+      "link_to_source": "https://election.onlinekhabar.com/rautahat-3/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नागरिक उन्मुक्ति पार्टीको तर्फबाट रौतहट निर्वाचन क्षेत्र नम्बर ३ मा प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी मनोनयन दर्ता।",
+      "link_to_source": "https://inseconline.org/reporters/u1665330386/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा आबद्धता",
+      "date": "२०७९-०१-०१",
+      "details": "थारु समुदायको हक अधिकार र पहिचानका लागि रेशम चौधरीको नेतृत्वमा स्थापना भएको नागरिक उन्मुक्ति पार्टीमा आबद्ध भई सक्रिय राजनीति सुरु।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342593",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चनचन चौधरी थारु रौतहट निर्वाचन क्षेत्र नम्बर ३ बाट २०७९ सालको प्रतिनिधि सभा निर्वाचनमा नागरिक उन्मुक्ति पार्टीको तर्फबाट उम्मेदवार थिइन्। उनी राजनीतिमा नयाँ अनुहार हुन् र विशेष गरी थारु समुदायको पहिचान र अधिकारका लागि नागरिक उन्मुक्ति पार्टीको एजेन्डा बोकेर चुनावी प्रतिस्पर्धामा उत्रिएकी थिइन्। रौतहट ३ मा प्रभु साह जस्ता प्रभावशाली नेताहरूसँगको प्रतिस्पर्धामा उनले उल्लेख्य मत प्राप्त गर्न नसके पनि आफ्नो राजनीतिक उपस्थिति जनाइन्। उनको राजनीतिक पृष्ठभूमि धेरै पुरानो छैन र हालसम्म उनी कुनै ठूला विवाद वा भ्रष्टाचारमा मुछिएकी छैनन्। उनी मुख्यतया थारु समुदायको सशक्तिकरण र क्षेत्रीय राजनीतिमा सक्रिय छिन्।",
+  "overall_approval_rating": 52
+}

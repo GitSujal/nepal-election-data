@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341356,
+  "candidate_name": "गुरु राज घिमिरे",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "पूर्व केन्द्रीय सदस्य, नेपाली कांग्रेस",
+  "candidates_current_position_in_party": "महामन्त्री (विशेष महाधिवेशन पक्ष)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341356.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ४ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ४ (क)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "विशेष महाधिवेशनबाट महामन्त्री चयन भएको दाबी",
+      "date": "२०८२-१०-०७",
+      "details": "नेपाली कांग्रेसका असन्तुष्ट पक्षद्वारा आयोजित विशेष महाधिवेशनबाट गुरुराज घिमिरे महामन्त्री चुनिएको दाबी गरिएको छ, जसलाई संस्थापन पक्षले अस्वीकार गरेको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOY0ArofmSJBU5YL2kCJguPFibYBBm5PMv5NmLwlmbmir_-_zklIWD7pr27zCJHAFUB9vN-Orx47YiZGL984Wzrf_FZmcrV5fap6LW-ZEq329iKP7RCn7cu_lXLbGDW15BzL-kouIZXw==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी नेतृत्वमाथि अधिनायकवादको आरोप",
+      "date": "२०८२-०९-१९",
+      "details": "घिमिरेले सभापति शेरबहादुर देउवामाथि पार्टीमा 'हुकुमी शासन' चलाएको र आन्तरिक लोकतन्त्र समाप्त पारेको गम्भीर आरोप लगाएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyA3q1Aqk8G83THp6qya2QuJvtIkXfD9cZ1Kvtq2cTKfYyF_mZ_23CcJTxIFxbuZIvtMdGYotpb_324r4_OvUUFVq0gYON0j8R73hsG3kcbHJPdWFeUJCRCoZwR906CCgzNmwR-wHL9yvvRqCajFuLM17Rh8kuxK90jRgbvHiLddWhWpoSfLopjalkNQ==",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सभापति देउवाको राजीनामा माग",
+      "date": "२०७९-०९-११",
+      "details": "निर्वाचनपछि सत्ता गठबन्धन जोगाउन नसकेको र पार्टीको साख गिराएको भन्दै घिमिरेले देउवाको नैतिकताको आधारमा राजीनामा मागेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAsj5M_-I9hnElkyh3XTHVVH-0fNMB2dCPcgqeh0ZFdXPBCzs0DQiST4mIXIy7R_OL3S97fKIo3j_9qJgh3LgaBRSEyHTgQQocfcPzq2gpsKrHnzKzsi9DM6hofPf5J9te3wU=",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "मोरङ ४ (क) बाट प्रदेश सभा निर्वाचनमा एमालेका जय प्रकाश चौधरीसँग घिमिरे ४०४ मतको झिनो अन्तरले पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTtvY_iTnI_cHDX-iI5lX-8aW4So9tef2U32kiIi33NJdxBu_emq_O9GcguhiTUdLOHJOS0uxcrIWW3g8uX3Uuxub4m4pw-wKcTsrptOkdeBZGxe_1Y0k8s0zzU6okSDIVazmPf4SrvMwPwLmxHOrxjOiGLAJ3k3RmAJeZpd5RtvQ4FA8WNnu_anI=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश १ सभापति निर्वाचनमा २ मतले पराजय",
+      "date": "२०७८-०८-२१",
+      "details": "नेपाली कांग्रेसको प्रदेश १ सभापति पदका लागि भएको निर्वाचनमा संस्थापन पक्षका उद्धव थापासँग घिमिरे मात्र २ मतले पराजित भए, जसलाई उनले 'राजनीतिक हिंसा' भनेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWUwSb6X0VxbsOQMdXA-yv3aj1q7yXVCnSyDZNO2psAUhhnT8X2noRzqfMVqN4r5afG5qq2PzUFoo2wK13oDzYzKMb0d8UEOPhM0vPasy4GfFbqb03BV2qGOvJvgHbIYZqKZLWFvSB3lj0l54cfGpzYnSuU9lt8G7M8PkK1f2BGPNKPog0Era1XG-4_5s_ceZ_goajqDTMe8SykU_7ePnYig0y6VHw5TO6cBwtKOEg9HQPbwkIUSVEmwIT96kFImnuhVT97g==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजद्रोहको मुद्दा र जेल जीवन",
+      "date": "२०६०-०९-०९",
+      "details": "तत्कालीन शाही शासनको विरुद्धमा आन्दोलन गर्दा राजद्रोहको मुद्दामा घिमिरे जेल परेका थिए र विद्यार्थी नेताको रूपमा रिहा हुँदा भव्य स्वागत गरिएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfbrQBcJ7K6WYeLdfoN0wI7qlNF-3S74KVAXDVchVJv5s2aYnnMp7kQeJG8JAkRvSb-R90u2H1wA4UVCWSjU9eMpgpLUi_oM55mRyozV29PRx7CI1-gMOCPX996is2_dUyNSermTbWgOXnglVg1BbgL17o6Ht7RkXlHdAYIaTUWJFgcjm5zFTkvkRpWhhGXY6mVn0x4s0_hByXiTbBRWR5DQ2Qkz9gBzrp9GBdc_p03GH_yXQ=",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल विद्यार्थी संघको अध्यक्ष",
+      "date": "२०५९-०१-०१",
+      "details": "घिमिरे २०५९ देखि २०६१ सम्म नेपाल विद्यार्थी संघको केन्द्रीय अध्यक्ष भएर विद्यार्थी आन्दोलनको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr8zemoX6bsww-HkWmpU7QNDZbfbfeIbsWDETxOrm634bb2wJW9rbuv5eaAVSkgFPF824xbetK_gKz1-g5SwJQN44kCoi8baskQAir5FArO1BaqqD_9bhwQGbXhQH6SHEyTjnkL2-G8CGR2MZFVk_fWq2TkSgTc8M6KKa73Km4v9HUw72b56-Xd8qaxI3ltFpesZXmlcAGvrLhZedgyAT1c8fsaBjwE2E21NXf3_iNJKZe0L-7IMxh",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गुरु राज घिमिरे नेपाली कांग्रेसका एक प्रभावशाली वैचारिक नेता र प्रखर वक्ता हुन्। नेपाल विद्यार्थी संघको पूर्व अध्यक्षका रूपमा उनले प्राप्त गरेको लोकप्रियताका बावजुद संसदीय राजनीतिमा उनको चुनावी यात्रा चुनौतीपूर्ण देखिएको छ। २०७४ र २०७९ को दुवै प्रदेश सभा निर्वाचनमा उनी मोरङबाट झिनो मतान्तरले पराजित भए। उनको पराजयलाई पार्टीभित्रको संस्थापन पक्षसँगको वैचारिक द्वन्द्व र अन्तर्घातको परिणाम मानिन्छ। पछिल्लो समय उनले पार्टीमा 'विशेष महाधिवेशन' को नेतृत्व गर्दै आन्तरिक लोकतन्त्रको वकालत गरिरहेका छन्, जसले गर्दा उनी संस्थापन पक्षको कडा आलोचनाको तारो बनेका छन्। निष्कलंक छवि र बौद्धिक नेतृत्वका कारण युवा पंक्तिमा उनी लोकप्रिय भए पनि चुनावी नतिजा निकाल्न नसक्नु उनको मुख्य कमजोरी देखिन्छ।",
+  "overall_approval_rating": 58
+}

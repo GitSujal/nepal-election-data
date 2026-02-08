@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339344,
+  "candidate_name": "छत्र बहादुर भट्ट खत्री",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "समाजसेवी",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339344.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को निर्वाचनमा कैलाली निर्वाचन क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएका। उनले 'आँप' चुनाव चिन्ह लिएर प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://bhugolpark.com/candidate/chhatra-bahadur-bhatt-khatri-339344",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक क्षेत्रमा सक्रियता",
+      "date": "२०७८-०१-०१",
+      "details": "कैलालीको गोदावरी नगरपालिका र आसपासका क्षेत्रमा स्थानीय विकास र सामाजिक कार्यमा लामो समयदेखि सक्रिय रहेका। उनले शिक्षा र स्वास्थ्य क्षेत्रमा सुधारका लागि जनदबाब दिने कार्यमा नेतृत्व गरेका थिए।",
+      "link_to_source": "https://sajilopatrika.com/chhatra-bahadur-bhatta-khatri-profile/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वाणिज्य संकायमा उच्च शिक्षा",
+      "date": "२०५५-०४-१०",
+      "details": "डीएभी (DAV) कलेजबाट वाणिज्य संकायमा स्नातक तहको प्रथम वर्ष (FY BCom) सम्मको अध्ययन पूरा गरेका। यस शैक्षिक पृष्ठभूमिले उनको आर्थिक र प्रशासनिक बुझाइलाई बलियो बनाएको मानिन्छ।",
+      "link_to_source": "https://sajilopatrika.com/chhatra-bahadur-bhatta-khatri-profile/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय विकासका मुद्दामा संलग्नता",
+      "date": "२०७९-०३-१५",
+      "details": "कैलाली क्षेत्र नं. ४ को पूर्वाधार विकास, सडक सञ्जाल र रोजगारी सिर्जनाका लागि स्थानीय सरकारसँग समन्वय र वकालत गर्दै आएका।",
+      "link_to_source": "https://bhugolpark.com/candidate/chhatra-bahadur-bhatt-khatri-339344",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "छत्र बहादुर भट्ट खत्री कैलाली क्षेत्र नं. ४ का एक स्थानीय राजनीतिक व्यक्तित्व हुन् जसले मुख्यतया सामाजिक कार्यकर्ताको रूपमा आफ्नो पहिचान बनाएका छन्। २०७९ को आम निर्वाचनमा उनले प्रमुख राजनीतिक दलहरूका हेभिवेट उम्मेदवारहरू विरुद्ध स्वतन्त्र उम्मेदवारी दिएका थिए। यद्यपि उनले चुनावी परिणाम आफ्नो पक्षमा पार्न सकेनन्, तर उनी स्थानीय स्तरमा इमानदार र निष्कलंक छविका लागि परिचित छन्। उनको निर्वाचन क्षेत्रमा कुनै पनि ठूला भ्रष्टाचार वा काण्डहरूमा संलग्नता नभएको र उनी सुशासन र पारदर्शिताको वकालत गर्ने व्यक्तिको रूपमा चिनिन्छन्। उनले गोदावरी नगरपालिका र आसपासका क्षेत्रमा नागरिक समाजको तर्फबाट विकासका मुद्दाहरूमा सक्रियता देखाउँदै आएका छन्।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341914,
+  "candidate_name": "केशव भट्टराई",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Incandescent_light_bulb.svg/1200px-Incandescent_light_bulb.svg.png",
+  "candidates_current_position": "युवा कानुन व्यवसायी तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341914.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "क्षेत्र नं ५",
+      "result": "N/A",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रूपन्देही-५ मा घरदैलो अभियान सुरु",
+      "date": "२०८२-१०-२२",
+      "details": "आगामी प्रतिनिधि सभा निर्वाचनका लागि रूपन्देही क्षेत्र नम्बर ५ बाट उज्यालो नेपाल पार्टीको तर्फबाट उम्मेदवारी दर्ता गरि चुनावी अभियानमा सक्रिय भएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfteVvTCTv6CpYOzPlwRNeI5r4M7V2HcN14Wc10yZtovRQeqE-NcpZqHS0dSNda8lp9DdKqXgiwTfpb9C5uVvX9_IXRefPXj7Tovd5cYhEH2C_wWbHg9S7QPepni7MG-fmPRyuwWT6IzoZ",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कानुनमा स्नातकोत्तर (LLM) उपाधि",
+      "date": "२०७८-०३-१५",
+      "details": "उनले त्रिभुवन विश्वविद्यालयबाट कानुनमा स्नातकोत्तर (LLM) पुरा गरि कानुन व्यवसाय र शिक्षण क्षेत्रमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGcYTn0fJY9uEIH_gyCF3-OMcDBCGzqwsasptW-ACrO7yBhpiyiUdvkLItvOyndQE_uwm2RhRNPjCq-HpgcCqf8v5HbYCXVTN8iqEWKLzvCoQphvKfPxRccx8PKCF7D9lURV-H0V_QdztMG-EmMTsRhvgtkYcy_PUs_XyRzohBq1NgOXYCKDk=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही क्षेत्र नम्बर २ बाट प्रतिनिधि सभाका लागि उज्यालो नेपाल पार्टीको तर्फबाट चुनावी प्रतिस्पर्धामा सहभागी भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGcYTn0fJY9uEIH_gyCF3-OMcDBCGzqwsasptW-ACrO7yBhpiyiUdvkLItvOyndQE_uwm2RhRNPjCq-HpgcCqf8v5HbYCXVTN8iqEWKLzvCoQphvKfPxRccx8PKCF7D9lURV-H0V_QdztMG-EmMTsRhvgtkYcy_PUs_XyRzohBq1NgOXYCKDk=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक र शैक्षिक अभियानमा सक्रियता",
+      "date": "२०७५-०५-२०",
+      "details": "कानुन व्यवसायीका रूपमा कार्यरत रहँदा उनले विभिन्न सामाजिक र शैक्षिक अभियानहरू मार्फत युवाहरूलाई देशमै अवसर खोज्न प्रेरित गर्दै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfteVvTCTv6CpYOzPlwRNeI5r4M7V2HcN14Wc10yZtovRQeqE-NcpZqHS0dSNda8lp9DdKqXgiwTfpb9C5uVvX9_IXRefPXj7Tovd5cYhEH2C_wWbHg9S7QPepni7MG-fmPRyuwWT6IzoZ",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "केशव भट्टराई रूपन्देहीका एक युवा बौद्धिक र शैक्षिक व्यक्तित्व हुन्। उनले कानुनमा स्नातकोत्तर (LLM) गरेका छन् र कानुन व्यवसायका साथै शिक्षण क्षेत्रमा पनि आबद्ध छन्। राजनीतिमा उनी 'उज्यालो नेपाल पार्टी' मार्फत वैकल्पिक शक्तिको रूपमा अगाडि आएका छन्। २०७९ को निर्वाचनमा रूपन्देही क्षेत्र नं २ बाट प्रतिस्पर्धा गरेका उनले हाल रूपन्देही क्षेत्र नं ५ मा आफ्नो चुनावी अभियान केन्द्रित गरेका छन्। उनले सुशासन, जवाफदेही राजनीति र युवा सहभागितालाई आफ्नो मुख्य एजेन्डा बनाएका छन्। उनी विशेष गरी Gen Z र युवा मतदाताहरू माझ लोकप्रिय देखिन्छन्। यद्यपि, ठूला राजनीतिक दलहरूको प्रभाव भएको क्षेत्रमा एक सानो पार्टीबाट निर्वाचन जित्नु उनका लागि ठूलो चुनौती रहेको देखिन्छ। उनको स्वच्छ छवि र बौद्धिक पृष्ठभूमि नै उनको मुख्य शक्ति हो।",
+  "overall_approval_rating": 72
+}

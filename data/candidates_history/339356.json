@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339356,
+  "candidate_name": "पुर्ण बहादुर बुढाथोकी",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Nepal_Workers_Peasants_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरका नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339356.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट उदयपुर क्षेत्र नं. २ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका थिए, जसमा उनले ११७ मत प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/339356",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेमकिपाको संगठनात्मक विस्तार",
+      "date": "२०७८-०३-१५",
+      "details": "उदयपुर जिल्लामा नेपाल मजदुर किसान पार्टीको विचारधारा र 'मादल' चुनाव चिन्हको प्रचारप्रसारमा सक्रिय रहँदै आएका।",
+      "link_to_source": "https://onlinemajdoor.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "पुर्ण बहादुर बुढाथोकी नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान कार्यकर्ता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले उदयपुर क्षेत्र नं. २ बाट चुनाव लडेका थिए, जहाँ उनले जम्मा ११७ मत प्राप्त गरे। उनको राजनीतिक प्रभाव उदयपुर जिल्लामा अत्यन्तै न्यून देखिएको छ, किनकि नेमकिपाको मुख्य प्रभाव क्षेत्र भक्तपुर मात्र रहेको छ। बुढाथोकी एक वैचारिक उम्मेदवारका रूपमा चिनिन्छन् जसले चुनावी नतिजा भन्दा पनि पार्टीको सिद्धान्त जनतामाझ पुर्याउने लक्ष्य राखेको देखिन्छ। उनको विरुद्धमा हालसम्म कुनै भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्। तर, जनमतको हिसाबले उनी निकै कमजोर स्थानमा रहेका छन्।",
+  "overall_approval_rating": 28
+}

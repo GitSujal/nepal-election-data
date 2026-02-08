@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340008,
+  "candidate_name": "भरत गुरुङ",
+  "candidate_party": "नेशनल रिपब्लिक नेपाल",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xV9MIdEId2L6e6Z_78Dq1v4K-P_P8051Ew&s",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340008.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "लमजुङ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेशनल रिपब्लिक नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "लमजुङ जिल्लाबाट प्रतिनिधि सभा सदस्यका लागि नेशनल रिपब्लिक नेपालको तर्फबाट उम्मेदवारी दर्ता गरेका थिए। निर्वाचनमा उनले अत्यन्तै न्यून मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340008",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेशनल रिपब्लिक नेपालमा आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "परम्परागत शक्ति र वैकल्पिक राजनीतिको एजेन्डा बोकेको नेशनल रिपब्लिक नेपाल पार्टीमा सक्रिय भई राजनीतिक यात्रा अगाडि बढाएका हुन्।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भरत गुरुङ लमजुङ जिल्लाका एक अल्पपरिचित राजनीतिक पात्र हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा 'नेशनल रिपब्लिक नेपाल' जस्तो सानो दलबाट उम्मेदवारी दिनुले उनको राजनीतिक महत्वाकांक्षा प्रष्ट पार्छ। यद्यपि, सो निर्वाचनमा उनले ३४ मत मात्र प्राप्त गरे, जसले उनलाई स्थानीय स्तरमा बलियो जनमत नभएको 'कमजोर' उम्मेदवारका रूपमा देखाउँछ। उनका बारेमा कुनै ठूला भ्रष्टाचार वा काण्डहरू सार्वजनिक भएका छैनन्, तर उनको राजनीतिक प्रभाव क्षेत्र अत्यन्तै सीमित देखिन्छ। मुख्यधारका दलहरू जस्तै एमाले र माओवादी केन्द्रको वर्चस्व रहेको लमजुङमा उनले आफ्नो पहिचान स्थापित गर्न सकेका छैनन्।",
+  "overall_approval_rating": 25
+}

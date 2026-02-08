@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340441,
+  "candidate_name": "नारायण काजी श्रेष्ठ",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/CPN-MC_logo.svg/1024px-CPN-MC_logo.svg.png",
+  "candidates_current_position": "उपप्रधानमन्त्री",
+  "candidates_current_position_in_party": "वरिष्ठ उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340441.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "N/A",
+      "constituency": "मनोनीत",
+      "result": "विजयी",
+      "party": "जनमोर्चा नेपाल"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७६",
+      "position": "राष्ट्रिय सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "गण्डकी प्रदेश",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (नेकपा)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उपप्रधानमन्त्री र परराष्ट्र मन्त्री नियुक्ति",
+      "date": "२०८०-११-२३",
+      "details": "सत्ता समीकरण परिवर्तन भएपछि प्रचण्ड नेतृत्वको सरकारमा पुनः उपप्रधानमन्त्री तथा परराष्ट्र मन्त्रीको जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdUM97eATrbG_lvhwfrn_GYwrwMJmw9oqLwaKNqdgAFojMeqyUvwqxiNurP71OOkzFllLimxrLRjXUW-gZcQFur0YM7PgfSUqiOIGtWGsnLHV88UDKcqlqs318iVhnMmeRV9aEQhEI0dwj-dg",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुन तस्करी प्रकरण र आलोचना",
+      "date": "२०८०-०४-१०",
+      "details": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलबाट भित्रिएको ठूलो परिमाणको सुन तस्करी प्रकरणमा गृहमन्त्रीको रूपमा नैतिकताको आधारमा राजीनामा मागिएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI8EluN8L42dubZrLBoEmomWsUDjRGAY-bWBvQHnVG7QHtvr4iALhsZpAyIr5tfNroIu0ybI_E8NGIu8vCTAq0OXac95g5q-dnJOEfIZaW2uCyhykd1YJA7TRrTIbEhQc0HNUuGQ==",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नक्कली भुटानी शरणार्थी प्रकरणको सफल अनुसन्धान",
+      "date": "२०८०-०१-२०",
+      "details": "गृहमन्त्रीको रूपमा पूर्व गृहमन्त्री बालकृष्ण खाँण र टोपबहादुर रायमाझी जस्ता उच्च पदस्थ व्यक्तिहरूलाई पक्राउ गरी भ्रष्टाचार विरुद्ध कडा कदम चालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdUM97eATrbG_lvhwfrn_GYwrwMJmw9oqLwaKNqdgAFojMeqyUvwqxiNurP71OOkzFllLimxrLRjXUW-gZcQFur0YM7PgfSUqiOIGtWGsnLHV88UDKcqlqs318iVhnMmeRV9aEQhEI0dwj-dg",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ललिता निवास जग्गा प्रकरण फाइल पुन: खोलिएको",
+      "date": "२०७९-१२-१५",
+      "details": "गृहमन्त्री भएलगत्तै बालुवाटारस्थित ललिता निवासको सरकारी जग्गा कब्जा गर्नेहरू विरुद्ध सिआइबी परिचालन गरी अनुसन्धान तीव्र पारेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY1RC0fs4Su9Jsmb5Uiuueooz6_gQDLyHa8KW-DEJcR1ab7zy3n1ZC5GLpzJmcl5emOQGb5x4_i-9S-Y61HuC3pexrm_kLQ56EZIOxgweI5lWPfiNhZv7E7U-C8g==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उपप्रधानमन्त्री र गृह मन्त्रीको कार्यभार",
+      "date": "२०७९-१२-१७",
+      "details": "प्रचण्ड सरकारमा भौतिक पूर्वाधार मन्त्रालय छाडेर गृह मन्त्रालयको महत्त्वपूर्ण जिम्मेवारी सम्हालेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeWJ0m-XAqJeb9CDQwTjCF9e-MAfR5sFTaBv6pmhGMXFybxEyR-S5RIFBYPFryLg7alpjFVYhZEHdvcfGK-UnGGk6m3FL6fMSfCnsiMnYh7QeKuF1YM676e9bvMphcLG73IsDAC6V37wca-TjUSCNQ5bQDpAk0ztoVFLLPM2Vp7Hsl0CPwX-23E_8EGGs=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय सभा सदस्य निर्वाचित",
+      "date": "२०७६-१०-०९",
+      "details": "२०७४ को निर्वाचनमा पराजित भएपछि गण्डकी प्रदेशबाट राष्ट्रिय सभा सदस्यमा निर्वाचित भई संसद्मा पुनरागमन।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfQdZCK8hyEcNPr59isbOlR7nDr1_wX7rtI814CcFr2_Yu6DAwKdMk5Fnnmjb1Y6B08u8-rst8ZJ2cvYDBbATWlEWg4DDN8nU0EZXLp2zqO-RJc8PfLygF4Y0J76HeELIaXqjzTU-NcbVSGSXWzHrojbU8xHHcTfa0Ue4lwwVLOrmXFJOESb124vF6uRvrRfe1mFX0qT7HobUbuEA=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा हार",
+      "date": "२०७४-०८-२१",
+      "details": "गोरखा क्षेत्र नं. २ मा वाम गठबन्धनको साझा उम्मेदवार रहेका श्रेष्ठ डा. बाबुराम भट्टराईसँग पराजित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv2wLRJJ9JGAUcikPIAxr_Nqg_P3RI5sJJmtX-da94XJddZ6FAewQDB1fqge2gbvTLmLet8dQolVjobOCumjp5h5yCWFa1OaJ5wz7IL9Yc2VipxlOUYKLLkhPTfwgYx8xMuGeIl2tYSvCwZ8zxGW7t3AA_5_yeKrYnly-0IZ6PoMvoENIT",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उपप्रधानमन्त्री तथा परराष्ट्र मन्त्री",
+      "date": "२०६८-०५-१८",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको सरकारमा पहिलो पटक उपप्रधानमन्त्री र परराष्ट्र मन्त्री बनेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdUM97eATrbG_lvhwfrn_GYwrwMJmw9oqLwaKNqdgAFojMeqyUvwqxiNurP71OOkzFllLimxrLRjXUW-gZcQFur0YM7PgfSUqiOIGtWGsnLHV88UDKcqlqs318iVhnMmeRV9aEQhEI0dwj-dg",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकता र माओवादीमा प्रवेश",
+      "date": "२०६५-०९-२९",
+      "details": "नेकपा (एकता केन्द्र मशाल) र नेकपा (माओवादी) बीच एकता भई एकीकृत नेकपा (माओवादी) बनेको, जहाँ उनी उपाध्यक्ष बने।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDCJHr1UwR4ks6JeeHh0Sxvvp1j50hEbjHIy1cStm7d63CSdRq4mGhw8WZ7rPhdTIP6BinYzE4sNCUizGPZ-HUq19oy1W5GpfoOzN20_g3kwwNS1oz6NT9bNWDAiEUlv1-t9xuLtpeZ2YChlGEOSIhq688cg8T7hLDML9qjIUzr0XLpAk1-qwqrTQw_I6rWPzW-GeKicD10Ulyg6mdlllm01GSbOjiRQu1llJDzwermLIJgfDtgRqOMuuW7dZMspUElC5_j7AP9hXhBACLAPQ1FKkTLWdeXdjORrYwwQ8fq-RgeIlX0igFlRb8Z6FV_5rJl6_ALqOLHsHr87Cykw6w0gEk8qkbt-5svBhYTaBPBAjUoq4Aam1T7seboNXhvDaUpVa_N1o=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शान्ति प्रक्रियामा मध्यस्थकर्ताको भूमिका",
+      "date": "२०६२-०८-०१",
+      "details": "तत्कालीन सात राजनीतिक दल र माओवादी बीच १२ बुँदे समझदारी गराउन र सशस्त्र द्वन्द्व अन्त्य गर्न महत्त्वपूर्ण भूमिका निर्वाह।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExficUpqJy5cOepPjtnvTtMIm8gsBtvqtjyYx0LoYSIC45ck2WTAG6PIswLQVCSDwOE-EwhrEmiamJ__TB2VmJBvpUxs3V2wBuhKQOQ4V2IC9XZKs4IslmB11GDZivvgzgGFHaYkcqG2wgrzdLrg==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नारायण काजी श्रेष्ठ (प्रकाश) नेपालको राजनीतिमा एक बौद्धिक र वैचारिक नेताको रूपमा चिनिन्छन्। आफ्नो गृह जिल्ला गोरखामा पराजित भएपछि राष्ट्रिय सभा मार्फत सत्ताको केन्द्रमा रहनुले उनको राजनीतिक चतुरता झल्काउँछ। उनी पछिल्लो समय सर्लाही–३ बाट चुनाव लड्ने तयारीमा रहेका कारण 'बगुवा' वा 'पर्यटक' उम्मेदवारको रूपमा पनि आलोचित छन्। गृहमन्त्रीको कार्यकालमा नक्कली भुटानी शरणार्थी प्रकरण जस्ता ठूला भ्रष्टाचार काण्डमा शक्तिशाली व्यक्तिहरूलाई कानुनी दायरामा ल्याउन उनले देखाएको सक्रियताले उनको छविमा सकारात्मक प्रभाव पारेको छ। यद्यपि, १०० किलो सुन तस्करी प्रकरणमा उनको कार्यकाल विवादित रह्यो र विपक्षी दलहरूले उनको राजीनामा समेत मागेका थिए। पार्टी भित्र प्रचण्ड पछिको दोस्रो वरीयतामा संघर्षरत उनी, सशस्त्र युद्धमा सहभागी नभए पनि माओवादी आन्दोलनको ब्याज खाएको भन्ने आन्तरिक आलोचनाको सामना गरिरहन्छन्।",
+  "overall_approval_rating": 68
+}

@@ -1,0 +1,111 @@
+{
+  "candidate_id": 341497,
+  "candidate_name": "शिवचन्द्र प्रसाद कुशवाहा",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_of_Progressive_Democratic_Party_Nepal.png/200px-Election_Symbol_of_Progressive_Democratic_Party_Nepal.png",
+  "candidates_current_position": "पूर्व संविधानसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341497.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधिसभा सदस्य (उपनिर्वाचन)",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रगतिशील लोकतान्त्रिक पार्टीमा प्रवेश",
+      "date": "२०८०-१०-२४",
+      "details": "जनमत पार्टी परित्याग गरी कुशवाहा प्रगतिशील लोकतान्त्रिक पार्टीमा प्रवेश गरेका हुन् र बारा-२ बाट आगामी निर्वाचनको तयारी थालेका छन्।",
+      "link_to_source": "https://www.ratopati.com/story/409605/shiva-chandra-kushwaha",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बारा-२ उपनिर्वाचनमा सम्मानजनक मत",
+      "date": "२०८०-०१-१०",
+      "details": "जनमत पार्टीका उम्मेदवार कुशवाहाले २३,३३४ मत प्राप्त गरी उपेन्द्र यादवलाई कडा टक्कर दिएका थिए, यद्यपि उनी पराजित भए।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/04/1296765",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनमत पार्टीमा प्रवेश र टिकट प्राप्ति",
+      "date": "२०७९-१२-१५",
+      "details": "माओवादी केन्द्रले उपनिर्वाचनमा टिकट नदिने भएपछि उनी सीके राउत नेतृत्वको जनमत पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://theannapurnaexpress.com/news/cpn-mc-leader-shiva-chandra-kushwaha-joins-janamat-party-37446",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी केन्द्र परित्याग र विद्रोह",
+      "date": "२०७९-१२-१४",
+      "details": "लामो समय माओवादी आन्दोलनमा रहेका उनले पार्टी नेतृत्वले आफूलाई उपेक्षा गरेको भन्दै साधारण सदस्य समेत नरहने गरी राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.rajdhanidaily.com/posts/312015",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा झिनो मतान्तरले पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "बारा-२ मा माओवादी केन्द्रबाट उम्मेदवार रहेका उनी जनता समाजवादी पार्टीका रामसहाय प्रसाद यादवसँग केवल ३५४ मतले पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/341497",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७० मा सद्भावना पार्टीबाट निर्वाचन",
+      "date": "२०७०-०८-०४",
+      "details": "माओवादीसँगको असन्तुष्टिका कारण २०७० को दोस्रो संविधानसभा निर्वाचन उनले सद्भावना पार्टीबाट लडेका थिए, जहाँ उनी पराजित भए।",
+      "link_to_source": "https://www.ratopati.com/story/409605/shiva-chandra-kushwaha",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पहिलो संविधानसभा सदस्यमा निर्वाचित",
+      "date": "२०६४-१२-२८",
+      "details": "तत्कालीन नेकपा (माओवादी) बाट बारा-२ मा अत्याधिक मतका साथ विजयी भई पहिलो संविधानसभा सदस्य बनेका थिए।",
+      "link_to_source": "https://nepalpostdaily.com/2024/02/07/353456",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शिवचन्द्र प्रसाद कुशवाहा बारा जिल्लाका एक प्रभावशाली तर राजनीतिक रूपमा अस्थिर नेता मानिन्छन्। उनले आफ्नो राजनीतिक जीवन माओवादी आन्दोलनबाट सुरु गरे र २०६४ मा संविधानसभा सदस्य बनेर सफलता हासिल गरे। यद्यपि, उनको पछिल्लो राजनीतिक यात्रा 'अवसरवाद' को आरोपबाट अछुतो छैन। उनले माओवादी, सद्भावना, जनमत र हाल प्रगतिशील लोकतान्त्रिक पार्टी गरी बारम्बार दल परिवर्तन गरेका छन्। २०८० को उपनिर्वाचनमा उनले प्राप्त गरेको २३,३३४ मतले उनको स्थानीय लोकप्रियता बलियो रहेको देखाउँछ, तर अस्थिर पार्टी फेरबदलले उनको विश्वसनीय छविमा ह्रास ल्याएको छ। उनी 'टुरिष्ट' नभई स्थानीय 'ग्रासरुट' नेता भए पनि राजनीतिक अस्थिरता नै उनको प्रमुख कमजोरी देखिएको छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340844,
+  "candidate_name": "रविन्द्र उच्च नेपाली",
+  "candidate_party": "राष्ट्रिय जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rastriya_Janamukti_Party_logo.png/220px-Rastriya_Janamukti_Party_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "दाङ जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340844.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "नगर प्रमुख (मेयर)",
+      "district": "दाङ",
+      "constituency": "तुलसीपुर उपमहानगरपालिका",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "रविन्द्र उच्च नेपालीले दाङ निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि राष्ट्रिय जनमुक्ति पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, जहाँ उनले थोरै मत प्राप्त गरी पराजय भोगे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhisabha-2079/districts/dang?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०१-३०",
+      "details": "तुलसीपुर उपमहानगरपालिकाको नगर प्रमुख (मेयर) पदका लागि राष्ट्रिय जनमुक्ति पार्टीबाट चुनावी प्रतिस्पर्धामा उत्रिएका उनले ३३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/local-level-election-2079/candidates-of-rastriya-janamukti-party?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सजिलो पत्रिकाद्वारा 'भरोसायोग्य नेता' को रूपमा चर्चा",
+      "date": "२०८२-१०-२४",
+      "details": "स्थानीय मिडियाले उनलाई आफ्नो समुदायका समस्या बुझ्ने र व्यावहारिक दृष्टिकोण राख्ने एक निष्कलंक र जनमुखी नेताको रूपमा चित्रित गरेको छ।",
+      "link_to_source": "https://sajilopatrika.com/rabindra-uchcha-nepali-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक सक्रियता र दलित अधिकारको वकालत",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि राष्ट्रिय जनमुक्ति पार्टीमा आबद्ध रहेर उनले दाङ जिल्लामा दलित र सीमान्तकृत समुदायको हकहितका लागि वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/rabindra-uchcha-nepali-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रविन्द्र उच्च नेपाली दाङ जिल्लाका एक स्थानीय राजनीतिक व्यक्तित्व हुन्, जो राष्ट्रिय जनमुक्ति पार्टीको माध्यमबाट दलित र सीमान्तकृत समुदायको प्रतिनिधित्व गर्दछन्। २०७९ को स्थानीय र आम निर्वाचन दुवैमा उनले लज्जास्पद हार बेहोर्नु परे पनि, उनको व्यक्तिगत छवि भने स्वच्छ र विवादरहित देखिन्छ। दाङ-२ जस्तो हेभीवेट क्षेत्रमा रेखा शर्मा र शंकर पोखरेल जस्ता प्रभावशाली नेताहरूसँगको प्रतिस्पर्धाले गर्दा उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। यद्यपि, उनी निरन्तर रूपमा आफ्नो दलको सिद्धान्त र सामाजिक सेवामा सक्रिय रहेका छन्। उनको राजनीतिक आधार मुख्यतया जातीय र पहिचानको मुद्दामा केन्द्रित छ, तर ठूला दलहरूको वर्चस्वका कारण निर्वाचनमा उनको प्रभाव निकै न्यून रहेको देखिन्छ।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341885,
+  "candidate_name": "डा. राजन भट्टराई",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व संविधानसभा सदस्य तथा पूर्व प्रधानमन्त्रीका परराष्ट्र मामिला सल्लाहकार",
+  "candidates_current_position_in_party": "स्थायी कमिटी सदस्य तथा विदेश विभाग प्रमुख",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341885.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "विदेश विभाग प्रमुखको जिम्मेवारी",
+      "date": "२०८०-०९-०१",
+      "details": "नेकपा (एमाले) को विदेश विभाग प्रमुख र स्थायी कमिटी सदस्यका रूपमा पार्टीको अन्तर्राष्ट्रिय सम्बन्ध र कुटनीतिक मामिलाको नेतृत्व गर्दै।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/11/720050",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ४ बाट प्रतिनिधिसभा सदस्यका लागि प्रतिस्पर्धा गर्दा नेपाली कांग्रेसका गगन थापासँग ७,४४७ मतान्तरले पराजित।",
+      "link_to_source": "https://kathmandupost.com/visual-stories/2022/11/22/gagan-thapa-elected-from-kathmandu-4-for-the-third-time",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रधानमन्त्रीको परराष्ट्र मामिला सल्लाहकार (दोस्रो कार्यकाल)",
+      "date": "२०७५-०७-२६",
+      "details": "तत्कालीन प्रधानमन्त्री केपी शर्मा ओलीको परराष्ट्र मामिला सल्लाहकारमा नियुक्त भई दुई देशबीचको कुटनीतिक संवादमा सक्रिय भूमिका निर्वाह गरेको।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/11/720050",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ईपीजी (EPG) को सदस्यको रूपमा प्रतिवेदन तयारी",
+      "date": "२०७५-०३-२०",
+      "details": "नेपाल–भारत प्रबुद्ध व्यक्ति समूह (ईपीजी) को सदस्यका रूपमा १९५० को सन्धि लगायतका विषयमा सुझावसहितको ऐतिहासिक साझा प्रतिवेदन तयार गर्न भूमिका खेलेको।",
+      "link_to_source": "https://www.nepallivetoday.com/2023/08/06/miffed-by-new-delhis-constant-demurral-stakeholders-in-kathmandu-press-for-making-epg-report-public/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको साझा उम्मेदवारका रूपमा काठमाडौं ४ बाट चुनाव लड्दा गगन थापासँग पराजित।",
+      "link_to_source": "https://www.setopati.com/election/representative/171542",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अन्तर्राष्ट्रिय सम्बन्धमा विद्यावारिधि (PhD)",
+      "date": "२०७०-०५-०१",
+      "details": "भारतको जवाहरलाल नेहरू विश्वविद्यालय (JNU) बाट अन्तर्राष्ट्रिय सम्बन्धमा विद्यावारिधि पुरा गरी कुटनीतिक क्षेत्रमा विशेषज्ञता हासिल गरेको।",
+      "link_to_source": "https://nagariknetwork.com/news/3761/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा नियुक्ति",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधान सभामा नेकपा (एमाले) बाट समानुपातिक प्रणालीमार्फत संविधान सभा सदस्य निर्वाचित भई संविधान निर्माणमा संलग्न।",
+      "link_to_source": "https://www.cpnuml.org",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पञ्चायत कालमा जेल जीवन र राजनीतिक सङ्घर्ष",
+      "date": "२०४१-०१-०१",
+      "details": "विद्यार्थी राजनीतिमा लागेकै कारण पञ्चायत विरोधी आन्दोलनका क्रममा पटक-पटक पक्राउ र जेल सजाय भोगेको।",
+      "link_to_source": "https://medium.com/@rajanbhattarai/dr-rajan-bhattarai-biography-childhood-education-family-df33f2b487e4",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. राजन भट्टराई नेकपा (एमाले) भित्रका एक प्रखर बौद्धिक र परराष्ट्र मामिलाका विज्ञ नेता हुन्। उनले अन्तर्राष्ट्रिय सम्बन्धमा विद्यावारिधि गरेका छन् र प्रधानमन्त्रीको सल्लाहकारका रूपमा दुई पटक महत्वपूर्ण जिम्मेवारी सम्हालिसकेका छन्। विशेषगरी नेपाल-भारत सम्बन्ध र ईपीजी (EPG) प्रतिवेदन तयारीमा उनको भूमिका उल्लेखनीय मानिन्छ। यद्यपि, चुनावी राजनीतिमा उनको प्रदर्शन कमजोर देखिन्छ; उनी काठमाडौं क्षेत्र नम्बर ४ बाट लगातार दुई पटक पराजित भएका छन्। उनलाई पार्टीभित्र पदीय जिम्मेवारी र अवसरहरू पाइरहने तर प्रत्यक्ष जनमत बटुल्न नसक्ने नेताका रूपमा समेत आलोचना गरिन्छ। उनको छवि व्यक्तिगत रूपमा स्वच्छ रहे पनि चुनावी प्रतिस्पर्धामा आफ्ना प्रतिद्वन्द्वी गगन थापालाई पराजित गर्न नसक्नु उनको मुख्य राजनीतिक चुनौती बनेको छ।",
+  "overall_approval_rating": 68
+}

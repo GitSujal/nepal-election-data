@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340734,
+  "candidate_name": "गोबिन्द प्रसाद काराखेती",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Election_Commission_of_Nepal_Logo.svg/1200px-Election_Commission_of_Nepal_Logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340734.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "रुपन्देही जिल्लाको क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340734",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रगतिशील लोकतान्त्रिक पार्टीमा आबद्धता",
+      "date": "२०७९-०१-१०",
+      "details": "साना राजनीतिक दलहरूको माध्यमबाट वैकल्पिक राजनीतिमा सक्रिय हुने उद्देश्यका साथ प्रगतिशील लोकतान्त्रिक पार्टीमा संगठित भएको।",
+      "link_to_source": "https://nepsebajar.com/election/party/277",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक गतिविधि",
+      "date": "२०७५-०५-२०",
+      "details": "रुपन्देही क्षेत्रमा विभिन्न सामाजिक र सामुदायिक सेवाका कार्यहरूमा संलग्न रहँदै आएको।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340734",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गोबिन्द प्रसाद काराखेती रुपन्देहीका एक स्थानीय राजनीतिक तथा सामाजिक कार्यकर्ता हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा रुपन्देही निर्वाचन क्षेत्र नम्बर २ बाट प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट प्रतिस्पर्धा गरेका थिए। निर्वाचनमा उनले उल्लेख्य जनमत प्राप्त गर्न नसके पनि साना दलको तर्फबाट राजनीतिक उपस्थिति जनाउनुलाई उनको सक्रियताका रूपमा हेरिएको छ। उनीमाथि हालसम्म कुनै पनि ठूला भ्रष्टाचार, विवाद वा कानुनी मुद्दाहरू सार्वजनिक भएका छैनन्, जसले उनको छवि एक स्वच्छ राजनीतिकर्मीको रूपमा स्थापित गरेको छ। उनी मुख्यतया रुपन्देहीमै केन्द्रित रहेर राजनीति गर्ने भएकाले उनलाई 'टुरिस्ट' उम्मेदवार मान्न सकिँदैन। यद्यपि, ठूला दलहरूको वर्चस्व रहेको रुपन्देहीमा उनको चुनावी प्रभाव निकै कमजोर देखिएको छ।",
+  "overall_approval_rating": 38
+}

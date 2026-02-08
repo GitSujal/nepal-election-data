@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340539,
+  "candidate_name": "सूर्य बहादुर भट्टराई",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6A7R5O8v_3Uf_UvI9YyvT2_0VvG4Uo_Lg6Q&s",
+  "candidates_current_position": "निवर्तमान वडाध्यक्ष, धरान-१७",
+  "candidates_current_position_in_party": "केन्द्रीय प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340539.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "वडा अध्यक्ष",
+      "district": "सुनसरी",
+      "constituency": "धरान उपमहानगरपालिका-१७",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "वडा अध्यक्ष",
+      "district": "सुनसरी",
+      "constituency": "धरान उपमहानगरपालिका-१७",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "वडाध्यक्ष पदबाट राजीनामा र प्रतिनिधिसभामा उम्मेदवारी",
+      "date": "२०८२-१०-०४",
+      "details": "सुनसरी क्षेत्र नं १ बाट प्रतिनिधिसभा सदस्यको निर्वाचन लड्नका लागि धरान-१७ को वडाध्यक्ष पदबाट औपचारिक राजीनामा घोषणा।",
+      "link_to_source": "https://kapurinews.com/news-details/11993/2026-01-19",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मेयर हर्क साम्पाङसँग कर्मचारी विवाद र बैठक बहिष्कार",
+      "date": "२०८१-०४-०१",
+      "details": "अस्थायी कर्मचारीको म्याद थप र बजेटको विषयमा मेयर हर्क साम्पाङसँग तीव्र विवाद परेपछि कार्यपालिका बैठक बहिष्कार र दबाब सिर्जना।",
+      "link_to_source": "https://www.khabarhub.com/2024/16/473362/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मेयरको कार्यशैलीमाथि गम्भीर प्रश्न र मानसिक परीक्षणको सुझाव",
+      "date": "२०८०-०५-०१",
+      "details": "कार्यपालिका बैठकमा मेयर हर्क साम्पाङको फेसबुक स्ट्याटस र कार्यशैलीले साम्प्रदायिक सद्भाव बिथोलेको आरोप लगाउँदै कडा आलोचना।",
+      "link_to_source": "https://pahiloonline.com/news-details/14103/2023-08-17",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाली कम्युनिष्ट पार्टीको तर्फबाट सुनसरी क्षेत्र नं २ मा प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धा गरे पनि पराजित हुन पुगेका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "वडाध्यक्षमा दोस्रो पटक भारी मतले विजयी",
+      "date": "२०७९-०१-३०",
+      "details": "नेकपा (माओवादी केन्द्र) बाट धरान-१७ को वडाध्यक्षमा २१७६ मत ल्याएर दोस्रो कार्यकालका लागि निर्वाचित।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-1/district-sunsari/dharan?lng=ne",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोरोना महामारीमा सक्रिय नेतृत्व र वडा सिल",
+      "date": "२०७७-०५-१५",
+      "details": "धरान-१७ मा संक्रमण बढ्दा वडा सिल गरी राहत वितरण र स्वास्थ्य सतर्कता बढाउन नेतृत्वदायी भूमिका निर्वाह।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/dharans-ward-17-sealed-with-high-number-of-infections-reported-in-the-area",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमालेबाट पहिलो पटक वडाध्यक्षमा निर्वाचित",
+      "date": "२०७४-०३-१४",
+      "details": "नेकपा (एमाले) को तर्फबाट धरान उपमहानगरपालिका वडा नं १७ को अध्यक्षमा पहिलो पटक निर्वाचित भई स्थानीय राजनीतिमा उदय।",
+      "link_to_source": "https://kapurinews.com/news-details/11961/2026-01-17",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सूर्य बहादुर भट्टराई 'मनोज' धरानको स्थानीय राजनीतिमा अत्यन्तै सक्रिय र प्रभावशाली नेता हुन्। उनले धरान-१७ को वडाध्यक्षका रूपमा दुई पटकसम्म जनताको बलियो समर्थन प्राप्त गरेका छन् र उनलाई 'भाइरल वडाध्यक्ष' का रूपमा पूर्वाधार विकास र सामाजिक कार्यका लागि चिनिन्छ। तथापि, उनको राजनीतिक यात्रा एमालेबाट माओवादी हुँदै ऋषि कट्टेल नेतृत्वको नेपाली कम्युनिष्ट पार्टीसम्म पुग्दा पार्टी परिवर्तनको शृङ्खला (Party Switching) देखिन्छ। धरानका लोकप्रिय मेयर हर्क साम्पाङका मुख्य राजनीतिक आलोचकका रूपमा उनी परिचित छन्, जसका कारण उनी धेरै पटक सार्वजनिक विवादमा पनि तानिएका छन्। वडास्तरमा लोकप्रिय भए पनि प्रतिनिधिसभा जस्तो ठूलो क्षेत्रमा उनको प्रभाव कस्तो रहन्छ भन्ने चासोको विषय छ। उनले हालै वडाध्यक्षबाट राजीनामा दिएर सुनसरी-१ बाट उम्मेदवारी दिनुलाई उनको राजनीतिक महत्त्वाकांक्षा र जोखिमका रूपमा हेरिएको छ।",
+  "overall_approval_rating": 62
+}

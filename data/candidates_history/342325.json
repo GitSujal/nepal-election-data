@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342325,
+  "candidate_name": "अजय कुमार महतो",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342325.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाममा न्युनतम मत प्राप्त",
+      "date": "२०७९-०८-०८",
+      "details": "महोत्तरी क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका अजय कुमार महतोले मात्र ४५ मत प्राप्त गरे। यो कुल सदर मतको करिब ०.०८ प्रतिशत मात्र हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKVV4hjAjUHVml4XzUiR09YwjBP12swS4X775LyeW0jXBXIGIvcUphl_-8nPp7eIkgs50d2e8pXdTMkg9FNf2I9l0arC_FYMYTc6bMVi170VKE_d6Rtdd-sUOOJcLGNg_geS4EFDERMPHQuPluzYXDLviPjO7bYL5GvHIIdE4ZZlJi6nKqJVOvseB5PA==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "महोत्तरी जिल्लाको निर्वाचन क्षेत्र नं. २ बाट उनले स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk9-X3Mn5nQFAt6zcEZCHmCPCbWU-DV4MBu1CJinCC4-YUGDiSiHEcJ-T-IvL_SgsPPXF3i2PXG6FxpYyq6LqRS0g4Qi_toJ9c6-AAzLMzlMzOByymQ4Y35hKoUSczAVxOtBYFf9HabsMrf0eOw8CK3jVMW6rmZa-AbGL9aAlYfcF0mjBhn4urqw==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता र व्यक्तिगत पृष्ठभूमि",
+      "date": "२०७९-०७-२०",
+      "details": "अजय कुमार महतोले स्नातक तहसम्मको अध्ययन पूरा गरेका छन् र उनी कपिलदेव महतोका छोरा हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuoKHsPlcjrGcSqYOUs0Zlqxkzp9ojlUsQ33M4Z0eXHpYIuIn-ReACV7TtCDYik7APCfyj9SmXKl-_90LcdTQzn27Zz5LGVikqVdqpVg297FiKFmsgvQeq_sagF9QVFTnhJ0JnFo_MI5SGI5iK6XvbTvV5JgwJehEMrkgcx88=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अजय कुमार महतो महोत्तरी जिल्लाका एक अत्यन्तै न्यून प्रभाव भएका स्वतन्त्र उम्मेदवार हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा महोत्तरी क्षेत्र नं. २ बाट प्रतिस्पर्धा गर्दा उनले केवल ४५ मत प्राप्त गरे, जसले उनको स्थानीय स्तरमा सांगठनिक पकड र जनसमर्थन शून्य प्रायः रहेको पुष्टि गर्छ। स्रोतले उनलाई 'वागुवा' (Vaguwa) उम्मेदवारको रूपमा वर्गीकृत गरेको छ, जसले उनको राजनीतिक यात्रामा स्थिरता वा स्पष्ट वैचारिक धरातलको अभाव रहेको संकेत गर्दछ। महोत्तरीमै बसोबास र चुनावी क्षेत्र रहे तापनि उनको चुनावी उपस्थितिले कुनै उल्लेख्य प्रभाव पार्न सकेको देखिँदैन। ४५ मत मात्र प्राप्त गर्नुले उनी एक गम्भीर प्रतिस्पर्धी भन्दा पनि केवल सांकेतिक उम्मेदवारको रूपमा मात्र सीमित रहेको देखिन्छ।",
+  "overall_approval_rating": 10
+}

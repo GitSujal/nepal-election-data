@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342735,
+  "candidate_name": "प्रभा कुमारी सिंह",
+  "candidate_party": "राष्ट्र निर्माण दल नेपाल",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/RashtraNirmanDalNepal.jpg",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342735.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्र निर्माण दल नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा रौतहट क्षेत्र नं. १ बाट राष्ट्र निर्माण दल नेपालको तर्फबाट उम्मेदवार बनेकी थिइन्, जहाँ उनले अत्यन्तै न्यून मत प्राप्त गरिन्।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultMain.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी मनोनयन",
+      "date": "२०७९-०६-२३",
+      "details": "आगामी प्रतिनिधि सभा निर्वाचनका लागि रौतहट १ बाट औपचारिक रूपमा राष्ट्र निर्माण दल नेपालको उम्मेदवारको रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://ratopati.com/story/266613/2022/10/9/candidate-list",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रभा कुमारी सिंह रौतहट क्षेत्र नं. १ की एक स्थानीय राजनीतिक उम्मेदवार हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा राष्ट्र निर्माण दल नेपालको तर्फबाट चुनावी प्रतिस्पर्धा गरेकी थिइन्। उक्त निर्वाचनमा उनले पूर्व प्रधानमन्त्री माधव कुमार नेपाल र एमालेका अजय कुमार गुप्ता जस्ता प्रभावशाली नेताहरूसँग प्रतिस्पर्धा गरेकी थिइन्। यद्यपि उनले उल्लेखनीय मत हासिल गर्न सकिनन्, उनको उम्मेदवारीले साना दलहरूको चुनावी उपस्थितिलाई प्रतिनिधित्व गर्दछ। उनी रौतहट जिल्लाकै स्थायी बासिन्दा हुन् र उनलाई 'टुरिष्ट' उम्मेदवारको रूपमा हेरिएको छैन। हालसम्म उनको राजनीतिक जीवनमा कुनै पनि भ्रष्टाचार वा ठूला विवादहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 34
+}

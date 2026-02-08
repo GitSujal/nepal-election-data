@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340732,
+  "candidate_name": "दिल बहादुर बास्तोला",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/CPN_Maoist.jpg",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (सुनसरी-१)",
+  "candidates_current_position_in_party": "सुनसरी जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340732.jpg",
+  "election_history": [
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा उपनिर्वाचनको उम्मेदवारी दर्ता",
+      "date": "२०८२-१०-०६",
+      "details": "सुनसरी निर्वाचन क्षेत्र नम्बर १ मा हुने प्रतिनिधिसभाको उपनिर्वाचनका लागि नेपाल कम्युनिस्ट पार्टी (माओवादी) बाट दिल बहादुर बास्तोला (नगेन्द्र) ले मनोनयन दर्ता गराएका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2026/01/20/26-candidates-2-women-in-sunsari-1-39-38.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन चिन्ह प्राप्त",
+      "date": "२०८२-१०-१०",
+      "details": "निर्वाचन आयोगले दिल बहादुर बास्तोलालाई 'गोलो घेराभित्र दुई पात भएको गुलाफ' चुनाव चिन्ह प्रदान गरेको छ।",
+      "link_to_source": "https://kapurinews.com/2026/01/24/sunsari-1-house-of-representatives-election-candidates-receive-election-symbols/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल कम्युनिस्ट पार्टी (माओवादी) मा सक्रियता",
+      "date": "२०७९-०८-०४",
+      "details": "नेत्रविक्रम चन्द (विप्लव) नेतृत्वको नेपाल कम्युनिस्ट पार्टी (माओवादी) को सुनसरी जिल्ला नेतृत्वमा रहेर स्थानीय स्तरमा राजनीतिक संगठन विस्तारमा सक्रिय।",
+      "link_to_source": "https://ekantipur.com/news/2026/01/23/party-chiefs-constituency-is-an-electoral-hotspot.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुनसरी जिल्लाको स्थानीय राजनीतिमा संलग्नता",
+      "date": "२०७४-०३-१४",
+      "details": "सुनसरी र धरान क्षेत्रका स्थानीय विकास तथा मजदुर अधिकारका मुद्दाहरूमा माओवादी विचारधारा मार्फत लामो समयदेखि वकालत गर्दै आएको।",
+      "link_to_source": "https://rastriyasandesh.com/2026/01/23/representative-assembly-candidates-list/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दिल बहादुर बास्तोला (नगेन्द्र) नेपाल कम्युनिस्ट पार्टी (माओवादी) का सुनसरी जिल्लाका एक निष्ठावान नेता हुन्। उनी हाल २०८२ फागुनमा हुने सुनसरी क्षेत्र नम्बर १ को प्रतिनिधिसभा उपनिर्वाचनमा उम्मेदवार बनेका छन्। बास्तोला नेत्रविक्रम चन्द 'विप्लव' नेतृत्वको राजनीतिक धारमा आवद्ध रहेर लामो समयदेखि सुनसरीको स्थानीय राजनीतिमा सक्रिय छन्। उनी एक वैचारिक र कार्यकर्ता तहमा परिचित नेता भए पनि राष्ट्रिय राजनीतिमा र मूलधारको चुनावी परिणाममा उनको उपस्थिति अझै प्रमाणित हुन बाँकी छ। धरानको राजनीतिमा हर्क साम्पाङ र ठूला दलहरूको कडा प्रतिस्पर्धाका बीच उनको उम्मेदवारीले विप्लव समूहको चुनावी उपस्थितिलाई बलियो बनाउने प्रयास गरेको देखिन्छ। उनको अहिलेसम्मको छवि स्वच्छ रहेको छ र कुनै ठूला काण्डहरूमा उनको संलग्नता देखिएको छैन।",
+  "overall_approval_rating": 48
+}

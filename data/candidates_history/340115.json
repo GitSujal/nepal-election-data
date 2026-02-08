@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340115,
+  "candidate_name": "मनकुमार राई",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mongol_National_Organisation_Logo.png/200px-Mongol_National_Organisation_Logo.png",
+  "candidates_current_position": "भूतपूर्व भारतीय सैनिक तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340115.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट सुनसरी निर्वाचन क्षेत्र नं. ४ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए तर पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340115",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भारतीय सेनामा सेवा",
+      "date": "२०५०-०१-०१",
+      "details": "मनकुमार राईले भारतीय सेनामा लामो समय सेवा गरी सेवानिवृत्त भएका थिए। उनी एक भूतपूर्व सैनिक हुन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340115",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७५-०१-०१",
+      "details": "पछिल्लो समय उनी मंगोल नेशनल अर्गनाइजेसनमा आबद्ध भई मंगोल समुदायको अधिकार र जातीय पहिचानको मुद्दामा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340115",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मनकुमार राई सुनसरी क्षेत्र नं. ४ का एक राजनीतिक व्यक्तित्व हुन् जसले मंगोल नेशनल अर्गनाइजेसन (MNO) बाट आफ्नो राजनीतिक यात्रा अघि बढाएका छन्। उनी एक भूतपूर्व भारतीय सैनिक हुन्, जसले गर्दा स्थानीय स्तरमा उनलाई अनुशासित र अनुभवी व्यक्तित्वको रूपमा हेरिन्छ। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले सुनसरी ४ बाट उम्मेदवारी दिए पनि ज्ञानेन्द्र बहादुर कार्की र जगदीश प्रसाद कुसियैत जस्ता हेभीवेट उम्मेदवारहरूका कारण उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको शैक्षिक पृष्ठभूमि कक्षा ८ सम्म मात्र रहेको छ र उनको मुख्य राजनीतिक एजेन्डा मंगोल पहिचान र जातीय समानता रहेको पाइन्छ। हालसम्म उनको विरुद्ध कुनै पनि ठूला भ्रष्टाचार वा कानुनी विवादहरू सार्वजनिक भएका छैनन्। उनी आफ्नो पार्टीको नीति अनुसार मूलवासी मंगोलहरूको हकहितका लागि वकालत गर्दछन्।",
+  "overall_approval_rating": 48
+}

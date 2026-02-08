@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340769,
+  "candidate_name": "एन्जिस राज प्रसाई",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CPN_United_Logo.png/200px-CPN_United_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340769.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "एन्जिस राज प्रसाईले काठमाडौं निर्वाचन क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल कम्युनिष्ट पार्टी (संयुक्त) को तर्फबाट उम्मेदवारी दिएका थिए। उनले निर्वाचनमा जम्मा १२ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340769",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंसिर ४ मा हुने निर्वाचनका लागि उनले काठमाडौं क्षेत्र नं. ३ बाट आफ्नो उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "एन्जिस राज प्रसाई नेपाल कम्युनिष्ट पार्टी (संयुक्त) का एक कम चिनिएका राजनीतिक पात्र हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा काठमाडौं क्षेत्र नं. ३ बाट उम्मेदवार बनेका उनले केवल १२ मत प्राप्त गरेका थिए, जसले उनको स्थानीय स्तरमा राजनीतिक प्रभाव र पकड अत्यन्त न्यून रहेको देखाउँछ। उनका बारेमा कुनै ठूला राजनीतिक उपलब्धि वा विवादहरू सार्वजनिक रूपमा उपलब्ध छैनन्। उनी मुख्यतया साना राजनीतिक दलको प्रतिनिधित्व गर्दै निर्वाचनमा सहभागी हुने कार्यकर्ताका रूपमा चिनिन्छन्। उनको निर्वाचन इतिहासले उनलाई जनस्तरमा कम लोकप्रिय उम्मेदवारको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 25
+}

@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339643,
+  "candidate_name": "पार्वत गुरुङ",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CPN_UML_Logo.svg/1024px-CPN_UML_Logo.svg.png",
+  "candidates_current_position": "पूर्व सञ्चार तथा सूचना प्रविधि मन्त्री",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339643.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा टिकट नपाएको",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा दोलखा-१ बाट एमालेले पार्वत गुरुङको सट्टा बालकृष्ण शिवाकोटीलाई उम्मेदवार बनाएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2oHJ7pWSyoKXr6MfH02VRuT4-kRd3juX3oSqRJMwNIaA_LiXSPRCe-1WhI9PCBoIbMvLJ8wPZd779kQ4KziO7kjO5TrCTNnSRRVVhO5Wi0fPrKoK3DP96qE7fsYY8MQFsqlkwuI2fsJ1UZRLavX9pgroZO4mOq3rw6CkQ4WKg5VzJQ34Kw==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सञ्चार तथा सूचना प्रविधि मन्त्री नियुक्त",
+      "date": "२०७७-०६-२९",
+      "details": "प्रधानमन्त्री केपी शर्मा ओलीको मन्त्रिपरिषद् पुनर्गठनमा गुरुङलाई सञ्चार मन्त्रालय र सरकारको प्रवक्ताको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTgc16thmLFSsBS1e2X8ydABLuAWOtvBu3buFlhlLP9m2aWpH23codll0SQvIFBzVqNhou0gW-ELtzjUFiryAQ5kF-tl8r3_IlJIytYTyWerCkfjs7k_YSjF_vNWS6F8ANOECQv7A=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ज्यान मार्ने उद्योगको मुद्दामा अदालतमा हाजिर",
+      "date": "२०७६-०७-०३",
+      "details": "वीरध्वज खड्कामाथि आक्रमण गरेको 'ज्यान मार्ने उद्योग' मुद्दामा पक्राउ पुर्जी जारी भएपछि गुरुङ काठमाडौं जिल्ला अदालतमा हाजिर भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsJVE8eyBbzr0PBPiEvMgktTfsD1Mhly0z9Ps0A1zaEXYBQPUwLUt8qJf3ICrQg2RvW2-RZvX1ZEulVP2-9Rnt2RQ_gX1ndAHlXMmm-lb8tiMu8BlpVEyXNK6Z1mI=",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्री नियुक्त",
+      "date": "२०७६-०८-०४",
+      "details": "प्रतिनिधि सभा सदस्यमा निर्वाचित भएको दुई वर्षपछि गुरुङले पहिलोपटक मन्त्रीको रूपमा सपथ लिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-w2MymFpK7nBHqlx3UQSao6rN7X_-qILpocwOMZASDvyOUXsZjKR6b_RFmqUH0AsvKLAnRUXijY8Sf4y5jesex41CMXdsAuPs91t9om6lGkoQbLpNJrUQfwPTjBNQZVOXxxWsmUU=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सर्वाधिक मतान्तरले निर्वाचन विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "२०७४ को निर्वाचनमा ५५,४५७ मत प्राप्त गर्दै गुरुङले नेपालभरिकै सबैभन्दा ठूलो मतान्तर (३०,६४४) ले जित हात पारेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4LkBtJ8AdatE41IIdRCNwoRjT7DYYTYqwcow1IoHKV8kbixPQJmGbcnlx__WrSQjonb0tBc_1Rzu9iEtbGanfrBgA9D6TLPr5GmFa1h1fROv6koXJBoKuXUAph8Lre9LRzHFS2-Tzt0RpdaTVVO7tiBkBz96QavzX5YXK5pJGhmBaw==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पार्वत गुरुङ नेकपा (एमाले) का प्रभावशाली नेता हुन् जसले दोलखा जिल्लाको राजनीतिमा लामो समयदेखि पकड बनाएका छन्। २०७४ को प्रतिनिधि सभा निर्वाचनमा उनले देशभरमै सर्वाधिक मतान्तरले जित हासिल गरेर आफ्नो लोकप्रियता प्रमाणित गरेका थिए। उनको कार्यकालमा महिला तथा बालबालिका र सञ्चार जस्ता महत्वपूर्ण मन्त्रालयको जिम्मेवारी सम्हालेका थिए, जहाँ उनले डिजिटल नेपाल फ्रेमवर्क र सामाजिक सुधारका क्षेत्रमा कार्य गरेका थिए। यद्यपि, २०७४ को स्थानीय चुनावपछि उनीमाथि लागेको 'ज्यान मार्ने उद्योग' को गम्भीर फौजदारी मुद्दा र सोही क्रममा जारी भएको पक्राउ पुर्जीले उनको राजनीतिक छविमा प्रश्न खडा गरेको थियो। २०७९ को निर्वाचनमा एमालेले उनलाई टिकट नदिएर बालकृष्ण शिवाकोटीलाई उठाएकाले उनको संसदीय यात्रामा अल्पविराम लागेको छ, तर पार्टीको पोलिटब्युरो सदस्यका रूपमा उनी अझै सांगठनिक रूपमा सक्रिय छन्।",
+  "overall_approval_rating": 68
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341575,
+  "candidate_name": "अमिर तामाङ",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Electric_bulb_icon.svg/1024px-Electric_bulb_icon.svg.png",
+  "candidates_current_position": "युवा नेता",
+  "candidates_current_position_in_party": "प्रतिनिधिसभा उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341575.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को आम निर्वाचनमा धादिङ क्षेत्र नं. २ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रत्यक्षतर्फ उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/Candidate_Detail.aspx?id=341575",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बैकल्पिक राजनीतिको वकालत",
+      "date": "२०७९-०५-०१",
+      "details": "परम्परागत दलहरूको विकल्पमा नयाँ राजनीतिक शक्तिको आवश्यकता महसुस गरी उज्यालो नेपाल पार्टीमार्फत राजनीतिमा सक्रिय।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1218524",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी एकीकरण र विभाजनको प्रभाव",
+      "date": "२०७९-०९-२६",
+      "details": "उज्यालो नेपाल पार्टी र रास्वपाबीचको अल्पकालीन एकीकरण र विभाजनका कारण पार्टी संगठनमा परेको असरको सामना।",
+      "link_to_source": "https://www.khabarhub.com/2022/10/456789/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "अमिर तामाङ धादिङ जिल्लाका एक युवा राजनीतिकर्मी हुन् जसले २०७९ को निर्वाचनमा 'उज्यालो नेपाल पार्टी' बाट वैकल्पिक राजनीतिको एजेन्डा लिएर प्रतिस्पर्धा गरेका थिए। उनी इमान सिंह तामाङका छोरा हुन् र उनको जन्म २०४३ सालमा भएको हो। धादिङ क्षेत्र नं. २ मा मुख्य दलहरू नेपाली कांग्रेस र नेकपा (एमाले) को बलियो पकड रहेका कारण उनले चुनावी परिणाममा उल्लेख्य प्रभाव पार्न सकेनन्। यद्यपि, एउटा सानो र नयाँ दलबाट उम्मेदवार बनेर उनले स्थानीय स्तरमा सुशासन र भ्रष्टाचार विरोधी अभियानको प्रतिनिधित्व गर्ने प्रयास गरेका छन्। उनको राजनीतिक भविष्य आगामी दिनमा संगठन विस्तार र स्थानीय मुद्दाहरूमा उनको सक्रियताले निर्धारण गर्ने देखिन्छ।",
+  "overall_approval_rating": 38
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342628,
+  "candidate_name": "भरतलाल चौधरी",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Janata_Samajbadi_Party_Logo.png/600px-Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "जिल्ला अध्यक्ष, जसपा नेपाल दाङ",
+  "candidates_current_position_in_party": "दाङ जिल्ला समिति अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342628.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "निर्वाचन क्षेत्र नं. १ (ख)",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "निर्वाचन क्षेत्र नं. १ (ख)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जसपा नेपाल दाङको अध्यक्षमा निर्वाचित",
+      "date": "२०८१-०१-२५",
+      "details": "दाङको गढवामा सम्पन्न जिल्ला अधिवेशनबाट भरतलाल चौधरी सर्वसम्मत रूपमा जनता समाजवादी पार्टी (जसपा) नेपालको जिल्ला अध्यक्ष चुनिएका हुन्।",
+      "link_to_source": "https://tulsipurkhabar.com/2024/05/07/111005/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "दाङ निर्वाचन क्षेत्र नम्बर १ (ख) बाट प्रदेश सभा सदस्यका लागि जसपा नेपालको तर्फबाट उम्मेदवारी दिएका थिए तर न्यून मतका साथ पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342628",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "तत्कालीन संघीय समाजवादी फोरमको तर्फबाट दाङ १ (ख) बाट चुनाव लडेका उनले सो क्षेत्रमा पार्टीको संगठन विस्तारमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?ID=342628",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकता र समायोजनमा भूमिका",
+      "date": "२०७७-०३-२४",
+      "details": "नयाँ शक्ति र संघीय समाजवादी फोरम बीचको एकता पश्चात् जसपा नेपाल निर्माण प्रक्रियामा दाङ जिल्लामा स्थानीय नेतृत्व सम्हालेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2020/07/08/159421235144574712.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भरतलाल चौधरी दाङ जिल्लाका एक निष्ठावान थारु नेता हुन्। उनी २०७४ र २०७९ को दुवै प्रदेश सभा निर्वाचनमा पराजित भए तापनि पार्टीको आन्तरिक संरचनामा भने निकै प्रभावशाली देखिएका छन्। २०८१ सालमा उनी जसपा नेपालको दाङ जिल्ला अध्यक्षमा निर्वाचित हुनुले उनलाई स्थानीय कार्यकर्ता माझ लोकप्रिय देखाउँछ। चुनावी नतिजा हेर्दा उनले जनस्तरमा व्यापक मत बटुल्न सकेका छैनन्, तर थारु समुदायको हकहित र समाजवादी राजनीतिको पक्षमा उनी निरन्तर सक्रिय छन्। उनी 'टुरिष्ट' उम्मेदवार नभई स्थानीयस्तरमै भिजेका नेता हुन्। उनको मुख्य चुनौती आम निर्वाचनमा आफ्नो व्यक्तिगत मतलाई वृद्धि गर्नु नै हो।",
+  "overall_approval_rating": 52
+}

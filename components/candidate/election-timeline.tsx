@@ -16,7 +16,7 @@ interface TimelineEntry {
   party: string | null
   result: "Winner" | "Loser" | "Current" | null
   votes: number | null
-  runnerUpVotes: number | null
+  opponentVotes: number | null  // Winner votes for losers, runner-up votes for winners
   wasMember: boolean
 }
 
@@ -26,6 +26,7 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
 
   // 2074 entry
   if (candidate.was_parliament_member_2074 || candidate.prev_2074_election_votes) {
+    const is2074Winner = candidate.prev_2074_election_result === "Winner"
     entries.push({
       year: "2074",
       type: candidate.parliament_member_2074_election_type,
@@ -38,13 +39,14 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
       party: candidate.prev_2074_election_party || candidate.parliament_member_2074_party,
       result: candidate.prev_2074_election_result,
       votes: candidate.prev_2074_election_votes,
-      runnerUpVotes: candidate.prev_2074_runner_up_votes,
+      opponentVotes: is2074Winner ? candidate.prev_2074_runner_up_votes : candidate.prev_2074_winner_votes,
       wasMember: candidate.was_parliament_member_2074,
     })
   }
 
   // 2079 entry
   if (candidate.was_parliament_member_2079 || candidate.prev_election_votes) {
+    const is2079Winner = candidate.prev_election_result === "Winner"
     entries.push({
       year: "2079",
       type: candidate.parliament_member_2079_election_type,
@@ -57,7 +59,7 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
       party: candidate.prev_election_party || candidate.parliament_member_2079_party,
       result: candidate.prev_election_result,
       votes: candidate.prev_election_votes,
-      runnerUpVotes: candidate.prev_runner_up_votes,
+      opponentVotes: is2079Winner ? candidate.prev_runner_up_votes : candidate.prev_winner_votes,
       wasMember: candidate.was_parliament_member_2079,
     })
   }
@@ -71,7 +73,7 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
     party: candidate.political_party_name,
     result: "Current",
     votes: candidate.current_vote_received || null,
-    runnerUpVotes: null,
+    opponentVotes: null,
     wasMember: false,
   })
 
@@ -197,22 +199,22 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
                       <span className="text-muted-foreground">Votes</span>
                       <span className="font-semibold">{entry.votes.toLocaleString()}</span>
                     </div>
-                    {entry.runnerUpVotes && (
+                    {entry.opponentVotes && (
                       <div className="flex items-center justify-between text-sm">
                         <span className="text-muted-foreground">Margin</span>
                         <span
                           className={cn(
                             "flex items-center gap-1 font-semibold",
-                            entry.votes > entry.runnerUpVotes ? "text-winner" : "text-loser"
+                            entry.votes > entry.opponentVotes ? "text-winner" : "text-loser"
                           )}
                         >
-                          {entry.votes > entry.runnerUpVotes ? (
+                          {entry.votes > entry.opponentVotes ? (
                             <TrendingUp className="h-3 w-3" />
                           ) : (
                             <TrendingDown className="h-3 w-3" />
                           )}
-                          {entry.votes > entry.runnerUpVotes ? "+" : ""}
-                          {(entry.votes - entry.runnerUpVotes).toLocaleString()}
+                          {entry.votes > entry.opponentVotes ? "+" : ""}
+                          {(entry.votes - entry.opponentVotes).toLocaleString()}
                         </span>
                       </div>
                     )}

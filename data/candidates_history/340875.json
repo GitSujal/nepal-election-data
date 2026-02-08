@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340875,
+  "candidate_name": "माधव सापकोटा",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CPN-M_logo.svg/1024px-CPN-M_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "पोलिटब्यूरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340875.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "सिन्धुपाल्चोक १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "भ्रष्टाचारका काण्डमा माओवादीको बचाउ",
+      "date": "२०८१-०४-०६",
+      "details": "सांसद सापकोटाले प्रतिनिधि सभामा बोल्दै माओवादी केन्द्र कुनै पनि भ्रष्टाचारको काण्डमा नमुछिएको दाबी गर्दै पार्टीलाई नहेप्न चेतावनी दिएका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=O-qN7V_hQ0M",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नारायणकाजी श्रेष्ठको आलोचना",
+      "date": "२०८०-११-२७",
+      "details": "पार्टीको संसदीय दलको बैठकमा सापकोटाले नारायणकाजी श्रेष्ठलाई लक्षित गर्दै 'तपाईं सधैँ मन्त्री बन्नै जन्मनुभएको हो?' भन्दै अवसरको असमान वितरणप्रति आक्रोश व्यक्त गरेका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/324831",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०७",
+      "details": "सिन्धुपाल्चोक क्षेत्र नम्बर १ बाट ३०,४०८ मत प्राप्त गरी नेकपा एमालेका सरेश नेपाललाई पराजित गर्दै पहिलोपटक संघीय सांसदमा निर्वाचित।",
+      "link_to_source": "https://risingnepaldaily.com/news/19183",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "चौतारा आक्रमणमा गम्भीर घाइते",
+      "date": "२०६३-०१-१५",
+      "details": "सशस्त्र द्वन्द्वको क्रममा सिन्धुपाल्चोकको सदरमुकाम चौतारामा भएको आक्रमणमा सैन्य कमाण्डरको रूपमा सहभागी हुँदा उनी गम्भीर घाइते भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/340875",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी आन्दोलनमा भूमिगत",
+      "date": "२०५६-१०-१५",
+      "details": "२०५६ साल माघदेखि पूर्णकालीन कार्यकर्ताका रूपमा भूमिगत माओवादी आन्दोलनमा सहभागी भई राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/340875",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "माधव सापकोटा 'सुबोध' सिन्धुपाल्चोकका एक प्रभावशाली र उर्जावान युवा नेता हुन्। २०७९ को निर्वाचनमा पूर्वसभामुख अग्नि सापकोटाको विरासतलाई सफलतापूर्वक निरन्तरता दिँदै उनले जित हासिल गरेका हुन्। जनयुद्धका घाइते कमाण्डर भएकाले पार्टीभित्र उनको त्यागको सम्मान छ, जसले उनलाई 'विरासतको राजनीति' मात्र नभई आफ्नै संघर्षको जगमा उभिएको नेताका रूपमा स्थापित गरेको छ। संसदमा उनी प्रखर वक्ताका रूपमा चिनिन्छन् र पूर्वाधार विकासका मुद्दाहरूमा सक्रिय छन्। यद्यपि, पार्टीभित्रको अवसर वितरण र नातावादको प्रश्नमा उनी कहिलेकाहीँ विवादमा तानिने गर्छन्। उनी सिन्धुपाल्चोकको भूगोल र स्थानीय समस्यासँग निकट रहेकाले उनको पकड बलियो देखिन्छ।",
+  "overall_approval_rating": 78
+}

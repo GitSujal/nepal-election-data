@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341572,
+  "candidate_name": "श्‍याम सुन्दर पजियार",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hammer_and_sickle.svg/1200px-Hammer_and_sickle.svg.png",
+  "candidates_current_position": "नेता, नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेतृत्व",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341572.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा जिल्लाको निर्वाचन क्षेत्र नं. २ बाट नेपाल कम्युनिस्ट पार्टी (माओवादी) को तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://inseconline.org/reporters/madhesh-province-nomination-registration-for-house-of-representatives-election/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी आन्दोलनमा संलग्नता",
+      "date": "२०७४-०१-०१",
+      "details": "लामो समयदेखि वामपन्थी राजनीति र विशेषगरी मधेस क्षेत्रमा माओवादी विचारधाराको संगठन विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341572",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेसका दलित तथा पिछडिएका समुदायको अधिकारका लागि वकालत",
+      "date": "२०७५-०३-१५",
+      "details": "धनुषा जिल्लामा दलित र सीमान्तकृत समुदायको सामाजिक न्याय र अधिकारका लागि स्थानीय स्तरमा विभिन्न कार्यक्रमहरूमा सहभागी।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/dhanusha/2",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "श्‍याम सुन्दर पजियार धनुषा जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा धनुषा क्षेत्र नं. २ बाट नेपाल कम्युनिस्ट पार्टी (माओवादी) को तर्फबाट उम्मेदवारी दिएका थिए। यद्यपि, उक्त निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए। उनी मुख्यधारको माओवादी केन्द्रभन्दा फरक सानो माओवादी समूहसँग आबद्ध रहेको देखिन्छ। पजियारको राजनीतिक छवि तुलनात्मक रूपमा स्वच्छ रहेको छ, किनकि उनको नाममा कुनै ठूला भ्रष्टाचार वा विवादित काण्डहरू सार्वजनिक भएका छैनन्। उनको प्रभाव मुख्यतया धनुषाको स्थानीय ग्रामीण क्षेत्रमा दलित र पिछडिएका समुदायका बीचमा रहेको पाइन्छ। निर्वाचन परिणामले उनको राष्ट्रिय स्तरको प्रभाव कमजोर देखाए पनि स्थानीय स्तरमा एक निष्ठावान कार्यकर्ताको रूपमा उनी परिचित छन्।",
+  "overall_approval_rating": 52
+}

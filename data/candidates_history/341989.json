@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341989,
+  "candidate_name": "प्रकाश रजौरिया",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rastriya_Swatantra_Party_Logo.svg/1024px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "नेता",
+  "candidates_current_position_in_party": "नेता (विवेकशील साझाबाट समायोजित)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341989.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध",
+      "date": "२०८२-०८-१४",
+      "details": "विवेकशील साझा पार्टी र राष्ट्रिय स्वतन्त्र पार्टीबीचको एकता र समायोजन प्रक्रियापछि उनी रास्वपामा प्रवेश गरेका हुन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2025/11/1572944",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "कपिलवस्तु क्षेत्र नं. ३ बाट राप्रपाको उम्मेदवार बन्दै १४,०३० मत प्राप्त गरी उनी पराजित भएका थिए।",
+      "link_to_source": "https://lokaantar.com/election/candidates/341989",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राप्रपामा प्रवेश",
+      "date": "२०७९-०६-१२",
+      "details": "रविन्द्र मिश्र समूहसँगै उनी साझा पार्टी छोडेर राष्ट्रिय प्रजातन्त्र पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/09/1195634",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७४-०५-०१",
+      "details": "वैकल्पिक राजनीतिको नारा बोकेको विवेकशील साझा पार्टीमा उनी कपिलवस्तुको नेतृत्वदायी भूमिकामा रहेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Bibeksheel_Sajha_Party",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रकाश रजौरिया कपिलवस्तुका एक चर्चित तर राजनीतिक रूपमा अस्थिर व्यक्तित्व हुन्। उनले आफ्नो राजनीतिक यात्रा साझा पार्टी र विवेकशील साझाबाट सुरु गरे पनि २०७९ को निर्वाचन ताका राप्रपामा प्रवेश गरेका थिए। राप्रपाबाट कपिलवस्तु क्षेत्र नं. ३ मा प्रतिस्पर्धा गर्दा उनले १४,०३० मत ल्याउनुले स्थानीय स्तरमा उनको राम्रो व्यक्तिगत प्रभाव रहेको पुष्टि गर्छ। यद्यपि, उनी निर्वाचन लगत्तै पुनः पार्टी परिवर्तन गर्दै राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध हुनुले उनको 'भगुवा' (Party Switcher) प्रवृतिलाई उजागर गरेको छ। विचारको हिसाबले कहिले उदारवादी (साझा) त कहिले दक्षिणपन्थी (राप्रपा) हुँदै फेरि पपुलिस्ट (रास्वपा) मा पुग्नुले उनको राजनीतिक निष्ठामा प्रश्न उठाएको छ। भ्रष्टाचारका आरोपहरू नलागे पनि बारम्बार पार्टी फेर्ने स्वभावले मतदातामा उनको विश्वसनीयता कमजोर बनाएको देखिन्छ।",
+  "overall_approval_rating": 45
+}

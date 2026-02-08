@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341176,
+  "candidate_name": "दिनेश कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व केन्द्रीय सदस्य, जनमत पार्टी",
+  "candidates_current_position_in_party": "स्वतन्त्र उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341176.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिरहा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिरहा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रौतहटबाट स्वतन्त्र उम्मेदवारी",
+      "date": "२०८१-०४-१५",
+      "details": "सिरहाबाट लगातार दुई पटक निर्वाचन पराजित भएपछि यादवले यस पटक रौतहट निर्वाचन क्षेत्रबाट स्वतन्त्र उम्मेदवारी दिएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlpVNgSZW93lzrhma_lGDIObDuPXZwxzp_lEepH503X2WAu2cCA6EUjwJLbxnVAPeDf5JUz4rBB3rJRWsoCDn8zvosPFoXsJ6nW1Q4RIyHAnE95gU8nntmLsDSGnkxebWyqWPu89F6Z9gpWVP4-fJS1OlayuCEqrahvh1R_xD9XYn3Mt1jnntsqZEz",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनमत पार्टी परित्याग र स्वतन्त्रता",
+      "date": "२०८०-१०-०१",
+      "details": "पार्टीभित्रको असन्तुष्टि र चुनावी रणनीतिका कारण उनले जनमत पार्टी छोडेर स्वतन्त्र राजनीति सुरु गरेका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQF-8CcaOlg7dlVyZJHhUHtWgVdRJLGL3z7vaDmsLgXs5hC6Et_0wfl02diAhE-V3n9NX6p9Z7JMFpA4oTRHGKtz5pkbdaNS6DmfUGuHpLg9FZqqy9RCLW37tUaSIv41q2yS_Dzy_gT1zoWkVZ9ZvtSzjidAf3GEUVf_GPPMCGeo2yKVdaCB61gYc22q0L26-x",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "जनमत पार्टीका तर्फबाट सिरहा क्षेत्र नम्बर ३ मा ११,१४६ मत प्राप्त गरी उनी तेस्रो स्थानमा रहँदै पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPbUBPgn9iOg_YR1HCGt7XiO7gBWFe2ngSdlojlXTavgOdqTWxWtkWyTrDCdyKHN3Je6i7veLpDrGPT2m8oPnoIivIINQVJH7B9z3xxobqrWLveEbmpmx-I1lr05XmXd6s0iZzqfREB2fFoDDi-qXZUvZZXyZBZsoh-wrxjuslb4-GlDcCHDWlO4UiO7I=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली कांग्रेसबाट जनमत पार्टीमा प्रवेश",
+      "date": "२०७८-०५-२०",
+      "details": "लामो समय नेपाली कांग्रेसमा सक्रिय रहेका यादव मधेस आन्दोलनको भावना र सीके राउतको नेतृत्वबाट प्रभावित भई जनमत पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKVXZya4AeYGbzYvXE6_iysrHmKj6R7NsUZdA2EgmPZaqJx4Wrk7x5NjkkETmIf1T0dpsKwEd_b2fjxD1pdV1aZSAHuuhb9CZog4vAUF_6cqvzDmYJIrN4bt963nr4gxZpUdq_7ZnzCXfWbjMgeDeOV9oDdomzrEzQlrEbErn8a03tH3IuXxIHk49uHkcBrY6cA92OVE4VZA1V-tgzPmvFTCDtRnH3-hLKtk_LRxCIqfMwKsycS69fNDanG1tQBZr72RHfkm-zqw==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "नेपाली कांग्रेसका उम्मेदवारका रूपमा सिरहा ३ बाट १९,४०१ मत प्राप्त गरे पनि उनी बाम गठबन्धनका उम्मेदवारसँग पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnkxiCCXenbRDwBJ2SdVqjPG6B3NvNh0lQdScN3VXhlwlB_fPMgZMYvRrKnhYZT_BfWLeWX6kgJJR2sij0acsRPpMdg_uopO_h3tq51Axfuc9cOLuowCm423CrzGAvFloaBoVGYtoPFISzN3yp9dosaXh3pXAGMf4poLb6QbsYiwtmZHR4M2UJNzXZoxc=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "दिनेश कुमार यादव एक अस्थिर राजनीतिक छवि भएका नेताका रूपमा देखिन्छन्। उनले आफ्नो राजनीतिक यात्रा नेपाली कांग्रेसबाट सुरु गरे पनि अवसरको खोजीमा जनमत पार्टी हुँदै अहिले स्वतन्त्र उम्मेदवार बनेका छन्। सिरहा क्षेत्र नम्बर ३ मा दुई पटक (२०७४ र २०७९) फराकिलो मतान्तरले पराजित भएपछि उनी आफ्नो थातथलो छोडेर रौतहटमा 'वगुवा' उम्मेदवारका रूपमा भित्रिएका छन्। यसरी जिल्ला र पार्टी परिवर्तन गरिरहने प्रवृत्तिका कारण स्थानीय मतदातामाझ उनको विश्वसनीयता कमजोर देखिन्छ। सिरहामा जनमत पार्टीबाट सम्मानजनक मत पाए पनि पार्टी छोड्नु र निर्वाचन क्षेत्र परिवर्तन गर्नुलाई उनको राजनीतिक अवसरवादका रूपमा हेरिएको छ। रौतहटमा उनको पकड तुलनात्मक रूपमा कमजोर रहेको र उनलाई 'टुरिष्ट' वा 'अवसरवादी' उम्मेदवारको ट्याग लाग्ने सम्भावना उच्च छ।",
+  "overall_approval_rating": 35
+}

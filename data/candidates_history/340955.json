@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340955,
+  "candidate_name": "कृष्ण बिक्रम शाह",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340955.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "जाजरकोट क्षेत्र नं. १ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका शाहले १,०२१ मत प्राप्त गरी पराजित हुनुभएको थियो।",
+      "link_to_source": "https://sajilopatrika.com/krishna-bikram-shah-jajarkot/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपा केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७८-०८-२०",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टीको एकता महाधिवेशन पश्चात उहाँ पार्टीको केन्द्रीय कार्यसमिति सदस्यको रूपमा सक्रिय रहँदै आउनुभएको छ।",
+      "link_to_source": "https://sajilopatrika.com/krishna-bikram-shah-jajarkot/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी एकता र विभाजनको साक्षी",
+      "date": "२०७७-०१-२४",
+      "details": "विभिन्न समूहमा विभाजित राप्रपाका घटकहरूबीचको एकता र संघर्षका क्रममा उहाँले सदैव संस्थापन पक्ष र राष्ट्रवादी विचारधारालाई साथ दिनुभएको छ।",
+      "link_to_source": "https://sajilopatrika.com/krishna-bikram-shah-jajarkot/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पारिवारिक राजनीतिक विरासत",
+      "date": "२०५१-०७-२९",
+      "details": "उहाँका पिता तेज बिक्रम शाह जाजरकोटका स्थापित राप्रपा नेता हुनुहुन्थ्यो, जसले २०५१ को चुनावमा समेत प्रतिस्पर्धा गर्नुभएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Jajarkot_1_(constituency)",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कृष्ण बिक्रम शाह जाजरकोट जिल्लामा राष्ट्रिय प्रजातन्त्र पार्टीका एक निष्ठावान र पुराना नेता हुन्। परम्परागत शाह खानदानसँग सम्बन्धित भएकाले जिल्लामा उनको छुट्टै सामाजिक प्रभाव छ। २०७९ को निर्वाचनमा उनले प्राप्त गरेको मत संख्या (१,०२१) कम देखिए तापनि, बामपन्थी र कांग्रेसी गढ मानिने जाजरकोटमा राप्रपाको झण्डा जोगाइराख्नु उनको मुख्य चुनौती र सफलता दुवै हो। उनका पिता तेज बिक्रम शाहको विरासत बोकेका उनले स्थानीय मुद्दा र विकासका सवालमा आवाज उठाउँदै आएका छन्। निर्वाचनमा पराजित भए पनि उनी स्थानीय स्तरमा संगठन निर्माणमा सक्रिय देखिन्छन्। उनको राजनीतिक भविष्य राप्रपाको राष्ट्रिय लहर र जिल्लाको बदलिँदो राजनीतिक समीकरणमा निर्भर देखिन्छ।",
+  "overall_approval_rating": 42
+}

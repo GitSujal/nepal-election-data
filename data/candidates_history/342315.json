@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342315,
+  "candidate_name": "भिम बहादुर कुँवर",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Independent_Candidate_Nepal_Symbol.png/120px-Independent_Candidate_Nepal_Symbol.png",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342315.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "अछाम",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "अछाम क्षेत्र नम्बर १ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://paschimtoday.com/news-details/63891/2022-10-09",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत प्राप्त",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को निर्वाचनमा उनले निकै कम मत प्राप्त गरी पराजित भएका थिए, जहाँ नेकपा (एकीकृत समाजवादी) का शेरबहादुर कुँवर विजयी भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/achham?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "भिम बहादुर कुँवर २०७९ को प्रतिनिधिसभा निर्वाचनमा अछाम क्षेत्र नम्बर १ बाट स्वतन्त्र उम्मेदवारका रूपमा चुनावी मैदानमा होमिएका थिए। अछामको राजनीतिमा स्थापित दलहरू नेकपा (एमाले), नेपाली कांग्रेस र नेकपा (एकीकृत समाजवादी) को वर्चस्व रहेको क्षेत्रमा उनले स्वतन्त्र रूपमा चुनौती दिने प्रयास गरेका थिए। सो निर्वाचन क्षेत्रमा भीम रावललाई टिकट नदिएपछि देखिएको राजनीतिक असन्तुष्टिका बीच उनको उम्मेदवारीलाई चासोका साथ हेरिएको थियो। यद्यपि, उनी निर्वाचनमा उल्लेख्य मत प्राप्त गर्न भने सफल भएनन्। उनको राजनीतिक प्रभाव हालका लागि स्थानीय स्तरमा मात्र सीमित देखिन्छ र उनी कुनै ठूला काण्ड वा उल्लेखनीय उपलब्धिको अभिलेखमा परेका छैनन्।",
+  "overall_approval_rating": 30
+}

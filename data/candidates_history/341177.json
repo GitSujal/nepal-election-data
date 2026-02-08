@@ -1,0 +1,183 @@
+{
+  "candidate_id": 341177,
+  "candidate_name": "महिन्द्र राय यादव",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-Maoist_Centre_logo.svg/1024px-CPN-Maoist_Centre_logo.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय अध्यक्ष (नेपाल समाजवादी पार्टी - महिन्द्र पक्ष)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341177.jpg",
+  "election_history": [
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "मधेसी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "तराई मधेस सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)(एकल चुनाव चिन्ह)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाल समाजवादी पार्टीबाट निष्कासन",
+      "date": "२०८१-०३-०२",
+      "details": "बाबुराम भट्टराई नेतृत्वको नेपाल समाजवादी पार्टीले माओवादी केन्द्रसँग एकता गर्न खोजेको भन्दै अध्यक्ष महिन्द्र राय यादवलाई पार्टीबाट निष्कासन गर्यो।",
+      "link_to_source": "https://setopati.com/politics/332219",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्री",
+      "date": "२०७९-१२-१७",
+      "details": "पुष्पकमल दाहाल नेतृत्वको सरकारमा महिन्द्र राय यादव महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्री नियुक्त भए।",
+      "link_to_source": "https://risingnepaldaily.com/news/24581",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०४",
+      "details": "सर्लाही २ बाट लोकतान्त्रिक समाजवादी पार्टीका राजेन्द्र महतोलाई २,०११ मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/26/mahindra-raya-yadav-defeats-rajendra-mahato-in-sarlahi-2",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल समाजवादी पार्टीको गठन",
+      "date": "२०७९-०४-१४",
+      "details": "जसपाबाट अलग भई बाबुराम भट्टराईसँग मिलेर नयाँ पार्टी नेपाल समाजवादी पार्टी (NSP) गठन गरी अध्यक्ष बने।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBe0fNkSOtVYh6Y0iXeg4TggRPd_CV0il5dNAAjPrubumNgDf7lcPBMHdrGI7prlOMgZysGyxBpV5VawA3_ytOGXhR04lPlX-t7GXEpdwW72dpWrSt64QCEZxMhD62vzTtR5JWuZiRIFmC",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कृषि तथा पशुपन्छी विकास मन्त्री",
+      "date": "२०७८-०६-२२",
+      "details": "शेरबहादुर देउवा नेतृत्वको मन्त्रिपरिषद्मा कृषि मन्त्रीको रूपमा कार्यभार सम्हाले।",
+      "link_to_source": "https://kathmandupost.com/national/2021/10/08/deuba-expands-cabinet-gives-full-shape-to-government",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रासायनिक मल अभाव विवाद",
+      "date": "२०७९-०३-०१",
+      "details": "कृषि मन्त्री रहँदा देशव्यापी मल अभाव भएपछि संसद् र सार्वजनिक रूपमा उनको चर्को आलोचना भएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLNjKvFlsICwR-f_2XRYDEYBsF8yfvaZ8Dtl-Ol48EmHn07nCDEgdS2xYVyZi6zuv1YwJuQ054LonNKE-SNRAMtsjeORYlBbrKXpG3iCtiEJZj3yBGywcrTlr-dyAxTL9PVnyObRmn4j5nJt05x4HP373UvcnLfIw5xt1Vj1quynzoqQtC90WyPgHqAvOb8chxQeinTnaskt-DaIif0z-Tcr4K8Q==",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जसपा नेपालमा आवद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "समाजवादी पार्टी र राजपा मिलेर जनता समाजवादी पार्टी (जसपा) बनेपछि उनी सो पार्टीको कार्यकारीणी सदस्य बने।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1W-ZqqnyW-_9H-0T8sHUHflWWy8nY9as8BXRCL2lflNP-LyKQDGnyH96Irmmen01iTNzUu2HpdHAgyfdgUg6Z4dtvmWC0rLZij6FsQN1P1IuRA5hC2rhr-mLLRlLPLpheTyHbrg9f0U0AtAeaOiq5APGBvmBsxU4wq73hfSCF9czBKizSK3EIV4DJJX7lJPc=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा विजय",
+      "date": "२०७४-०८-२१",
+      "details": "सर्लाही २ बाट राजपा उम्मेदवारका रूपमा २९,१९१ मत ल्याएर विजयी।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBWeuKQMadeYmsQczuLihQZC2jQSxVoHg1hTr2bLu21oygokr8rwrwMT_1izXJW9964iRaN3YG0ae00Z2u9cvn3tIiw9CadvB35TELwLTfd9tcGqDtvpzK11DXysBeU6zRH2LAfOngcrQChhrTWlr1FUMlFnlMS48cZRMmqFJK-Jxsp_c6NnF-lz2bR6_efRPkugi2-akPQ3b6KPc1__-42uAutQi0_-OcTBr6djJAkgt6naVxDWDKxBbt1pCWcsZLAqXukspkOuswDyU1YqQM6uQ8TaW-2nq8F-f8tc1DEox",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजपा नेपाल गठन र नेतृत्व",
+      "date": "२०७४-०१-०७",
+      "details": "विभिन्न ६ मधेसी दल मिलेर राष्ट्रिय जनता पार्टी (राजपा) बनेपछि अध्यक्ष मण्डलको सदस्य बने।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBe0fNkSOtVYh6Y0iXeg4TggRPd_CV0il5dNAAjPrubumNgDf7lcPBMHdrGI7prlOMgZysGyxBpV5VawA3_ytOGXhR04lPlX-t7GXEpdwW72dpWrSt64QCEZxMhD62vzTtR5JWuZiRIFmC",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उद्योग तथा सामान्य प्रशासन मन्त्री",
+      "date": "२०६७-११-२२",
+      "details": "झलनाथ खनालको नेतृत्वमा बनेको सरकारमा उद्योग र सामान्य प्रशासन मन्त्रीको जिम्मेवारी सम्हाले।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQgYxO2xab3fsgN9fOGCv_e8mtURG2-F6h5uQp1IEUdcmVhPEy-AevropwGRr-FzHHsjyiSLnE88OqL-1BoPSCNbkjHC7438peyD_24lxwwu6PZMy2XLS6liy6qvfzNlEhPNmTeKmJK0ZW1508iNAks2jk92yaRQ==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिंचाई मन्त्री",
+      "date": "२०६४-०५-०१",
+      "details": "२०६२/६३ को आन्दोलनपछि बनेको अन्तरिम सरकारमा सिंचाई मन्त्रीको रूपमा नियुक्त।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFucFfxystzvYlTK8ulziNcx9zTOYu6RczhtOY8x_dtYDmqYjmICHzzeV-p_Cl7LqamlubxFyJEyiH-1sfPATu1B6KyWorTYcf-WJ7uMw-bM_PY1sCcSHOO0TjX3HdEWYj_okhblWD3",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले त्याग र तराई मधेस लोकतान्त्रिक पार्टी गठन",
+      "date": "२०६४-०९-१३",
+      "details": "नेकपा एमाले छाडेर महन्थ ठाकुरसँगै मधेस केन्द्रित राजनीतिमा होमिए र तमलोपा गठनमा भूमिका खेले।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRS2SLLYvql-gAP3XcUQ4AvtbQH4xlnVWsrkQJk2oT53hCfpmebakijPba4XWM-UrooRLzmDKOpnYITRoPoJM-AQgDp3J5rDytze76eiEgxghNcJKkJX13Tro8kXo8_dZA",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सिंचाई राज्यमन्त्री",
+      "date": "२०५४-०६-२६",
+      "details": "सूर्यबहादुर थापाको नेतृत्वमा मन्त्रिपरिषद्मा पहिलो पटक राज्यमन्त्री नियुक्त।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqaS34K62nW6X3l6XF3_bTyzq_5XhguFOEospocpxdzhJL_WP0ivyaxHhh1_3iRsxDBtZ9YoKscP5YwcZ2w2Oirw7_a1BV1GsUdOq40jMUPjTUkhetQRIkuZeJ3jsK6yLXcHrnPEdnvCIoRhzlcvGR0_JOOAbrikXICEiOWhLeljtm-Vjy9qXqI0EM7Xqz2t5Z3ym-1YHBxcGwPNVSr99IqW-r0ZZTHnwf_ijxUvTQZN0jU8KwLWRhn4RIGtrtAIQCjVOci_1HpjjBlXuyWu4sP3_2eMM=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचन २०५१ मा विजय",
+      "date": "२०५१-०८-२९",
+      "details": "सर्लाही २ बाट नेकपा एमालेको उम्मेदवारका रूपमा पहिलो पटक निर्वाचित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEorhGAIf9ARKODw2WGGmt24XCKg4BNJ1CuyU-E6Ji_R0bLOSiiEliBnGQFSUHvKUCRMPnrli6S6hXhtoSKDe1KWTIUQftPpsfnX3eLSjawW_0QB3SlcOXplQbUv1Tu881J65kw-bfX2Z9volk5eLzwzkSwU1feyWDAx2tkNOcT9-zOSb5welWo1nTLwz5MXggT9gv71y4JeeVvlXbDdqN3r2LM88=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३७-०१-०१",
+      "details": "नेकपा एमालेबाट राजनीतिक यात्रा सुरु गरी सर्लाहीमा कम्युनिष्ट संगठन विस्तारमा सक्रिय।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRS2SLLYvql-gAP3XcUQ4AvtbQH4xlnVWsrkQJk2oT53hCfpmebakijPba4XWM-UrooRLzmDKOpnYITRoPoJM-AQgDp3J5rDytze76eiEgxghNcJKkJX13Tro8kXo8_dZA",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "महिन्द्र राय यादव सर्लाही जिल्लाका एक अत्यन्त प्रभावशाली र 'अपराजित' जस्तै छवि बनाएका अनुभवी राजनीतिज्ञ हुन्। उनले २०५१ सालदेखि हालसम्मका प्रायः सबै निर्वाचनमा फरक-फरक दलको चुनाव चिन्ह लिएर पनि जित हासिल गर्दै आएका छन्, जसले उनको व्यक्तिगत लोकप्रियता र बलियो जनमतलाई पुष्टि गर्छ। यद्यपि, उनको राजनीतिक यात्रा 'सत्ता र अवसर' केन्द्रित रहेको आलोचना पनि हुने गरेको छ; उनले एमाले, तमलोपा, राजपा, जसपा हुँदै पछिल्लो समय माओवादी केन्द्रको चुनाव चिन्हमा निर्वाचन लडेका छन्। पछिल्लो पटक बाबुराम भट्टराईसँगको सम्बन्ध विच्छेद गरी माओवादीसँग नजिकिनुले उनको अस्थिरतालाई थप उजागर गरेको छ। कृषि मन्त्री रहँदा मल अभावको समस्या सुल्झाउन नसक्नु उनको कार्यक्षमतामा देखिएको मुख्य कमजोरी मानिन्छ। समग्रमा, उनी मधेसको राजनीतिमा एक चतुर खेलाडी हुन् जसले आफ्नो पकड कायम राख्न जस्तोसुकै गठबन्धन गर्न पनि हिचकिचाउँदैनन्।",
+  "overall_approval_rating": 68
+}

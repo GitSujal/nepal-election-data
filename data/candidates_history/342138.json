@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342138,
+  "candidate_name": "सत्रुधन चौधरी",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Election_Symbol_of_Nagarik_Unmukti_Party.png/200px-Election_Symbol_of_Nagarik_Unmukti_Party.png",
+  "candidates_current_position": "नेता, नागरिक उन्मुक्ति पार्टी",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेतृत्व",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342138.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नयाँ दल दर्ता प्रक्रियामा सहभागी",
+      "date": "२०८१-०६-२७",
+      "details": "रेशम चौधरीको नेतृत्वमा 'नागरिक उन्मुक्ति पार्टी, नेपाल' नामक नयाँ दल दर्ता गर्ने प्रक्रियामा नवलपरासीबाट सक्रिय समर्थन जनाएको।",
+      "link_to_source": "https://www.khabarhub.com/2024/09/14/413456/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी पश्चिम क्षेत्र नम्बर १ बाट नागरिक उन्मुक्ति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएको तर पराजित भएको।",
+      "link_to_source": "https://result.election.gov.np/SearchElectionDetail.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "थारु आन्दोलन र राजनीतिक सक्रियता",
+      "date": "२०७८-१०-१५",
+      "details": "थारुहट आन्दोलन र पहिचानको मुद्दामा नवलपरासी क्षेत्रमा थारु समुदायको हक अधिकारका लागि राजनीतिक संगठन विस्तारमा लागेको।",
+      "link_to_source": "https://nagarikunmuktiparty.org/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सत्रुधन चौधरी नवलपरासी (बर्दघाट सुस्ता पश्चिम) क्षेत्रमा नागरिक उन्मुक्ति पार्टीका एक उदीयमान थारु नेता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले विनोद चौधरी र हृदयेश त्रिपाठी जस्ता हेभीवेट उम्मेदवारहरू विरुद्ध प्रतिस्पर्धा गरेका थिए। यद्यपि उनी विजयी हुन सकेनन्, तर उनले प्राप्त गरेको मतले यस क्षेत्रमा नागरिक उन्मुक्ति पार्टीको उपस्थितिलाई मजबुत बनाएको देखिन्छ। उनी विशेष गरी थारु समुदायको पहिचान र रेशम चौधरीको रिहाइको मुद्दालाई लिएर राजनीतिमा सक्रिय छन्। हालै पार्टीभित्र भएको विवाद र नयाँ दल दर्ताको प्रक्रियामा उनी रेशम चौधरी पक्षधरको रूपमा चिनिएका छन्। उनको राजनीतिक भविष्य यस क्षेत्रमा थारु भोटको ध्रुवीकरण र पार्टीको संगठनात्मक विस्तारमा निर्भर रहने देखिन्छ।",
+  "overall_approval_rating": 42
+}

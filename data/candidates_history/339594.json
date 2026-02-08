@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339594,
+  "candidate_name": "राजेश साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "आवद्धता नभएको (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339594.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रौतहटबाट स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०८१-०४-१०",
+      "details": "पहिले बारा जिल्लाबाट चुनाव लडेका साहले यसपटक निर्वाचन क्षेत्र परिवर्तन गरी रौतहटबाट स्वतन्त्र उम्मेदवारी दर्ता गराएका छन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनमत पार्टी परित्याग",
+      "date": "२०८०-१२-१५",
+      "details": "बारा निर्वाचन क्षेत्र नं. २ मा जनमत पार्टीबाट पराजित भएपछि उनले पार्टीको आन्तरिक विवाद र टिकट वितरणमा असन्तुष्टि जनाउँदै पार्टी छोडेका थिए।",
+      "link_to_source": "https://janamatparty.com.np/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नं. २ बाट जनमत पार्टीको तर्फबाट चुनाव लडेका उनले २,७२५ मत प्राप्त गरी छैटौं स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLzCJVcVp1eIehS2tCvaq529u6Hq1O7zR_DSMBLjWxYw2S-QE4udeD14bYGvTynzVdo1KvpzZn1NGWg8tjkLYyAlUES1A-VxuVHlCOPxdqamHgjVFhD7LA7oGYPAx__mv2wycUexEmnbeLZg60TPXSDyWdsa7GgaI-dvv3Ax44kuki",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "राजेश साह एक राजनीतिक रूपमा अस्थिर र 'वागुवा' (क्षेत्र परिवर्तन गर्ने) उम्मेदवारका रूपमा देखिएका छन्। २०७९ को निर्वाचनमा बारा क्षेत्र नं. २ बाट जनमत पार्टीको उम्मेदवार बनेर उल्लेख्य मत ल्याउन नसकेपछि उनले जिल्ला परिवर्तन गरी रौतहट रोजेका छन्। यसरी निर्वाचन क्षेत्र परिवर्तन गर्नाले उनीमाथि स्थानीय मुद्दामा भन्दा पनि सत्ता र पदका लागि मात्र राजनीति गरेको आरोप लाग्ने गरेको छ। बारामा केवल २,७२५ मतमा सीमित हुनुले उनको पकड कमजोर रहेको पुष्टि गर्छ। हाल स्वतन्त्र उम्मेदवारी दिनुले उनको राजनीतिक भविष्य थप चुनौतीपूर्ण बनाएको छ र मतदातामाझ उनको विश्वसनीयतामा कमी आएको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 35
+}

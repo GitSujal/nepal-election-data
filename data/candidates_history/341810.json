@@ -1,0 +1,95 @@
+{
+  "candidate_id": 341810,
+  "candidate_name": "राज किशोर यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341810.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा-६",
+      "result": "विजयी",
+      "party": "मधेसी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा-४",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "सिराहा-२",
+      "result": "विजयी",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "महोत्तरीमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०८१-१०-१५",
+      "details": "सिराहाबाट दुई पटक चुनाव जितेका यादव यसपटक पार्टी परित्याग गरी महोत्तरीबाट स्वतन्त्र उम्मेदवारको रूपमा चुनावी मैदानमा उत्रिएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbiocmRBnzA5zLzm0nAGeeUFHEU0BqE_akw6Y2gK3uDwzDFkuHSenQEhwKgbpBMU0EW-xXwQ5TzzeLALIN2uAFFYyuvrdyEAGd-55KSYxNLTax8W5z36dg3pWuEWIk1D4UgWTkQwl10jX5VNie1yMxIqwi8BV91LL8FaHiAQYyr89AbPUH5bFM-uM6LBdiXvE1NBbqPBrP2y-UWrMEmbugJxau7g3NKC0GIdQ=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नागरिकता वितरणमा धाँधलीको आरोप",
+      "date": "२०८१-११-२७",
+      "details": "यादवले संसदमा सिराहाका स्थानीय अधिकारीहरूले भारतीय नागरिकलाई गैरकानुनी रूपमा नागरिकता बेचेको गम्भीर आरोप लगाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2hyO82Db0z_ingmJvFpuRvV1bJd0qPVNWvAkT6jm0WS4miJRlIDf7PEGohxYJyBTEyZVaR2-j8Uoih1wMivpnK53jNSHtlkC4QT6vsdhTlKPCDD1HoEVRXbQKdLWngw_xAZP2m8g17GDtVJIOFrd7QuzDNZnbPMyitGJcwvKHlxpqFK6AWsJPrRmFTYWX_gayIYm3zQSP6EXUXYmXOChi2P92ASMnvfaYEMZXSQZ",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१२ दिने उद्योग मन्त्रीको कार्यकाल",
+      "date": "२०७८-०२-२७",
+      "details": "केपी शर्मा ओलीको मन्त्रिमण्डलमा उद्योग, वाणिज्य तथा आपूर्ति मन्त्री नियुक्त भएको १२ दिनमै सर्वोच्च अदालतको आदेशले पदमुक्त हुनुपरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHShgyDL0p8VEN-CL5s_iOxDwkfUs4hKn-3qCPiHzYQzo1ZhIxwGBd48wo-XTw0rwfYu_nWNI30DHXBZROnEYuCqNP6AiA51Rjn_6gj6w84J-0KT3kynfEhzBR6GU2BGjRWt2XU1w4bKo4=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सिराहा-२ बाट प्रतिनिधिसभामा विजयी",
+      "date": "२०७९-०८-०९",
+      "details": "नेपाली कांग्रेसकी नेत्री चित्रलेखा यादवलाई ८५० मतान्तरले पराजित गर्दै सिराहा-२ बाट निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIGlp4wz_ECUcV7xsvTKsnzoVSNM74P8y3Re6LRfd2gDHWKTI2TQqgpdkASZNlxeDZXx_AY-tjHYvzsH6jnk8kAId2uMHOCnj1u18tYZizBLsYNP6uhBdI0WbkycjabtL4Zq2M5izuma80GdOJKLjbA84USBhM6DiWLvnScDRRi-DO-x5a_g_Cq5Q=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सिराहा-४ बाट प्रतिनिधिसभामा विजयी",
+      "date": "२०७४-०८-२५",
+      "details": "वाम गठबन्धनका उम्मेदवार अजयशंकर नायकलाई ३,५६९ मतको अन्तरले पराजित गर्दै सिराहा-४ बाट विजयी भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs6A2WMl8wnPrMMz81I_O-wbBYQeCXqYzFhBowOcQRhqJbPuiTJ-4I5KfOztgZzkbLqnFRU9Qhom5av1bVjS_6t1VqQP-N-jm2BJ2gy4yCGmDOhh1-a4Px1-lvdo1bdAhO4Mxz645IgnfLiV1__X7Gvyo2hPyRXTxGoRIqWLidmWPR6fMuadRSRg==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सूचना तथा सञ्चार मन्त्रीको नियुक्ति",
+      "date": "२०६८-०६-१७",
+      "details": "डा. बाबुराम भट्टराईको सरकारमा सूचना तथा सञ्चार मन्त्रीका रूपमा जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeepJS96veSQt0LIOlokrBtZd1hWy_VqSRxT8tvmWr9x7dusnvZyYvXT1uUAOfmIVG44BSxP53PkPxcOmQBot0fKUbF-ss8GBcxZYgYjIeYnor8N7S43f3-DsSsL9zvFnEqOIW6cJMdizm_osPAJb0eA2i4IjxQTbzQ7uvU5vez7_SMQXLA1BwcSIeFpWunIKLQ06-FbfJp2oYvxfcTb8CTpskyOTsN-7iymT-LmW02px5MgWJn8OXhTsFfvhYp7-A9uBBxNmL",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रेडियो इजाजतपत्र वितरण विवाद",
+      "date": "२०६९-०३-१२",
+      "details": "सञ्चार मन्त्री रहँदा नीतिगत व्यवस्था विपरीत एफएम रेडियो र टेलिभिजन लाइसेन्स वितरण गरेको आरोप लागेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeepJS96veSQt0LIOlokrBtZd1hWy_VqSRxT8tvmWr9x7dusnvZyYvXT1uUAOfmIVG44BSxP53PkPxcOmQBot0fKUbF-ss8GBcxZYgYjIeYnor8N7S43f3-DsSsL9zvFnEqOIW6cJMdizm_osPAJb0eA2i4IjxQTbzQ7uvU5vez7_SMQXLA1BwcSIeFpWunIKLQ06-FbfJp2oYvxfcTb8CTpskyOTsN-7iymT-LmW02px5MgWJn8OXhTsFfvhYp7-A9uBBxNmL",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "राज किशोर यादव मधेस राजनीतिको एक परिचित तर अस्थिर पात्रका रूपमा चिनिन्छन्। उनले सिराहा जिल्लाका दुई फरक निर्वाचन क्षेत्रहरू (क्षेत्र नं ४ र क्षेत्र नं २) बाट चुनाव जितिसकेका छन्, जसले उनको व्यक्तिगत प्रभाव बलियो रहेको देखाउँछ। यद्यपि, हाल उनले सिराहा छोडेर महोत्तरीबाट स्वतन्त्र उम्मेदवारी दिनुले उनको राजनीतिक भविष्य र निष्ठामा प्रश्न उठाएको छ। उनलाई मधेस राजनीतिमा 'भगुवा' उम्मेदवारको रूपमा आलोचना गरिने गरेको छ। केपी ओलीको छोटो कार्यकालको मन्त्रिमण्डलमा सामेल हुनु र सर्वोच्चबाट पदमुक्त हुनुले उनको राजनीतिक साखमा केही धक्का पुर्याएको छ। लाइसेन्स वितरणमा संलग्नता र बारम्बारको पार्टी परिवर्तनले उनको छविमा नकारात्मक प्रभाव पारेको देखिन्छ।",
+  "overall_approval_rating": 52
+}

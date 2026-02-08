@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339743,
+  "candidate_name": "विष्‍णु श्रेष्‍ठ",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_of_Pragatisheel_Loktantrik_Party.png/200px-Election_Symbol_of_Pragatisheel_Loktantrik_Party.png",
+  "candidates_current_position": "प्रतिनिधिसभा उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339743.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०८२ निर्वाचन तयारी",
+      "date": "२०८२-१०-१७",
+      "details": "आगामी २०८२ को निर्वाचनका लागि काठमाडौं क्षेत्र नं. ५ बाट पुन: उम्मेदवारीको तयारी गर्दै मतदाता माझ घरदैलो अभियान सुरु।",
+      "link_to_source": "https://www.hamropatro.com/election/candidates/339743",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ निर्वाचन परिणाम",
+      "date": "२०७९-०८-०८",
+      "details": "काठमाडौं क्षेत्र नं. ५ बाट प्रतिनिधिसभा निर्वाचनमा पराजित। उनले स्थापित दलका उम्मेदवारहरूको तुलनामा न्यून मत प्राप्त गरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339743",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता २०७९",
+      "date": "२०७९-०७-२३",
+      "details": "प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट काठमाडौं ५ मा मनोनयन दर्ता गरी चुनावी मैदानमा प्रवेश।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1215443",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०५५-०३-१५",
+      "details": "त्रिभुवन विश्वविद्यालयबाट आई.कम. (I.Com) तहको शिक्षा सफलतापूर्वक पुरा।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339743",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विष्णु श्रेष्ठ काठमाडौं क्षेत्र नं. ५ का एक स्थायी बासिन्दा र कम चर्चामा रहेका राजनीतिक पात्र हुन्। उनले २०७९ को आम निर्वाचनमा प्रगतिशील लोकतान्त्रिक पार्टीबाट उम्मेदवारी दिएका थिए, तर काठमाडौंको मुख्य क्षेत्रमा नेपाली कांग्रेस र नेकपा एमाले जस्ता ठूला दलहरूको वर्चस्वका कारण उनले प्रभावकारी मत प्राप्त गर्न सकेनन्। उनको राजनीतिक छवि स्वच्छ देखिए पनि चुनावी प्रतिस्पर्धामा उनको जनाधार निकै कमजोर छ। धापासी क्षेत्रका स्थानीय बासिन्दा भएकाले उनलाई 'टुरिष्ट' उम्मेदवार मान्न सकिँदैन, तर राष्ट्रिय राजनीतिमा उनको भूमिका र दलको प्रभाव न्यून रहेकाले भविष्यका निर्वाचनमा पनि उनलाई कडा चुनौती देखिन्छ। अहिलेसम्म उनको नाममा कुनै पनि भ्रष्टाचार वा नैतिक विवाद सार्वजनिक भएको छैन।",
+  "overall_approval_rating": 42
+}

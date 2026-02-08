@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340108,
+  "candidate_name": "अरुन सुब्बा (लेछर्वो)",
+  "candidate_party": "जनता समाजवादी पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "ताप्लेजुङ जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340108.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ताप्लेजुङ",
+      "constituency": "ताप्लेजुङ १",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "ताप्लेजुङ निर्वाचन क्षेत्र नम्बर १ बाट जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका सुब्बाले ३६१ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/taplejung?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता र संगठन विस्तार",
+      "date": "२०७७-०२-२५",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टीको एकता पछि बनेको जनता समाजवादी पार्टीमा रहेर ताप्लेजुङमा पहिचानको राजनीति र संगठन निर्माणमा सक्रिय।",
+      "link_to_source": "https://sajilopatrika.com/arun-subba-lechwarbo-biography/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लिम्बुवान र पहिचानको आन्दोलनमा सक्रियता",
+      "date": "२०६४-०१-०१",
+      "details": "लिम्बु समुदायको हकहित र लिम्बुवान स्वायत्त प्रदेशको माग राख्दै हुने विभिन्न राजनीतिक कार्यक्रम र आन्दोलनमा निरन्तर सहभागी।",
+      "link_to_source": "https://sajilopatrika.com/arun-subba-lechwarbo-biography/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अरुन सुब्बा (लेछर्वो) ताप्लेजुङका एक स्थानीय राजनीतिज्ञ हुन् जो जनता समाजवादी पार्टीसँग आबद्ध छन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा ताप्लेजुङ-१ बाट प्रतिस्पर्धा गरेका थिए, तर चुनावी नतिजा उनको पक्षमा रहेन र उनले थोरै मत मात्र प्राप्त गरे। सुब्बा विशेषगरी लिम्बुवान आन्दोलन र पहिचानको राजनीतिमा सक्रिय भूमिका खेल्ने व्यक्तिका रूपमा चिनिन्छन्। ठूला दलहरू नेकपा (एमाले) र नेपाली कांग्रेसको वर्चस्व रहेको ताप्लेजुङमा वैकल्पिक शक्तिको रूपमा आफ्नो स्थान बनाउन उनले संघर्ष गरिरहेका छन्। उनको राजनीतिक आधार मुख्यतया जातीय पहिचान र समावेशी प्रतिनिधित्वको मुद्दामा टिकेको छ। हालसम्म उनको कुनै ठूलो विवाद वा भ्रष्टाचार काण्ड सार्वजनिक नभएकोले उनको छवि स्वच्छ रहेको मानिन्छ।",
+  "overall_approval_rating": 42
+}

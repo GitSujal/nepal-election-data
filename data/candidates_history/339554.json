@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339554,
+  "candidate_name": "कमल गुरुङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mongol_National_Organisation_Logo.png/200px-Mongol_National_Organisation_Logo.png",
+  "candidates_current_position": "सदस्य, मंगोल नेशनल अर्गनाइजेसन",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339554.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "महोत्तरी-१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "महोत्तरी क्षेत्र नम्बर १ बाट प्रतिनिधिसभा सदस्यका लागि चुनावी मैदानमा उत्रिएका कमल गुरुङले मात्र ५७ मत प्राप्त गरी पराजय बेहोरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "महोत्तरी-१ बाट उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "कमल गुरुङले मङ्गोल नेशनल अर्गनाइजेसनको तर्फबाट महोत्तरी १ मा प्रतिनिधिसभा सदस्यको लागि औपचारिक रूपमा उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/candidate-list-2079",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मङ्गोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "पहिचानवादी राजनीति र मङ्गोल समुदायको अधिकारका लागि उनी लामो समयदेखि मङ्गोल नेशनल अर्गनाइजेसनको विचार र संगठनमा आबद्ध रहँदै आएका छन्।",
+      "link_to_source": "https://mno-nepal.org/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कमल गुरुङ महोत्तरी जिल्लाबाट मङ्गोल नेशनल अर्गनाइजेसनको प्रतिनिधित्व गर्ने एक राजनीतिकर्मी हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा महोत्तरी क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका थिए, जहाँ उनले निकै कम मत (५७) प्राप्त गरे। मधेश प्रदेशको महोत्तरी जस्तो जिल्लामा मङ्गोल नेशनल अर्गनाइजेसनको प्रभाव न्यून रहेको र जातीय समीकरणले गर्दा उनको चुनावी उपस्थिति केवल सांकेतिक मात्र देखिएको छ। उनी मङ्गोल पहिचान र धर्मनिरपेक्षताको पक्षमा वकालत गर्ने दलको कार्यकर्ताको रूपमा चिनिन्छन्। उनको राजनीतिक करियरमा कुनै ठूला भ्रष्टाचार वा काण्डहरू भेटिएका छैनन्, तर निर्वाचनमा उनको प्रभाव अत्यन्त कमजोर देखिएको छ।",
+  "overall_approval_rating": 30
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341606,
+  "candidate_name": "भरत मल्ल",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cpn_maoist_logo.png/600px-Cpn_maoist_logo.png",
+  "candidates_current_position": "पूर्व अध्यक्ष, छबिसपाथिभेरा गाउँपालिका",
+  "candidates_current_position_in_party": "जिल्ला कमिटी सदस्य, बझाङ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341606.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "गाउँपालिका अध्यक्ष",
+      "district": "बझाङ",
+      "constituency": "छबिसपाथिभेरा गाउँपालिका",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "बझाङ",
+      "constituency": "खस आर्य क्लस्टर",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा समानुपातिक उम्मेदवार",
+      "date": "२०७९-०६-०२",
+      "details": "नेकपा (माओवादी केन्द्र) को तर्फबाट २०७९ को आम निर्वाचनमा बझाङ जिल्लाबाट प्रतिनिधि सभाको समानुपातिक सूचीमा समावेश गरियो।",
+      "link_to_source": "https://election.gov.np/np/page/pr-candidate-list-2079",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचन २०७४ मा विजय",
+      "date": "२०७४-०३-१४",
+      "details": "बझाङको छबिसपाथिभेरा गाउँपालिकाको पहिलो अध्यक्षको रूपमा निर्वाचित भई ५ वर्षे कार्यकाल सफलतापूर्वक पूरा गरे।",
+      "link_to_source": "https://wikipedia.org/wiki/Chhabispathivera_Rural_Municipality",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पूर्वाधार विकासमा सक्रियता",
+      "date": "२०७६-०८-१०",
+      "details": "गाउँपालिका अध्यक्ष हुँदा दुर्गम वडा सडक सञ्जाल जोड्ने र स्थानीय विद्यालय भवन निर्माणमा महत्त्वपूर्ण भूमिका खेलेका थिए।",
+      "link_to_source": "https://chhabispathiveramun.gov.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनयुद्धमा सहभागिता",
+      "date": "२०५२-११-०१",
+      "details": "माओवादी जनयुद्धको सुरुवातदेखि नै बझाङ जिल्लामा पार्टी संगठन विस्तार र सशस्त्र संघर्षमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Communist_Party_of_Nepal_(Maoist_Centre)",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भरत मल्ल बझाङ जिल्लाका एक स्थापित माओवादी नेता हुन्। २०७४ सालको स्थानीय निर्वाचनमा छबिसपाथिभेरा गाउँपालिकाको अध्यक्षमा विजयी भएपछि उनको पहिचान स्थानीय स्तरमा थप मजबुत भएको छ। उनी आफ्नो क्षेत्रमा पूर्वाधार विकास र सडक विस्तारका लागि चिनिन्छन्। २०७९ सालमा उनलाई पार्टीले प्रतिनिधि सभाको समानुपातिक उम्मेदवार बनाएर उनको राजनीतिक उचाइलाई केन्द्रसम्म पुर्याउने प्रयास गरेको देखिन्छ। यद्यपि, स्थानीय स्तरमा कर्मचारी भर्ना र बजेट विनियोजनमा केही सामान्य गुनासाहरू रहे पनि उनीविरुद्ध कुनै ठूलो भ्रष्टाचार वा नैतिक स्क्यान्डल पुष्टि भएको छैन। उनी जनयुद्ध कालदेखिकै कार्यकर्ता भएकाले पार्टीभित्र उनको इमानदार छवि रहेको छ।",
+  "overall_approval_rating": 75
+}

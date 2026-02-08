@@ -4,10 +4,11 @@ Candidate Profile Fetcher
 This module fetches and enriches candidate profiles by calling Gemini Pro with a system prompt.
 It includes:
 - Pydantic models to validate the LLM response
-- A function to loop through candidates and fetch their profiles
+- Async concurrent fetching with configurable concurrency
 - Caching logic to skip already-processed candidates
 """
 
+import asyncio
 import json
 import os
 from pathlib import Path
@@ -104,17 +105,21 @@ class CandidateProfileResponse(BaseModel):
 # CANDIDATE PROFILE FETCHER FUNCTION
 # ============================================================================
 
-def fetch_candidate_profiles(
+async def fetch_candidate_profiles(
     candidates_json_path: str = "public/data/dim_current_fptp_candidates.json",
     output_dir: str = "data/candidates_history",
     system_prompt_path: str = "candidate_profile_researcher.md",
     api_key: Optional[str] = None,
     model_name: str = "gemini-3-flash-preview",
     limit: Optional[int] = None,
+    offset: int = 0,
+    candidate_id: Optional[int] = None,
     skip_existing: bool = True,
+    include_new_candidates: bool = False,
+    concurrency: int = 5,
 ) -> dict:
     """
-    Fetch candidate profiles from Gemini using system prompt.
+    Fetch candidate profiles from Gemini concurrently using async.
 
     Args:
         candidates_json_path: Path to the candidates JSON file
@@ -123,18 +128,15 @@ def fetch_candidate_profiles(
         api_key: Google API key (uses GOOGLE_API_KEY env var if not provided)
         model_name: Model name to use (default: gemini-3-flash-preview)
         limit: Limit number of candidates to process (None = process all)
+        offset: Number of candidates to skip from the start (default: 0)
+        candidate_id: Specific candidate ID to fetch (overrides offset/limit)
         skip_existing: Skip candidates that already have saved profiles
+        include_new_candidates: Include candidates where is_new_candidate is True
+            (default: False, skips them since they have no history)
+        concurrency: Number of concurrent API requests (default: 5)
 
     Returns:
-        Dictionary with statistics about the processing:
-        {
-            "total_candidates": int,
-            "processed": int,
-            "skipped": int,
-            "successful": int,
-            "failed": int,
-            "errors": List[dict]
-        }
+        Dictionary with statistics about the processing
     """
     # Setup
     api_key = api_key or os.getenv("GOOGLE_API_KEY")
@@ -166,7 +168,7 @@ def fetch_candidate_profiles(
     # Extract system prompt (remove markdown code fence if present)
     system_prompt = extract_system_prompt(system_prompt_content)
 
-    # Stats
+    # Stats (use a lock for thread-safe updates)
     stats = {
         "total_candidates": 0,
         "processed": 0,
@@ -175,78 +177,100 @@ def fetch_candidate_profiles(
         "failed": 0,
         "errors": [],
     }
+    stats_lock = asyncio.Lock()
 
-    print(f"Starting candidate profile fetch for {len(candidates)} candidates...")
-    print(f"Using model: {model_name}")
-    print(f"Output directory: {output_dir}")
-    print(f"Skip existing: {skip_existing}\n")
+    # Filter by specific candidate_id if provided (takes precedence over offset/limit)
+    if candidate_id is not None:
+        candidates = [c for c in candidates if c.get("candidate_id") == candidate_id]
+        if not candidates:
+            print(f"Warning: No candidate found with ID {candidate_id}.")
+            return stats
+        print(f"Filtering for specific candidate ID: {candidate_id}")
+        offset = 0  # Reset offset when using candidate_id
+    # Apply offset to candidates list
+    elif offset > 0:
+        if offset >= len(candidates):
+            print(f"Warning: Offset {offset} is greater than or equal to the total number of candidates ({len(candidates)}). No candidates to process.")
+            return stats
+        candidates = candidates[offset:]
+        print(f"Applying offset: Starting from candidate #{offset + 1}")
 
-    # Process each candidate
+    # Apply limit
+    if limit:
+        candidates = candidates[:limit]
+
+    # Build list of candidates to process (filtering out skips upfront)
+    to_process = []
     for idx, candidate in enumerate(candidates):
-        if limit and idx >= limit:
-            print(f"\nReached limit of {limit} candidates. Stopping.")
-            break
-
-        candidate_id = candidate.get("candidate_id")
+        cid = candidate.get("candidate_id")
         candidate_name = candidate.get("candidate_name", "Unknown")
-        stats["total_candidates"] += 1
+        display_num = offset + idx + 1
+        output_path = Path(output_dir) / f"{cid}.json"
 
-        output_path = Path(output_dir) / f"{candidate_id}.json"
-
-        # Check if already exists
         if skip_existing and output_path.exists():
-            print(f"  [{idx + 1}] SKIP (exists): {candidate_id} - {candidate_name}")
+            print(f"  [{display_num}] SKIP (exists): {cid} - {candidate_name}")
             stats["skipped"] += 1
             continue
 
-        print(f"  [{idx + 1}] PROCESSING: {candidate_id} - {candidate_name}")
+        if not include_new_candidates and candidate.get("is_new_candidate", False):
+            print(f"  [{display_num}] SKIP (new candidate): {cid} - {candidate_name}")
+            stats["skipped"] += 1
+            continue
 
-        try:
-            # Call Gemini API (returns already-validated CandidateProfileResponse)
-            validated_profile = call_gemini_api(
-                client=client,
-                candidate=candidate,
-                system_prompt=system_prompt,
-                model_name=model_name,
-            )
+        to_process.append((display_num, candidate))
 
-            # Save to file (validated_profile is already a Pydantic model)
-            with open(output_path, "w", encoding="utf-8") as f:
-                # Convert Pydantic model to dict and save as JSON
-                profile_dict = validated_profile.model_dump()
-                json.dump(
-                    profile_dict,
-                    f,
-                    ensure_ascii=False,
-                    indent=2,
+    stats["total_candidates"] = len(candidates)
+
+    print(f"\nStarting candidate profile fetch...")
+    print(f"  Total candidates: {len(candidates)}")
+    print(f"  To process: {len(to_process)}")
+    print(f"  Skipped: {stats['skipped']}")
+    print(f"  Concurrency: {concurrency}")
+    print(f"  Model: {model_name}")
+    print(f"  Output directory: {output_dir}\n")
+
+    if not to_process:
+        print("Nothing to process.")
+        return stats
+
+    semaphore = asyncio.Semaphore(concurrency)
+
+    async def process_one(display_num: int, candidate: dict):
+        cid = candidate.get("candidate_id")
+        candidate_name = candidate.get("candidate_name", "Unknown")
+        output_path = Path(output_dir) / f"{cid}.json"
+
+        async with semaphore:
+            print(f"  [{display_num}] PROCESSING: {cid} - {candidate_name}")
+            try:
+                validated_profile = await call_gemini_api(
+                    client=client,
+                    candidate=candidate,
+                    system_prompt=system_prompt,
+                    model_name=model_name,
                 )
 
-            print(f"        ✓ Saved successfully")
-            stats["successful"] += 1
-            stats["processed"] += 1
+                profile_dict = validated_profile.model_dump()
+                # File I/O is fast enough to do synchronously for small JSON files
+                with open(output_path, "w", encoding="utf-8") as f:
+                    json.dump(profile_dict, f, ensure_ascii=False, indent=2)
 
-        except json.JSONDecodeError as e:
-            error_msg = f"Invalid JSON from LLM for candidate {candidate_id}: {str(e)}"
-            print(f"        ✗ JSON Error: {error_msg}")
-            stats["failed"] += 1
-            stats["processed"] += 1
-            stats["errors"].append({"candidate_id": candidate_id, "error": error_msg})
+                print(f"        [{display_num}] Saved: {cid} - {candidate_name}")
+                async with stats_lock:
+                    stats["successful"] += 1
+                    stats["processed"] += 1
 
-        except ValueError as e:
-            error_msg = (
-                f"Validation error for candidate {candidate_id}: {str(e)}"
-            )
-            print(f"        ✗ Validation Error: {error_msg}")
-            stats["failed"] += 1
-            stats["processed"] += 1
-            stats["errors"].append({"candidate_id": candidate_id, "error": error_msg})
+            except Exception as e:
+                error_msg = f"{type(e).__name__}: {str(e)}"
+                print(f"        [{display_num}] FAILED: {cid} - {error_msg}")
+                async with stats_lock:
+                    stats["failed"] += 1
+                    stats["processed"] += 1
+                    stats["errors"].append({"candidate_id": cid, "error": error_msg})
 
-        except Exception as e:
-            error_msg = f"Error processing candidate {candidate_id}: {type(e).__name__}: {str(e)}"
-            print(f"        ✗ Error: {error_msg}")
-            stats["failed"] += 1
-            stats["processed"] += 1
-            stats["errors"].append({"candidate_id": candidate_id, "error": error_msg})
+    # Run all tasks concurrently (semaphore limits actual parallelism)
+    tasks = [process_one(display_num, candidate) for display_num, candidate in to_process]
+    await asyncio.gather(*tasks)
 
     # Print summary
     print("\n" + "=" * 70)
@@ -320,20 +344,15 @@ def enrich_profile_with_grounding_metadata(
         return profile
 
 
-def call_gemini_api(
+async def call_gemini_api(
     client,
     candidate: dict,
     system_prompt: str,
     model_name: str = "gemini-3-flash-preview",
 ) -> CandidateProfileResponse:
     """
-    Call Gemini API with system prompt, Google Search grounding, and schema enforcement.
-    
-    Uses:
-    - Google Search grounding to ensure factual information only
-    - Grounding metadata to extract real source URLs
-    - Gemini's schema enforcement to ensure the response matches CandidateProfileResponse
-    - System prompt for candidate profile enrichment
+    Call Gemini API asynchronously with system prompt, Google Search grounding,
+    and schema enforcement.
 
     Args:
         client: Google GenAI client instance
@@ -391,8 +410,8 @@ Use grounding metadata to populate link_to_source fields with actual web source 
         system_instruction=system_prompt,
     )
 
-    # Call Gemini API with schema enforcement and grounding
-    response = client.models.generate_content(
+    # Call Gemini API asynchronously
+    response = await client.aio.models.generate_content(
         model=model_name,
         contents=[
             {
@@ -472,19 +491,24 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Fetch and enrich candidate profiles using Gemini API.")
     parser.add_argument("--limit", type=int, help="Limit the number of candidates to process")
+    parser.add_argument("--offset", type=int, default=0, help="Number of candidates to skip from the start (e.g., --offset 50 starts from candidate #51)")
+    parser.add_argument("--candidate-id", type=int, help="Fetch details for a specific candidate ID (overrides --offset and --limit)")
     parser.add_argument("--no-skip", action="store_true", help="Do not skip candidates that already have saved profiles")
+    parser.add_argument("--include-new", action="store_true", help="Include new candidates (is_new_candidate=True) who have no political history")
+    parser.add_argument("--concurrency", type=int, default=10, help="Number of concurrent API requests (default: 5)")
 
     argparser = parser.parse_args()
-    # Parse command line arguments
-    limit = argparser.limit
-    skip_existing = not argparser.no_skip
 
     # Run the fetcher
     try:
-        stats = fetch_candidate_profiles(
-            limit=limit,
-            skip_existing=skip_existing,
-        )
+        stats = asyncio.run(fetch_candidate_profiles(
+            limit=argparser.limit,
+            offset=argparser.offset,
+            candidate_id=argparser.candidate_id,
+            skip_existing=not argparser.no_skip,
+            include_new_candidates=argparser.include_new,
+            concurrency=argparser.concurrency,
+        ))
         sys.exit(0 if stats["failed"] == 0 else 1)
     except Exception as e:
         print(f"Fatal error: {e}", file=sys.stderr)

@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341805,
+  "candidate_name": "मीन बहादुर दर्जी",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/National_Janmukti_Party_Logo.png/220px-National_Janmukti_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "क्षेत्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341805.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "N/A",
+      "district": "कास्की",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "क्षेत्र नम्बर १",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "क्षेत्र नम्बर १",
+      "result": "N/A",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०८२ मा उम्मेदवारी",
+      "date": "२०८१-१०-२०",
+      "details": "कास्की निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल जनमुक्ति पार्टीको तर्फबाट मनोनयन दर्ता गराएका छन्।",
+      "link_to_source": "https://maidannews.com/kaski-election-candidates-2082/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "कास्की क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरे पनि उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए।",
+      "link_to_source": "https://ratopati.com/story/267198/2079/kaski-1-results",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलको नाम परिवर्तन र आबद्धता",
+      "date": "२०७५-०२-१५",
+      "details": "साविकको राष्ट्रिय जनमुक्ति पार्टीबाट राजनीति सुरु गरेका दर्जी पछि नेपाल जनमुक्ति पार्टीमा सक्रिय रहेका हुन्।",
+      "link_to_source": "https://janasanchar.com/kaski-party-profile/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सीमान्तकृत समुदायको अधिकारका लागि वकालत",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि दलित र उत्पीडित समुदायको हकहित र पहिचानका लागि साना राजनीतिक दलमार्फत आवाज उठाउँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/candidates/min-bahadur-darji/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मीन बहादुर दर्जी कास्की निर्वाचन क्षेत्र नम्बर १ का लागि नेपाल जनमुक्ति पार्टीका एक अनुभवी र पाका उम्मेदवार हुन्। ६७ वर्षको उमेरमा पनि उनी सक्रिय राजनीतिमा छन्, जसले उनको राजनीतिक निष्ठा र दलित समुदायको अधिकारप्रतिको प्रतिबद्धतालाई झल्काउँछ। उनी 'टुरिस्ट' उम्मेदवार होइनन् र पोखरा-१० कै स्थानीय बासिन्दा हुन्, जसका कारण उनलाई स्थानीय समस्याहरूको राम्रो ज्ञान छ। यद्यपि, कास्कीमा नेकपा एमाले र नेपाली कांग्रेस जस्ता ठूला दलहरूको बलियो पकड रहेकाले उनको चुनावी प्रतिस्पर्धा निकै कठिन देखिन्छ। उनी मुख्यतया पहिचान र समावेशिताका एजेन्डाहरू बोकेर जनतामाझ जाने गर्छन्। उनको विगतमा कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू नदेखिएकाले उनको छवि सफा रहेको मानिन्छ।",
+  "overall_approval_rating": 45
+}

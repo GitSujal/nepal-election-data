@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342155,
+  "candidate_name": "अवधकिशोर प्रसाद कुशवाहा",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_of_Progressive_Democratic_Party.png/200px-Election_Symbol_of_Progressive_Democratic_Party.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342155.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट प्रत्यक्ष निर्वाचनमा प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342155",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रगतिशील लोकतान्त्रिक पार्टीमा आबद्धता",
+      "date": "२०७९-०७-२०",
+      "details": "कुशवाहाले साना दलहरूको मोर्चाको रूपमा चिनिने प्रगतिशील लोकतान्त्रिक पार्टीबाट आफ्नो राजनीतिक यात्रा अगाडि बढाएका हुन्।",
+      "link_to_source": "https://inseconline.org/social-justice/%E0%A4%AE%E0%A4%A7%E0%A5%87%E0%A4%B6-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%B8/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन मनोनयन दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "बारा क्षेत्र नं. ४ को निर्वाचन अधिकृतको कार्यालयमा पुगेर उनले आफ्नो उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342155",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अवधकिशोर प्रसाद कुशवाहा बारा जिल्लाका स्थानीय राजनीतिज्ञ हुन् जसले २०७९ को आम निर्वाचनमा बारा निर्वाचन क्षेत्र नं. ४ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका थिए। उनी प्रगतिशील लोकतान्त्रिक पार्टी (प्रलोपा) जस्तो साना दलसँग आबद्ध रहेकाले ठूला राजनीतिक दलहरू जस्तै नेकपा (एमाले) र नेपाली कांग्रेसका उम्मेदवारहरूसँगको प्रतिस्पर्धामा पछि परेका थिए। निर्वाचनमा उनले निकै कम मत प्राप्त गरे पनि उनी आफ्नो क्षेत्रमा सामाजिक कार्यमा सक्रिय रहने व्यक्तिको रूपमा चिनिन्छन्। उनको नाममा कुनै पनि ठूला काण्ड वा भ्रष्टाचारका घटनाहरू सार्वजनिक भएका छैनन्। यद्यपि, सोही नाम गरेका एक सरकारी उपसचिव भ्रष्टाचार मुद्दामा मुछिएकाले उनीसँग झुक्किने सम्भावना रहन्छ, तर यो उम्मेदवार र ती कर्मचारी फरक व्यक्ति हुन्। बाराको सिम्रौनगढ क्षेत्रमा उनको केही प्रभाव रहे पनि संघीय राजनीतिमा प्रभाव जमाउन उनलाई थप संगठन र जनमतको आवश्यकता देखिन्छ।",
+  "overall_approval_rating": 35
+}

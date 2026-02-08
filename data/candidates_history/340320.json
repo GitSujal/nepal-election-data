@@ -1,0 +1,127 @@
+{
+  "candidate_id": 340320,
+  "candidate_name": "राजेन्द्र प्रसाद पाण्डे",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-Unified-Socialist-Logo.png/600px-CPN-Unified-Socialist-Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व मुख्यमन्त्री",
+  "candidates_current_position_in_party": "वरिष्ठ उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340320.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेशसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "१ (क)",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "पाण्डेले नेकपा एमालेका भूमिप्रसाद त्रिपाठीलाई ७,९८१ मतान्तरले पराजित गर्दै ३५,९३४ मतका साथ विजयी भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/24/rajendra-pandey-elected-from-dhading-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बागमती प्रदेशको मुख्यमन्त्रीबाट राजीनामा",
+      "date": "२०७९-०९-०८",
+      "details": "प्रतिनिधिसभा सदस्यमा निर्वाचित भएपछि पाण्डेले बागमती प्रदेशको मुख्यमन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rajendra_Prasad_Pandey",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१८ सदस्यीय जम्बो मन्त्रीमण्डल विस्तार",
+      "date": "२०७८-०९-१०",
+      "details": "मुख्यमन्त्री हुँदा पाण्डेले सत्ता टिकाउन मन्त्रालय फुटाएर १८ सदस्यीय मन्त्रिपरिषद् बनाएपछि राज्यकोषमा भार पारेको भन्दै तीव्र आलोचना भएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rajendra_Prasad_Pandey_cabinet",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बागमती प्रदेशको मुख्यमन्त्रीमा नियुक्त",
+      "date": "२०७८-०७-११",
+      "details": "नेकपा एमालेबाट विभाजित भई बनेको एकीकृत समाजवादीको नेतृत्व गर्दै पाण्डे बागमती प्रदेशको तेस्रो मुख्यमन्त्री बनेका थिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2021/10/28/rajendra-pandey-appointed-chief-minister-of-bagmati",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमालेभित्रको आन्तरिक विवादपछि माधव नेपाल नेतृत्वको समूहसँगै पाण्डेले नयाँ पार्टी गठनमा मुख्य भूमिका खेलेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Communist_Party_of_Nepal_(Unified_Socialist)",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय विकास मन्त्रीका रूपमा कार्यभार",
+      "date": "२०६३-०२-२८",
+      "details": "दोस्रो जनआन्दोलनपछि पुनस्र्थापित संसद्को समयमा उनले स्थानीय विकास मन्त्रालयको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rajendra_Prasad_Pandey",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजतन्त्र विरोधी आन्दोलनमा पक्राउ",
+      "date": "२०६२-१०-०७",
+      "details": "जनआन्दोलन २ का क्रममा तत्कालीन शाही सरकारले पाण्डे लगायतका शीर्ष नेताहरूलाई नजरबन्द र पक्राउ गरेको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Rajendra_Prasad_Pandey",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राजेन्द्र प्रसाद पाण्डे धादिङको राजनीतिमा 'हेभिवेट' र चतुर खेलाडी मानिन्छन्। २०४८ सालदेखि निरन्तरजसो सत्ता र शक्तिको केन्द्रमा रहेका पाण्डे पञ्चायत कालदेखि नै सक्रिय वामपन्थी नेता हुन्। उनले आफ्नो राजनीतिक यात्रामा धादिङ क्षेत्र नं ३ बाट लामो समय प्रतिनिधित्व गरे पनि हाल क्षेत्र नं १ मा केन्द्रित भएका छन्, जसलाई 'वागुवा' प्रवृत्तिको रूपमा पनि हेरिने गरिन्छ। बागमती प्रदेशको मुख्यमन्त्री रहँदा उनले मन्त्रालय फुटाएर १८ जनासम्म मन्त्री बनाएको विषय निकै विवादित बनेको थियो, जसले उनको प्रशासनिक छविमा नकारात्मक असर पारेको छ। यद्यपि, आफ्नो निर्वाचन क्षेत्रमा विकास निर्माणका लागि बजेट पार्न सक्ने र कार्यकर्तामाझ बलियो पकड राख्ने खुबीका कारण उनी चुनावी प्रतिस्पर्धामा सधैं बलियो देखिन्छन्। एमाले विभाजनपछि एकीकृत समाजवादीको वरिष्ठ उपाध्यक्ष रहेका पाण्डे हाल वाम गठबन्धनको बलमा चुनाव जित्ने रणनीतिमा देखिन्छन्।",
+  "overall_approval_rating": 55
+}

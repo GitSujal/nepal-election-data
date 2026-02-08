@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341535,
+  "candidate_name": "ज्ञान बहादुर शाही (ज्ञानेन्द्र शाही)",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य (सांसद)",
+  "candidates_current_position_in_party": "प्रवक्ता तथा प्रमुख सचेतक",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341535.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "जुम्ला",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "ग्लोबल हिरो अवार्डबाट सम्मानित",
+      "date": "२०८२-०४-०२",
+      "details": "न्युयोर्कमा आयोजित एक कार्यक्रममा ज्ञानेन्द्र शाही र कुलमान घिसिङलाई 'ग्लोबल हिरो अवार्ड' बाट सम्मानित गरियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2025/07/1513251",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय सभालाई 'वृद्धाश्रम' भनेपछि विवाद",
+      "date": "२०८१-११-१३",
+      "details": "संसदको बैठकमा राष्ट्रिय सभालाई 'वृद्धाश्रम' को संज्ञा दिएपछि एमाले र माओवादीका सांसदहरूले नियमापत्ति जनाएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2025/02/1444211",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सहकारी ठगी प्रकरणमा संसदीय छानबिनको माग",
+      "date": "२०८१-०३-०४",
+      "details": "सहकारी ठगीको विषयलाई संसदमा कडा रूपमा उठाउँदै शाहीले संसदीय छानबिन समितिको माग गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2024/06/1494511",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राप्रपाको प्रमुख सचेतकमा नियुक्त",
+      "date": "२०७९-१०-१०",
+      "details": "संसदीय दलको बैठकले शाहीलाई राष्ट्रिय प्रजातन्त्र पार्टीको प्रमुख सचेतकको जिम्मेवारी सुम्पिएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/292131",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जुम्लाबाट प्रतिनिधि सभामा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "२२,८१९ मत प्राप्त गर्दै माओवादीकी गोमा गौतमलाई १०,८६० को मतान्तरले पराजित गरी जुम्लाबाट निर्वाचित।",
+      "link_to_source": "https://gorkhapatraonline.com/news/37622",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय प्रजातन्त्र पार्टीमा प्रवेश",
+      "date": "२०७८-१०-०६",
+      "details": "आफ्नो 'हाम्रो नेपाल, हामी नेपाली अभियान' लाई राप्रपामा मिसाउँदै शाही पार्टीको प्रवक्ता र केन्द्रीय सदस्य बने।",
+      "link_to_source": "https://www.ratopati.com/story/222125/gyanendra-shahi-joins-rpp",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "चितवनमा भौतिक आक्रमण",
+      "date": "२०७६-०६-११",
+      "details": "चौबिसकोठीमा आयोजित कार्यक्रमपछि फर्किने क्रममा शाहीमाथि सत्तारुढ दल निकटका कार्यकर्ताहरूले रड र ढुङ्गाले आक्रमण गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2019/09/29/anti-corruption-campaigner-gyanendra-shahi-attacked-in-chitwan",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पर्यटन मन्त्री योगेश भट्टराईसँगको जहाज प्रकरण",
+      "date": "२०७६-०५-२८",
+      "details": "नेपालगन्ज विमानस्थलमा जहाज कुरेर यात्रुलाई सास्ती दिएको भन्दै मन्त्री भट्टराईविरुद्ध शाहीले गरेको प्रतिकार भाइरल भएको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/attack-on-shahi-a-severe-blow-to-freedom-of-expression",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ज्ञानेन्द्र शाही नेपालको राजनीतिमा 'भ्रष्टाचार विरोधी अभियन्ता' का रूपमा चिनिन्छन्। उनले सडक संघर्ष र सामाजिक सञ्जालको प्रयोग मार्फत युवाहरूमाझ लोकप्रियता कमाएका छन्। २०७९ को निर्वाचनमा जुम्ला जस्तो विकट र परम्परागत पार्टीहरूको पकड भएको क्षेत्रबाट भारी मतान्तरले विजयी हुनु उनको राजनीतिक जीवनको ठूलो सफलता हो। यद्यपि, उनको आक्रामक शैली र 'वृद्धाश्रम' जस्ता विवादित अभिव्यक्तिहरूका कारण उनले बारम्बार आलोचना खेप्नुपरेको छ। राजसंस्थाको वकालत गर्ने र संघीयता विरोधी एजेन्डा बोकेका उनी संसदमा भ्रष्टाचारका विषयमा खरो प्रस्तुत हुने गर्दछन्। जुम्लाको स्थानीय विकास र राष्ट्रिय राजनीतिमा भ्रष्टाचारको अन्त्यलाई उनले मुख्य मुद्दा बनाएका छन्।",
+  "overall_approval_rating": 78
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342151,
+  "candidate_name": "ताजिना विष्ट",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_the_Progressive_Democratic_Party_%28Nepal%29.svg/1200px-Flag_of_the_Progressive_Democratic_Party_%28Nepal%29.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342151.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सुनसरीमा महिला उम्मेदवारीको वकालत",
+      "date": "२०८२-१०-२०",
+      "details": "सुनसरीमा महिला उम्मेदवारको न्यून सङ्ख्याबारे गोरखापत्रसँगको कुराकानीमा उनले महिलाहरूको राजनीतिक सहभागिता बढाउनुपर्नेमा जोड दिएकी थिइन्।",
+      "link_to_source": "https://gorkhapatraonline.com/news/122116",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "सुनसरी क्षेत्र नं. २ बाट प्रतिनिधिसभा निर्वाचनमा प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट प्रतिस्पर्धा गर्दा उनी पराजित भइन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "उनले प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट सुनसरी क्षेत्र नं. २ मा आफ्नो उम्मेदवारी दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://gorkhapatraonline.com/news/122116",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ताजिना विष्ट सुनसरी जिल्लाको राजनीतिमा सक्रिय एक महिला पात्र हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा प्रगतिशील लोकतान्त्रिक पार्टीबाट सुनसरी क्षेत्र नं. २ मा उम्मेदवारी दिएकी थिइन्। सुनसरी जस्तो ठूलो र राजनीतिक रूपमा कडा प्रतिस्पर्धा हुने जिल्लामा महिला उम्मेदवारको सङ्ख्या न्यून रहेकै बेला उनले चुनावी मैदानमा उत्रिने हिम्मत देखाएकी थिइन्। यद्यपि, सानो दल र कम बजेटका कारण उनले उल्लेख्य मत प्राप्त गर्न सकिनन् र पराजित भइन्। उनको राजनीतिक यात्रा हालका लागि प्रारम्भिक चरणमा रहेको देखिन्छ र उनी मुख्यतया साना दलको माध्यमबाट स्थानीय र क्षेत्रीय मुद्दाहरू उठाउनमा केन्द्रित छिन्।",
+  "overall_approval_rating": 25
+}

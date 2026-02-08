@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340760,
+  "candidate_name": "बलराम खवास",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nagarik_Unmukti_Party_Logo.png/220px-Nagarik_Unmukti_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता, मोरङ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340760.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "मोरङ निर्वाचन क्षेत्र नम्बर ६ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गर्दा ५०८ मत प्राप्त गरी सातौँ स्थानमा रहँदै पराजित भएका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340760",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनका लागि मनोनयन दर्ता",
+      "date": "२०७९-०७-२३",
+      "details": "नागरिक उन्मुक्ति पार्टीको तर्फबाट मोरङ ६ मा आधिकारिक उम्मेदवारको रूपमा मनोनयन पत्र दर्ता।",
+      "link_to_source": "https://www.youtube.com/watch?v=D-EBeS7y-wI",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१५",
+      "details": "थारु र मधेसी समुदायको हक अधिकारका लागि रेशम चौधरी नेतृत्वको नागरिक उन्मुक्ति पार्टीमा आबद्ध भई सक्रिय राजनीति सुरु।",
+      "link_to_source": "https://techie.com.np/election/candidate/340760",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बलराम खवास मोरङ क्षेत्र नं. ६ बाट २०७९ को प्रतिनिधिसभा निर्वाचनमा नागरिक उन्मुक्ति पार्टीका उम्मेदवार थिए। उनले जम्मा ५०८ मत प्राप्त गरेका थिए, जसले उनको स्थानीय स्तरमा चुनावी पकड निकै कमजोर रहेको देखाउँछ। थारु समुदायको पहिचान र अधिकारको मुद्दा लिएर निर्वाचनमा होमिए पनि उनले उल्लेख्य जनसमर्थन पाउन सकेनन्। स्रोतका अनुसार उनलाई 'वागुवा' (Vaguwa) उम्मेदवारको रूपमा हेरिनुले उनको राजनीतिक अस्थिरता वा स्थानीय स्तरमा दरिलो आधारको कमीलाई संकेत गर्दछ। मोरङ जस्तो ठूलो निर्वाचन क्षेत्रमा डा. शेखर कोइराला जस्ता हेभिवेट नेतासँगको प्रतिस्पर्धामा उनी निकै पछि परेका थिए। उनको राजनीतिक भविष्य मुख्यतया पार्टीको थारु समुदाय भित्रको संगठन विस्तारमा निर्भर देखिन्छ।",
+  "overall_approval_rating": 32
+}

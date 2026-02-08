@@ -1,0 +1,103 @@
+{
+  "candidate_id": 342479,
+  "candidate_name": "खडग वहादुर विश्वकर्मा",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/CPN-M_Hammer_and_Sickle.svg/200px-CPN-M_Hammer_and_Sickle.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "प्रवक्ता तथा स्थायी समिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342479.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कालिकोट",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "कालिकोट",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "निर्वाचन बहिष्कार",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कालिकोट",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "निर्वाचन बहिष्कार",
+      "party": "नेपाल कम्युनिस्ट पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कालिकोट",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "कालिकोटबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएको, यद्यपि उहाँको पार्टीले आधिकारिक रूपमा निर्वाचन बहिष्कार गर्ने नीति लिएको थियो।",
+      "link_to_source": "https://nagariknetwork.com/news/51352/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "चन्दा असुली र आपराधिक लाभ मुद्दामा गिरफ्तारी",
+      "date": "२०७५-०४-२२",
+      "details": "विभिन्न व्यवसायीहरूबाट ७ करोड रुपैयाँभन्दा बढी चन्दा जबरजस्ती असुली गरेको आरोपमा काठमाडौंबाट पक्राउ गरिएको।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/08/700465",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एनसेल टावर विष्फोट र संगठित अपराध मुद्दा",
+      "date": "२०७५-०५-०४",
+      "details": "काभ्रे र नुवाकोट लगायतका विभिन्न जिल्लाहरूमा भएका विष्फोट र हिंसात्मक गतिविधिमा संलग्न भएको आरोपमा पटक-पटक हिरासतमा राखिएको।",
+      "link_to_source": "https://nagariknetwork.com/news/51352/",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पर्यटन तथा नागरिक उड्डयन मन्त्रीमा नियुक्ति",
+      "date": "२०६८-०१-२१",
+      "details": "झलनाथ खनालको नेतृत्वमा रहेको सरकारमा पर्यटन मन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Khadga_Bahadur_Bishwakarma",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महिला, बालबालिका तथा समाज कल्याण मन्त्री",
+      "date": "२०६५-०५-१५",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' नेतृत्वको पहिलो गणतान्त्रिक सरकारमा मन्त्रीको रूपमा नियुक्त।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Khadga_Bahadur_Bishwakarma",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभा निर्वाचनमा विजय",
+      "date": "२०६४-१२-२८",
+      "details": "कालिकोट क्षेत्र नं १ बाट २७ हजार ६ सय २९ मत प्राप्त गरी भारी अन्तरले विजयी भएको।",
+      "link_to_source": "https://nepalarchives.com/content/kalikot-1-2008-constituent-assembly-election-results/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सशस्त्र जनयुद्धमा नेतृत्वदायी भूमिका",
+      "date": "२०५२-११-०१",
+      "details": "१० वर्षे माओवादी जनयुद्धका क्रममा कर्णाली क्षेत्रको कमान्ड सम्हाल्दै भूमिगत राजनीतिमा सक्रिय रहेको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Khadga_Bahadur_Bishwakarma",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खडग बहादुर विश्वकर्मा 'प्रकाण्ड' नेपाली राजनीतिको एक प्रभावशाली र विवादास्पद पात्र हुन्। कर्णालीको कालिकोटमा बलियो जनाधार भएका उनले २०६४ को निर्वाचनमा प्रभावशाली जित हासिल गरे पनि पछिल्ला वर्षहरूमा संसदीय व्यवस्थाप्रति असहमति जनाउँदै निर्वाचन बहिष्कारको बाटो रोजेका थिए। विप्लव नेतृत्वको नेकपाको प्रवक्ताका रूपमा उनी हिंसात्मक गतिविधि र जबरजस्ती चन्दा असुलीको आरोपमा पटक-पटक पक्राउ परेका छन्, जसले उनको छविमा नकारात्मक असर पारेको छ। दलित समुदायबाट राष्ट्रिय राजनीतिको उच्च तहमा पुगेका उनले पछिल्लो समय सरकारसँग शान्तिपूर्ण वार्तामार्फत मूलधारको राजनीतिमा फर्कने प्रयास गरेका छन्। कालिकोटमा उनको व्यक्तिगत प्रभाव कायमै रहे तापनि अस्थिर राजनीतिक अडान र चन्दा काण्डहरूका कारण उनीमाथिको जनविश्वासमा ह्रास आएको देखिन्छ।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342670,
+  "candidate_name": "अदित्य आचार्य",
+  "candidate_party": "राष्ट्र निर्माण दल नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_Water_Bottle.png/220px-Election_Symbol_Water_Bottle.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा अटोमोबाइल इन्जिनियर",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / युवा नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342670.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्र निर्माण दल नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि राष्ट्र निर्माण दल नेपालको तर्फबाट प्रत्यक्ष उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/aditya-acharya/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वैकल्पिक राजनीतिक यात्राको सुरुवात",
+      "date": "२०७८-०३-१५",
+      "details": "सुशासन र प्रविधिमैत्री राजनीतिको एजेन्डासहित राष्ट्र निर्माण दल नेपालमा आबद्ध भई सक्रिय राजनीति सुरु गरेका हुन्।",
+      "link_to_source": "https://news24nepal.com/2021/02/12/589412",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अटोमोबाइल इन्जिनियरिङमा व्यावसायिक दक्षता",
+      "date": "२०७७-१०-१०",
+      "details": "त्रिभुवन विश्वविद्यालयबाट स्नातक पुरा गरी विद्युतीय सवारीसाधन (EV) प्रविधिको क्षेत्रमा व्यावसायिक अनुभव हासिल गरेका छन्।",
+      "link_to_source": "https://sajilopatrika.com/aditya-acharya/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अदित्य आचार्य सुनसरी क्षेत्र नम्बर २ का एक युवा र प्रविधिप्रेमी राजनीतिक व्यक्तित्व हुन्। अटोमोबाइल इन्जिनियरिङ पृष्ठभूमि भएका आचार्यले राजनीतिलाई सेवा र विकासको माध्यम बनाउने उद्देश्यका साथ 'राष्ट्र निर्माण दल नेपाल' मार्फत आफ्नो यात्रा सुरु गरेका छन्। २०७९ को निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न नसके तापनि युवा पुस्तामाझ वैकल्पिक राजनीतिको एजेन्डा स्थापित गर्न खोजेको देखिन्छ। विशेषगरी विद्युतीय सवारी र आधुनिक पूर्वाधार विकासमा उनको प्राविधिक दख्खल छ। उनलाई स्थानीय स्तरमा एक निष्कलंक र शिक्षित युवा नेताका रूपमा हेरिन्छ, यद्यपि ठूला राजनीतिक दलहरूको वर्चस्व रहेको सुनसरीमा आफ्नो सांगठनिक आधार बलियो बनाउन उनलाई चुनौती देखिन्छ।",
+  "overall_approval_rating": 62
+}

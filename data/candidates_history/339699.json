@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339699,
+  "candidate_name": "दिलिप धिमाल",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://logowik.com/content/uploads/images/mongol-national-organisation9649.logowik.com.webp",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "झापा जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339699.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी र पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "झापा क्षेत्र नं. ४ बाट प्रतिनिधि सभा सदस्यका लागि मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिएका धिमालले ४४५ मत प्राप्त गरी पराजित भए ।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/jhapa-4?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल पहिचान र मूलवासी एजेन्डाको वकालत",
+      "date": "२०७५-०१-०१",
+      "details": "धिमालले झापा क्षेत्रमा मंगोल नेशनल अर्गनाइजेसनको 'मूलवासी' र 'मंगोल' पहिचानको राजनीतिक एजेन्डालाई स्थापित गर्न सक्रिय भूमिका खेल्दै आएका छन् ।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Mongol_National_Organisation",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हिन्दू चाडपर्व बहिष्कार सम्बन्धी विवाद",
+      "date": "२०७८-०६-२५",
+      "details": "धिमाल आबद्ध पार्टी मंगोल नेशनल अर्गनाइजेसनले दशैं लगायतका हिन्दू चाडपर्वहरू 'मंगोल'हरूको नभएको भन्दै बहिष्कार गर्ने विवादित नीति अवलम्बन गर्दै आएको छ ।",
+      "link_to_source": "https://www.reddit.com/r/Nepal/comments/8w7046/mongol_national_organization/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "दिलिप धिमाल झापा जिल्लामा मंगोल नेशनल अर्गनाइजेसन (MNO) का एक सक्रिय कार्यकर्ता र स्थानीय नेता हुन् । उनले २०७९ को आम निर्वाचनमा झापा क्षेत्र नं. ४ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरे पनि उल्लेख्य जनमत प्राप्त गर्न सकेनन्, जसले उनको चुनावी पकड कमजोर रहेको देखाउँछ । उनको राजनीति मुख्यतया 'मंगोल' र 'मूलवासी' पहिचानमा केन्द्रित छ, जुन एउटा विशिष्ट जातीय समूहभित्र मात्र सीमित छ । उनले प्रतिनिधित्व गर्ने पार्टीको कट्टरपन्थी जातीय र धार्मिक अडानका कारण मूलधारको राजनीतिमा उनको प्रभाव न्यून देखिन्छ । झापामा धिमाल समुदायको उपस्थिति रहे पनि चुनावी परिणामले उनलाई समुदायको साझा नेताको रूपमा स्थापित गर्न कठिन रहेको संकेत गर्दछ ।",
+  "overall_approval_rating": 42
+}

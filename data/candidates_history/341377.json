@@ -1,0 +1,79 @@
+{
+  "candidate_id": 341377,
+  "candidate_name": "सागर ढकाल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341377.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डडेलधुरा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०८२/८३ (प्रस्तावित)",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "गुल्मी-१ बाट निर्वाचन लड्ने घोषणा",
+      "date": "२०८२-१०-०६",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीका नेता सागर ढकालले आगामी निर्वाचनका लागि गुल्मी-१ बाट आफ्नो उम्मेदवारी घोषणा गरेका छन्। उनले यसलाई 'गुल्मी-गुजरात मोडेल' को रूपमा विकास गर्ने एजेन्डा अघि सारेका छन्।",
+      "link_to_source": "https://www.dcnepal.com/2026/01/534164/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०८०-०३-१७",
+      "details": "स्वतन्त्र राजनीतिबाट उदाएका ढकालले संगठनात्मक शक्तिको आवश्यकता महसुस गर्दै रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/407223/2024/1/28/sagar-dhakal",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "डडेलधुरा निर्वाचनमा दोस्रो स्थान",
+      "date": "२०७९-०८-०४",
+      "details": "प्रधानमन्त्री शेरबहादुर देउवाविरुद्ध डडेलधुरा-१ बाट स्वतन्त्र उम्मेदवारी दिएका ढकालले १३,०४२ मत प्राप्त गरी ऐतिहासिक दोस्रो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2022/11/23/prime-minister-sher-bahadur-deuba-re-elected-from-dadeldhura",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तनको आलोचना (वगुवा)",
+      "date": "२०८२-१०-०९",
+      "details": "डडेलधुरामा १३ हजार मत दिएका मतदातालाई छोडेर आफ्नै गृह जिल्ला गुल्मी फर्केकोमा उनलाई 'वगुवा' र अवसरवादी उम्मेदवारको आरोप लागेको छ।",
+      "link_to_source": "https://www.setopati.com/politics/320875",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अक्सफोर्ड विश्वविद्यालयबाट स्नातकोत्तर",
+      "date": "२०७६-०२-१५",
+      "details": "बेलायतको प्रतिष्ठित अक्सफोर्ड विश्वविद्यालयबाट इन्जिनियरिङमा स्नातकोत्तर गरेका ढकालले आफ्नो शिक्षालाई राजनीतिक पूँजीको रूपमा प्रयोग गर्दै आएका छन्।",
+      "link_to_source": "https://kumarbbaniya.com.np/sagar-dhakal-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "साझा सवालमा देउवासँगको भिडन्त",
+      "date": "२०७४-०३-१८",
+      "details": "बीबीसी साझा सवालमा तत्कालीन प्रधानमन्त्री देउवालाई सुशासनबारे प्रश्न सोधेपछि देउवाले 'बढी नबोल' भन्दै हप्काएका थिए, जसले ढकाललाई रातारात चर्चित बनायो।",
+      "link_to_source": "https://www.youtube.com/watch?v=NnUfX7Dq8uY",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सागर ढकाल नेपालको राजनीतिमा 'युवा र बौद्धिक' छविका कारण परिचित छन्। २०७९ को निर्वाचनमा डडेलधुरामा प्रधानमन्त्री शेरबहादुर देउवालाई कडा टक्कर दिएर उनले राष्ट्रिय स्तरमा आफ्नो प्रभाव प्रमाणित गरे। यद्यपि, डडेलधुराको बलियो जनमतलाई त्यागेर गुल्मी-१ मा सर्नुले उनलाई 'वगुवा' (अस्थिर) उम्मेदवारको ट्याग भिराएको छ, जसले गर्दा डडेलधुराका समर्थकहरूमा निराशा देखिएको छ। राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा आबद्ध भएपछि उनले संस्थागत आधार त पाएका छन्, तर पुरानो क्षेत्र छोड्दा स्थानीय मतदाताको विश्वास जित्न चुनौतीपूर्ण हुन सक्छ। उनको मुख्य बल अक्सफोर्डको शिक्षा र भ्रष्टाचार विरोधी नारा हुन्, तर राजनीतिक स्थिरता र एउटै क्षेत्रमा टिकिरहने धैर्यको अभाव उनको कमजोरी देखिन्छ।",
+  "overall_approval_rating": 72
+}

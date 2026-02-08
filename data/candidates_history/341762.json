@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341762,
+  "candidate_name": "सागर नाथ रेग्मी",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Janamukti_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341762.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तेह्रथुम",
+      "constituency": "तेह्रथुम १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तेह्रथुम",
+      "constituency": "तेह्रथुम १",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को निर्वाचनमा समानुपातिक उम्मेदवार",
+      "date": "२०७९-०६-०३",
+      "details": "सागर नाथ रेग्मीलाई राष्ट्रिय जनमुक्ति पार्टीले कोशी प्रदेश सभाका लागि खस आर्य समूहबाट समानुपातिक बन्दसूचीमा समावेश गरेको थियो।",
+      "link_to_source": "https://election.gov.np/admin/public/storage/political_party/2022-10-23/PR_List_2079.pdf",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "तेह्रथुम निर्वाचन क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गर्दा ९७ मत प्राप्त गरी उनी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विस्तार र स्थानीय सक्रियता",
+      "date": "२०६४-१२-१७",
+      "details": "रेग्मी लामो समयदेखि तेह्रथुम जिल्लामा राष्ट्रिय जनमुक्ति पार्टीको सांगठनिक विस्तारमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://janakumari.blogspot.com/2008/03/march-2008.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सागर नाथ रेग्मी तेह्रथुम जिल्लाका एक निष्ठावान तर कम चुनावी प्रभाव भएका राजनीतिकर्मी हुन्। उनले विगतका निर्वाचनहरूमा राष्ट्रिय जनमुक्ति पार्टीको तर्फबाट निरन्तर उम्मेदवारी दिँदै आएका छन्। स्रोतले उनलाई 'वगुवा' (Vaguwa) उम्मेदवारको रूपमा संकेत गरे पनि उनी तेह्रथुम जिल्लाकै सोल्मा क्षेत्रका स्थानीय बासिन्दा हुन्। २०७४ मा प्रत्यक्षतर्फ लडेका रेग्मी २०७९ मा समानुपातिक सूचीमा समेत देखा परेका थिए, जसले उनको चुनावी रणनीतिमा अस्थिरता देखाउँछ। उनीमाथि कुनै भ्रष्टाचार वा काण्डको आरोप छैन, तर ठूला दलहरूको प्रभावका कारण उनले चुनावी प्रतिस्पर्धामा उल्लेख्य मत प्राप्त गर्न सकेका छैनन्।",
+  "overall_approval_rating": 35
+}

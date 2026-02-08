@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342643,
+  "candidate_name": "नागेन्द्र चौधरी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342643.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०८१-०५-१०",
+      "details": "नागरिक उन्मुक्ति पार्टीसँगको आबद्धता तोडेर नागेन्द्र चौधरीले सर्लाही जिल्लाबाट स्वतन्त्र उम्मेदवारको रूपमा आफ्नो मनोनयन दर्ता गराएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMR6uw2h7ZswVzsAC8mcxutOG12DV3XSDrY0k3-9eFq6ZPvcHdJ1tmidP8Bf_GqxbdWODUYZU2MY0pVxUtr1RB0LN7N9gK-R7-2NhJ8018TkKK6lQWlKx_3ZAN8ZoWymH_50nA0C0bElonTMHHjFZUa5NJJgcjqXtUenteslrEJvoDOFO1glcZwl_HYPPCa8d",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (भगुवा प्रवृत्ति)",
+      "date": "२०८०-१२-१५",
+      "details": "अघिल्लो निर्वाचनमा रौतहटबाट प्रतिस्पर्धा गरेका चौधरीले यसपटक सर्लाही जिल्लालाई आफ्नो चुनावी क्षेत्र रोजेका छन्, जसलाई स्थानीय राजनीतिमा 'भगुवा' उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGswX8_afoDOnYtcGbfvkcAbrNlGcc3DA8wLfoBxZY0-ZKeB6gbc8ZkhmLndcG82ZWGQ3srxxMTeCygno32UFHhj0xnZz2oHKWjcF_Hs1kfUpEHFZ4vOdkPoyvaAM7CyxdAePGuuoakqJOUlqgtx2CVxoU4XJ_fU5znC2LJbKx823rFDhJawjB-JC4HTIVpqyJVLbZTNLEbVVYNUShvSlZ8vzTU",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट क्षेत्र नं. ३ बाट नागरिक उन्मुक्ति पार्टीको उम्मेदवार बनेका चौधरी १७२३ मत प्राप्त गर्दै चौथो स्थानमा रहेर पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWUwBS7GJE5tuanpfHPqg68Qwpsb56ekadNQFUw_Cz1-irhCnFwGQpAC17AErwd-3uG7h3pJp8V4YfylKkh01UVUCqquUDW5MPduNKu-GrNUyTvNgxJjb4KeDYo17rSkBn8PxDNyYRjSIyBkTJAX7WU8XZfHVsbY5yGP-fYSx0Q2JP99JUJlXZbQg=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "नागेन्द्र चौधरी मधेस प्रदेशको राजनीतिमा एक अस्थिर उम्मेदवारको रूपमा चिनिन्छन्। २०७९ को निर्वाचनमा रौतहट निर्वाचन क्षेत्र नं. ३ बाट नागरिक उन्मुक्ति पार्टीको तर्फबाट उम्मेदवारी दिएका उनले मात्र २.४३ प्रतिशत मत प्राप्त गरेका थिए। आफ्नो पूर्व जिल्ला रौतहटमा कमजोर प्रदर्शन गरेपछि उनी हाल सर्लाहीमा सरेका छन्, जसले गर्दा उनलाई स्थानीय स्तरमा 'भगुवा' वा 'पर्यटक उम्मेदवार' को ट्याग लागेको छ। दल परिवर्तन र जिल्ला परिवर्तन गर्ने उनको प्रवृत्तिले उनलाई राजनीतिक रूपमा अवसरवादी देखाएको छ। उनले कुनै ठोस नीति वा एजेन्डा भन्दा पनि आफ्नो व्यक्तिगत पहुँचका आधारमा राजनीति गरिरहेको देखिन्छ। सर्लाहीका स्थानीय मतदाताहरूमाझ उनको पकड कमजोर रहेको र बाहिरबाट आएको उम्मेदवार भएकाले उनलाई यसपटकको निर्वाचनमा पनि ठूलो चुनौती रहेको विश्लेषण गर्न सकिन्छ। उनको विगतमा कुनै ठूला भ्रष्टाचारका काण्डहरू नदेखिए पनि राजनीतिक अस्थिरता नै उनको मुख्य कमजोरी हो।",
+  "overall_approval_rating": 30
+}

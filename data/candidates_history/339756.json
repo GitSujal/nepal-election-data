@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339756,
+  "candidate_name": "प्रेम वहादुर थापा",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339756.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य (उपनिर्वाचन)",
+      "district": "तनहुँ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा आबद्ध",
+      "date": "२०८०-०४-१५",
+      "details": "मंगोल नेशनल अर्गनाइजेसन परित्याग गरी प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरेर धनकुटा जिल्लाको राजनीतिमा सक्रिय भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/339756",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "तनहुँ-१ उपनिर्वाचनमा लज्जास्पद पराजय",
+      "date": "२०८०-०१-१०",
+      "details": "तनहुँ निर्वाचन क्षेत्र नं. १ को उपनिर्वाचनमा मंगोल नेशनल अर्गनाइजेसनबाट उम्मेदवार भई मात्र १६६ मत प्राप्त गरे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-Tanahun?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को आम निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "प्रतिनिधि सभा निर्वाचनमा तनहुँ निर्वाचन क्षेत्र नं. १ बाट ३६० मत प्राप्त गर्दै पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-Tanahun?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०५-१०",
+      "details": "लामो समय मंगोल नेशनल अर्गनाइजेसनमा रहेर जातीय र क्षेत्रीय पहिचानको राजनीतिमा सक्रिय रहेका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/candidate/339756",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रेम बहादुर थापा नेपाली राजनीतिमा एक अस्थिर र 'वागुवा' (पर्यटक) उम्मेदवारका रूपमा देखिएका छन्। उनले २०७९ को आम निर्वाचन र २०८० को उपनिर्वाचनमा तनहुँ निर्वाचन क्षेत्र नं. १ बाट मंगोल नेशनल अर्गनाइजेसन (MNO) को तर्फबाट प्रतिस्पर्धा गरे पनि दुवै पटक अत्यन्तै न्यून मत (३६० र १६६) प्राप्त गरे। हाल उनी आफ्नो पुरानो भूगोल र वैचारिक जग त्यागेर प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरी धनकुटाबाट चुनावी तयारीमा लागेका छन्। एक जिल्लाबाट अर्को जिल्लामा उम्मेदवारी सार्ने र सिद्धान्त नमिल्ने पार्टीहरू परिवर्तन गर्ने उनको प्रवृत्तिले मतदातामाझ उनको विश्वसनीयता कमजोर बनाएको छ। उनको चुनावी इतिहासले उनलाई एक गम्भीर प्रतिस्पर्धी भन्दा पनि चुनावी चर्चाका लागि उम्मेदवारी दिने पात्रको रूपमा चित्रण गर्दछ।",
+  "overall_approval_rating": 15
+}

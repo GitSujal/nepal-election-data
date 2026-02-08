@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341078,
+  "candidate_name": "अनिश अंसारी",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_the_Rashtriya_Mukti_Party.png/220px-Flag_of_the_Rashtriya_Mukti_Party.png",
+  "candidates_current_position": "पूर्व मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341078.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "सद्भावना पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय मुक्ति पार्टी नेपालमा प्रवेश",
+      "date": "२०८०-०९-१५",
+      "details": "जनमत पार्टी छाडेर अनिश अंसारी राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्ध भएका छन्। उनले मधेशको अधिकारका लागि नयाँ शक्तिको आवश्यकता रहेको बताउँदै पार्टी परिवर्तन गरेका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xCLCm1DAis14QGJwh6dOwlRuQWw5orXN_MyR5FHH4NDCJTOKYp9S4U5K0kXLKAL2Ahh907Go1UCvRLw7dWifDiSJ3wGJc6UH0ShlzUZKpuA6xzAOqHJWLR0m8AClQUGsyGrNvx7bkcqXO5N42crkvXUuieTWDqLaU_qYxn98OEXPwA==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी निर्वाचन क्षेत्र नम्बर ३ बाट जनमत पार्टीको उम्मेदवारका रूपमा उनले १५,११४ मत प्राप्त गरी तेस्रो स्थान हासिल गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgErxEFR2GiQ9-BInHvVk4cweb7u0ySV3iKj15ofEWPMEKp898di8Bs7GDev3enStWsRHG1UpL9tzcXR0V6RHkua5lbL27C7IQugMTr2EGv0fxoKUDOgwI8wL9PPIkhCBd21hIkLWEG6aojPMTm5Bs0w3quhN7nVODh84N5EOb35YR",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनमत पार्टीमा प्रवेश",
+      "date": "२०७८-११-२०",
+      "details": "लामो समय पुरानो मधेशवादी राजनीतिमा सक्रिय रहेका अंसारी सीके राउत नेतृत्वको जनमत पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtUNnPUAe55Fr8206Od7bvz6r9vivVeaFgHs_nfDAjXTqZWUZa_OQrkQIFUKp622lHKRjsBaq8Nh1viYtRUnA6mG7r0ShB4UyjnItKaNs-FXGt4fTU7pMeVy9qR2nVxmwUsENFvy1OqQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम तथा यातायात व्यवस्था मन्त्रीको जिम्मेवारी",
+      "date": "२०५८-०४-१०",
+      "details": "नेपाल सद्भावना पार्टीको कोटाबाट उनी तत्कालीन सरकारमा श्रम तथा यातायात व्यवस्था मन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNH3bc9Fy1qbIt5eYLnHrmFGitIYmU02WZZ6A6zoJddfllHoq4U7R37JM_uiZFWWV3AOWX_okFdPPPnRybydY5MTwS3oKoOAZcilojQN7-uifziDtKvqmsEMMxB3MZ_XErUnRCalPa_U-M1FLkpC8zsA==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचन २०५६ मा विजयी",
+      "date": "२०५६-०२-०३",
+      "details": "सप्तरी क्षेत्र नं ३ बाट नेपाल सद्भावना पार्टीका उम्मेदवारका रूपमा १२,७४३ मत प्राप्त गरी उनी पहिलोपटक संसदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNH3bc9Fy1qbIt5eYLnHrmFGitIYmU02WZZ6A6zoJddfllHoq4U7R37JM_uiZFWWV3AOWX_okFdPPPnRybydY5MTwS3oKoOAZcilojQN7-uifziDtKvqmsEMMxB3MZ_XErUnRCalPa_U-M1FLkpC8zsA==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अनिश अंसारी सप्तरीको राजनीतिमा एक पुराना र अनुभवी नेता हुन्। उनी २०५६ सालमा नेपाल सद्भावना पार्टीबाट निर्वाचित भई मन्त्रीसमेत बनेका थिए। लामो समय मधेश केन्द्रित राजनीतिमा सक्रिय रहेका अंसारीको राजनीतिक यात्रा अस्थिर देखिन्छ। उनले नेपाल सद्भावना पार्टीबाट राजनीतिक यात्रा सुरु गरे पनि पछि तराई मधेश लोकतान्त्रिक पार्टी, जनमत पार्टी हुँदै हाल राष्ट्रिय मुक्ति पार्टी नेपालमा पुगेका छन्। यसरी बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण उनलाई 'वगुवा' उम्मेदवारको रूपमा चिनिन्छ, जसले मतदातामाझ उनको विश्वसनीयतामा ह्रास ल्याएको छ। २०७९ को निर्वाचनमा जनमत पार्टीबाट सम्मानजनक मत पाए पनि जित निकाल्न नसक्नुले उनको लोकप्रियता खस्कँदो रहेको संकेत गर्छ। हाल नयाँ पार्टीबाट पुन: चुनावी मैदानमा होमिनुले उनको सत्ता र शक्तिको खोजीलाई निरन्तरता दिएको देखिन्छ।",
+  "overall_approval_rating": 45
+}

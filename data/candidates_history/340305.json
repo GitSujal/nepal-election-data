@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340305,
+  "candidate_name": "सुध राम माझी",
+  "candidate_party": "जनमत पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Janamat_Party_Logo.png/220px-Janamat_Party_Logo.png",
+  "candidates_current_position": "प्रदेश सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340305.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "निर्वाचन क्षेत्र ५ (ख)",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा मोरङ ५ (ख) बाट ५,५०१ मत प्राप्त गरी तेस्रो स्थानमा रहेका थिए। उनलाई नेपाली कांग्रेसका अमृत कुमार अर्यालले पराजित गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultDetail.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यका लागि मनोनयन",
+      "date": "२०७९-०६-२३",
+      "details": "जनमत पार्टीको तर्फबाट मोरङ निर्वाचन क्षेत्र नं. ५ (ख) का लागि आधिकारिक रूपमा उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनमत पार्टीमा आबद्धता र संगठन विस्तार",
+      "date": "२०७८-१०-१५",
+      "details": "सीके राउत नेतृत्वको जनमत पार्टीमा आबद्ध भई मोरङ जिल्लामा माझी र पिछडिएका समुदायलाई संगठित गर्ने कार्यमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://janamatparty.com.np/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुध राम माझी मोरङ जिल्लामा जनमत पार्टीका उदाउँदा स्थानीय नेता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा मोरङ ५ (ख) बाट उम्मेदवारी दिँदै उनले सम्मानजनक ५,५०१ मत प्राप्त गरेका थिए, जसले उक्त क्षेत्रमा जनमत पार्टीको बलियो उपस्थितिलाई संकेत गर्दछ। उनी विशेष गरी माझी र दलित समुदायको हकहितका लागि वकालत गर्ने नेताको रूपमा चिनिन्छन्। उनको राजनीतिक करियर अपेक्षाकृत नयाँ भएकाले हालसम्म कुनै पनि भ्रष्टाचार वा ठूला विवादहरूमा उनको नाम जोडिएको छैन। यद्यपि निर्वाचनमा पराजित भए तापनि स्थानीय स्तरमा उनको लोकप्रियता र सांगठनिक पकड बढ्दो क्रममा छ। उनको मुख्य राजनीतिक चुनौती स्थापित दलहरूका प्रभावशाली नेताहरूसँग प्रतिस्पर्धा गर्नु र आफ्नो समुदायको भोटलाई जितमा बदल्नु रहेको देखिन्छ।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341081,
+  "candidate_name": "इन्दिरा थापा",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rastriya_Mukti_Party_Nepal_Logo.png/200px-Rastriya_Mukti_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341081.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ्ग",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "काठमाडौँबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी",
+      "date": "२०८१-१०-२०",
+      "details": "इन्दिरा थापाले मोरङ छाडेर काठमाडौँबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएकी छिन्। उनी राष्ट्रिय मुक्ति पार्टी नेपालको तर्फबाट चुनावी मैदानमा उत्रिएकी हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhEsl6xhi9Pb8ombQcqCvbe2_SLxHuuygKBgRsjEfcbVNL9KXqHIQAC3Y2SZErQKk3uF16qTsuxOL0KjuIHBdZhk7NBz7oUuqdnSDp31gjKBd-tAH3tWpPb6JHw44URk9Gh-4dh6Vj5cIb8BiXioXlKVkkp50PsS7OiIK_nPZl6c8zJW0rStjfzRoJRNoTHluBlJz92RaVxkJE3mVZvP2PIKIvdThfNf_3fbwsHBb1NQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्धता",
+      "date": "२०८१-०५-१०",
+      "details": "राजेन्द्र महतो नेतृत्वको राष्ट्रिय मुक्ति पार्टी नेपालमा उनी आबद्ध भएकी हुन्। यसअघि स्वतन्त्र राजनीतिमा रहेकी उनी नयाँ वैकल्पिक शक्ति निर्माणको अभियानमा सहभागी भएको दाबी गर्छिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5d_t20YeH7_nLNfuQzKV9Duu_don_EM-To0d-XnlYY0cXKwKLrhhu3yF2SB9dndzepu6ens3phLtYeDKuanjAL8H8d6uqIq6Gswfd_FYdtozID4Iwd3v3DZ65t9_tl6_goq6T8qCqT4Mo7iNpE1576ck=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा न्यून मतसहित पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारी दिएकी थापाले मात्र ६१ मत (कुल सदर मतको करिब ०.०७%) प्राप्त गरी १३औँ स्थानमा रहेकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ3YCcC4p-gYuUDNhHj89eCt4tNk-utRZu0sSpQnQl7TQJsp4Aj8UuL5io4YDmwkERgi0aEVE7E2aSYPOMjI7M-5hb3kBOVxae9KnYsvtI4W6dVDXhf_wAsBHlhrI55LxQ1QOnbuLBEgAMCE1yjej4-bZZZ8aNiQLhJkk=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "इन्दिरा थापा एक राजनीतिक रूपमा अस्थिर र भौगोलिक क्षेत्र परिवर्तन गर्ने (वगुवा) उम्मेदवारको रूपमा देखिन्छिन्। २०७९ को निर्वाचनमा मोरङ क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवार बन्दा उनले प्राप्त गरेको मात्र ६१ मतले उनको स्थानीय जनमत निकै कमजोर रहेको पुष्टि गर्दछ। अहिले मोरङ छाडेर काठमाडौँमा राजेन्द्र महतोको नयाँ दल राष्ट्रिय मुक्ति पार्टी नेपालबाट उम्मेदवार बन्नुले उनको राजनीतिक अवसरवादको सङ्केत गर्छ। निर्वाचन क्षेत्र परिवर्तन र कमजोर चुनावी इतिहासका कारण काठमाडौँका सचेत मतदाताहरूबीच पकड जमाउन उनलाई निकै कठिन हुने देखिन्छ। उनको यो कदमलाई राजनीतिक स्थायित्वभन्दा पनि नयाँ प्लेटफर्म खोज्ने प्रयासको रूपमा हेरिएको छ।",
+  "overall_approval_rating": 15
+}

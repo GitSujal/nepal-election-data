@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341546,
+  "candidate_name": "डा जिवछ ठाकुर",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Shram_Sanskriti_Party_Logo_Nepal.jpg",
+  "candidates_current_position": "वरिष्ठ पशु चिकित्सक तथा राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341546.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "डा. ठाकुरले सिराहा क्षेत्र नम्बर १ बाट श्रम संस्कृति पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "धरानका मेयर हर्क साम्पाङको श्रम र संस्कृतिको अभियानबाट प्रभावित भई उनी यो पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://khabarhub.com/2025/11/02/678912/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "३६ भन्दा बढी पुस्तकको लेखन र प्रकाशन",
+      "date": "२०७६-१२-०१",
+      "details": "पशु स्वास्थ्य र पशुपालनका क्षेत्रमा उनले ३६ भन्दा बढी पाठ्यपुस्तक र उपयोगी सामग्रीहरू प्रकाशित गरेका छन्।",
+      "link_to_source": "https://www.researchgate.net/publication/331652349_Jibachha's_Textbook_of_Animal_health_Volume-II",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वरिष्ठ पशु चिकित्सकका रूपमा सेवा",
+      "date": "२०७०-०५-१०",
+      "details": "उनले लामो समयदेखि सिराहा र आसपासका क्षेत्रका किसानहरूका पशुको उपचार र सल्लाहकारका रूपमा काम गर्दै आएका छन्।",
+      "link_to_source": "https://www.heritagebooks.com.np/authors/jibachha-veterinary-publishing/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा जिवछ ठाकुर सिराहा जिल्लाका एक बौद्धिक र व्यवसायिक व्यक्तिको रूपमा चिनिन्छन्। पेशाले वरिष्ठ पशु चिकित्सक रहेका उनी नेपालमा पशु स्वास्थ्य सम्बन्धी धेरै पुस्तक लेख्ने विरलै लेखकहरूमध्ये एक हुन्। २०७९ सालको प्रतिनिधिसभा निर्वाचनमा सिराहा क्षेत्र नम्बर १ बाट श्रम संस्कृति पार्टीको तर्फबाट चुनाव लडेर उनले आफ्नो राजनीतिक यात्रा सुरु गरे। यद्यपि उनले निर्वाचनमा विजय हासिल गर्न सकेनन्, तर उनको स्वच्छ छबि र किसानहरूसँगको प्रत्यक्ष सम्बन्धले उनलाई एक उदयमान नेताको रूपमा स्थापित गरेको छ। उनले परम्परागत राजनीतिक दलहरू भन्दा फरक 'श्रम र संस्कृति' को मुद्दा उठाएका छन्, जसले सिराहाका युवा र शिक्षित वर्गमा केही प्रभाव पारेको देखिन्छ। उनको विरुद्धमा हालसम्म कुनै पनि भ्रष्टाचार वा नैतिक विवादहरू देखिएका छैनन्, जसले उनको लोकप्रियतालाई बलियो बनाएको छ।",
+  "overall_approval_rating": 78
+}

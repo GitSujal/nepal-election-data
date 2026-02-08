@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339466,
+  "candidate_name": "धर्म लक्ष्मी दुवाल (लघु)",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nepal_Workers_and_Peasants_Party_logo.png",
+  "candidates_current_position": "पूर्व जनप्रतिनिधि",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339466.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "जनप्रतिनिधि (स्थानीय/समानुपातिक)",
+      "district": "भक्तपुर",
+      "constituency": "N/A",
+      "result": "विजयी",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट झापा निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता।",
+      "link_to_source": "https://nagariknetwork.com/news/134442-1675510655/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "५ वर्षे जनप्रतिनिधि कार्यकाल",
+      "date": "२०७४-०३-१४",
+      "details": "२०७४ को निर्वाचन पश्चात पाँच वर्षसम्म जनप्रतिनिधिको रूपमा नीति निर्माण र स्थानीय जनहितका सवालमा सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://sajilopatrika.com/dharma-laxmi-duwal-lagu/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रमिक र किसानको हकहितमा वकालत",
+      "date": "२०८०-०१-०१",
+      "details": "नेमकिपाको वैचारिक लाइनमा रहेर वैदेशिक हस्तक्षेपको विरोध र राष्ट्रिय स्वाधीनताको पक्षमा निरन्तर आवाज बुलन्द गर्दै आएको।",
+      "link_to_source": "https://sajilopatrika.com/dharma-laxmi-duwal-lagu/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "धर्म लक्ष्मी दुवाल (लघु) नेपाल मजदुर किसान पार्टीकी एक वैचारिक र निष्ठावान नेतृ हुन्। भक्तपुर स्थायी घर भएकी दुवाललाई २०७९ को निर्वाचनमा झापा क्षेत्र नं. ३ बाट 'पर्यटक उम्मेदवार' को रूपमा प्रस्तुत गरिएको थियो। नेमकिपाको सांगठनिक विस्तारका लागि झापामा उम्मेदवारी दिए पनि उनले उल्लेख्य मत प्राप्त गर्न सकिनन्। उनीसँग ५ वर्ष जनप्रतिनिधि भएर काम गरेको अनुभव छ, जसले उनलाई अनुभवी राजनीतिक व्यक्तित्वका रूपमा स्थापित गरेको छ। उनीमाथि हालसम्म कुनै भ्रष्टाचार वा गम्भीर स्क्यान्डलको आरोप लागेको छैन। झापामा उनको उपस्थिति चुनावी जितका लागि भन्दा पनि पार्टीको सिद्धान्त र चुनाव चिन्ह प्रचारका लागि बढी केन्द्रित देखिएको छ।",
+  "overall_approval_rating": 52
+}

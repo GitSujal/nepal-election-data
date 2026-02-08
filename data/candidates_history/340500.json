@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340500,
+  "candidate_name": "प्रेम प्रसाद श्रेष्ठ",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Independent_candidate_symbol_Nepal.png/120px-Independent_candidate_symbol_Nepal.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340500.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "प्रतिनिधि सभा निर्वाचन २०७९ मा गुल्मी क्षेत्र नम्बर १ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दा मात्र २१ मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://result.election.gov.np/SearchInfo.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "गुल्मी-१ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन पत्र दर्ता गरी चुनावी मैदानमा सहभागी।",
+      "link_to_source": "https://annapurnapost.com/story/215714/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक गतिविधि",
+      "date": "२०७४-०१-०१",
+      "details": "रुरुक्षेत्र गाउँपालिका क्षेत्रमा विभिन्न सामाजिक र सामुदायिक कार्यहरूमा संलग्न रहँदै आएको।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रेम प्रसाद श्रेष्ठ गुल्मी क्षेत्र नम्बर १ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारका रूपमा सहभागी भएका थिए। यस क्षेत्रमा नेपाली कांग्रेसका चन्द्र भण्डारी र नेकपा एमालेका प्रदीप ज्ञवाली जस्ता हेभीवेट नेताहरूसँग प्रतिस्पर्धा गर्दा उनले निकै न्यून मत (२१ मत) प्राप्त गरेका थिए। उनको चुनावी नतिजाले स्थानीय राजनीतिमा उनको प्रभाव र जनाधार निकै कमजोर रहेको देखाउँछ। उनी विरुद्ध कुनै प्रकारका भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्। उनी मुख्यतया एक स्वतन्त्र नागरिकको रूपमा लोकतान्त्रिक प्रक्रियामा आफ्नो सहभागिता जनाउन उम्मेदवार बनेको देखिन्छ। गुल्मीको स्थानीय राजनीतिमा उनको उपस्थिति सांकेतिक मात्र रहेको छ र भविष्यमा प्रभाव जमाउन ठूलो राजनीतिक दल वा बलियो संगठनको आवश्यकता देखिन्छ।",
+  "overall_approval_rating": 30
+}

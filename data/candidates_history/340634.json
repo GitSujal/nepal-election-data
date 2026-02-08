@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340634,
+  "candidate_name": "शालिकराम प्रसाद कानु",
+  "candidate_party": "नेपाल लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Diamond_symbol.svg/1024px-Diamond_symbol.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य/स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340634.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाल लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा निर्वाचन क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि नेपाल लोकतान्त्रिक पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। सो निर्वाचनमा उनले अत्यन्तै न्यून मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/parsa?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल लोकतान्त्रिक पार्टीमा आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "सानो राजनीतिक शक्तिको रूपमा रहेको नेपाल लोकतान्त्रिक पार्टीको तर्फबाट सक्रिय राजनीतिमा प्रवेश गर्दै उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शालिकराम प्रसाद कानु पर्सा जिल्लाका स्थानीय राजनीतिज्ञ हुन् जसले २०७९ को प्रतिनिधि सभा निर्वाचनमा नेपाल लोकतान्त्रिक पार्टीको तर्फबाट पर्सा निर्वाचन क्षेत्र नं. ३ मा प्रतिस्पर्धा गरेका थिए। उनको राजनीतिक प्रभाव राष्ट्रिय स्तरमा भन्दा स्थानीय स्तरमा सिमित देखिन्छ। सो निर्वाचनमा उनले मुख्य प्रतिस्पर्धीहरूको तुलनामा निकै कम मत प्राप्त गरेका थिए, जसले उनको चुनावी जनाधार कमजोर रहेको संकेत गर्दछ। उनको राजनीतिक पृष्ठभूमिमा कुनै ठूला घोटाला वा भ्रष्टाचारका मुद्दाहरू सार्वजनिक भएका छैनन्, तर ठूलो राजनीतिक उपलब्धि वा प्रभावकारी भूमिका पनि अहिलेसम्म देखिएको छैन। उनी मुख्यतया सानो दलको प्रतिनिधि पात्रको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 42
+}

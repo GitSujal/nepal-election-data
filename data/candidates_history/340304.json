@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340304,
+  "candidate_name": "अजय कुमार दास",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Rastriya_Prajatantra_Party.svg/1024px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "स्थानीय राजनीतिज्ञ",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340304.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी क्षेत्र नं. २ बाट राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए। उनले जम्मा १३३ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/district/saptari?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय प्रजातन्त्र पार्टीको सक्रिय सदस्यता",
+      "date": "२०७८-०८-१५",
+      "details": "राप्रपाका विभिन्न घटकहरूको एकीकरणपछि बनेको एकीकृत राष्ट्रिय प्रजातन्त्र पार्टीमा सप्तरी जिल्ला तहमा सक्रिय रहेका।",
+      "link_to_source": "https://rppnepal.org/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विभाजन र एकतामा संलग्नता",
+      "date": "२०७४-०५-०१",
+      "details": "राष्ट्रिय प्रजातन्त्र पार्टी र राप्रपा (प्रजातान्त्रिक) बीचको फुट र जुटको समयमा उनी राप्रपाको वैचारिक धारमा अडिग रहेका थिए।",
+      "link_to_source": "https://rppnepal.org/about-us/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अजय कुमार दास सप्तरी जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन् जो लामो समयदेखि राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) सँग आबद्ध रहेका छन्। उनले २०७९ को आम निर्वाचनमा सप्तरी क्षेत्र नं. २ बाट प्रतिनिधि सभाको लागि उम्मेदवारी दिएका थिए, जहाँ उनले जनमत पार्टीका सीके राउत र जसपाका उपेन्द्र यादव जस्ता शक्तिशाली उम्मेदवारहरूको सामना गर्नु परेको थियो। उक्त निर्वाचनमा उनको चुनावी नतिजा निकै कमजोर रह्यो, जसले उनको निर्वाचन क्षेत्रमा प्रभाव न्यून रहेको देखाउँछ। उनी अहिलेसम्म कुनै पनि राजकीय पदमा पुगेका छैनन् र उनको विरुद्धमा कुनै पनि ठूला भ्रष्टाचार वा फौजदारी काण्डहरू सार्वजनिक भएका छैनन्। उनको राजनीतिक पहिचान मूलतः राप्रपाको निष्ठावान कार्यकर्ताको रूपमा मात्र सिमित देखिन्छ।",
+  "overall_approval_rating": 40
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340646,
+  "candidate_name": "प्रदीप पौडेल",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_Nepali_Congress.svg/1024px-Flag_of_the_Nepali_Congress.svg.png",
+  "candidates_current_position": "स्वास्थ्य तथा जनसंख्या मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340646.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "२ (क)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वास्थ्य तथा जनसंख्या मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा नेपाली कांग्रेसको तर्फबाट स्वास्थ्य तथा जनसंख्या मन्त्रीको रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoqFOxtWlojX07y8sJ8Xc9Mt4eZk37-SoI1LpTsPFvjMSXRANeL0_Z5MtYqMzMRcbbVLpJveUny1-gt6CaPhHCP7gAKOdMw5-n0gmVmfUCiD7jyFN9nlqp2AjaLHnhAiBY4bREhxxPX2Pp2dWxJrtyU5dRsdkndmJ_c1LyCCGLYYoE58Zz_dHz5jYGD9GGdJIG6SFRjCt7mEhMU0FFOw=",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "काठमाडौं ५ बाट संसदीय चुनावमा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "नेकपा एमालेका वरिष्ठ नेता ईश्वर पोखरेललाई ५ हजारभन्दा बढी मतान्तरले पराजित गर्दै पहिलोपटक प्रतिनिधि सभा सदस्यमा निर्वाचित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG24cq2l9oNVXHDPFjMK8ndQSh25pHxGPicCArbsIBAgmLUEYoiVY53BCRiwMkXanZxtFbTGZ70muv4I076iEK_MSqSM88GUhU-7AtVRkyHMkQeedLRByLMdx-ZhOQI3HEYjQo=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कांग्रेस महामन्त्री पदमा पराजित",
+      "date": "२०७८-०८-२९",
+      "details": "नेपाली कांग्रेसको १४औँ महाधिवेशनमा महामन्त्री पदका लागि प्रतिस्पर्धा गरेका तर गगन थापा र विश्वप्रकाश शर्मासँग पराजित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlFl-8aaK2VdgbmW7X5kRkWOQxe20uZuUUPv2F02s_cfP7i5V_90BD65bkjbfxOxC05W_lx2svCFCukYxNXlmdbMMt_4O4Arkf3bdWuxBFcX9LEasqEc35NPAIAwDVgEaygSXnXsR7qxQvVn7ADX48RCU=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा चुनावमा ५ मतले पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "तनहुँ क्षेत्र नम्बर २ (क) बाट प्रदेश सभा सदस्यको निर्वाचनमा वाम गठबन्धनकी उम्मेदवार आशा कोइरालासँग मात्र ५ मतको झिनो अन्तरले पराजित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlFl-8aaK2VdgbmW7X5kRkWOQxe20uZuUUPv2F02s_cfP7i5V_90BD65bkjbfxOxC05W_lx2svCFCukYxNXlmdbMMt_4O4Arkf3bdWuxBFcX9LEasqEc35NPAIAwDVgEaygSXnXsR7qxQvVn7ADX48RCU=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७१-०१-१५",
+      "details": "तत्कालीन प्रधानमन्त्री तथा पार्टी सभापति सुशील कोइरालाद्वारा नेपाली कांग्रेसको केन्द्रीय कार्यसमिति सदस्यमा मनोनीत भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlFl-8aaK2VdgbmW7X5kRkWOQxe20uZuUUPv2F02s_cfP7i5V_90BD65bkjbfxOxC05W_lx2svCFCukYxNXlmdbMMt_4O4Arkf3bdWuxBFcX9LEasqEc35NPAIAwDVgEaygSXnXsR7qxQvVn7ADX48RCU=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघ अध्यक्षमा निर्वाचित",
+      "date": "२०६४-०४-१०",
+      "details": "नेपाल विद्यार्थी संघको ११औँ महाधिवेशनबाट केन्द्रीय अध्यक्षमा निर्वाचित भई विद्यार्थी आन्दोलनको नेतृत्व सम्हालेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf90j_SXzv-QhztUtgJ0yAR_hKEc2-zeJbCc6KGYf0qpwySOYgQ5EnLI-Dh1VjT62ZxcFgwV5H1n-FsLRCBIM3sv0uj_d_XazfBs1uf6CMU_NNlBcVJeTQRzkaRjTZabXXLA==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्ववियु सभापति निर्वाचित",
+      "date": "२०५३-०१-०१",
+      "details": "अमृत क्याम्पस (ASCOL) को स्वतन्त्र विद्यार्थी युनियनको सभापतिमा निर्वाचित भई सक्रिय विद्यार्थी राजनीति सुरु गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf90j_SXzv-QhztUtgJ0yAR_hKEc2-zeJbCc6KGYf0qpwySOYgQ5EnLI-Dh1VjT62ZxcFgwV5H1n-FsLRCBIM3sv0uj_d_XazfBs1uf6CMU_NNlBcVJeTQRzkaRjTZabXXLA==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रदीप पौडेल नेपाली कांग्रेसका एक प्रभावशाली र स्वच्छ छवि भएका युवा नेता हुन्। विद्यार्थी राजनीतिबाट उदाएका उनले २०७९ को निर्वाचनमा नेकपा एमालेका 'हेभीवेट' नेता ईश्वर पोखरेललाई काठमाडौं-५ मा पराजित गरेर आफ्नो राजनीतिक उचाइ प्रमाणित गरे। यद्यपि उनको पुर्ख्यौली घर तनहुँ भए पनि काठमाडौंबाट चुनाव लडेकाले उनलाई 'टूरिस्ट उम्मेदवार' को आरोप लागेको थियो, तर उनले स्थानीय मतदाताको विश्वास जित्न सफल भए। हाल स्वास्थ्य मन्त्रीको रूपमा उनले सरकारी अस्पतालका लाइन हटाउने र स्वास्थ्य बीमामा सुधार ल्याउने लोकप्रिय एजेन्डाहरूमा काम गरिरहेका छन्। उनी पार्टीभित्र सुधारवादी धारको नेतृत्व गर्ने नेतामध्ये एक मानिन्छन्।",
+  "overall_approval_rating": 88
+}

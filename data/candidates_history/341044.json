@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341044,
+  "candidate_name": "सरिता थापा",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/ncp.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341044.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "निर्वाचन क्षेत्र १ (२)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "संखुवासभा",
+      "constituency": "निर्वाचन क्षेत्र १ (२)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता",
+      "date": "२०८२-१०-०६",
+      "details": "संखुवासभाबाट प्रतिनिधिसभा सदस्यको निर्वाचनका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट सरिता थापाले मनोनयन दर्ता गरेकी छिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJJb9flWP0qEEEHjZIwcfKZdOhbvQAPgsXBLJ33I6a59A4bU_kwq1DPk0C1pN1SEYCAfWz1osYvl82Aqmo-GlUvRnZYT7tvnzb9z1sGPU87rMS5NpkY2ECtLU1V53PWAJy8I0MLEBTgFDpThgcbaU7GnDE3eitrdG9Tq3zbzg13_ci9QZ-5-J_Tw4pIaTimKgDw4joDKBsownmrNMQROzC3E2vuEhA",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा झिनो मतान्तरले पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "संखुवासभा १ (२) बाट एकीकृत समाजवादीको उम्मेदवार रहेकी थापा १५,२४३ मत ल्याएर एमालेका उम्मेदवारसँग केवल २३९ मतले पराजित भइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkVjiIduxK5GAjv7h-HY_jmHkNNNCF6Gg6aLA3rRlgmcyr4OtdDKPbhx5LDjre-9fmwDPQbPqLmNNZRXud6DGAwQm5KsuHv-EBBijHr3Z6KF7ODBWXQ9sQuDH8vp2XGrKoLSwZQw94JAdpr7zHu_WUdAt5VlIx_7trFEFbNXMfE3I=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "एमाले विभाजन भएपछि उनी माधव नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा सामेल भएकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDBBqIVdfk1LsrLRST_VxoEonJfHwI1Uw2PNy99YuQgpqDorAhsyaXiuxDfi2nR_SShNA-xfHllBOx-e6Q6t8IsDUw9Rgdtp-2lZon81sV5VKk2klKolyEEn1ffwsp6kwBI0sefAqvJwp9WKm87j18dYM-RZWCudj-dEB-Q1daC___RjNsqP7uFEGNScPm6sGr3Cz5oLQmapSbtAge537Fs-ePAOYMKkFxduO9gPB9tjB3-KhVXvsV-QjqOUp42bn42dfRnt-jCBzXjTxTGs7Vbpd9SaALWQIQpfW2QB2aQf4oFJdq24EKEcfpwHoOq4R1O3xerskzQcS6QG3q13XN_cpvwNUSlz2LZBuxY-JECVoKV8ryNB6jd9yEYJXKjlGOcgDLYYYb1YGbDtFHYUNqVLCU0Is=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-०८-२१",
+      "details": "संखुवासभा १ (२) बाट वाम गठबन्धनको तर्फबाट एमाले उम्मेदवारका रूपमा उनी कोशी प्रदेश सभा सदस्यमा निर्वाचित भएकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmbGzw9_HEp0Knu3-DSapuwZk__-4HcxoV4inndQ7EqT_EWR77ExMQtnWu_QsZQgdozyQ0ZfD6ZzLmz9_Jyf3Vzl2A-RGTJKwfsaj64GL1G6YIuZoU8vhjFGNiv13Q3vE-UNvZLPJdWP-Erbxl8rOkfrdDovXXVM0erlHD6IWQJYFNEItYaRI1wsiR2AangnEuomGRkmwsIq0zB0U3gw==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शिक्षण पेसा छाडेर राजनीतिमा प्रवेश",
+      "date": "२०६०-०१-०१",
+      "details": "लामो समय शिक्षण पेसामा संलग्न थापा जागिर छाडेर पूर्णकालीन राजनीतिमा होमिएकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtzoZfjQcAe8fILI_TqWK2pdHorTQ6S_cA9AtRmWFx5exhmlOE0Av3bAHsyWLwNtme3FrZV_wAH3Wc7zksHVBhe4QPJ50RnncU2Y_cgYb0qOjT55RbwY8yQssyixiUlonCXGoor-3K_uEpgAO-tA==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सरिता थापा संखुवासभाको राजनीतिमा एक स्थापित महिला नेतृ हुन्। उनले २०७४ को निर्वाचनमा प्रदेश सभा सदस्य जितेर आफ्नो प्रभाव प्रमाणित गरिसकेकी छिन्। २०७९ को निर्वाचनमा एकीकृत समाजवादीबाट उम्मेदवार बन्दा उनी निकै थोरै मतान्तर (२३९ मत) ले मात्र पराजित भएकी थिइन्, जसले उनको बलियो जनमतलाई देखाउँछ। शिक्षण पेसाबाट राजनीतिमा आएकी थापाको छवि एक सङ्घर्षशील र स्थानीय स्तरमा भिजेको नेताको रूपमा छ। यद्यपि, एमालेबाट एकीकृत समाजवादी र हाल पुनः 'नेपाली कम्युनिष्ट पार्टी' जस्ता साना दलहरूमा भएको आबद्धताले उनको राजनीतिक अस्थिरतालाई भने झल्काउँछ। उनी संखुवासभामा 'टुरिष्ट' नभई स्थानीय मुद्दा बोक्ने उम्मेदवारका रूपमा परिचित छिन्।",
+  "overall_approval_rating": 68
+}

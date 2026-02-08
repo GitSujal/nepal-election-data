@@ -1,0 +1,71 @@
+{
+  "candidate_id": 341466,
+  "candidate_name": "समीम मीया अंसारी",
+  "candidate_party": "राष्ट्र निर्माण दल नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Symbol_of_Rashtra_Nirman_Dal_Nepal.png/200px-Election_Symbol_of_Rashtra_Nirman_Dal_Nepal.png",
+  "candidates_current_position": "अध्यक्ष, राष्ट्र निर्माण दल नेपाल",
+  "candidates_current_position_in_party": "केन्द्रीय अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341466.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "काठमाडौँ",
+      "constituency": "N/A",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नयाँ राजनीतिक दलको घोषणा",
+      "date": "२०८२-०९-१८",
+      "details": "मुस्लिम आयोगको अध्यक्षबाट बाहिरिएपछि अन्सारीले आफ्नै नेतृत्वमा 'राष्ट्र निर्माण दल नेपाल' नामक नयाँ राजनीतिक दलको घोषणा गरेका छन्।",
+      "link_to_source": "https://www.ekantipur.com/news/2026/01/02/rashtra-nirman-dal-formed-under-samim-miya-ansari.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनकपुरमा मौन अवधिमा मतदाता प्रभावित पारेको आरोप",
+      "date": "२०७९-०१-२९",
+      "details": "स्थानीय तह निर्वाचनको मौन अवधिमा धनुषाको जनकपुरस्थित एक होटेलमा पैसा बाँड्न आएको आरोपमा स्थानीयले उनलाई घेराउ गरेका थिए, जसमा प्रहरीले हस्तक्षेप गर्नुपरेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/05/1126138",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सर्वोच्च अदालतमा नियुक्तिविरुद्ध रिट",
+      "date": "२०७५-१२-१०",
+      "details": "नागरिकता र शैक्षिक प्रमाणपत्र किर्ते गरेको आरोप लगाउँदै उनको मुस्लिम आयोगको अध्यक्ष पदको नियुक्ति खारेज गर्न सर्वोच्चमा रिट दायर गरिएको थियो।",
+      "link_to_source": "https://setopati.com/politics/177026",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मुस्लिम आयोगको अध्यक्षमा नियुक्ति",
+      "date": "२०७५-११-२१",
+      "details": "संसदीय सुनुवाइ समितिले ४५ दिनभित्र निर्णय दिन नसकेपछि संवैधानिक परिषदको सिफारिसमा उनी मुस्लिम आयोगको अध्यक्षमा नियुक्त भएका थिए।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/170942-1552191900.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नागरिकतामा उमेर सच्याएको विवाद",
+      "date": "२०७५-११-१३",
+      "details": "आयोगको अध्यक्ष हुन ४५ वर्ष पुग्नुपर्ने प्रावधान छल्न जिल्ला प्रशासन कार्यालयको रेकर्डमा जन्म मिति २०३७ लाई सच्याएर २०३० बनाएको फेला परेको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/ansaris-dob-differs-on-citizenship-certificate",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एमाले) प्रवेश",
+      "date": "२०७४-०३-०४",
+      "details": "राष्ट्रिय जनता पार्टी (राजपा) का महामन्त्री पद छोडेर उनी स्थानीय तह निर्वाचन अगाडि नेकपा एमालेमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2019/02/28/samim-miya-the-muslim-commission-chairman-nominee-says-the-party-rewarded-him",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "समीम मीया अंसारी नेपालको राजनीतिमा एक अत्यन्तै विवादास्पद पात्र हुन्। नेकपा एमालेको सक्रिय कार्यकर्ता र समानुपातिक सूचीमा रहेकै अवस्थामा मुस्लिम आयोगको अध्यक्षमा सिफारिस भएपछि उनको निष्पक्षतामाथि ठूलो प्रश्न उठेको थियो। विशेषगरी नागरिकतामा जन्ममिति सच्याएर उमेर बढाएको र शैक्षिक प्रमाणपत्र किर्ते गरेको गम्भीर आरोप उनीमाथि छ। २०७९ को निर्वाचनमा जनकपुरमा पैसा बाँड्न गएको आरोपमा स्थानीयबाट लखेटिनुले उनको सार्वजनिक छवि थप धूमिल बनाएको छ। हाल काठमाडौँ निवासी भएर पनि बारामा 'टुरिस्ट क्यान्डिडेट' का रूपमा देखा पर्नु र आफ्नै नयाँ दल खोल्नुले उनको अस्थिर र अवसरवादी राजनीतिक चरित्रलाई झल्काउँछ। उनको चुनावी पकड भन्दा पनि शक्ति केन्द्रसँगको सामीप्यताले उनलाई पद दिलाएको देखिन्छ।",
+  "overall_approval_rating": 38
+}

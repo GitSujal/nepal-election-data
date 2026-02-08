@@ -43,10 +43,18 @@ function CandidatePageContent() {
 
   const handleSelectFPTPCandidate = useCallback((candidate: AnyCandidate | null) => {
     setSelectedFPTPCandidate(candidate)
-  }, [])
+    // Only update URL when selecting a candidate, not when clearing.
+    // Clearing is handled by the caller (back button sets URL directly,
+    // cascade handlers include candidate:0 in their onUrlStateChange call).
+    if (candidate) {
+      setUrlState({ candidate: candidate.candidate_id })
+    }
+  }, [setUrlState])
 
   const handleBackToFPTPResults = () => {
-    setSelectedFPTPCandidate(null)
+    // Only update URL - let the filter component's effect handle clearing selection
+    // This avoids a race condition where React state clears before the async URL update,
+    // causing the URL restoration effect to re-select the candidate
     setUrlState({ candidate: 0 })
   }
 
@@ -57,10 +65,14 @@ function CandidatePageContent() {
 
   const handleSelectPRCandidate = useCallback((candidate: AnyCandidate | null) => {
     setSelectedPRCandidate(candidate)
-  }, [])
+    // Only update URL when selecting a candidate, not when clearing.
+    if (candidate) {
+      setUrlState({ candidate: candidate.serial_no })
+    }
+  }, [setUrlState])
 
   const handleBackToPRResults = () => {
-    setSelectedPRCandidate(null)
+    // Only update URL - let the filter component's effect handle clearing selection
     setUrlState({ candidate: 0 })
   }
 
@@ -161,7 +173,7 @@ function CandidatePageContent() {
             />
 
             {/* Back button when viewing detail */}
-            {selectedFPTPCandidate && filteredFPTPCandidates.length > 1 && (
+            {selectedFPTPCandidate && (
               <button
                 type="button"
                 onClick={handleBackToFPTPResults}
@@ -228,7 +240,7 @@ function CandidatePageContent() {
             )}
 
             {/* Preview grid */}
-            {!selectedFPTPCandidate && filteredFPTPCandidates.length > 1 && (
+            {!selectedFPTPCandidate && filteredFPTPCandidates.length >= 1 && (
               <CandidatePreviewGrid
                 candidates={filteredFPTPCandidates}
                 onSelectCandidate={handleSelectFPTPCandidate}
@@ -261,7 +273,7 @@ function CandidatePageContent() {
             />
 
             {/* Back button when viewing detail */}
-            {selectedPRCandidate && filteredPRCandidates.length > 1 && (
+            {selectedPRCandidate && (
               <button
                 type="button"
                 onClick={handleBackToPRResults}
@@ -292,7 +304,7 @@ function CandidatePageContent() {
             )}
 
             {/* Preview grid */}
-            {!selectedPRCandidate && filteredPRCandidates.length > 1 && (
+            {!selectedPRCandidate && filteredPRCandidates.length >= 1 && (
               <PRCandidatePreviewGrid
                 candidates={filteredPRCandidates}
                 onSelectCandidate={handleSelectPRCandidate}

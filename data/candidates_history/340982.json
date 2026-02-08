@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340982,
+  "candidate_name": "रामचन्द्र मण्डल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CPN-UML_logo.png",
+  "candidates_current_position": "निवर्तमान सभामुख, मधेश प्रदेश",
+  "candidates_current_position_in_party": "प्रदेश कमिटी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340982.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १(ख)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. १(ख)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "मधेश प्रदेशको सभामुख पदबाट पदमुक्त",
+      "date": "२०८२-०८-०४",
+      "details": "पद अनुकूलको आचरण नगरेको भन्दै दुई तिहाइ बहुमतले अविश्वासको प्रस्ताव पारित भएपछि मण्डल सभामुख पदबाट मुक्त भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2025/11/1573030",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मधेश प्रदेशको सभामुखमा निर्वाचित",
+      "date": "२०७९-१०-०३",
+      "details": "नेकपा एमालेका मण्डल ७४ मत प्राप्त गर्दै मधेश प्रदेशको दोस्रो सभामुखका रूपमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/01/1249767",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७९ प्रदेश सभा निर्वाचनमा जित",
+      "date": "२०७९-०८-०५",
+      "details": "धनुषा क्षेत्र नं. १(ख) बाट नेकपा एमालेको उम्मेदवारका रूपमा निर्वाचित हुँदै मण्डलले आफ्नो संसदीय यात्रा जारी राखे।",
+      "link_to_source": "https://shirishnews.com/2023/01/17/14644/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी केन्द्रबाट निष्कासन र पद खारेज",
+      "date": "२०७७-१२-२४",
+      "details": "नेकपा विभाजनपछि एमाले रोजेका कारण माओवादी केन्द्रले उनलाई कारबाही गर्दै प्रदेश सभा सदस्य पदबाट मुक्त गरेको थियो।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमालेमा प्रवेश",
+      "date": "२०७७-११-२३",
+      "details": "सर्वोच्च अदालतको फैसलापछि नेकपा विभाजित हुँदा मण्डल पुष्पकमल दाहाललाई छोडेर केपी शर्मा ओली नेतृत्वको एमालेमा लागेका थिए।",
+      "link_to_source": "https://kathmandupost.com/politics/2023/08/26/former-maoists-in-uml-are-a-frustrated-lot",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ प्रदेश सभा निर्वाचनमा जित",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको साझा उम्मेदवारका रूपमा माओवादी केन्द्रबाट धनुषा १(ख) मा विजयी भएका थिए।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचनमा पराजय",
+      "date": "२०७०-०८-०४",
+      "details": "माओवादीको तर्फबाट संविधान सभा निर्वाचनमा सहभागी भए पनि उनी पराजित हुन पुगेका थिए।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनकपुर क्षेत्र विकास परिषद्को नेतृत्व",
+      "date": "२०६५-०५-१०",
+      "details": "बाबुराम भट्टराईको नेतृत्वको सरकारको पालामा उनले जनकपुर क्षेत्र विकास परिषद्को अध्यक्षको जिम्मेवारी पाएका थिए।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो संविधान सभा निर्वाचनमा पराजय",
+      "date": "२०६४-१२-२८",
+      "details": "माओवादीका उम्मेदवारका रूपमा निर्वाचन लडे पनि मण्डल पहिलो पटक पराजित भएका थिए।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी सशस्त्र विद्रोहमा संलग्नता",
+      "date": "२०५९-०१-०१",
+      "details": "शिक्षण पेसा छाडेर उनी तत्कालीन नेकपा माओवादीमा प्रवेश गरी भूमिगत राजनीतिमा सक्रिय भएका थिए।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०४६-०१-०१",
+      "details": "२०४६ सालमा नेकपा मालेको गाउँ कमिटी सचिव भएर उनले सक्रिय राजनीति सुरु गरेका थिए।",
+      "link_to_source": "https://ratopati.com/story/322881/ram-chandra-mandal-profile",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रामचन्द्र मण्डल धनुषाका प्रभावशाली राजनीतिज्ञ हुन्, जसले माओवादी आन्दोलनबाट आफ्नो पहिचान बनाएका थिए। 'मास्टर साहेव' उपनामले चिनिने मण्डलले २०७४ र २०७९ का दुवै प्रदेश सभा निर्वाचनमा धनुषा १(ख) बाट जित हासिल गरेर आफ्नो बलियो जनाधार प्रमाणित गरेका छन्। माओवादी केन्द्रबाट एमालेमा प्रवेश गर्दा उनले केही समय पद गुमाउनु परे पनि, पुनः निर्वाचित हुनुले उनको व्यक्तिगत लोकप्रियता देखाउँछ। उनी मधेश प्रदेशको सभामुख जस्तो गरिमामय पदमा पुग्ने अल्पसंख्यक समुदायका नेता हुन्। यद्यपि, २०८२ मा उनी विरुद्ध दर्ता भएको अविश्वासको प्रस्ताव दुई तिहाइले पारित हुनु र 'पदीय आचरण' विपरित कार्य गरेको आरोप लाग्नुले उनको राजनीतिक जीवनमा ठूलो धक्का पुगेको छ। उनको तटस्थता माथिको प्रश्न र पार्टी परिवर्तनका घटनाहरूले उनको आगामी राजनीतिक भविष्य चुनौतीपूर्ण बनाएको छ।",
+  "overall_approval_rating": 55
+}

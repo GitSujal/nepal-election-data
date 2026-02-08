@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339576,
+  "candidate_name": "रवीन्द्र मिश्र",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "वरिष्ठ उपाध्यक्ष, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidates_current_position_in_party": "वरिष्ठ उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339576.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "काठमाडौं क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "काठमाडौं क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय प्रजातन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०६-१२",
+      "details": "विवेकशील साझा पार्टी परित्याग गरी मिश्र दलबलसहित राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) मा प्रवेश गरे र वरिष्ठ उपाध्यक्षको जिम्मेवारी पाए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/09/1195663",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवेकशील साझाको अध्यक्षबाट राजीनामा",
+      "date": "२०७९-०२-११",
+      "details": "२०७९ को स्थानीय तह निर्वाचनमा पार्टीको निराशाजनक परिणाम आएपछि नैतिकताको आधारमा उनले अध्यक्ष पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.nagariknetwork.com/news/126939/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "'मार्ग परिवर्तन: विचारभन्दा माथि देश' दस्तावेज सार्वजनिक",
+      "date": "२०७८-०४-११",
+      "details": "संघीयता खारेजी र धर्मनिरपेक्षतामा जनमत संग्रहको प्रस्ताव गर्दै उनले यो विवादास्पद दस्तावेज ल्याए, जसले पार्टीमा ठूलो विभाजन ल्यायो।",
+      "link_to_source": "https://rabindramishra.com/nation-above-notion-nepali/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवेकशील र साझा पार्टीको पुनः एकता",
+      "date": "२०७७-०८-२४",
+      "details": "फुटेको २० महिनापछि विवेकशील नेपाली दल र साझा पार्टीबीच पुनः एकता भई विवेकशील साझा पार्टी बनेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2020/12/916523",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा पहिलो विभाजन",
+      "date": "२०७५-०९-२७",
+      "details": "उज्वल थापा नेतृत्वको समूहले मिश्रको कार्यशैलीमा असन्तुष्टि जनाउँदै पार्टी फुटाएर विवेकशील नेपाली दल पुनर्गठन गरेका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/173322",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा झिनो मतान्तरले पराजित",
+      "date": "२०७४-०८-२१",
+      "details": "काठमाडौं क्षेत्र नं १ बाट प्रकाशमान सिंहसँग ८१८ मतको झिनो अन्तरले पराजित भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/prakash-man-singh-wins-kathmandu-1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "साझा पार्टीको घोषणा",
+      "date": "२०७३-११-१७",
+      "details": "बीबीसीको जागिर छाडेर 'सफा राजनीति' को नारासहित उनले साझा पार्टी स्थापना गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2017/03/548819",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बीबीसी नेपाली सेवाबाट राजीनामा",
+      "date": "२०७३-११-१६",
+      "details": "दुई दशक लामो पत्रकारिता करियर अन्त्य गर्दै उनी पूर्णकालीन राजनीतिमा होमिएका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/59736",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हेल्प नेपाल नेटवर्कको स्थापना",
+      "date": "२०५६-०६-०३",
+      "details": "'महिनाको एक डलर' कोषमार्फत नेपालका दुर्गम क्षेत्रमा शिक्षा र स्वास्थ्यमा सहयोग पुर्याउन यो संस्था स्थापना गरेका थिए।",
+      "link_to_source": "https://helpnepal.net/about-us/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रवीन्द्र मिश्र नेपालको वैकल्पिक राजनीतिमा एक उचाइ बनाएका तर वैचारिक रूपमा अस्थिर देखिएका नेता हुन्। बीबीसीको सफल पत्रकारिता र 'हेल्प नेपाल नेटवर्क' मार्फत कमाएको परोपकारी छविले उनलाई सुरुमा ठूलो जनसमर्थन दिलाएको थियो। तर, विवेकशील साझा पार्टीको नेतृत्व गर्दा उनले ल्याएको 'विचारभन्दा माथि देश' दस्तावेजले वैकल्पिक राजनीतिको मूल मर्मबाट विचलित भएको आरोप लाग्यो, जसले पार्टीलाई पटक-पटक विभाजनमा पुर्यायो। २०७४ र २०७९ दुवै निर्वाचनमा काठमाडौँ-१ बाट झिनो मतान्तरले पराजित हुनुले उनको चुनावी पकड बलियो भए पनि जितमा परिणत हुन नसकेको देखिन्छ। अन्ततः गणतन्त्र र संघीयताको विरोध गर्दै राप्रपा जस्तो पुरातनवादी शक्तिमा समाहित हुनुलाई धेरैले उनको राजनीतिक 'यू-टर्न' र अवसरवादका रूपमा विश्लेषण गरेका छन्। यद्यपि, उनको व्यक्तिगत निष्ठा र भ्रष्टाचार विरोधी छवि अझै पनि मध्यमार्गी र दक्षिणपन्थी मतदाताहरूका बीच लोकप्रिय छ।",
+  "overall_approval_rating": 45
+}

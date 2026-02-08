@@ -1,0 +1,111 @@
+{
+  "candidate_id": 341186,
+  "candidate_name": "किशोर सिह राठोर",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_the_Nepali_Congress.svg/1024px-Flag_of_the_Nepali_Congress.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "सह-महामन्त्री",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341186.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "बाँके",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "बर्दिया",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बाँके",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी अनुशासनको विषयमा कडा टिप्पणी",
+      "date": "२०८१-०३-०२",
+      "details": "नेपाली कांग्रेसका सहमहामन्त्री राठोरले पार्टीभित्र अनुशासन हराउँदै गएको र पदाधिकारीहरू नै गुटबन्दीमा लागेको भन्दै सार्वजनिक रूपमा असन्तुष्टि व्यक्त गरे।",
+      "link_to_source": "https://radionepal.gov.np/news-details/110515/2024-06-16",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "बाँके निर्वाचन क्षेत्र नं. ३ बाट नेकपा एमालेका किस्मत कुमार कक्षपतिलाई ४,७९३ मतान्तरले पराजित गर्दै राठोर निर्वाचित भए। उनले २९,०९७ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2022/11/1226590",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली कांग्रेसको सह-महामन्त्रीमा निर्वाचित",
+      "date": "२०७८-०८-३०",
+      "details": "नेपाली कांग्रेसको १४ औं महाधिवेशनबाट खस-आर्य क्लस्टरअन्तर्गत राठोर सह-महामन्त्री पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kishore_Singh_Rathore",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "छाँया मन्त्रीको रूपमा नियुक्ति",
+      "date": "२०७६-०२-०६",
+      "details": "प्रमुख प्रतिपक्षी दल नेपाली कांग्रेसले गठन गरेको छाँया सरकारमा उनलाई खेलकुद तथा युवा मन्त्रालयको समन्वय गर्ने जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kishore_Singh_Rathore",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+      "date": "२०७४-११-२७",
+      "details": "नेपाली कांग्रेसको तर्फबाट खस-आर्य कोटामा समानुपातिक प्रणालीमार्फत उनी पहिलो पटक संघीय संसदको सदस्य बनेका थिए।",
+      "link_to_source": "https://bharatpedia.org/Kishore_Singh_Rathore",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघको अध्यक्षको रूपमा नेतृत्व",
+      "date": "२०६१-०५-१०",
+      "details": "नेपाल विद्यार्थी संघ (नेविसंघ) को केन्द्रीय अध्यक्षको रूपमा उनले विद्यार्थी राजनीतिको नेतृत्व गरेका थिए र लोकतान्त्रिक आन्दोलनमा सक्रिय भूमिका निभाएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/student-leaders-call-parties-to-intensify-stir",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभा निर्वाचनमा पराजय",
+      "date": "२०७०-०८-०४",
+      "details": "बर्दिया क्षेत्र नं. ४ बाट नेपाली कांग्रेसको उम्मेदवार रहेका राठोर सो निर्वाचनमा पराजित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kishore_Singh_Rathore",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "त्रिचन्द्र क्याम्पस स्ववियु सभापति",
+      "date": "२०४९-०१-०१",
+      "details": "राजनीतिक यात्राको सुरुवाती चरणमा उनी काठमाडौंको त्रिचन्द्र क्याम्पसमा स्वतन्त्र विद्यार्थी युनियन (स्ववियु) को सभापति निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kishore_Singh_Rathore",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "किशोर सिंह राठोर नेपाली कांग्रेसका एक प्रभावशाली र रणनीतिक नेता हुन्। नेविसंघको केन्द्रीय अध्यक्षबाट सुरु भएको उनको राजनीतिक यात्रा हाल पार्टीको सह-महामन्त्रीसम्म पुगेको छ। २०७९ को निर्वाचनमा बाँके-३ बाट विजयी हुनुले उनको बढ्दो जनस्तरको पकडलाई पुष्टि गर्छ। यद्यपि, उनी बर्दियाको बासिन्दा भएर पनि बाँकेबाट चुनाव लड्ने गरेकाले उनलाई 'वगुवा' वा 'टुरिस्ट' उम्मेदवारको ट्याग लाग्ने गरेको छ, जसलाई उनले आफ्नो राजनीतिक प्रभावले चिर्दै आएका छन्। सभापति शेरबहादुर देउवाका निकट मानिने राठोर पार्टीभित्र स्पष्ट वक्ताका रूपमा चिनिन्छन्। उनले हालैका दिनहरूमा पार्टी अनुशासन र पदाधिकारीहरूको कार्यशैलीप्रति सार्वजनिक रूपमै कडा टिप्पणी गर्ने गरेका छन्, जसले पार्टीभित्रको आन्तरिक द्वन्द्वलाई समेत संकेत गर्दछ। उनको विकासप्रेमी छवि र बलियो विद्यार्थी राजनीतिक पृष्ठभूमिले उनलाई युवा पुस्तामाझ पनि स्थापित गराएको छ।",
+  "overall_approval_rating": 72
+}

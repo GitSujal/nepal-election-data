@@ -1,0 +1,79 @@
+{
+  "candidate_id": 341904,
+  "candidate_name": "लेनिन विष्ट",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व बाल लडाकु संयोजक तथा सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "स्वतन्त्र उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341904.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रचण्ड र बाबुराम विरुद्ध सर्वोच्चमा मुद्दा दर्ता",
+      "date": "२०८०-०२-३०",
+      "details": "द्वन्द्वकालमा बालबालिकालाई प्रयोग गरी युद्ध अपराध गरेको भन्दै पुष्पकमल दाहाल 'प्रचण्ड' र बाबुराम भट्टराई विरुद्ध सर्वोच्च अदालतमा मुद्दा दायर।",
+      "link_to_source": "https://kathmandupost.com/national/2023/06/11/supreme-court-registers-petition-against-dahal-bhattarai-over-use-of-child-soldiers",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काभ्रेपलाञ्चोक क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचनमा सहभागी, तर पराजित।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341904",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "थाईल्याण्ड जान प्रतिबन्ध र सर्वोच्चको कारण देखाऊ आदेश",
+      "date": "२०७५-०५-१७",
+      "details": "सरकारले विमानस्थलबाटै थाईल्याण्ड जान रोकेपछि सर्वोच्च अदालतले सरकारका नाममा कारण देखाऊ आदेश जारी गरेको।",
+      "link_to_source": "https://www.setopati.com/politics/165241",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अन्तर्राष्ट्रिय मञ्चमा बाल लडाकुको मुद्दा",
+      "date": "२०७४-०७-२०",
+      "details": "नेपालका 'अयोग्य' बाल लडाकुहरूको अधिकार र न्यायका लागि अन्तर्राष्ट्रिय मानवअधिकार संस्थाहरूसँग समन्वय र तालिममा सहभागी।",
+      "link_to_source": "https://trialinternational.org/latest-post/from-child-soldier-to-human-rights-advocate/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बहिर्गमित जनमुक्ति सेना नेपालको नेतृत्व",
+      "date": "२०६८-०१-०१",
+      "details": "माओवादी सेनाबाट 'अयोग्य' भनी निकालिएका लडाकुहरूको संगठन निर्माण गरी न्याय र पुनःस्थापनाको आन्दोलन सुरु।",
+      "link_to_source": "https://socialchange.org.np/from-the-jungle-to-the-table-a-former-child-soldiers-transition-to-nonviolent-action/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "UNMIN द्वारा अयोग्य घोषित",
+      "date": "२०६६-१०-०१",
+      "details": "अनमिनको प्रमाणीकरणका क्रममा उमेर नपुगेका कारण 'अयोग्य' लडाकुका रूपमा माओवादी शिविरबाट बहिर्गमित।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/former-maoist-child-combatant-lenin-bista-barred-from-flying-to-bangkok",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागी",
+      "date": "२०५९-०२-१५",
+      "details": "१२ वर्षको कलिलो उमेरमै काभ्रेबाट माओवादी जनमुक्ति सेनामा भर्ती भई युद्धमा सहभागी।",
+      "link_to_source": "https://socialchange.org.np/from-the-jungle-to-the-table-a-former-child-soldiers-transition-to-nonviolent-action/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लेनिन विष्ट नेपालको राजनीतिक इतिहासमा 'बाल लडाकु'को मुद्दालाई राष्ट्रिय र अन्तर्राष्ट्रिय स्तरमा उठाउने एक प्रमुख पात्र हुन्। काभ्रेका स्थायी बासिन्दा विष्टले २०७९ को निर्वाचनमा स्वतन्त्र उम्मेदवारी दिएर आफ्नो राजनीतिक यात्रा सुरु गरेका हुन्। उनलाई मुख्य रूपमा माओवादी नेतृत्वले युद्धमा बालबालिका प्रयोग गरेको र शान्ति प्रक्रियापछि उनीहरूलाई उपेक्षा गरेको आरोप लगाउँदै आएको अभियन्ताका रूपमा चिनिन्छ। उनले प्रचण्ड र बाबुराम भट्टराई विरुद्ध सर्वोच्चमा दायर गरेको मुद्दाले नेपालको संक्रमणकालीन न्यायको क्षेत्रमा ठूलो तरंग पैदा गरेको छ। चुनावी राजनीतिमा उनको पकड कमजोर देखिए पनि, उनले उठाउने अधिकारका मुद्दाहरूले गर्दा उनी सधैं चर्चाको केन्द्रमा रहन्छन्। उनको उम्मेदवारीलाई सत्तासीन दलहरू प्रतिको विद्रोहको रूपमा हेरिन्छ।",
+  "overall_approval_rating": 52
+}

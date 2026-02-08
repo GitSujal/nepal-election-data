@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340656,
+  "candidate_name": "डा शेखर कोइराला",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Logo.png/640px-Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340656.jpg",
+  "election_history": [
+    {
+      "year": "२०६५",
+      "position": "संविधान सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "७",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "६",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी विभाजन र राजनीतिक एक्लोपन",
+      "date": "२०८२-१०-०३",
+      "details": "नेपाली काँग्रेसको आन्तरिक विवाद र विभाजनका बेला स्पष्ट अडान लिन नसक्दा संस्थापन र इतर दुवै समूहबाट एक्लिएको विश्लेषण।",
+      "link_to_source": "https://www.khabarhub.com/2026/16/434567/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी सभापति पदमा पराजित",
+      "date": "२०७८-०८-२९",
+      "details": "काँग्रेसको १४औँ महाधिवेशनमा सभापति पदका लागि भएको दोस्रो चरणको मतदानमा शेरबहादुर देउवासँग पराजित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/14th_general_convention_of_Nepali_Congress",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०९",
+      "details": "एमालेका लालबाबु पण्डितलाई १२ हजारभन्दा बढी मतान्तरले पराजित गर्दै मोरङ-६ बाट निर्वाचित।",
+      "link_to_source": "https://risingnepaldaily.com/news/19225",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "१२ बुँदे सम्झौताको मध्यस्थकर्ता",
+      "date": "२०६२-०८-०७",
+      "details": "माओवादी विद्रोही र ७ राजनीतिक दलबीच दिल्लीमा भएको ऐतिहासिक १२ बुँदे सम्झौतामा पर्दा पछाडिबाट महत्वपूर्ण भूमिका।",
+      "link_to_source": "https://www.onlinekhabar.com/2016/03/403789",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वीपी कोइराला स्वास्थ्य विज्ञान प्रतिष्ठान विवाद",
+      "date": "२०५९-०१-१५",
+      "details": "प्रतिष्ठानको उपकुलपति रहँदा आर्थिक अनियमितता र विवादास्पद नियुक्ति गरेको आरोप लागेको।",
+      "link_to_source": "https://www.youtube.com/watch?v=sM9L0pWJvxc",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक सन्देशवाहकको भूमिका",
+      "date": "२०३६-०१-०६",
+      "details": "वीपी कोइराला र भारतीय नेताहरूबीच सन्देश आदानप्रदान गर्दै 'मेसेन्जर पोलिटिसियन' को पहिचान बनाएको।",
+      "link_to_source": "https://www.onlinekhabar.com/2016/03/403789",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेसको सदस्यता",
+      "date": "२०२८-०४-०१",
+      "details": "चिकित्सा अध्ययनकै क्रममा नेपाली काँग्रेसको आधिकारिक सदस्यता प्राप्त गरी सक्रिय राजनीतिमा संलग्नता।",
+      "link_to_source": "https://monkeyraters.com/politician/shekhar-koirala/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "डा शेखर कोइराला नेपाली काँग्रेसका एक बौद्धिक र प्रभावशाली नेता हुन्। कोइराला परिवारको राजनीतिक विरासत बोकेका उनले मोरङ जिल्लामा पटक-पटक निर्वाचन क्षेत्र परिवर्तन गरेका छन् (क्षेत्र ७ बाट ६ मा), जसले गर्दा उनलाई 'वागुवा' उम्मेदवारको रुपमा आलोचना गरिने गरेको छ। चिकित्सा पेशा छाडेर राजनीतिमा होमिएका उनले शान्ति प्रक्रिया र १२ बुँदे सम्झौतामा महत्वपूर्ण कूटनीतिक भूमिका खेलेका थिए। १४औँ महाधिवेशनमा देउवा विरुद्ध कडा प्रतिस्पर्धा गर्दै उनले पार्टीभित्र एउटा बलियो सुधारवादी धारको नेतृत्व गरे। यद्यपि, हालैका दिनहरूमा पार्टीभित्रको चरम गुटबन्दी र विभाजनका बेला निर्णायक भूमिका खेल्न नसक्दा उनको साखमा केही गिरावट आएको देखिन्छ। बिपी कोइराला स्वास्थ्य विज्ञान प्रतिष्ठानको उपकुलपति हुँदाका पुराना प्रशासनिक विवादहरू अझै पनि उनको छविमा चुनौतीका रूपमा रहेका छन्।",
+  "overall_approval_rating": 68
+}

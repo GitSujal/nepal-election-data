@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342489,
+  "candidate_name": "अनिल कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342489.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (भगवा)",
+      "date": "२०८१-०१-०१",
+      "details": "धनुषा जिल्लाबाट निर्वाचन लड्दै आएका यादवले आफ्नो क्षेत्र परिवर्तन गरी सर्लाहीबाट उम्मेदवारी दिएका छन्। यसलाई राजनीतिक वृत्तमा 'भगवा' प्रवृत्तिको रूपमा हेरिएको छ।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नं ३ बाट स्वतन्त्र उम्मेदवारी दिएका यादवले मात्र २१ मत प्राप्त गरी पराजित भएका थिए। उनले कुल सदर मतको अत्यन्तै न्यून हिस्सा प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnIJ9JWItQxBFgOv_XGiC12qzePxNb73WFMKdu4GSIddHz832uOcOp3acg4rZiUFezw1ZuByYsJW0WFT0aOe1HFcxwLMp46SJeIir4lI_DTgWXsKZxpV--yBpWAhEe13BAAWaekGT96nzTUX0RllWZNXA9R5S599ynn7X7QEPlLNQT6w0Z5nmNCDTp",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अनिल कुमार यादव एक स्वतन्त्र राजनीतिक उम्मेदवार हुन् जसको चुनावी इतिहास निकै कमजोर देखिन्छ। २०७९ को आम निर्वाचनमा धनुषा क्षेत्र नं ३ बाट प्रतिस्पर्धा गर्दा उनले मात्र २१ मत प्राप्त गरेका थिए, जसले उनको जनमत र राजनीतिक प्रभाव अत्यन्तै न्यून रहेको पुष्टि गर्दछ। हाल उनले धनुषा छोडेर सर्लाहीबाट उम्मेदवारी दिएका छन्, जसलाई निर्वाचन आयोगले 'भगवा' (Vaguwa) उम्मेदवारको रूपमा श्रेणीबद्ध गरेको छ। यसरी बारम्बार क्षेत्र परिवर्तन गर्नु र अघिल्लो निर्वाचनमा अत्यन्तै कम मत पाउनुले उनको राजनीतिक गम्भीरतामाथि प्रश्न खडा गर्दछ। उनी कुनै स्थापित राजनीतिक दलमा आबद्ध नभई स्वतन्त्र रूपमा चुनावी मैदानमा उत्रिने गरेका छन्। उनको प्रोफाइलमा कुनै ठूला भ्रष्टाचार वा काण्डहरू नदेखिए पनि राजनीतिक अस्थिरता र कमजोर जनाधार उनका मुख्य चुनौती हुन्।",
+  "overall_approval_rating": 15
+}

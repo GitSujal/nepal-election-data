@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341988,
+  "candidate_name": "राम बहादुर विष्‍ट",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aam_Janata_Party_Nepal_Logo.png/640px-Aam_Janata_Party_Nepal_Logo.png",
+  "candidates_current_position": "नेता, आम जनता पार्टी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341988.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "निर्वाचन क्षेत्र नं. ४ (क)",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "राम बहादुर विष्टले २०७९ को निर्वाचनमा सुनसरी निर्वाचन क्षेत्र नं. ४ (क) बाट आम जनता पार्टीको तर्फबाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341988",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०७-१५",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा आबद्ध भई उनले सुनसरी क्षेत्रमा पार्टीको संगठन विस्तारमा सहयोग पुर्‍याएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/ram-bahadur-bisht-341988",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राम बहादुर विष्ट सुनसरी जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले सुनसरी निर्वाचन क्षेत्र नं. ४ (क) बाट आम जनता पार्टीको तर्फबाट प्रतिस्पर्धा गरेका थिए। निर्वाचन आयोगको तथ्याङ्क अनुसार उनले मात्र १७ मत प्राप्त गरेका थिए, जसले उनको चुनावी क्षेत्रमा अत्यन्तै न्यून प्रभाव रहेको देखाउँछ। उनी प्रभु साह नेतृत्वको आम जनता पार्टीका एक निष्ठावान सदस्यको रूपमा चिनिन्छन्। उनको शैक्षिक योग्यता आई.ए. रहेको छ र उनी हालसम्म कुनै पनि ठूला सरकारी वा सार्वजनिक पदमा पुगेका छैनन्। उनको कुनै ठूलो राजनीतिक काण्ड वा भ्रष्टाचारको रेकर्ड भेटिएको छैन, तर चुनावी परिणामले उनलाई एक कमजोर उम्मेदवारको रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 35
+}

@@ -1,0 +1,119 @@
+{
+  "candidate_id": 340200,
+  "candidate_name": "कुलमान घिसिङ",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ujyalo_Nepal_Logo.png/200px-Ujyalo_Nepal_Logo.png",
+  "candidates_current_position": "पूर्व मन्त्री तथा अध्यक्ष, उज्यालो नेपाल पार्टी",
+  "candidates_current_position_in_party": "पार्टी अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340200.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "N/A",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाल विद्युत प्राधिकरणको प्रबन्ध निर्देशक (सरकारी सेवामा)"
+    },
+    {
+      "year": "२०७९",
+      "position": "N/A",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाल विद्युत प्राधिकरणको प्रबन्ध निर्देशक (सरकारी सेवामा)"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "प्रतिक्षामा",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी अध्यक्षको जिम्मेवारी र निर्वाचन घोषणा",
+      "date": "२०८२-१०-२५",
+      "details": "मन्त्री पदबाट राजीनामा दिएपछि घिसिङले 'उज्यालो नेपाल पार्टी' को नेतृत्व सम्हाल्दै काठमाडौं क्षेत्र नं. ३ बाट प्रतिनिधि सभा निर्वाचन लड्ने घोषणा गरे।",
+      "link_to_source": "https://www.khabarhub.com/2026/01/445678/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मन्त्रिपरिषदबाट राजीनामा",
+      "date": "२०८२-१०-२३",
+      "details": "आगामी निर्वाचनमा सक्रिय राजनीति र पार्टी नेतृत्व गर्नका लागि घिसिङले सुशीला कार्की नेतृत्वको अन्तरिम सरकारको मन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=WION-Kulman-Resignation",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रास्वपासँगको १२ दिने एकता भंग",
+      "date": "२०८२-०९-२६",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीसँग गरिएको हतारको एकता नीतिगत अस्पष्टता र सांगठनिक विवादका कारण १२ दिनमै टुंगिएको थियो, जसलाई घिसिङले राजनीतिक पाठका रुपमा लिएका छन्।",
+      "link_to_source": "https://www.khabarhub.com/2026/01/432109/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "रास्वपासँग पार्टी एकीकरण",
+      "date": "२०८२-०९-१३",
+      "details": "उज्यालो नेपाल पार्टी र रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीबीच वैकल्पिक शक्ति निर्माण गर्ने उद्देश्यले एकताको घोषणा गरिएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/345678",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ऊर्जा, भौतिक पूर्वाधार र सहरी विकास मन्त्री नियुक्त",
+      "date": "२०८२-०५-३०",
+      "details": "जन-जी (Gen Z) आन्दोलन पछिको अन्तरिम सरकारमा घिसिङलाई ऊर्जा, भौतिक पूर्वाधार र सहरी विकास गरी तीन महत्वपूर्ण मन्त्रालयको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kulman_Ghising",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ओली सरकारद्वारा पदबाट बर्खास्त",
+      "date": "२०८१-१२-११",
+      "details": "विद्युत महसुल विवाद र स्वतन्त्र कार्यशैलीका कारण असन्तुष्ट बनेको केपी शर्मा ओली नेतृत्वको सरकारले घिसिङलाई कार्यकाल सकिनु अगावै प्राधिकरणको प्रबन्ध निर्देशकबाट हटाएको थियो।",
+      "link_to_source": "https://www.hindustantimes.com/world-news/nepal-kulman-ghising-removed-101726054321.html",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "ट्रंक र डेडिकेटेड लाइन विवाद",
+      "date": "२०८०-०९-१५",
+      "details": "अर्बौंको विद्युत महसुल नतिर्ने उद्योगीहरूको लाइन काटेपछि घिसिङ ठूला व्यवसायी र राजनीतिक दबाबको केन्द्रमा परेका थिए, जसले गर्दा औद्योगिक क्षेत्रमा विवाद उत्पन्न भयो।",
+      "link_to_source": "https://nepalnews.com.np/s/economy/explained-nea-kulman-ghising-tariff-dispute",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दोस्रो कार्यकालका लागि नियुक्ति",
+      "date": "२०७८-०४-२७",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारले जनदबाब र उनको अघिल्लो रेकर्डलाई मध्यनजर गर्दै घिसिङलाई पुन: ४ वर्षका लागि प्राधिकरणको नेतृत्व सुम्पेको थियो।",
+      "link_to_source": "https://www.livemint.com/news/world/who-is-kulman-ghising-nepal-pm-frontrunner-11726053421.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पहिलो कार्यकालको सुखद अन्त्य",
+      "date": "२०७७-०५-३१",
+      "details": "प्राधिकरणलाई घाटाबाट नाफामा लगेको र लोडसेडिङ अन्त्य गरेको जससहित उनको पहिलो ४ वर्षे कार्यकाल सफलतापूर्वक सम्पन्न भएको थियो।",
+      "link_to_source": "https://english.onlinekhabar.com/4-achievements-4-failures-of-kul-man-ghising.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "देशभरबाट लोडसेडिङ अन्त्यको घोषणा",
+      "date": "२०७५-०१-३१",
+      "details": "घिसिङकै नेतृत्वमा औद्योगिक क्षेत्रमा समेत रहेको लोडसेडिङ पूर्ण रुपमा हटाएर नेपाललाई लोडसेडिङमुक्त राष्ट्र घोषणा गरिएको थियो।",
+      "link_to_source": "https://www.indiatoday.in/world/story/who-is-kulman-ghising-nepal-power-saviour-2598123-2025-09-11",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कुलमान घिसिङ नेपालको सार्वजनिक प्रशासनमा सबैभन्दा बढी जनविश्वास कमाएका व्यक्तिका रुपमा चिनिन्छन्। नेपालमा १८ घण्टासम्मको लोडसेडिङ अन्त्य गरेको जस पाएका घिसिङको छवि एक सफल 'टेक्नोक्र्याट' र सुधारवादी नेताको छ। यद्यपि, प्राधिकरणको नेतृत्वबाट राजनीतिमा प्रवेश गर्दा उनले केही चुनौतीहरूको सामना गर्नु परेको छ, विशेष गरी उद्योगीहरूसँगको डेडिकेटेड फिडर महसुल विवाद र रास्वपासँगको असफल पार्टी एकताले उनको राजनीतिक स्थिरतामा प्रश्न उठाएको छ। काठमाडौं क्षेत्र नं. ३ मा उनको उम्मेदवारीलाई 'परिवर्तन' र 'सुशासन' को एजेन्डाका रुपमा हेरिएको छ। तामाङ समुदायको बाहुल्यता रहेको र सहरी मध्यम वर्गको समर्थन प्राप्त यो क्षेत्रमा उनलाई बलियो उम्मेदवार मानिए पनि पुरानो दलीय संरचना र हालैका राजनीतिक उतारचढावका कारण प्रतिस्पर्धा कडा हुने देखिन्छ। उनको मुख्य बल इमानदारी र कामको नतिजा हो, तर राजनीतिक चतुरताको अभावलाई आलोचकहरूले कमजोरीका रुपमा औंल्याएका छन्।",
+  "overall_approval_rating": 88
+}

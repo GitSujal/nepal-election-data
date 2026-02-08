@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342486,
+  "candidate_name": "दिपेश कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "संलग्न नरहेको",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342486.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "निर्वाचन क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (भगौडा/वागुवा)",
+      "date": "२०८०-०६-१५",
+      "details": "अघिल्लो निर्वाचनमा धनुषाबाट प्रतिस्पर्धा गरेका यादवले यसपटक सर्लाही जिल्ला रोजेका छन्, जसलाई राजनीतिक वृत्तमा 'वागुवा' उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342486",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा लज्जास्पद हार",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नं. ४ बाट स्वतन्त्र उम्मेदवारी दिएका यादवले मात्र ३१ मत प्राप्त गरी पराजय भोगेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmuRUOxuAH_tGGPRkTlhhStdhoz9cWqOj75EmWpV1-n0-SzGjuLgHv-NPJ6VcBA4zO9BgkEiUNTVizhwXMlECfxC3gORcdsvfB_mQkYtM852bO_3v-af6YJF6fKDHVb-VRXg0Yjg8M9-W3Ayshvkw3M12JR10p-SAECbdshvnWiAJ1tNwn_ie7I5CZlZ8fDhg=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "दिपेश कुमार यादव मधेश प्रदेशको राजनीतिमा एक अत्यन्तै कमजोर चुनावी पकड भएका पात्र हुन्। २०७९ को आम निर्वाचनमा धनुषा-४ बाट स्वतन्त्र उम्मेदवारी दिँदा उनले केवल ३१ मत प्राप्त गरेका थिए, जसले उनको स्थानीय स्तरमा जनाधार नभएको पुष्टि गर्दछ। यस पटक उनले आफ्नो पुरानो क्षेत्र धनुषा छाडेर सर्लाही रोज्नुलाई राजनीतिक अवसरवाद र 'वागुवा' प्रवृत्तिको रूपमा विश्लेषण गरिएको छ। कुनै पनि स्थापित राजनीतिक दलसँग आबद्ध नभएको र अघिल्लो निर्वाचनमा प्राप्त अत्यन्त न्यून मतका कारण उनको चुनावी प्रतिस्पर्धाको सामर्थ्य नगण्य देखिन्छ। मतदातामाझ उनको परिचय र प्रभावको अभावले उनलाई यस पटक पनि कठिन चुनौती सामना गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 5
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340524,
+  "candidate_name": "मधु प्रसाद आचार्य",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_Nepali_Congress.svg/1200px-Flag_of_the_Nepali_Congress.svg.png",
+  "candidates_current_position": "नेपाली कांग्रेस केन्द्रीय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340524.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली कांग्रेस केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली कांग्रेसको १४औँ महाधिवेशनबाट मधु आचार्य लोकप्रिय मतका साथ केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भएका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfE-Nn1cjTsagVerfhivaL5pP0CJxgALOFpsg7Ck9ATDwUE2cF4dUU4XxqQgNNMPiJqOIEgYUVIu73riNJDKCutldw41z3zHmz9efcjo50PEwEKqSpJ47n2vpHUrsvxGZI4u0=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "काभ्रे क्षेत्र नं. २ बाट प्रतिनिधि सभाका लागि उम्मेदवार बनेका आचार्य एमालेका गोकुल बाँस्कोटासँग पराजित भए। उनले ३६,७५३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3VAONR1FrZmurMBr7R57Rbpu9AYr9coxsDwDnPSX_p-orBuLBlSn-ubL8zxCN2WXoZSAI3lyQnpzQsLhWi9RLHwQ2VU-ojEnuyDneZKuMCctvy40fWsiqEFks4oIYGho-r_VxpQtWi_ld3nMMhuituFGq2M-90cSzoAv7_SOOcPTwSnTPJ-NKk5c=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "काभ्रे कांग्रेस सभापतिमा दोस्रो कार्यकाल",
+      "date": "२०७२-११-२३",
+      "details": "मधु आचार्य नेपाली कांग्रेस काभ्रेको जिल्ला सभापतिमा पुनः निर्वाचित भई जिल्लाको नेतृत्व सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeJDksCDbdHnwOfxIH6HawIkQ8zUOkXYjtLi51j0oRtxq3dzT06vtihAmaGIVHn5S-VTVU6OGoPOqVrqB-BnLx2HZKxIt7kWP47C5Waxo5Xc_rOPL1mQUGj_rf7xBwqWcAGAXPXKsJgqSzsxRZA==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लोकतान्त्रिक गणतन्त्र अभियानको नेतृत्व",
+      "date": "२०६०-०२-१५",
+      "details": "पार्टीको नीति संवैधानिक राजतन्त्र रहेकै बेला देशभरका जिल्ला सभापतिहरूलाई भेला गराई गणतन्त्रको पक्षमा निर्णय गराउन सफल भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeJDksCDbdHnwOfxIH6HawIkQ8zUOkXYjtLi51j0oRtxq3dzT06vtihAmaGIVHn5S-VTVU6OGoPOqVrqB-BnLx2HZKxIt7kWP47C5Waxo5Xc_rOPL1mQUGj_rf7xBwqWcAGAXPXKsJgqSzsxRZA==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघ केन्द्रीय उपाध्यक्ष",
+      "date": "२०४८-०५-१०",
+      "details": "विद्यार्थी राजनीतिबाट उदाएका आचार्यले नेपाल विद्यार्थी संघको केन्द्रीय उपाध्यक्षका रूपमा जिम्मेवारी निर्वाह गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIeJDksCDbdHnwOfxIH6HawIkQ8zUOkXYjtLi51j0oRtxq3dzT06vtihAmaGIVHn5S-VTVU6OGoPOqVrqB-BnLx2HZKxIt7kWP47C5Waxo5Xc_rOPL1mQUGj_rf7xBwqWcAGAXPXKsJgqSzsxRZA==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मधु प्रसाद आचार्य नेपाली कांग्रेसका एक स्थापित बौद्धिक र सांगठनिक नेता हुन्। काभ्रे जिल्लाको राजनीतिमा लामो अनुभव सँगालेका आचार्य पूर्व जिल्ला सभापति समेत हुन्। उनलाई पार्टीभित्रका वैचारिक र निष्ठावान् नेताका रूपमा चिनिन्छ, र उनी विशेष गरी गगन थापा र शेखर कोइराला पक्षका निकट मानिन्छन्। २०७४ को चुनावमा पराजित भए पनि पार्टीको केन्द्रीय कार्यसमितिमा उनको पकड बलियो छ। उनकी पत्नी कमला पन्त पनि राष्ट्रिय सभा सदस्य तथा कांग्रेसको प्रभावशाली नेत्री हुन्, जसले उनको राजनीतिक प्रभावलाई थप मजबुत बनाएको छ। उनले इन्जिनियरिङको उच्च पद छोडेर राजनीतिमा लाग्नु र पार्टीलाई गणतन्त्रको पक्षमा ल्याउन खेलेको भूमिकालाई उनको प्रमुख राजनीतिक उपलब्धिको रूपमा हेरिन्छ।",
+  "overall_approval_rating": 74
+}

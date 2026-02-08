@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339685,
+  "candidate_name": "सन्तोष कुमार तमाङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Mongol_National_Organization.svg/1200px-Flag_of_Mongol_National_Organization.svg.png",
+  "candidates_current_position": "प्रदेश सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरिय कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339685.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "क्षेत्र नं २ (२)",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धादिङ निर्वाचन क्षेत्र नं २ (२) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका तमाङले मात्र ४८७ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-2079/district-dhading?pradesh=3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा सहभागी",
+      "date": "२०७४-०८-२१",
+      "details": "धादिङ क्षेत्र नं २ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गर्दा उनले निकै न्यून १३८ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनको एजेन्डामा सक्रिय",
+      "date": "२०७४-०१-०१",
+      "details": "उनले धादिङ जिल्लामा मंगोल नेशनल अर्गनाइजेसनको तर्फबाट 'अहिन्दू' र 'मंगोल' पहिचानको वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://ratopati.com/story/267336/2022/10/16/dhading-2-election",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सन्तोष कुमार तमाङ धादिङ जिल्लामा मंगोल नेशनल अर्गनाइजेसन (MNO) को प्रतिनिधित्व गर्ने एक सिमान्तकृत राजनीतिक पात्र हुन्। उनको निर्वाचन इतिहास हेर्दा २०७४ र २०७९ दुवै निर्वाचनमा उनले निकै कमजोर मत प्राप्त गरेको देखिन्छ, जसले गर्दा उनलाई स्थानीय स्तरमा 'वागुवा' उम्मेदवारको रूपमा हेरिएको छ। उनले प्रतिनिधित्व गर्ने दलको एजेन्डा जातीय र पहिचानवादी भए तापनि धादिङ क्षेत्र नं २ मा उनको प्रभाव अत्यन्त न्यून रहेको छ। निर्वाचनमा बारम्बारको हार र मत संख्यामा उल्लेख्य वृद्धि हुन नसक्नुले उनको राजनीतिक भविष्य चुनौतीपूर्ण देखाउँछ। मूलधारका ठूला दलहरूको वर्चस्व रहेको क्षेत्रमा उनको उपस्थिति केवल सांकेतिक मात्र देखिन्छ।",
+  "overall_approval_rating": 15
+}

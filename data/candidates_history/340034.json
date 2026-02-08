@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340034,
+  "candidate_name": "कृष्ण कुमार श्रेष्ठ",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://cpnuml.org/static/media/logo.8d23e590.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340034.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "N/A",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेकपा (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा एमालेमा फिर्ता",
+      "date": "२०८१-०४-०७",
+      "details": "एकीकृत समाजवादी छोडेर कृष्ण कुमार श्रेष्ठ पुनः आफ्नो पुरानो पार्टी नेकपा एमालेमा फर्किएका हुन्। उनले पार्टी विभाजनका बेला एमाले छोडेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBHw1zrNrEPBJz51dKz2nOSvIrWyU6FG10x3Heqv5WRMaNHGrIcoU4YqbV3HvzuZNA4PIDWk-ln1EtYQrxqI-DRaAgmE0xmYYRavbHIEbzzMfSh2QYNS_5d0LvYcFYYahsZsiikEvv",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बारा निर्वाचन क्षेत्र नं ४ बाट विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "आम निर्वाचन २०७९ मा एकीकृत समाजवादीबाट ३० हजार ३४१ मत प्राप्त गरी विजयी भएका थिए। उनले एमालेका एकवाल मियाँलाई पराजित गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtOQWTbg_scsXVJrSXnKhEsvcHNQ8sIsPH7xDTDwdSHdV3A0cX490wo0eVgZzLa6xqgNKQmo2PdUjlv5QP6S7ExgRpLqRoAUOmXwrwT-7yx1_hCi4YzGrpXB8djcj0LM3TNBEwWr9IHLQrUzx3Jot1aDasOA-bvCR2cIUE7mmMZpu9A74m0iQ5w2YbzO3LVG0o3qRHMLuGdnDT6u662XdOvI08kTfMHgfXUb9q5Y2x9fMRRHDVAJMUfYScxh4ZJb8UhndWRuMRNSqsWpd7PDf9zhMs-Xpe8SMVKitFcn1iqIvAVbtoxqPS4Qk8GhGNadqOg_Q=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्री",
+      "date": "२०७८-०६-२२",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा श्रेष्ठले श्रम मन्त्रीको जिम्मेवारी सम्हालेका थिए। उनले श्रम स्वीकृति प्रक्रियालाई अनलाइन र व्यवस्थित बनाउने प्रयास गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBgTDSNHO0I409yB4pjH0ssWP1YH1411wBTVZQpCbgou5QIAiainHQArwUzRqk_oIC-wF87DmKriqEtyGq9wa3IyU3CZlHyAuRWJ8SdUGc9LZHuWwIuHO3Qx-fVQ==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सांसद अपहरण प्रकरण आरोप",
+      "date": "२०७७-०१-१०",
+      "details": "तत्कालीन समाजवादी पार्टीका सांसद सुरेन्द्र यादवलाई महोत्तरीबाट काठमाडौं ल्याएको घटनामा उनीमाथि अपहरणको आरोप लागेको थियो। यद्यपि प्रहरीले प्रमाण नपुगेको भन्दै मुद्दा दर्ता गर्न मानेको थिएन।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXaQgoRTyg77YaTxmww8nPcaFYSpVP0wQJhkuTFwLrf0VK8-_MIIsc2a1bcFf8QuHmYv9PB7qZuTrSpH7Pp5h1S_MEQVCBKnrqrLzsVAO1NZ98-F0enKHtAYN0Zb8UC7OpI4lkD8=",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "तनहुँ १ बाट ऐतिहासिक जित",
+      "date": "२०७४-०८-२१",
+      "details": "नेपाली कांग्रेसका वरिष्ठ नेता रामचन्द्र पौडेललाई ६ हजार भन्दा बढी मतान्तरले पराजित गरी श्रेष्ठले पहिलोपटक प्रतिनिधिसभामा प्रवेश गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7SqavrLutOrMEWW1SPHUAoRPclu_sm5yPfsppWtuk_aNt8tO8fE_YMoUgQjl_TF-XnaBZGhIC4kqjXWr71pbvo4RGauO9x2eWGck7OP7A1uTL5IsSFZNwJVfVXXfj9dsg3Q==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कृष्ण कुमार श्रेष्ठ (किसान) नेपाली राजनीतिको एक चतुर र प्रभावशाली पात्र हुन्। २०७४ मा तनहुँबाट रामचन्द्र पौडेललाई पराजित गरेर 'जायन्ट किलर' को छवि बनाएका उनी २०७९ मा बारा सरेर पनि जित निकाल्न सफल भए। उनीमाथि लागेको सांसद सुरेन्द्र यादवको अपहरणको गम्भीर आरोपले उनको छविमा ठूलो दाग लागेको छ। श्रम मन्त्री हुँदा अनलाइन श्रम स्वीकृति जस्ता सकारात्मक काम गरे पनि बारम्बारको पार्टी परिवर्तन (एमाले → एकीकृत समाजवादी → पुनः एमाले) ले उनलाई सत्ताको केन्द्रमा रहन चाहने र अस्थिर नेताका रूपमा देखाउँछ। आफ्नो निर्वाचन क्षेत्र परिवर्तन गरे पनि स्थानीय स्तरमा प्रभाव कायम राख्न सक्नु उनको राजनीतिक चातुर्य हो।",
+  "overall_approval_rating": 45
+}

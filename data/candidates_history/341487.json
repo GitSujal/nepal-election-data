@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341487,
+  "candidate_name": "माधव प्रसाद राजवंशी",
+  "candidate_party": "राष्ट्रिय मुक्ति पार्टी नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/Rashtriya_Mukti_Party_Nepal.png",
+  "candidates_current_position": "नेता, राष्ट्रिय मुक्ति पार्टी नेपाल",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा निर्वाचन उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341487.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. २ (ख)",
+      "result": "पराजित",
+      "party": "लोकतान्त्रिक समाजवादी पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्धता",
+      "date": "२०८०-११-०१",
+      "details": "पहिचान र अधिकारको मुद्दालाई सशक्त बनाउन उहाँ राष्ट्रिय मुक्ति पार्टी नेपालमा सक्रिय हुनुभएको हो।",
+      "link_to_source": "https://sajilopatrika.com/news/madhav-prasad-rajbanshi-biography/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. २ (ख) बाट लोकतान्त्रिक समाजवादी पार्टीको तर्फबाट प्रदेश सभा सदस्यको लागि चुनाव लड्नुभएको थियो जसमा उहाँले ७८३ मत प्राप्त गर्नुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजवंशी समुदायको अधिकारका लागि वकालत",
+      "date": "२०७५-०५-१०",
+      "details": "मोरङ जिल्लाका स्थानीय राजवंशी समुदायको सामाजिक र राजनीतिक अधिकारका लागि विभिन्न अभियानहरूमा नेतृत्वदायी भूमिका निर्वाह गर्दै आउनुभएको छ।",
+      "link_to_source": "https://sajilopatrika.com/news/madhav-prasad-rajbanshi-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शैक्षिक यात्राको सुरुवात",
+      "date": "२०४५-०३-१५",
+      "details": "उहाँले मोरङको पार्वती माध्यमिक विद्यालयबाट आफ्नो विद्यालय स्तरको शिक्षा (एस.एल.सी.) पुरा गर्नुभएको थियो।",
+      "link_to_source": "https://sajilopatrika.com/news/madhav-prasad-rajbanshi-biography/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "माधव प्रसाद राजवंशी मोरङ जिल्लाका एक स्थानीय र जातीय पहिचानमा आधारित राजनीति गर्ने नेता हुन्। उहाँ मुख्यतया राजवंशी समुदायको उत्थान र अधिकारका लागि सक्रिय रहँदै आएका छन्। २०७९ को प्रदेश सभा निर्वाचनमा उहाँले लोकतान्त्रिक समाजवादी पार्टीबाट प्रतिस्पर्धा गरे तापनि उल्लेख्य मत प्राप्त गर्न सक्नुभएन, जसले उहाँको चुनावी पकड अझै कमजोर रहेको देखाउँछ। हाल राष्ट्रिय मुक्ति पार्टी नेपालमा आबद्ध हुनुले उहाँ आफ्नो राजनीतिक आधार विस्तार गर्न खोजिरहेको संकेत गर्दछ। उहाँको छवि एक निष्ठावान र विवादरहित सामाजिक कार्यकर्ताको रूपमा रहे पनि ठूला राजनीतिक दलहरूसँगको प्रतिस्पर्धामा उहाँलाई चुनौती देखिएको छ। निर्वाचनमा उहाँको प्रभाव सीमित क्षेत्र र समुदायमा मात्र केन्द्रित रहेको पाइन्छ।",
+  "overall_approval_rating": 38
+}

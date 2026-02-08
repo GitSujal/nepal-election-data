@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342617,
+  "candidate_name": "नगेन्द्र बहादुर लिम्वु",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/JSPN_Flag.png/300px-JSPN_Flag.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "सुनसरी जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342617.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नगेन्द्र बहादुर लिम्वुले सुनसरी क्षेत्र नम्बर १ (ख) बाट प्रदेश सभा सदस्यका लागि जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका थिए तर पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342617",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश नामाकरण सम्बन्धी आन्दोलनमा सहभागी",
+      "date": "२०७९-११-१७",
+      "details": "कोशी प्रदेशको नामाकरणको विरुद्धमा भएको पहिचानवादी आन्दोलनमा लिम्बुवान पक्षधर नेताको रूपमा सक्रिय सहभागिता जनाएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/03/1273945",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७७-०२-२५",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टी बीचको एकता पश्चात उनी जनता समाजवादी पार्टी, नेपालमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2020/04/23/158758832103517445.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "नगेन्द्र बहादुर लिम्वु सुनसरी जिल्लाको स्थानीय राजनीतिमा लामो समयदेखि सक्रिय पहिचानवादी नेता हुन्। उनले २०७९ को निर्वाचनमा सुनसरी १ (ख) बाट प्रदेश सभाका लागि प्रतिस्पर्धा गरे पनि सफलता प्राप्त गर्न सकेनन्। उनको राजनीतिक मुख्य एजेन्डा जातीय पहिचान र लिम्बुवान राज्यको अधिकारसँग जोडिएको छ। पार्टी संगठनमा उनी एक निष्ठावान कार्यकर्ताको रूपमा चिनिन्छन् र धरान क्षेत्रमा उनको राम्रो प्रभाव रहेको छ। हालसम्म उनी कुनै ठूला भ्रष्टाचार वा काण्डमा मुछिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको छ। यद्यपि, चुनावी राजनीतिमा भने उनले अझै जनमत बटुल्न बाँकी देखिन्छ।",
+  "overall_approval_rating": 52
+}

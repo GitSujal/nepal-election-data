@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339479,
+  "candidate_name": "ध्रुवराज राई",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://shramsanskriti.org.np/wp-content/uploads/2024/09/cropped-SSP-Logo-1.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339479.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "भोजपुर",
+      "constituency": "भोजपुर-१",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "भोजपुर निर्वाचन क्षेत्र १ बाट श्रम संस्कृति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर उनले उल्लेख्य मत प्राप्त गर्न सकेनन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "धरानका मेयर हर्क साम्पाङको अभियानबाट प्रभावित भई श्रम र संस्कृतिको जगमा राजनीति गर्ने उद्देश्यका साथ श्रम संस्कृति पार्टीमा आबद्ध भएका हुन्।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/1520694-1727092131.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को आम निर्वाचनमा सहभागी",
+      "date": "२०७४-०८-२१",
+      "details": "तत्कालीन राष्ट्रिय जनता पार्टी नेपाल (राजपा) बाट भोजपुर-१ मा चुनाव लडेका उनले जम्मा ३०३ मत प्राप्त गरी सातौं स्थानमा सीमित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०७०-०१-०१",
+      "details": "भोजपुरको स्थानीय राजनीतिमा साना दलहरूका माध्यमबाट आफ्नो पहिचान बनाउने प्रयासमा उनी लामो समयदेखि सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339479",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ध्रुवराज राई भोजपुर जिल्लाका एक निरन्तर संघर्षशील तर चुनावी रूपमा कमजोर राजनीतिक पात्र हुन्। उनले २०७४ सालको निर्वाचनमा तराई केन्द्रित दल 'राजपा' बाट पहाडी जिल्ला भोजपुरमा चुनाव लडेर आफ्नो उपस्थितिको प्रयास गरेका थिए, जहाँ उनले मात्र ३०३ मत पाएका थिए। पछिल्लो समय उनी हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीमा आबद्ध भई श्रम र उत्पादनको राजनीतिमा जोड दिइरहेका छन्। उनको राजनीतिक निष्ठामा कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, तर ठूला राजनीतिक दलहरूको वर्चस्व रहेको भोजपुरमा उनको पकड अत्यन्त न्यून देखिन्छ। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय भए तापनि मतदातालाई आकर्षित गर्न उनले अझै धेरै जनस्तरको काम गर्न आवश्यक देखिन्छ।",
+  "overall_approval_rating": 42
+}

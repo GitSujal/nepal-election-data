@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340640,
+  "candidate_name": "रामवावु कुमार यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "पूर्व प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340640.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "३",
+      "result": "विजयी",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०५",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर ३ बाट १७,२७९ मत प्राप्त गर्दै नेकपा एमालेकी ज्वाला कुमारी साहसँग पराजित हुनुभयो।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-०८-२५",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर ३ बाट २१,३३६ मत प्राप्त गरी ४,९७४ मतान्तरले विजयी हुनुभएको थियो।",
+      "link_to_source": "https://nepsebajar.com/candidate/ramwavu-kumar-yadav-election-result-340640",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जसपा गठनमा सहभागिता",
+      "date": "२०७७-०१-११",
+      "details": "तत्कालीन संघीय समाजवादी फोरम र राष्ट्रिय जनता पार्टी बीचको एकतामा सक्रिय भूमिका खेल्दै एकीकृत जसपाको सदस्य बन्नुभयो।",
+      "link_to_source": "https://ekantipur.com/news/2020/04/23/158760926507742055.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बारा ३ को उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंसिर ४ को निर्वाचनका लागि जसपाको तर्फबाट बारा क्षेत्र नं ३ मा आधिकारिक रुपमा उम्मेदवारी दर्ता गराउनुभयो।",
+      "link_to_source": "https://nepsebajar.com/election/2082/twelve/election-candidate/340640",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बाराको विकास योजनाको अनुगमन",
+      "date": "२०७५-०३-१२",
+      "details": "सांसदको रूपमा बारा क्षेत्रमा विनियोजित बजेट र विकास निर्माणका कार्यहरूको स्थलगत अनुगमन र निर्देशन दिनुभएको थियो।",
+      "link_to_source": "https://nepsebajar.com/candidate/ramwavu-kumar-yadav-election-result-340640",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रामवावु कुमार यादव बारा जिल्लाको राजनीतिमा जनता समाजवादी पार्टी (जसपा) का एक प्रभावशाली नेता हुनुहुन्छ। २०७४ सालको निर्वाचनमा संघीय समाजवादी फोरमको तर्फबाट विजयी भएर उहाँले यस क्षेत्रमा आफ्नो पकड बलियो बनाउनुभएको थियो। यद्यपि, २०७९ को निर्वाचनमा नेकपा एमालेकी ज्वाला कुमारी साहसँग पराजित हुनुले उहाँको क्षेत्रमा जनमत केही खस्किएको संकेत गर्दछ। उहाँले मधेस केन्द्रित राजनीतिमा लामो समयदेखि सक्रिय रहँदै पार्टी एकता र विभाजनका उतारचढावहरूमा उपेन्द्र यादव पक्षलाई साथ दिँदै आउनुभएको छ। उहाँलाई 'टुरिस्ट' उम्मेदवार नभई स्थानीय स्तरमै भिजेको नेताका रूपमा हेरिन्छ, तर अघिल्लो कार्यकालमा सोचे अनुसारको विकास नभएको भनी केही स्थानीय गुनासोहरू पनि सुनिने गरेका छन्।",
+  "overall_approval_rating": 65
+}

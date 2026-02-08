@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339315,
+  "candidate_name": "अमिताभ बच्चन दास तत्मा",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी तथा समाजसेवी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339315.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "पर्सा क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "पर्सा क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://ratopati.com/story/409605/voters-in-parsa-district-express-disillusionment-vow-to-bring-revolution-at-ballot-box-ahead-of-elections",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उच्च शिक्षा हासिल",
+      "date": "२०७०-०१-०१",
+      "details": "ठाकुरराम बहुमुखि क्याम्पस, वीरगन्जबाट स्नातकोत्तर (MA) तहको शिक्षा सफलतापूर्वक पूरा गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339315",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय सामाजिक सेवामा संलग्नता",
+      "date": "२०७५-०१-०१",
+      "details": "पर्सा जिल्लाका विभिन्न स्थानीय सामाजिक कार्यहरू र दलित तथा पिछडिएका समुदायको उत्थानका लागि सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339315",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अमिताभ बच्चन दास तत्मा पर्सा जिल्लाका एक शिक्षित राजनीतिकर्मी हुन् जसको नाम प्रसिद्ध भारतीय अभिनेतासँग मिल्दोजुल्दो भएकाले निर्वाचनको समयमा निकै चर्चामा आएका थिए। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा पर्सा क्षेत्र नं. २ बाट प्रगतिशील लोकतान्त्रिक पार्टीको प्रतिनिधित्व गर्दै चुनावी मैदानमा उत्रिएका थिए। यद्यपि, मुख्यधारका ठूला राजनीतिक दलहरू जस्तै नेपाली कांग्रेस र जनता समाजवादी पार्टीको कडा प्रतिस्पर्धाका कारण उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। स्नातकोत्तर तहको शिक्षा हासिल गरेका तत्मा स्थानीय स्तरमा सामाजिक कार्यमा सक्रिय छन्, तर उनको राजनीतिक आधार साना र वैकल्पिक दलमा सीमित रहेकाले चुनावी नतिजामा भने पछि परेका देखिन्छन्।",
+  "overall_approval_rating": 38
+}

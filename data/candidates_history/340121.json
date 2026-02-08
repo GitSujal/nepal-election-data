@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340121,
+  "candidate_name": "रमेश प्रसाद धमला",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_the_Nepali_Congress.svg",
+  "candidates_current_position": "नेपाली कांग्रेस केन्द्रीय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340121.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "२ (क)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "धादिङ",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली कांग्रेसको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०५",
+      "details": "नेपाली कांग्रेसको १४औं महाधिवेशनबाट रमेश धमला केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/257321",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा समानुपातिक उम्मेदवार",
+      "date": "२०७९-०७-०७",
+      "details": "२०७९ को निर्वाचनमा नेपाली कांग्रेसले उनलाई प्रतिनिधिसभाको समानुपातिक सूचीमा समावेश गरेको थियो।",
+      "link_to_source": "https://election.gov.np/np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लकडाउन उल्लंघन गरी राजनीतिक भेला गरेको आरोप",
+      "date": "२०७७-०२-०३",
+      "details": "कोरोना महामारीको समयमा जारी लकडाउन उल्लंघन गर्दै धादिङमा पार्टी प्रवेश कार्यक्रम र भिडभाड गरेको भन्दै उनको आलोचना भएको थियो।",
+      "link_to_source": "https://diyopost.com/archives/117973",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "धादिङ क्षेत्र नं २ (क) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका धमला एमालेका रामकुमार अधिकारीसँग करिब १३०० मतले पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-2074/district-dhading?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "भूकम्प राहत तथा उद्धार कोषको नेतृत्व",
+      "date": "२०७२-०१-१७",
+      "details": "२०७२ को महाभूकम्पपछि टानको अध्यक्षको रूपमा उनले भूकम्प पीडित पदयात्रा श्रमिक र स्थानीयका लागि राहत र उद्धार कार्यको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://www.nagariknetwork.com/news/1739/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "टान (TAAN) को अध्यक्षमा निर्वाचित",
+      "date": "२०७०-०५-३१",
+      "details": "ट्रेकिङ एजेन्सिज एसोसिएसन अफ नेपाल (टान) को ३५औं साधारण सभाबाट धमलाको प्यानलले पूर्ण बहुमतका साथ विजय हासिल गरेको थियो।",
+      "link_to_source": "https://www.taan.org.np/former-presidents",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली कांग्रेस धादिङको जिल्ला सभापति",
+      "date": "२०७२-११-२०",
+      "details": "उनले नेपाली कांग्रेस धादिङको जिल्ला सभापतिको रूपमा संगठन विस्तारमा महत्वपूर्ण भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/34721",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्ववियु सचिवमा निर्वाचित",
+      "date": "२०३८-०१-१५",
+      "details": "विद्यार्थी राजनीतिबाट राजनीतिक यात्रा सुरु गरेका धमला २०३८ सालमा स्वतन्त्र विद्यार्थी युनियनको सचिव पदमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://dhadingpost.com/2023/01/29/18274/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रमेश प्रसाद धमला नेपाली कांग्रेसका एक प्रभावशाली र प्रखर नेता हुन्। पर्यटन व्यवसायी र राजनीतिकर्मी दुवै पहिचान बनाएका धमलाले टान (TAAN) को अध्यक्षको रूपमा नेपालको पर्यटन क्षेत्रको नेतृत्व गरिसकेका छन्। धादिङ जिल्लाको राजनीतिमा लामो समयदेखि सक्रिय रहेका उनी पूर्व जिल्ला सभापति हुन् र हाल पार्टीको केन्द्रीय कार्यसमिति सदस्यका रूपमा कार्यरत छन्। २०७४ को प्रदेश सभा निर्वाचनमा झिनो मतले पराजित भए पनि उनी धादिङमा कांग्रेसको बलियो खम्बा मानिन्छन्। २०७९ को निर्वाचनमा टिकट वितरणमा केही विवाद देखिए पनि उनलाई पार्टीले समानुपातिक सूचीमा राखेको थियो। उनको व्यावसायिक अनुभव र सांगठनिक पकड उनको मुख्य सबल पक्ष हो भने निर्वाचनमा अपेक्षित जित निकाल्न नसक्नु र लकडाउनका बेला गरिएका गतिविधि जस्ता केही विवादहरू उनको चुनौतीका रूपमा रहेका छन्।",
+  "overall_approval_rating": 72
+}

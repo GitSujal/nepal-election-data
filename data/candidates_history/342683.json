@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342683,
+  "candidate_name": "अलाहुद्दीन दर्जी",
+  "candidate_party": "बहुजन शक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Elephant_Bahujan_Samaj_Party.svg/1200px-Elephant_Bahujan_Samaj_Party.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342683.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "बहुजन शक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "अलाहुद्दीन दर्जीले कपिलबस्तु क्षेत्र नं. ३ बाट बहुजन शक्ति पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। यस निर्वाचनमा उनले २४९ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/constituency/37",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बहुजन शक्ति पार्टीमा आबद्धता",
+      "date": "२०७५-०३-१०",
+      "details": "दर्जी लामो समयदेखि दलित र अल्पसंख्यक समुदायको अधिकारका लागि लड्ने बहुजन शक्ति पार्टीमा आबद्ध रही स्थानीय स्तरमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://election.gov.np/np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अलाहुद्दीन दर्जी कपिलबस्तु जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले विशेष गरी दलित र अल्पसंख्यक समुदायको हकहितका लागि बहुजन शक्ति पार्टीमार्फत आवाज उठाउँदै आएका छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा कपिलबस्तु क्षेत्र नं. ३ बाट उम्मेदवार बने पनि उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। उनको राजनीतिक प्रभाव मुख्यतया आफ्नो समुदायभित्र केन्द्रित छ। राष्ट्रिय राजनीतिमा उनको उपस्थिति न्यून देखिए पनि स्थानीय स्तरमा सामाजिक मुद्दाहरूमा उनी सक्रिय देखिन्छन्। हालसम्म उनको विरुद्धमा कुनै ठूला भ्रष्टाचार वा विवादहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनको छवि सफा रहेको छ। यद्यपि, चुनावी नतिजाको आधारमा उनको राजनीतिक शक्ति र लोकप्रियता भने कमजोर देखिएको छ।",
+  "overall_approval_rating": 42
+}

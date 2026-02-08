@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340244,
+  "candidate_name": "प्रदिप कुमार शाह",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rastriya_Prajatantra_Party_Logo.png/220px-Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "सक्रिय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340244.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बाँके",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय प्रजातन्त्र पार्टीमा पुनरागमन",
+      "date": "२०७९-०९-२०",
+      "details": "स्वतन्त्र रूपमा निर्वाचन लडेपछि प्रदिप कुमार शाह पुनः राष्ट्रिय प्रजातन्त्र पार्टीको मूलधारमा फर्किएका छन्। उनी अहिले पार्टीको स्थानीय संगठन सुदृढीकरणमा संलग्न छन्।",
+      "link_to_source": "https://www.lokpath.com/election/candidates/340244",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "बाँके क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दा उनले ९२५ मत प्राप्त गरे। पार्टीले टिकट नदिएपछि उनले विद्रोही उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqidQVc-aTeYm3J0DiNEbo5td5dQvQehZUCseMFAL5Tw2IJNS_eynNVDflXfZH0fkHkWectQMLjKE3GIgSxQYv-jz3XTPkERnFAwwTipAIO2F7DnoraWLwou9YhxaHHPww5IGQVVAZ_P65W3wP1HzUFv8YCRqBidpHCN7LUjjewEoZIufjJtbp12dKs3aW",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राप्रपाका विभिन्न घटकहरूमा आबद्धता",
+      "date": "२०७४-०५-१०",
+      "details": "पार्टी विभाजनका क्रममा शाह एकीकृत राष्ट्रिय प्रजातन्त्र पार्टी (राष्ट्रवादी) र राप्रपा प्रजातान्त्रिक जस्ता विभिन्न घटकहरूमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340244",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "प्रदिप कुमार शाह बाँके जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसको राजनीतिक यात्रा राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) का विभिन्न घटकहरूसँग जोडिएको छ। २०७९ को आम निर्वाचनमा उनले बाँके क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारी दिएका थिए, तर उनले मात्र १.३१ प्रतिशत (९२५ मत) प्राप्त गरी पराजय भोगे। उनी राप्रपाको विभाजन र एकताको प्रक्रियामा विभिन्न गुटहरूमा संलग्न रहेका देखिन्छन्, जसले उनको राजनीतिक अस्थिरतालाई संकेत गर्दछ। निर्वाचनमा कमजोर प्रदर्शन र बारम्बारको गुट परिवर्तनका कारण उनको जनमत र राजनीतिक प्रभाव हाल संकुचित रहेको देखिन्छ। यद्यपि, उनी बाँकेको स्थानीय राजनीतिमा राप्रपाको विचारधारा बोक्ने एक परिचित पात्रका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 38
+}

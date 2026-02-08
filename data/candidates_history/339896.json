@@ -1,0 +1,111 @@
+{
+  "candidate_id": 339896,
+  "candidate_name": "प्रेम सुवाल",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/NWPP_logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339896.jpg",
+  "election_history": [
+    {
+      "year": "२०५४",
+      "position": "मेयर",
+      "district": "भक्तपुर",
+      "constituency": "भक्तपुर नगरपालिका",
+      "result": "विजयी",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "N/A",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "भक्तपुर १",
+      "result": "विजयी",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "भक्तपुर १",
+      "result": "विजयी",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी केन्द्रीय सचिवमा पुनः निर्वाचित",
+      "date": "२०८१-११-२०",
+      "details": "नेपाल मजदुर किसान पार्टीको आठौँ महाधिवेशनबाट प्रेम सुवाल सर्वसम्मत रूपमा केन्द्रीय सचिवमा पुनः निर्वाचित भएका हुन्। उनी लामो समयदेखि पार्टीको नेतृत्वदायी भूमिकामा रहँदै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv3F8NpAWxK2y3kYoCCG9zKUbobc0Dfk2yZDYJnrhHFfGHCzK5irHVoIOSC0ZVp5ZGfPMVIhd60VQNOAccSe5r9opeu6XG94Wx3HUsIakgNjF3xHBf1vl9BxxxyUVe1BgXCaCe7yppAA==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा ऐतिहासिक जित",
+      "date": "२०७९-०८-०८",
+      "details": "भक्तपुर क्षेत्र नं. १ बाट ४२,७६१ मत प्राप्त गरी भारी मतान्तरले विजयी भएका हुन्। उनले आफ्ना निकटतम प्रतिद्वन्द्वीलाई ३०,७९३ मतको अन्तरले पराजित गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnnyaK3Ta8cvB-OiRNd9eCLO_Z9j12RuC3hZ_UblFfOhLTrXepGV9Lp-8QTGqH8DqEU6uCickPmVuAYmkiJzDjqRXTifrvKIz09B7uEuxnuVBYRj_z7tzFrGWn194Fut1JyArYpNW36kv6uyvDMCbV6BToXIrEEMPLoTBQdyXrJNKnLSM=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमसीसी सम्झौताको संसदमा कडा विरोध",
+      "date": "२०७८-११-१५",
+      "details": "अमेरिकी अनुदान सहयोग एमसीसी सम्झौता राष्ट्रहित विपरित रहेको भन्दै उनले संसदमा कडा स्वरमा विरोध जनाएका थिए। यसलाई उनले 'राष्ट्रघाती' सम्झौताको संज्ञा दिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM5DP_q_7IXltRduia_Mc6z5RSOFKMPqaJTx2UwL-obnlRk3hM8r1cmucgtCMiaIYnUZEvT6gRzxlGhL5nQeoPg-pzMsV2-_g-tIR5QGvS4Ke89t1f4u5Qk463PTDuCFY_rg==",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ राजनीतिक नक्साको पक्षमा मतदान",
+      "date": "२०७७-०२-३१",
+      "details": "लिम्पियाधुरा, लिपुलेक र कालापानी समेटिएको नेपालको नयाँ राजनीतिक नक्सालाई संवैधानिक मान्यता दिने संविधान संशोधन प्रस्तावको पक्षमा उनले दृढतापूर्वक मतदान गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCr5GbdOY_LbVQmmSWqlM_DMNhnq3V_XOLVVfa1TbioiF7KjT4O90ejce0hS53FaJhcVU5tMA7mCZQ97Hzm08pkFazzKMo-yKY6R1ObeKO1yscTutonRbiXm_Rk68c-zwQJqZxAaAJ7qPQ",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा निर्वाचन",
+      "date": "२०७४-०८-२१",
+      "details": "भक्तपुर क्षेत्र नं. १ बाट ३३,०७६ मत ल्याई पहिलो पटक प्रतिनिधिसभा सदस्यमा प्रत्यक्ष निर्वाचित भएका हुन्। यो जितसँगै उनले नारायणमान बिजुक्छेको विरासत सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxDYEJVwszzoegJTgf1nIKS6rSPgdVJroUQnM73GB1BnYj_kaHWUx4geXb1OhdF-4iYMnxbJqx6ZyVSzpy1dlSKdLqSC-CYL8vAQfKOHCSYNet3DlpBBaXG7SeNMmlPOuGznfMdLI4vKAvlPwhcnj_vSkj",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधानसभा सदस्य चयन",
+      "date": "२०७०-०८-०४",
+      "details": "दोस्रो संविधानसभा निर्वाचनमा नेमकिपाको तर्फबाट समानुपातिक प्रणालीमार्फत सदस्य निर्वाचित भई संविधान लेखनमा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqbamq19bJi6ghhof1Q10-d5VYrDmhzufFh8au78TTgnuo_J3pdA_1sX2miByyMNoWJLPqN9Gnum_Wtw5D58clx2bj7phbo6_hcuv8R8K36pkpwDhHxFHY_VxKnyggElys1D7jn7YGbXxkptqVRFWMUKZpmBsZ6gsQNpWxNI-z7PwXB-jH_coI-K1EgQRTAPelFit46wAzpdnl9JL2uNCik4HTYPcz5iBYTQONCwRzQ3qe8Xc=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मेयर कार्यकाल र पारदर्शिताको सम्मान",
+      "date": "२०५६-०६-०१",
+      "details": "मेयरका रूपमा उनले भक्तपुरमा गरेको भ्रष्टाचारमुक्त र पारदर्शी कार्यका कारण ट्रान्सपरेन्सी इन्टरनेशनलले भक्तपुर नगरपालिकालाई 'टापुको निष्ठा' (Island of Integrity) सम्मान दिएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvzdZkHwqFjyt0dNUn2-tGaDTvUNV5D8q-8swehD308uahE6eH5PuLHqtbRqxU8eT0wXzOWjSkIC8Y0w9r4MRPXTbg-VL60lyJmwqFgYxkidOs7OVTrQFjmhBzSPiuUqw6UknPYAs543yxQg==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भक्तपुर नगरपालिकाको मेयरमा विजयी",
+      "date": "२०५४-०३-०१",
+      "details": "स्थानीय निकाय निर्वाचनमा भक्तपुर नगरपालिकाको मेयरमा निर्वाचित भई उनले स्थानीय विकास र सम्पदा संरक्षणमा नमुना कामको सुरुवात गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvSekaSegBnooB86dxsqHwhOfSyARcgeV8Z7u7viIddrriUdmUmjA-7oa1C9HoFCQbaQBGbPKgP_KGTvyKUmX9PZLOJmrotzu5FOq3QhKyqK2DXokPvwU1D2g1xPIMWh1WuWyVGQrOTb92TTXZfmEErDbWG2bc7Shw",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रेम सुवाल नेपाल मजदुर किसान पार्टीका एक प्रभावशाली र अनुशासित नेता हुन्। भक्तपुरको राजनीतिमा उनको पकड अत्यन्त बलियो छ, जसलाई २०७९ को निर्वाचनमा उनले प्राप्त गरेको भारी मतान्तरले पुष्टि गर्दछ। उनी संसदमा सबैभन्दा बढी प्रश्न उठाउने र सक्रिय रहने सांसदका रूपमा चिनिन्छन्, जसले गर्दा उनलाई 'एक्लो प्रतिपक्ष' समेत भन्ने गरिन्छ। भक्तपुर नगरपालिकाको मेयर हुँदा उनले गरेको पारदर्शिता र सम्पदा संरक्षणको कार्यले उनलाई एक स्वच्छ र नैतिक छविको नेताका रूपमा स्थापित गरेको छ। उनी नेमकिपाका अध्यक्ष नारायणमान बिजुक्छेका राजनीतिक उत्तराधिकारी र प्रमुख प्रवक्ता मानिन्छन्। संसदमा एमसीसीको विरोध र सीमा सुरक्षाका विषयमा उनको अडान सधैं चर्चामा रहने गर्दछ। उनको राजनीतिक यात्रामा कुनै ठूला भ्रष्टाचार काण्ड नभएका कारण उनलाई जनताले पूर्ण विश्वास गरेका छन्। समग्रमा, सुवाल आफ्नो पार्टीको सिद्धान्त र जनताको सेवामा अडिग रहने नेता हुन्।",
+  "overall_approval_rating": 95
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340682,
+  "candidate_name": "बल बहादुर मल्ल",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg/1024px-Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg.png",
+  "candidates_current_position": "उद्योग, पर्यटन, वन तथा वातावरण मन्त्री, कर्णाली प्रदेश",
+  "candidates_current_position_in_party": "सदस्य, कर्णाली प्रदेश समिति",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340682.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "जाजरकोट १ (ख)",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश मन्त्रीमा नियुक्ति",
+      "date": "२०८१-०६-२१",
+      "details": "कर्णाली प्रदेशको उद्योग, पर्यटन, वन तथा वातावरण मन्त्रीमा नियुक्त भई कार्यभार सम्हालेका।",
+      "link_to_source": "https://karnali.gov.np/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचनमा विजयी",
+      "date": "२०७९-०८-०४",
+      "details": "जाजरकोट १ (ख) बाट ११,८८० मत प्राप्त गर्दै नेकपा एमालेका खिम बहादुर शाहीलाई ६०७ मतले पराजित गरी विजयी भएका।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी जिल्ला नेतृत्वमा सक्रियता",
+      "date": "२०७५-०२-०३",
+      "details": "नेकपा (माओवादी केन्द्र) र नेकपा (एमाले) को एकतापछि बनेको तत्कालीन नेपाल कम्युनिस्ट पार्टी (नेकपा) को जाजरकोट जिल्ला नेतृत्वमा सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://nepsebajar.com/candidate/bal-bahadur-malla-340682",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बल बहादुर मल्ल जाजरकोटका प्रभावशाली माओवादी नेता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा जाजरकोट १ (ख) बाट निर्वाचित भएपछि उनको राजनीतिक कद बढेको हो। उनी हाल कर्णाली प्रदेश सरकारमा उद्योग, पर्यटन, वन तथा वातावरण मन्त्रीको रूपमा महत्वपूर्ण जिम्मेवारी सम्हालिरहेका छन्। स्थानीय स्तरमा जनतासँग प्रत्यक्ष जोडिएका मल्ललाई पार्टीभित्र एक संगठक र निष्ठावान नेताको रूपमा चिनिन्छ। उनको संसदीय कार्यकालमा जाजरकोटको विकास र वन वातावरण संरक्षणमा केन्द्रित हुने अपेक्षा गरिएको छ। हालसम्म उनी कुनै ठूलो विवाद वा भ्रष्टाचारको काण्डमा मुछिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको छ।",
+  "overall_approval_rating": 82
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342313,
+  "candidate_name": "दिलिप प्रसाद जैसवाल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व राष्ट्रिय सभा सदस्य",
+  "candidates_current_position_in_party": "स्वतन्त्र राजनीतिज्ञ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342313.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "राष्ट्रिय सभा सदस्य",
+      "district": "मधेश प्रदेश",
+      "constituency": "मधेश प्रदेश (अन्य समूह)",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी नेपाल (राजपा)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "पार्टीले टिकट नदिएपछि २०७९ को प्रतिनिधि सभा निर्वाचनमा रौतहट क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://inseconline.org/re-nepal/election-2079-nomination-registration-in-madhesh-province/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय सभा सदस्यको कार्यकाल समाप्ति",
+      "date": "२०७८-११-२०",
+      "details": "राष्ट्रिय सभा सदस्यका रूपमा ६ वर्षे कार्यकाल पूरा गरी उनी बिदा भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/candidate/342313/dilip-prasad-jaiswal",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-१०-२४",
+      "details": "तत्कालीन राष्ट्रिय जनता पार्टी (राजपा) का तर्फबाट मधेश प्रदेशबाट राष्ट्रिय सभा सदस्यमा विजयी भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/candidate/342313/dilip-prasad-jaiswal",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लोकतान्त्रिक समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७८-०५-०९",
+      "details": "जनता समाजवादी पार्टी विभाजन पछि उनी महन्थ ठाकुर नेतृत्वको लोकतान्त्रिक समाजवादी पार्टी (लोसपा) मा लागेका थिए।",
+      "link_to_source": "https://nepsebajar.com/candidate/342313/dilip-prasad-jaiswal",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दिलिप प्रसाद जैसवाल रौतहटको राजनीतिमा एक परिचित नाम हुन्। उनी २०७४ सालको निर्वाचनमा राष्ट्रिय सभा सदस्यका रूपमा निर्वाचित भएर केन्द्रीय राजनीतिमा प्रवेश गरेका थिए। तत्कालीन राष्ट्रिय जनता पार्टी (राजपा) सँग आबद्ध रहेका जैसवाल पछिल्लो समय पार्टीगत राजनीति भन्दा स्वतन्त्र रूपमा सक्रिय देखिन्छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा रौतहट क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारी दिए पनि उनी पराजित हुन पुगे। उनको मुख्य राजनीतिक शक्ति मधेश आन्दोलनको रापताप र स्थानीयस्तरमा रहेको उनको प्रभाव नै हो। यद्यपि, प्रमुख दलहरूको टिकट नपाउँदा र स्वतन्त्र लड्दा उनलाई संसदीय राजनीतिमा फर्कन कठिन देखिएको छ। उनीमाथि हालसम्म कुनै ठूला भ्रष्टाचारका काण्डहरू पुष्टि भएका छैनन्, जसले गर्दा उनको छवि तुलनात्मक रूपमा सफा मानिन्छ।",
+  "overall_approval_rating": 65
+}

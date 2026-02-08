@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339780,
+  "candidate_name": "सुरेन्द्र प्रसाद ढकाल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339780.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं निर्वाचन क्षेत्र नं १ बाट स्वतन्त्र उम्मेदवारी दिएका ढकालले मात्र ९२ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339780",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एमसीसी विरुद्ध सर्वोच्चमा रिट",
+      "date": "२०७८-११-१०",
+      "details": "मिलेनियम च्यालेन्ज कर्पोरेसन (एमसीसी) सम्झौता राष्ट्रघाती भएको भन्दै त्यसलाई रोक्न उनले सर्वोच्च अदालतमा रिट दायर गरेका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2022/02/22/petition-against-mcc-rejected-advocate-challenges-rejection",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (माले) परित्याग",
+      "date": "२०७९-०६-०१",
+      "details": "लामो समय नेकपा (माले) मा केन्द्रीय सदस्य र प्रवक्ताको भूमिकामा रहेका ढकालले निर्वाचन अघि पार्टी परित्याग गरी स्वतन्त्र बनेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339780",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल-भारत सीमा विवादमा सक्रियता",
+      "date": "२०७७-०३-०५",
+      "details": "लिम्पियाधुरा, लिपुलेक र कालापानी समेटिएको नयाँ नक्सा जारी गर्ने सन्दर्भमा नागरिक दबाब अभियानमा सहभागी।",
+      "link_to_source": "https://www.ekantipur.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुरेन्द्र प्रसाद ढकाल नेपालको राजनीतिमा एक सक्रिय अभियन्ता र साना दलका पूर्व नेता हुन्। उनको राजनीतिक पहिचान मुख्यतया राष्ट्रवादी एजेन्डा र वैदेशिक सहायता सम्झौताहरूको विरोधमा आधारित छ। २०७९ को निर्वाचनमा काठमाडौं-१ बाट स्वतन्त्र उम्मेदवारी दिए पनि उनले प्राप्त गरेको न्यून मत (९२) ले उनको जनस्तरमा रहेको कमजोर प्रभावलाई स्पष्ट पार्छ। उनी नेकपा (माले) को प्रवक्ता जस्तो जिम्मेवार पदमा रहे पनि संसदीय राजनीतिमा भने सफल हुन सकेका छैनन्। उनको 'भगुवा' वा 'पर्यटक' छवि नभए पनि पटक-पटकको हार र पार्टी परिवर्तनले उनको राजनीतिक भविष्य चुनौतीपूर्ण देखिन्छ। उनी चुनावी नतिजा भन्दा पनि मुद्दा आधारित राजनीतिमा बढी केन्द्रित देखिन्छन्।",
+  "overall_approval_rating": 28
+}

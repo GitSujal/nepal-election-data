@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342520,
+  "candidate_name": "कैलाश महत्तो",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा महोत्तरी जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342520.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी (स्वतन्त्र उम्मेदवार)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "बैंक ब्याजदर विरुद्धको आन्दोलनमा नेतृत्व",
+      "date": "२०८०-०३-१५",
+      "details": "बैंक तथा वित्तीय संस्थाहरूको चर्को ब्याजदर विरुद्ध आम जनता पार्टीले गरेको मधेस प्रदेश व्यापी आन्दोलन र धर्ना कार्यक्रममा महोत्तरीमा नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342520",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम जनता पार्टीको केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७९-१०-१०",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा उनी संस्थापक केन्द्रीय सदस्यका रूपमा चयन भएका थिए।",
+      "link_to_source": "https://theannapurnaexpress.com/news/what-is-ck-raut-doing-now-2486",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "महोत्तरी निर्वाचन क्षेत्र नम्बर ३ बाट स्वतन्त्र उम्मेदवार (आम जनता पार्टी समूह) का रूपमा निर्वाचनमा प्रतिस्पर्धा गरेका थिए तर पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-2/district-mahottari?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रभु साह समूहमा आवद्धता",
+      "date": "२०७८-०३-२०",
+      "details": "नेकपा विभाजन पछि प्रभु साहले एमाले परित्याग गरी स्वतन्त्र समूह बनाउँदा उनी साहको प्रमुख सहयोगी र संगठकका रूपमा मधेस प्रदेशमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://emadheshdristi.com",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कैलाश महत्तो महोत्तरी जिल्लाका उदीयमान नेता र प्रभु साह नेतृत्वको आम जनता पार्टीका विश्वासपात्र हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले महोत्तरी-३ बाट प्रतिस्पर्धा गर्दै आफ्नो राजनीतिक उपस्थिति बलियो बनाएका थिए। उनले विशेष गरी मधेसका किसान, लघुवित्त पीडित र बैंकको ब्याजदर विरुद्धका मुद्दाहरूलाई सशक्त रूपमा उठाउँदै आएका छन्। स्थापित मधेसी दलहरू विरुद्ध नयाँ राजनीतिक शक्तिको रूपमा उदाउन खोजेको उनको पार्टीमा उनी संगठन निर्माणमा सक्रिय छन्। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीयस्तरमै भिजेका नेता मानिन्छन्, जसले गर्दा युवा पुस्तामा उनको राम्रो प्रभाव देखिन्छ।",
+  "overall_approval_rating": 56
+}

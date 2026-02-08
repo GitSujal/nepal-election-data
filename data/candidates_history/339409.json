@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339409,
+  "candidate_name": "चेत बहादुर आले",
+  "candidate_party": "राष्ट्रिय जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rastriya_Janamukti_Party_Logo.png/200px-Rastriya_Janamukti_Party_Logo.png",
+  "candidates_current_position": "अधिवक्ता तथा पार्टी प्रवक्ता",
+  "candidates_current_position_in_party": "केन्द्रीय उपमहासचिव तथा सचिवालय प्रमुख",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339409.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टीभित्रको आन्तरिक विवाद र किर्ते माइनुटको खुलासा",
+      "date": "२०८१-०२-१५",
+      "details": "तत्कालीन अध्यक्ष केपी पालुङ्वाले विधान सभाको निर्णय विपरीत किर्ते माइनुट तयार गरी निर्वाचन आयोगमा बुझाएको भन्दै आलेले नेतृत्वको आलोचना गरेका थिए।",
+      "link_to_source": "https://janamukti.org/2025/11/26/%e0%a4%9c%e0%a4%a8%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ac-%e0%a4%a8%e0%a4%af%e0%a4%b0%e0%a5%82-%e0%a4%af%e0%a5%81%e0%a4%97%e0%a4%ae%e0%a4%be-%e0%a4%aa/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय जनमुक्ति पार्टीको प्रवक्तामा चयन",
+      "date": "२०८०-०५-१०",
+      "details": "पार्टीको सांगठनिक सुदृढीकरण र आधिकारिक धारणा सार्वजनिक गर्ने जिम्मेवारीसहित आले प्रवक्तामा मनोनित भए।",
+      "link_to_source": "https://janamukti.org/2025/11/26/%e0%a4%9c%e0%a4%a8%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ac-%e0%a4%a8%e0%a4%af%e0%a4%b0%e0%a5%82-%e0%a4%af%e0%a5%81%e0%a4%97%e0%a4%ae%e0%a4%be-%e0%a4%aa/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं निर्वाचन क्षेत्र नम्बर ४ बाट उम्मेदवारी दिएका आलेले मात्र २८ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9hfCfwZMBZV39kPSBHqTq4mT0puzT46BeWUY1bpTOBbRi_vk7ggVQVK031fY9Da0F5BDcSHRdgHe99GPSCzYm5vlLVGZ8T2zN7t5z3kje1-pHP-t7JumGlRDz3et1oD2oh2grHU-RnwTBxQykzJtSNpgzkqJzUss3sdkFFyxRNVcdKVx72GI=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "काठमाडौं क्षेत्र ४ बाटै राष्ट्रिय जनमुक्ति पार्टीको तर्फबाट चुनाव लडेका उनले अत्यन्त न्यून मत ल्याएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339409",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी विधान मस्यौदा कार्यदलको संयोजक",
+      "date": "२०८१-०१-२९",
+      "details": "चितवनको दाहाखानीमा आयोजित विधान सभामा विधान संशोधन र मस्यौदा तयार गर्न आलेको नेतृत्वमा कार्यदल गठन गरिएको थियो।",
+      "link_to_source": "https://janamukti.org/2025/11/26/%e0%a4%9c%e0%a4%a8%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ac-%e0%a4%a8%e0%a4%af%e0%a4%b0%e0%a5%82-%e0%a4%af%e0%a5%81%e0%a4%97%e0%a4%ae%e0%a4%be-%e0%a4%aa/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चेत बहादुर आले राष्ट्रिय जनमुक्ति पार्टीका एक बौद्धिक र सांगठनिक नेता हुन्। पेशाले अधिवक्ता रहेका आलेले पार्टीको उपमहासचिव र प्रवक्ता जस्तो गरिमामय पद सम्हालेका छन्। यद्यपि, चुनावी राजनीतिमा उनको प्रभाव अत्यन्तै कमजोर देखिन्छ। काठमाडौं निर्वाचन क्षेत्र नम्बर ४ बाट २०७४ र २०७९ दुवै निर्वाचनमा उनले मात्र २८–२८ मत प्राप्त गर्नुले उनको जनस्तरमा पकड नभएको पुष्टि गर्छ। उनी धनकुटाका स्थायी बासिन्दा भएर काठमाडौंमा उम्मेदवारी दिने गरेकाले उनलाई 'पर्यटक उम्मेदवार' को रुपमा हेरिन्छ। पछिल्लो समय पार्टी भित्रको आन्तरिक कलह र नेतृत्वको अपारदर्शी कार्यशैली विरुद्ध आवाज उठाएर उनी चर्चामा रहेका छन्।",
+  "overall_approval_rating": 22
+}

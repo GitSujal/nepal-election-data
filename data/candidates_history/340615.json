@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340615,
+  "candidate_name": "लक्ष्मी कुमारी मण्डारी",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rastriya_Janamorcha_logo.png/220px-Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला सदस्य, कपिलबस्तु",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340615.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "मण्डारीले कपिलबस्तु निर्वाचन क्षेत्र नं. १ बाट राष्ट्रिय जनमोर्चाको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-kapilvastu?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन परिणाम र जनमत",
+      "date": "२०७९-०८-०९",
+      "details": "निर्वाचनमा उनी २४२ मत प्राप्त गर्दै पराजित भइन्। उक्त क्षेत्रबाट नेकपा एमालेका बलराम अधिकारी विजयी भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340615",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय राजनीतिमा सक्रियता",
+      "date": "२०७८-१०-१५",
+      "details": "राष्ट्रिय जनमोर्चाको जिल्लास्तरका विभिन्न संगठन र अभियानहरूमा सक्रिय रहँदै आएकी छन्।",
+      "link_to_source": "https://hamroneta.online/party/rastriya-janamorcha",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लक्ष्मी कुमारी मण्डारी राष्ट्रिय जनमोर्चाको एक निष्ठावान र भुइँतहकी नेतृ हुन्। उनले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा कपिलबस्तु क्षेत्र नं. १ बाट उम्मेदवारी दिएकी थिइन्, जहाँ उनले प्राप्त गरेको मत संख्या निकै न्यून रहेको देखिन्छ। राष्ट्रिय जनमोर्चा जस्तो सानो र वैचारिक पार्टीबाट प्रतिनिधित्व गर्ने भएकाले उनको चुनावी प्रभाव ठूला दलहरूको तुलनामा कमजोर देखिएको हो। उनी विशेषगरी संघीयता विरोधी र राष्ट्रियताका मुद्दाहरूमा पार्टीको आधिकारिक लाइनमा रहेर स्थानीय स्तरमा क्रियाशील छिन्। उनीमाथि कुनै पनि किसिमको भ्रष्टाचार वा गम्भीर कानुनी विवादको रेकर्ड भेटिएको छैन, जसले उनको राजनीतिक चरित्र स्वच्छ रहेको संकेत गर्दछ।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,103 @@
+{
+  "candidate_id": 340431,
+  "candidate_name": "यशोदा गुरुङ (सुवेदी)",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN_Maoist_Logo.svg/1024px-CPN_Maoist_Logo.svg.png",
+  "candidates_current_position": "पूर्व सांसद",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, नेकपा (माओवादी केन्द्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340431.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मनाङ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "मनाङ निर्वाचन क्षेत्र नं. १ बाट प्रत्यक्षतर्फ उम्मेदवारी दिएकी यशोदा गुरुङ नेपाली कांग्रेसका टेकबहादुर गुरुङसँग पराजित भइन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/21/166899732124564564.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मनाङको प्राकृतिक प्रकोपमा सरकारको ध्यानाकर्षण",
+      "date": "२०७८-०३-०७",
+      "details": "सांसदको रूपमा उनले बाढी र पहिरोले प्रभावित मनाङलाई सरकारले 'झड्केलो छोरो' जस्तो व्यवहार गरेको भन्दै राहतका लागि संसदमा कडा आवाज उठाएकी थिइन्।",
+      "link_to_source": "https://www.ratopati.com/story/185203/2021/6/17/yashoda-subedi-gurung",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्वस्थानी र ऋषिपञ्चमीको पाना च्यात्नुपर्ने विवादास्पद माग",
+      "date": "२०७६-१०-२८",
+      "details": "संसदको शून्य समयमा बोल्दै उनले स्वस्थानी ब्रतकथा र ऋषिपञ्चमीका पानाहरूले महिला विभेदलाई प्रश्रय दिएको भन्दै ती पाना च्यात्नुपर्ने माग राखेपछि हिन्दु धर्मावलम्बीहरूबाट कडा आलोचना खेप्नुपरेको थियो।",
+      "link_to_source": "https://www.ratopati.com/story/117565/2020/2/11/swasthani",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा निर्वाचित (समानुपातिक)",
+      "date": "२०७४-११-२१",
+      "details": "नेकपा (माओवादी केन्द्र) को तर्फबाट आदिवासी जनजाति कोटा अन्तर्गत समानुपातिक प्रणालीमार्फत प्रतिनिधि सभा सदस्य चयन भइन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Yashoda_Gurung_(Subedi)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्य (२०६४)",
+      "date": "२०६४-०१-२८",
+      "details": "पहिलो संविधान सभामा माओवादीको तर्फबाट समानुपातिक सदस्यका रूपमा संविधान निर्माण प्रक्रियामा सहभागी भइन्।",
+      "link_to_source": "https://mahilapratinidhi.org/representative/yashoda-gurung-subedi",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टीको 'पावर कपल' र नातावादको आरोप",
+      "date": "२०७९-०६-२३",
+      "details": "नेकपा माओवादी केन्द्रका महासचिव देव गुरुङकी पत्नी भएकाले उनलाई पटक-पटक अवसर दिइएको भन्दै पार्टीभित्र र बाहिर 'नातावाद' को गम्भीर आरोप लाग्दै आएको छ।",
+      "link_to_source": "https://myrepublica.nagariknetwork.com/news/18-couples-contesting-upcoming-elections/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी आन्दोलनमा संलग्नता र विवाह",
+      "date": "२०४४-०३-१५",
+      "details": "प्रचण्डको रोहबरमा देव गुरुङसँग विवाह भएपछि उनी माओवादी नेतृत्वको नजिक रहेर पूर्णकालीन राजनीतिमा सक्रिय भइन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/07/1162624",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०३६-०५-०१",
+      "details": "विद्यार्थी जीवनदेखि नै वामपन्थी राजनीतिमा सक्रिय हुँदै उनले करिब ४४ वर्ष लामो राजनीतिक यात्रा तय गरेकी छिन्।",
+      "link_to_source": "https://sajilopatrika.com/yashoda-gurung-subedi/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "यशोदा गुरुङ (सुवेदी) नेकपा (माओवादी केन्द्र) की एक प्रभावशाली नेतृ हुन्, जसको राजनीतिक पहिचान पार्टीका महासचिव देव गुरुङसँगको वैवाहिक सम्बन्ध र लामो संसदीय अनुभवसँग जोडिएको छ। उनी दुई पटक समानुपातिक प्रणालीबाट सांसद बने पनि २०७९ को निर्वाचनमा मनाङबाट प्रत्यक्षतर्फ पराजित भइन्। उनलाई 'नातावाद' को लाभ लिएको आरोप लाग्ने गरे पनि मनाङका बाढी पीडितहरूको पक्षमा संसदमा उठाएको आवाज र महिला अधिकारका पक्षमा उनको अडान सकारात्मक मानिन्छ। धार्मिक ग्रन्थ 'स्वस्थानी' सम्बन्धी उनको विवादास्पद टिप्पणीले उनको सार्वजनिक छविमा केही नकारात्मक असर पारेको थियो। मनाङमा उनी 'टुरिष्ट' उम्मेदवार नभए पनि उनका पति देव गुरुङको प्रभाव क्षेत्र भएकाले उनले त्यहाँबाट अवसर पाएको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 62
+}

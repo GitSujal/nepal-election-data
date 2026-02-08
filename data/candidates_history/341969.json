@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341969,
+  "candidate_name": "सुक्र तमाङ्ग",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aam_Janata_Party_Nepal_Logo.png/600px-Aam_Janata_Party_Nepal_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य / उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341969.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०८०-१०-१५",
+      "details": "नागरिक उन्मुक्ति पार्टी परित्याग गरी सुक्र तमाङ्ग प्रभु साह नेतृत्वको आम जनता पार्टीमा प्रवेश गरेका छन्।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "दोलखा निर्वाचन क्षेत्र नम्बर १ बाट नागरिक उन्मुक्ति पार्टीको तर्फबाट उम्मेदवारी दिएका उनले मात्र ५१ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/31?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "सुक्र तमाङ्ग दोलखा जिल्लाका एक सीमान्त राजनीतिक उम्मेदवार हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले नागरिक उन्मुक्ति पार्टीबाट प्रतिस्पर्धा गर्दा अत्यन्तै न्यून अर्थात् ५१ मत मात्र प्राप्त गरेका थिए, जसले उनको स्थानीय स्तरमा कमजोर चुनावी पकडलाई दर्शाउँछ। हाल उनी प्रभु साहको नेतृत्वमा रहेको आम जनता पार्टीमा आबद्ध भई आफ्नो राजनीतिक यात्रा अगाडि बढाउन खोजिरहेका छन्। उनी बारम्बार नयाँ र साना राजनीतिक दलहरू परिवर्तन गर्ने उम्मेदवारको रूपमा चिनिन्छन्। दोलखामा उनको प्रभाव हालसम्म नगण्य छ र उनलाई एक गम्भीर प्रतिस्पर्धीको रूपमा हेरिएको छैन। उनको राजनीतिक भविष्य मुख्यतया पार्टी संगठन निर्माण र स्थानीय एजेण्डाहरूमा उनले गर्ने कार्यमा निर्भर गर्ने देखिन्छ।",
+  "overall_approval_rating": 25
+}

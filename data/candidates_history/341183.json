@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341183,
+  "candidate_name": "खडक वहादुर गुरुङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mongol_National_Organisation_Logo.png/220px-Mongol_National_Organisation_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341183.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नम्बर १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट गुल्मी निर्वाचन क्षेत्र नम्बर १ मा प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर उनले उल्लेखनीय मत प्राप्त गर्न सकेनन्।",
+      "link_to_source": "https://nagarikupdate.com/news/37625",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उच्च शिक्षा हासिल",
+      "date": "२०५०-०३-१५",
+      "details": "भारतको पुणेस्थित एफ.एफ.सी. बाट स्नातक तह (Bachelor's Degree) सम्मको शिक्षा पुरा गरेका छन्, जसले उनको राजनीतिक दृष्टिकोणमा शैक्षिक आधार प्रदान गरेको छ।",
+      "link_to_source": "https://sajilopatrika.com/khadak-bahadur-gurung-341183/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "टुरिष्ट उम्मेदवारको रूपमा चर्चा",
+      "date": "२०७९-०७-२०",
+      "details": "स्याङ्जा जिल्लाको नागरिकता भई गुल्मीबाट चुनाव लडेका कारण उनलाई निर्वाचन अवधिभर 'पर्यटक उम्मेदवार' का रूपमा टिप्पणी गरिएको थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341183",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मंगोल पहिचानको राजनीतिमा आबद्ध",
+      "date": "२०७५-०१-०१",
+      "details": "जातीय समानता र मंगोल मुलबासीको अधिकार सुनिश्चित गर्ने एजेन्डाका साथ मंगोल नेशनल अर्गनाइजेसनमा सक्रिय राजनीति सुरु गरे।",
+      "link_to_source": "https://sajilopatrika.com/khadak-bahadur-gurung-341183/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खडक बहादुर गुरुङ मंगोल नेशनल अर्गनाइजेसनका एक शिक्षित उम्मेदवार हुन् जसले भारतको पुणेबाट स्नातक तहसम्मको शिक्षा हासिल गरेका छन्। उनको जन्म र नागरिकता स्याङ्जा जिल्लाको भए पनि २०७९ को आम निर्वाचनमा गुल्मी क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका कारण उनलाई 'पर्यटक उम्मेदवार' को ट्याग लागेको थियो। उनको चुनावी एजेन्डा मुख्यतः जातीय पहिचान र अधिकारमा केन्द्रित थियो, तर गुल्मीको मुख्य राजनीतिक धारमा उनी स्थापित हुन सकेनन्। निर्वाचन परिणाममा उनको उपस्थिति निकै कमजोर रह्यो, जसले उनको स्थानीय आधार र संगठनको अभावलाई झल्काउँछ। स्वच्छ छवि र उच्च शिक्षा उनको सकारात्मक पक्ष भए तापनि जिल्ला बाहिरको पहिचानले उनलाई चुनावी प्रतिस्पर्धामा ठूलो धक्का पुर्‍याएको देखिन्छ।",
+  "overall_approval_rating": 38
+}

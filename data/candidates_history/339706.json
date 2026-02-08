@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339706,
+  "candidate_name": "श्याम कुमार श्रेष्‍ठ",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-Maoist_Centre_logo.svg/1024px-CPN-Maoist_Centre_logo.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री तथा पोलिटब्यूरो सदस्य",
+  "candidates_current_position_in_party": "पोलिटब्यूरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339706.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "रामेछाप",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रामेछाप",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+      "district": "रामेछाप",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "समानुपातिक उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को निर्वाचनमा सत्ता गठबन्धनको भागबण्डाका कारण उनलाई समानुपातिक तर्फको बन्द सूचीमा राखिएको थियो।",
+      "link_to_source": "https://election.ekantipur.com/pr-candidate-list?prId=14",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा विजय",
+      "date": "२०७४-०८-२१",
+      "details": "वाम गठबन्धनको तर्फबाट ४२,११७ मत ल्याएर नेपाली कांग्रेसका कान्छाराम तामाङलाई पराजित गर्दै विजयी।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Shyam_Kumar_Shrestha",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गृह राज्यमन्त्रीमा नियुक्ति",
+      "date": "२०७४-०६-३१",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा गृह राज्यमन्त्रीको रूपमा कार्यभार सम्हालेका।",
+      "link_to_source": "https://www.ramechhapnews.com/news/1224",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सामान्य प्रशासन मन्त्री",
+      "date": "२०७३-०४-२०",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' को मन्त्रिमण्डलमा सामान्य प्रशासन मन्त्रीको रूपमा नियुक्त।",
+      "link_to_source": "https://www.ramechhapnews.com/news/1224",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचनमा विजय",
+      "date": "२०७०-०८-०४",
+      "details": "रामेछाप क्षेत्र नं. २ बाट निर्वाचित भएर संविधान निर्माण प्रक्रियामा महत्वपूर्ण भूमिका निर्वाह।",
+      "link_to_source": "https://www.ramechhapnews.com/news/1224",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कर्मचारी सरुवा विवाद",
+      "date": "२०७३-१२-१५",
+      "details": "सामान्य प्रशासन मन्त्री रहँदा नियम विपरीत कर्मचारी सरुवा गरेको भन्दै आलोचना र विवाद।",
+      "link_to_source": "https://www.ramechhapnews.com/news/1224",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "रामेछाप जिल्ला सेक्रेटरी",
+      "date": "२०६६-०१-०१",
+      "details": "शान्ति प्रक्रियापछि रामेछाप जिल्लाको पार्टी नेतृत्व (सेक्रेटरी) को रूपमा जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://www.ramechhapnews.com/news/1224",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सशस्त्र द्वन्द्वमा सहभागी",
+      "date": "२०५७-०१-०१",
+      "details": "माओवादीको पूर्णकालिन सदस्य भई भूमिगत राजनीति र विभिन्न सैन्य मोर्चामा सहभागी।",
+      "link_to_source": "https://www.ramechhapnews.com/news/1224",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "श्याम कुमार श्रेष्ठ रामेछाप जिल्लाका एक अनुभवी र प्रभावशाली माओवादी नेता हुन्। उनले २०७० सालको दोस्रो संविधान सभा र २०७४ सालको प्रतिनिधि सभा निर्वाचनमा रामेछापबाट लगातार दुई पटक प्रत्यक्ष निर्वाचित भएर आफ्नो बलियो जनाधार प्रमाणित गरेका छन्। २०७३ सालमा सामान्य प्रशासन मन्त्री र २०७४ मा गृह राज्यमन्त्रीको रूपमा काम गर्दा उनले केही प्रशासनिक सुधारका प्रयासहरू गरे पनि कर्मचारी सरुवा बढुवाका विषयमा उनी विवादमा परेका थिए। २०७९ को आम निर्वाचनमा सत्ता गठबन्धनको सिट बाँडफाँडका कारण उनले प्रत्यक्ष तर्फको टिकट प्राप्त गर्न सकेनन् र समानुपातिक सूचीमा बस्नु पर्यो। उनको कार्यकालमा रामेछापमा 'उज्यालो रामेछाप' अभियान र विभिन्न सडक तथा पुल निर्माणका पूर्वाधार विकासका कामहरू भएका छन्, जसले उनलाई स्थानीय स्तरमा विकासप्रेमी नेताका रूपमा चिनाएको छ। यद्यपि, पार्टी परिवर्तन र गठबन्धनका कारण चुनावी मैदानबाट बाहिरिनुले उनको आगामी राजनीतिक प्रभावमा केही चुनौती थप्न सक्छ।",
+  "overall_approval_rating": 75
+}

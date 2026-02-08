@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341229,
+  "candidate_name": "चन्चला न्हिसुतु",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NWPP_logo.svg/1024px-NWPP_logo.svg.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "सक्रिय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341229.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी क्षेत्र नम्बर २ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएकी थिइन्, जहाँ उनले वैचारिक प्रचारप्रसारमा जोड दिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateNameList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको राष्ट्रिय अभियानमा सहभागिता",
+      "date": "२०७९-०७-२३",
+      "details": "नेपाल मजदुर किसान पार्टीको संगठन विस्तार र वैचारिक प्रशिक्षण कार्यक्रमहरूमा सुनसरी जिल्लामा सक्रिय भूमिका निर्वाह गरेकी थिइन्।",
+      "link_to_source": "https://nwpp.org.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल क्रान्तिकारी महिला संघमा आबद्धता",
+      "date": "२०७५-०३-१५",
+      "details": "नेपाल मजदुर किसान पार्टीको भ्रातृ संगठन नेपाल क्रान्तिकारी महिला संघमा आबद्ध भई महिला अधिकार र समाजवादी चेतना फैलाउने कार्यमा संलग्न रहँदै आएकी छन्।",
+      "link_to_source": "https://nwpp.org.np/organization/janabargiya-sangathan/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चन्चला न्हिसुतु नेपाल मजदुर किसान पार्टीकी एक निष्ठावान कार्यकर्ता हुन्। २०७९ को निर्वाचनमा उनलाई सुनसरी क्षेत्र नं. २ बाट उम्मेदवार बनाइएको थियो, जुन उनको गृहजिल्ला भक्तपुर भन्दा बाहिरको क्षेत्र हो। उनलाई 'टुरिस्ट उम्मेदवार' को रूपमा हेरिए पनि, नेमकिपाको रणनीति अनुसार पार्टीको विचार र सिद्धान्तलाई देशभर पुऱ्याउने उद्देश्यले उनले चुनाव लडेकी हुन्। चुनावी नतिजा उनको पक्षमा नआए पनि उनले सुनसरीमा पार्टीको झण्डा र एजेन्डा स्थापित गर्न महत्त्वपूर्ण भूमिका खेलेकी छन्। उनको राजनीतिक छवि स्वच्छ छ र उनी पार्टीको अनुशासित कार्यकर्ताको रूपमा परिचित छिन्।",
+  "overall_approval_rating": 45
+}

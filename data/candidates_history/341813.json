@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341813,
+  "candidate_name": "विष्‍णु प्रसाद ढकाल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341813.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ६",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०८१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "क्षेत्र नं. २",
+      "result": "N/A",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नवलपरासीबाट उम्मेदवारी दर्ता",
+      "date": "२०८१-०८-०१",
+      "details": "काठमाडौं छोडेर नवलपरासी (बर्दघाट सुस्ता पश्चिम) निर्वाचन क्षेत्र नं. २ बाट स्वतन्त्र उम्मेदवारी दर्ता गराएको।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "काठमाडौं ६ मा चुनावी हार",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा काठमाडौं क्षेत्र नं. ६ बाट स्वतन्त्र उम्मेदवारी दिएकोमा मात्र ३३ मत प्राप्त गरी १९औँ स्थानमा सीमित।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSob09RZbXuIMzduHsfwG0bIsCK2wCDraewS6Bswp1nK_0CLElJ-fDCXr1XcYR5K9bKjJDP70kkzOZ_vIgpz7JyfFYjc8zfAPw0ygjLIOxhJC1yFUHe1ADpasOc-c660sVFxEKpoELJ9Rsgt6juRLveCgLEJJIQWB8aYToBj_-MEVXUUIIioI=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचन क्षेत्र परिवर्तन (भगवा उम्मेदवार)",
+      "date": "२०८०-१०-१५",
+      "details": "काठमाडौंको मतदाता आधार छोडेर नवलपरासी सरेकाले स्थानीय स्तरमा 'भगवा' वा 'पर्यटक' उम्मेदवारको पहिचान बनेको।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "विष्णु प्रसाद ढकाल एक स्वतन्त्र राजनीतिक उम्मेदवार हुन् जसको चुनावी आधार अत्यन्त कमजोर देखिएको छ। २०७९ को आम निर्वाचनमा काठमाडौं क्षेत्र नं. ६ बाट उम्मेदवारी दिँदा उनले केवल ३३ मत (०.०९%) मात्र प्राप्त गरेका थिए, जसले उनको राजनीतिक प्रभाव नगण्य रहेको पुष्टि गर्दछ। हाल उनी नवलपरासी (बर्दघाट सुस्ता पश्चिम) क्षेत्र नं. २ मा सरेका छन्, जसलाई राजनीतिक वृत्तमा 'भगवा' (Vaguwa) प्रवृत्तिका रूपमा हेरिएको छ। आफ्नै जिल्ला वा क्षेत्रमा स्थिर नरहनु र न्यून जनमतका कारण उनी एक गम्भीर प्रतिस्पर्धी भन्दा पनि आकांक्षी उम्मेदवारका रूपमा मात्र देखिन्छन्। उनको कुनै ठूलो राजनीतिक उपलब्धि वा सार्वजनिक सेवाको रेकर्ड भेटिएको छैन।",
+  "overall_approval_rating": 12
+}

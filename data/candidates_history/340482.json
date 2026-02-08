@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340482,
+  "candidate_name": "मनोज कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340482.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नयाँ शक्ति पार्टी नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सर्लाहीमा स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०८१-०४-१५",
+      "details": "बाराबाट चुनाव लडेका यादव पुनः आफ्नो गृह जिल्ला सर्लाही फर्किएर स्वतन्त्र रूपमा उम्मेदवारी दिएका छन्।",
+      "link_to_source": "https://ejanakpurtoday.com/gen-z-candidates-in-madhesh/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनमत पार्टी परित्याग",
+      "date": "२०८०-०८-१०",
+      "details": "२०७९ को निर्वाचनमा अपेक्षाकृत नतिजा नआएपछि र पार्टीको आन्तरिक समीकरणका कारण उनले जनमत पार्टी छाडेका हुन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/16692801452145892.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "बारा क्षेत्र नं. २ बाट जनमत पार्टीको तर्फबाट उम्मेदवार बनेका उनले १,०६३ मत प्राप्त गरी छैटौँ स्थानमा रहे।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनमत पार्टीमा प्रवेश",
+      "date": "२०७८-१२-२०",
+      "details": "सीके राउत नेतृत्वको जनमत पार्टीले तराई-मधेशमा प्रभाव बढाउँदै गर्दा यादव उक्त पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/2022/11/17/16686616474164175.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "सर्लाही निर्वाचन क्षेत्र नं. ४ बाट नयाँ शक्ति पार्टीको तर्फबाट चुनाव लड्दा उनले मात्र २१३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/2074/sarlahi-4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "मनोज कुमार यादव मधेशको राजनीतिमा एक 'वगुवा' (अस्थिर) उम्मेदवारको रूपमा चिनिन्छन्। उनले २०७४ को निर्वाचन सर्लाहीबाट नयाँ शक्ति पार्टीका तर्फबाट लडेका थिए भने २०७९ मा जिल्ला परिवर्तन गरी बाराबाट जनमत पार्टीको टिकटमा चुनाव लडेका थिए। दुवै निर्वाचनमा उनले अत्यन्तै न्यून मत (क्रमशः २१३ र १०६३) प्राप्त गरेका छन्। पछिल्लो समय उनी फेरि सर्लाही फर्किएर स्वतन्त्र उम्मेदवारी दिनुले उनको राजनीतिक अस्थिरता र ठोस जनमतको अभावलाई झल्काउँछ। बारम्बार जिल्ला र पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण स्थानीय मतदाता माझ उनको विश्वसनीयता कमजोर देखिन्छ। उनले अहिलेसम्म कुनै पनि निर्वाचनमा प्रभावकारी उपस्थिति जनाउन सकेका छैनन्।",
+  "overall_approval_rating": 22
+}

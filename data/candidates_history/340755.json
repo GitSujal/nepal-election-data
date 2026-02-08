@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340755,
+  "candidate_name": "चित्र कुमारी देवकोटा",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340755.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "उपाध्यक्ष (उत्तरगया गाउँपालिका)",
+      "district": "रसुवा",
+      "constituency": "उत्तरगया",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रसुवा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा रसुवा क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचन लडेकी थिइन्।",
+      "link_to_source": "https://nepsebajar.com/candidate/340755-chitra-kumari-devkota",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय निर्वाचनमा सहभागिता",
+      "date": "२०७४-०१-३१",
+      "details": "२०७४ को स्थानीय तह निर्वाचनमा रसुवाको उत्तरगया गाउँपालिकामा स्वतन्त्र रूपमा चुनावी मैदानमा उत्रिएकी थिइन्।",
+      "link_to_source": "https://nagariknetwork.com/news/20700/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक सक्रियता",
+      "date": "२०७४-०१-०१",
+      "details": "लामो समयदेखि रसुवा जिल्लामा सामाजिक र राजनीतिक रूपमा सक्रिय रहँदै आएकी छन्।",
+      "link_to_source": "https://nepsebajar.com/candidate/340755-chitra-kumari-devkota",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "चित्र कुमारी देवकोटा रसुवा जिल्लाकी एक सक्रिय स्वतन्त्र राजनीतिकर्मी हुन्। उनले २०७४ को स्थानीय तह र २०७९ को प्रतिनिधि सभा निर्वाचन दुवैमा स्वतन्त्र उम्मेदवारको रूपमा सहभागिता जनाएकी थिइन्। निर्वाचनमा उनको मत परिणाम निकै न्यून रहे तापनि, दुर्गम जिल्ला रसुवाबाट एक महिलाले निरन्तर स्वतन्त्र रूपमा चुनावी प्रतिस्पर्धामा उत्रिनुलाई उनको राजनीतिक साहसको रूपमा हेरिन्छ। उनको पारिवारिक पृष्ठभूमिमा पति सोम प्रसाद देवकोटाको नाम जोडिएको छ, जो स्थानीय राजनीतिमा परिचित छन्। हालसम्म उनको कुनै पनि ठूलो राजनीतिक उपलब्धि वा सार्वजनिक विवाद देखिएको छैन। उनको चुनावी प्रभाव सीमित भए पनि स्थानीय स्तरमा एक परिचित अनुहारको रूपमा स्थापित छिन्।",
+  "overall_approval_rating": 40
+}

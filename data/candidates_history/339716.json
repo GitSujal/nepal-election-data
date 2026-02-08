@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339716,
+  "candidate_name": "मनिराम खनाल",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rastriya_Janamorcha_logo.png/200px-Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला नेता, दाङ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339716.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "दाङ निर्वाचन क्षेत्र नं. २ बाट राष्ट्रिय जनमोर्चाको उम्मेदवारका रूपमा प्रतिस्पर्धा गर्दा १७० मत प्राप्त गरी पराजित हुनुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "प्रतिनिधि सभा निर्वाचनका लागि दाङ क्षेत्र नं. २ बाट औपचारिक रूपमा मनोनयन दर्ता गराउनुभएको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/166531102983177343.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता विरुद्धको अभियानमा सक्रियता",
+      "date": "२०७८-११-१५",
+      "details": "राष्ट्रिय जनमोर्चाको केन्द्रीय नीति अनुरूप संघीयता खारेजी र एमसीसी सम्झौताको विरोधमा दाङ जिल्लामा विभिन्न विरोध प्रदर्शनहरूमा नेतृत्वदायी भूमिका निर्वाह गर्नुभएको छ।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/02/1084256",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक विरासत र पार्टी आबद्धता",
+      "date": "२०५५-०१-०१",
+      "details": "वरिष्ठ वामपन्थी नेता ठाकुर प्रसाद खनालको पुत्र हुनुका नाताले सानै उमेरदेखि राष्ट्रिय जनमोर्चाको वैचारिक राजनीतिमा आबद्ध भई दाङ जिल्लामा पार्टी संगठन विस्तारमा योगदान पुर्‍याउँदै आउनुभएको छ।",
+      "link_to_source": "https://yugdarshan.com/2024/02/01/rastriya-janamorcha-only-alternative-force-khanal/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मनिराम खनाल राष्ट्रिय जनमोर्चाका एक निष्ठावान र वैचारिक नेता हुनुहुन्छ। उहाँको राजनीतिक पहिचान पार्टीको संघीयता विरोधी अडान र राष्ट्रियताको पक्षमा केन्द्रित छ। २०७९ को निर्वाचनमा दाङ क्षेत्र नं. २ बाट चुनाव लड्दा उहाँले उल्लेख्य मत प्राप्त गर्न नसके पनि ठूला दलहरूका विरुद्ध आफ्नो उपस्थिति जनाउनुभएको थियो। उहाँका पिता ठाकुर प्रसाद खनाल पार्टीका पुराना र प्रभावशाली नेता भएकाले उहाँलाई विरासतको लाभ मिलेको छ। खनाललाई कुनै पनि भ्रष्टाचार वा सार्वजनिक विवादमा नमुछिएको एक स्वच्छ छविको नेताका रूपमा लिइन्छ। यद्यपि, चुनावी राजनीतिमा उहाँको प्रभाव सीमित क्षेत्र र पार्टीको निश्चित मतदाता आधारमा मात्र खुम्चिएको देखिन्छ।",
+  "overall_approval_rating": 68
+}

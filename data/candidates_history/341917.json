@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341917,
+  "candidate_name": "बजरंग नेपाली",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Logo.png",
+  "candidates_current_position": "नेपाली काँग्रेस महासमिति सदस्य",
+  "candidates_current_position_in_party": "महासमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341917.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टीको नेतृत्वमा पुस्तान्तरणको माग",
+      "date": "२०८२-०५-२८",
+      "details": "नेपाली काँग्रेसको वर्तमान नेतृत्व असफल भएको भन्दै पार्टीमा नयाँ पुस्तालाई नेतृत्व हस्तान्तरण गर्नुपर्ने कडा माग राखेका। उनले पार्टीको संगठनात्मक जीवन्तताका लागि पुस्तान्तरण अपरिहार्य रहेको विचार व्यक्त गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDU4WUuTgKrnunnMZyiDLqNoY-ToWGxDdVZk0Jdrz4lpOQVCGx3HN83CTEcrj9qanAc9cbeMD2cS-jxKV4rEuEELHOmiP2SJT1JOEHjPtyPvXKdVSrm68TbjaEcyAKXJL3wyU1f8=",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "महोत्तरी निर्वाचन क्षेत्र नं. ३ बाट सत्ता गठबन्धनको साझा उम्मेदवारका रूपमा निर्वाचनमा प्रतिस्पर्धा गरेका तर लोकतान्त्रिक समाजवादी पार्टीका अध्यक्ष महन्थ ठाकुरसँग पराजित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEOEYrLoOXAoRADFm_M5QUBAn1oRwaUKK5EnycgnmSv_hJS_pl7aBmLtzoueKcsEU3ppX6V4kQZcmXu20GVjWCInZPZP9_AHjBoxbTr4mvL9MIutbbWxOm_5xukU5QsB01a5lV9uygJ7lKMnjTFguwVQrI1JpbQOt0xllXYWK-goKwMe8Nplcw5cikZwD5XQinBE4Apszlnt5Sq6_Ff8e4N0MRxlCJafvCxqLxdPlnsPdAxgUwe7LzY31kl1s=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "महोत्तरी जिल्ला सभापतिमा उम्मेदवारी",
+      "date": "२०७८-११-१७",
+      "details": "नेपाली काँग्रेसको १४ औँ महाधिवेशन अन्तर्गत महोत्तरी जिल्ला सभापति पदका लागि त्रिकोणात्मक प्रतिस्पर्धामा उत्रेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKJNRPIs_RmQtRQxQ1cMpU_la-qfTahh-dKakmpvIlZ0_yA4eB7QmnhFC4pNDEJxobLD6w0KHd-97JWzIKOx5IRSgZR1yes9v6aOU82iPtHZg6jW2O7yhi-ZHDqDdmtSV7J7MO",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली काँग्रेस जिल्ला सचिव",
+      "date": "२०६४-०१-०१",
+      "details": "सिताराम भण्डारीको कार्यकालमा महोत्तरी जिल्ला सचिवका रूपमा पार्टीको संगठन विस्तारमा महत्वपूर्ण भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKJNRPIs_RmQtRQxQ1cMpU_la-qfTahh-dKakmpvIlZ0_yA4eB7QmnhFC4pNDEJxobLD6w0KHd-97JWzIKOx5IRSgZR1yes9v6aOU82iPtHZg6jW2O7yhi-ZHDqDdmtSV7J7MO",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बजरंग नेपाली महोत्तरी जिल्लाको राजनीतिमा एक स्थापित र निष्ठावान नेता हुन्। उनी लामो समयदेखि नेपाली काँग्रेसमा आबद्ध रही जिल्ला सचिवदेखि महासमिति सदस्यसम्मको जिम्मेवारी सम्हालेका छन्। २०७९ को आम निर्वाचनमा उनले महोत्तरी निर्वाचन क्षेत्र नं. ३ बाट चुनाव लडेका थिए, जुन क्षेत्रमा काँग्रेसले लामो समयदेखि महन्थ ठाकुरलाई समर्थन गर्दै आएको थियो। यद्यपि उनले विजय प्राप्त गर्न सकेनन्, तर उनले पार्टीभित्रको आन्तरिक लोकतन्त्र र पुस्तान्तरणको मुद्दालाई सशक्त रूपमा उठाउँदै आएका छन्। मधेसको राजनीतिमा उनलाई बौद्धिक र समन्वयकारी नेताका रूपमा हेरिन्छ। उनको कुनै ठूलो भ्रष्टाचार काण्ड वा विवादमा संलग्नता नदेखिनु उनको नैतिक बल हो, तर निर्वाचनमा जित निकाल्न नसक्नु उनको मुख्य चुनौती देखिएको छ।",
+  "overall_approval_rating": 64
+}

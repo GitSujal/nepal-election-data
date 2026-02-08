@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342338,
+  "candidate_name": "ज्योती थापा",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aam_Janata_Party_Logo.png/200px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "नेतृ, आम जनता पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, आम महिला मोर्चा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342338.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "रुपन्देही जिल्लाबाट आम जनता पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि चुनावी मैदानमा उत्रिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०९-१४",
+      "details": "प्रभु साहको नेतृत्वमा गठन भएको आम जनता पार्टीमा सुरुवाती चरणदेखि नै सक्रिय रहँदै आएकी छन्।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Aam_Janata_Party",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक र राजनीतिक सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "रुपन्देही क्षेत्रमा लामो समयदेखि स्थानीय मुद्दाहरू र महिला अधिकारका क्षेत्रमा आवाज उठाउँदै आएकी छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342338",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ज्योती थापा रुपन्देही जिल्लाकी एक सक्रिय राजनीतिक नेतृ हुन्, जसले २०७९ को आम निर्वाचनमा आम जनता पार्टीको प्रतिनिधित्व गरेकी थिइन्। उनी प्रभु साह नेतृत्वको 'आम जनता पार्टी' को रुपन्देही क्षेत्रमा सांगठनिक विस्तारमा सक्रिय छिन्। उनको राजनीतिक यात्रा मुख्यतया नयाँ र वैकल्पिक शक्तिको खोजीमा केन्द्रित देखिन्छ। यद्यपि उनले निर्वाचनमा विजय हासिल गर्न नसके पनि, स्थापित राजनीतिक दलहरूको बाहुल्यता रहेको रुपन्देही १ मा नयाँ पार्टीको तर्फबाट उम्मेदवार बन्नुले उनको राजनीतिक साहसलाई दर्शाउँछ। उनीमाथि हालसम्म कुनै गम्भीर भ्रष्टाचार वा काण्डको आरोप लागेको छैन, जसले उनको छवि स्वच्छ राखेको छ। तर, निर्वाचनमा प्रभावकारी मत प्राप्त गर्न अझै ठूलो सांगठनिक कसरत र जनसम्पर्कको आवश्यकता देखिन्छ।",
+  "overall_approval_rating": 55
+}

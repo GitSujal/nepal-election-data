@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342707,
+  "candidate_name": "निसार अहमद मुसलमान",
+  "candidate_party": "राष्ट्र निर्माण दल नेपाल",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/RNDN.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य/नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342707.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्र निर्माण दल नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "कपिलवस्तु निर्वाचन क्षेत्र नम्बर १ बाट राष्ट्र निर्माण दल नेपालको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रत्यक्ष तर्फ उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ राजनीतिक धारको वकालत",
+      "date": "२०७९-०७-१५",
+      "details": "परम्परागत दलहरूको विकल्पका रूपमा नयाँ राजनीतिक सोच र विकासको एजेन्डासहित चुनावी मैदानमा सक्रिय भएका थिए।",
+      "link_to_source": "https://youthtodaynews.com/2026/01/31/kapilvastu-1-election-analysis/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय सामाजिक परिचालन",
+      "date": "२०७८-१०-१०",
+      "details": "कपिलवस्तुको स्थानीय स्तरमा मुस्लिम समुदाय र पिछडिएका वर्गहरूको हकहितका लागि विभिन्न सामाजिक कार्यक्रमहरूमा नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/candidate/nisar-ahmed-musalman-342707",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "निसार अहमद मुसलमान कपिलवस्तु क्षेत्र नं. १ का एक उदयमान राजनीतिक व्यक्तित्व हुन्। उनले २०७९ को आम निर्वाचनमा राष्ट्र निर्माण दल नेपालको तर्फबाट प्रतिस्पर्धा गर्दै परम्परागत दलहरू जस्तै नेकपा (एमाले) र नेपाली कांग्रेसलाई चुनौती दिने प्रयास गरेका थिए। ४० वर्षीय निसार अहमदको राजनीतिक छवि स्वच्छ रहेको छ र उनलाई स्थानीय स्तरमा बौद्धिक तथा सचेत नागरिकहरूको समर्थन प्राप्त भएको देखिन्छ। यद्यपि, ठूला दलहरूको संगठनात्मक शक्ति र पुरानो मत आधारका कारण उनले चुनावी नतिजा आफ्नो पक्षमा पार्न सकेनन्। उनलाई मुख्य रूपमा मुस्लिम समुदायको प्रतिनिधित्व र स्थानीय विकासको मुद्दा उठाउने नेताका रूपमा चिनिन्छ।",
+  "overall_approval_rating": 45
+}

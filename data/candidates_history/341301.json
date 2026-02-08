@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341301,
+  "candidate_name": "सादर सिं लिङदेन (लिम्बु)",
+  "candidate_party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Federal_Democratic_National_Forum_Logo.png/220px-Federal_Democratic_National_Forum_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341301.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "इलाम",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    },
+    {
+      "year": "२०८१",
+      "position": "प्रतिनिधिसभा सदस्य (उपनिर्वाचन)",
+      "district": "इलाम",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "इलाम क्षेत्र नं. २ उपनिर्वाचनमा उम्मेदवारी",
+      "date": "२०८१-०१-१५",
+      "details": "संविधान सभाका पूर्व अध्यक्ष सुवास नेम्वाङको निधनपछि भएको उपनिर्वाचनमा संघीय लोकतान्त्रिक राष्ट्रिय मञ्चको तर्फबाट उम्मेदवार बनेका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/sadar-singh-lingden-limbu",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "इलाम क्षेत्र नं. २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिए पनि थोरै मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/ilam-2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लिम्बुवान आन्दोलनमा सक्रियता",
+      "date": "२०६०-०१-०१",
+      "details": "पूर्वी नेपालमा लिम्बुवान स्वायत्त राज्यको माग गर्दै आएको संघीय लोकतान्त्रिक राष्ट्रिय मञ्चमा आवद्ध भई क्षेत्रीय राजनीतिमा सक्रिय।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/सङ्घीय_लोकतान्त्रिक_राष्ट्रिय_मञ्च",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सादर सिं लिङदेन (लिम्बु) संघीय लोकतान्त्रिक राष्ट्रिय मञ्चका एक निष्ठावान नेता हुन्, जसले इलाम क्षेत्र नम्बर २ मा आफ्नो पार्टीको तर्फबाट निरन्तर प्रतिनिधित्व गर्दै आएका छन्। उनी विशेष गरी पहिचानमा आधारित राजनीति र लिम्बुवान स्वायत्त राज्यको एजेन्डामा केन्द्रित छन्। २०७९ को आम निर्वाचन र २०८१ को उपनिर्वाचन दुवैमा उनले उम्मेदवारी दिएका थिए, यद्यपि उनले प्राप्त गरेको मत संख्या निकै न्यून रहेको देखिन्छ। इलाम जस्तो नेकपा (एमाले) र नेपाली कांग्रेसको बलियो पकड भएको क्षेत्रमा साना दलको तर्फबाट चुनाव लड्नु चुनौतीपूर्ण भए तापनि उनले आफ्नो राजनीतिक उपस्थितिलाई निरन्तरता दिइरहेका छन्। उनी विरुद्ध कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनको छवि एक स्वच्छ छविको क्षेत्रीय नेताका रूपमा रहेको छ।",
+  "overall_approval_rating": 42
+}

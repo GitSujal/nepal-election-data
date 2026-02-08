@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339511,
+  "candidate_name": "राज कुमार मण्डल",
+  "candidate_party": "नेपाल संघीय समाजवादी पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Federal_Socialist_Forum%2C_Nepal.svg/1200px-Flag_of_the_Federal_Socialist_Forum%2C_Nepal.svg.png",
+  "candidates_current_position": "नेता, नेपाल संघीय समाजवादी पार्टी",
+  "candidates_current_position_in_party": "स्थानीय पार्टी प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339511.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं २ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल संघीय समाजवादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी जिल्लाको निर्वाचन क्षेत्र नं २ (ख) बाट प्रदेश सभा सदस्यका लागि नेपाल संघीय समाजवादी पार्टीको तर्फबाट चुनाव लडेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339511",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल संघीय समाजवादी पार्टीको एकल चुनाव चिन्ह लिएर सप्तरीमा आफ्नो आधिकारिक मनोनयन पत्र दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/notices",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल संघीय समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "रिजवान अन्सारीको नेतृत्वमा रहेको नेपाल संघीय समाजवादी पार्टीमा आबद्ध भई सप्तरीमा पार्टीको संगठन विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://onlinekhabar.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राज कुमार मण्डल सप्तरी जिल्लाको राजनीतिमा नेपाल संघीय समाजवादी पार्टीका तर्फबाट सक्रिय एक स्थानीय नेता हुन्। २०७९ को निर्वाचनमा उनले सप्तरी क्षेत्र नं २ (ख) बाट प्रदेश सभाको लागि प्रतिस्पर्धा गरेका थिए, जहाँ जनमत पार्टीका महेश प्रसाद यादव विजयी भएका थिए। यो निर्वाचन क्षेत्रमा सीके राउत र उपेन्द्र यादव जस्ता दिग्गज नेताहरूको प्रभाव रहेकाले मण्डल जस्ता साना दलका उम्मेदवारहरूले उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक पहिचान मुख्यतया संघीयता र मधेशका मुद्दाहरूमा आधारित छ। यद्यपि, चुनावी नतिजामा उनको प्रभाव कमजोर देखिएको छ। अहिलेसम्म उनको नाममा कुनै ठूला घोटाला वा विवादहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनी स्वच्छ छविका तर कम जनमत भएका नेताका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 40
+}

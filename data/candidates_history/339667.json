@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339667,
+  "candidate_name": "गजेन्द्र् राज पाण्डेय",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harka_Sampang_Party_Symbol.png/220px-Harka_Sampang_Party_Symbol.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा बैतडी जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339667.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "३ (ख)",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बैतडी",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीबाट उम्मेदवारी दर्ता",
+      "date": "२०८१-१०-२०",
+      "details": "बैतडी निर्वाचन क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि श्रम संस्कृति पार्टीको तर्फबाट आधिकारिक उम्मेदवारी घोषणा।",
+      "link_to_source": "https://ekantipur.com/news/2026/02/03/baitadi-voters-face-same-problems-23-02.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०८१-०७-०७",
+      "details": "धरानका मेयर हर्क साम्पाङले नेतृत्व गरेको श्रम संस्कृति पार्टीमा आबद्ध भई पार्टीको सुदूरपश्चिम विस्तारमा सक्रिय भूमिका।",
+      "link_to_source": "https://www.ratopati.com/story/451370/2024/9/23/harka-sampang-party-registration",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कञ्चनपुर प्रदेश सभा निर्वाचनमा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "कञ्चनपुर क्षेत्र नं. ३ (ख) बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचन लडेका पाण्डेयले १९४ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/result/candidate/339667",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी विस्तार अभियान",
+      "date": "२०८१-०९-१५",
+      "details": "श्रम, संस्कृति र प्रविधिको एजेन्डा लिएर बैतडीका विभिन्न स्थानीय तहहरूमा संगठन विस्तार र जनजागरण अभियान सञ्चालन।",
+      "link_to_source": "https://loksarathi.com/news-details/14104/2024-09-23",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "गजेन्द्र् राज पाण्डेय श्रम संस्कृति पार्टीका एक उदीयमान नेता हुन्, जो धरानका मेयर हर्क साम्पाङको राजनीतिक दर्शनबाट प्रेरित देखिन्छन्। स्थायी ठेगाना कञ्चनपुरको भीमदत्त नगरपालिका भए तापनि बैतडीबाट निर्वाचन लड्ने निर्णयले उनलाई 'टूरिस्ट उम्मेदवार' (Tourist Candidate) को परिचय दिएको छ। २०७९ को निर्वाचनमा कञ्चनपुरबाट स्वतन्त्र रूपमा न्यून मत प्राप्त गरेका पाण्डेयले यसपटक वैकल्पिक राजनीतिको नाममा बैतडीमा आफ्नो आधार बनाउन खोजेका छन्। जिल्ला बाहिरको उम्मेदवार भएकाले उनलाई स्थानीय जनमत बटुल्न निकै चुनौतीपूर्ण देखिन्छ। यद्यपि, श्रम र संस्कृतिको नयाँ एजेन्डाले युवा र वैचारिक मतदाताहरूमाझ केही कौतुहलता पैदा गरेको छ। उनको चुनावी प्रभाव मुख्य दलहरूको तुलनामा हाल निकै कमजोर छ।",
+  "overall_approval_rating": 22
+}

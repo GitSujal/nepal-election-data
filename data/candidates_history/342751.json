@@ -1,0 +1,87 @@
+{
+  "candidate_id": 342751,
+  "candidate_name": "प्रमोद साह",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-M_logo.svg/1200px-CPN-M_logo.svg.png",
+  "candidates_current_position": "पूर्व प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342751.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "राष्ट्रिय जनता पार्टी (राजपा)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) मा प्रवेश",
+      "date": "२०८१-११-२३",
+      "details": "जनता समाजवादी पार्टी (जसपा) नेपाल परित्याग गरी सर्लाहीको मलंगवामा आयोजित एक कार्यक्रमका बीच अध्यक्ष पुष्पकमल दाहाल 'प्रचण्ड' बाट पार्टी प्रवेश गरेका।",
+      "link_to_source": "https://kathmandupost.com/national/2025/03/07/jsp-nepal-leader-pramod-sah-joins-maoist-centre",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जसपा नेपाल परित्यागको घोषणा",
+      "date": "२०८१-१०-१५",
+      "details": "पार्टी नेतृत्व र कार्यविभाजनप्रति असन्तुष्टि जनाउँदै जनता समाजवादी पार्टी नेपालको साधारण सदस्यबाट समेत राजीनामा दिएका।",
+      "link_to_source": "https://himalpress.com/news/140682/",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "सर्लाही क्षेत्र नम्बर १ मा १४,२५५ मत प्राप्त गरी तेस्रो स्थानमा खुम्चिएका, जहाँ लोकतान्त्रिक समाजवादी पार्टीका राम प्रकाश चौधरी विजयी भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342751",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जसपाको प्रमुख सचेतकमा नियुक्ति",
+      "date": "२०७८-०३-१५",
+      "details": "प्रतिनिधि सभामा जनता समाजवादी पार्टी (जसपा) नेपालको संसदीय दलको प्रमुख सचेतकको जिम्मेवारी सम्हालेका।",
+      "link_to_source": "https://bellsanchar.com/2025/03/07/74735/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनकपुर विमानस्थल तोडफोड प्रकरणमा पक्राउ",
+      "date": "२०७६-०६-२८",
+      "details": "बुद्ध एयरको काउन्टर तोडफोड गरेको अभियोगमा काठमाडौंबाट प्रहरीले पक्राउ गरी कानुनी कारबाही अगाडि बढाएको।",
+      "link_to_source": "https://www.samachardainik.com/news/113110",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बुद्ध एयरको काउन्टर तोडफोड र अभद्र व्यवहार",
+      "date": "२०७६-०६-२७",
+      "details": "जनकपुर विमानस्थलमा उडान ढिलो भएको भन्दै बुद्ध एयरका कर्मचारीमाथि दुर्व्यवहार र काउन्टरमा भौतिक क्षति पुर्याएको।",
+      "link_to_source": "https://kathmandupost.com/national/2019/10/15/lawmaker-pramod-sah-arrested-for-vandalising-buddha-air-counter",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आम निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०८-२१",
+      "details": "सर्लाही-१ बाट २२,०३६ मत प्राप्त गर्दै पहिलोपटक प्रतिनिधि सभा सदस्यमा निर्वाचित भएका।",
+      "link_to_source": "https://wikipedia.org/wiki/Pramod_Sah",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "प्रमोद साह सर्लाहीको राजनीतिमा एक चर्चित तर विवादास्पद पात्र हुन्। २०७४ को निर्वाचनमा तत्कालीन राजपाबाट विजयी भएर राष्ट्रिय राजनीतिमा उदाएका साहले मधेश आन्दोलनको भावनालाई प्रतिनिधित्व गर्ने दाबी गरे पनि उनको कार्यकाल विवादमुक्त रहन सकेन। विशेष गरी २०७६ सालमा जनकपुर विमानस्थलमा बुद्ध एयरको काउन्टर तोडफोड गरेको घटनाले उनको सार्वजनिक छविमा ठूलो धक्का पुर्यायो, जसका कारण उनले गिरफ्तारी समेत भोग्नुपर्यो। २०७९ को निर्वाचनमा उनी आफ्नै निर्वाचन क्षेत्रमा तेस्रो स्थानमा खुम्चिनुले उनको घट्दो लोकप्रियता र मतदाताको असन्तुष्टिलाई दर्शाउँछ। हालै जसपा नेपाल छोडेर नेकपा (माओवादी केन्द्र) मा प्रवेश गर्नुलाई उनको राजनीतिक अस्तित्व जोगाउने प्रयासका रूपमा हेरिएको छ। बारम्बार पार्टी परिवर्तन गर्ने र उग्र व्यवहार प्रदर्शन गर्ने प्रवृत्तिले गर्दा उनलाई अस्थिर नेताको रूपमा विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 28
+}

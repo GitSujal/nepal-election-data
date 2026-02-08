@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340233,
+  "candidate_name": "बैद्यनाथ प्रसाद चौधरी",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Nepal_Workers_and_Peasants_Party.svg",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "जिल्ला स्तरका नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340233.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधिसभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "चौधरीले रौतहट क्षेत्र नं. १ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट प्रतिनिधिसभा निर्वाचनमा प्रतिस्पर्धा गरेका थिए, जहाँ उनले १०३ मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "रौतहट क्षेत्र नं. ४ बाट उम्मेदवार बनेका चौधरीले जम्मा ४१ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल मजदुर किसान पार्टीमा निरन्तर आबद्धता",
+      "date": "२०७४-०१-०१",
+      "details": "चौधरी लामो समयदेखि रौतहट जिल्लामा नेपाल मजदुर किसान पार्टीको वैचारिक आधार निर्माणमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340233",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बैद्यनाथ प्रसाद चौधरी रौतहट जिल्लामा नेपाल मजदुर किसान पार्टीका एक निष्ठावान र वैचारिक कार्यकर्ता हुन्। उनले २०७४ र २०७९ दुवै प्रतिनिधिसभा निर्वाचनमा रौतहटबाट उम्मेदवारी दिएका थिए, यद्यपि दुवै पटक उनको मत परिणाम निकै न्यून रह्यो। उनले २०७४ मा रौतहट-४ बाट ४१ मत र २०७९ मा रौतहट-१ बाट १०३ मत प्राप्त गरेका थिए। मधेशको राजनीतिमा आफ्नो पार्टीको उपस्थिति कमजोर भए तापनि उनले निरन्तर पार्टीको प्रतिनिधित्व गरिरहेका छन्। उनीमाथि कुनै भ्रष्टाचार वा काण्डको आरोप लागेको छैन, जसले उनको व्यक्तिगत छवि स्वच्छ रहेको देखाउँछ। उनी 'टुरिस्ट' उम्मेदवार होइनन् र आफ्नै गृह जिल्लाका विभिन्न निर्वाचन क्षेत्रबाट प्रतिस्पर्धा गर्ने गरेका छन्। चुनावी प्रतिस्पर्धामा प्रभावशाली नभए पनि उनी पार्टीको सिद्धान्तप्रति अडिग देखिएका छन्।",
+  "overall_approval_rating": 42
+}

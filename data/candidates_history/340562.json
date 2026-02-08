@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340562,
+  "candidate_name": "रविन पाठक",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rastriya_Prajatantra_Party_Logo.png/600px-Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "जिल्ला अध्यक्ष, राष्ट्रिय प्रजातान्त्रिक युवा संगठन",
+  "candidates_current_position_in_party": "जिल्ला सदस्य, राप्रपा स्याङ्जा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340562.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा स्याङ्जा क्षेत्र नं २ बाट राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यको लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340562",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय प्रजातान्त्रिक युवा संगठनको नेतृत्व",
+      "date": "२०७८-०३-१५",
+      "details": "राप्रपाको भ्रातृ संगठन, राष्ट्रिय प्रजातान्त्रिक युवा संगठनको स्याङ्जा जिल्ला अध्यक्षको रूपमा जिम्मेवारी सम्हाल्दै युवा परिचालनमा सक्रिय रहेका।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340562",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी एकीकरण र निष्ठा",
+      "date": "२०७७-११-२४",
+      "details": "राप्रपाका विभिन्न घटकहरू एकीकृत हुँदा पनि विचलित नभई निरन्तर रूपमा पार्टीको संगठन विस्तारमा लागेका।",
+      "link_to_source": "https://www.setopati.com/politics/257368",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्नातक तहको शिक्षा पुरा",
+      "date": "२०६५-०२-१०",
+      "details": "त्रिभुवन विश्वविद्यालयबाट स्नातक तह (Bachelor) सम्मको शिक्षा हासिल गरेका एक शिक्षित युवा नेताको रूपमा परिचित।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340562",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रविन पाठक स्याङ्जा जिल्लाका एक सक्रिय र निष्ठावान युवा राजनीतिज्ञ हुन्। उनी राष्ट्रिय प्रजातन्त्र पार्टीको भ्रातृ संस्था, राष्ट्रिय प्रजातान्त्रिक युवा संगठनको जिल्ला अध्यक्षको रूपमा कार्यरत छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले स्याङ्जा निर्वाचन क्षेत्र नम्बर २ बाट उम्मेदवारी दिएका थिए, यद्यपि उक्त क्षेत्रमा नेपाली कांग्रेस र नेकपा एमालेका हेभीवेट नेताहरूको कडा प्रतिस्पर्धाका कारण उनले उल्लेखनीय मत ल्याउन सकेनन्। उनी विशेष गरी हिन्दू राष्ट्र र राजतन्त्रको एजेन्डामा युवाहरूलाई गोलबद्ध गर्न सक्रिय देखिन्छन्। भ्रष्टाचार र कुनै पनि विवादमा नाम नमुछिएका पाठकलाई राप्रपाले स्याङ्जामा संगठन विस्तारका लागि एक भरोसायोग्य युवा पात्रको रूपमा हेरेको छ।",
+  "overall_approval_rating": 55
+}

@@ -1,0 +1,127 @@
+{
+  "candidate_id": 341945,
+  "candidate_name": "विमलेन्द्र निधि",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nepali_Congress_Party_Logo.png/220px-Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य (समानुपातिक)",
+  "candidates_current_position_in_party": "पूर्व उपसभापति",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341945.jpg",
+  "election_history": [
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "समानुपातिकबाट सांसद निर्वाचित",
+      "date": "२०७९-०८-२८",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा धनुषाबाट प्रत्यक्ष चुनाव लड्न छाडेर नेपाली काँग्रेसको समानुपातिक सूचीबाट सांसद चुनिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Bimalendra_Nidhi",
+      "event_type": "ELECTION_WIN",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी सभापति पदमा उम्मेदवारी",
+      "date": "२०७८-०८-२७",
+      "details": "नेपाली काँग्रेसको १४औं महाधिवेशनमा शेरबहादुर देउवाको प्यानल छाडेर सभापति पदमा उम्मेदवारी दिए पनि ५.३ प्रतिशत मत मात्र प्राप्त गरे।",
+      "link_to_source": "https://wikipedia.org/wiki/Bimalendra_Nidhi",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कार्यवाहक सभापति नियुक्त",
+      "date": "२०७८-०७-१२",
+      "details": "शेरबहादुर देउवा विदेश भ्रमणमा जाँदा उनलाई पार्टीको कार्यवाहक सभापतिको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/nidhi-assigned-nepali-congress-acting-president",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आईजीपी नियुक्ति विवाद र राजीनामा",
+      "date": "२०७३-१२-१७",
+      "details": "प्रहरी महानिरीक्षक नियुक्तिमा वरियता मिचिएको र सुशीला कार्कीमाथि महाअभियोग लगाइएकोमा असन्तुष्टि जनाउँदै गृहमन्त्रीबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://himalpress.com/2025/05/28/six-of-nc-s-11-home-ministers-tainted-by-controversy/",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मलेठ घटना र प्रहरी दमन",
+      "date": "२०७३-११-२३",
+      "details": "सप्तरीको मलेठमा एमालेको कार्यक्रम बिथोल्न गएका मधेशी मोर्चाका कार्यकर्तामाथि प्रहरीले गोली चलाउँदा ५ जनाको मृत्यु भयो, जसको नैतिक जिम्मेवारी गृहमन्त्रीका रूपमा निधिमाथि आयो।",
+      "link_to_source": "https://himalpress.com/2025/05/28/six-of-nc-s-11-home-ministers-tainted-by-controversy/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उपप्रधान तथा गृहमन्त्री नियुक्त",
+      "date": "२०७३-०४-२०",
+      "details": "पुष्पकमल दाहाल नेतृत्वको सरकारमा नेपाली काँग्रेसको नेतृत्व गर्दै उपप्रधान तथा गृहमन्त्रीको रूपमा कार्यभार सम्हाले।",
+      "link_to_source": "https://wikipedia.org/wiki/Bimalendra_Nidhi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भौतिक पूर्वाधार मन्त्रीको रूपमा कार्य",
+      "date": "२०७०-११-१३",
+      "details": "सुशील कोइरालाको मन्त्रिमण्डलमा भौतिक पूर्वाधार तथा यातायात मन्त्री भई फास्ट ट्रयाक परियोजना अघि बढाउन सक्रिय रहे।",
+      "link_to_source": "https://wikipedia.org/wiki/Bimalendra_Nidhi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल विद्यार्थी संघको अध्यक्ष",
+      "date": "२०३६-०१-०१",
+      "details": "२३ वर्षको उमेरमा नेपाली काँग्रेसको भ्रातृ संस्था नेपाल विद्यार्थी संघको केन्द्रीय अध्यक्ष निर्वाचित भई विद्यार्थी आन्दोलनको नेतृत्व गरे।",
+      "link_to_source": "https://wikipedia.org/wiki/Bimalendra_Nidhi",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विमलेन्द्र निधि नेपाली काँग्रेसका प्रभावशाली मधेशी नेता र महेन्द्र नारायण निधिका पुत्र हुन्। उनी लामो समयदेखि धनुषाको राजनीतिमा पकड राख्दै आए पनि २०७४ को निर्वाचनमा राजेन्द्र महतोसँगको पराजयले उनको स्थानीय आधार कमजोर देखिएको छ। यसै कारण उनले २०७९ को निर्वाचनमा प्रत्यक्ष नलडी समानुपातिक प्रणाली रोजेका हुन्। उनको कार्यकालमा प्रहरी महानिरीक्षक नियुक्ति र प्रधानन्यायाधीश सुशीला कार्कीको महाअभियोग प्रकरण सबैभन्दा बढी विवादित बनेका थिए। उनीमाथि आफ्ना भाई नाबेन्द्र निधिलाई क्याम्पस प्रमुख नियुक्त गराउन दबाब दिएको लगायतका नातावादका आरोपहरू समेत लाग्ने गरेका छन्। यद्यपि, पार्टीको आन्तरिक संगठन र मधेशी मुद्दाहरूमा उनी अझै पनि महत्वपूर्ण रणनीतिकारका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 62
+}

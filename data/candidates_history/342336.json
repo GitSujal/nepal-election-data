@@ -1,0 +1,95 @@
+{
+  "candidate_id": 342336,
+  "candidate_name": "देवेन्‍द्र पौडेल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "पूर्व शिक्षा, विज्ञान तथा प्रविधि मन्त्री",
+  "candidates_current_position_in_party": "सचिव, नेकपा (माओवादी केन्द्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342336.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बागलुङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बागलुङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सुनसरीमा स्वतन्त्र उम्मेदवारी",
+      "date": "२०८१-१०-१८",
+      "details": "लामो समय बागलुङबाट राजनीति गरेका पौडेलले सुनसरी जिल्लाबाट स्वतन्त्र उम्मेदवारी दिएका छन्, जसलाई राजनीतिक वृत्तमा 'भगुवा' उम्मेदवारको रूपमा हेरिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2DtRG7VkL1_C-R6Mjl9BK9UB08gCKCKV3jQwN0wP9a8dNCN2ZdaMD8s80XzHaR8NwCcZMjdapcWwguQ0GDT8rMVOHBSb12sg2k5G0IQm7GTUxFcYFH7XWJP7fsjg-ivmFxsw1RO4e2xz_Ovbjq5Ulwtb6dAvkig6I0N45o_A2t2Bdj4VQfQ==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०७",
+      "details": "बागलुङ क्षेत्र नं. २ बाट २४,७९४ मत प्राप्त गरी नेकपा (एमाले) की मञ्जु शर्मालाई पराजित गर्दै दोस्रो पटक निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhVWFQKjc6yMsxhZAeWZ1js5AtslS9wLNWk3eaCb_-Xp_85GwsW1KgJWgDwAcvZEd3QKw9Bbi5MesmCOFjfI-aub3bFXuaJIw0qiiFHOFECbVXMnvnvu5_2tioJYOsPC5ZsRr9lb06yCq6TizJBo3k9Li2Ys8VE8oo5BlqeK_wvijIG7kM8h3",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रीमा नियुक्त",
+      "date": "२०७८-०६-२२",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा माओवादी केन्द्रको तर्फबाट शिक्षा मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpJAhBH0Tc0cjDWhIrfl_hUUJRuAJF09deH9zCf9Ys8ATP9Zn962ohdtWCoZ64IqPl7mXmXNGrNGh4P1WWvg1nuVYaQ1nIO-nSjbohSqrxSPBwAS7BVGLpWaRbwIod3ehUIDNxW3Cb9ya3W-YP2syTp-Fcn1ISHdu-EkDSSSKU3GmOcpYlYQ==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अस्थायी शिक्षक व्यवस्थापनको विवाद",
+      "date": "२०७८-०७-१४",
+      "details": "मन्त्री रहँदा अस्थायी र करार शिक्षकहरूको व्यवस्थापन गर्ने प्रतिवद्धता जनाए पनि ठोस काम हुन नसकेको भन्दै आलोचना भएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMheDeAFFy4WMCdPWw762n3oaA2e2vIkvQtZLCjkmjrM3M0PFGE6STwiNO4fs493fhKOYUSYnOQuNYPmc7OB0XHtJqGlxw4S702KI6SNpcln9N79AbRhRABS-sdKRxij7TgKRLuqDutKb9s0YJx4okEied0IfgOxO9EvSMc72TpxgIUKNk6osZCOPkAqVuCUINoH46QfMN0Ro8uCsBdArwpqpgJGkGiwWiadpC",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "बागलुङ क्षेत्र नं. २ बाट २८,८२७ मत ल्याएर पहिलो पटक संघीय संसदको सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGQOS0COleGCukrUjU15UwXSsppqK14IAneBz1rvPchU_rljp0ljY0LSE8BdPlfApZNB_i-c_laGxsgZe5AqfKTdhlCKJmJ6aKMdbnSWRAHLeu5bELilNSoQYez54IxVqsdxM_Qn0tFiOVLGvRBEK_Z2NJDep_oddrowGLQVJ8BQ6Rsg==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "माओवादी केन्द्रमा फिर्ता",
+      "date": "२०७४-०६-०१",
+      "details": "डा. बाबुराम भट्टराईको नयाँ शक्ति पार्टी छोडेर उनी पुनः माओवादी केन्द्रमा फर्किएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFakeXVR8G0aq5NpR5azswIy67lGi-5-u61UmqgtvRLd3M2PQUjWbNU6SulbLzuF5c7JkyAfhoh19vteNW7o58MMjotaoHyDp4OYSIvYO5nxsdk5OLZLRnmdBF_IrELQlOxpQu092x15A==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीको स्थापना",
+      "date": "२०७२-०६-०९",
+      "details": "माओवादी परित्याग गरी बाबुराम भट्टराईसँगै नयाँ शक्ति पार्टी निर्माणमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFakeXVR8G0aq5NpR5azswIy67lGi-5-u61UmqgtvRLd3M2PQUjWbNU6SulbLzuF5c7JkyAfhoh19vteNW7o58MMjotaoHyDp4OYSIvYO5nxsdk5OLZLRnmdBF_IrELQlOxpQu092x15A==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रधानमन्त्रीको मुख्य सल्लाहकारमा नियुक्त",
+      "date": "२०६८-०५-११",
+      "details": "तत्कालीन प्रधानमन्त्री डा. बाबुराम भट्टराईको मुख्य राजनीतिक सल्लाहकारको रूपमा कार्य गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpJAhBH0Tc0cjDWhIrfl_hUUJRuAJF09deH9zCf9Ys8ATP9Zn962ohdtWCoZ64IqPl7mXmXNGrNGh4P1WWvg1nuVYaQ1nIO-nSjbohSqrxSPBwAS7BVGLpWaRbwIod3ehUIDNxW3Cb9ya3W-YP2syTp-Fcn1ISHdu-EkDSSSKU3GmOcpYlYQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "देवेन्द्र पौडेल नेकपा (माओवादी केन्द्र) का एक प्रभावशाली नेता र पूर्व शिक्षा मन्त्री हुन्। उनले २०७४ र २०७९ को निर्वाचनमा बागलुङ क्षेत्र नं. २ बाट लगातार दुई पटक जित हासिल गरेर आफ्नो बलियो चुनावी आधार प्रदर्शन गरेका थिए। शिक्षा मन्त्रीको रूपमा उनले केही सुधारका प्रयास गरे पनि शिक्षक दरबन्दी र व्यवस्थापनका विषयमा विवादमा परेका थिए। हालको निर्वाचनमा उनले आफ्नो पुरानो क्षेत्र बागलुङ छाडेर सुनसरीबाट स्वतन्त्र उम्मेदवारी दिनुले उनको राजनीतिक स्थिरतामा प्रश्न उठाएको छ। यस 'भगुवा' प्रवृत्तिको कारण स्थानीय मतदाताहरूमा उनीप्रति केही नकारात्मक धारणा रहेको देखिन्छ। यद्यपि, उनको लामो राजनीतिक अनुभव र माओवादी आन्दोलनमा रहेको योगदानले उनलाई अझै पनि प्रभावशाली नेताको रूपमा कायम राखेको छ। उनको पछिल्लो दल परिवर्तन र क्षेत्र परिवर्तनले गर्दा उनको चुनावी परिणाम अनिश्चित देखिन्छ।",
+  "overall_approval_rating": 62
+}

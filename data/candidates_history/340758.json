@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340758,
+  "candidate_name": "प्रेम कुमार खत्री",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (गोरखा १)",
+  "candidates_current_position_in_party": "महाधिवेशन प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340758.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "गोरखा १(ख)",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+      "district": "गोरखा",
+      "constituency": "गोरखा १",
+      "result": "निर्वाचित नभएको",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "गोरखा",
+      "constituency": "गोरखा १",
+      "result": "उम्मेदवार",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०८२ को उम्मेदवारी र प्रचारप्रसार",
+      "date": "२०८२-१०-१८",
+      "details": "गोरखा क्षेत्र नं. १ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिई काठमाडौं, पोखरा लगायतका क्षेत्रमा रहेका मतदाताहरूसँग भेटघाट र घरदैलो अभियानमा सक्रिय।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzsnd412lSHiXpq6bdVwpmU3ORpXubH4xeUGkmZhmWUYshL9wcFNgg8EvH4DviODPNaPNxwcQE1JjBL9NnQiMzdPQzl_v30HZukIMtdIOg2nK7exDIO0uwR9sMO2iROg1GdovT",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीद्वारा गोरखा १ को उम्मेदवार चयन",
+      "date": "२०८२-१०-०५",
+      "details": "नेपाली कांग्रेसको संसदीय बोर्डले गोरखा क्षेत्र नं. १ को लागि प्रेम कुमार खत्रीलाई आधिकारिक उम्मेदवारको रूपमा टुंगो लगाएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0lflmobzeSOTFdRq7q4pUQOBjO9h2K2BGo2Q7p8bqN0H0jMH7CIcZPNe4cfLtIa7s-Kv804UlbDGgwKQ0fDAHd0ObL8xcDaNPx83Mof4BaISjlGrySMRi8opehQTXfFKpznkt7Qectf6f2vDWOcn94E4s-WfYPsIzcLRbRW02Q4ocYoDaKPcm3o0_wlE4eDYmoA0XS2XyLytvzfw7AIlVuW1ibVEtiLyq3kb5A6wyWQ==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटन व्यवसायीको रूपमा सामाजिक योगदान",
+      "date": "२०७७-०३-१५",
+      "details": "कोभिड-१९ महामारीको समयमा गोरखाका विपन्न परिवारलाई खाद्यान्न र स्वास्थ्य सामग्री वितरण गरी सामाजिक कार्यमा संलग्न।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF3BMf9-ppAVutWHHze5ROZp5Kjv7XxABhmf8dc7rP3hnX3vjtgQ6vtlSV83_yfjf9TycATG2zVicrxoxye_7rZOtEj1wtNISJvO5AYMsTYbK89JRs0Ze9r27JomgcoAIhHu7y",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "गोरखा निर्वाचन क्षेत्र नं. १ (ख) बाट नेपाली कांग्रेसको तर्फबाट प्रदेश सभा सदस्यको लागि पहिलो पटक निर्वाचन लडेका, जहाँ उनी पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLsqX-jQ1exQn88VfxBut3C1PpzSs8UCWd3cwPts1bw8bO6RAjZlz4m049Y9hSlbvbyPuR6DDpQBie01EwGhvWcflr9pUd0WoSdRRAWW1_YLR-pOsVJonQkoNhPTafYuKTwv1rmce26f0AWImMMdjmHT2A48cC6d_E0tDHJyQHZdXbLD7Au8s04Eua4nnT_ERD8xGLzX2y4zQzK3fEDTEUlA28xjeRh5RhsCOniPuVh7E7kPBuS5ZAZTBFDzFterpjacjNQfsJUgZR29rSgg==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रेम कुमार खत्री गोरखा जिल्लाबाट नेपाली कांग्रेसका एक स्थापित नेता र सफल पर्यटन व्यवसायी हुन्। उनले २०७४ को प्रदेश सभा निर्वाचनमा गोरखा १(ख) बाट प्रतिस्पर्धा गर्दा प्राप्त गरेको सम्मानजनक मतले उनको स्थानीय लोकप्रियतालाई पुष्टि गर्दछ। व्यावसायिक रूपमा सफल खत्रीले विशेष गरी २०७२ को भूकम्प र कोरोना महामारीका समयमा गोरखामा पुऱ्याएको सामाजिक सहयोगका कारण उनलाई 'समाजसेवी' छविका रूपमा हेरिन्छ। हाल उनी २०८२ को प्रतिनिधिसभा निर्वाचनमा गोरखा १ बाट उम्मेदवार रहेका छन्। उनी विरुद्ध कुनै पनि भ्रष्टाचार वा नैतिक विवादका मुद्दाहरू सार्वजनिक नभएकाले उनको छवि स्वच्छ देखिन्छ। यद्यपि, चुनावी राजनीतिमा अहिलेसम्म जित हासिल नगर्नु उनका लागि एउटा चुनौती हो, तर उनको सांगठनिक पकड र व्यावसायिक पृष्ठभूमिले उनलाई एक बलियो प्रतिस्पर्धी बनाएको छ।",
+  "overall_approval_rating": 65
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341208,
+  "candidate_name": "भरत बहादुर खड्का",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "साधारण सदस्य (पूर्व क्षेत्रीय नेता)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341208.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "क्षेत्र नं. १ (क)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "डोटी १(क) बाट प्रदेश सभामा निर्वाचित",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाली काँग्रेसको तर्फबाट डोटी क्षेत्र नं. १(क) मा १७,४०६ मत प्राप्त गरी विजयी। उनले नेकपा एमालेका चक्र मल्ललाई पराजित गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/result/2079/pradesh-sabha/doti-1-ka",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भक्तपुरबाट राप्रपा उम्मेदवार",
+      "date": "२०७९-०७-२३",
+      "details": "प्रतिनिधिसभा निर्वाचनमा भक्तपुर क्षेत्र नं. १ बाट राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) को उम्मेदवार बनी ९,३०३ मत ल्याएर तेस्रो स्थान हासिल गरे।",
+      "link_to_source": "https://nepsebajar.com/election/result/2079/pratinidhi-sabha/bhaktapur-1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली काँग्रेस परित्याग गरी राप्रपा प्रवेश",
+      "date": "२०७९-०६-०१",
+      "details": "नेपाली काँग्रेसमा टिकट वितरणमा असन्तुष्टि जनाउँदै उनी राप्रपामा प्रवेश गरेका थिए र भक्तपुरबाट चुनाव लडेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/1665313463.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०८-२१",
+      "details": "नेपाली काँग्रेसबाट डोटी १(क) मा १७,४०३ मत ल्याएर विजयी। तत्कालीन बाम गठबन्धनका उम्मेदवारलाई झिनो मतान्तरले पराजित गरेका थिए।",
+      "link_to_source": "https://setopati.com/politics/118321",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधान सभामा सदस्य",
+      "date": "२०७०-०८-०४",
+      "details": "डोटी जिल्लाबाट नेपाली काँग्रेसको तर्फबाट प्रत्यक्ष निर्वाचित भई संविधान निर्माण प्रक्रियामा सहभागी।",
+      "link_to_source": "https://www.wikidata.org/wiki/Q44164114",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सैनिक सेवाबाट अवकाश",
+      "date": "२०७६-०१-०१",
+      "details": "नेपाली सेनाको ब्रिगेडियर जनरल (जर्नेल) पदबाट अवकाश प्राप्त गरेपछि सक्रिय राजनीतिमा लागेका हुन्।",
+      "link_to_source": "https://nepsebajar.com/candidate/bharat-bahadur-khadka",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "भरत बहादुर खड्का डोटीको राजनीतिमा प्रभावकारी नाम भए तापनि उनको राजनीतिक अस्थिरता (Vaguwa) प्रमुख कमजोरी मानिन्छ। उनी २०७९ को निर्वाचनमा नेपाली काँग्रेस छोडेर राप्रपाबाट भक्तपुरमा चुनाव लड्न जानु र पुनः डोटी फर्केर काँग्रेसमै सक्रिय हुनुले उनको 'अवसरवादी' छविलाई उजागर गर्दछ। पूर्व सैनिक जर्नेल भएकाले उनको प्रशासनिक छवि राम्रो भए पनि विचारधारामा आएको विचलन (लोकतान्त्रिकबाट राजावादी र पुनः लोकतान्त्रिक) ले मतदातामा संशय पैदा गरेको छ। डोटीमा उनको व्यक्तिगत पकड बलियो छ, जसका कारण उनले प्रतिकूल अवस्थामा पनि जित हासिल गर्दै आएका छन्। तर, जिल्ला र पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण उनको राष्ट्रिय छविमा भने नकारात्मक असर परेको देखिन्छ।",
+  "overall_approval_rating": 58
+}

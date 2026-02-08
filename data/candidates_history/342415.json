@@ -1,0 +1,79 @@
+{
+  "candidate_id": 342415,
+  "candidate_name": "अब्दुल खान",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nagarik_Unmukti_Party_logo.png/200px-Nagarik_Unmukti_Party_logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व मन्त्री",
+  "candidates_current_position_in_party": "वरिष्ठ उपाध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342415.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+      "district": "बर्दिया",
+      "constituency": "N/A",
+      "result": "विजयी",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीको वरिष्ठ उपाध्यक्षमा नियुक्त",
+      "date": "२०८१-०७-१४",
+      "details": "जनमत पार्टी परित्याग गरेपछि रेशम चौधरी नेतृत्वको नागरिक उन्मुक्ति पार्टीमा वरिष्ठ उपाध्यक्षको जिम्मेवारी पाउनुभएको।",
+      "link_to_source": "https://www.ratopati.com/story/465715/2024/10/31/abdul-khan",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनमत पार्टीबाट सामूहिक राजीनामा",
+      "date": "२०८१-०६-०३",
+      "details": "पार्टीभित्र व्यक्तिवादी प्रवृत्ति र 'नेता-पूजा' बढेको भन्दै खानसहित ६ जना पदाधिकारीले जनमत पार्टीबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://theannapurnaexpress.com/story/49842/janamat-party-six-office-bearers-quit-party-en-masse",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उद्योग, वाणिज्य तथा उपभोक्ता हित समितिको सभापति",
+      "date": "२०८०-०५-११",
+      "details": "संघीय संसदको महत्वपूर्ण संसदीय समितिको सभापतिमा निर्विरोध निर्वाचित हुनुभएको।",
+      "link_to_source": "https://www.setopati.com/politics/310398",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "खानेपानी मन्त्रीबाट राजीनामा",
+      "date": "२०७९-१२-१७",
+      "details": "आफ्नो पार्टीलाई पहिले वाचा गरिएको उद्योग मन्त्रालय नदिएको र भागबन्डामा असन्तुष्टि जनाउँदै प्रधानमन्त्री पुष्पकमल दाहाललाई राजीनामा बुझाउनुभएको।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/03/1284852",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सिंहदरबार भित्र सार्वजनिक धारा उद्घाटन",
+      "date": "२०७९-१२-१७",
+      "details": "मन्त्रीको रुपमा आफ्नो कार्यकालको अन्तिम दिन सिंहदरबार भित्र ४ स्थानमा सार्वजनिक खानेपानीको धारा जडान गरी सुशासनको सन्देश दिन खोज्नुभएको।",
+      "link_to_source": "https://janapatra.com/news-details/13101",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "खानेपानी मन्त्रीको कार्यभार ग्रहण",
+      "date": "२०७९-१०-११",
+      "details": "बिना विभागीय मन्त्री बनेको एक महिना पछि प्रधानमन्त्रीको आश्वासनमा खानेपानी मन्त्रालयको जिम्मेवारी सम्हाल्न सहमत हुनुभएको।",
+      "link_to_source": "https://kathmandupost.com/national/2023/01/25/janamat-party-s-khan-assumes-office-a-month-after-appointment",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बिना विभागीय मन्त्रीमा नियुक्त",
+      "date": "२०७९-०९-११",
+      "details": "पुष्पकमल दाहाल नेतृत्वको सरकारमा जनमत पार्टीको तर्फबाट मन्त्री नियुक्त हुनुभएको।",
+      "link_to_source": "https://himalpress.com/politics/67709/",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अब्दुल खान बर्दिया जिल्लाका एक स्थापित र प्रखर नेता हुन्। उनी जनमत पार्टीको संस्थापक मध्येका एक र डा. सीके राउतका निकट सहयोगी थिए। २०७९ को निर्वाचनमा समानुपातिकबाट निर्वाचित भएपछि उनी छोटो समयका लागि खानेपानी मन्त्री बनेका थिए। मन्त्रालय भागबन्डामा पार्टीको अडान र सिद्धान्तका लागि उनले मन्त्री पदबाट दिएको राजीनामाले उनको राजनीतिक निष्ठा देखाउँछ। हाल उनले जनमत पार्टी छोडेर नागरिक उन्मुक्ति पार्टीमा वरिष्ठ उपाध्यक्षको जिम्मेवारी सम्हालेका छन्। बर्दिया–१ बाट उनको उम्मेदवारीले सो क्षेत्रमा थारु र मुस्लिम मतको समीकरणलाई रोचक बनाएको छ। उनी विकासप्रेमी र संसदमा प्रभावकारी भूमिका निर्वाह गर्ने नेताका रूपमा परिचित छन्।",
+  "overall_approval_rating": 72
+}

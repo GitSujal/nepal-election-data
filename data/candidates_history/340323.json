@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340323,
+  "candidate_name": "केशर बहादुर शाही",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_the_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340323.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "बाजुरा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "बाजुरा जिल्लाबाट प्रतिनिधिसभा सदस्यका लागि राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://kathmandupost.com/sudurpaschim-province/2022/11/17/voters-fear-possible-booth-capture-and-ballot-manipulation",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा चर्चा",
+      "date": "२०७९-०७-१५",
+      "details": "स्थानीय स्तरमा बलियो आधार नभएको र केन्द्रबाट निर्देशित भएर आएको भन्दै स्थानीय सञ्चारमाध्यम र विपक्षीले 'पर्यटक उम्मेदवार' को संज्ञा दिएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राप्रपाको विचारधारामा आबद्धता",
+      "date": "२०७४-०१-०१",
+      "details": "लामो समयदेखि राष्ट्रिय प्रजातन्त्र पार्टीका विभिन्न घटक र विचारसँग जोडिएर राष्ट्रवादी राजनीतिमा सक्रिय।",
+      "link_to_source": "https://rpp.org.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "केशर बहादुर शाही बाजुरा जिल्लाबाट २०७९ को प्रतिनिधिसभा निर्वाचनमा राष्ट्रिय प्रजातन्त्र पार्टी (राप्रपा) को तर्फबाट उम्मेदवार बनेका थिए। मुख्यतया नेपाली कांग्रेस र नेकपा एमालेको पकड रहेको बाजुरामा राप्रपाको प्रतिनिधित्व गर्दै चुनावी मैदानमा उत्रिएका शाहीले निकै कम मत प्राप्त गरे। उनलाई निर्वाचनको समयमा 'पर्यटक उम्मेदवार' को रूपमा हेरिनु र स्थानीय स्तरमा सांगठनिक संरचना मजबुत नहुनु उनको पराजयको मुख्य कारण देखिन्छ। राप्रपाको हिन्दू राष्ट्र र संवैधानिक राजतन्त्रको एजेन्डा बोकेर हिँडेका उनी पार्टीभित्र एक निष्ठावान कार्यकर्ताको रूपमा चिनिन्छन्, तर आम मतदातामाझ आफ्नो प्रभाव विस्तार गर्न उनलाई कठिन देखिएको छ। बाजुरामा उनको उम्मेदवारी मुख्य दलहरू विरुद्धको एक सांकेतिक उपस्थितिको रूपमा मात्र सीमित रहन पुग्यो।",
+  "overall_approval_rating": 38
+}

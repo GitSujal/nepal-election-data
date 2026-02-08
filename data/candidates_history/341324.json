@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341324,
+  "candidate_name": "मधु कुमार चौलागाई",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "अधिवक्ता एवं केन्द्रीय नेता",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341324.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रास्वपा विस्तारित बैठकमा सहभागिता",
+      "date": "२०८२-०७-२२",
+      "details": "चितवनको सौराहामा आयोजित राष्ट्रिय स्वतन्त्र पार्टीको विस्तारित बैठकमा केन्द्रीय नेताको रूपमा महत्वपूर्ण सहभागिता जनाउँदै आगामी चुनावी रणनीतिमा सक्रियता।",
+      "link_to_source": "https://www.youtube.com/watch?v=F3G3zKndp7U",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "काभ्रेपलाञ्चोक क्षेत्र नं. २ बाट राष्ट्रिय स्वतन्त्र पार्टीको उम्मेदवारको रूपमा चुनाव लडेका तर नेकपा एमालेका गोकुल बास्कोटासँग पराजित।",
+      "link_to_source": "https://election.ekantipur.com",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "डा. तोषिमा कार्कीको उम्मेदवारी रक्षा",
+      "date": "२०७९-०७-१५",
+      "details": "निर्वाचन आयोगले डा. तोषिमा कार्कीको उम्मेदवारी खारेज गरेपछि सर्वोच्च अदालतमा उनको पक्षमा सफल बहस गरी उम्मेदवारी कायम गराउन भूमिका खेलेको।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/11/01/supreme-court-orders-election-commission-not-to-scrap-dr-toshima-karkis-candidacy/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०४-१५",
+      "details": "वैकल्पिक राजनीतिको नयाँ लहरको रूपमा उदाएको रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आवद्ध भई सक्रिय राजनीति सुरु।",
+      "link_to_source": "https://rspnepal.org",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा सहभागिता",
+      "date": "२०७४-०८-२१",
+      "details": "विवेकशील साझा पार्टीबाट काभ्रे क्षेत्र नं. २ मा उम्मेदवारी दिई वैकल्पिक राजनीतिको आधार तयार गर्न प्रयास।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा आवद्धता",
+      "date": "२०७४-०५-०१",
+      "details": "साझा पार्टी र विवेकशील नेपाली दलको एकीकरण पश्चात बनेको नयाँ शक्तिमा सक्रिय रहँदै काभ्रेमा संगठन विस्तारमा संलग्न।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/विवेकशील_साझा_पार्टी",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कानूनी क्षेत्रमा व्यावसायिक यात्रा",
+      "date": "२०६५-०१-०१",
+      "details": "अधिवक्ताको रूपमा विभिन्न सार्वजनिक र संवैधानिक मुद्दाहरूमा वकालत गर्दै व्यावसायिक छवि निर्माण।",
+      "link_to_source": "https://www.nepallivetoday.com/2022/11/01/supreme-court-orders-election-commission-not-to-scrap-dr-toshima-karkis-candidacy/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मधु कुमार चौलागाईं नेपालको वैकल्पिक राजनीतिको एक बौद्धिक र निष्ठावान पात्र हुन्। पेशाले अधिवक्ता रहेका उनले २०७४ सालदेखि नै वैकल्पिक राजनीतिक शक्ति निर्माणका लागि आफूलाई समर्पित गरेका छन्। उनी २०७४ मा विवेकशील साझा र २०७९ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट काभ्रे-२ मा चुनाव लडेका थिए। चुनावी परिणाममा सफलता नमिल्दा पनि उनी निरन्तर रूपमा नयाँ राजनीतिक विचारमा सक्रिय छन्। उनको करियरको एक महत्वपूर्ण उपलब्धि डा. तोषिमा कार्कीको उम्मेदवारी खारेजी विरुद्ध सर्वोच्च अदालतमा गरिएको सफल कानूनी प्रतिरक्षा हो, जसले उनको पार्टी भित्र र बाहिर उच्च सम्मान दिलायो। उनीमाथि कुनै पनि भ्रष्टाचार वा अनियमितताका आरोपहरू छैनन्, जसले गर्दा उनी स्वच्छ छविका नेताका रूपमा चिनिन्छन्। उनी काभ्रेमा रास्वपाको आधार बलियो बनाउन महत्त्वपूर्ण भूमिका खेलिरहेका छन्।",
+  "overall_approval_rating": 72
+}

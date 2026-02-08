@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340418,
+  "candidate_name": "रमेश कुमार मल्ल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-Maoist_logo.svg/1024px-CPN-Maoist_logo.svg.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, नेकपा (माओवादी केन्द्र)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा विद्यार्थी विशेष प्रदेश इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340418.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य (उम्मेदवार)",
+      "district": "सल्यान",
+      "constituency": "सल्यान १",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रधानमन्त्रीको स्वकीय सचिवमा नियुक्ति",
+      "date": "२०७९-०९-११",
+      "details": "पुष्पकमल दाहाल 'प्रचण्ड' तेस्रो पटक प्रधानमन्त्री बनेपछि मल्ललाई उनको प्रमुख स्वकीय सचिवको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnVtunbuYrONTBrrZyDV0f_wRTDr76LJ6MBU0NfhPejV7oBmXz7DOSFJfKgSSZ8j8aLhjQ0asbvE6UkF8pu7W7UmvgXemkePht-pUBdOr1_zSEKKUMZrNCOFmORlvVJVd7JIThjw==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "टिकट वितरणमा असन्तुष्टि र विवाद",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को निर्वाचनमा सल्यानबाट उम्मेदवारीको दाबी गरे पनि सत्ता गठबन्धनका कारण नेकपा (एकीकृत समाजवादी) का प्रकाश ज्वालालाई सिट छोड्नुपर्दा पार्टीभित्र विवाद उत्पन्न भएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Bu_Pxf0KQD1kFGALr2we8TPjUZqpvsOZm_QnF31ION_WfVMaFuLAMsZvCmvtxVjpW5_Tn7i2lC-9KtzLQZmvqr_kGg3BckS4OefBoCEJ65HzMxwYIX7MRdxYEM272MyA-nhqXdDEvBfekmME0nG-h3YIvQxgNI6xMwp2847SystwwysYztEr6rCfn6YtvcRC7i_gljUTLlQ=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अखिल क्रान्तिकारीको अध्यक्ष",
+      "date": "२०६८-०३-१५",
+      "details": "माओवादी निकट विद्यार्थी संगठन अखिल (क्रान्तिकारी) को १८ औं राष्ट्रिय सम्मेलनबाट मल्ल अध्यक्षमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सचिवालयको कार्यशैलीमाथि आलोचना",
+      "date": "२०८०-०४-१०",
+      "details": "प्रधानमन्त्रीको सचिवालयमा रहँदा पार्टीका कार्यकर्ता र जनतासँगको दूरी बढाएको भन्दै पार्टीको आन्तरिक बैठकहरूमा मल्लको कार्यशैलीको आलोचना भएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "केन्द्रीय समितिमा पदोन्नति",
+      "date": "२०७८-०९-१८",
+      "details": "नेकपा (माओवादी केन्द्र) को ८ औं महाधिवेशनपछि मल्ललाई केन्द्रीय सदस्यको रूपमा चयन गरिएको थियो।",
+      "link_to_source": "https://ratopati.com/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रमेश कुमार मल्ल नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) का एक प्रभावशाली युवा नेता र अध्यक्ष पुष्पकमल दाहाल 'प्रचण्ड' का निकटवर्ती मानिन्छन्। विद्यार्थी राजनीतिबाट उदाएका मल्लले अखिल (क्रान्तिकारी) को नेतृत्व गर्दै पार्टीको मूलधारको राजनीतिमा स्थान बनाएका हुन्। उनको मुख्य शक्ति भनेकै पार्टी नेतृत्वसँगको निकटता र संगठनात्मक क्षमता हो। यद्यपि, २०७९ को निर्वाचनमा सल्यानबाट प्रत्यक्षतर्फको टिकट नपाउनुले उनको स्थानीय चुनावी जनाधारमा केही चुनौती देखाएको छ। प्रधानमन्त्रीको स्वकीय सचिवको रूपमा काम गर्दा उनले प्रशासनिक अनुभव बटुले पनि सचिवालयको कार्यशैलीलाई लिएर पार्टीभित्रैबाट आलोचना खेप्नुपरेको थियो। समग्रमा, उनी माओवादी केन्द्रको भित्री राजनीतिक रणनीतिका एक प्रमुख पात्र हुन्।",
+  "overall_approval_rating": 68
+}

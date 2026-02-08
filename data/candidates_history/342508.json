@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342508,
+  "candidate_name": "महेश कुमार यादव",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bulb_symbol.png/220px-Bulb_symbol.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342508.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०८०-०१-१५",
+      "details": "स्वतन्त्र राजनीतिबाट सांगठनिक राजनीतिमा जान महेश कुमार यादव उज्यालो नेपाल पार्टीमा आबद्ध भएका हुन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/11/1218861",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दा उनले ९० मत मात्र प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "वैकल्पिक राजनीतिको अभ्यासमा सहभागी",
+      "date": "२०७९-०७-२०",
+      "details": "पार्टीगत राजनीति भन्दा बाहिर रहेर जनताको आवाज उठाउने भन्दै उनले स्वतन्त्र उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://deshsanchar.com/election/candidates/dhanusha-3-9/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "महेश कुमार यादव धनुषा जिल्लाका एक स्थानीय राजनीतिकर्मी हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा धनुषा क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारी दिएका उनले मात्र ९० मत प्राप्त गरेका थिए, जसले उनको चुनावी पकड अत्यन्त कमजोर रहेको देखाउँछ। निर्वाचन पछि उनी वैकल्पिक राजनीतिको एजेन्डा बोकेको उज्यालो नेपाल पार्टीमा आबद्ध भएका छन्। उनको राजनीतिक यात्रामा अहिलेसम्म कुनै ठूला पद वा जिम्मेवारी प्राप्त भएको देखिएको छैन। उनीमाथि कुनै भ्रष्टाचार वा फौजदारी अभियोग लागेको सार्वजनिक रेकर्ड छैन, तर मतदातामाझ उनको प्रभाव र पहिचान निकै सीमित छ। साना दलहरूको माध्यमबाट राजनीतिक पहिचान बनाउने उनको प्रयास जारी देखिन्छ।",
+  "overall_approval_rating": 20
+}

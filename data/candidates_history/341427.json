@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341427,
+  "candidate_name": "नबिन श्रेष्‍ठ",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Janata_Samajbadi_Party_Logo.png/200px-Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341427.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "भक्तपुर क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "भक्तपुर क्षेत्र नं. २ बाट जनता समाजवादी पार्टी, नेपालको तर्फबाट प्रतिनिधि सभा सदस्यमा उम्मेदवारी दिएका श्रेष्ठले अत्यन्त न्यून मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भक्तपुर-२ बाट प्रतिनिधि सभा उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "निर्वाचन आयोगमा प्रतिनिधि सभा निर्वाचनका लागि जनता समाजवादी पार्टीको तर्फबाट आधिकारिक उम्मेदवारको रूपमा मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341427",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जसपा नेपालमा सक्रियता",
+      "date": "२०७७-०१-१०",
+      "details": "तत्कालीन समाजवादी पार्टी र राष्ट्रिय जनता पार्टी बीचको एकता पछि गठन भएको जनता समाजवादी पार्टीमा आबद्ध रही भक्तपुरमा पार्टी संगठन विस्तारमा लागेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1pjG5t8P2gb9qrRIpp6eHGLaSk1K2wnygUyzWxCQ_uchoxEPPrLmvoXJrLhT4AQtJ43YBQ6HiRgRsTiie1MDmn__7udFb6tjtSiZGbjXWDbc021vXXHXbNnjZW2m4BxlAkKWsDCTqZZFj_tRot6-pldHtrVeEw6NJhOWWZxl4BoDgWvDHWkkYdrvYOPja4ZcJoE5bG1xtj-wFh8LWi3tMIk8p3HUDCwezyFe6mXlH8q_0qI6B_L6iVTIzaPjUBLKAo5LIl5dU9qfkE4tY1eNORuxZmPzOij-dR4Sb5xaNyBXvHey24J_HOPTeE_NTc0bced-yG7Cs1lqP-1hrUAOMjGAQ-_zq2-JmOibutGatiz8rJvtNBcoXQrRLtGBQQJ_14R2HLiWHncIjiMzS",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीमा संलग्नता",
+      "date": "२०७३-०३-२९",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालको स्थापनाकाल देखि नै स्थानीय स्तरमा राजनीतिक रूपमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1pjG5t8P2gb9qrRIpp6eHGLaSk1K2wnygUyzWxCQ_uchoxEPPrLmvoXJrLhT4AQtJ43YBQ6HiRgRsTiie1MDmn__7udFb6tjtSiZGbjXWDbc021vXXHXbNnjZW2m4BxlAkKWsDCTqZZFj_tRot6-pldHtrVeEw6NJhOWWZxl4BoDgWvDHWkkYdrvYOPja4ZcJoE5bG1xtj-wFh8LWi3tMIk8p3HUDCwezyFe6mXlH8q_0qI6B_L6iVTIzaPjUBLKAo5LIl5dU9qfkE4tY1eNORuxZmPzOij-dR4Sb5xaNyBXvHey24J_HOPTeE_NTc0bced-yG7Cs1lqP-1hrUAOMjGAQ-_zq2-JmOibutGatiz8rJvtNBcoXQrRLtGBQQJ_14R2HLiWHncIjiMzS",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नबिन श्रेष्ठ जनता समाजवादी पार्टी, नेपालका भक्तपुरमा आधारित स्थानीय नेता हुन्। उनले २०७९ को आम निर्वाचनमा भक्तपुर क्षेत्र नम्बर २ बाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए, जहाँ उनले जम्मा १८ मत प्राप्त गरे। मुख्यतया मधेश केन्द्रित आधार इलाका भएको पार्टीको तर्फबाट भक्तपुर जस्तो पहाडी र नेवार बाहुल्यता भएको क्षेत्रमा चुनाव लड्नु उनका लागि चुनौतीपूर्ण रहेको देखिन्छ। उनको राजनीतिक पृष्ठभूमि नयाँ शक्ति पार्टी र समाजवादी पार्टीसँग जोडिएको छ। उनको व्यक्तिगत छवि स्वच्छ रहे तापनि चुनावी राजनीतिमा उनको प्रभाव अत्यन्तै न्यून देखिएको छ। उनले हालसम्म कुनै पनि सार्वजनिक लाभको पद धारण गरेका छैनन् र उनको सक्रियता मुख्यतया पार्टीको आन्तरिक संगठनमा सीमित देखिन्छ।",
+  "overall_approval_rating": 47
+}

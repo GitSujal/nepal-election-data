@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340445,
+  "candidate_name": "मन्धरा चिमरिया",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "नेपाल महिला संघ नेतृ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340445.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "उपाध्यक्ष",
+      "district": "झापा",
+      "constituency": "कमल गाउँपालिका",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०८२/८३",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा मनोनयन",
+      "date": "२०८२-१०-०६",
+      "details": "नेपाली काँग्रेसले झापा निर्वाचन क्षेत्र नम्बर ५ बाट मन्धरा चिमरिया पौडेललाई प्रतिनिधिसभा सदस्यको उम्मेदवारका रूपमा मनोनयन गरेको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TUeFivMBY1i1s1zdcboDpqFaOMLM13WIMKhk-cVyIEhSCnQNYKWvknEMkQZkfqApvLBs_RP6H-9zO2_x75mcm2_kusI331ijgETbIKCXfTxDkUNJs-5Lka2cx03Z-STZx8C55eUU20F9v6GJRmVSegGQYjvxkZDIvzvU0r5w_RN_txhROAEc6ujhrDAciCiJOH7FR0rPqf4LCn_6syEMogpX-qLogEuFjLXL",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "केपी ओलीसँगको चुनावी प्रतिस्पर्धा",
+      "date": "२०८२-१०-०६",
+      "details": "झापा क्षेत्र नम्बर ५ मा नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीसँग प्रतिस्पर्धा गर्न काँग्रेसले चिमरियालाई मैदानमा उतारेको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr2LGf3lIgaBcCnAE06LVPfoISHoPf-MtIu97gw3enYqhviWY-ziLfzSD9qHcPpZKejh8c_jGPFvwWk5fh9ruFpJlUV0ur9spDIMctcIQg80Kk7h2ef1U5e30p7NpY9t2AuUA=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचनमा पराजय",
+      "date": "२०७९-०२-०५",
+      "details": "२०७९ को स्थानीय निर्वाचनमा कमल गाउँपालिकाको उपाध्यक्ष पदमा पराजित भएकी थिइन्।",
+      "link_to_source": "https://election.ekantipur.com/local-level-election-2079/kamal-rural-municipality?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल महिला संघमा सक्रियता",
+      "date": "२०७८-०५-१०",
+      "details": "नेपाल महिला संघ झापाको विभिन्न समितिमा रहेर महिला सशक्तीकरण र राजनीतिक चेतना अभिवृद्धिमा लामो समयदेखि सक्रिय छिन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr2LGf3lIgaBcCnAE06LVPfoISHoPf-MtIu97gw3enYqhviWY-ziLfzSD9qHcPpZKejh8c_jGPFvwWk5fh9ruFpJlUV0ur9spDIMctcIQg80Kk7h2ef1U5e30p7NpY9t2AuUA=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०४८-०४-१५",
+      "details": "वि.सं. २०४८ सालदेखि नेपाली काँग्रेसको साधारण सदस्य लिई सक्रिय राजनीतिमा प्रवेश गरेकी हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr2LGf3lIgaBcCnAE06LVPfoISHoPf-MtIu97gw3enYqhviWY-ziLfzSD9qHcPpZKejh8c_jGPFvwWk5fh9ruFpJlUV0ur9spDIMctcIQg80Kk7h2ef1U5e30p7NpY9t2AuUA=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एस.एल.सी उत्तीर्ण",
+      "date": "२०३७-०३-२०",
+      "details": "धरानको बालिका माध्यमिक विद्यालयबाट २०३७ सालमा एस.एल.सी. परीक्षा उत्तीर्ण गरेकी थिइन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr2LGf3lIgaBcCnAE06LVPfoISHoPf-MtIu97gw3enYqhviWY-ziLfzSD9qHcPpZKejh8c_jGPFvwWk5fh9ruFpJlUV0ur9spDIMctcIQg80Kk7h2ef1U5e30p7NpY9t2AuUA=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मन्धरा चिमरिया झापा जिल्लाको कमल गाउँपालिका निवासी नेपाली काँग्रेसकी एक निष्ठावान र अनुभवी महिला नेतृ हुन्। वि.सं. २०४८ सालदेखि निरन्तर काँग्रेसको राजनीतिमा सक्रिय उनी विशेष गरी महिला संघको संगठन विस्तारमा महत्त्वपूर्ण भूमिका खेल्दै आएकी छिन्। २०७९ को स्थानीय निर्वाचनमा कमल गाउँपालिकाको उपाध्यक्ष पदमा झिनो मतान्तरले पराजित भए तापनि उनको स्थानीय लोकप्रियता कायमै छ। हाल उनलाई नेपाली काँग्रेसले झापा निर्वाचन क्षेत्र नम्बर ५ मा नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीसँग प्रतिस्पर्धा गर्न मैदानमा उतारेको छ, जसले उनको राजनीतिक उचाइ र पार्टीको उनीप्रतिको विश्वास दर्शाउँछ। उनी कुनै पनि ठूला विवाद वा भ्रष्टाचारमा नमुछिएकी स्वच्छ छविकी नेतृ हुन्। यद्यपि, एमालेको गढ मानिने झापा-५ मा शक्तिशाली प्रतिद्वन्द्वीसँगको लडाइँ उनका लागि निकै चुनौतीपूर्ण रहेको देखिन्छ।",
+  "overall_approval_rating": 62
+}

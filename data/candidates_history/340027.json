@@ -1,0 +1,31 @@
+{
+  "candidate_id": 340027,
+  "candidate_name": "सत्‍य नारायन साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340027.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "सत्य नारायन साहले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा महोत्तरी क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए। उनले जम्मा ३५ मत प्राप्त गरी पराजित भएका थिए, जुन कुल सदर मतको ०.०६ प्रतिशत मात्र हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrWyKYTFuxlSThjiA-ipVnENgL9GmTEIMstJW2gzt4bGKSaJCimMubfbNV4Xkoa89jDWRU2P_kAQQ3z1FXKAQ1Ur3hgrlQbTuSQLoPilgU6IGqG7lfO_YkjeUPnnXzG6f0Tn8fwVYYIgyD3--7XLeLCiM-ou5F_17QqNGX78Nmn--Ms7jsi4awvAg2Pk0=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सत्‍य नारायन साह महोत्तरी जिल्लाका एक सामान्य राजनीतिक सहभागी हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा महोत्तरी क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारी दिएका उनले मात्र ३५ मत प्राप्त गरेका थिए, जसले उनको राजनीतिक प्रभाव अत्यन्तै न्यून रहेको पुष्टि गर्छ। उनी कुनै स्थापित राजनीतिक दलमा आबद्ध नरहेको र कुनै सार्वजनिक वा राजकीय पदमा नपुगेका कारण उनको राजनीतिक पहुँच र जनसमर्थन सीमित देखिन्छ। उनी मुख्य रूपमा लोकतान्त्रिक प्रक्रियामा आफ्नो सहभागिता जनाउनका लागि मात्र उम्मेदवार बनेको विश्लेषण गर्न सकिन्छ। उनको नाममा कुनै उल्लेख्य उपलब्धि वा विवाद सार्वजनिक भएको छैन, जसले उनलाई एक विवादरहित तर प्रभावहीन उम्मेदवारको रूपमा चित्रण गर्दछ।",
+  "overall_approval_rating": 15
+}

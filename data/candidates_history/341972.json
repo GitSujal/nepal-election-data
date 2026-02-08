@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341972,
+  "candidate_name": "पिन बहादुर दर्जी",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mongol_National_Organization_logo.png/220px-Mongol_National_Organization_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (पूर्व)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341972.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "कपिलबस्तु क्षेत्र नं. ३ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341972",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल पहिचानवादी राजनीतिमा आबद्धता",
+      "date": "२०७९-०१-०१",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको नीति अनुरूप मुलबासी मंगोलहरूको अधिकार र धर्मनिरपेक्षताको पक्षमा वकालत।",
+      "link_to_source": "https://mongolvision.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "पिन बहादुर दर्जी मंगोल नेशनल अर्गनाइजेसन (MNO) का एक पहिचानवादी नेता हुन्। २०७९ को आम निर्वाचनमा उनले कपिलबस्तु क्षेत्र नं. ३ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरेका थिए, जहाँ उनी पराजित हुन पुगे। स्रोतका अनुसार दर्जीलाई उक्त निर्वाचन क्षेत्रमा 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको थियो, जसको अर्थ उनको स्थायी बसोबास वा राजनीतिक आधार उक्त क्षेत्रमा बलियो थिएन। MNO को एजेन्डा मुख्यतया 'मूलबासी मंगोल' पहिचान र धर्मनिरपेक्षतामा आधारित रहने गर्दछ, तर कपिलबस्तु जस्तो विविधतायुक्त र ठूला दलहरूको प्रभाव रहेको क्षेत्रमा उनको उपस्थिति न्यून देखिएको छ। निर्वाचनमा उल्लेख्य मत प्राप्त गर्न नसक्नु र स्थानीयस्तरमा गहिरो प्रभाव नहुनुले उनको चुनावी शक्ति कमजोर रहेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 32
+}

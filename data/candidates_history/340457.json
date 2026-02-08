@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340457,
+  "candidate_name": "राजेन्द्र प्रसाद गैह्रे",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Glass_Election_Symbol_Nepal.png",
+  "candidates_current_position": "राष्ट्रिय जनमोर्चा, स्याङ्जा जिल्ला नेता",
+  "candidates_current_position_in_party": "जिल्ला सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340457.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "स्याङ्जा क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को प्रतिनिधि सभा निर्वाचनमा हार",
+      "date": "२०७४-०८-२१",
+      "details": "स्याङ्जा २ बाट चुनाव लड्दा मात्र १८० मत प्राप्त गरी पराजित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxK30QhAefmMfH5dK48heX7JRzZE-cSwlZMqgaIdjOLoe2qPBwY-zifq5E0J95l1owRzeXW7ODc7tivdjZ01yF7YQi0PWKX70lqxGqJEmZRN_TkkHldznPvBJUS5GiOSbiPajPhxsxORYiJz-HxirIGfpUPX_DxXfQmCsFKM4nGZEOyFK93oh7BA==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय जनमोर्चामा निरन्तर आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि राष्ट्रिय जनमोर्चाको स्थानीय संगठनमा सक्रिय रही पार्टीको विचारधारा प्रचारमा संलग्न।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1teflVg668AAjRus1CVaS7FnGmECvA6K8AJfo6ZJm677KmJVz6Wl_lyd_8h2VBcwPFxYqjxyhL-k2IAj0AoM_TUHwugPnIJC6kHxrjnovtME7K3S-Xe84u1iONftvN2kzbj2PdlaGz21iLA==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राजेन्द्र प्रसाद गैह्रे राष्ट्रिय जनमोर्चाका एक निष्ठावान तर चुनावी राजनीतिमा निकै कमजोर प्रभाव भएका नेता हुन्। उनले वि.सं. २०७४ को निर्वाचनमा स्याङ्जा २ बाट मात्र १८० मत प्राप्त गरेका थिए, जसले उनको स्थानीय स्तरमा जनमतको कमीलाई प्रष्ट पार्छ। स्रोतले उनलाई 'वागुवा' (perennial loser or unstable candidate) को रूपमा चित्रित गरेको छ, जसको अर्थ उनी पटक-पटक चुनाव लडे पनि जित्ने हैसियत बनाउन सकेका छैनन्। उनको राजनीतिक यात्रामा कुनै ठूला भ्रष्टाचार काण्ड वा उपलब्धिहरू देखिएका छैनन्, तर उनको चुनावी प्रदर्शनले उनलाई एक सिमान्तकृत उम्मेदवारको रूपमा उभ्याएको छ। उनी संघीयता विरोधी एजेन्डा बोक्ने पार्टीसँग आबद्ध रहेकाले उनको पकड सोही विचारधारा मान्ने सीमित मतदाताहरूमा मात्र केन्द्रित देखिन्छ।",
+  "overall_approval_rating": 20
+}

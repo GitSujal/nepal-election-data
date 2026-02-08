@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341166,
+  "candidate_name": "किशोरी साह कमल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341166.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "१ (क)",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "जनमत पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०८०-११-२९",
+      "details": "पटक-पटक पार्टी परिवर्तन गर्दै आएका साह पछिल्लो समय रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आवद्ध भएका हुन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1202812",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर १ बाट जनमत पार्टीको उम्मेदवारका रूपमा चुनाव लडेका साह १४,४६७ मतसहित तेस्रो स्थानमा रहँदै पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/341166",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "एमाले परित्याग गरी जनमत पार्टीमा प्रवेश",
+      "date": "२०७९-०६-२२",
+      "details": "२०७९ को निर्वाचनमा नेकपा एमालेबाट टिकट नपाउने भएपछि उनले एमाले छाडेर जनमत पार्टी प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1202812",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "वन अधिकृतमाथि कार्यकक्षमै कुटपिट",
+      "date": "२०७८-०७-१४",
+      "details": "प्रदेश सांसद रहेको समयमा धनुषाका निमित्त डिभिजन वन अधिकृत केदार देवकोटालाई कार्यकक्षमै झापड हानेका थिए, जसको चौतर्फी आलोचना भएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/252199",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "धनुषा क्षेत्र नम्बर १ (क) बाट नेकपा एमालेका उम्मेदवारका रूपमा १४,२०९ मत प्राप्त गरी प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/cpn-umls-kishori-shah-wins-dhanusha-1",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमालेको संगठन निर्माणमा सक्रियता",
+      "date": "२०४८-०१-०१",
+      "details": "धनुषाको रघुनाथपुरमा पहिलोपटक आफ्नै अगुवाइमा एमाले पार्टीको संगठन निर्माण गरी राजनीतिक यात्रालाई अगाडि बढाएका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-detail/1183",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विद्यार्थी राजनीतिबाट सुरुवात",
+      "date": "२०४०-०१-०१",
+      "details": "पञ्चायती व्यवस्थाविरोधी अभियानका क्रममा अनेरास्ववियुको सदस्य भई राजनीतिमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-detail/1183",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "किशोरी साह कमल धनुषाका पुराना र प्रभावशाली नेता हुन्। पेशाले निर्माण व्यवसायी रहेका उनी २०७४ को प्रदेश सभा निर्वाचनमा एमालेबाट विजयी भएर चर्चामा आएका थिए। यद्यपि, उनको राजनीतिक छवि 'अस्थिर' मानिन्छ; उनी एमाले, जनमत हुँदै हाल राष्ट्रिय स्वतन्त्र पार्टीमा पुगेका छन्। आफ्नो कार्यकालमा सरकारी कर्मचारी (वन अधिकृत) लाई झापड हानेको घटनाले उनको सार्वजनिक छविमा ठूलो धक्का पुर्याएको थियो। २०७९ को निर्वाचनमा संघीय संसदका लागि जनमत पार्टीबाट प्रतिस्पर्धा गर्दा उनी तेस्रो स्थानमा सीमित भए। मधेशको राजनीतिमा बलियो पकड राख्न खोजे पनि बारम्बारको पार्टी परिवर्तन र विवादित व्यवहारले उनको लोकप्रियतामा ह्रास आएको देखिन्छ।",
+  "overall_approval_rating": 38
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339327,
+  "candidate_name": "शान्त वीर लामा",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Mongol_National_Organization.svg/1200px-Flag_of_Mongol_National_Organization.svg.png",
+  "candidates_current_position": "मंगोल नेशनल अर्गनाइजेसनका स्थानीय नेता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339327.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिन्धुली",
+      "constituency": "निर्वाचन क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "सिन्धुली क्षेत्र नं २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका उनले ४३८ मत प्राप्त गरी छैटौं स्थानमा रहे।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/shanta-bir-lama-339327",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "नेपालमा धर्मनिरपेक्षता र मंगोल मूलवासीहरूको हकहितका लागि उनी लामो समयदेखि पार्टीको जिल्ला तहमा सक्रिय छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/election-2079/party/mno",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जन्म",
+      "date": "२०३९-०९-१९",
+      "details": "शान्त वीर लामाको जन्म सिन्धुली जिल्लामा भएको हो र उनले स्थानीय स्तरबाटै आफ्नो राजनीतिक चेतना विकास गरे।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/shanta-bir-lama-339327",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शान्त वीर लामा मंगोल नेशनल अर्गनाइजेसन (MNO) का तर्फबाट सिन्धुलीमा एक इमानदार र वैचारिक नेताका रूपमा परिचित छन्। २०७९ को आम निर्वाचनमा उनले सिन्धुली क्षेत्र नं २ बाट उम्मेदवारी दिएर आफ्नो राजनीतिक उपस्थितिलाई बलियो बनाउने प्रयास गरे। यद्यपि उनले ४३८ मत मात्र प्राप्त गरे, तर उनको उम्मेदवारीले जिल्लामा पहिचानवादी राजनीतिको सन्देश प्रवाह गर्न मद्दत पुर्याएको छ। उनी मुख्यतया धर्मनिरपेक्षता र जातीय अधिकारका मुद्दाहरूलाई जोड दिन्छन्। उनको राजनीतिक करियरमा अहिलेसम्म कुनै पनि भ्रष्टाचार वा विवादित काण्डहरू देखिएका छैनन्, जसले उनको छविलाई स्वच्छ राखेको छ। सिन्धुलीको राजनीतिमा स्थापित दलहरूको वर्चस्वका कारण उनको चुनावी प्रभाव अहिले पनि न्यून देखिन्छ।",
+  "overall_approval_rating": 52
+}

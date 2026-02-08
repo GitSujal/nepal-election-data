@@ -1,0 +1,159 @@
+{
+  "candidate_id": 341886,
+  "candidate_name": "विजय कुमार गच्छदार",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepali_Congress_Logo.png",
+  "candidates_current_position": "पूर्व उपप्रधानमन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341886.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-२",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-३",
+      "result": "विजयी",
+      "party": "मधेसी जनअधिकार फोरम, नेपाल"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-३",
+      "result": "विजयी",
+      "party": "मधेसी जनअधिकार फोरम, नेपाल (लोकतान्त्रिक)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-३",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी-३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "ललिता निवास जग्गा प्रकरणमा सफाइ",
+      "date": "२०८०-११-०३",
+      "details": "विशेष अदालतले ललिता निवास जग्गा प्रकरणमा भ्रष्टाचार मुद्दा खेपिरहेका गच्छदारलाई निर्दोष ठहर गर्दै सफाइ दिएको छ।",
+      "link_to_source": "https://www.makalukhabar.com/2024/02/338275/",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "सुनसरी निर्वाचन क्षेत्र नम्बर ३ बाट नेकपा एमालेकी भगवती चौधरीसँग ५,१८८ मतान्तरले पराजित भएपछि गच्छदारको ३१ वर्ष लामो संसदीय यात्रा रोकियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Sunsari_3_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली कांग्रेस उपसभापति पदमा पराजित",
+      "date": "२०७८-०८-३०",
+      "details": "नेपाली कांग्रेसको १४औं महाधिवेशनमा उपसभापति पदका लागि भएको निर्वाचनमा गच्छदार मात्र २ मतको अन्तरले धनराज गुरुङसँग पराजित भएका थिए।",
+      "link_to_source": "https://himalpress.com/politics/18491/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विशेष अदालतबाट धरौटीमा रिहा",
+      "date": "२०७८-०३-३०",
+      "details": "ललिता निवास जग्गा प्रकरणमा फरार रहेका गच्छदार शेरबहादुर देउवा प्रधानमन्त्री बनेको भोलिपल्टै अदालतमा उपस्थित भएर १० लाख धरौटीमा रिहा भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2021/07/14/bijaya-kumar-gachhadar-an-accused-in-baluwatar-land-scam-released-on-rs1-million-bail",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ललिता निवास घोटालामा भ्रष्टाचार मुद्दा",
+      "date": "२०७६-१०-२२",
+      "details": "अख्तियार दुरुपयोग अनुसन्धान आयोगले ललिता निवास जग्गा प्रकरणमा ९ करोड ६५ लाख भ्रष्टाचार गरेको आरोपमा मुद्दा दायर गरेपछि उनी सांसद पदबाट निलम्बित भएका थिए।",
+      "link_to_source": "https://kathmandupost.com/national/2021/07/14/bijaya-kumar-gachhadar-an-accused-in-baluwatar-land-scam-released-on-rs1-million-bail",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली कांग्रेसमा पार्टी एकता",
+      "date": "२०७४-०६-३०",
+      "details": "आफ्नो नेतृत्वमा रहेको नेपाल लोकतान्त्रिक फोरमलाई नेपाली कांग्रेससँग मिसाउँदै गच्छदार करिब १० वर्षपछि पुनः कांग्रेसमै फर्किएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2017/10/16/20171016194247.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पाँचौं पटक उपप्रधानमन्त्री नियुक्त",
+      "date": "२०७४-०२-२४",
+      "details": "शेरबहादुर देउवा नेतृत्वको सरकारमा गच्छदारले उपप्रधान तथा संघीय मामिला र स्थानीय विकास मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/gachhadar-joining-cabinet-as-deputy-prime-minister",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "चौथो पटक उपप्रधानमन्त्री नियुक्त",
+      "date": "२०७२-०६-२५",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा उनी उपप्रधान तथा भौतिक पूर्वाधार मन्त्री बनेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/gachhadar-joining-cabinet-as-deputy-prime-minister",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मधेसी जनअधिकार फोरम (लोकतान्त्रिक) गठन",
+      "date": "२०६६-०२-३१",
+      "details": "मधेसी जनअधिकार फोरमभित्रको विवादका कारण पार्टी फुटाएर गच्छदारले आफ्नै नेतृत्वमा फोरम (लोकतान्त्रिक) गठन गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166927517615651556.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कांग्रेस परित्याग र फोरम प्रवेश",
+      "date": "२०६४-१२-०१",
+      "details": "पहिलो संविधान सभा निर्वाचन अघि नेपाली कांग्रेस छाडेर उनी उपेन्द्र यादव नेतृत्वको मधेसी जनअधिकार फोरममा प्रवेश गरेका थिए।",
+      "link_to_source": "https://himalpress.com/politics/18491/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पहिलो पटक मन्त्री नियुक्त",
+      "date": "२०४८-०२-१५",
+      "details": "गिरिजाप्रसाद कोइराला नेतृत्वको पहिलो निर्वाचित सरकारमा गच्छदार संचार राज्यमन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166927517615651556.html",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विजय कुमार गच्छदार नेपालको राजनीतिमा एक चतुर र प्रभावशाली थारु नेताका रूपमा चिनिन्छन्। २०४८ सालदेखि २०७४ सम्मका ६ वटा निर्वाचन लगातार जितेर उनले आफ्नो क्षेत्रमा बलियो पकड बनाएका थिए। उनले ५ पटक उपप्रधानमन्त्री र १८ पटक मन्त्री भएर सत्ताको राजनीतिमा महत्वपूर्ण भूमिका खेलेका छन्। तथापि, उनको राजनीतिक छवि ललिता निवास जग्गा प्रकरण र बारम्बार पार्टी परिवर्तन गर्ने प्रवृत्तिका कारण विवादित रह्यो। २०७९ को निर्वाचनमा सुनसरी-३ मा उनको पराजयले उनको लोकप्रियतामा ह्रास आएको संकेत गर्दछ। भ्रष्टाचार मुद्दामा विशेष अदालतबाट सफाइ पाए पनि लामो समयको निलम्बन र निर्वाचन हारले उनको शक्ति क्षीण भएको देखिन्छ।",
+  "overall_approval_rating": 45
+}

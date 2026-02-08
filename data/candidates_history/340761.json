@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340761,
+  "candidate_name": "देवेन्द्र गैरे",
+  "candidate_party": "संयुक्त नागरिक पार्टी",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-mX5u9-1K0906-p60-o5p-t1-p1-o-p1-o-p1-o-p1-o-p1-o-p1",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340761.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "संयुक्त नागरिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "देवेन्द्र गैरेले धादिङ क्षेत्र नं. १ बाट संयुक्त नागरिक पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340761",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संयुक्त नागरिक पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१०",
+      "details": "नेपाल दलित पार्टी र सामाजिक एकता पार्टीबीचको एकता र एकल चुनाव चिन्ह लिएर निर्वाचनमा जाने निर्णय भएपछि उनी संयुक्त नागरिक पार्टीमा सक्रिय भएका हुन्।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल दलित पार्टीको नेतृत्व",
+      "date": "२०७४-०४-१५",
+      "details": "देवेन्द्र गैरे लामो समयदेखि नेपाल दलित पार्टीमा आबद्ध रही दलित अधिकार र सामाजिक न्यायका मुद्दाहरूमा वकालत गर्दै आएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340761",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "देवेन्द्र गैरे धादिङ जिल्लाका एक सक्रिय राजनीतिकर्मी हुन् जसले मुख्यतया दलित र सीमान्तकृत समुदायको प्रतिनिधित्व गर्दै आएका छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले संयुक्त नागरिक पार्टीबाट धादिङ क्षेत्र नं. १ मा प्रतिस्पर्धा गरेका थिए, यद्यपि उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक पृष्ठभूमि नेपाल दलित पार्टी र सामाजिक एकता पार्टीसँग जोडिएको छ, जुन साना दलहरूको ध्रुवीकरणको परिणाम हो। उनी कुनै ठूला काण्ड वा भ्रष्टाचारमा मुछिएका छैनन्, तर राष्ट्रिय राजनीतिमा उनको प्रभाव र चुनावी आधार निकै कमजोर देखिन्छ। उनको उम्मेदवारी मुख्यतया पहिचान र अधिकारको मुद्दा स्थापित गर्नमा केन्द्रित रहेको पाइन्छ।",
+  "overall_approval_rating": 35
+}

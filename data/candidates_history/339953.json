@@ -1,0 +1,95 @@
+{
+  "candidate_id": 339953,
+  "candidate_name": "अम्मर बहादुर थापा",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CPN-Unified-Socialist-Logo.png/120px-CPN-Unified-Socialist-Logo.png",
+  "candidates_current_position": "शिक्षा, स्वास्थ्य तथा सूचना प्रविधि समितिको सभापति",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339953.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "दैलेख",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दैलेख",
+      "constituency": "१ (ख)",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दैलेख",
+      "constituency": "१",
+      "result": "विजयी",
+      "party": "नेकपा (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "संसदीय समितिको सभापतिमा निर्वाचित",
+      "date": "२०८०-१२-०७",
+      "details": "प्रतिनिधि सभा अन्तर्गतको शिक्षा, स्वास्थ्य तथा सूचना प्रविधि समितिको सभापतिमा निर्विरोध निर्वाचित भई पदभार ग्रहण गरे।",
+      "link_to_source": "https://risingnepaldaily.com/news/40533",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा जित",
+      "date": "२०७९-०८-०८",
+      "details": "दैलेख निर्वाचन क्षेत्र नम्बर १ बाट १८,२९७ मत प्राप्त गर्दै नेकपा एमालेका रविन्द्र राज शर्मालाई पराजित गरी निर्वाचित।",
+      "link_to_source": "https://lokaantar.com/story/201217",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्ध",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भएपछि माधव कुमार नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा सनाखत गरी आबद्ध भएका।",
+      "link_to_source": "https://karnaalikhabar.com/news/12217",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कर्णाली प्रदेशको भौतिक पूर्वाधार मन्त्री नियुक्त",
+      "date": "२०७८-०१-०५",
+      "details": "फ्लोर क्रस गरेर महेन्द्र बहादुर शाहीको सरकार जोगाएपछि उनी कर्णाली प्रदेशको भौतिक पूर्वाधार तथा सहरी विकास मन्त्रीमा नियुक्त भए।",
+      "link_to_source": "https://www.thenepalipost.com/news/24185",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कर्णाली प्रदेशमा 'फ्लोर क्रस'",
+      "date": "२०७८-०१-०३",
+      "details": "पार्टीको ह्विप उल्लंघन गर्दै मुख्यमन्त्री महेन्द्र बहादुर शाहीको पक्षमा मतदान गरेपछि नेकपा एमालेले उनलाई साधारण सदस्य समेत नरहने गरी निष्कासन गरेको थियो।",
+      "link_to_source": "https://setopati.com/politics/235471",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा जित",
+      "date": "२०७४-०८-२५",
+      "details": "दैलेख निर्वाचन क्षेत्र नम्बर १ (ख) बाट १२,५६७ मत ल्याएर प्रदेश सभा सदस्यमा विजयी भएका।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339953",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०७० मा जित",
+      "date": "२०७०-०८-०४",
+      "details": "नेकपा एमालेको तर्फबाट दैलेख क्षेत्र नं १ बाट संविधान सभा सदस्यमा निर्वाचित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Amar_Bahadur_Thapa",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अम्मर बहादुर थापा दैलेखको राजनीतिमा एक प्रभावशाली र चतुर खेलाडी मानिन्छन्। उनले २०७० को संविधान सभा देखि २०७९ को प्रतिनिधि सभासम्म लगातार निर्वाचन जित्दै आफ्नो जनमत सुरक्षित राखेका छन्। कर्णाली प्रदेश सभामा रहँदा उनले गरेको 'फ्लोर क्रस' को घटना नेपाली राजनीतिमा निकै चर्चित र विवादित रह्यो, जसले गर्दा उनलाई एमालेले निष्कासन गरेको थियो। यद्यपि, सोही कदमले उनलाई मन्त्री पद दिलाउनुका साथै पछि एकीकृत समाजवादीको तर्फबाट संघीय संसदमा पुग्न सफल बनायो। हाल उनी प्रतिनिधि सभाको शिक्षा, स्वास्थ्य तथा सूचना प्रविधि समितिको सभापतिको रूपमा महत्वपूर्ण भूमिकामा छन्। उनको राजनीतिक यात्रामा अवसरवादी र रणनीतिक दुवै पाटा देखिन्छन्, जसले उनको लोकप्रियता र आलोचना दुवै बढाएको छ।",
+  "overall_approval_rating": 65
+}

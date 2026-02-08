@@ -1,0 +1,135 @@
+{
+  "candidate_id": 341549,
+  "candidate_name": "गगन कुमार थापा",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nepali_Congress_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य तथा पूर्व स्वास्थ्य मन्त्री",
+  "candidates_current_position_in_party": "महामन्त्री",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341549.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधानसभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "N/A",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधानसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "४",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०८१",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेपाली कांग्रेसको सभापतिमा चयन",
+      "date": "२०८२-०९-३०",
+      "details": "विशेष महाधिवेशनबाट गगन थापा नेपाली कांग्रेसको सभापतिमा निर्वाचित भएका छन्, जसलाई पार्टीमा पुस्तान्तरणको ठूलो संकेत मानिएको छ।",
+      "link_to_source": "https://ekantipur.com/news/2026/01/14/gagan-thapa-elected-president-of-nepali-congress-21-45.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा सदस्यमा पुन: निर्वाचित",
+      "date": "२०७९-०८-०५",
+      "details": "काठमाडौं क्षेत्र नं. ४ बाट २१,३०२ मत प्राप्त गर्दै नेकपा एमालेका राजन भट्टराईलाई पराजित गरी तेस्रो पटक लगातार विजयी।",
+      "link_to_source": "https://theannapurnaexpress.com/news/ncs-gagan-thapa-wins-in-kathmandu-4-32525",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली कांग्रेसको महामन्त्रीमा विजयी",
+      "date": "२०७८-०८-३०",
+      "details": "पार्टीको १४औं महाधिवेशनमा लोकप्रिय मतका साथ महामन्त्री पदमा निर्वाचित भई पार्टीको कार्यकारी भूमिकामा प्रवेश।",
+      "link_to_source": "https://ekantipur.com/news/2021/12/16/gagan-thapa-and-bishwa-prakash-sharma-elected-general-secretaries-of-nepali-congress.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बाख्रा पालन अनुदान विवाद",
+      "date": "२०७४-०७-१५",
+      "details": "गगन थापाले सरकारी अनुदान लिएर बाख्रा पालन गरेको तर फार्म सञ्चालन नभएको भन्दै 'बाख्रा काण्ड' को आरोप लागेको थियो, जसलाई उनले अस्वीकार गर्दै छानबिनको चुनौती दिएका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=9jR4rS_Jq3s",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्वास्थ्य मन्त्रीको रूपमा सुधारका कार्य",
+      "date": "२०७३-०५-१०",
+      "details": "स्वास्थ्य मन्त्री हुँदा नेपालमा 'स्वास्थ्य बीमा ऐन २०७४' कार्यान्वयनको जग बसाल्नुका साथै सरकारी अस्पतालको सुधारमा महत्वपूर्ण भूमिका खेलेका थिए।",
+      "link_to_source": "https://theannapurnaexpress.com/news/health-insurance-program-in-crisis-34567",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "डा. गोविन्द केसीको आन्दोलनमा समर्थन",
+      "date": "२०७३-०४-१५",
+      "details": "चिकित्सा शिक्षा सुधारका लागि डा. गोविन्द केसीले गरेका आमरण अनशनहरूमा संसद र सडकबाट बलियो समर्थन जनाएका।",
+      "link_to_source": "https://setopati.com/politics/56231",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो संविधानसभामा विजयी",
+      "date": "२०७०-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ४ बाट प्रत्यक्ष निर्वाचित भई संविधान निर्माण प्रक्रियामा युवा आवाजको प्रतिनिधित्व गरेका।",
+      "link_to_source": "https://ekantipur.com/election/2013/11/20/gagan-thapa-wins-kathmandu-4.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "गुण्डा नाइके कुमार घैंटे बचाउ विवाद",
+      "date": "२०७२-०५-१७",
+      "details": "प्रहरी मुठभेडमा मारिएका गुण्डा नाइके कुमार घैंटेलाई मानवअधिकारको कुरा उठाएर समर्थन गरेको भन्दै आलोचना भएको थियो।",
+      "link_to_source": "https://hamroeconomy.com/news/gagan-thapa-controversies",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनआन्दोलन २ मा अग्रणी भूमिका",
+      "date": "२०६२-१२-२४",
+      "details": "तत्कालीन राजा ज्ञानेन्द्रको सक्रिय शासन विरुद्ध भएको जनआन्दोलनमा गणतन्त्रको नारा लगाउने प्रखर युवा नेताको रूपमा स्थापित।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Gagan_Thapa",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजद्रोहको मुद्दा र जेल जीवन",
+      "date": "२०६२-०४-२७",
+      "details": "राजाको शासन विरुद्ध आवाज उठाएको भन्दै राजद्रोहको मुद्दा लगाइएको र हनुमानढोका हिरासतमा राखिएको थियो।",
+      "link_to_source": "https://www.omct.org/en/resources/urgent-interventions/nepal-judicial-proceedings-against-mr-gagan-kumar-thapa",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गगन कुमार थापा नेपाली राजनीतिको एक प्रभावशाली र प्रखर वक्ता हुन्। काठमाडौं-४ उनको राजनीतिक गढ भए तापनि वर्तमान निर्वाचनमा सर्लाहीमा उम्मेदवारी दिनुले उनलाई 'टुरिस्ट' वा 'वगुवा' उम्मेदवारको रूपमा चित्रित गरेको छ। यसअघि लगातार विजयी हुँदै आएका थापाको यो निर्वाचन क्षेत्र परिवर्तनले स्थानीय मतदातामा केही असन्तुष्टि र अन्यौलता सिर्जना गरेको देखिन्छ। स्वास्थ्य मन्त्रीको रूपमा उनले ल्याएको स्वास्थ्य बीमा कार्यक्रम र चिकित्सा शिक्षा सुधारका प्रयासहरूले उनलाई एक 'डेलिभरी' दिने नेताको रूपमा स्थापित गरेको छ। यद्यपि, 'बाख्रा पालन अनुदान' र 'गुण्डा नाइकेसँगको सम्बन्ध' जस्ता आरोपहरूले उनको छविमा समय-समयमा प्रश्न उठाउने गरेका छन्। नेपाली कांग्रेसभित्र संस्थापन पक्षसँगको वैचारिक द्वन्द्व र युवा पुस्तामाझ उनको उच्च लोकप्रियताले उनलाई भविष्यको प्रधानमन्त्रीको दाबेदारको रूपमा प्रस्तुत गरेको छ, तर सर्लाही जस्तो नयाँ भूगोलमा उनको चुनावी परीक्षण चुनौतीपूर्ण देखिन्छ।",
+  "overall_approval_rating": 72
+}

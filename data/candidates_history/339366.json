@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339366,
+  "candidate_name": "युवराज लामा",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mongol_National_Organization_flag.png/300px-Mongol_National_Organization_flag.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339366.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मकवानपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "मकवानपुर क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका लामाले २९३ मत प्राप्त गर्दै नवौं स्थानमा रहेर पराजय व्यहोरे।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/339366",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभाका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मकवानपुर-१ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उनले आफ्नो औपचारिक मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://ratopati.com/story/266539/2022/10/10/makwanpur-candidate",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानको राजनीति र सांगठनिक विस्तार",
+      "date": "२०७८-०१-०१",
+      "details": "लामा लामो समयदेखि मकवानपुर जिल्लामा मंगोल नेशनल अर्गनाइजेसनको वैचारिक प्रचार र जातीय पहिचानको मुद्दामा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/05/18/165287611072979607.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "युवराज लामा मंगोल नेशनल अर्गनाइजेसन (MNO) का एक निष्ठावान कार्यकर्ता हुन्, जसले २०७९ को आम निर्वाचनमा मकवानपुर क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। उनको मुख्य राजनीतिक एजेन्डा 'मंगोल' पहिचान र जातीय अधिकारको रक्षामा आधारित छ। यद्यपि, निर्वाचनमा उनले मात्र २९३ मत (०.३४%) प्राप्त गरे, जसले उनको चुनावी जनाधार अत्यन्त कमजोर रहेको संकेत गर्दछ। राष्ट्रिय स्तरका ठूला विवाद वा भ्रष्टाचारमा उनको संलग्नता देखिएको छैन। उनी मूलधारका ठूला दलहरूको तुलनामा आफ्नो पार्टीको विशिष्ट वैचारिक विस्तारमा बढी केन्द्रित देखिन्छन्। मकवानपुरमा उनको भूमिका मुख्यतया एक वैचारिक प्रचारक र स्थानीय स्तरको वैकल्पिक उम्मेदवारको रूपमा सीमित रहेको छ।",
+  "overall_approval_rating": 32
+}

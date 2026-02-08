@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340853,
+  "candidate_name": "छोटेलाल प्रसाद यादव",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN-Maoist-Centre-Logo.png/600px-CPN-Maoist-Centre-Logo.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340853.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. २ (क)",
+      "result": "विजयी",
+      "party": "संघीय समाजवादी फोरम नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. ३ (क)",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा सदस्य निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा क्षेत्र नं. ३ (क) बाट नेकपा (माओवादी केन्द्र) को उम्मेदवारका रूपमा निर्वाचनमा प्रतिस्पर्धा गर्दा ४,३४० मत प्राप्त गरी चौथो स्थानमा रहे।",
+      "link_to_source": "https://result.election.gov.np/ProvinceElectionResult2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पार्टी परित्याग र माओवादी प्रवेश",
+      "date": "२०७९-०७-०१",
+      "details": "जनता समाजवादी पार्टी (जसपा) परित्याग गरी निर्वाचनको मुखमा नेकपा (माओवादी केन्द्र) मा प्रवेश गरेका थिए।",
+      "link_to_source": "https://ratopati.com/story/266581/2022/10/9/candidate-list",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यको कार्यकाल",
+      "date": "२०७४-२०७९",
+      "details": "मधेश प्रदेश सभामा पर्सा निर्वाचन क्षेत्र २ (क) को प्रतिनिधित्व गर्दै ५ वर्ष सदस्यको रूपमा कार्यरत रहे।",
+      "link_to_source": "https://madhesh.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यमा निर्वाचित",
+      "date": "२०७४-०८-२१",
+      "details": "पर्सा २ (क) बाट संघीय समाजवादी फोरमका तर्फबाट ११,०४७ मत प्राप्त गरी विजयी भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उच्च शिक्षा पूरा",
+      "date": "२०६०-०१-०१",
+      "details": "उनले राजनीति शास्त्रमा स्नातकोत्तर (Master Degree) सम्मको शिक्षा हासिल गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340853",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "छोटेलाल प्रसाद यादव पर्सा जिल्लाका अनुभवी स्थानीय नेता हुन्। २०७४ सालको निर्वाचनमा तत्कालीन संघीय समाजवादी फोरमबाट प्रदेश सभा सदस्यमा विजयी हुँदै उनले मधेशी राजनीतिक मुद्दामा आफ्नो पकड स्थापित गरेका थिए। तर, २०७९ सालको निर्वाचन अगाडि उनले जनता समाजवादी पार्टी छोडेर नेकपा (माओवादी केन्द्र) मा प्रवेश गर्ने निर्णय गरे। साथै उनले आफ्नो पुरानो निर्वाचन क्षेत्र पर्सा २(क) छोडेर क्षेत्र नं. ३(क) बाट प्रतिस्पर्धा गरे। यो चुनावी रणनीति र पार्टी परिवर्तनलाई स्थानीय मतदाताले रुचाएको देखिएन, जसका कारण उनी ४,३४० मतका साथ चौथो स्थानमा सीमित हुन पुगे। उनको बारम्बारको पार्टी परिवर्तन र निर्वाचन क्षेत्र परिवर्तनले गर्दा उनलाई 'अवसरवादी' नेताको रूपमा आलोचना गरिने गरिएको छ।",
+  "overall_approval_rating": 52
+}

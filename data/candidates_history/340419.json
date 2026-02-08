@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340419,
+  "candidate_name": "गम्भीर सिह भुल",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://election.gov.np/static/media/logo.92488a7c.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340419.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम घोषणा",
+      "date": "२०७९-०८-०९",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सुर्खेत क्षेत्र नं. २ बाट उज्यालो नेपाल पार्टीका उम्मेदवार भुलले अत्यन्तै न्यून मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "भुलले सुर्खेत निर्वाचन क्षेत्र नं. २ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रत्यक्षतर्फको उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०७९-०५-०१",
+      "details": "नयाँ राजनीतिक शक्तिको रूपमा उदाएको र कुलमान घिसिङको नामसँग जोडिएको उज्यालो नेपाल पार्टीमा आबद्ध भई उनले आफ्नो राजनीतिक यात्रा अघि बढाए।",
+      "link_to_source": "https://nepalnews.com/s/politics/ujyalo-nepal-party-submits-details-of-51-members-to-ec",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गम्भीर सिह भुल सुर्खेत क्षेत्र नं. २ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवार बनेका थिए। उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ, जसको अर्थ उनी त्यस क्षेत्रको स्थानीय राजनीतिमा लामो समयदेखि सक्रिय नरही केवल निर्वाचनका लागि मात्र आएका हुन्। नयाँ र सानो दल 'उज्यालो नेपाल पार्टी' बाट चुनाव लडेका उनले नेपाली कांग्रेस र नेकपा एमाले जस्ता ठूला दलहरूका हेभिवेट उम्मेदवारहरूका बीचमा खासै प्रभाव पार्न सकेनन्। उनको राजनीतिक पृष्ठभूमि र प्रभाव सीमित देखिएको छ। निर्वाचनमा उनले प्राप्त गरेको न्यून मतले उनको जनमत कमजोर रहेको र पर्यटक उम्मेदवारीका कारण स्थानीय मतदातासँगको सम्बन्ध स्थापित हुन नसकेको स्पष्ट पार्छ।",
+  "overall_approval_rating": 30
+}

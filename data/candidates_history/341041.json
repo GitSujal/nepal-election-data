@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341041,
+  "candidate_name": "चन्द्र बहादुर शाही",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-Unified_Socialist_Logo.svg/1200px-CPN-Unified_Socialist_Logo.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री, कर्णाली प्रदेश",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा मुगु जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341041.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "मुगु",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "मुगु",
+      "constituency": "१ (ख)",
+      "result": "विजयी",
+      "party": "नेकपा (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य (समानुपातिक)",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "समानुपातिक उम्मेदवारमा सिफारिस",
+      "date": "२०७९-०६-०१",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा नेकपा (एकीकृत समाजवादी) ले उनलाई समानुपातिक तर्फको बन्द सूचीको १८ औं स्थानमा राखेको थियो।",
+      "link_to_source": "https://breaknlinks.com/nepal/politics/18544",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कर्णाली प्रदेशको कृषि मन्त्रीमा नियुक्त",
+      "date": "२०७८-०८-३०",
+      "details": "जीवन बहादुर शाहीको नेतृत्वमा रहेको कर्णाली प्रदेश सरकारमा चन्द्र बहादुर शाही भूमि व्यवस्था, कृषि तथा सहकारी मन्त्री नियुक्त भएका थिए।",
+      "link_to_source": "https://ratopati.com/story/207021/2021/11/17/chandra-bahadur-shahi",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा प्रवेश",
+      "date": "२०७८-०६-०१",
+      "details": "नेकपा (एमाले) विभाजन भएपछि उनी माधव कुमार नेपाल नेतृत्वको एकीकृत समाजवादी पार्टीमा आबद्ध भएका थिए र मुगुमा पार्टी विस्तारको जिम्मा पाएका थिए।",
+      "link_to_source": "https://ratopati.com/story/207021/2021/11/17/chandra-bahadur-shahi",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७४ को प्रदेश सभा निर्वाचनमा जित",
+      "date": "२०७४-०८-२१",
+      "details": "मुगु १ (ख) बाट ६,८४५ मत प्राप्त गर्दै उनले नेपाली कांग्रेसका खड्ग शाहीलाई पराजित गरी प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/341041",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "२०७० को संविधान सभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७०-०८-०४",
+      "details": "मुगु १ बाट ६,९४३ मत प्राप्त गरे पनि उनी माओवादी उम्मेदवार नवराज धामीसँग पराजित भएका थिए।",
+      "link_to_source": "https://adam-carr.net/nepal2013/mugu1.txt",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "१७ वर्षसम्म एमालेको जिल्ला नेतृत्व",
+      "date": "२०४७-०३-०१",
+      "details": "उनले मुगु जिल्लामा नेकपा (एमाले) को नेतृत्व १७ वर्षसम्म सम्हाल्दै मुगुमा कम्युनिष्ट आन्दोलनलाई बलियो बनाएका थिए।",
+      "link_to_source": "https://ratopati.com/story/207021/2021/11/17/chandra-bahadur-shahi",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चन्द्र बहादुर शाही मुगु जिल्लाका एक स्थापित र पाका कम्युनिष्ट नेता हुन्। १७ वर्षसम्म नेकपा (एमाले) को जिल्ला अध्यक्षको रूपमा काम गरेका उनको स्थानीय स्तरमा बलियो राजनीतिक पकड रहेको छ। २०७४ को निर्वाचनमा प्रदेश सभामा निर्वाचित भएपछि कर्णाली प्रदेशको कृषि मन्त्री बन्नु उनको राजनीतिक जीवनको महत्वपूर्ण उपलब्धि हो। यद्यपि, २०७८ मा एमाले विभाजनका बेला उनले माधव नेपाललाई साथ दिँदै पार्टी परिवर्तन गरे, जसले गर्दा उनलाई आफ्नै पुरानो संगठन र मतदाताको केही हिस्साको विरोध सामना गर्नुपरेको छ। २०७९ को निर्वाचनमा प्रत्यक्षतर्फ उम्मेदवार नभई समानुपातिक सूचीमा बस्नुले पार्टीभित्र उनको भूमिका रणनीतिक रहेको देखिन्छ। मुगुमा उनी अझै पनि प्रभावशाली मानिन्छन्, तर पार्टी परिवर्तनले उनको व्यक्तिगत लोकप्रियतामा केही चुनौती थपेको छ।",
+  "overall_approval_rating": 70
+}

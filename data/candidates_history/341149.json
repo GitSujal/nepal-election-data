@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341149,
+  "candidate_name": "विरेन्द्र कुमार साह",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Independent_Candidate_Nepal_Election_Symbol.png",
+  "candidates_current_position": "स्वतन्त्र नागरिक",
+  "candidates_current_position_in_party": "आबद्धता छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341149.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "९",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं. ९ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए। उनले दलीय राजनीतिभन्दा बाहिर रहेर सुशासन र विकासको एजेन्डा अघि सारेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवार (Tourist Candidate) को रूपमा चर्चा",
+      "date": "२०७९-०७-२३",
+      "details": "काठमाडौंको स्थायी वासिन्दा नभए पनि काठमाडौं क्षेत्र नं. ९ बाट उम्मेदवारी दिएका कारण उनलाई 'पर्यटक उम्मेदवार' को रूपमा हेरिएको थियो। यसले स्थानीय मतदाताहरूसँगको उनको सामीप्यतामा चुनौती थपेको थियो।",
+      "link_to_source": "https://election.ekantipur.com/constituency/kathmandu-9?lng=nep",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत प्राप्ति",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को निर्वाचनमा उनले निकै कम मत प्राप्त गरे, जहाँ नेकपा एमालेका कृष्ण गोपाल श्रेष्ठ विजयी भएका थिए। स्वतन्त्र उम्मेदवारको रूपमा उनको प्रभाव सोचे अनुरुप देखिएन।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "विरेन्द्र कुमार साह एक स्वतन्त्र राजनीतिक अभियन्ता हुन् जसले २०७९ को आम निर्वाचनमा काठमाडौं क्षेत्र नं ९ बाट उम्मेदवारी दिएका थिए। बीउ डाटा (Source JSON) अनुसार उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा वर्गीकृत गरिएको छ, जसले उनी आफ्नो गृह जिल्ला छोडेर काठमाडौंमा राजनीतिक परीक्षण गर्न आएको संकेत गर्दछ। निर्वाचनमा उनको उपस्थिति मुख्यतया दलीय सिन्डिकेट विरुद्धको सांकेतिक विरोधको रूपमा देखियो, तर स्थानीयस्तरमा बलियो आधार र राजनीतिक संगठनको अभावका कारण उनले उल्लेखनीय मत प्राप्त गर्न सकेनन्। उनका कुनै ठूला भ्रष्टाचार काण्ड वा विवादहरू सार्वजनिक भएका छैनन्, तर राजनीतिक अस्थिरता र 'पर्यटक' छविका कारण उनको चुनावी शाख कमजोर देखिन्छ।",
+  "overall_approval_rating": 38
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340865,
+  "candidate_name": "सन्तोष तामाङ्ग",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://ujyaalonepalparty.org.np/logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340865.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "झापा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी परिवर्तन र उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०८१-०७-१५",
+      "details": "जातीय पहिचानको मुद्दा उठाउने मंगोल नेशनल अर्गनाइजेसन छोडेर सन्तोष तामाङ्ग विकास र सुशासनको एजेन्डा बोकेको उज्यालो नेपाल पार्टीमा प्रवेश गरेका हुन्।",
+      "link_to_source": "https://kathmandupati.com/2025/11/11/ujyalo-nepal-party-update/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "२०७९ को निर्वाचनमा झापा-१ बाट उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट झापा क्षेत्र नं. १ मा उम्मेदवारी दिई १,५७७ मत प्राप्त गरे पनि उनी चौथो स्थानमा सीमित रहे।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult79.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७४-०८-२१",
+      "details": "पहिलो प्रतिनिधिसभा निर्वाचनमा झापा १ बाटै चुनावी प्रतिस्पर्धामा उत्रिएका तामाङ्गले १,३८९ मत ल्याएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "झापा जिल्ला समितिको अस्थिरता",
+      "date": "२०८२-०९-२२",
+      "details": "उज्यालो नेपाल पार्टीको झापा जिल्ला समिति राष्ट्रिय स्वतन्त्र पार्टीमा विलय हुने घोषणा गरे पनि तामाङ्गले आफ्नो राजनीतिक यात्रा सोही पार्टीबाटै जारी राखेको देखिन्छ।",
+      "link_to_source": "https://pratidindaily.com/2026/01/06/ujyalo-nepal-jhapa-merger-rsp/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "सन्तोष तामाङ्ग झापा क्षेत्र नं. १ मा राजनीतिक प्रभाव जमाउन संघर्षरत उम्मेदवार हुन्। विगतका दुई निर्वाचनमा मंगोल नेशनल अर्गनाइजेसनबाट न्यून मत (करिब २ प्रतिशत) प्राप्त गरेका उनले हाल 'उज्यालो नेपाल पार्टी' रोजेका छन्। जातीय पहिचानवादी राजनीतिबाट सुशासन केन्द्रित दलमा उनको यो छलाङले स्थानीय स्तरमा उनको वैचारिक स्पष्टतामाथि प्रश्न उठाएको छ, जसलाई 'वगुवा' प्रवृत्तिको रूपमा विश्लेषण गरिएको छ। झापा जस्तो राजनीतिक रूपमा सचेत जिल्लामा ठूला दलहरू (एमाले, कांग्रेस र रास्वपा) को वर्चस्व बीच तामाङ्गका लागि आफ्नो जनाधार जोगाउनु मुख्य चुनौती देखिन्छ। उनी निर्वाचनमा पराजित भए पनि निरन्तर उम्मेदवारी दिने जुझारु नेताको रूपमा भने चिनिन्छन्।",
+  "overall_approval_rating": 30
+}

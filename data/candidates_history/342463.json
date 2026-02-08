@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342463,
+  "candidate_name": "जय नारायण मंडल",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_the_Labor_Culture_Party.svg/1200px-Flag_of_the_Labor_Culture_Party.svg.png",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य (प्रस्तावित)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342463.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. २ (क)",
+      "result": "पराजित",
+      "party": "एकीकृत राष्ट्रिय प्रजातन्त्र पार्टी (राष्ट्रवादी)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "मंडलले श्रम संस्कृति पार्टीको तर्फबाट सप्तरी निर्वाचन क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342463",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१०",
+      "details": "नयाँ राजनीतिक शक्ति र श्रमको सम्मान गर्ने एजेन्डासहित मंडल एकीकृत राप्रपा छाडेर श्रम संस्कृति पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/267324/2022/10/9/upendra-yadav",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा प्रतिस्पर्धा",
+      "date": "२०७४-०७-०५",
+      "details": "सप्तरी क्षेत्र नं. २ (क) बाट प्रदेश सभा सदस्यका लागि एकीकृत राष्ट्रिय प्रजातन्त्र पार्टी (राष्ट्रवादी) बाट चुनाव लडेका उनले ४७४ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342463",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जय नारायण मंडल सप्तरीका एक स्थिर तर कम चुनावी प्रभाव भएका राजनीतिकर्मी हुन्। उनले आफ्नो राजनीतिक यात्रा एकीकृत राष्ट्रिय प्रजातन्त्र पार्टी (राष्ट्रवादी) बाट सुरु गरी पछिल्लो समयमा श्रम संस्कृति पार्टीमा स्थानान्तरण गरेका छन्। २०७४ को प्रदेश सभा निर्वाचनमा सप्तरी २(क) बाट न्यून मत प्राप्त गरेका उनले २०७९ मा आफ्नो कार्यक्षेत्र परिवर्तन गरी सप्तरी ३ बाट संघीय निर्वाचनमा प्रतिस्पर्धा गरे। यद्यपि, सप्तरीको राजनीतिमा स्थापित ठूला दलहरू र मधेश केन्द्रित दलहरूको वर्चस्वका कारण उनले चुनावी परिणाम आफ्नो पक्षमा पार्न सकेका छैनन्। उनको राजनीति मुख्यतया श्रम अधिकार र स्थानीय मुद्दाहरूमा केन्द्रित देखिए तापनि बलियो संगठनको अभावमा उनी हालसम्म एक सिमान्त उम्मेदवारकै रूपमा सीमित छन्।",
+  "overall_approval_rating": 35
+}
