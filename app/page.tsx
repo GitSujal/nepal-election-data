@@ -236,6 +236,7 @@ function CandidatePageContent() {
               <PartyCountChart
                 candidates={filteredFPTPCandidates}
                 className="mt-6"
+                autoExpand={urlState.badges.length > 0 && urlState.party === 0}
               />
             )}
 
@@ -300,6 +301,7 @@ function CandidatePageContent() {
               <PartyCountChart
                 candidates={filteredPRCandidates}
                 className="mt-6"
+                autoExpand={urlState.badges.length > 0 && urlState.party === 0}
               />
             )}
 
