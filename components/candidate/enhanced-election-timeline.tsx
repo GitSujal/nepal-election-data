@@ -25,65 +25,64 @@ interface TimelineEntry {
 export function EnhancedElectionTimeline({ candidate }: ElectionTimelineProps) {
   const { data: politicalHistory } = usePoliticalHistory(candidate.candidate_id)
 
-  // Build timeline entries - use political history if available, fallback to candidate data
+  // Build timeline entries
+  // 2074 and 2079 always come from authoritative dim model data (actual election results)
+  // Other years (by-elections, older elections) come from Gemini political history
   const entries: TimelineEntry[] = []
 
-  if (politicalHistory?.election_history && politicalHistory.election_history.length > 0) {
-    // Use rich political history data
+  // 2074 entry from actual data
+  if (candidate.was_parliament_member_2074 || candidate.prev_2074_election_votes) {
+    const is2074Winner = candidate.prev_2074_election_result === "Winner"
+    entries.push({
+      year: "2074",
+      type: candidate.parliament_member_2074_election_type || "FPTP",
+      position: "प्रतिनिधि सभा सदस्य",
+      district: candidate.prev_2074_election_district || candidate.parliament_member_2074_district,
+      constituency: candidate.prev_2074_election_constituency_id ||
+        (candidate.parliament_member_2074_constituency ? String(candidate.parliament_member_2074_constituency) : null),
+      party: candidate.prev_2074_election_party || candidate.parliament_member_2074_party,
+      result: candidate.prev_2074_election_result,
+      votes: candidate.prev_2074_election_votes,
+      opponentVotes: is2074Winner ? candidate.prev_2074_runner_up_votes : candidate.prev_2074_winner_votes,
+      wasMember: candidate.was_parliament_member_2074,
+    })
+  }
+
+  // 2079 entry from actual data
+  if (candidate.was_parliament_member_2079 || candidate.prev_election_votes) {
+    const is2079Winner = candidate.prev_election_result === "Winner"
+    entries.push({
+      year: "2079",
+      type: candidate.parliament_member_2079_election_type || "FPTP",
+      position: "प्रतिनिधि सभा सदस्य",
+      district: candidate.prev_election_district || candidate.parliament_member_2079_district,
+      constituency: candidate.prev_election_constituency_id ||
+        (candidate.parliament_member_2079_constituency ? String(candidate.parliament_member_2079_constituency) : null),
+      party: candidate.prev_election_party || candidate.parliament_member_2079_party,
+      result: candidate.prev_election_result,
+      votes: candidate.prev_election_votes,
+      opponentVotes: is2079Winner ? candidate.prev_runner_up_votes : candidate.prev_winner_votes,
+      wasMember: candidate.was_parliament_member_2079,
+    })
+  }
+
+  // Add entries from political history for other years (by-elections, older elections)
+  if (politicalHistory?.election_history) {
     politicalHistory.election_history.forEach((election) => {
       const isWin = election.result === "विजयी"
-      const year = election.year
-      
       entries.push({
-        year: year,
+        year: election.year,
         type: election.position.includes("समानुपातिक") ? "Proportional" : "FPTP",
         position: election.position,
         district: election.district,
         constituency: election.constituency,
         party: election.party,
         result: isWin ? "Winner" : "Loser",
-        votes: null, // Political history doesn't include vote counts
+        votes: null,
         opponentVotes: null,
         wasMember: isWin,
       })
     })
-  } else {
-    // Fallback to current candidate data
-    // 2074 entry
-    if (candidate.was_parliament_member_2074 || candidate.prev_2074_election_votes) {
-      const is2074Winner = candidate.prev_2074_election_result === "Winner"
-      entries.push({
-        year: "2074",
-        type: candidate.parliament_member_2074_election_type || "FPTP",
-        position: "प्रतिनिधि सभा सदस्य",
-        district: candidate.prev_2074_election_district || candidate.parliament_member_2074_district,
-        constituency: candidate.prev_2074_election_constituency_id || 
-          (candidate.parliament_member_2074_constituency ? String(candidate.parliament_member_2074_constituency) : null),
-        party: candidate.prev_2074_election_party || candidate.parliament_member_2074_party,
-        result: candidate.prev_2074_election_result,
-        votes: candidate.prev_2074_election_votes,
-        opponentVotes: is2074Winner ? candidate.prev_2074_runner_up_votes : candidate.prev_2074_winner_votes,
-        wasMember: candidate.was_parliament_member_2074,
-      })
-    }
-
-    // 2079 entry
-    if (candidate.was_parliament_member_2079 || candidate.prev_election_votes) {
-      const is2079Winner = candidate.prev_election_result === "Winner"
-      entries.push({
-        year: "2079",
-        type: candidate.parliament_member_2079_election_type || "FPTP",
-        position: "प्रतिनिधि सभा सदस्य",
-        district: candidate.prev_election_district || candidate.parliament_member_2079_district,
-        constituency: candidate.prev_election_constituency_id || 
-          (candidate.parliament_member_2079_constituency ? String(candidate.parliament_member_2079_constituency) : null),
-        party: candidate.prev_election_party || candidate.parliament_member_2079_party,
-        result: candidate.prev_election_result,
-        votes: candidate.prev_election_votes,
-        opponentVotes: is2079Winner ? candidate.prev_runner_up_votes : candidate.prev_winner_votes,
-        wasMember: candidate.was_parliament_member_2079,
-      })
-    }
   }
 
   // Always add current 2082 entry
