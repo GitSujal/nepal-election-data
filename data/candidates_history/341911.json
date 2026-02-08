@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341911,
+  "candidate_name": "नक्‍कले मगर",
+  "candidate_party": "नेशनल रिपब्लिक नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Election_symbol_of_National_Republican_Nepal.png/200px-Election_symbol_of_National_Republican_Nepal.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341911.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धादिङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेशनल रिपब्लिक नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम घोषणा",
+      "date": "२०७९-०८-०८",
+      "details": "धादिङ क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यमा उम्मेदवारी दिएका मगरले पराजय व्यहोर्नु परेको थियो। उनले निकै कम मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/dhading?pradesh=3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नक्‍कले मगरले नेशनल रिपब्लिक नेपालको तर्फबाट धादिङ २ मा आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341911",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "नक्‍कले मगर धादिङ क्षेत्र नं. २ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा नेशनल रिपब्लिक नेपालको तर्फबाट प्रतिस्पर्धा गरेका उम्मेदवार हुन्। टंक बहादुर मगरका छोरा नक्‍कले मुख्यधारका ठूला राजनीतिक दलहरूभन्दा बाहिर रहेर वैकल्पिक राजनीतिक शक्ति निर्माणमा लागेका देखिन्छन्। धादिङ-२ मा रामनाथ अधिकारी र खेम प्रसाद लोहनी जस्ता प्रभावशाली नेताहरूसँगको प्रतिस्पर्धामा उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन् र उनको धरौटी समेत जफत भएको थियो। राष्ट्रिय राजनीतिमा उनको प्रभाव र चर्चा अत्यन्त न्यून रहेको छ। हालसम्म उनको नाम कुनै ठूलो भ्रष्टाचार काण्ड वा विवादमा मुछिएको भेटिएको छैन। उनलाई स्थानीय स्तरमा आफ्नो दलको एजेन्डा बोकेर हिँड्ने एक सक्रिय कार्यकर्ताको रूपमा मात्र चिनिन्छ।",
+  "overall_approval_rating": 25
+}

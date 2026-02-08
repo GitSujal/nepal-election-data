@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339944,
+  "candidate_name": "अमनिश कुमार यादव",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339944.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सर्लाही",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "सर्लाही क्षेत्र नं. ४ बाट नेकपा (एमाले) का उम्मेदवार अमनिश कुमार यादव १४,२०१ मत प्राप्त गर्दै तेस्रो स्थानमा रहे र पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमालेबाट पहिलो पटक उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "अमनिश कुमार यादवले सर्लाही ४ बाट पहिलो पटक प्रतिनिधि सभाका लागि नेकपा (एमाले) बाट उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://ratopati.com/story/268159/2022/10/23/sarlahi-4",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बुबा शिवपुजन रायको एमाले प्रवेश र टिकट प्राप्ति",
+      "date": "२०७८-१०-०५",
+      "details": "अमनिशका बुबा तथा पूर्व सांसद शिवपुजन राय एमाले प्रवेश गरेसँगै अमनिशले सर्लाही ४ बाट चुनावी टिकट पाएका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/284157",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पारिवारिक राजनीतिक पृष्ठभूमि र विरासत",
+      "date": "२०७८-०१-०१",
+      "details": "अमनिश कुमार यादव पूर्व सांसद शिवपुजन रायका छोरा हुन्, जसको सर्लाहीको राजनीतिमा लामो समयदेखि प्रभाव रहिआएको छ।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1203581",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बुबाको रातो पासपोर्ट प्रकरणको प्रभाव",
+      "date": "२०७४-०८-०१",
+      "details": "अमनिशका बुबा शिवपुजन राय रातो पासपोर्ट दुरुपयोग प्रकरणमा दोषी ठहर भएका कारण अमनिशलाई राजनीतिक उत्तराधिकारीका रूपमा अगाडि सारिएको मानिन्छ।",
+      "link_to_source": "https://shilapatra.com/detail/95147",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "अमनिश कुमार यादव सर्लाही क्षेत्र नं. ४ का उदीयमान राजनीतिज्ञ हुन्, जसले २०७९ को निर्वाचनमा नेकपा (एमाले) बाट डेब्यु गरेका थिए। उनी पूर्व सांसद शिवपुजन रायका छोरा हुन् र उनको राजनीतिक उदय मुख्यतया बुबाको विरासतमा आधारित छ। शिवपुजन राय रातो पासपोर्ट प्रकरणमा कानुनी रूपमा विवादित बनेपछि एमालेले उनका छोरा अमनिशलाई चुनावी मैदानमा उतारेको थियो। पहिलो निर्वाचनमै उनले १४,२०१ मत ल्याएर आफ्नो उपस्थिति बलियो देखाए पनि स्वतन्त्र उम्मेदवार अमरेश कुमार सिंहसँग पराजित भए। उनीमाथि 'परिवारवाद' को आरोप लाग्ने गरेको छ र उनको स्वतन्त्र राजनीतिक पहिचान अझै स्थापित हुन बाँकी छ।",
+  "overall_approval_rating": 42
+}

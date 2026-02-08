@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340981,
+  "candidate_name": "टुक बहादुर चेवाली",
+  "candidate_party": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/JSP_Nepal_Logo.png",
+  "candidates_current_position": "स्थानीय राजनीतिज्ञ",
+  "candidates_current_position_in_party": "जिल्ला सदस्य, जनता समाजवादी पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340981.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "अर्घाखाँची",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "अर्घाखाँची निर्वाचन क्षेत्र १ (ख) बाट प्रदेश सभा सदस्यका लागि जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। उनले कुल १५६ मत प्राप्त गरी छैटौं स्थानमा रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP1s53DEYhFYyyYF95x12mh5Yk60YjhpPhwpeqeNrJiilr8vY-xrNZ0-YB7qJRQNNzYgNyXeFCM6u-2d79VdV7F7xZdEujuhReoG490ipiMDHsm1d4OC4a9yjHloR1QhXSfETunRkeb0IdY3RJUWlM4BLjXkM1Obf_BEOXPgWlCTwEVWGGMSZmB5DOd1J1K3Kdu9uTBBCnmgdJghDmytKM91Lw",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७७-०१-१०",
+      "details": "तत्कालीन समाजवादी पार्टी र राष्ट्रिय जनता पार्टी बीचको एकतापछि बनेको जनता समाजवादी पार्टीमा सक्रिय रहँदै अर्घाखाँची जिल्लामा पार्टी संगठन विस्तारमा संलग्न रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIoWiRedh9H-k9GNePIKTtLTX9tbn0RPa_o-6u4XidrEY_AaxoTKVtfT2XRlqqK175OXOwyPlDEAxeYmVss4IlAkKZYdp7oeUULoX9V-TqlHp1F5kxVsRWaSrDAhrauktWOni0eoLfUPpPRoVrk5oFo3Y8Rxe3xg==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "टुक बहादुर चेवाली अर्घाखाँची जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन्। उनले २०७९ को निर्वाचनमा जनता समाजवादी पार्टीको तर्फबाट अर्घाखाँची १ (ख) बाट प्रदेश सभाका लागि उम्मेदवारी दिएका थिए। यद्यपि, उक्त निर्वाचनमा उनले निकै कम अर्थात् १५६ मत (०.३३%) मात्र प्राप्त गरे, जसले गर्दा उनको चुनावी प्रभाव उक्त क्षेत्रमा निकै कमजोर देखिन्छ। अर्घाखाँचीमा नेकपा (एमाले) र नेपाली कांग्रेसको बलियो पकड रहेका कारण उनी जस्ता साना दलका उम्मेदवारहरूले प्रतिस्पर्धात्मक उपस्थिति देखाउन सकेका छैनन्। हालसम्म उनको विरुद्धमा कुनै ठूला भ्रष्टाचार वा विवादका समाचारहरू फेला परेका छैनन्, जसले गर्दा उनको व्यक्तिगत छवि स्वच्छ मान्न सकिन्छ। उनी मुख्यतया पार्टीको भुईँतहको संगठन निर्माणमा केन्द्रित देखिन्छन्।",
+  "overall_approval_rating": 28
+}

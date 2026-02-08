@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341210,
+  "candidate_name": "बचन बहादुर सिंह",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, नेकपा (एमाले)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341210.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "क्षेत्र नं. २ (१)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "कञ्चनपुर क्षेत्र नं. २ (१) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका सिंह १०,४६५ मत प्राप्त गरी नेपाली कांग्रेसका उम्मेदवार ओमविक्रम भाटसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/kanchanpur-2?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (एमाले) केन्द्रीय सदस्यमा मनोनयन",
+      "date": "२०७८-०८-२९",
+      "details": "नेकपा (एमाले) को दशौँ राष्ट्रिय महाधिवेशनपछि सिंहलाई पार्टीको केन्द्रीय सदस्यको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://cpnuml.org/central-committee-members",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय युवा संघ नेपालको अध्यक्षमा चयन",
+      "date": "२०७७-१०-२७",
+      "details": "नेकपा भित्रको विवादका बीच उनलाई साविकको युवा संघ नेपालको अध्यक्ष बनाइएको थियो, जसलाई लिएर केही पक्षले असन्तुष्टि जनाएका थिए।",
+      "link_to_source": "https://www.sunaulonepal.com/2021/02/82071",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा संघ नेतृत्व चयनमा विवाद",
+      "date": "२०७७-१०-२७",
+      "details": "सिंहलाई युवा संघको अध्यक्ष तोकिँदा बादल समूहका युवा नेताहरूले असन्तुष्टि व्यक्त गरेका थिए, जसले पार्टीभित्रको गुटबन्दीलाई सतहमा ल्याएको थियो।",
+      "link_to_source": "https://www.youtube.com/watch?v=0h6vX_B7wK8",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "अनेरास्ववियुको राजनीतिबाट उदय",
+      "date": "२०६०-०१-०१",
+      "details": "सिंहले आफ्नो राजनीतिक यात्रा नेकपा (एमाले) को विद्यार्थी संगठन अनेरास्ववियुबाट सुरु गरेका थिए र विभिन्न पदमा रहेर काम गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/bachan-bahadur-singh-341210",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बचन बहादुर सिंह नेकपा (एमाले) का एक प्रभावशाली युवा नेता र पूर्व युवा संघ अध्यक्ष हुन्। कञ्चनपुरको राजनीतिमा पकड बनाउन खोजिरहेका सिंह २०७९ को प्रदेश सभा निर्वाचनमा झिनो मतान्तरले मात्र पराजित भएका थिए, जसले उनको स्थानीय स्तरमा बलियो उपस्थितिलाई जनाउँछ। उनलाई एमाले अध्यक्ष केपी शर्मा ओलीको विश्वासपात्र र युवा परिचालनमा कुशल रणनीतिकारका रूपमा हेरिन्छ। यद्यपि, पार्टीभित्रको आन्तरिक समीकरण र तत्कालीन चुनावी गठबन्धनका कारण उनले जित हासिल गर्न सकेनन्। उनको राजनीतिक भविष्य कञ्चनपुरमा एमालेको संगठन विस्तार र युवा मतदाताहरूलाई आकर्षित गर्ने क्षमतामा निर्भर रहने देखिन्छ।",
+  "overall_approval_rating": 62
+}

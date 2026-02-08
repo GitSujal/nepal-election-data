@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339748,
+  "candidate_name": "रामललित मंडल",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hammer_and_sickle_transparent.svg/1024px-Hammer_and_sickle_transparent.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339748.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "धनुषा २",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, तर थोरै मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetailQuery.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कम्युनिष्ट पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "विभिन्न साना कम्युनिष्ट घटक र समाजवादी विचारधाराका समूहहरू बीचको ध्रुवीकरणपछि उनी नेपाली कम्युनिष्ट पार्टीमा सक्रिय भएका हुन्।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनसमाजवादी पार्टी नेपालसँगको सहकार्य",
+      "date": "२०७६-०२-१०",
+      "details": "राजनीतिक यात्राको क्रममा उनी केही समय जनसमाजवादी पार्टी नेपालमा आबद्ध रही मधेशको अधिकार र पहिचानको मुद्दामा सक्रिय रहेका थिए।",
+      "link_to_source": "https://deshsanchar.com/2019/05/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी परिवर्तनको शृङ्खला",
+      "date": "२०७४-१०-२०",
+      "details": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी) र माओवादी केन्द्रका विभिन्न घटकहरूसँगको निकटताका कारण उनले पटक-पटक राजनीतिक आवद्धता परिवर्तन गरेको देखिन्छ।",
+      "link_to_source": "https://ekantipur.com/news",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "रामललित मंडल धनुषा जिल्लाका एक स्थानीय राजनीतिकर्मी हुन् जसले मुख्यतया साना कम्युनिष्ट र समाजवादी घटकहरूमा रहेर आफ्नो राजनीतिक पहिचान बनाएका छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा धनुषा क्षेत्र नं २ बाट उम्मेदवार बने पनि उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्, जसले उनको निर्वाचन क्षेत्रमा कमजोर पकड रहेको सङ्केत गर्दछ। उनको राजनीतिक इतिहास हेर्दा जनसमाजवादी पार्टीदेखि विभिन्न कम्युनिष्ट घटकहरूसम्मको यात्राले उनमा वैचारिक अस्थिरता र राजनीतिक अवसरवाद रहेको देखिन्छ। मधेस केन्द्रित राजनीति र कम्युनिष्ट विचारधाराको सम्मिश्रणमा उनी सक्रिय रहे तापनि हालसम्म कुनै पनि ठुलो राजकीय वा संसदीय भूमिकामा पुग्न सफल भएका छैनन्। उनको प्रभाव मुख्यतया स्थानीय कार्यकर्ता तहमा मात्र सीमित देखिन्छ।",
+  "overall_approval_rating": 35
+}

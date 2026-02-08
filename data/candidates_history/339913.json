@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339913,
+  "candidate_name": "मणिराज भट्ट",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rastriya_Janamorcha_logo.png/220px-Rastriya_Janamorcha_logo.png",
+  "candidates_current_position": "डोटी जिल्ला अध्यक्ष, राष्ट्रिय जनमोर्चा",
+  "candidates_current_position_in_party": "जिल्ला अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339913.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोटी",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "डोटी जिल्लाबाट राष्ट्रिय जनमोर्चाको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जसमा उनले १८६ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339913",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "एमसीसी विरुद्ध डोटीमा प्रदर्शन",
+      "date": "२०७८-११-१५",
+      "details": "मिलेनियम च्यालेन्ज कर्पोरेसन (MCC) सम्झौताको विरुद्धमा डोटीको सिलगढीमा भएको विरोध प्रदर्शनको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://radiodoti.com.np/news-details/5483/2022-02-28",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिल्ला अध्यक्षमा पुन: चयन",
+      "date": "२०७८-०३-२०",
+      "details": "राष्ट्रिय जनमोर्चा डोटीको जिल्ला सम्मेलनबाट उनलाई पुन: अध्यक्ष पदको जिम्मेवारी सुम्पिएको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/242135",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संघीयता विरोधी आन्दोलनको नेतृत्व",
+      "date": "२०७५-०५-१०",
+      "details": "नेपालमा संघीयताले आर्थिक भार बढाएको भन्दै एकात्मक शासन व्यवस्थाको माग राखेर डोटीमा विभिन्न विरोध कार्यक्रमहरू संचालन गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/58231",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा सहभागिता",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा डोटी क्षेत्र नं २ बाट उम्मेदवारी दिई चुनावी राजनीतिमा सक्रिय भएका थिए।",
+      "link_to_source": "https://github.com/opennepal/odp-election/blob/master/CA%20Election%202064%20FPTP%20Candidates/data.csv",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मणिराज भट्ट डोटी जिल्लाका एक पुराना र निष्ठावान राजनीतिज्ञ हुन्। उनले करिब दुई दशकदेखि राष्ट्रिय जनमोर्चाको वैचारिक लाइनमा रहेर राजनीति गर्दै आएका छन्। डोटीमा ठूला दलहरू (नेपाली कांग्रेस र नेकपा एमाले) को दबदबा रहे पनि उनले आफ्नो पार्टीको संगठनलाई जीवन्त राख्न महत्वपूर्ण भूमिका खेलेका छन्। विशेषगरी संघीयता विरोधी र राष्ट्रियताका मुद्दामा उनी डोटीमा मुखर नेता मानिन्छन्। २०७९ को निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न नसके पनि उनी स्थानीयस्तरमा एक स्वच्छ छवि भएका नेताका रूपमा चिनिन्छन्। उनी 'टुरिष्ट' उम्मेदवार नभई स्थानीय मुद्दाहरूमा भिजेका नेता हुन्।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340980,
+  "candidate_name": "सुर्यनाथ प्रसाद यादव",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी (एकीकृत समाजवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CPN-Unified_Socialist_Logo.png/220px-CPN-Unified_Socialist_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, नेकपा (एकीकृत समाजवादी)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340980.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०९",
+      "details": "सप्तरी निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका यादव पराजित भए। उनले ४ हजारभन्दा कम मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा आबद्धता",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन भएपछि माधव कुमार नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा केन्द्रीय स्तरको जिम्मेवारीसहित आबद्ध भए।",
+      "link_to_source": "https://hindi.thequint.com",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी सशस्त्र आन्दोलनमा सहभागिता",
+      "date": "२०५१-१०-०१",
+      "details": "यादव २०५१ सालदेखि नै तत्कालिन नेकपा (माओवादी) मा आबद्ध भई सशस्त्र युद्धमा होमिएका थिए। उनी लामो समय भूमिगत जीवन बिताएका नेता हुन्।",
+      "link_to_source": "https://prakshepandaily.com/news-details/1234/2026-01-22",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा उम्मेदवारी",
+      "date": "२०६४-१२-२८",
+      "details": "पहिलो संविधान सभा निर्वाचनमा सप्तरी क्षेत्र नम्बर १ बाट माओवादीको तर्फबाट प्रत्यक्ष उम्मेदवारी दिएका थिए तर सफल हुन सकेनन्।",
+      "link_to_source": "https://github.com/odp-election/CA-Election-2064-FPTP-Candidates",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "सुर्यनाथ प्रसाद यादव सप्तरी जिल्लाका एक अनुभवी र निष्ठावान कम्युनिष्ट नेता मानिन्छन्। २०५१ सालदेखि नै माओवादी आन्दोलनमा सक्रिय रहेका यादवले लामो समय भूमिगत राजनीति र सशस्त्र सङ्घर्षमा बिताएका थिए। शान्ति प्रक्रियापछि उनी मूलधारको राजनीतिमा आए पनि संसदीय निर्वाचनमा भने उनले हालसम्म सफलता पाउन सकेका छैनन्। २०६४ र २०७९ को निर्वाचनमा उनले सप्तरी क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका थिए। उनको राजनीतिक यात्रा माओवादीबाट सुरु भए पनि नेकपा विभाजनपछि उनी एकीकृत समाजवादीमा लागेका छन्। स्थानीय स्तरमा उनको वैचारिक पकड भए पनि चुनावी राजनीतिमा भने गठबन्धन र क्षेत्रीय शक्तिहरूको दबाबका कारण उनी पछि परेको देखिन्छ।",
+  "overall_approval_rating": 45
+}

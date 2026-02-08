@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340658,
+  "candidate_name": "विल बहादुर तमाङ लामा",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://election.gov.np/logo/shram_sanskriti.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340658.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "कास्की क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि श्रम संस्कृति पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०१-०१",
+      "details": "हर्क साम्पाङको नेतृत्वमा रहेको श्रम र संस्कृतिको मुद्दा बोक्ने अभियान तथा पार्टीमा सक्रिय सहभागिता।",
+      "link_to_source": "https://nepalipatro.com.np/news/harka-sampang-party-registration",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा चर्चा",
+      "date": "२०७९-०७-१५",
+      "details": "कास्कीको स्थानीय नभई अन्य जिल्लाबाट आएर चुनाव लडेको भन्दै स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को परिचय।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340658",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "विल बहादुर तमाङ लामा श्रम संस्कृति पार्टीका एक प्रतिनिधि हुन्, जसले २०७९ को निर्वाचनमा कास्की क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका थिए। उनको राजनीति मुख्यतया श्रम, पसिना र संस्कृतिको सम्मान गर्ने एजेन्डामा आधारित छ। यद्यपि, कास्कीमा उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) का रूपमा हेरियो, जसले गर्दा उनले स्थानीय मतदाताको विश्वास जित्न सकेनन्। निर्वाचनमा उनको प्रदर्शन अत्यन्त कमजोर रह्यो र उनले प्रभावकारी मत प्राप्त गर्न सकेनन्। उनी कुनै ठूलो भ्रष्टाचार वा काण्डमा मुछिएका छैनन्, तर राजनीतिक अनुभव र स्थानीय आधारको अभावले गर्दा उनको चुनावी उपस्थिति केवल सांकेतिक मात्र देखिन्छ। आगामी दिनमा उनले आफ्नो साङ्गठनिक पकड बलियो बनाउनुपर्ने देखिन्छ।",
+  "overall_approval_rating": 28
+}

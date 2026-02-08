@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341889,
+  "candidate_name": "राज कुमार लामिछाने",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-Maoist_logo.svg/1024px-CPN-Maoist_logo.svg.png",
+  "candidates_current_position": "स्थानीय राजनीतिज्ञ",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेता, दोलखा",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341889.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "अध्यक्ष",
+      "district": "दोलखा",
+      "constituency": "बैतेश्वर गाउँपालिका",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "स्थानीय तह निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०२-०५",
+      "details": "बैतेश्वर गाउँपालिकाको अध्यक्ष पदमा पराजित भएका थिए। उनले नेपाली कांग्रेसका उम्मेदवार छवि लामासँग प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/LocalLevelResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "बैतेश्वर गाउँपालिका अध्यक्षको उम्मेदवारी",
+      "date": "२०७९-०१-११",
+      "details": "नेकपा (माओवादी) को तर्फबाट दोलखाको बैतेश्वर गाउँपालिकामा अध्यक्ष पदको लागि उम्मेदवारी दर्ता गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन बुथ कब्जाको विवाद र झडप",
+      "date": "२०७९-०१-३०",
+      "details": "बैतेश्वरका विभिन्न मतदान केन्द्रमा निर्वाचनका क्रममा दलीय झडप र बुथ कब्जाका प्रयास भएका थिए, जसमा माओवादी र कांग्रेस कार्यकर्ताहरू संलग्न रहेका थिए।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/politics/821016-1652431613.html",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दोलखामा माओवादी संगठन सुदृढीकरण",
+      "date": "२०७८-०६-१५",
+      "details": "नेकपा विभाजन पछि दोलखामा माओवादी केन्द्रको संगठनलाई पुनर्गठित गर्न स्थानीय स्तरमा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/201243",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राज कुमार लामिछाने दोलखा जिल्लाको बैतेश्वर क्षेत्रमा माओवादी राजनीतिको एक स्थानीय अनुहार हुन्। २०७९ को स्थानीय निर्वाचनमा उनले बैतेश्वर गाउँपालिकाको अध्यक्ष पदमा प्रतिस्पर्धा गरे तापनि जित हासिल गर्न सकेनन्। बैतेश्वर क्षेत्र राजनीतिक रूपमा अत्यन्तै संवेदनशील मानिन्छ, जहाँ निर्वाचनका समयमा बुथ कब्जा र झडपका घटनाहरू बारम्बार हुने गर्छन्। लामिछानेको राजनीतिक शक्ति मुख्यतया पार्टीको स्थानीय क्याडर बेसमा आधारित छ, तर नेपाली कांग्रेस र नेकपा (एमाले) को बलियो पकड रहेको यस क्षेत्रमा उनले अपेक्षित मत प्राप्त गर्न सकेनन्। उनको राजनीतिक करियरमा अहिलेसम्म कुनै ठूलो भ्रष्टाचारको स्क्यान्डल नदेखिए पनि चुनावी विवादहरूले उनको छविमा केही असर पारेको छ।",
+  "overall_approval_rating": 45
+}

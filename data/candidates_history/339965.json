@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339965,
+  "candidate_name": "शिव बहादुर दर्जी",
+  "candidate_party": "आम जनता पार्टी (एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aam_Janata_Party_Nepal_logo.png/220px-Aam_Janata_Party_Nepal_logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / कपिलबस्तु जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339965.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी (एकल चुनाव चिन्ह)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कपिलबस्तु ३ बाट प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उनले आम जनता पार्टीको तर्फबाट कपिलबस्तु निर्वाचन क्षेत्र नम्बर ३ मा उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339965",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१०",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टी गठन भएपछि उनी उक्त पार्टीको वैचारिक एजेन्डा र दलित प्रतिनिधित्वको मुद्दा लिएर आबद्ध भएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/12/29/167230491873130283.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा चर्चा",
+      "date": "२०७९-०७-१५",
+      "details": "कपिलबस्तुमा उनको स्थायी बसोबास र पुरानो राजनीतिक पकड नभएका कारण उनलाई 'पर्यटक उम्मेदवार' को रूपमा स्थानीय स्तरमा टिप्पणी गरिएको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/166531398516149453.html",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "दलित अधिकार र प्रतिनिधित्वको वकालत",
+      "date": "२०७९-०८-०१",
+      "details": "निर्वाचन प्रचारका क्रममा उनले दलित समुदायको राज्य संयन्त्रमा प्रतिनिधित्व र समान अधिकारका मुद्दाहरूलाई मुख्य एजेन्डा बनाएका थिए।",
+      "link_to_source": "https://idsn.org/wp-content/uploads/2014/10/Dalits-Representation-in-National-Politics-of-Nepal.pdf",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शिव बहादुर दर्जी आम जनता पार्टीका एक सक्रिय कार्यकर्ता हुन् जसले २०७९ को आम निर्वाचनमा कपिलबस्तु क्षेत्र नम्बर ३ बाट चुनावी मैदानमा भाग लिएका थिए। उनलाई 'पर्यटक उम्मेदवार' को रूपमा चिनिनुले स्थानीय मतदातामाझ उनको पकड कमजोर रहेको देखाउँछ, जसका कारण उनी भारी मतान्तरले पराजित भए। दलित समुदायबाट प्रतिनिधित्व गर्ने उनी प्रभु साहको नेतृत्वमा रहेको नयाँ राजनीतिक शक्तिमार्फत वैकल्पिक राजनीतिको खोजीमा छन्। उनको मुख्य एजेन्डा दलित र सिमान्तकृत वर्गको उत्थान भए पनि संगठनात्मक आधार र स्थानीय प्रभावको कमीले गर्दा उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। भविष्यमा उनले आफ्नो निर्वाचन क्षेत्रमा सक्रियता बढाए मात्र उनको राजनीतिक उचाइ बढ्न सक्ने देखिन्छ।",
+  "overall_approval_rating": 42
+}

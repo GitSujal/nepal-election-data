@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341778,
+  "candidate_name": "बाबु काजी कार्की",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN_United_Logo.png/200px-CPN_United_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341778.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "काठमाडौं निर्वाचन क्षेत्र नं. ३ बाट नेपाल कम्युनिष्ट पार्टी (संयुक्त) को तर्फबाट उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetailQuery.aspx?kp=341778",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (संयुक्त) मा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "लामो समयदेखि साना कम्युनिष्ट घटकहरूमा सक्रिय रहेका कार्कीले नेकपा (संयुक्त) को सांगठनिक विस्तारमा भूमिका खेलेका छन्।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बाबु काजी कार्की नेपाल कम्युनिष्ट पार्टी (संयुक्त) का एक वैचारिक कार्यकर्ता हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा काठमाडौं क्षेत्र नं. ३ बाट उम्मेदवारी दिएका कार्कीले निकै न्यून मत प्राप्त गरेका थिए। स्रोतका अनुसार उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको थियो, जसको अर्थ उनको स्थायी बसोबास वा राजनीतिक आधार उक्त क्षेत्रमा बलियो थिएन। सानो दलको प्रतिनिधित्व र स्थानीय स्तरमा कमजोर संगठनका कारण उनले चुनावी प्रतिस्पर्धामा उल्लेख्य प्रभाव पार्न सकेनन्। उनको राजनीतिक यात्रा मुख्यतया साना कम्युनिष्ट विचारधाराका दलहरूमा केन्द्रित रहेको देखिन्छ। कुनै ठूला भ्रष्टाचार वा काण्डहरूमा उनको नाम नजोडिए तापनि चुनावी राजनीतिमा उनको प्रभाव नगन्य रहेको छ।",
+  "overall_approval_rating": 30
+}

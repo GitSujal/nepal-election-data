@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340424,
+  "candidate_name": "चन्द्र बहादुर बुढाथोकी",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hammer_and_sickle_red_on_transparent.svg/1200px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "नेता, नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidates_current_position_in_party": "खोटाङ जिल्ला सचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340424.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "खोटाङ",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा सदस्य निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "खोटाङ १ (ख) बाट प्रदेश सभा सदस्यका लागि नेपाल कम्युनिस्ट पार्टी (माओवादी) का तर्फबाट उम्मेदवारी दिएका बुढाथोकी मुख्य दलका उम्मेदवारहरूसँग पराजित भए।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवादास्पद चन्दा संकलन अभियान",
+      "date": "२०७२-०५-०९",
+      "details": "खोटाङ जिल्ला सचिवको रूपमा बुढाथोकीले सरकारी कार्यालय र व्यापारीहरूसँग चन्दा माग गरेको र फोनमार्फत बार्गेनिङ गरेको भन्दै जिल्ला प्रशासनले सो कार्य रोक्न निर्देशन दिएको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/chand-led-maoists-unleash-donation-drive-in-khotang",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सरकारी कार्यालय लक्षित चन्दा माग",
+      "date": "२०७२-०३-२४",
+      "details": "पार्टीको अभियान सञ्चालन गर्न भन्दै जिल्लाका सरकारी कार्यालयहरूलाई पत्र लेखी आर्थिक सहयोग मागेपछि उनी र उनको समूह विवादमा परेको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/chand-led-cpn-maoist-asks-donation-from-govt-offices-in-khotang",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागिता",
+      "date": "२०५२-११-०१",
+      "details": "बुढाथोकी लामो समयदेखि माओवादी आन्दोलनमा आबद्ध रहेका र जनयुद्ध कालमा भूमिगत राजनीतिमा सक्रिय भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "चन्द्र बहादुर बुढाथोकी खोटाङ जिल्लाका एक अनुभवी तर विवादास्पद माओवादी नेता हुन्। उनी नेत्र विक्रम चन्द 'विप्लव' नेतृत्वको नेपाल कम्युनिस्ट पार्टी (माओवादी) मा आबद्ध भई लामो समयदेखि जिल्ला सचिवको रूपमा कार्यरत छन्। २०७२ सालमा सरकारी कार्यालयहरूबाट चन्दा संकलन गर्ने उनको कदमले उनलाई विवादमा ल्याएको थियो, जसलाई स्थानीय प्रशासनले अवैध भनेको थियो। चुनावी राजनीतिको सन्दर्भमा, उनी २०७९ को प्रदेश सभा निर्वाचनमा खोटाङ १ (ख) बाट उम्मेदवार बने पनि उल्लेख्य मत प्राप्त गर्न सकेनन्। उनको राजनीतिक आधार मुख्यतया विचारधारात्मक कार्यकर्ताहरूमा सीमित छ। मुख्यधारका ठूला दलहरूसँगको प्रतिस्पर्धामा उनको सांगठनिक शक्ति कमजोर देखिएको छ। उनी 'टुरिस्ट' उम्मेदवार नभई स्थानीय नेता हुन्, तर उनको कट्टरपन्थी छवि र चन्दा संकलन जस्ता गतिविधिले आम मतदातामा उनको लोकप्रियता मध्यम स्तरको मात्र छ।",
+  "overall_approval_rating": 42
+}

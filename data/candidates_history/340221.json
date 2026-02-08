@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340221,
+  "candidate_name": "असरार आलम ठकुराई",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340221.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा बारा क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गरे पनि पराजित हुनुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340221",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर ४ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता गराउनुभएको थियो, जसमा कुनै दाबी विरोध परेन।",
+      "link_to_source": "https://inseconline.org/human-rights-situation-of-madhesh-province-in-2079/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "असरार आलम ठकुराई बारा जिल्लाको राजनीतिमा स्वतन्त्र उम्मेदवारका रूपमा उदाएका पात्र हुन्। २०७९ को आम निर्वाचनमा बारा क्षेत्र नम्बर ४ बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका उनले स्थापित राजनीतिक दलका उम्मेदवारहरूका बीचमा आफ्नो उपस्थिति जनाउने प्रयास गरेका थिए। उनी कुनै ठूला राजनीतिक काण्ड वा भ्रष्टाचारका मुद्दाहरूमा मुछिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ देखिन्छ। यद्यपि, संगठनात्मक आधार र बलियो राजनीतिक शक्तिको अभावका कारण उनले निर्वाचनमा उल्लेख्य मत प्राप्त गर्न सकेनन्। स्थानीय स्तरमा उनलाई एक नागरिक उम्मेदवारका रूपमा लिइएको छ, तर सक्रिय राजनीतिक प्रभाव विस्तारका लागि उनले अझै धेरै काम गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 35
+}

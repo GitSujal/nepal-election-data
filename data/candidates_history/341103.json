@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341103,
+  "candidate_name": "सिताराम साह",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rashtriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा उम्मेदवार",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341103.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सप्तरी क्षेत्र नम्बर ३ बाट राष्ट्रिय स्वतन्त्र पार्टीका उम्मेदवार रहेका साह १,२२५ मत प्राप्त गर्दै पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको धारलाई अघि बढाउन उनी रबि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भए।",
+      "link_to_source": "https://ekantipur.com/news/2022/06/21/165581177692138927.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीसँग आबद्धता",
+      "date": "२०७५-०५-०१",
+      "details": "साझा पार्टी र विवेकशील नेपाली दलको एकीकरणपछि उनी विवेकशील साझा पार्टीको स्थानीय राजनीतिमा सक्रिय रहे।",
+      "link_to_source": "https://wikipedia.org/wiki/Bibeksheel_Sajha_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७४ मा उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "सप्तरी ३ बाट साझा पार्टीको तर्फबाट उम्मेदवारी दिएका उनले १,४१६ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultHoR2074.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सिताराम साह सप्तरी क्षेत्र नम्बर ३ का एक संघर्षशील स्थानीय नेता हुन्। उनी लामो समयदेखि 'वैकल्पिक राजनीति' को अवधारणामा विश्वास राख्दै आएका छन्, जसको पुष्टि उनको पहिले साझा पार्टी र हाल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सँगको आबद्धताले गर्दछ। २०७४ र २०७९ दुवै निर्वाचनमा उनी सोही क्षेत्रबाट प्रतिस्पर्धा गरे पनि विजयी हुन सकेनन्। २०७९ को चुनावमा उनले प्राप्त गरेको मत संख्या अघिल्लो निर्वाचनको तुलनामा केही घटेको देखिन्छ। उनी कुनै ठूला राजनीतिक काण्ड वा भ्रष्टाचारमा मुछिएका छैनन् र उनको छबि एक इमानदार स्थानीय कार्यकर्ताको रूपमा छ। यद्यपि, मधेशको जातिगत र परम्परागत दलीय समीकरणका कारण उनले आफ्नो पकड मजबुत बनाउन निकै संघर्ष गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 45
+}

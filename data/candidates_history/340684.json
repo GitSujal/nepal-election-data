@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340684,
+  "candidate_name": "राम कृष्ण पुजारी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र नागरिक",
+  "candidates_current_position_in_party": "सम्बद्ध छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340684.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "काठमाडौं क्षेत्र नं ३ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका पुजारीले जम्मा ७ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा मनोनयन",
+      "date": "२०७९-०६-२३",
+      "details": "काठमाडौं क्षेत्र नं ३ बाट स्वतन्त्र उम्मेदवारको रूपमा आधिकारिक रूपमा निर्वाचन आयोगमा मनोनयन दर्ता।",
+      "link_to_source": "https://ekantipur.com/news/2026/02/06/who-is-heavyweight-candidate-in-kathmandu-34-45.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राम कृष्ण पुजारी काठमाडौं क्षेत्र नं ३ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारका रूपमा प्रतिस्पर्धा गरेका व्यक्ति हुन्। उनी राजनीतिमा कुनै ठूलो दलको पृष्ठभूमि बिना नै नागरिक स्तरबाट उम्मेदवारी दिने साहसी व्यक्ति हुन्। निर्वाचनमा उनले मात्र ७ मत प्राप्त गरेका थिए, जसले उनको राजनीतिक प्रभाव अत्यन्तै सीमित रहेको देखाउँछ। उनका बारेमा कुनै पनि भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनलाई एक स्वच्छ छविको सामान्य नागरिक उम्मेदवारका रूपमा चिनिन्छ। उनको मुख्य कमजोरी भनेको संगठन र बलियो चुनावी एजेन्डाको अभाव देखिन्छ।",
+  "overall_approval_rating": 35
+}

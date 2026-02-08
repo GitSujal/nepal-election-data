@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339972,
+  "candidate_name": "किरन थापा",
+  "candidate_party": "मितेरी पार्टी नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Election_Commission_of_Nepal_Logo.svg/1024px-Election_Commission_of_Nepal_Logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339972.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "निर्वाचन क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "मितेरी पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ सालको प्रतिनिधि सभा निर्वाचनका लागि कञ्चनपुर निर्वाचन क्षेत्र नं २ बाट मितेरी पार्टी नेपालको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "कञ्चनपुर क्षेत्र नं २ मा भएको निर्वाचनमा नेपाली कांग्रेसका एनपी साउदसँग पराजित, अत्यन्तै न्यून मत प्राप्त।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kanchanpur_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "किरन थापा कञ्चनपुर निर्वाचन क्षेत्र नम्बर २ का एक स्थानीय राजनीतिक व्यक्तित्व हुन्। उनले २०७९ को आम निर्वाचनमा मितेरी पार्टी नेपाल जस्तो सानो र वैकल्पिक राजनीतिक दलको प्रतिनिधित्व गर्दै प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। उनी मुख्यधारका ठूला दलहरूको प्रभाव रहेको कञ्चनपुरमा एक वैकल्पिक शक्तिको रूपमा प्रस्तुत हुन खोजे पनि चुनावी नतिजाले उनको प्रभाव अत्यन्तै कमजोर रहेको देखायो। उनको राजनीतिक इतिहासमा कुनै ठूला पद वा जिम्मेवारी सम्हालेको रेकर्ड छैन। अहिलेसम्म उनको नाममा कुनै ठूला भ्रष्टाचार वा कानुनी स्क्यान्डलहरू सार्वजनिक भएका छैनन्। यद्यपि, चुनावी मैदानमा उनको न्यून मतले उनलाई स्थानीय स्तरमा पनि स्थापित हुन कठिन भइरहेको संकेत गर्दछ।",
+  "overall_approval_rating": 15
+}

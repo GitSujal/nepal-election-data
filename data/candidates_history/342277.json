@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342277,
+  "candidate_name": "शहिद अंसारी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342277.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारका रूपमा निर्वाचनमा सहभागी भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateWinnerDetails.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन परिणाम र जनमत",
+      "date": "२०७९-०८-०८",
+      "details": "उक्त निर्वाचनमा उनले जम्मा ११३ मत प्राप्त गरे र मुख्य प्रतिस्पर्धी राज कुमार गुप्ता र सुरेन्द्र प्रसाद चौधरीभन्दा निकै पछि रहे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-parsa?lng=ne",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शहिद अंसारी पर्सा जिल्लाका एक स्थानीय राजनीतिक व्यक्तित्व हुन् जसले २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारी दिएका थिए। पर्सा क्षेत्र नम्बर ३ बाट चुनाव लडेका उनले जनमत बटुल्न भने खासै सफल देखिएनन्। उनले प्राप्त गरेको ११३ मतले उनको चुनावी क्षेत्रमा पकड निकै कमजोर रहेको पुष्टि गर्दछ। उनी कुनै ठूलो राजनीतिक दलसँग आबद्ध नभएको र व्यक्तिगत तवरमा निर्वाचन लडेको हुँदा संगठनात्मक शक्तिको अभाव देखिन्छ। अहिलेसम्म उनको कुनै ठूलो विवाद वा विशेष राजनीतिक उपलब्धिको रेकर्ड भेटिएको छैन, जसले गर्दा उनी एक सामान्य स्वतन्त्र उम्मेदवारका रूपमा मात्र सीमित रहेका छन्।",
+  "overall_approval_rating": 20
+}

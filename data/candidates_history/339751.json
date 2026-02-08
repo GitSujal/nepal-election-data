@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339751,
+  "candidate_name": "धनन्जय रेग्मी",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "पूर्व कार्यकारी प्रमुख, नेपाल पर्यटन बोर्ड",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339751.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "स्याङ्जा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "N/A",
+      "party": "N/A"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०८२-०४-०२",
+      "details": "नेपाल पर्यटन बोर्डका पूर्व कार्यकारी प्रमुख रेग्मी रास्वपा सभापति रवि लामिछानेको उपस्थितिमा पार्टीमा प्रवेश गरेका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEflwVtLkXjU1vSoowBZKdlDuLPcQtTCyi9nPUs5h2qsPuV5zIRhL4eq3cEYylCi1BEpzksDyFm3J-LQrgiTiit-obI97NUF8DT4EI64v5yRT0PshynQ0mLYxpHyVvE8eKFl668FcXfFwGjSniq1c0LvRLb3betO_JbWhlaDgRYxnEJCJ5p4HxI2_GW3UzzerG8tTbK0tKaQdSjmwSiHVBW6QiIX2ZKeXBCSBMc7ng=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल पर्यटन बोर्डको कार्यकाल समाप्त",
+      "date": "२०८०-१०-१४",
+      "details": "चार वर्षे कार्यकाल पूरा गरी रेग्मीले नेपाल पर्यटन बोर्डको कार्यकारी प्रमुख (CEO) पदबाट अवकाश पाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxdPtH6oKWbdeP4ymimb29ivH-M9KWgPCNu8Nc1ltBaJh759pLRUz-8zImK_8Jj6KZi--By8ylyRzjjWFnAYbz2cQ0oNYChnmW3HO0vMLQOAPK8gjGt9sfmtETpwj6HWmnz6GU3EQPCbq-4TRZ9N1mQZlP0NCsv1M1So9rKupUK_beUfmiNNnEvsIvjXZ9__Rx3Dj7zLjLF0C3ePg7hdekoWU=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "छानबिन समितिद्वारा दोषी ठहर",
+      "date": "२०७८-१०-१८",
+      "details": "बोर्डले गठन गरेको छानबिन समितिले रेग्मीलाई आर्थिक अनियमितता र पदीय मर्यादा विपरीत कार्य गरेको आरोपमा दोषी देखाएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo21cj6KUk-htREjrqsyDMVLkeMm0JZ9kw2v8ZMtubfNt6QLe_3GQnDjvG-r6GXS14ATJcOLTr9YX0L2beeED5anloLDxG_eUTMEdLZ2toAQxAhRz6NWrlUD0zn_kDkI-8PjTYOTDmH2e4_8K8bN5q7JwGpPxVRLULB5aNKPENzKnWKIXEcFA=",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सर्वोच्च अदालतको अल्पकालीन आदेश",
+      "date": "२०७८-०९-१४",
+      "details": "पर्यटन मन्त्रालयले गरेको निलम्बन विरुद्ध रेग्मीले दिएको रिटमा सर्वोच्चले निलम्बन कार्यान्वयन नगर्न अल्पकालीन आदेश जारी गरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3jK4PY8VSfAbzi8L1H4NnC3Ush_FUrl1R7s8h0fqo_hOzkzQHxo2in0zI-ZAv3DhI1_JO7-4Th6AohWhmxQpCJEEGYMkAm425yC7deZ16T_IgZ3qbeBpRIM0sV8LX8kf18acqNTvD3g==",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मन्त्रालयद्वारा निलम्बन",
+      "date": "२०७८-०९-०२",
+      "details": "विमानस्थलमा भन्सार कर्मचारीमाथि हातपात गरेको र पदीय आचरण विपरीत काम गरेको भन्दै पर्यटन मन्त्रालयले रेग्मीलाई निलम्बन गरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo21cj6KUk-htREjrqsyDMVLkeMm0JZ9kw2v8ZMtubfNt6QLe_3GQnDjvG-r6GXS14ATJcOLTr9YX0L2beeED5anloLDxG_eUTMEdLZ2toAQxAhRz6NWrlUD0zn_kDkI-8PjTYOTDmH2e4_8K8bN5q7JwGpPxVRLULB5aNKPENzKnWKIXEcFA=",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "त्रिभुवन विमानस्थलमा हातपात र जरिवाना",
+      "date": "२०७८-०७-२२",
+      "details": "लन्डनबाट फर्किने क्रममा रक्सीको विषयलाई लिएर भन्सार कर्मचारीमाथि अभद्र व्यवहार गरेको भन्दै ५,००० जरिवाना गरिएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWpnSOhsKVw46JF-iF7haR5XAVyj1TzLSuk5xnz6KKt9XwmXAmDaqDumH7KT-uAsdrcsaRxZpCwmIuji5M_pvwUJc1ZM0_Cu2FNb13CKwkQqkjd2EWU5COPjbfs6kNnEKmV2iEynwByKrSPinCosivdeG6fpndLsn-qzfEb00qKq0ZERiv4EJlpw0=",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल पर्यटन बोर्डको कार्यकारी प्रमुखमा नियुक्ति",
+      "date": "२०७६-१०-१६",
+      "details": "खुला प्रतिस्पर्धाबाट डा. धनन्जय रेग्मीलाई चार वर्षका लागि नेपाल पर्यटन बोर्डको कार्यकारी प्रमुखमा नियुक्त गरिएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGONDt_PoHYpHC2oqZiuNcZaggOweJvXDD7AJNhhl7M9iEgw4MDJdmOKRiLfZgy5dRxM1sZQPI0vDn-RzxiljNWbvg1CwAgvD1-EYNw_42x_nCQXXIPZSsb0-IVWMtxB2yN4HwwJ1JOsgyfKN5_eK88x_tXE4qvFwphO33hW7xfj-gu7CN-lHbBCbOPtQfgu27M",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सुन तस्करी प्रकरणमा जरिवाना",
+      "date": "२०७४-०९-०७",
+      "details": "सन् २०१७ मा कतारबाट आउँदा ३० ग्राम सुन भन्सार छली ल्याएको अभियोगमा उनी पक्राउ परेका र १ लाख ४० हजार जरिवाना तिरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3jK4PY8VSfAbzi8L1H4NnC3Ush_FUrl1R7s8h0fqo_hOzkzQHxo2in0zI-ZAv3DhI1_JO7-4Th6AohWhmxQpCJEEGYMkAm425yC7deZ16T_IgZ3qbeBpRIM0sV8LX8kf18acqNTvD3g==",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जापानको होक्काइडो विश्वविद्यालयबाट विद्यावारिधि",
+      "date": "२०६३-०१-०१",
+      "details": "रेग्मीले वातावरणीय पृथ्वी विज्ञानमा जापानबाट विद्यावारिधि (PhD) हासिल गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZxyVtNAsrscK9akK5o-xoq6wdoSLIzIEGHc9ERXV9F9wguzHFK0LKwvndgLvM3W22RdoXJcucJUYXNL3oYnJ3lGEV3S8GZ7L1bVrmXwaOhnkQIkTWvdc1i5PZFtJy9sYEk8bogaPASQ==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. धनन्जय रेग्मी एक दक्ष वातावरणविद् र भूगर्भविद् भए तापनि उनको राजनीतिक र प्रशासनिक छवि विवादमुक्त रहन सकेन। नेपाल पर्यटन बोर्डको कार्यकारी प्रमुख हुँदा उनले गरेको कामभन्दा पनि विमानस्थलमा कर्मचारीमाथि गरेको हातपात र सुन तस्करीको पुरानो मुद्दाले उनको साख गिराएको देखिन्छ। स्याङ्जा क्षेत्र नं. २ का स्थायी बासिन्दा रहेका रेग्मी २०७४ मा साझा पार्टीबाट निर्वाचन लड्दा निकै कम मत पाएका थिए। २०७९ को निर्वाचनमा उनी सरकारी पदमा रहेका कारण सहभागी भएनन्, तर हालै राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेर आफ्नो दोस्रो राजनीतिक पारी सुरु गरेका छन्। उनको बौद्धिक व्यक्तित्व र अनुभव रास्वपाका लागि अवसर भए तापनि पुराना काण्डहरूले चुनावी मैदानमा उनलाई नैतिक चुनौती दिने निश्चित छ।",
+  "overall_approval_rating": 38
+}

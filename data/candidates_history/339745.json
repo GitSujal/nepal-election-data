@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339745,
+  "candidate_name": "बल बहादुर ओली",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hammer_and_sickle_red_on_transparent.svg/1024px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "जिल्ला नेता, दाङ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339745.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "दाङ क्षेत्र नं १ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका ओलीले मात्र १०९ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राजनीतिक प्रतिबन्ध र भूमिगत जीवन",
+      "date": "२०७५-१२-२८",
+      "details": "सरकारले विप्लव नेतृत्वको पार्टीमाथि प्रतिबन्ध लगाएको समयमा उनी दाङमा भूमिगत भई सांगठनिक काममा सक्रिय थिए।",
+      "link_to_source": "https://ekantipur.com/news/2019/03/12/155240212739345719.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी विभाजन र विप्लव समूहमा आबद्धता",
+      "date": "२०७१-०८-०८",
+      "details": "माओवादी पार्टीमा आएको वैचारिक विचलनको कारण देखाउँदै उनी विप्लव नेतृत्वको नेपाल कम्युनिस्ट पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/18972",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागिता",
+      "date": "२०५२-११-०१",
+      "details": "ओलीले २०५२ सालमा सुरु भएको माओवादी सशस्त्र विद्रोहमा दाङ जिल्लाबाट पूर्णकालीन कार्यकर्ताका रूपमा सहभागिता जनाएका थिए।",
+      "link_to_source": "https://gorkhapatraonline.com/news/1000",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बल बहादुर ओली दाङ जिल्लाका स्थानीय कम्युनिष्ट नेता हुन् जसले माओवादी जनयुद्धको समयदेखि नै सक्रिय राजनीति गर्दै आएका छन्। उनी मूलधारको माओवादी केन्द्रबाट अलग भई नेत्रविक्रम चन्द 'विप्लव' नेतृत्वको समूहमा लागेका थिए। २०७९ को निर्वाचनमा उनले दाङ १ (ख) बाट प्रदेश सभाका लागि प्रतिस्पर्धा गरे पनि निकै कम (१०९) मत प्राप्त गरे, जसले उनको व्यक्तिगत प्रभाव भन्दा पनि सानो दलको सांगठनिक अवस्था कमजोर रहेको पुष्टि गर्छ। उनी कुनै बाहिरी वा 'टुरिष्ट' उम्मेदवार नभई जिल्लामै बसेर राजनीति गर्ने नेता हुन्। उनको राजनीतिक यात्रा निष्ठावान देखिए पनि चुनावी राजनीतिमा उनले खासै प्रभाव जमाउन सकेका छैनन्।",
+  "overall_approval_rating": 42
+}

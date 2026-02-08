@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341817,
+  "candidate_name": "बुध्दी राज तमाङ",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Eye_election_symbol.png/220px-Eye_election_symbol.png",
+  "candidates_current_position": "नेता, प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidates_current_position_in_party": "जिल्ला नेता, चितवन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341817.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम २०७९",
+      "date": "२०७९-०८-०८",
+      "details": "चितवन निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा निर्वाचनमा सहभागी भएका तमाङ पराजित भए। यस क्षेत्रमा राष्ट्रिय प्रजातन्त्र पार्टीका विक्रम पाण्डे विजयी भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341817",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "मंसिर ४ मा सम्पन्न निर्वाचनका लागि प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट चितवन क्षेत्र नम्बर ३ मा उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetailHouse.aspx?id=341817",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रगतिशील लोकतान्त्रिक पार्टीमा आबद्धता",
+      "date": "२०७९-०५-२०",
+      "details": "वामपन्थी विचारधारा बोकेको साना दल प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट राजनीतिक यात्रा अघि बढाउँदै चितवनमा संगठन विस्तारमा सक्रिय।",
+      "link_to_source": "https://kathmandupress.com/news/33560",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बुध्दी राज तमाङ चितवन जिल्लाको क्षेत्र नम्बर ३ बाट राजनीतिमा सक्रिय व्यक्ति हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट उम्मेदवारी दिएका थिए। चितवन-३ जस्तो उच्च प्रोफाइल क्षेत्रमा, जहाँ हेभिवेट उम्मेदवारहरू बीच प्रतिस्पर्धा थियो, उनले आफ्नो वैचारिक उपस्थितिलाई प्राथमिकता दिएका देखिन्छन्। यद्यपि निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न सकेनन्, तर साना दलको तर्फबाट चुनावी प्रतिस्पर्धामा होमिएर उनले आफ्नो राजनीतिक सक्रियता प्रमाणित गरेका छन्। उनको कुनै ठूलो विवाद वा भ्रष्टाचार काण्ड अहिलेसम्म सार्वजनिक भएको छैन, जसले उनलाई एक स्वच्छ छविको स्थानीय नेताका रूपमा स्थापित गरेको छ।",
+  "overall_approval_rating": 42
+}

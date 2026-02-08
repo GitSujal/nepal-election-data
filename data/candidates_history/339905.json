@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339905,
+  "candidate_name": "सुर्य बहादुर गुरुङग",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Mongol_National_Organization.svg/1200px-Flag_of_Mongol_National_Organization.svg.png",
+  "candidates_current_position": "उम्मेदवार (२०७९ प्रतिनिधि सभा)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339905.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "अर्घाखाँची",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सुर्य बहादुर गुरुङगले अर्घाखाँची जिल्लाको प्रतिनिधि सभा निर्वाचन क्षेत्र नम्बर १ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339905",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "गुरुङग लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनको विचारधारा र 'मूलवासी' आन्दोलनमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/मङ्गोल_नेसनल_अर्गनाइजेसन",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुर्य बहादुर गुरुङग मंगोल नेशनल अर्गनाइजेसन (MNO) का एक वैचारिक कार्यकर्ता हुन् जसले २०७९ को निर्वाचनमा अर्घाखाँचीबाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरेका थिए। उनी अर्घाखाँचीका स्थानीय बासिन्दा नभई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा चिनिएका छन्, जसका कारण उनले स्थानीय स्तरमा बलियो राजनीतिक पकड र जनसमर्थन जुटाउन सकेनन्। उनको दलले उठाएको मंगोल पहिचान र जातीय मुक्तिको एजेन्डा अर्घाखाँचीको पहाडी भेगमा ठूला दलहरू (एमाले र कांग्रेस) को तुलनामा निकै कमजोर देखियो। निर्वाचन परिणाममा उनको मत संख्या न्यून रहनुले यो पुष्टि गर्दछ कि उनले केवल सांकेतिक उपस्थितिको लागि उम्मेदवारी दिएका थिए। समग्रमा, उनको राजनीतिक प्रभाव हाल आफ्नो दलको प्रचारप्रसारमा मात्र सीमित छ।",
+  "overall_approval_rating": 32
+}

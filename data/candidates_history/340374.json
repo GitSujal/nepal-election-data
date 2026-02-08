@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340374,
+  "candidate_name": "राम सिं तामाङ",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_of_Nepal.png/120px-Election_Symbol_of_Nepal.png",
+  "candidates_current_position": "सामाजिक अभियन्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340374.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिन्धुपाल्चोक",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "तामाङले सिन्धुपाल्चोक निर्वाचन क्षेत्र नम्बर २ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रत्यक्षतर्फ उम्मेदवारी दिएका थिए। उनी वैकल्पिक राजनीतिक शक्तिको रूपमा चुनावी मैदानमा होमिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हेलम्बु क्षेत्रमा सामाजिक सक्रियता",
+      "date": "२०७९-०१-०१",
+      "details": "राम सिं तामाङ सिन्धुपाल्चोकको हेलम्बु गाउँपालिकाका स्थानीय बासिन्दा हुन् र लामो समयदेखि सामाजिक कार्यमा सक्रिय रहँदै आएका छन्। उनले स्थानीयस्तरमा सामुदायिक विकास र जनचेतनाका कार्यहरूमा नेतृत्वदायी भूमिका निर्वाह गरेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEODbZ4M1yngadVxokQykr5f1vCKz8ygF38H0LuShL36UmWMCGhxQRCb2u6D9h3c0AJ3-whdziuS9yYp4MVQMFYAkFi-1dDDPoNzNWK209iD2XxNLIP457ddEG_fLbV3f09crOlPoQzuhDOwmcaMV3--3SGquL8weu_uZQM",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीको विस्तारमा संलग्नता",
+      "date": "२०८२-१०-२५",
+      "details": "हालैका वर्षहरूमा उज्यालो नेपाल पार्टीलाई नयाँ वैकल्पिक शक्तिको रूपमा स्थापित गर्न उनी संगठन विस्तारमा सक्रिय रहेका छन्। पार्टीमा कुलमान घिसिङको नेतृत्व आएसँगै तामाङ जस्ता स्थानीय नेताहरूको भूमिका बढेको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGov7xJs2WDjWAojKbkEUobbXFAByO1SmbSWWN0y8KxQ0XTYzuIzdAKcV8wvOh6MSyhZ_8IXA38EuWacFEMPoVudVuttfpKz2V5b9dLJLOcO6RwCXGHgzay8vLkBZ7kSXROwGxiiXO6ltg-sh14oQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राम सिं तामाङ सिन्धुपाल्चोक जिल्लाका एक उदीयमान राजनीतिकर्मी र सामाजिक अभियन्ता हुन्। हेलम्बु क्षेत्रमा उनको सामाजिक पहिचान बलियो भए तापनि राष्ट्रिय राजनीतिमा उनी अझै स्थापित हुन बाँकी छ। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले उज्यालो नेपाल पार्टीबाट चुनावी प्रतिस्पर्धा गरेका थिए, जहाँ उनले ठूला राजनीतिक दलहरूको तुलनामा न्यून मत प्राप्त गरे। उनको राजनीतिक यात्रा मुख्यतया वैकल्पिक राजनीति र सुशासनको एजेन्डामा केन्द्रित देखिन्छ। अहिलेसम्म उनको नाममा कुनै पनि भ्रष्टाचार वा ठूला काण्डहरू सार्वजनिक भएका छैनन्, जसले उनको छविलाई स्वच्छ राखेको छ। यद्यपि, चुनावी परिणामले उनीसँग अझै बलियो संगठनात्मक आधारको अभाव रहेको देखाउँछ।",
+  "overall_approval_rating": 45
+}

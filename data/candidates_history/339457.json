@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339457,
+  "candidate_name": "निलम कुमारी यादव",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_Nepal_Workers_and_Peasants_Party.svg/1200px-Flag_of_the_Nepal_Workers_and_Peasants_Party.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "सप्तरी जिल्ला सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339457.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "निलम कुमारी यादवले नेपाल मजदुर किसान पार्टीको तर्फबाट सप्तरी क्षेत्र नं. १ बाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता गराउनुभएको थियो।",
+      "link_to_source": "https://result.election.gov.np/Candidate_Profile.aspx?id=339457",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "सप्तरी क्षेत्र नं. १ मा भएको निर्वाचनमा उहाँले न्युन मत प्राप्त गर्दै पराजय भोग्नुभयो।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/saptari?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेमकिपाको संगठन विस्तारमा सक्रियता",
+      "date": "२०७८-१०-१५",
+      "details": "सप्तरी जिल्लामा नेपाल मजदुर किसान पार्टीको वैचारिक आधारशिला र संगठन विस्तारका लागि स्थानीय स्तरमा सक्रिय रहँदै आउनुभएको छ।",
+      "link_to_source": "https://nmkp.org.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "निलम कुमारी यादव नेपाल मजदुर किसान पार्टी (नेमकिपा) को तर्फबाट सप्तरी जिल्लामा सक्रिय एक स्थानीय राजनीतिकर्मी हुनुहुन्छ। २०७९ सालको प्रतिनिधिसभा निर्वाचनमा उहाँले सप्तरी क्षेत्र नं. १ बाट उम्मेदवारी दिनुभएको थियो। यद्यपि उक्त निर्वाचनमा उहाँले निकै न्युन मत प्राप्त गर्नुभयो, जसले गर्दा सो क्षेत्रमा नेमकिपाको प्रभाव निकै कमजोर रहेको देखिन्छ। उहाँको राजनीतिक यात्रा मुख्यतः पार्टीको विचारधारा स्थानीय स्तरमा प्रचार गर्नेमा केन्द्रित देखिन्छ। उहाँको नाममा हालसम्म कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्। एक महिला उम्मेदवारका रूपमा मधेशको राजनीतिमा सक्रिय हुनु उहाँको सकारात्मक पक्ष हो, तर चुनावी प्रतिस्पर्धामा भने उहाँको पकड कमजोर रहेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 42
+}

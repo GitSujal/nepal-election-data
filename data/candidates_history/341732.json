@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341732,
+  "candidate_name": "सागर राई",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mongol_National_Organization_Logo.png/220px-Mongol_National_Organization_Logo.png",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341732.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनकुटा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सागर राईले धनकुटा निर्वाचन क्षेत्र नं. १ बाट मंगोल नेशनल अर्गनाइजेसनको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा धनकुटाबाट प्रतिस्पर्धा गर्दा उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "शैक्षिक योग्यता प्राप्ति",
+      "date": "२०७५-०३-१५",
+      "details": "उनले स्नातक तह (Bachelor's Degree) सम्मको शिक्षा पुरा गरेका छन्, जसले उनलाई युवा र शिक्षित उम्मेदवारको रूपमा स्थापित गरेको छ।",
+      "link_to_source": "https://nepsebajar.com/sagar-rai-election-result-dhankuta-election-2082-who-won/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मंगोल अस्तित्व र पहिचानको राजनीति",
+      "date": "२०७२-०५-१०",
+      "details": "उनले लामो समयदेखि मंगोल नेशनल अर्गनाइजेसन मार्फत मूलबासी मंगोलहरूको अधिकार र पहिचानका लागि वकालत गर्दै आएका छन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/मङ्गोल_नेसनल_अर्गनाइजेसन",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सागर राई मंगोल नेशनल अर्गनाइजेसनका एक युवा र शिक्षित अभियन्ता हुन्। २०७९ को निर्वाचनमा उनले धनकुटाबाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरेका थिए, यद्यपि उनको स्थायी बसोबास वा नागरिकता झापा जिल्लाको रहेको देखिन्छ। यसै कारण उनलाई 'टुरिस्ट उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ। धनकुटामा बलियो स्थानीय पकड भएका एमाले र कांग्रेसका दिग्गज उम्मेदवारहरूका बीच उनको चुनावी प्रभाव निकै न्यून देखिएको थियो। मुख्यतया जातीय र पहिचानको मुद्दा बोक्ने उनको दलले धनकुटामा उल्लेख्य मत प्राप्त गर्न सकेन। उनको राजनीतिक यात्रा अझै प्रारम्भिक चरणमा रहेको र स्थानीयस्तरमा संगठन विस्तारको अभाव नै उनको मुख्य कमजोरी देखिएको छ।",
+  "overall_approval_rating": 38
+}

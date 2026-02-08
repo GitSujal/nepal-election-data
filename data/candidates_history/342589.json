@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342589,
+  "candidate_name": "दत्त बुढा",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://election.gov.np/static/media/party_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342589.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "काठमाडौं क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका दत्त बुढा निकै कम मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "काठमाडौं ३ बाट उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट काठमाडौं क्षेत्र नं. ३ मा प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://election.gov.np/np/page/house-of-representatives-2079-results",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दत्त बुढा २०७९ को प्रतिनिधि सभा निर्वाचनमा काठमाडौं क्षेत्र नं. ३ बाट प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट उम्मेदवार बनेका थिए। निर्वाचन आयोगको तथ्याङ्क अनुसार उनलाई 'पर्यटक उम्मेदवार' को श्रेणीमा राखिएको छ, जसले गर्दा स्थानीय मतदाताहरूसँग उनको सम्बन्ध कमजोर देखिएको विश्लेषण गरिन्छ। सानो राजनीतिक दलबाट चुनावी मैदानमा उत्रिएका कारण र ठूला दलहरूको तीव्र प्रतिस्पर्धाका बीच उनले उल्लेख्य जनसमर्थन जुटाउन सकेनन्। उनको राजनीतिक पृष्ठभूमि र सार्वजनिक जीवनका विषयमा धेरै जानकारी उपलब्ध छैन, जसले उनको न्यून राजनीतिक प्रभावलाई दर्शाउँछ। हालसम्म उनको नाममा कुनै पनि भ्रष्टाचार वा ठूला कानुनी विवादहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 35
+}

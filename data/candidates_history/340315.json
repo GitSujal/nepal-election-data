@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340315,
+  "candidate_name": "बसन्त राज कुँवर",
+  "candidate_party": "जय मातृभूमि पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Nepal.svg/1024px-Flag_of_Nepal.svg.png",
+  "candidates_current_position": "सामाजिक अभियन्ता तथा पूर्व प्रहरी वरिष्ठ उपरीक्षक",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340315.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "काठमाडौं ५",
+      "result": "पराजित",
+      "party": "जय मातृभूमि पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नम्बर ५ बाट प्रतिनिधि सभा सदस्यका लागि जय मातृभूमि पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, जसमा उनले ३१ मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340315",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लागुऔषध विरुद्धको अभियान 'नार्कोनन नेपाल' को स्थापना",
+      "date": "२०६०-१०-१५",
+      "details": "नेपालमा लागुऔषध दुर्व्यसनीहरूको पुन:स्थापना र सचेतनाका लागि नार्कोनन नेपालको स्थापना गरी सामाजिक कार्यमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://www.narconon.org/blog/narconon-rehab-center-in-nepal.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल प्रहरीको सेवाबाट अवकाश",
+      "date": "२०६८-०३-१२",
+      "details": "नेपाल प्रहरीमा करिब २० वर्ष सेवा गरी प्रहरी वरिष्ठ उपरीक्षक (SSP) को पदबाट अवकाश प्राप्त गरेका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=1xN5I9P_pY8",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जय मातृभूमि पार्टीमा आबद्धता र राजनीतिक यात्रा",
+      "date": "२०७९-०६-२३",
+      "details": "देशभक्ति र मातृभूमि संरक्षणको नारासहित जय मातृभूमि पार्टीमा आबद्ध भएर सक्रिय राजनीतिमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक क्षेत्रमा सक्रियता र पुरस्कार",
+      "date": "२०७५-०५-२०",
+      "details": "विभिन्न सामाजिक संघसंस्थाहरू मार्फत लागुऔषध नियन्त्रणमा पुर्‍याएको योगदानका लागि सम्मानित भएका छन्।",
+      "link_to_source": "https://www.facebook.com/basantanarconon",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बसन्त राज कुँवर २०७९ को प्रतिनिधि सभा निर्वाचनमा काठमाडौं क्षेत्र नम्बर ५ बाट जय मातृभूमि पार्टीको उम्मेदवारका रूपमा चुनावी मैदानमा होमिएका थिए। पूर्व प्रहरी वरिष्ठ उपरीक्षक (SSP) र नार्कोनन नेपालका संस्थापकका रूपमा उनको सामाजिक छवि र पहिचान राम्रो भए तापनि राजनीतिक रूपमा उनले अपेक्षित सफलता पाउन सकेनन्। उनले उक्त निर्वाचनमा केवल ३१ मत मात्र प्राप्त गरे, जुन काठमाडौं जस्तो राजनीतिक रूपमा चेतनशील क्षेत्रमा अत्यन्तै न्यून हो। उनको राजनीतिक एजेन्डा मुख्यतया 'लागुऔषध मुक्त समाज' र 'राष्ट्रियता' मा केन्द्रित रहेको पाइन्छ। मुख्यधारका ठूला दलहरूको तीव्र प्रतिस्पर्धाका बीच सानो दलबाट उम्मेदवार हुनु उनको हारको प्रमुख कारण मानिन्छ। उनी चुनावी राजनीतिमा भन्दा सामाजिक अभियन्ताको रूपमा बढी प्रभावशाली देखिएका छन्।",
+  "overall_approval_rating": 42
+}

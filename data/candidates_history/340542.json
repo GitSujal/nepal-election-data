@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340542,
+  "candidate_name": "चुडामणी वली",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hammer_and_sickle_red_on_transparent.svg/1024px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "पूर्व जनमुक्ति सेना कमाण्डर",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340542.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "गाउँपालिका अध्यक्ष",
+      "district": "रोल्पा",
+      "constituency": "गंगादेव गाउँपालिका",
+      "result": "पराजित",
+      "party": "स्वतन्त्र (विप्लव समूह)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रोल्पा",
+      "constituency": "निर्वाचन क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा रोल्पाबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका वली माओवादी केन्द्रका वर्षमान पुनसँग पराजित भए।",
+      "link_to_source": "https://jaljalapress.com/news-details/3784/2026-01-20",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचनमा पराजय",
+      "date": "२०७९-०१-३०",
+      "details": "रोल्पाको गंगादेव गाउँपालिका अध्यक्षमा उम्मेदवारी दिएका वली चौथो स्थानमा रहँदै पराजित भए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/05/1127602",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "१२ वर्षको कारागार जीवन",
+      "date": "२०७८-०१-०१",
+      "details": "राजनीतिक आन्दोलनका क्रममा वलीले विभिन्न समयमा गरी कुल १२ वर्ष जेल र हिरासतमा बिताएका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/04/166753068691522291.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कर्मचारीलाई चेतावनी",
+      "date": "२०७९-०१-१५",
+      "details": "निर्वाचन प्रचारका क्रममा कर्मचारीहरूले आफ्नो निर्देशन नमाने जागिर खाइदिने भन्दै विवादास्पद बयान दिएका थिए।",
+      "link_to_source": "https://muglanikhabar.com/2022/04/28/22340/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागिता",
+      "date": "२०५२-११-०१",
+      "details": "जनयुद्धको सुरुवातदेखि नै सहभागी वलीले जनमुक्ति सेनाको विभिन्न कमाण्डिङ भूमिका निर्वाह गरेका थिए र युद्धमा आफ्नो भाइ समेत गुमाएका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/04/166753068691522291.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "चुडामणी वली 'आदर्श' नेपाल कम्युनिस्ट पार्टी (विप्लव समूह) का एक कट्टरपन्थी र वैचारिक नेता हुन्। रोल्पालाई आधार क्षेत्र बनाएर राजनीति गरिरहेका उनी माओवादी आन्दोलनका पुराना कमाण्डर हुन्। २०७९ को आम निर्वाचनमा उनले आफ्नै पूर्व सहकर्मी वर्षमान पुनलाई रोल्पामा चुनौती दिएका थिए, जसले पार्टी विभाजन पछिको तिक्तता र शक्ति संघर्षलाई प्रस्ट पार्छ। करिब १२ वर्षको जेल जीवन र युद्धमा परिवारको सदस्य गुमाएको पृष्ठभूमि भए तापनि उनी चुनावी प्रतिस्पर्धामा भने कमजोर देखिन्छन्। सोही वर्ष भएको स्थानीय र संघीय दुवै निर्वाचनमा उनले लज्जास्पद हार बेहोर्नु पर्यो, जसले उनको लोकप्रियता भन्दा पनि सांगठनिक पकडमा आएको ह्रासलाई संकेत गर्दछ।",
+  "overall_approval_rating": 42
+}

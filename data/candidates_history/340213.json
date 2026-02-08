@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340213,
+  "candidate_name": "विमल गदाल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "पूर्वाधार तथा विकास विज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा पूर्वाधार विभाग सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340213.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "झापा-२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "इलाम-२ उपनिर्वाचनको आकांक्षी उम्मेदवार",
+      "date": "२०८०-१२-१५",
+      "details": "इलाम क्षेत्र नं २ को उपनिर्वाचनका लागि राष्ट्रिय स्वतन्त्र पार्टीबाट उम्मेदवार बन्न ६ जनाको प्रारम्भिक सूचीमा समावेश, तर पछि मिलन लिम्बु छानिए।",
+      "link_to_source": "https://www.setopati.com/politics/326162",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "झापा क्षेत्र नं २ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका गदालले १३,०५३ मत प्राप्त गरी तेस्रो स्थान हासिल गरे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-jhapa?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको धार समात्दै उनी राष्ट्रिय स्वतन्त्र पार्टीको स्थापना कालतिरै सक्रिय भूमिकामा आवद्ध भएका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2023/11/1401314",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७४-०४-११",
+      "details": "साझा पार्टी र विवेकशील नेपाली दलबीचको एकता पछि उनी विवेकशील साझा पार्टीमा विकास र पूर्वाधार विज्ञको रूपमा सक्रिय थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Viveksheel_Sajha_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पूर्वाधार र विपद् व्यवस्थापनमा विज्ञता",
+      "date": "२०५६-०१-०१",
+      "details": "विगत २० वर्षदेखि राष्ट्रिय तथा अन्तर्राष्ट्रिय संघसंस्थाहरूमा पूर्वाधार विज्ञ र मानवीय सहायता व्यवस्थापनको क्षेत्रमा कार्यरत।",
+      "link_to_source": "https://bold.pro/my/bimal-gadal",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विमल गदाल राष्ट्रिय स्वतन्त्र पार्टीका एक बौद्धिक र पूर्वाधार विज्ञ नेता हुन्। २०७९ को आम निर्वाचनमा झापा-२ बाट सम्मानजनक मत पाए पनि उनी पराजित भएका थिए। पछिल्लो समय उनी इलामको राजनीतिमा सक्रिय हुन खोजेका छन्, जसलाई स्थानीय तहमा 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ। झापाबाट इलाममा आफ्नो राजनीतिक आधार सार्नुलाई कतिपयले अवसरवादी कदमको रूपमा आलोचना गरेका छन्। यद्यपि, उनको २ दशक लामो विकास र विपद् व्यवस्थापनको अनुभवले उनलाई नीतिगत तहमा सक्षम उम्मेदवारको रूपमा स्थापित गरेको छ। इलाममा उनको पकड बनाउन उनले 'पर्यटक' छवि मेटाएर स्थानीय एजेन्डाहरूमा बढी केन्द्रित हुनुपर्ने देखिन्छ।",
+  "overall_approval_rating": 62
+}

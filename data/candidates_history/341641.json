@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341641,
+  "candidate_name": "शेख सगिर",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rastriya_Swatantra_Party_Logo.png/600px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी तथा व्यवसायी",
+  "candidates_current_position_in_party": "साधारण सदस्य (प्रतिनिधि सभा उम्मेदवार)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341641.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रचारमा प्रयोग भएको गाडीबाट दुर्घटना र मृत्यु",
+      "date": "२०८२-१०-२३",
+      "details": "उनको चुनावी प्रचारमा प्रयोग भएको बा १५ च ४२४४ नम्बरको कारको ठक्करबाट रौतहटको ईशनाथ नगरपालिकामा ४ वर्षीया बालिकाको मृत्यु भयो। सगिरले गाडी आफ्नो भएको स्वीकार गरे पनि दुर्घटनाका बेला आफू भित्र नरहेको स्पष्टीकरण दिएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2026/02/1261353",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट रौतहट क्षेत्र नं. २ मा उम्मेदवारी दिएका सगिरले सोचे अनुसारको मत प्राप्त गर्न सकेनन् र पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateWinnerInConstituency.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-१५",
+      "details": "बैकल्पिक राजनीतिको धार समात्दै उनी विवेकशील साझा पार्टी छोडेर रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://setopati.com/politics/287412",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "साझा पार्टीको उम्मेदवारको रूपमा रौतहट २ बाट निर्वाचन लडेका सगिरले पुरानो दलका नेताहरूसँगको प्रतिस्पर्धामा पराजय भोगेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/2074/pratinidhi-sabha/district/Rautahat?pradesh=2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "शेख सगिर रौतहट जिल्लाको राजनीतिमा वैकल्पिक शक्तिको खोजीमा रहेका पात्र हुन्। उनी २०७४ मा साझा पार्टी र २०७९ मा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट चुनावी मैदानमा उत्रिए पनि जित हासिल गर्न सकेका छैनन्। उनको राजनीतिक छवि तुलनात्मक रूपमा सफा मानिए पनि २०८२ मा उनको चुनावी अभियानमा प्रयोग भएको सवारी साधनले एक बालिकालाई किचेर मृत्यु भएको घटनाले उनको सार्वजनिक छविमा ठूलो धक्का पुर्‍याएको छ। मधेसको जातीय र परम्परागत राजनीतिक समीकरणका बीच नयाँ पार्टीको जगमा स्थापित हुन उनलाई कडा संघर्ष गर्नुपर्ने देखिन्छ। यद्यपि, उनी आफ्नो क्षेत्रमा निरन्तर सक्रिय रहँदै आएका व्यवसायी र सामाजिक अभियन्ताको रूपमा परिचित छन्।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,95 @@
+{
+  "candidate_id": 340254,
+  "candidate_name": "राजकाजी गुरुङ 'करण'",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hammer_and_sickle_red_on_transparent.svg/1024px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "सचिव, गण्डकी प्रदेश समिति",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा गण्डकी प्रदेश सचिव",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340254.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "२",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्वत",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "एकीकृत नेपाल कम्युनिष्ट पार्टी (माओवादी)"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "२ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कास्की",
+      "constituency": "१",
+      "result": "N/A",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "कास्की निर्वाचन क्षेत्र १ मा उम्मेदवारी",
+      "date": "२०८०-१०-१९",
+      "details": "राजकाजी गुरुङ 'करण' नेपाली कम्युनिष्ट पार्टीको तर्फबाट कास्की निर्वाचन क्षेत्र नम्बर १ बाट चुनावी मैदानमा उत्रिएका छन्। उनले आदिवासी जनजातिको मत तान्ने रणनीतिका साथ प्रचारप्रसार गरिरहेका छन्।",
+      "link_to_source": "https://gorkhapatraonline.com/news/94524",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "गण्डकी प्रदेश सचिवमा नियुक्ति",
+      "date": "२०७८-०८-२५",
+      "details": "नेकपा (माओवादी केन्द्र) को प्रदेश सम्मेलनबाट उनलाई गण्डकी प्रदेशको सचिवको जिम्मेवारी सुम्पिएको थियो, जसले उनको सांगठनिक पकड बलियो रहेको पुष्टि गर्दछ।",
+      "link_to_source": "https://sunrisekhabar.com/news/46824",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "कास्की २ (ख) बाट प्रदेश सभाका लागि वाम गठबन्धनको साझा उम्मेदवार बनेका गुरुङ नेपाली कांग्रेसका विन्दु कुमार थापासँग पराजित भए। उनले ९,९२४ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kaski_2_(constituency)",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०७० मा पराजय",
+      "date": "२०७०-०८-०४",
+      "details": "पर्वत निर्वाचन क्षेत्र नम्बर २ बाट संविधान सभा सदस्यका लागि प्रतिस्पर्धा गरे पनि उनी पराजित हुन पुगे।",
+      "link_to_source": "https://gorkhapatraonline.com/news/94524",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "संविधान सभा निर्वाचन २०६४ मा विजय",
+      "date": "२०६४-१२-२८",
+      "details": "कास्की क्षेत्र नम्बर २ बाट नेकपा (माओवादी) को तर्फबाट १४,८३२ मत ल्याएर उनी संविधान सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Kaski_2_(constituency)",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वाईसीएल नेतृत्व र राजनीतिक उदय",
+      "date": "२०६३-०१-०१",
+      "details": "तत्कालीन जनयुद्धपछि योङ कम्युनिष्ट लिग (वाईसीएल) को केन्द्रीय नेतृत्वमा रहेर उनले युवा परिचालनमा महत्वपूर्ण भूमिका खेलेका थिए।",
+      "link_to_source": "https://radiogurkhali.com/news-details/1815/2019-12-02",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "राजकाजी गुरुङ 'करण' कास्कीको राजनीतिमा एक स्थापित कम्युनिष्ट नेता हुन्। २०६४ सालको संविधान सभा निर्वाचनमा कास्की-२ बाट विजयी भएर राष्ट्रिय राजनीतिमा उदाएका उनले पछिल्ला निर्वाचनहरूमा भने सफलता पाउन सकेका छैनन्। उनले २०७० मा पर्वत र २०७४ मा कास्की २(ख) बाट हार बेहोरेका छन्। हाल उनी नेकपा (माओवादी केन्द्र) को गण्डकी प्रदेश सचिवको रूपमा सांगठनिक रूपमा सक्रिय छन्। उनी विशेष गरी युवाहरू माझ लोकप्रिय मानिन्छन्, तर बारम्बार निर्वाचन क्षेत्र परिवर्तन गर्ने र पछिल्ला चुनावमा पराजित हुने क्रमले उनको लोकप्रियतामा केही ह्रास आएको देखिन्छ। यद्यपि, जनजातीय मत र वामपन्थी आधार क्षेत्रमा उनको अझै पनि बलियो प्रभाव रहेको छ।",
+  "overall_approval_rating": 55
+}

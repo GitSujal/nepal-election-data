@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341329,
+  "candidate_name": "माधव बहादुर थापा",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341329.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "माधव बहादुर थापाले २०७९ को प्रतिनिधि सभा निर्वाचनमा पाल्पा क्षेत्र नं. २ बाट राष्ट्रिय स्वतन्त्र पार्टीको उम्मेदवारका रूपमा प्रतिस्पर्धा गरेका थिए। उनी यस निर्वाचनमा पराजित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdlaz8-Ay0Ff_XzgDUCMQQvUyNxP2KYeuPI3XxQsiuFw9Yg5Y0rglcIE6DoWfkXFuhc4DI0jA_W_4l1xCsBNNpYw6FhiPkjmrdWAGnavZlODHEhMlPD2tv-zQWRujL4n74uk6smPHAQaJoA-Qww==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको धारलाई आत्मसात गर्दै थापा राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भएका थिए। पार्टीको संगठन निर्माण र वैचारिक अभियानमा उनी सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs6QPP3zuyjOHVUrOPFCpmpkv0oXmW4dUUeKt63jkTS2SUFyd3Wy3gOxwAdvV3QrxIF5sCBohuCPl2f2N0brh3diHEjm-V6VotJmMw_HS4BLa57eohbA9bh-gHZl_rOha5hXTYaOTQv5h48cJ-ntvKc-iEtJ_BQgFMvgrP9CmSRfd3stmXCWW4lsUDSkoV9Rj8xCgNGqCX4WfqRm8NjUOxdawWXHSr0qwb7126vU4_lNtsTl7jU7_S0ZNt5kBeeyifhb-XjqnUg2utionNksc1ToDF4NapcrD_vO-WqBROf0FC8NfB4iMmO9PCTwrXaqrzu1GV9EcoDQ3VaJFsq3FIxOdgwiIxYCgAZe5UzmM4kW3RfmGtO1zkJJqpFS_yFtfTZJY4BW-dP2yGeHjLZdV9CrxRbw==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "चिकित्सा शिक्षा (MBBS) प्राप्ति",
+      "date": "२०६५-०१-०१",
+      "details": "थापाले चिकित्सा शास्त्रमा स्नातक (MBBS) तहको अध्ययन पूरा गरेका छन्। उनले आफ्नो स्वास्थ्य क्षेत्रको ज्ञानलाई सामाजिक सेवामा उपयोग गर्ने उद्देश्य राखेका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdlaz8-Ay0Ff_XzgDUCMQQvUyNxP2KYeuPI3XxQsiuFw9Yg5Y0rglcIE6DoWfkXFuhc4DI0jA_W_4l1xCsBNNpYw6FhiPkjmrdWAGnavZlODHEhMlPD2tv-zQWRujL4n74uk6smPHAQaJoA-Qww==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीसँगको आबद्धता",
+      "date": "२०७४-०४-११",
+      "details": "रास्वपामा प्रवेश गर्नुअघि थापा वैकल्पिक राजनीतिका लागि साझा पार्टी र विवेकशील साझा पार्टीमा आबद्ध भई सक्रिय रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0sS8ccvcZiN8SRk4MEQ2h3WCVM2fmYB3Qn1Vx9mwjpDl0UosvvYzeIMiDLEloPWHOhv-k3hnES8OG3R8OHzNYuOI01lMBv6HaDssWYCyHejm_w5YLYCbXzux0ovI1K4puu02RWvn4Snd4hjzB72w=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "रुपन्देहीबाट नागरिकता जारी",
+      "date": "२०५५-०१-०१",
+      "details": "उनको नागरिकता रुपन्देही जिल्लाबाट जारी भएको हो, जसका कारण उनलाई पाल्पामा 'पर्यटक उम्मेदवार'को रूपमा टिप्पणी गर्ने गरिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdlaz8-Ay0Ff_XzgDUCMQQvUyNxP2KYeuPI3XxQsiuFw9Yg5Y0rglcIE6DoWfkXFuhc4DI0jA_W_4l1xCsBNNpYw6FhiPkjmrdWAGnavZlODHEhMlPD2tv-zQWRujL4n74uk6smPHAQaJoA-Qww==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "माधव बहादुर थापा एक शिक्षित र व्यावसायिक पृष्ठभूमि भएका राजनीतिज्ञ हुन्। उनले चिकित्सा शास्त्र (MBBS) अध्ययन गरेका छन् र स्वास्थ्य क्षेत्रको सुधारलाई आफ्नो मुख्य एजेन्डा बनाएका छन्। वैकल्पिक राजनीतिको माध्यमबाट समाज परिवर्तन गर्ने उद्देश्यले उनले सुरुमा साझा पार्टी र पछि राष्ट्रिय स्वतन्त्र पार्टी रोजेका हुन्। २०७९ को निर्वाचनमा पाल्पा क्षेत्र नं. २ बाट उम्मेदवार बन्दा उनले 'पर्यटक उम्मेदवार'को ट्याग सामना गर्नु परेको थियो, किनभने उनको नागरिकता रुपन्देहीको रहेको छ। उनले स्थानीय स्तरमा उल्लेख्य मत प्राप्त गर्न नसके पनि स्वच्छ छवि भएका उम्मेदवारको रूपमा चिनिन्छन्। उनको राजनीतिक यात्रा अझै पनि सुरुवाती चरणमा छ र उनले स्थानीय स्तरमा आफ्नो पकड बलियो बनाउन बाँकी देखिन्छ।",
+  "overall_approval_rating": 55
+}

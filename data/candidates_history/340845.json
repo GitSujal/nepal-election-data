@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340845,
+  "candidate_name": "दिनेश प्रसाद साह",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Nepal_Workers_and_Peasants_Party.svg/1200px-Flag_of_the_Nepal_Workers_and_Peasants_Party.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340845.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट क्षेत्र नं. १ बाट नेपाल मजदुर किसान पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका, जहाँ उनले निकै कम मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340845",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको सांगठनिक विस्तारमा संलग्नता",
+      "date": "२०७९-०५-०१",
+      "details": "नेपाल मजदुर किसान पार्टीको विचारधारालाई रौतहट जिल्लामा प्रचार-प्रसार गर्न र स्थानीयस्तरमा कार्यकर्ता भेलाहरूमा सक्रिय भूमिका निर्वाह गरेको।",
+      "link_to_source": "https://majdoor.com.np/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "दिनेश प्रसाद साह नेपाल मजदुर किसान पार्टीका एक निष्ठावान कार्यकर्ता हुन् जसले रौतहट क्षेत्र नं. १ बाट २०७९ को आम निर्वाचनमा उम्मेदवारी दिएका थिए। मुख्यतया भक्तपुरमा केन्द्रित रहेको यस पार्टीको प्रतिनिधित्व मधेस प्रदेशमा गराउनु उनको मुख्य राजनीतिक साहस मानिन्छ। निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न नसके पनि (केबल २१ मत), उनले पार्टीको समाजवादी र मजदुरमुखी एजेन्डाहरूलाई स्थानीय स्तरमा पुर्‍याउने प्रयास गरेका छन्। उनीमाथि हालसम्म कुनै भ्रष्टाचार वा गम्भीर काण्डहरूको आरोप लागेको छैन, जसले उनको व्यक्तिगत छवि स्वच्छ रहेको देखाउँछ। यद्यपि, पूर्व प्रधानमन्त्री माधव कुमार नेपाल जस्ता शक्तिशाली नेताहरूको चुनावी क्षेत्र भएकाले उनको राजनीतिक प्रभाव र जनमत भने निकै कमजोर देखिएको छ।",
+  "overall_approval_rating": 42
+}

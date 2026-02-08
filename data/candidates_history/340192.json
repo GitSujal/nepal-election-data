@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340192,
+  "candidate_name": "राकेश मण्डल",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/351.jpg",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य तथा जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340192.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी विस्तार र संगठन सुदृढीकरण",
+      "date": "२०८१-१०-२३",
+      "details": "पार्टी अध्यक्ष कुलमान घिसिङ र अन्य नेतृत्वसँगै महोत्तरीमा संगठन विस्तार र मतदाता भेटघाटमा सक्रिय।",
+      "link_to_source": "https://www.nayapatrikadaily.com/news-details/161474/2026-02-06",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "महोत्तरी निर्वाचन क्षेत्र नम्बर ४ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340192",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०७९-०३-१५",
+      "details": "वैकल्पिक राजनीतिको एजेन्डा र विकासको स्पष्ट मार्गचित्र बोकेको उज्यालो नेपाल पार्टीमा आबद्ध भई सक्रिय राजनीति सुरु।",
+      "link_to_source": "https://www.nepalnews.com/s/politics/these-are-the-51-members-of-ujyalo-nepal-party-along-with-names",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "राकेश मण्डल महोत्तरी क्षेत्र नं. ४ का एक शिक्षित र युवा राजनीतिज्ञ हुन्। स्नातकोत्तर तहको शैक्षिक योग्यता हासिल गरेका मण्डलले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा 'उज्यालो नेपाल पार्टी' बाट चुनावी मैदानमा उत्रिएर आफ्नो राजनीतिक यात्राको औपचारिक थालनी गरेका थिए। महोत्तरीमा स्थापित ठूला दलहरूको दबदबा र परम्परागत राजनीतिक समीकरणका बीच उनले विकास र 'उज्यालो' को एजेन्डा लिएर आफूलाई वैकल्पिक उम्मेदवारका रूपमा प्रस्तुत गरे। यद्यपि उनले पहिलो प्रयासमै जित हासिल गर्न सकेनन्, तर नयाँ राजनीतिक दलको तर्फबाट उनको उपस्थितिलाई जिल्लामा युवा नेतृत्वको उदयका रूपमा हेरिएको छ। हालसम्म उनी कुनै पनि विवाद वा भ्रष्टाचार काण्डमा नमुछिएको हुँदा उनको छवि स्वच्छ रहेको छ। उनी स्थानीयस्तरमा सामाजिक अभियानहरूमा पनि सक्रिय देखिन्छन्।",
+  "overall_approval_rating": 52
+}

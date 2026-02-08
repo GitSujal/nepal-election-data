@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340250,
+  "candidate_name": "पति राम चौधरी",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nagarik_Unmukti_Party_Logo.png",
+  "candidates_current_position": "नेता, नागरिक उन्मुक्ति पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340250.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कैलाली क्षेत्र नम्बर ५ बाट प्रतिनिधि सभा सदस्यका लागि नागरिक उन्मुक्ति पार्टीको तर्फबाट उम्मेदवार बनेका थिए। उनले ५,४८३ मत प्राप्त गरी चौथो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340250",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा आबद्धता",
+      "date": "२०७८-०९-१९",
+      "details": "रेशम चौधरीको संरक्षकत्वमा नागरिक उन्मुक्ति पार्टी गठन भएपछि उनी पार्टीको संगठन विस्तारमा सक्रिय रूपमा लागेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyJTs4yma08NRqzwNmzt8z21UyqETy9g9saAhL1cYcUvtk7-aVNqBYMOXwS0RO-n-9xTq_8jYVO67HJFQsvd2LuOO5QjUgnSGfBZsbCJjuGl6cEIJx8F4wZJniXBA54mrIQzQ=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "थरुहट आन्दोलनमा समर्थन",
+      "date": "२०७२-०५-०७",
+      "details": "थारु समुदायको पहिचान र अधिकारका लागि भएको थरुहट आन्दोलनमा उनको वैचारिक र सांगठनिक समर्थन रहेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqS2usNDSaY9FyAM38UccuXgb56sPCXb0kSz2WvELN1RhDRajUMv_xqwfhTDJRDmcC8PuHODJ0XTIiPPe8jmXnG6SsNbpS_d6Dopgh-j1n8J8eN7NJvc1A4eCVNsFXwGxPHn6k46io9IL0bUjgZWxq4mYbxn2UTg6gq42zxoxpHxq_E0Vgwylq76Hxo_feCVlqwqUDVNCOBlaZRrHgJJd8vkitJDyT7on9elpvmJhku9vES2usQoh44VbL9wGXvD3o0E2MIJrTeFm6CDPHXrnDZ-csOiAUNKRx",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पति राम चौधरी नागरिक उन्मुक्ति पार्टीका एक सक्रिय र उदीयमान थारु नेता हुन्। २०७९ को आम निर्वाचनमा कैलाली निर्वाचन क्षेत्र नम्बर ५ बाट प्रतिनिधि सभाको उम्मेदवार बन्दा उनले प्राप्त गरेको ५,४८३ मतले धनगढी र आसपासका क्षेत्रमा पार्टीको उपस्थितिलाई मजबुत बनाएको देखिन्छ। उनी मुख्यतया थारु समुदायको पहिचान, अधिकार र राज्यको मूल प्रवाहमा प्रतिनिधित्वको मुद्दामा केन्द्रित छन्। यद्यपि उनले अघिल्लो निर्वाचनमा जित हासिल गर्न सकेनन्, तर उनी रेशम चौधरीको नेतृत्वमा रहेको थरुहट आन्दोलनको जगमा बनेको पार्टीको एक निष्ठावान सदस्य मानिन्छन्। उनको राजनीतिक करियर हालसम्म कुनै ठूला भ्रष्टाचार वा विवादहरूमा नमुछिएको हुनाले उनको छवि स्वच्छ छ। उनी कैलालीको स्थानीय राजनीतिमा थारु मतलाई एकीकृत गर्ने एक प्रमुख पात्रका रूपमा स्थापित भएका छन्।",
+  "overall_approval_rating": 52
+}

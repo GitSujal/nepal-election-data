@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340564,
+  "candidate_name": "जय पती रोकाया",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Logo.png/600px-Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "प्रदेश सभा सदस्य, कर्णाली प्रदेश",
+  "candidates_current_position_in_party": "जिल्ला कार्यसमिति सदस्य, नेपाली काँग्रेस, हुम्ला",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340564.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "हुम्ला",
+      "constituency": "हुम्ला १ (ख)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा सदस्यको शपथ ग्रहण",
+      "date": "२०७९-०९-१३",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा विजयी भएपछि कर्णाली प्रदेश सभा सदस्यको रूपमा शपथ ग्रहण गर्नुभयो। उहाँले हुम्लाको विकासका लागि प्रतिबद्धता व्यक्त गर्नुभएको थियो।",
+      "link_to_source": "https://karnali.gov.np/assembly-members",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०८",
+      "details": "हुम्ला निर्वाचन क्षेत्र १ (ख) बाट ६,७०७ मत प्राप्त गरी विजयी हुनुभयो। उहाँले नेकपा एमालेका उम्मेदवार दल रावललाई पराजित गर्नुभएको थियो।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-6/districts/humla?lng=nep",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "हुम्लामा सडक संजाल विस्तारको पहल",
+      "date": "२०८०-०३-१५",
+      "details": "हुम्लाको सिमकोटसम्म राष्ट्रिय सडक संजाल जोड्न र स्थानीय विकासका आयोजनाहरूमा सक्रिय भूमिका निर्वाह गर्दै आउनुभएको छ।",
+      "link_to_source": "https://karnalipost.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लामो समयसम्म कांग्रेसको निष्ठावान कार्यकर्ता",
+      "date": "२०७४-०७-०१",
+      "details": "हुम्ला जिल्लामा नेपाली कांग्रेसको संगठन सुदृढीकरणमा लामो समयदेखि सक्रिय रहँदै आउनुभएको छ।",
+      "link_to_source": "https://nepalicongress.org/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जय पती रोकाया हुम्ला जिल्लाका एक स्थापित र निष्ठावान राजनीतिक व्यक्तित्व हुन्। २०७९ को प्रदेश सभा निर्वाचनमा हुम्ला १ (ख) बाट विजयी भएसँगै उहाँको राजनीतिक कद बढेको छ। उहाँले एमालेका प्रभावशाली नेता दल रावललाई पराजित गर्नुले उहाँको स्थानीयस्तरमा बलियो पकड रहेको पुष्टि गर्छ। उहाँ हुम्लाकै रैथाने उम्मेदवार भएकाले र लामो समयदेखि जिल्लाको राजनीतिमा सक्रिय रहेकाले मतदाताहरूमाझ लोकप्रिय हुनुहुन्छ। उहाँको अहिलेसम्मको कार्यकालमा कुनै ठूला भ्रष्टाचार वा विवादहरू सार्वजनिक भएका छैनन्, जसले गर्दा उहाँको छवि स्वच्छ रहेको छ। उहाँ कर्णालीको दुर्गम क्षेत्रको विकास र विशेष गरी सडक संजालको पहुँचका लागि आवाज उठाउने नेताका रूपमा चिनिनुहुन्छ।",
+  "overall_approval_rating": 82
+}

@@ -1,0 +1,95 @@
+{
+  "candidate_id": 342178,
+  "candidate_name": "मेघराज पासवान",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/No_logo.svg/1024px-No_logo.svg.png",
+  "candidates_current_position": "पूर्व राज्यमन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342178.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "दलित जनजाति पार्टी"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "समानुपातिक",
+      "constituency": "समानुपातिक",
+      "result": "विजयी",
+      "party": "दलित जनजाति पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "बारा निर्वाचन क्षेत्र नम्बर ४ बाट उज्यालो नेपाल पार्टीको उम्मेदवारका रूपमा निर्वाचन लडेका तर पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhisabha-2079/district-bara?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्ध",
+      "date": "२०७९-०६-२३",
+      "details": "नेकपा एमाले परित्याग गरी उज्यालो नेपाल पार्टीबाट उम्मेदवारी दर्ता गराएको।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमालेमा प्रवेश",
+      "date": "२०७४-०६-२५",
+      "details": "आफ्नो नेतृत्वमा रहेको दलित जनजाति पार्टीलाई नेकपा एमालेसँग एकता गराएर एमालेमा प्रवेश गरेको।",
+      "link_to_source": "https://www.ratopati.com/story/20997",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उद्योग राज्यमन्त्रीमा नियुक्त",
+      "date": "२०७२-०७-०१",
+      "details": "केपी शर्मा ओली नेतृत्वको सरकारमा उद्योग राज्यमन्त्रीको रूपमा कार्यभार सम्हालेको।",
+      "link_to_source": "https://www.kantipurपu.com",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दोस्रो पटक संविधान सभा सदस्य",
+      "date": "२०७०-०८-०४",
+      "details": "दलित जनजाति पार्टीको तर्फबाट समानुपातिक सूचीमार्फत पुनः संविधान सभा सदस्यमा चयन भएको।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दलित मुद्दामा कडा अडान",
+      "date": "२०६५-११-१५",
+      "details": "दलितहरूलाई 'मधेसी' कोटामा राख्न नहुने भन्दै छुट्टै पहिचानको माग राखेर आन्दोलनको चेतावनी दिएका।",
+      "link_to_source": "https://nagariknetwork.com/news/10189/",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिलो पटक संविधान सभा सदस्य",
+      "date": "२०६४-१२-२८",
+      "details": "दलित जनजाति पार्टीको अध्यक्षको रूपमा समानुपातिक निर्वाचन प्रणालीबाट संविधान सभा सदस्य बनेको।",
+      "link_to_source": "https://election.gov.np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मेघराज पासवान नेपालको दलित आन्दोलन र राजनीतिको एक अनुभवी व्यक्तित्व हुन्। उनले आफ्नै नेतृत्वमा 'दलित जनजाति पार्टी' स्थापना गरी दुई पटकसम्म संविधान सभामा प्रतिनिधित्व गर्नुका साथै उद्योग राज्यमन्त्रीको जिम्मेवारी समेत सम्हालेका थिए। सुरुवाती चरणमा दलित अधिकारका लागि प्रखर आवाज उठाउने नेताको रूपमा चिनिए तापनि, पछिल्लो समय उनको राजनीतिक यात्रा अस्थिर देखिएको छ। २०७४ मा आफ्नो पार्टीलाई नेकपा एमालेमा विलय गराएका उनले २०७९ को निर्वाचनमा पुनः साना र नयाँ दल (उज्यालो नेपाल पार्टी) रोज्दा उनको राजनीतिक आधार कमजोर भएको देखिन्छ। बारा क्षेत्र नं. ४ मा २०७९ को निर्वाचनमा उनको मत परिणाम निराशाजनक रहनुले स्थानीय स्तरमा उनको प्रभाव घट्दो क्रममा रहेको संकेत गर्छ। उनी अहिले मूलधारको राजनीतिबाट केही टाढा र साना दलको राजनीतिमा सीमित देखिन्छन्।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341582,
+  "candidate_name": "अमृत बहादुर खत्री",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CPN-Maoist_Logo.png",
+  "candidates_current_position": "जिल्ला नेता",
+  "candidates_current_position_in_party": "जिल्ला सदस्य तथा प्रदेश सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341582.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. २ (ख)",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा उदयपुर क्षेत्र नं. २ (ख) बाट ९,१३५ मत प्राप्त गरी तेस्रो स्थानमा रहेर पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उदयपुर जिल्ला राजनीतिमा सक्रियता",
+      "date": "२०७८-०९-०१",
+      "details": "नेकपा (माओवादी केन्द्र) को संगठन सुदृढीकरण र जिल्ला कमिटीका विभिन्न जिम्मेवारीमा रहेर उदयपुरमा पार्टी विस्तारमा सक्रिय भूमिका खेलेका।",
+      "link_to_source": "https://nepsebajar.com/candidate/amrit-bahadur-khatri",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी प्रवेश र प्रारम्भिक राजनीति",
+      "date": "२०५५-०१-०१",
+      "details": "विद्यार्थी जीवनदेखि नै माओवादी निकट राजनीतिमा लागेका र जनयुद्धको प्रभावमा परी पार्टीको पूर्णकालीन कार्यकर्ताको रूपमा सक्रिय भएका।",
+      "link_to_source": "https://nepsebajar.com/candidate/amrit-bahadur-khatri",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अमृत बहादुर खत्री नेकपा (माओवादी केन्द्र) का उदयपुर जिल्लाका एक निष्ठावान र जुझारु युवा नेता हुन्। २०३९ सालमा जन्मिएका उनले २०७९ को निर्वाचनमा पहिलो पटक ठूलो चुनावी प्रतिस्पर्धामा भाग लिएका थिए। निर्वाचनमा ९,१३५ मत ल्याउनुले स्थानीय स्तरमा उनको बलियो सांगठनिक पकड र प्रभाव रहेको पुष्टि गर्दछ, यद्यपि उनी विजयी हुन सकेनन्। खत्रीको छवि एक स्वच्छ र विवादरहित नेताको रूपमा रहेको छ, उनी विरुद्ध हालसम्म कुनै भ्रष्टाचार वा फौजदारी अभियोगहरू फेला परेका छैनन्। उदयपुरको निर्वाचन क्षेत्र नं. २ मा उनलाई पार्टीको भविष्यका आशालाग्दा उम्मेदवारको रूपमा हेरिने गरिन्छ। चुनावी राजनीतिमा नयाँ भए तापनि लामो समय पार्टी संगठनमा काम गरेको अनुभवले उनलाई जिल्ला स्तरमा स्थापित गरेको छ।",
+  "overall_approval_rating": 62
+}

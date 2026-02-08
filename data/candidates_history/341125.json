@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341125,
+  "candidate_name": "हरी नारायण पासमान",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341125.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "सप्तरी क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दर्ता गराएको तर निर्वाचनमा पराजित भएको।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय स्तरमा दलित अधिकारका लागि सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "सप्तरी जिल्लामा दलित समुदायको हकहित र सामाजिक न्यायका लागि विभिन्न स्थानीय अभियानहरूमा संलग्न रहँदै आएको।",
+      "link_to_source": "https://nepsebajar.com/candidate/hari-narayan-paswan-341125",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०५०-०१-०१",
+      "details": "सप्तरीबाट प्रवेशिका परीक्षा (SLC) उत्तीर्ण गरी आफ्नो आधारभूत शिक्षा पूरा गरेको।",
+      "link_to_source": "https://nepsebajar.com/candidate/hari-narayan-paswan-341125",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरी नारायण पासमान सप्तरी जिल्लाका एक स्वतन्त्र राजनीतिज्ञ हुन्, जसले मुख्यतया दलित समुदायको प्रतिनिधित्व गर्दै आएका छन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा सप्तरी क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारी दिए पनि उनी पराजित हुन पुगे। उनी कुनै ठूला राजनीतिक दलको प्रत्यक्ष सहयोग बिना निर्वाचनमा होमिएका थिए, जसले उनको व्यक्तिगत प्रभावलाई दर्शाउँछ तर सांगठनिक आधारको कमीका कारण उनी मुख्य प्रतिस्पर्धामा आउन सकेनन्। उनको राजनीतिक छवि स्वच्छ रहेको र कुनै उल्लेखनीय भ्रष्टाचार वा काण्डमा नाम नमुछिएको देखिन्छ। सप्तरी-३ जस्तो राजनीतिक रूपमा संवेदनशील क्षेत्रमा उनको प्रभाव सीमित भए पनि स्थानीय स्तरमा दलित मुद्दाहरू उठाउने एक सक्रिय व्यक्तिको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 40
+}

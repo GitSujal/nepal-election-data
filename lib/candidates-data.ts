@@ -368,12 +368,12 @@ export const badgeDefinitions: Record<string, Badge> = {
     icon: "heart-handshake",
     color: "accent"
   },
-  "purba-mantri": {
-    id: "purba-mantri",
-    name: "Purba Mantri",
-    nameNepali: "पूर्व मन्त्री",
-    description: "Former minister with government experience",
-    description_np: "सरकारमा मन्त्री भएको अनुभव भएका उम्मेदवार",
+  "purba-padadhikari": {
+    id: "purba-padadhikari",
+    name: "Purba Padadhikari",
+    nameNepali: "पूर्व पदाधिकारी",
+    description: "Former government official or office-holder",
+    description_np: "सरकारमा पदाधिकारी भएको अनुभव भएका उम्मेदवार",
     icon: "crown",
     color: "gold"
   },
@@ -518,7 +518,7 @@ export const tagNameToIdMap: Record<string, string> = {
   "नातावाद": "nepo",
   "बुढी बोकुवा": "budi-bokuwa",
   "बुढो बोकुवा": "budo-bokuwa",
-  "पूर्व मन्त्री": "purba-mantri",
+  "पूर्व पदाधिकारी": "purba-padadhikari",
   "पार्टीप्रति वफादार": "party-loyal",
   "शीर्ष वरीयता (१-५)": "top-rank",
   "उच्च वरीयता (६-१०)": "high-rank",

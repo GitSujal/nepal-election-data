@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340627,
+  "candidate_name": "भूवन प्रसाद चौधरी",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी, नेपाल(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xV5I2wM6F_5uXo_0E0W9Z8q8Xn5kI_1k9g&s",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340627.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नागरिक उन्मुक्ति पार्टीको तर्फबाट बारा क्षेत्र नम्बर २ बाट प्रतिनिधि सभाका लागि चुनाव लडेका थिए, जसमा उनले ४,०५७ मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा प्रवेश",
+      "date": "२०७९-०६-२०",
+      "details": "थारु समुदायको अधिकार र पहिचानको मुद्दालाई अगाडि बढाउन भन्दै उनी रेशम चौधरी नेतृत्वको नागरिक उन्मुक्ति पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1202517",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली कांग्रेस र लोकतान्त्रिक फोरममा सक्रियता",
+      "date": "२०७४-०७-०१",
+      "details": "विजयकुमार गच्छदार नेतृत्वको नेपाल लोकतान्त्रिक फोरम र पछि सो पार्टी नेपाली कांग्रेससँग मर्जर भएपछि उनी कांग्रेसमा सक्रिय थिए।",
+      "link_to_source": "https://ekantipur.com/news/2017/10/16/20171016142718.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "थारुहट आन्दोलनमा समर्थन",
+      "date": "२०७२-०५-०१",
+      "details": "मधेस र तराईमा भएको थारुहट आन्दोलनका क्रममा उनले स्थानीय स्तरमा थारु समुदायको हकहितका लागि आवाज उठाएका थिए।",
+      "link_to_source": "https://ratopati.com/story/263541/2022/9/12/nagark-unmukti-party",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "भूवन प्रसाद चौधरी बारा जिल्लाका एक स्थापित थारु नेता हुन्। २०७९ को निर्वाचनमा उनी नागरिक उन्मुक्ति पार्टीबाट बारा-२ मा उम्मेदवार बनेका थिए। उनले थारु समुदायको बाहुल्य रहेको क्षेत्रमा पहिचानको राजनीतिलाई मुख्य एजेन्डा बनाएका छन्। उनी विगतमा नेपाल लोकतान्त्रिक फोरम र नेपाली कांग्रेसमा रहेर राजनीति गरेका अनुभवी नेता हुन्। यद्यपि २०७९ को निर्वाचनमा उनी पराजित भए, तर उनले प्राप्त गरेको मतले बाराको थारु समुदायमा उनको प्रभाव बलियो रहेको देखाउँछ। उनीमाथि हालसम्म कुनै ठूला भ्रष्टाचार वा फौजदारी अभियोगहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 52
+}

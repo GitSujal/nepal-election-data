@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341349,
+  "candidate_name": "चिजा माया अधिकारी",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aam_Janata_Party_Logo.png/220px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341349.jpg",
+  "election_history": [
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "तनहुँ–१ उपनिर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-१२-२७",
+      "details": "चिजा माया अधिकारीले आम जनता पार्टीको तर्फबाट तनहुँ क्षेत्र नं. १ को रिक्त प्रतिनिधि सभा सदस्य पदका लागि उम्मेदवारी दर्ता गराइन्।",
+      "link_to_source": "https://ekantipur.com/news/2023/04/10/16811218174526549.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "उपनिर्वाचनमा न्यून मत प्राप्त",
+      "date": "२०८०-०१-१०",
+      "details": "२०८० वैशाखमा सम्पन्न तनहुँ–१ को उपनिर्वाचनमा उनले मात्र ३३ मत प्राप्त गरिन्, जहाँ राष्ट्रिय स्वतन्त्र पार्टीका स्वर्णिम वाग्ले विजयी भएका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/2023_Nepalese_by-elections",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आम जनता पार्टीको संगठन विस्तार",
+      "date": "२०७९-१०-१०",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टी गठन भएपछि उनी तनहुँ जिल्लामा पार्टीको आधार बलियो बनाउन सक्रिय रहँदै आएकी छन्।",
+      "link_to_source": "https://www.ratopati.com/story/333465/2023/5/1/chija-maya",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "चिजा माया अधिकारी आम जनता पार्टीको एक स्थानीय सक्रिय कार्यकर्ता हुन्। उनले २०८० सालको तनहुँ–१ को उपनिर्वाचनमा प्रतिस्पर्धा गरेर चर्चामा आउने प्रयास गरे पनि उनको चुनावी नतिजा निकै कमजोर देखियो। उनले प्राप्त गरेको ३३ मतले सो क्षेत्रमा उनको र उनको पार्टीको प्रभाव निकै न्यून रहेको पुष्टि गर्छ। उनी प्रभु साहको नेतृत्वमा रहेको नयाँ दलको प्रतिनिधित्व गर्दै राजनीतिमा स्थापित हुन संघर्षरत देखिन्छिन्। हालसम्म उनको राजनीतिक जीवनमा कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, तर जनमत प्राप्त गर्न र चुनावी प्रभाव देखाउन उनलाई अझै ठूलो मेहनत र स्थानीय मुद्दाहरूमा केन्द्रित हुनुपर्ने देखिन्छ।",
+  "overall_approval_rating": 32
+}

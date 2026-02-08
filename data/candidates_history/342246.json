@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342246,
+  "candidate_name": "बिरेन्द्र राना",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "उम्मेदवार",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342246.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कञ्चनपुर निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारका रूपमा निर्वाचनमा सहभागी भएको तर पराजित भएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjxEvNY34h5dY03otAUAWYXh4nV_ApPuu-O1MNPy2OY5PUNPko-rMXANHhbPivJUpkRLydLoX18VIOHEAwcPZt4XrGR1dk0pEfeRJgDh-w0Yt-ChgBLxsYpakRl-LA5q_zDEL-nIX5Ag3wq7ZDk-4x3It23qtvXfdQIniox9e",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बी. फार्मेसी शिक्षा पूरा",
+      "date": "२०७४-०१-०१",
+      "details": "भारतको चित्तुरस्थित जवाहरलाल नेहरू शिक्षण संस्थाबाट बी. फार्मेसी (B. Pharmacy) अध्ययन पूरा गरी स्वास्थ्य क्षेत्रमा प्राविधिक ज्ञान हासिल गरेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4sZGH7ODMObH9rGihZimfyFS71is6lFoKZSteCO2a5xJxL3n_2vsFd_-wBMnTyVAXZGC8teXDfNiSbXDwZBY0QOoqjy1HAfe_AYYql3TH23tGQhpvvjuysfyKbPl6cjyAl_6LorUS",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बिरेन्द्र राना कञ्चनपुर निर्वाचन क्षेत्र नम्बर २ का एक युवा तथा शिक्षित स्वतन्त्र उम्मेदवार हुन्। वि.सं. २०५१ मा जन्मनुभएका रानाले स्वास्थ्य क्षेत्रमा बी. फार्मेसीसम्मको उच्च शिक्षा हासिल गरेका छन्, जसले गर्दा उनी एक प्राविधिक र बौद्धिक पृष्ठभूमिका व्यक्तिका रूपमा परिचित छन्। २०७९ को आम निर्वाचनमा उनले दलगत स्वार्थभन्दा माथि उठेर जनताको प्रत्यक्ष आवाज उठाउने उद्देश्यले स्वतन्त्र उम्मेदवारी दिएका थिए। यद्यपि, एनपी साउद र नरबहादुर धामी जस्ता स्थापित राजनीतिक हस्तीहरू रहेको यस क्षेत्रमा उनको चुनावी प्रदर्शन कमजोर रह्यो। उनको कुनै ठूला राजनीतिक घोटाला वा विवादमा नाम जोडिएको छैन, जसले गर्दा उनको छवि स्वच्छ रहेको देखिन्छ। कञ्चनपुरको स्थानीय राजनीतिमा युवा र पेशागत दक्षतालाई प्रवेश गराउन खोजे पनि उनलाई संगठन र दलगत संयन्त्रको अभावमा ठूलो सफलता मिल्न सकेन।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342405,
+  "candidate_name": "करिस्मा खरेल",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CPN_Maoist_Centre_logo.svg/1024px-CPN_Maoist_Centre_logo.svg.png",
+  "candidates_current_position": "नेकपा (माओवादी केन्द्र) की नेतृ",
+  "candidates_current_position_in_party": "पार्टी कार्यकर्ता/नेतृ",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342405.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं क्षेत्र नं १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेकी उनले कुल ८९ मत मात्र प्राप्त गरी पराजय भोग्नुपर्यो।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-kathmandu/constituency-1",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेकपा (माओवादी केन्द्र) को तर्फबाट काठमाडौं-१ मा युवा महिला उम्मेदवारका रूपमा आफ्नो मनोनयन दर्ता गराइन्।",
+      "link_to_source": "https://www.ratopati.com/story/267077/2022/10/9/karishma-kharel",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी केन्द्रको युवा नेतृका रूपमा सक्रियता",
+      "date": "२०७५-०३-०१",
+      "details": "उनले लामो समयदेखि पार्टीका विभिन्न भ्रातृ संगठन र युवा विभागहरूमा सक्रिय रहेर काम गर्दै आएकी छिन्।",
+      "link_to_source": "https://www.setopati.com/politics/284562",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "करिस्मा खरेल नेपाल कम्युनिस्ट पार्टी (माओवादी केन्द्र) की एक युवा महिला नेतृ हुन्। उनले २०७९ को आम निर्वाचनमा काठमाडौं क्षेत्र नं १ जस्तो उच्च प्रोफाइल क्षेत्रबाट उम्मेदवारी दिएर चर्चा बटुलेकी थिइन्। उनी चर्चित हिमाल आरोही तथा पर्यटन व्यवसायी पासाङ शेर्पाकी श्रीमती हुन्। यद्यपि, निर्वाचन परिणाम भने उनका लागि निकै निराशाजनक रह्यो; उनले जम्मा ८९ मत मात्र प्राप्त गरिन्। स्रोतले उनलाई 'पर्यटक उम्मेदवार' को संज्ञा दिएको छ, किनकि काठमाडौं-१ मा उनको बलियो स्थानीय सांगठनिक आधार र प्रभावको कमी देखिएको थियो। काठमाडौंको सहरी क्षेत्रमा माओवादी केन्द्रको कमजोर उपस्थिति र उनी जस्ता नयाँ उम्मेदवारको स्थानीय पहिचान स्थापित हुन नसक्नु नै उनको मुख्य कमजोरी देखिन्छ।",
+  "overall_approval_rating": 25
+}

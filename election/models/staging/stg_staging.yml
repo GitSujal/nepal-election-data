@@ -412,8 +412,9 @@ models:
       - name: minister_appointment_count
         description: >
           Total number of times the candidate has been appointed as a
-          minister (including मन्त्री, उपप्रधानमन्त्री, राज्यमन्त्री positions)
-          extracted from political_history events with MINISTERIAL_APPT type
+          government official or office-holder (including मन्त्री, उपप्रधानमन्त्री,
+          राज्यमन्त्री, and other government positions) extracted from
+          political_history events with MINISTERIAL_APPT type
       - name: total_elections_from_profile
         description: >
           Total count of all elections the candidate has participated in
@@ -425,4 +426,4 @@ models:
       - name: is_past_minister
         description: >
           Boolean flag indicating if the candidate has ever been appointed
-          as a minister (true if minister_appointment_count > 0)
+          as a government official or office-holder (true if minister_appointment_count > 0)

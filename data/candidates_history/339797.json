@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339797,
+  "candidate_name": "प्रेम प्रसाद ढकाल",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hammer_and_sickle_red_on_transparent.svg/1200px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339797.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल कम्युनिस्ट पार्टी (माओवादी) को तर्फबाट नवलपरासी पश्चिम क्षेत्र नं. २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए। सो निर्वाचनमा उनले न्यून मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी संगठन विस्तारमा संलग्नता",
+      "date": "२०७५-०३-१५",
+      "details": "नवलपरासी जिल्लामा नेपाल कम्युनिस्ट पार्टी (माओवादी) को स्थानीय संगठन निर्माण र विस्तारमा सक्रिय भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://nepalicommunist.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक वैचारिक अभियान",
+      "date": "२०७०-०१-०१",
+      "details": "माओवादी विचारधारा र क्रान्तिकारी आन्दोलनप्रति प्रतिबद्ध रहँदै लामो समयदेखि स्थानीय स्तरमा राजनीतिक चेतना फैलाउने कार्यमा संलग्न।",
+      "link_to_source": "https://nepalicommunist.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "प्रेम प्रसाद ढकाल नवलपरासी (बर्दघाट सुस्ता पश्चिम) क्षेत्रका एक स्थानीय माओवादी नेता हुन्। २०७९ सालको प्रतिनिधिसभा निर्वाचनमा उनले नेपाल कम्युनिस्ट पार्टी (माओवादी) बाट क्षेत्र नं. २ मा उम्मेदवारी दिएका थिए, जुन मुख्यधारको माओवादी केन्द्रभन्दा फरक सानो दल हो। उक्त निर्वाचनमा उनले निकै कम मत (करिब २२ मत) प्राप्त गरेका थिए, जसले उनको चुनावी पकड अत्यन्तै कमजोर रहेको पुष्टि गर्छ। उनी चुनावी राजनीतिमा भन्दा पनि दलको वैचारिक र सांगठनिक कार्यमा बढी सीमित देखिन्छन्। उनको राजनीतिक प्रभाव स्थानीय स्तरको सानो कार्यकर्ता समूहमा मात्र केन्द्रित छ र राष्ट्रिय राजनीतिमा उनको भूमिका गौण रहेको देखिन्छ।",
+  "overall_approval_rating": 30
+}

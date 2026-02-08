@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342614,
+  "candidate_name": "मोहम्मद फिरोज असारी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "आबद्ध छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342614.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "महोत्तरी निर्वाचन क्षेत्र नम्बर ३ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिनिधि सभा सदस्यका लागि चुनाव लडेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ResultDetails.aspx?conid=125&distid=18&pdistid=2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र राजनीतिक अभियान",
+      "date": "२०७९-०७-२३",
+      "details": "कुनै पनि राजनीतिक दलमा आबद्ध नभई स्थानीय स्तरका समस्याहरूलाई सम्बोधन गर्ने प्रतिबद्धताका साथ चुनावी मैदानमा उत्रिएका थिए।",
+      "link_to_source": "https://hamropatro.com/election/candidate/342614",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "मोहम्मद फिरोज असारी महोत्तरी जिल्लाका एक स्थानीय स्वतन्त्र राजनीतिज्ञ हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा महोत्तरी क्षेत्र नम्बर ३ बाट चुनावी प्रतिस्पर्धा गरेका थिए। सो निर्वाचनमा उनले मात्र १५३ मत प्राप्त गरेका थिए, जसले उनको चुनावी प्रभाव निकै न्यून रहेको देखाउँछ। यस क्षेत्रमा महन्थ ठाकुर जस्ता स्थापित नेताहरूको वर्चस्व रहेकाले उनको उम्मेदवारीले निर्वाचनको नतिजामा कुनै खास असर पारेको देखिँदैन। उनी कुनै प्रमुख राजनीतिक दलसँग आबद्ध नरहेका र कुनै ठूला उपलब्धि वा विवादमा नमुछिएका कारण उनी एक सामान्य स्वतन्त्र उम्मेदवारको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 30
+}

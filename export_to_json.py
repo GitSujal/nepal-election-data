@@ -66,7 +66,8 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     print(f"Output directory: {OUTPUT_DIR}\n")
 
-    # Tables to export
+    # Tables to export: (source_table, output_name)
+    # Use tuples when the output filename differs from the source table name
     tables = [
         'dim_current_fptp_candidates',
         'dim_current_proportional_candidates',
@@ -74,12 +75,16 @@ def main():
         'dim_constituency_profile',
         'dim_parties_profile',
         'political_party_symbols',
-        "candidates_political_history"
+        ("stg_candidates_political_history", "candidates_political_history"),
     ]
 
     total_rows = 0
-    for table in tables:
-        output_file = os.path.join(OUTPUT_DIR, f"{table}.json")
+    for entry in tables:
+        if isinstance(entry, tuple):
+            table, output_name = entry
+        else:
+            table = output_name = entry
+        output_file = os.path.join(OUTPUT_DIR, f"{output_name}.json")
         rows = export_table_to_json(SOURCE_DB, table, output_file)
         total_rows += rows
 

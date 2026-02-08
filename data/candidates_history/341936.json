@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341936,
+  "candidate_name": "खिक बहादुर रेश्मी मगर",
+  "candidate_party": "जनता समाजवादी पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341936.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "पाल्पा",
+      "constituency": "२ (क)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "पाल्पा निर्वाचन क्षेत्र नं. २ (क) बाट जनता समाजवादी पार्टीको तर्फबाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले १६३ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/khik-bahadur-reshmi-magar-10313",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सामाजिक न्याय र क्षेत्रीय विकास अभियान",
+      "date": "२०७८-०५-१०",
+      "details": "पाल्पा जिल्लामा सामाजिक न्याय, नागरिक अधिकार र पारदर्शी शासन प्रणालीको पक्षमा स्थानीय स्तरमा सक्रिय भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/khik-bahadur-reshmi-magar/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीको संगठन विस्तार",
+      "date": "२०७७-०३-१७",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टीको एकीकरण पछि पाल्पा जिल्लामा जनता समाजवादी पार्टीको संगठन सुदृढीकरण र विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://hamropatro.com/election/candidate/341936",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "खिक बहादुर रेश्मी मगर पाल्पा जिल्लाका एक निष्ठावान राजनीतिक व्यक्तित्व हुन्। उनी लामो समयदेखि जनता समाजवादी पार्टीमा आबद्ध रहेर स्थानीय स्तरमा राजनीति गर्दै आएका छन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले पाल्पा क्षेत्र नं. २ (क) बाट उम्मेदवारी दिएका थिए, यद्यपि उनले मात्र १६३ मत प्राप्त गरी छैटौं स्थान हासिल गरे। उनको प्रभाव मुख्यतया स्थानीय तहमा सीमित छ र उनी आदिवासी जनजाति तथा मगर समुदायको हकहितका लागि वकालत गर्ने नेताका रूपमा परिचित छन्। पाल्पामा ठूला दलहरूको वर्चस्व रहेका कारण उनको चुनावी उपस्थिति कमजोर देखिए तापनि उनको छवि हालसम्म स्वच्छ रहेको छ र कुनै ठूला काण्डहरूमा उनी मुछिएका छैनन्।",
+  "overall_approval_rating": 42
+}

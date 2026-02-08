@@ -26,7 +26,7 @@ export function ProfileHeader({ candidate }: ProfileHeaderProps) {
     if (candidate.total_elections_contested >= 2 && candidate.prev_election_result === "Winner") {
       return { label: "दिग्गज", color: "bg-gold text-gold-foreground" }
     }
-    if (candidate.total_elections_contested >= 1) {
+    if (candidate.was_parliament_member_2079 || candidate.was_parliament_member_2074) {
       return { label: "अनुभवी", color: "bg-primary text-primary-foreground" }
     }
     return { label: "नयाँ", color: "bg-accent text-accent-foreground" }

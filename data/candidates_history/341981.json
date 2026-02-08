@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341981,
+  "candidate_name": "सुदिश मंडल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्वतन्त्र सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341981.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "धनुषा जिल्लाको निर्वाचन क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यका लागि सुदिश मंडलले स्वतन्त्र उम्मेदवारको रूपमा आफ्नो मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचन २०७९ को परिणाम",
+      "date": "२०७९-०८-०८",
+      "details": "धनुषा २ बाट स्वतन्त्र प्रतिस्पर्धा गरेका उनले कुल १,०२३ मत प्राप्त गरे तापनि नेपाली कांग्रेसका उम्मेदवार राम कृष्ण यादवसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/dhanusa-2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुदिश मंडल धनुषा क्षेत्र नं. २ का एक स्वतन्त्र राजनीतिक प्रतिस्पर्धी हुन्। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा उनले स्वतन्त्र उम्मेदवारको रूपमा चुनावी मैदानमा उत्रिएर स्थापित दलहरूका विरुद्ध चुनौती पेस गर्ने प्रयास गरेका थिए। यद्यपि, संगठनात्मक आधार र ठूला दलहरूको प्रभावका कारण उनले जित हासिल गर्न सकेनन् र १,०२३ मतमा सीमित भए। उनको राजनीतिक पृष्ठभूमि हालसम्म निष्कलंक देखिएको छ र कुनै पनि भ्रष्टाचार वा सार्वजनिक विवादमा उनको नाम जोडिएको छैन। उनी मुख्यतया स्थानीय स्तरमा स्वतन्त्र अभियान र सामाजिक सक्रियतामा केन्द्रित देखिन्छन्।",
+  "overall_approval_rating": 45
+}

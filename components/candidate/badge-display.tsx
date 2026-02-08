@@ -110,7 +110,7 @@ export function BadgeDisplay({ tags, size = "md", candidate }: BadgeDisplayProps
     <div className="flex flex-wrap gap-2">
       {badges.map((badge) => {
         const Icon = iconMap[badge.icon] || Star
-        const showCount = badge.id === "purba-mantri" && candidate?.minister_appointment_count
+        const showCount = badge.id === "purba-padadhikari" && candidate?.minister_appointment_count
         return (
           <div
             key={badge.id}
@@ -157,7 +157,7 @@ export function BadgeShowcase({ tags, candidate }: { tags: string[], candidate?:
       {badges.map((badge, index) => {
         const Icon = iconMap[badge.icon] || Star
         const isFlipped = flippedIndex === index
-        const showCount = badge.id === "purba-mantri" && candidate?.minister_appointment_count
+        const showCount = badge.id === "purba-padadhikari" && candidate?.minister_appointment_count
 
         return (
           <div
@@ -200,7 +200,7 @@ export function BadgeShowcase({ tags, candidate }: { tags: string[], candidate?:
                 </span>
                 {showCount && (
                   <span className="relative z-10 text-xs font-semibold opacity-90">
-                    {candidate.minister_appointment_count}× मन्त्री
+                    {candidate.minister_appointment_count}× पदाधिकारी
                   </span>
                 )}
                 <span className="relative z-10 text-xs opacity-80">{badge.name}</span>

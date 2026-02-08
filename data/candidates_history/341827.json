@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341827,
+  "candidate_name": "सीता राम मैनाली",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिकर्मी",
+  "candidates_current_position_in_party": "लागू हुँदैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341827.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनका लागि काभ्रेपलाञ्चोक क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारको रूपमा मनोनयन दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341827",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काभ्रेपलाञ्चोक क्षेत्र नं. १ बाट चुनाव लडेका मैनालीले अत्यन्तै न्यून मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/kavrepalanchok-1?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सीता राम मैनाली काभ्रेपलाञ्चोक जिल्लाका एक स्वतन्त्र राजनीतिकर्मी हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा काभ्रेपलाञ्चोक क्षेत्र नं. १ बाट स्वतन्त्र उम्मेदवारी दिएका थिए, तर मुख्य दलका उम्मेदवारहरूको तुलनामा उनको चुनावी उपस्थिति निकै कमजोर देखियो। मैनालीको कुनै लामो राजनीतिक पृष्ठभूमि वा प्रमुख दलसँगको आबद्धता देखिएको छैन। उनको उम्मेदवारीलाई स्थानीय स्तरमा वैकल्पिक राजनीतिको सानो प्रयासका रूपमा हेरिए पनि उनले मतदाताको उल्लेख्य विश्वास जित्न सकेनन्। उनको व्यक्तिगत जीवनमा हालसम्म कुनै ठूला घोटाला वा विवादहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनको छवि एक सामान्य नागरिक उम्मेदवारको रूपमा रहेको छ।",
+  "overall_approval_rating": 30
+}

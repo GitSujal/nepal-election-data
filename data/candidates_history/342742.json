@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342742,
+  "candidate_name": "सुदिप कुमार यादव",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र युवा नेता",
+  "candidates_current_position_in_party": "आबद्धता छैन",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342742.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यका लागि स्वतन्त्र उम्मेदवारी दिएका थिए, जसमा उनले १५९ मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342742",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल इन्जिनियर्स एसोसिएसनमा आबद्धता",
+      "date": "२०७७-१०-२९",
+      "details": "पेशागत रूपमा इन्जिनियरिङ पृष्ठभूमि भएका यादव नेपाल इन्जिनियर्स एसोसिएसनको मतदाता सूचीमा सूचीकृत भएका थिए।",
+      "link_to_source": "https://www.scribd.com/document/511306351/Janakpur-NEA-Voter-List-2077",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "इन्जिनियरिङ अध्ययन प्रवेश",
+      "date": "२०७७-११-२१",
+      "details": "ख्वप इन्जिनियरिङ कलेजको सिभिल इन्जिनियरिङ प्रवेश परीक्षाको प्रतीक्षा सूचीमा १०३ औं स्थानमा नाम निकाल्न सफल भएका थिए।",
+      "link_to_source": "https://www.scribd.com/document/498424177/B-E-Civil-Entrance-Waitlist-2077",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुदिप कुमार यादव धनुषा जिल्लाका एक युवा स्वतन्त्र राजनीतिकर्मी हुन् जसको पृष्ठभूमि प्राविधिक (इन्जिनियरिङ) क्षेत्रसँग जोडिएको छ। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा धनुषा क्षेत्र नं. ४ बाट स्वतन्त्र उम्मेदवारी दिएर चुनावी राजनीतिमा डेब्यु गरेका थिए। यद्यपि उनले मात्र १५९ मत प्राप्त गरे, उनले स्थापित राजनीतिक दलहरूका विरुद्ध युवा उम्मेदवारीको अभ्यास गरेका थिए। स्थानीय स्तरमा उनको प्रभाव हालका लागि सीमित देखिए पनि उनी एक स्वच्छ छवि भएका शिक्षित युवाका रूपमा चिनिन्छन्। उनको राजनीतिक इतिहासमा कुनै पनि घोटाला वा विवादहरू भेटिएका छैनन्, जसले उनको व्यक्तिगत साखलाई सकारात्मक राखेको छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340020,
+  "candidate_name": "डिल्ली राम लिम्बु",
+  "candidate_party": "मितेरी पार्टी नेपाल",
+  "candidate_party_logo": "https://election.gov.np/static/media/logo.8378347e.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340020.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "पराजित",
+      "party": "मितेरी पार्टी नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा मोरङ क्षेत्र नं. ३ बाट मितेरी पार्टी नेपालको तर्फबाट आधिकारिक उम्मेदवारको रूपमा मनोनयन दर्ता गराएका।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340020",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "चुनावी प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "मंसिर ४ मा सम्पन्न निर्वाचनमा नेपाली कांग्रेसका डा. सुनील शर्मा र नेकपा एमालेका भानुभक्त ढकालसँग प्रतिस्पर्धा गरेका, जसमा उनले न्यून मत प्राप्त गरे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/morang-3?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "डिल्ली राम लिम्बु मोरङ क्षेत्र नं. ३ का एक अल्प-परिचित राजनीतिक पात्र हुन्। २०७९ को आम निर्वाचनमा मितेरी पार्टी नेपालबाट उम्मेदवारी दिएका उनले चुनावी परिणाममा कुनै खास प्रभाव पार्न सकेनन्। यस क्षेत्रमा नेपाली कांग्रेसका डा. सुनील शर्मा र नेकपा एमालेका भानुभक्त ढकाल जस्ता प्रभावशाली नेताहरूको दबदबा रहेकोले लिम्बुको उपस्थितिलाई केवल सांकेतिक मात्र मान्न सकिन्छ। उनी विरुद्ध कुनै भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्, तर राजनीतिक सक्रियता र जनमतको हिसाबले उनको प्रभाव निकै कमजोर देखिन्छ। उनको उम्मेदवारीले सानो दलको प्रतिनिधित्व मात्र गरेको विश्लेषण गर्न सकिन्छ।",
+  "overall_approval_rating": 12
+}

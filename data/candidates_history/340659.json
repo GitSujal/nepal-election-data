@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340659,
+  "candidate_name": "सिखा रेश्मी",
+  "candidate_party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aam_Janata_Party_Logo.svg/1024px-Aam_Janata_Party_Logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340659.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "सदस्य, प्रतिनिधिसभा",
+      "district": "गुल्मी",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम जनता पार्टीमा केन्द्रीय सदस्य मनोनीत",
+      "date": "२०७९-०९-१४",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टी गठन भएपछि उनी उक्त पार्टीको केन्द्रीय संगठनमा आबद्ध भई सक्रिय भूमिका निर्वाह गरिरहेकी छिन्।",
+      "link_to_source": "https://www.ratopati.com/story/301121/2023/1/15/prabhu-shah-ajp",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "गुल्मी निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएकी थिइन्, जहाँ उनले जम्मा ४५ मत प्राप्त गरिन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340659",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०७९-०६-२३",
+      "details": "आम निर्वाचन २०७९ का लागि मनोनयन दर्ता गर्दै उनले पहिलो पटक राष्ट्रिय स्तरको निर्वाचनमा आफ्नो उपस्थिति जनाएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340659",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सिखा रेश्मी गुल्मी जिल्लाबाट उदाउँदै गरेकी महिला नेतृ हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा गुल्मी क्षेत्र नम्बर २ बाट प्रभु साह नेतृत्वको आम जनता पार्टीका तर्फबाट प्रतिस्पर्धा गरेकी थिइन्। यद्यपि, सो निर्वाचनमा उनले निकै न्यून (४५ मत) मात्र प्राप्त गरिन्, जसले गर्दा स्थापित दलहरू एमाले र कांग्रेसका सामु उनको उपस्थिति कमजोर देखियो। उनी हाल आम जनता पार्टीको केन्द्रीय सदस्यका रूपमा सक्रिय छिन्। उनको कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन् र उनी स्वच्छ छविका साथ नयाँ राजनीतिक शक्ति निर्माणमा लागेकी छिन्। तर, चुनावी नतिजालाई हेर्दा उनलाई जनताको विश्वास जित्न र आफ्नो राजनीतिक आधार बलियो बनाउन अझै ठूलो मेहनत र सांगठनिक विस्तारको आवश्यकता देखिन्छ।",
+  "overall_approval_rating": 40
+}

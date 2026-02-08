@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340024,
+  "candidate_name": "मनोज कुमार पौडेल",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://nepsebajar.com/images/party/Aam-Janata-Party.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340024.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "उदयपुर निर्वाचन क्षेत्र नं. १ बाट प्रतिनिधि सभा सदस्यका लागि आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/Candidate/340024",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०९-१५",
+      "details": "प्रभु साहको नेतृत्वमा आम जनता पार्टी गठन भएपछि उक्त पार्टीमा आबद्ध भई बैंक तथा वित्तीय संस्थाहरूको ज्यादती विरुद्धको आन्दोलनमा सहभागी।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340024-manoj-kumar-paudel",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता प्राप्ति",
+      "date": "२०६०-०१-०१",
+      "details": "त्रिभुवन विश्वविद्यालयबाट शिक्षा शास्त्रमा स्नातक (B.Ed.) तहको अध्ययन पुरा गरेको, जसले उनको बौद्धिक क्षमतालाई प्रतिनिधित्व गर्दछ।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/340024-manoj-kumar-paudel",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "मनोज कुमार पौडेल उदयपुर क्षेत्र नं १ का स्थानीय राजनीतिकर्मी हुन्। उनले २०७९ सालको प्रतिनिधि सभा निर्वाचनमा आम जनता पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, यद्यपि उनले निकै कम मत प्राप्त गरी पराजित हुनुपर्यो। प्रभु साहको नेतृत्वमा रहेको आम जनता पार्टीको एजेन्डाअनुसार उनी बैंक, सहकारी र लघुवित्तको ज्यादती विरुद्धका स्थानीय गतिविधिहरूमा सक्रिय देखिन्छन्। उनको शैक्षिक पृष्ठभूमि राम्रो छ र उनी त्रिभुवन विश्वविद्यालयबाट स्नातक उत्तीर्ण हुन्। राष्ट्रिय राजनीतिमा उनको प्रभाव हाल न्यून रहे पनि स्थानीय स्तरमा एक शिक्षित उम्मेदवारको रूपमा उनले आफ्नो पहिचान बनाउने प्रयास गरिरहेका छन्। हालसम्म उनको नाम कुनै ठुला काण्ड वा भ्रष्टाचारमा मुछिएको पाइएको छैन, जसले गर्दा उनको छवि स्वच्छ देखिन्छ।",
+  "overall_approval_rating": 38
+}

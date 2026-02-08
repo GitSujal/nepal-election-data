@@ -1,0 +1,87 @@
+{
+  "candidate_id": 342305,
+  "candidate_name": "बीरेन्द्र कुमार कानोडिया",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CPN-UML_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342305.jpg",
+  "election_history": [
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "लुम्बिनी प्रदेश सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३(ख)",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "लुम्बिनी प्रदेश सभा सदस्य",
+      "district": "कपिलवस्तु",
+      "constituency": "क्षेत्र नं. ३(ख)",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नेकपा (एमाले) मा प्रवेश",
+      "date": "२०८२-१०-०३",
+      "details": "लामो समय नेपाली कांग्रेसमा रहेका कानोडिया आगामी निर्वाचनमा क्षेत्र नं. ३ बाट टिकट निश्चित नभएपछि नेकपा (एमाले) मा प्रवेश गरेका हुन्। उनलाई एमाले अध्यक्ष केपी शर्मा ओलीले काठमाडौंमा पार्टी प्रवेश गराएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJRMJmdBR8Wqn1miON4a7cqLalPFct_nK8hIMDwVG7Fg24wIZueRUyR7aIv75ma81oEiZU9nyF7HQwX3hDJi2-Eb-js6YaZtf4SX3eEndr0zuv-8TVto0o7KZ4He8RbVwv8179k76WPyQ0iFyGOLLO_mCYDjdfe4Nd4cGrVYE7AtuiG5SGZqckVR48NGGmwE=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उखु किसानको भुक्तानी विवाद",
+      "date": "२०७७-०९-१०",
+      "details": "कानोडियाको स्वामित्वमा रहेको महालक्ष्मी सुगर मिलले उखु किसानको करिब २५ मिलियन रुपैयाँ भुक्तानी नगरेको भन्दै ठूलो आन्दोलन भएको थियो। किसानहरूले काठमाडौंमा प्रदर्शन गर्दा उनको मिलले पैसा नतिरेको आरोप लगाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvaE7K3SH2lhZyxsj7cK_xg9TPhK2vSVsSJCixjFVm2LO1SWW4QOZyIcQrs1OStAC61r4BCO_ViH5QjvUjoqCCitK9za0pYVvehQsvFdXyRTYLO5TO4sfZQpnd-ayD6g-qzRklGQKcTAwlK-nu_8J2NjRZg59oFsUx_JvX5IQ-YKA4NHH-9fIDCXzzc8bTir4ob5Byo1076Rss9xKjEO8smZQDazpXJQ==",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश सभा सदस्यमा पुन: निर्वाचित",
+      "date": "२०७९-०८-०९",
+      "details": "नेपाली कांग्रेसबाट कपिलवस्तु क्षेत्र नं. ३ (ख) बाट ६,६७९ मत प्राप्त गरी उनले ३७२ मतान्तरले चुनाव जितेका थिए। उनले विपक्षी दलको नेताको रूपमा लुम्बिनी प्रदेशमा सक्रिय भूमिका खेलेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGezdZCY4pNIWNFCy5df5nUZSJ1sBPDB-wMz4-nd08B4wGe8NsVZXn-OdFx-q0e32LRXIbTAS2cXm7WxAuRUogMluJQVFqmKUussm32-WdNCeDZQopO3OjSzSSAZdpxLGFxUEqzoWShm-Z4z3iG_dIX6GmC8r8hPDyAyJR5jbtt0rG5OLoFAnQO-6HyIJA=",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "लुम्बिनी प्रदेश विपक्षी दलको नेता",
+      "date": "२०७५-०२-१५",
+      "details": "२०७४ को निर्वाचनपछि नेपाली कांग्रेसको तर्फबाट लुम्बिनी प्रदेश सभामा संसदीय दलको नेता चुनिएका थिए। उनले प्रदेश सरकारका गतिविधिमाथि कडा निगरानी र विरोध गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8X13qYREev-0yhBVRUPztyEQOEGEbHOF9woFN4d90G9bN58wZpEcN4oYRnCMDmV61RLT2JmCv5V8EbtUOr7OX3lJgjTohwg4jmjXotoNRLcbw8hCF-AxPCgHFHYJq2dg57CzMqfA0f2QZemBAug==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जलस्रोत राज्यमन्त्रीमा नियुक्ति",
+      "date": "२०५८-०४-१०",
+      "details": "शेरबहादुर देउवा नेतृत्वको मन्त्रिपरिषद्मा उनलाई जलस्रोत राज्यमन्त्रीको जिम्मेवारी दिइएको थियो। मन्त्री हुँदा उनले सिँचाइ र जलविद्युतका क्षेत्रमा केही महत्वपूर्ण कामहरू अघि बढाएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcDbW44HWTVD7m_ScsvSr87c6BViUoAEjwFa-76xsjcA5YAPrGaeLRi9qRlInn7v2i7gz8CGcq1EBlykYNkJWLAOUz7pp2PjU7E5VP40WmzlYifSAQsPoejQYvN0fEXryG-bpIctWVyG9lbQ2Lgq-_fG8PLLJzXIrAAyQeRMrRacPLS5K6-MjyQhuBuDwwdWQdW-15m08SMT7e-A7dPAUA3Zbd5vB0LPX3YjMi2sXSEIdqtQ==",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बीरेन्द्र कुमार कानोडिया कपिलवस्तुको राजनीतिमा एक चतुर र प्रभावशाली औद्योगिक पृष्ठभूमिका नेता हुन्। लामो समय नेपाली कांग्रेसमा रहेका उनी पूर्व राज्यमन्त्री र लुम्बिनी प्रदेशको पूर्व विपक्षी दलको नेता समेत हुन्। २०८२ माघमा उनले कांग्रेस छोडेर नेकपा (एमाले) मा प्रवेश गर्नुलाई आगामी निर्वाचनमा टिकट सुनिश्चित गर्ने रणनीतिको रूपमा हेरिएको छ। निर्वाचनमा उनको जितको इतिहास (२०५६, २०७४, २०७९) निकै बलियो छ, तर उनको महालक्ष्मी सुगर मिलले उखु किसानलाई भुक्तानी नदिएको स्क्यान्डलले उनको छविमा गम्भीर असर पारेको छ। उनी 'टुरिष्ट क्यान्डिडेट' नभए पनि अवसरवादी राजनीतिको आरोप खेपिरहेका छन्। कपिलवस्तु ३ मा उनको व्यक्तिगत पकड रहे तापनि किसानका मुद्दा र पार्टी परिवर्तनले स्थानीय मतदातामा कस्तो प्रभाव पार्छ भन्ने कुरा चुनौतीपूर्ण देखिन्छ।",
+  "overall_approval_rating": 62
+}

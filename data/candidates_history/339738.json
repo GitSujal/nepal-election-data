@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339738,
+  "candidate_name": "कमल बहादुर मगर",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_Nepal_Workers_and_Peasants_Party.svg/1200px-Flag_of_the_Nepal_Workers_and_Peasants_Party.svg.png",
+  "candidates_current_position": "नेमकिपा जिल्ला नेता",
+  "candidates_current_position_in_party": "जिल्ला कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339738.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सोलुखुम्बु",
+      "constituency": "सोलुखुम्बु १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल मजदुर किसान पार्टीका तर्फबाट सोलुखुम्बु निर्वाचन क्षेत्र १ (ख) बाट प्रदेश सभा सदस्यका लागि निर्वाचनमा सहभागी।",
+      "link_to_source": "https://nepsebajar.com/candidate/kamal-bahadur-magar-solukhumbu-1-kha-nepal-workers-and-peasants-party",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कृषि प्राविधिक (JTA) को रूपमा अनुभव",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिमा सक्रिय हुनु अघि र सँगसँगै उनले स्थानीय स्तरमा कृषि प्राविधिकको रूपमा काम गरी कृषकहरूलाई सेवा पुर्याएका थिए।",
+      "link_to_source": "https://nepsebajar.com/candidate/kamal-bahadur-magar-solukhumbu-1-kha-nepal-workers-and-peasants-party",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सोलुखुम्बु बहुमुखी क्याम्पसबाट उच्च शिक्षा",
+      "date": "२०६५-०१-०१",
+      "details": "सोलुखुम्बु बहुमुखी क्याम्पसबाट प्रमाणपत्र तह (+२) उत्तीर्ण गरी स्थानीय विद्यार्थी राजनीतिमा आवद्ध।",
+      "link_to_source": "https://nepsebajar.com/candidate/kamal-bahadur-magar-solukhumbu-1-kha-nepal-workers-and-peasants-party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कमल बहादुर मगर नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक निष्ठावान र सादगी कार्यकर्ता हुन्। सोलुखुम्बु जिल्लामा नेमकिपाको सांगठनिक आधार कमजोर भए तापनि उनले पार्टीको विचार र सिद्धान्तलाई निरन्तरता दिँदै २०७९ को प्रदेश सभा निर्वाचनमा प्रतिस्पर्धा गरेका थिए। निर्वाचनमा उनले १०० मत मात्र प्राप्त गरे, जसले उनको चुनावी प्रभाव निकै सीमित रहेको देखाउँछ। व्यावसायिक रूपमा कृषि प्राविधिक (जेटीए) को पृष्ठभूमि भएकाले उनले स्थानीय कृषकका समस्या बुझेको मानिन्छ। उनी विरुद्ध हालसम्म कुनै पनि भ्रष्टाचार वा नैतिक विवादका घटनाहरू सार्वजनिक भएका छैनन्। चुनावी राजनीतिमा विजय प्राप्त गर्न नसके पनि पार्टीप्रतिको उनीको इमान्दारिता र निष्कलंक छवि नै उनको मुख्य पहिचान हो।",
+  "overall_approval_rating": 48
+}

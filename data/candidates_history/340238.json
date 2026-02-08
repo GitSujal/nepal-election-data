@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340238,
+  "candidate_name": "संतोष कुमार पटेल",
+  "candidate_party": "नेपाल जनता पार्टी",
+  "candidate_party_logo": "https://nepsebajar.com/images/parties/nepal-janata-party.png",
+  "candidates_current_position": "समाजसेवी तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340238.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल जनता पार्टीको तर्फबाट पर्सा निर्वाचन क्षेत्र नम्बर २ मा प्रतिनिधि सभा सदस्यको लागि मनोनयन दर्ता गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/candidates/340238",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक पृष्ठभूमि",
+      "date": "२०६०-०१-०१",
+      "details": "उनले वीरगन्जको ठाकुर राम बहुमुखी क्याम्पसबाट स्नातक तहको शिक्षा पूरा गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/candidates/340238",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "धार्मिक तथा सामाजिक सेवा",
+      "date": "२०७५-०५-१०",
+      "details": "पर्सा जिल्लामा गौ माता सेवा (गाई संरक्षण) र विभिन्न धार्मिक अभियानहरूमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/candidates/340238",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल जनता पार्टीमा आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "हिन्दुत्व र सांस्कृतिक राष्ट्रवादको एजेन्डा बोकेको नेपाल जनता पार्टीको सांगठनिक विस्तारमा पर्सा जिल्लामा सक्रिय भूमिका खेलेका छन्।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/166531355034634752.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "संतोष कुमार पटेल पर्सा जिल्लाका एक सामाजिक अभियन्ता र नेपाल जनता पार्टीका उदीयमान नेता हुन्। उनको मुख्य राजनीतिक आधार धार्मिक र सामाजिक सेवा, विशेषगरी गौ सेवा र हिन्दुत्व केन्द्रित राजनीति हो। २०७९ को प्रतिनिधि सभा निर्वाचनमा पर्सा क्षेत्र नं. २ बाट चुनावी प्रतिस्पर्धामा उत्रिए पनि स्थापित ठूला दलहरू र चर्चित उम्मेदवारहरूको तुलनामा उनले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। उनको प्रभाव हालसम्म पर्साको स्थानीय सामाजिक घेरामा मात्र सीमित देखिन्छ। कुनै ठूलो राजनीतिक वा भ्रष्टाचार सम्बन्धी विवादमा नमुछिएका पटेललाई एक स्वच्छ छवि भएको तर कम चुनावी प्रभाव भएको उम्मेदवारका रूपमा लिइन्छ।",
+  "overall_approval_rating": 35
+}

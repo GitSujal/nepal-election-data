@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340720,
+  "candidate_name": "गोपाल खडका",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Rastriya_Prajatantra_Party.svg/800px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "पूर्व कार्यकारी निर्देशक, नेपाल आयल निगम",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340720.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम (पश्चिम)",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "सर्वोच्च अदालतमा पुनरावेदन",
+      "date": "२०८०-११-०४",
+      "details": "विशेष अदालतले सुनाएको सजाय कम भएको भन्दै अख्तियारले सर्वोच्च अदालतमा पुनरावेदन गरेको थियो।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/social/1418701-1710668925.html",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "भ्रष्टाचार मुद्दामा दोषी ठहर",
+      "date": "२०८०-०३-१५",
+      "details": "विशेष अदालतले उनलाई गैरकानुनी सम्पत्ति आर्जन गरेको अभियोगमा १५ महिना कैद र ९ करोड १९ लाख जरिवानाको फैसला सुनाएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/06/1328004",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९",
+      "date": "२०७९-०८-०४",
+      "details": "रुकुम पश्चिमबाट राप्रपाको उम्मेदवार बनेका खड्का भारी मतान्तरले पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "अख्तियारद्वारा भ्रष्टाचार मुद्दा दायर",
+      "date": "२०७५-०९-२३",
+      "details": "अख्तियारले १८ करोड ६६ लाख रुपैयाँ भ्रष्टाचार गरेको भन्दै खड्का विरुद्ध विशेष अदालतमा मुद्दा दायर गरेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2019/01/733158",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल आयल निगमबाट राजीनामा",
+      "date": "२०७५-०२-२४",
+      "details": "चौतर्फी विरोध र छानबिनको दबाबपछि उनले आयल निगमको कार्यकारी निर्देशक पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://khabardabali.com/2018/06/66041/",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आयल निगमको पदबाट बर्खास्त",
+      "date": "२०७४-०६-०२",
+      "details": "जग्गा खरिद घोटालामा संलग्न रहेको भन्दै सरकारले उनलाई पदबाट बर्खास्त गर्ने निर्णय गरेको थियो।",
+      "link_to_source": "https://ekantipur.com/news/2017/09/18/20170918134954.html",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जग्गा खरिद घोटाला सार्वजनिक",
+      "date": "२०७४-०४-१०",
+      "details": "विभिन्न जिल्लामा इन्धन भण्डारणका लागि जग्गा खरिद गर्दा करोडौं घोटाला गरेको तथ्य बाहिर आएको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2017/08/614856",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "आयल निगमको कार्यकारी निर्देशकमा नियुक्ति",
+      "date": "२०७१-१०-१४",
+      "details": "सुशील कोइराला नेतृत्वको सरकारले उनलाई आयल निगमको कार्यकारी निर्देशक नियुक्त गरेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2017/08/614856",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "गोपाल खड्का नेपालको प्रशासनिक इतिहासमा सबैभन्दा विवादित पात्रमध्ये एक हुन्। नेपाल आयल निगमको कार्यकारी निर्देशक रहँदा जग्गा खरिद प्रकरणमा करोडौंको भ्रष्टाचार गरेको अभियोगमा उनी विशेष अदालतबाट दोषी ठहर भइसकेका व्यक्ति हुन्। उनले २०७९ को निर्वाचनमा रुकुम पश्चिमबाट राप्रपाको तर्फबाट उम्मेदवारी दिएका थिए, जहाँ उनलाई 'टुरिस्ट उम्मेदवार' को रूपमा हेरिएको थियो। रुकुम पश्चिम जस्तो माओवादी केन्द्रको गढमा उनको उपस्थिति निकै कमजोर देखियो र उनी भारी मतान्तरले पराजित भए। भ्रष्टाचारको गम्भीर मुद्दा र जेल सजायको फैसलाले उनको राजनीतिक छवि र विश्वसनीयतालाई निकै कमजोर बनाएको छ। उनी चुनावी राजनीतिमा भन्दा पनि कानुनी झमेलाका कारण बढी चर्चामा रहने गर्दछन्।",
+  "overall_approval_rating": 12
+}

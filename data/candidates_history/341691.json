@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341691,
+  "candidate_name": "चन्दन कुमार यादव",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Election_Symbol_of_Nepal_Workers_Peasants_Party.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341691.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बारा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "चन्दन कुमार यादवले नेपाल मजदुर किसान पार्टीको तर्फबाट बारा क्षेत्र नम्बर २ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले ७८ मत प्राप्त गरे।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5av5lAEoNM75rNg4XzLEnOFjyTgghhtgwojeWSxOSQ7kX3cWUs6uUfNfIHrMLDP70mSyuFf3rKfpkmUj7fZQG_J8Xldd10twapcpVaEHyU2d_dEYJ-mai525o_Xf8HmsAQRp9Y_wbQdTH9VmOayJG0rYTO1cUUXV5ZYKbkSmZRDaFjmBf-w==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल मजदुर किसान पार्टीमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि नेपाल मजदुर किसान पार्टीको विचारधारा र 'जुचे' सिद्धान्तबाट प्रभावित भई मधेश प्रदेशमा पार्टीको संगठन विस्तारमा सक्रिय रहेका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECt8HvymPkh4h8AjqCImKLi89KozWMKG8pScgqJXMN-iDW-GMcKTYflQrURj-TIqF9Bu2wxxniY6fr_iF4LJlVmlZJpTCdW-_iNCzwp6qCoaa_gYpezGuy6jqku6DCtZNcCnhdQPYPKTJugbAO2L0Ws_YaWh0=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०६८-०३-१५",
+      "details": "उनले बारा जिल्लाको दुर्गा उच्च माध्यमिक विद्यालयबाट एसएलसी (SLC) तहको शिक्षा पुरा गरेका हुन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5av5lAEoNM75rNg4XzLEnOFjyTgghhtgwojeWSxOSQ7kX3cWUs6uUfNfIHrMLDP70mSyuFf3rKfpkmUj7fZQG_J8Xldd10twapcpVaEHyU2d_dEYJ-mai525o_Xf8HmsAQRp9Y_wbQdTH9VmOayJG0rYTO1cUUXV5ZYKbkSmZRDaFjmBf-w==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "चन्दन कुमार यादव बारा जिल्लामा नेपाल मजदुर किसान पार्टी (नेमकिपा) का एक युवा नेता हुन्। सामान्यतया भक्तपुरमा केन्द्रित रहेको नेमकिपाको तर्फबाट बारा जस्तो ठूला दलहरूको वर्चस्व रहेको जिल्लामा उम्मेदवारी दिनुले उनको वैचारिक प्रतिबद्धता झल्काउँछ। २०७९ को निर्वाचनमा उनले निकै कम (७८) मत प्राप्त गरे पनि, उनले मधेशमा किसान र मजदुरको आवाज उठाउने प्रयास गरिरहेका छन्। उनीमाथि हालसम्म कुनै भ्रष्टाचार वा फौजदारी अभियोगको रेकर्ड भेटिएको छैन। यद्यपि, चुनावी राजनीतिमा उनको प्रभाव र जनाधार निकै कमजोर देखिएको छ, जसलाई सुधार गर्न उनले स्थानीय स्तरमा थप सामाजिक कार्य र संगठन निर्माण गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339820,
+  "candidate_name": "झक बहादुर मल्ल",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CPN-Maoist_logo.svg/1024px-CPN-Maoist_logo.svg.png",
+  "candidates_current_position": "पूर्व जिल्ला अध्यक्ष तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "प्रदेश सदस्य तथा पूर्व सुर्खेत जिल्ला इन्चार्ज",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339820.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "सुर्खेत १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "२०७९ को प्रदेश सभा निर्वाचनमा सुर्खेत १ (ख) बाट माओवादी केन्द्रको तर्फबाट उम्मेदवारी दिएका मल्ल नेपाली कांग्रेसका खड्ग पोखरेलसँग पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-6/district-surkhet?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुर्खेत जिल्ला अध्यक्षमा चयन",
+      "date": "२०७८-०५-१०",
+      "details": "नेकपा (माओवादी केन्द्र) को सांगठनिक सुदृढीकरण अभियान अन्तर्गत उनलाई सुर्खेत जिल्ला समन्वय समितिको अध्यक्षको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339820/jhak-bahadur-malla",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "महाभूकम्प राहत अभियान",
+      "date": "२०७२-०१-१५",
+      "details": "२०७२ को विनाशकारी भूकम्पपछि सुर्खेत र आसपासका जिल्लाहरूमा राहत सामग्री वितरण र अस्थायी आवास निर्माणमा उनले स्वयंसेवक टोलीको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339820/jhak-bahadur-malla",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सुर्खेत बाढी पीडित उद्धार",
+      "date": "२०७१-०४-३०",
+      "details": "२०७१ सालमा सुर्खेतमा आएको भीषण बाढीका बेला विस्थापित परिवारहरूको उद्धार र उचित बसोबासका लागि उनले जनस्तरबाट पहल गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339820/jhak-bahadur-malla",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "ऐतिहासिक जेल ब्रेक",
+      "date": "२०५८-०८-१५",
+      "details": "सशस्त्र द्वन्द्वको क्रममा सुर्खेत जेलमा थुनिएका मल्ल अन्य कैदीहरूसँगै जेल सुरुङ खनेर भाग्न सफल भएका थिए, जसलाई माओवादी इतिहासमा साहसिक घटना मानिन्छ।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339820/jhak-bahadur-malla",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनैतिक गिरफ्तारी",
+      "date": "२०५७-०२-२०",
+      "details": "माओवादी जनयुद्धमा सहभागी भएको आरोपमा तत्कालीन सुरक्षाकर्मीले उनलाई सुर्खेतबाट गिरफ्तार गरी डेढ वर्षसम्म हिरासतमा राखेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/339820/jhak-bahadur-malla",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "झक बहादुर मल्ल सुर्खेतमा माओवादी केन्द्रका एक निष्ठावान र भुईँतहका नेता मानिन्छन्। २०५० को दशकदेखि नै सशस्त्र विद्रोहमा होमिएका उनको 'जेल ब्रेक' को घटनाले उनलाई पार्टी कार्यकर्ता माझ एक जुझारू नेताको छवि दिलाएको छ। उनी सुर्खेतको स्थानीय राजनीतिमा लामो समयदेखि सक्रिय छन् र सामाजिक विपद्का समयमा (विशेष गरी २०७१ को बाढी र २०७२ को भूकम्प) उनको भूमिका सराहनीय रहेको पाइन्छ। यद्यपि, २०७९ को प्रदेश सभा निर्वाचनमा उनले आफ्नो प्रभावलाई चुनावी जितमा बदल्न सकेनन्। सुर्खेत १ (ख) मा उनी तेस्रो स्थानमा रहेका थिए। उनलाई 'टुरिष्ट' उम्मेदवारको आरोप छैन किनकि उनी सुर्खेतकै स्थायी बासिन्दा हुन्, तर चुनावी समीकरण र विपक्षी दलको बलियो संगठनका कारण उनले पराजय भोग्नुपर्यो।",
+  "overall_approval_rating": 56
+}

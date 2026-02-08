@@ -26,6 +26,7 @@ minister_counts as (
 ),
 
 -- Unnest election_history to count total elections and wins
+-- Exclude 2082 BS entries (current election, hasn't happened yet)
 election_details as (
     select
         s.candidate_id,
@@ -33,6 +34,7 @@ election_details as (
         eh.result
     from source s
     cross join unnest(s.election_history) as t(eh)
+    where eh.year != '२०८२'
 ),
 
 -- Count total elections and wins from profile history
@@ -58,7 +60,7 @@ profile_stats as (
         s.candidates_current_position,
         s.candidates_current_position_in_party,
         s.candidate_picture,
-        s.election_history,
+        list_filter(s.election_history, x -> x.year != '२०८२') as election_history,
         s.political_history,
         s.analysis,
         s.overall_approval_rating,

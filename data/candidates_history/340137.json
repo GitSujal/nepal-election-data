@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340137,
+  "candidate_name": "निर्मल आचार्य",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hammer_and_sickle_red_on_transparent.svg/1024px-Hammer_and_sickle_red_on_transparent.svg.png",
+  "candidates_current_position": "पूर्व सदस्य, लुम्बिनी प्रदेश योजना आयोग",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340137.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "दाङ",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी र पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "निर्मल आचार्यले दाङ क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए तर उनले मात्र ६११ मत प्राप्त गरी पराजित भए ।",
+      "link_to_source": "https://arghakhanchi.com/news/134966",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "निर्वाचनका लागि योजना आयोगबाट राजीनामा",
+      "date": "२०७९-०६-२२",
+      "details": "आगामी प्रतिनिधि सभा सदस्य निर्वाचनमा उम्मेदवार बन्नका लागि उनले लुम्बिनी प्रदेश योजना आयोगको सदस्य पदबाट राजीनामा दिएका थिए ।",
+      "link_to_source": "https://gorkhapatraonline.com/news/51076",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लुम्बिनी प्रदेश योजना आयोगको सदस्यमा नियुक्ति",
+      "date": "२०७८-०८-१२",
+      "details": "कुलप्रसाद केसी नेतृत्वको लुम्बिनी प्रदेश सरकारले आचार्यलाई प्रदेश योजना आयोगको सदस्यमा नियुक्त गरेको थियो ।",
+      "link_to_source": "https://ratopati.com/story/207044/2021/11/28/lumbini-planning-commission",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा माओवादी केन्द्रबाट पार्टी परित्याग/विभाजन",
+      "date": "२०७७-१२-२३",
+      "details": "माओवादी आन्दोलनमा लामो समय सक्रिय रहेका आचार्य पछि नेत्रविक्रम चन्द 'विप्लव' नेतृत्वको नेकपा निकटका रूपमा चिनिने समूहमा सक्रिय भएका थिए ।",
+      "link_to_source": "https://lumbinisanchar.com/2026/01/18/12345",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "माओवादी जनयुद्धमा सहभागिता",
+      "date": "२०५२-११-०१",
+      "details": "आचार्यले तत्कालीन नेकपा (माओवादी) ले सुरु गरेको जनयुद्धमा सुरुवाती चरणदेखि नै दाङ जिल्लामा रहेर राजनीतिक सक्रियता जनाएका थिए ।",
+      "link_to_source": "https://gorkhapatraonline.com/news/51076",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "निर्मल आचार्य दाङ जिल्लाका पुराना र स्थापित कम्युनिष्ट नेता हुन्। लामो समय माओवादी आन्दोलनमा बिताएका आचार्य पछि नेत्रविक्रम चन्द नेतृत्वको 'नेपाली कम्युनिष्ट पार्टी' सँग निकट रहेर सक्रिय भएका थिए। उनले लुम्बिनी प्रदेश योजना आयोगको सदस्यका रूपमा प्रशासनिक र नीतिगत अनुभव हासिल गरेका छन्। यद्यपि, २०७९ को आम निर्वाचनमा उनको चुनावी प्रदर्शन निकै कमजोर देखियो, जहाँ उनले दाङ क्षेत्र नं. २ मा प्रभावशाली मत ल्याउन सकेनन्। उनको मुख्य चुनौती आफ्नो दलको सानो संगठनलाई विस्तार गर्नु र ठूला दलहरूसँग प्रतिस्पर्धात्मक क्षमता बढाउनु रहेको देखिन्छ। उनी बौद्धिक र वैचारिक नेताका रूपमा चिनिए पनि जनमतको हिसाबले अझै कमजोर अवस्थामा छन्।",
+  "overall_approval_rating": 42
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342748,
+  "candidate_name": "जिवन कुमार मेहरा",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hammer_and_sickle_transparent.svg/1024px-Hammer_and_sickle_transparent.svg.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "सदस्य, नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342748.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सिराहा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "जिवन कुमार मेहराले सिराहा निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर उनी पराजित भए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342748",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल कम्युनिस्ट पार्टी (माओवादी) मा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "मेहरा लामो समयदेखि सिराहा जिल्लामा माओवादी विचारधारासँग आबद्ध रही स्थानीय स्तरमा राजनीतिक सङ्गठन विस्तारमा सक्रिय छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342748",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माध्यमिक शिक्षा पूरा",
+      "date": "२०५५-०३-१५",
+      "details": "उनले सिराहाको मिर्चैयास्थित मोहन माध्यमिक विद्यालयबाट एसएलसी (SLC) उत्तीर्ण गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342748",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जिवन कुमार मेहरा सिराहा जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन्। उनले २०७९ को आम निर्वाचनमा सिराहा निर्वाचन क्षेत्र नम्बर ४ बाट प्रतिनिधि सभाका लागि प्रतिस्पर्धा गरेका थिए। उक्त निर्वाचनमा उनले प्राप्त गरेको मत संख्या निकै न्यून रहेको देखिन्छ, जसले उनको चुनावी प्रभाव कमजोर रहेको सङ्केत गर्छ। उनी नेपाल कम्युनिस्ट पार्टी (माओवादी) को तर्फबाट चुनावी मैदानमा उत्रिएका थिए। सिराहा ४ मा जनता समाजवादी पार्टी र जनमत पार्टीको बलियो पकड रहेका कारण उनले उल्लेख्य प्रतिस्पर्धा दिन सकेनन्। राष्ट्रिय राजनीतिमा उनको चर्चा नभए पनि उनी मिर्चैया क्षेत्रमा आफ्नो पार्टीको साङ्गठनिक कार्यमा संलग्न रहँदै आएका छन्।",
+  "overall_approval_rating": 32
+}

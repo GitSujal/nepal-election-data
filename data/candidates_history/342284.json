@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342284,
+  "candidate_name": "ङुटुक गुरुङ",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CPN-Maoist_Centre_logo.svg/1024px-CPN-Maoist_Centre_logo.svg.png",
+  "candidates_current_position": "राजनीतिज्ञ तथा व्यवसायी",
+  "candidates_current_position_in_party": "जिल्ला स्तरका नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342284.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मुस्ताङ",
+      "constituency": "मुस्ताङ-१",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मुस्ताङ जिल्लाबाट प्रतिनिधि सभा सदस्यका लागि नेपाली कम्युनिष्ट पार्टी (माओवादी केन्द्र) बाट उम्मेदवारी दिएका थिए तर नेपाली कांग्रेसका योगेश गौचन थकालीसँग पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/constituency/401",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा (माओवादी केन्द्र) मा सक्रियता",
+      "date": "२०७८-१०-१५",
+      "details": "मुस्ताङको माथिल्लो भेग लो-घेकर दामोदरकुण्ड क्षेत्रमा माओवादी केन्द्रको संगठन विस्तार र सुदृढीकरणमा सक्रिय भूमिका निर्वाह गर्दै आएका।",
+      "link_to_source": "https://www.setopati.com/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "व्यवसाय र समाजसेवामा संलग्नता",
+      "date": "२०७५-०५-२०",
+      "details": "मुस्ताङको पर्यटन व्यवसाय र स्थानीय सामाजिक विकासका कामहरूमा आबद्ध भई आफ्नो पहिचान बनाएका।",
+      "link_to_source": "https://loghekardamodarkundamun.gov.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ङुटुक गुरुङ मुस्ताङको राजनीतिमा एक उदीयमान नाम हुन्। उनी विशेष गरी उपल्लो मुस्ताङको लो-घेकर दामोदरकुण्ड क्षेत्रबाट सक्रिय छन्। २०७९ को आम निर्वाचनमा उनले नेकपा (माओवादी केन्द्र) बाट प्रतिनिधि सभाका लागि उम्मेदवारी दिएका थिए, यद्यपि उनी विजयी हुन सकेनन्। उनको पारिवारिक पृष्ठभूमि परम्परागत उपचार पद्धति (आम्ची) सँग जोडिएको छ, जसले गर्दा स्थानीय स्तरमा उनको राम्रो प्रभाव रहेको छ। राजनीति बाहेक उनी मुस्ताङको पर्यटन र सामाजिक क्षेत्रमा पनि सक्रिय छन्। अहिलेसम्म उनको नाममा कुनै ठूला भ्रष्टाचार वा विवादका घटनाहरू सार्वजनिक भएका छैनन्, जसले गर्दा उनी एक सफा छविका नेताको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 48
+}

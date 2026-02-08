@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341580,
+  "candidate_name": "रामअशिष राय यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/JSPN_flag.png",
+  "candidates_current_position": "पूर्व प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341580.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१ (ख)",
+      "result": "विजयी",
+      "party": "संघीय समाजवादी फोरम, नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "१ (ख)",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टी विभाजन र जसपा नेपालमै निरन्तरता",
+      "date": "२०८१-०१-२३",
+      "details": "जनता समाजवादी पार्टी नेपालमा भएको फुटपछि उपेन्द्र यादव नेतृत्वको मूल पार्टीमै रहने निर्णय गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/news/2024/05/06/split-in-jsp-nepal-1714971274.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा झिनो मतान्तरले पराजित",
+      "date": "२०७९-०८-०९",
+      "details": "रौतहट क्षेत्र नं. १(ख) बाट जसपाका उम्मेदवार रहेका उनी नेपाली कांग्रेसका बेचन यादवसँग मात्र २३४ मतको अन्तरले पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult79.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जनता समाजवादी पार्टी (जसपा) को गठन",
+      "date": "२०७७-०१-१०",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टी बीचको एकता पछि बनेको जसपाको नेताको रूपमा क्रियाशील रहे।",
+      "link_to_source": "https://www.setopati.com/politics/204895",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "समाजवादी पार्टी नेपालको निर्माण",
+      "date": "२०७६-०२-०३",
+      "details": "संघीय समाजवादी फोरम र नयाँ शक्ति पार्टी नेपाल बीचको एकता प्रक्रियामा सक्रिय सहभागी भई नयाँ पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/naya-shakti-ssf-n-merge-to-form-samajbadi-party-nepal",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मधेश प्रदेश सभा सदस्यको रूपमा शपथ",
+      "date": "२०७४-१०-०७",
+      "details": "रौतहटबाट निर्वाचित भएपछि मधेश प्रदेश सभाको पहिलो कार्यकालको सदस्यका रूपमा शपथ ग्रहण गरेका थिए।",
+      "link_to_source": "https://deshsanchar.com/2018/01/21/28004/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "रौतहट १(ख) बाट १०,३९१ मत प्राप्त गरी मधेश प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/Result2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मधेश आन्दोलनमा सक्रिय सहभागिता",
+      "date": "२०७२-०५-०१",
+      "details": "मधेशी अधिकार र संघीयताका लागि भएको आन्दोलनमा रौतहट जिल्लाबाट नेतृत्वदायी भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://www.bbc.com/nepali/news/2015/09/150920_madhesh_protest",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रामअशिष राय यादव रौतहट जिल्लाका प्रभावशाली मधेशी नेता हुन्। २०७४ सालको निर्वाचनमा रौतहट १(ख) बाट प्रदेश सभा सदस्यमा विजयी भएर उनले आफ्नो संसदीय यात्रा सुरु गरेका थिए। उनी उपेन्द्र यादव नेतृत्वको पार्टीमा लामो समयदेखि वफादार रहँदै आएका छन्। २०७९ को निर्वाचनमा उनले १३,६२२ मत प्राप्त गरे पनि नेपाली कांग्रेसका उम्मेदवारसँग अत्यन्तै न्यून मतान्तरले पराजित हुनुपर्यो, जसले गर्दा उनको स्थानीय प्रभाव अझै बलियो रहेको देखिन्छ। उनी कुनै ठूला भ्रष्टाचार वा विवादमा मुछिएका छैनन्, जसले गर्दा मतदातामाझ उनको छवि स्वच्छ रहेको मानिन्छ। मधेश आन्दोलनका मुद्दाहरूमा उनी सधैं स्पष्ट र प्रखर रहने गरेका छन्।",
+  "overall_approval_rating": 72
+}

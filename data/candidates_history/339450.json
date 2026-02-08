@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339450,
+  "candidate_name": "जगत प्रसाद रेग्मी",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Glass_Election_Symbol_Nepal.png/120px-Glass_Election_Symbol_Nepal.png",
+  "candidates_current_position": "राष्ट्रिय जनमोर्चाका केन्द्रीय नेता",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339450.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "काठमाडौं क्षेत्र नं ६ बाट प्रतिनिधिसभामा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा राष्ट्रिय जनमोर्चाको तर्फबाट काठमाडौं क्षेत्र नम्बर ६ मा प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले थोरै मत प्राप्त गरी पराजय भोगे।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetailQuery.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संघीयता विरुद्धको अभियानमा सक्रियता",
+      "date": "२०७९-०७-१५",
+      "details": "आफ्नो चुनावी अभियानका क्रममा नेपालको वर्तमान संघीय संरचनाले देशमा आर्थिक बोझ मात्र बढाएको भन्दै संघीयता खारेजीको कडा वकालत गरेका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=FmJpWn3Uu_A",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दैलेखबाट राजनीतिक यात्राको सुरुवात",
+      "date": "२०४६-०१-०१",
+      "details": "दैलेख जिल्लाको साविक मेहेलतोली गाविस (हाल भगवतीमाई गाउँपालिका-३) मा जन्मनुभएका रेग्मीले विद्यार्थी जीवनदेखि नै दैलेखमा विभिन्न राजनीतिक र सामाजिक आन्दोलनको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=FmJpWn3Uu_A",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जगत प्रसाद रेग्मी राष्ट्रिय जनमोर्चाका एक निष्ठावान र वैचारिक नेताका रूपमा चिनिन्छन्। दैलेख जिल्ला स्थायी घर भएता पनि २०७९ को निर्वाचनमा काठमाडौं क्षेत्र नम्बर ६ बाट उम्मेदवारी दिएकाले उनलाई 'टुरिष्ट' उम्मेदवारको रूपमा हेरिएको थियो। उनको मुख्य राजनीतिक एजेन्डा नेपालबाट संघीयता खारेज गरी एकात्मक राज्य प्रणाली कायम गर्नु रहेको छ। निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न नसके पनि उनी आफ्नो पार्टीको नीति र सिद्धान्तमा दृढ रहने नेताको रूपमा परिचित छन्। काठमाडौंमा उनको बलियो स्थानीय जनाधार नभएका कारण उनलाई चुनावी परिणाममा सफलता पाउन कठिन देखिएको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 38
+}

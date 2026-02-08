@@ -1,0 +1,63 @@
+{
+  "candidate_id": 342139,
+  "candidate_name": "सरोज राई",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Shram_Sanskriti_Party_Flag.png",
+  "candidates_current_position": "केन्द्रीय सदस्य, श्रम संस्कृति पार्टी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342139.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र (लौरो अभियान)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीको तर्फबाट ललितपुरमा उम्मेदवारी घोषणा",
+      "date": "२०८१-१०-१५",
+      "details": "हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीबाट ललितपुरको निर्वाचन क्षेत्रमा उम्मेदवारका रूपमा प्रचारप्रसार सुरु।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHokOZWevUFIgz7C9jJ42poJOAe1F1pNAP1YvKEWJ0-srF1BDC4YDzCxBvyQikaz3S7Pde4zGmx0Zs4OJBozhb66Ar5GtyafTJl93E2aMYTXQAsSx6vw-xydZASbCcxQvWbQBiB",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीको आधिकारिक दर्ता",
+      "date": "२०८२-०७-१७",
+      "details": "धरानका मेयर हर्क साम्पाङको अध्यक्षतामा निर्वाचन आयोगमा श्रम संस्कृति पार्टी दर्ता भएको, जसमा सरोज राईको महत्वपूर्ण भूमिका रहेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fHdTUu8QkEcKHF1v1ASy1KU5mCoBpj_fa13odtHArVXYGk08ccXw2AzMhXykCP1UyLDkcjirqrRC1dlnucgYB_-g4HiF5ZLNsqocUCqBZS9oJx1gjsLW9GQrrqXE9lwdx5dos2hZLg==",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कोकाहा खोला खानेपानी आयोजनामा ९८ दिने श्रमदान",
+      "date": "२०८०-०३-२८",
+      "details": "धरानमा खानेपानीको समस्या समाधान गर्न ४२ किलोमिटर टाढाबाट पाइप तानेर पानी ल्याउने अभियानमा सक्रिय सहभागी र स्वयंसेवक।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXXcFYZlK78Snhiiy8EOINNR8f0pUYFXBUsyuh6myCydGA3TLUOjMPw-fkrSc5dKA2z5livlyqjS-eYPoaXtmZlMbx8MBwmudtdTvS-7Rte1PtXlWpaMzZ8_5YHuj1Lm4OCpQ7i-ZjcLTcNdzBoBlM1sT0FzHA_7PJwqKvPw==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा ललितपुरबाट प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "ललितपुर क्षेत्र नं २ बाट स्वतन्त्र उम्मेदवारका रूपमा 'लौरो' चुनाव चिह्न लिएर चुनावी मैदानमा उत्रिएका तर पराजित भएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtqsLXj4XDLdQjLMR892PCew4SuYcAzGstLRfVQpgEa4iKJtBhdIrbbL5NsLh9OuijZ_qdsQXsUK_6DDDFx7g89scPflpgXK4ylOQlQI5GV4GVNwhPT3TsrETrE_0wQewx90WFOyc=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हर्क साम्पाङको 'श्रमदान' अभियानमा सक्रियता",
+      "date": "२०७९-०४-१०",
+      "details": "धरानमा मेयर हर्क साम्पाङले सुरु गरेको ढुङ्गा बोक्ने र वृक्षारोपण गर्ने श्रमदान अभियानमा अग्रपङ्क्तिमा रहेर योगदान।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbf1AXBnH6QKtl-PmpVGS4CmXPiyV2v-AOUQYpJ9mTZhsYaI3vxJ5ER9aFE4dmkn_3D7gF6aJmSb6y1ptbG-4nNn0wWKkNoO4xHdA39iAN8bXT5xwBKpbw_P79X0_hVT2-lw==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सरोज राई धरानका मेयर हर्क साम्पाङका अत्यन्त निकट सहयोगी र 'श्रम संस्कृति' विचारधाराका अभियन्ता हुन्। उनी धरानको खानेपानी आयोजना र श्रमदान अभियानमा लामो समय सक्रिय रहेर राष्ट्रिय राजनीतिमा उदाएका हुन्। उनलाई ललितपुरको निर्वाचनमा 'टुरिष्ट उम्मेदवार' (पर्यटक उम्मेदवार) को रूपमा हेरिने गरिन्छ, किनकि उनको मुख्य राजनीतिक आधार क्षेत्र धरान र पूर्व नेपाल हो। ललितपुरमा उनको उपस्थितिलाई हर्क साम्पाङको 'श्रमदान ब्राण्ड' विस्तार गर्ने प्रयासको रूपमा विश्लेषण गरिएको छ। यद्यपि उनले अघिल्लो निर्वाचनमा उल्लेख्य मत प्राप्त गर्न सकेनन्, तर उनको स्वच्छ छवि र श्रमप्रतिको निष्ठाले युवा तथा स्वतन्त्र मतदाताहरूमा केही प्रभाव पारेको छ।",
+  "overall_approval_rating": 62
+}

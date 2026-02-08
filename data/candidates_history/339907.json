@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339907,
+  "candidate_name": "ज्योति रोका मगर",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_the_Mongol_National_Organisation.svg/1200px-Flag_of_the_Mongol_National_Organisation.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "जिल्ला स्तरको नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339907.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुकुम (पूर्वी भाग)",
+      "constituency": "रुकुम (पूर्वी भाग) - १",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट रुकुम पूर्व निर्वाचन क्षेत्र नं १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेकी थिइन्। उनले यस निर्वाचनमा ४३२ मत प्राप्त गरेकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/SearchCandidate.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७७-०१-०१",
+      "details": "लामो समयदेखि मंगोल नेशनल अर्गनाइजेसनमा आबद्ध भई रुकुम पूर्वमा जातीय पहिचान र अधिकारका लागि संगठनात्मक कार्यमा सक्रिय छिन्।",
+      "link_to_source": "https://mongolnationalorganisation.org.np/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ज्योति रोका मगर रुकुम पूर्वको राजनीतिमा मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उदाउँदो अनुहार हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले रुकुम पूर्वबाट उम्मेदवारी दिएकी थिइन्, जुन क्षेत्र नेकपा (माओवादी केन्द्र) को गढ मानिन्छ। उनले प्राप्त गरेको मत संख्या (४३२) न्यून भए पनि, दुर्गम र राजनीतिक रूपमा चुनौतीपूर्ण क्षेत्रमा पहिचानवादी राजनीति अगाडि बढाउनु उनको मुख्य विशेषता हो। उनको अहिलेसम्मको राजनीतिक जीवनमा कुनै ठूला भ्रष्टाचार वा विवादहरू देखिएका छैनन्। उनले मुख्यतया 'मुलबासी' मंगोल समुदायको अधिकार र पहिचानलाई आफ्नो राजनीतिक मुद्दा बनाउँदै आएकी छिन्।",
+  "overall_approval_rating": 45
+}

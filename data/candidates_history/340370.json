@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340370,
+  "candidate_name": "कमला लालचन",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी / पूर्व शिक्षिका",
+  "candidates_current_position_in_party": "जिल्ला उपाध्यक्ष (राप्रपा मुस्ताङ)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340370.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मुस्ताङ",
+      "constituency": "मुस्ताङ १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "कमला लालचनले मुस्ताङ जिल्लाबाट राष्ट्रिय प्रजातन्त्र पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि मनोनयन दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://gorkhapatraonline.com/news/60340",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी उपाध्यक्षको जिम्मेवारी",
+      "date": "२०७८-०८-१५",
+      "details": "लालचन मुस्ताङ जिल्लामा राप्रपाको संगठन सुदृढीकरणमा सक्रिय छिन् र हाल जिल्ला स्तरको नेतृत्वमा उपाध्यक्षको रूपमा कार्यरत छिन्।",
+      "link_to_source": "https://emustangnews.com/2026/01/18/raprpa-kamala-lalchan-nomination/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शिक्षण पेशा र सामाजिक सेवा",
+      "date": "२०४५-०५-१०",
+      "details": "राजनीतिमा प्रवेश गर्नुअघि उनले लामो समय मुस्ताङका स्थानीय विद्यालयहरूमा शिक्षण गरी शैक्षिक विकासमा योगदान पुर्याएकी थिइन्।",
+      "link_to_source": "https://sajilopatrika.com/kamala-lalchan/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "महिला सशक्तीकरण अभियान",
+      "date": "२०७०-०१-१५",
+      "details": "मुस्ताङको घरपझोङ क्षेत्रमा महिलाहरूको हकहित र सशक्तीकरणका लागि विभिन्न स्थानीय समूहहरूको नेतृत्व र सामाजिक कार्यमा संलग्न।",
+      "link_to_source": "https://sajilopatrika.com/kamala-lalchan/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "कमला लालचन मुस्ताङ जिल्लाको राजनीतिमा एक निष्कलंक र अनुभवी महिला नेतृको रूपमा चिनिन्छिन्। शिक्षण पेशाबाट अवकाश पाएपछि उनी राष्ट्रिय प्रजातन्त्र पार्टीमार्फत सक्रिय राजनीतिमा होमिएकी हुन्। वि.सं. २०२१ सालमा मुस्ताङमा जन्मिएकी लालचनले शिक्षाशास्त्रमा स्नातक गरेकी छिन्, जसले गर्दा उनलाई स्थानीयस्तरमा बौद्धिक व्यक्तिको रूपमा हेरिन्छ। २०७९ को निर्वाचनमा उनले पराजय भोगे पनि मुस्ताङमा राप्रपाको उपस्थिति जोगाउन उनको भूमिका महत्त्वपूर्ण छ। उनी कुनै पनि ठूला काण्ड वा भ्रष्टाचारमा मुछिएकी छैनन्, जसले गर्दा उनको सामाजिक प्रतिष्ठा उच्च छ। दुर्गम क्षेत्रको विकास र महिला सहभागितालाई उनले आफ्नो राजनीतिको मुख्य एजेन्डा बनाएकी छिन्।",
+  "overall_approval_rating": 60
+}

@@ -1,0 +1,103 @@
+{
+  "candidate_id": 339653,
+  "candidate_name": "वालेन्द्र शाह",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rastriya_Swatantra_Party_Logo.svg/1200px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "पूर्व प्रमुख, काठमाडौँ महानगरपालिका",
+  "candidates_current_position_in_party": "वरिष्ठ नेता तथा प्रधानमन्त्रीका प्रस्तावित उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339653.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "नगर प्रमुख",
+      "district": "काठमाडौँ",
+      "constituency": "काठमाडौँ महानगरपालिका",
+      "result": "विजयी",
+      "party": "स्वतन्त्र"
+    },
+    {
+      "year": "२०८२",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ५",
+      "result": "N/A",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "झापा-५ बाट उम्मेदवारी दर्ता",
+      "date": "२०८२-११-०४",
+      "details": "एमाले अध्यक्ष केपी शर्मा ओलीको गढ मानिने झापा क्षेत्र नं. ५ बाट उनले प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता गराएका छन्।",
+      "link_to_source": "https://kathmandupost.com/politics/2026/01/20/balen-shah-files-candidacy-from-jhapa-5",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "काठमाडौँ महानगर प्रमुखबाट राजीनामा",
+      "date": "२०८२-१०-०४",
+      "details": "संसदीय निर्वाचनमा होमिनका लागि उनले काठमाडौँ महानगरपालिकाको प्रमुख पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2026/01/1429933",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०८२-०९-१२",
+      "details": "स्वतन्त्र राजनीति त्यागेर बालेन शाह औपचारिक रूपमा रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भए।",
+      "link_to_source": "https://www.youtube.com/watch?v=1u4bY5XfEyo",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "पिता डा. रामनारायण शाहको निधन",
+      "date": "२०८२-०८-१५",
+      "details": "उनका पिता तथा आयुर्वेद चिकित्सक डा. रामनारायण शाहको ७७ वर्षको उमेरमा उपचारका क्रममा निधन भयो।",
+      "link_to_source": "https://risingnepaldaily.com/news/35921",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सुकुम्बासी बस्ती हटाउने विवाद",
+      "date": "२०७९-०८-१२",
+      "details": "थापाथलीस्थित बागमती किनारको सुकुम्बासी बस्ती बलपूर्वक हटाउन खोज्दा नगर प्रहरी र स्थानीयबीच झडप भएको थियो।",
+      "link_to_source": "https://kathmandupost.com/visual-stories/2022/11/28/clash-ensues-at-thapathali-squatter-settlement",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "टुकुचा खोला उत्खनन अभियान",
+      "date": "२०७९-०५-२३",
+      "details": "काठमाडौँको ऐतिहासिक टुकुचा खोला मिचेर बनाइएका संरचना हटाउन उनले डोजर चलाएर उत्खनन कार्य सुरु गरेका थिए।",
+      "link_to_source": "https://www.nepalkhabar.com/politics/134983",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "काठमाडौँ महानगर प्रमुखमा ऐतिहासिक जित",
+      "date": "२०७९-०२-१२",
+      "details": "स्वतन्त्र उम्मेदवारका रूपमा उनले स्थापित दलका उम्मेदवारहरूलाई भारी मतान्तरले पराजित गर्दै प्रमुखमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Balen_Shah",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "डिजिटल पारदर्शिता र बैठक लाइभ",
+      "date": "२०७९-०२-१६",
+      "details": "पदभार सम्हाले लगतै उनले कार्यपालिका बैठकलाई प्रत्यक्ष प्रसारण गर्ने निर्णय गरी शासकीय पारदर्शितामा सुधार ल्याए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/05/1132984",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "र्‍यापर र इन्जिनियरिङ करियर",
+      "date": "२०६९-०१-०१",
+      "details": "राजनीतिमा आउनुअघि उनी एक सफल स्ट्रक्चरल इन्जिनियर र चर्चित नेपहप र्‍यापरका रूपमा परिचित थिए।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Balen_Shah",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "बालेन्द्र शाह (बालेन) नेपाली राजनीतिको एक उदीयमान र प्रभावशाली शक्ति हुन्। काठमाडौँ महानगरको प्रमुखका रूपमा उनले फोहोर व्यवस्थापन, डिजिटल सुशासन र अनधिकृत संरचना हटाउने कार्यमा सक्रियता देखाएर युवा पुस्ताको मन जिते। यद्यपि, कार्यकाल पूरा नहुँदै राजीनामा दिएर राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गर्नु र आफ्नो क्षेत्र छाडी झापा-५ बाट चुनाव लड्नुले उनको 'टुरिष्ट उम्मेदवार' (Tourist Candidate) छविलाई बल पुर्याएको छ। यस कदमले स्थानीय मतदातामा कस्तो प्रभाव पार्छ भन्ने चासोको विषय बनेको छ। उनको सुकुम्बासी व्यवस्थापन र सडक व्यापारीप्रतिको कठोर नीतिलाई कतिपयले अमानवीय भनेर आलोचना पनि गरेका छन्। समग्रमा, बालेनको लोकप्रियता उच्च भए पनि उनको राजनीतिक अस्थिरता र महत्त्वाकाङ्क्षाले उनको भविष्यलाई चुनौतीपूर्ण बनाएको छ।",
+  "overall_approval_rating": 72
+}

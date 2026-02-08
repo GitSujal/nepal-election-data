@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341789,
+  "candidate_name": "केदार बहादुर कार्की",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341789.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "निर्वाचन क्षेत्र नं. ६",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "काठमाडौं क्षेत्र नं. ६ बाट स्वतन्त्र उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "२०७९ सालको प्रतिनिधिसभा निर्वाचनमा काठमाडौं क्षेत्र नम्बर ६ बाट स्वतन्त्र उम्मेदवारको रूपमा निर्वाचन लडेका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341789",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०७०-०१-०१",
+      "details": "ओखलढुंगामा जन्मिएका कार्कीले लामो समयदेखि सामाजिक र सामुदायिक सेवामा संलग्न रहँदै स्वतन्त्र राजनीतिक पहिचान बनाएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3O3VduP3OJ6meCPGLGqA7BvQLxqG6DmXpCst4Ebgg5r1b7q4J7XO3ye5-SzwWA5Mt_5PhMJ8X_4W5e0kuXe0ZC3UAapEr7inW-w2uOo9S86OIP0kVqXOLrIHLXnDMcNbjm8Q_MTOYj-YjlBI",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "केदार बहादुर कार्की एक स्वतन्त्र राजनीतिज्ञ हुन् जसले २०७९ सालको प्रतिनिधिसभा निर्वाचनमा काठमाडौं निर्वाचन क्षेत्र नं. ६ बाट प्रतिस्पर्धा गरेका थिए। ओखलढुंगामा जन्मिएका कार्कीको राजनीतिक यात्रा मुख्यतया स्वतन्त्र उम्मेदवारको रूपमा अगाडि बढेको देखिन्छ। उनले निर्वाचनमा उल्लेख्य मत प्राप्त गर्न नसके पनि स्थानीय स्तरमा सामाजिक कार्यहरूमा संलग्न रहने गरेका छन्। कोशी प्रदेशका पूर्व मुख्यमन्त्री केदार कार्कीसँग नाम मिल्दोजुल्दो भए तापनि यी दुई फरक व्यक्तित्व हुन् र यिनको राजनीतिक प्रभाव मुख्यतया काठमाडौं र ओखलढुंगा क्षेत्रमा सीमित छ। उनको उम्मेदवारीले ठूला दलहरूका विरुद्ध स्वतन्त्र आवाज उठाउने प्रयास गरेको देखिन्छ।",
+  "overall_approval_rating": 45
+}

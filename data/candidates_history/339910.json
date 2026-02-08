@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339910,
+  "candidate_name": "टेक बहादुर सार्की",
+  "candidate_party": "संयुक्त नागरिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Small_Party_Symbol.png/120px-Small_Party_Symbol.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधिसभा उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339910.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "कास्की",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "संयुक्त नागरिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कास्की क्षेत्र नं. २ बाट संयुक्त नागरिक पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए। निर्वाचनमा उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=339910",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "संयुक्त नागरिक पार्टीमा आबद्धता",
+      "date": "२०७९-०४-१५",
+      "details": "नेपाल दलित पार्टी र सामाजिक एकता पार्टीबीचको सहकार्य र ध्रुवीकरणपछि बनेको संयुक्त नागरिक पार्टीमा सक्रिय भई निर्वाचनमा होमिएका थिए।",
+      "link_to_source": "https://election.gov.np/np/page/political-parties",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलित अधिकारको मुद्दामा सक्रियता",
+      "date": "२०७५-१०-२०",
+      "details": "नेपाल दलित पार्टीमा रहँदा उनले दलित र सीमान्तकृत समुदायको उत्थानका लागि विभिन्न राजनीतिक तथा सामाजिक कार्यक्रमहरूमा सहभागिता जनाएका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/दलित",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "टेक बहादुर सार्की कास्की जिल्लाबाट राजनीतिमा सक्रिय एक सीमान्तकृत समुदायका नेता हुन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उनले कास्की क्षेत्र नं. २ बाट संयुक्त नागरिक पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, तर उनले जनमत बटुल्न भने सकेनन्। उनलाई स्रोतले 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा उल्लेख गरेको छ, जसले उनी सो क्षेत्रको स्थानीय बासिन्दा नभएको वा स्थानीय स्तरमा मजबुत पकड नभएको संकेत गर्दछ। उनको राजनीतिक पृष्ठभूमि नेपाल दलित पार्टी र सामाजिक एकता पार्टीसँग जोडिएको छ, जसले उनलाई दलित अधिकारको क्षेत्रमा सक्रिय कार्यकर्ताको रूपमा देखाउँछ। साना दलबाट निर्वाचन लड्दा ठूला दलहरूको प्रभावका कारण उनको चुनावी उपस्थिति कमजोर देखिएको छ।",
+  "overall_approval_rating": 35
+}

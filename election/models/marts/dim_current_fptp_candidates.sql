@@ -837,7 +837,7 @@ select
             case when is_nepo then 'nepo' end,
             case when is_budi_bokuwa then 'budi-bokuwa' end,
             case when is_budo_bokuwa then 'budo-bokuwa' end,
-            case when is_past_minister then 'purba-mantri' end
+            case when is_past_minister then 'purba-padadhikari' end
         ],
         x -> x is not null
     ) as tags,

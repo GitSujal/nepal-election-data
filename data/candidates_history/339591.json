@@ -1,0 +1,39 @@
+{
+  "candidate_id": 339591,
+  "candidate_name": "ऋषा गोले",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://logowik.com/content/uploads/images/mongol-national-organisation9649.logowik.com.webp",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339591.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "क्षेत्र नं. २ (१)",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "चितवन क्षेत्र नं. २ (१) बाट प्रदेश सभा सदस्यका लागि मंगोल नेशनल अर्गनाइजेसनको तर्फबाट उम्मेदवारी दिएकी थिइन्, जहाँ उनले ७७१ मत प्राप्त गरेकी थिइन् ।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-2079/district-chitwan?lng=ne",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानवादी राजनीतिमा सक्रियता",
+      "date": "२०७८-०१-०१",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको विचारधारा अनुरूप मूलबासी र जातीय पहिचानको मुद्दामा वकालत गर्दै आएकी छिन् ।",
+      "link_to_source": "https://grokipedia.com/wiki/mongol-national-organisation",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ऋषा गोले मंगोल नेशनल अर्गनाइजेसन (MNO) को तर्फबाट चितवनको राजनीतिमा उदाउँदै गरेकी एक महिला नेतृ हुन् । २०७९ को प्रदेश सभा निर्वाचनमा उनले चितवन क्षेत्र नं. २ (१) बाट उम्मेदवारी दिएर ७७१ मत प्राप्त गरेकी थिइन्, जुन एक साना दलको उम्मेदवारका लागि सम्मानजनक मानिन्छ । उनले मुख्यतया जातीय पहिचान, धर्मनिरपेक्षता र मूलबासीका अधिकारका मुद्दाहरूलाई आफ्नो राजनीतिक एजेन्डा बनाएकी छिन् । हालसम्म उनको राजनीतिक जीवनमा कुनै पनि भ्रष्टाचार वा नैतिक विवादहरू देखिएका छैनन्, जसले उनको छविलाई स्वच्छ राखेको छ । यद्यपि, ठूला दलहरूको प्रभाव रहेको चितवनमा उनको सांगठनिक पकड र चुनावी प्रभाव अझै पनि सीमित घेरामा रहेको देखिन्छ । उनको उपस्थिति मुख्यतया वैचारिक र पहिचानवादी मतदाताहरूका बीचमा बढी केन्द्रित छ ।",
+  "overall_approval_rating": 52
+}

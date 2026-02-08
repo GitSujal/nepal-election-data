@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341663,
+  "candidate_name": "रीहीणि कस्ती",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Janata_Samajbadi_Party_Nepal_Logo.png/640px-Janata_Samajbadi_Party_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341663.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "ललितपुर क्षेत्र नं. २ बाट जनता समाजवादी पार्टीको तर्फबाट उम्मेदवारी दिएकी कस्तीले १३८ मत प्राप्त गरी पराजित भइन्।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-lalitpur?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आबद्धता",
+      "date": "२०७७-०१-११",
+      "details": "नयाँ शक्ति र संघीय समाजवादी फोरम बीचको एकता पश्चात् उनी जनता समाजवादी पार्टीको नेतृत्व तहमा सक्रिय रहिआएकी छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2020/04/859330",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नयाँ शक्ति पार्टीको स्थापनाकालदेखि सक्रियता",
+      "date": "२०७३-०२-३०",
+      "details": "डा. बाबुराम भट्टराई नेतृत्वको नयाँ शक्ति पार्टी नेपालको स्थापनाकालदेखि नै उनी पार्टीको महिला विभाग र स्थानीय संगठनमा आबद्ध थिइन्।",
+      "link_to_source": "https://www.setopati.com/politics/43425",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "रीहीणि कस्ती जनता समाजवादी पार्टीकी एक महिला नेतृ हुन्, जसले २०७९ को प्रतिनिधि सभा निर्वाचनमा ललितपुर क्षेत्र नं. २ बाट प्रतिस्पर्धा गरेकी थिइन्। उनको नागरिकता भक्तपुरको रहे पनि ललितपुरबाट निर्वाचन लडेका कारण उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को संज्ञा दिइएको थियो। निर्वाचनमा उनले निकै कम मत (१३८) मात्र प्राप्त गरिन्, जसले उनको चुनावी क्षेत्रमा कमजोर संगठन र स्थानीय स्तरमा पकडको अभावलाई दर्शाउँछ। उनी नयाँ शक्ति पार्टी हुँदै जसपामा आएकी हुन् र पार्टी भित्र सामाजिक मुद्दाहरूमा आवाज उठाउने नेतृका रूपमा चिनिन्छिन्। यद्यपि, चुनावी राजनीतिमा उनको प्रभाव अझै स्थापित हुन सकेको देखिँदैन। उनको राजनीतिक छवि स्वच्छ रहे पनि चुनावी नतिजाले उनलाई कमजोर प्रतिस्पर्धीका रूपमा देखाएको छ।",
+  "overall_approval_rating": 42
+}

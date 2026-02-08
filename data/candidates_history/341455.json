@@ -1,0 +1,103 @@
+{
+  "candidate_id": 341455,
+  "candidate_name": "नैन सिंह महर",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nepali_Congress_Party_Logo.png/600px-Nepali_Congress_Party_Logo.png",
+  "candidates_current_position": "केन्द्रीय सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341455.jpg",
+  "election_history": [
+    {
+      "year": "२०७३",
+      "position": "केन्द्रीय अध्यक्ष, नेपाल विद्यार्थी संघ",
+      "district": "काठमाडौँ",
+      "constituency": "महाधिवेशन",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य (समानुपातिक)",
+      "district": "N/A",
+      "constituency": "N/A",
+      "result": "N/A",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "डडेलधुरामा देउवाको विरासत सम्हाल्ने तयारी",
+      "date": "२०८२-१०-१९",
+      "details": "लामो समयदेखि शेरबहादुर देउवाले जित्दै आएको डडेलधुरा क्षेत्रमा नैन सिंह महरलाई देउवाको उत्तराधिकारीको रूपमा अगाडि सारिएको छ।",
+      "link_to_source": "https://ehimalayatimes.com/2026/02/166316/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सहकारी ठगीविरुद्ध सडक संघर्षको आह्वान",
+      "date": "२०८१-०१-३०",
+      "details": "सहकारी पीडितहरूको पक्षमा सरकार नउभिएको भन्दै उनले सदन र सडक दुवै ठाउँबाट संघर्ष गर्नुपर्ने माग राखेका थिए।",
+      "link_to_source": "https://hamroonline.com/2024/05/13/447239/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेसको केन्द्रीय सदस्यमा निर्वाचित",
+      "date": "२०७८-०९-०६",
+      "details": "नेपाली काँग्रेसको १४ औँ महाधिवेशनबाट उनी लोकप्रिय मतका साथ केन्द्रीय कार्यसमिति सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaZtMCp4SG_XA-N1SkQwm6xTVOHp5sQ7p7sI-Snf4HNgSHc8-8ODwZVGjJ8Y48CI5OGfedU10iX2cBSHkDg1fUk9v_UzMu-seYluEwoQUTNwdSWyp-IWSc-Eq6egyhi97E7YoJvoSVhvPGRgBzEnCrYmwL2SorOPMigO6uJRLCE5AwFoKTditAlsFgnyHu08RVHWd80Z4_dJ4RfMXj1aLMqowE8pSEA4uI-naDY1RxahKUkp2Gtwjabd14fYzlSdaRU61UuWmpN_OLzw==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेविसंघ अध्यक्ष पदबाट राजीनामा",
+      "date": "२०७५-१०-२८",
+      "details": "पार्टीभित्रको आन्तरिक विवाद र तोकिएको समयमा महाधिवेशन गराउन नसकेको दबाबका कारण उनले अध्यक्ष पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://nagariknews.nagariknetwork.com/news/69877/",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सरकारविरुद्धको प्रदर्शनमा गिरफ्तारी",
+      "date": "२०७५-१०-२२",
+      "details": "नेविसंघका कार्यकर्ता रिहाइको माग गर्दै भएको विरोध प्रदर्शनको नेतृत्व गर्दा काठमाडौँको बानेश्वरबाट प्रहरीले उनलाई पक्राउ गरेको थियो।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/nsu-president-nain-singh-mahar-arrested",
+      "event_type": "COURT_CASE",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेविसंघ भित्र आन्तरिक विवाद र उजुरी",
+      "date": "२०७५-०१-१०",
+      "details": "महरको कार्यशैलीप्रति असन्तुष्टि जनाउँदै नेविसंघका पाँच उपाध्यक्षले पार्टी सभापति शेरबहादुर देउवा समक्ष उजुरी दिएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/04/674843",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल विद्यार्थी संघको अध्यक्षमा निर्वाचित",
+      "date": "२०७३-०५-०३",
+      "details": "नेविसंघको ११ औँ महाधिवेशनमा मनोजमणि आचार्यलाई १२५ मतको अन्तरले पराजित गर्दै महर अध्यक्षमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/mahar-elected-nsu-president",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पुस्तक 'महाधिवेशन' र 'संकल्प' प्रकाशन",
+      "date": "२०७२-०५-१०",
+      "details": "उनले नेपाली काँग्रेसको महाधिवेशन र विद्यार्थी राजनीतिको विषयमा विभिन्न पुस्तकहरू तथा विचार पत्र 'संकल्प' प्रकाशित गरेका छन्।",
+      "link_to_source": "https://moecdc.gov.np/en/catalogue-online/author-details/mahar-nain-singh",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाल पत्रकार महासंघ डडेलधुराको संस्थापक अध्यक्ष",
+      "date": "२०५५-०२-१५",
+      "details": "पत्रकारिता क्षेत्रमा पनि सक्रिय महरले नेपाल पत्रकार महासंघ डडेलधुरा शाखाको संस्थापक अध्यक्षको रूपमा कार्य गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx69w-b4ExNFPoH0EJJsLHJ2eL-f4fvOcMAdQtlVfs0xWVSKjiv2qFSmeJaKSGmpb2kiDeAJt-7g1mgVvo27GucUlFA_WiAeV5Okj33KHU7LUC_unnhaZfa39TowRCLL9uLEUXj1eTrvbsN-mja_6JqJ93RVkaTOxb0QbSzdroEMeejZnqMQGgTDlITUT-i95OIByV0NQ32aBZ3y8pirZ-9dyeIWJetTE0ShE8CEid0xkKISKKOJN7ULG_dHvtYVVeJvmg6j39ibpy1kg=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "नैन सिंह महर नेपाली काँग्रेसका एक प्रभावशाली र बौद्धिक युवा नेता हुन्। डडेलधुराको सामान्य परिवारबाट विद्यार्थी राजनीतिमा प्रवेश गरेका उनी नेपाल विद्यार्थी संघको केन्द्रीय अध्यक्षसम्म पुग्न सफल भए। यद्यपि, उनको नेविसंघको कार्यकाल आन्तरिक कलह र महाधिवेशन गराउन नसकेका कारण केही विवादित रह्यो। हाल उनी पार्टीको केन्द्रीय कार्यसमिति सदस्यको रूपमा सक्रिय छन् र शेरबहादुर देउवाको निकट विश्वासपात्र मानिन्छन्। उनी राजनीति बाहेक लेखन र पत्रकारितामा पनि दख्खल राख्छन्, जसले गर्दा उनलाई एक अध्ययनशील नेताको रूपमा चिनिन्छ। २०७९ को निर्वाचनमा उनी समानुपातिक सूचीमा थिए र हाल उनी डडेलधुरामा देउवाको चुनावी विरासतलाई निरन्तरता दिने मुख्य दाबेदारको रूपमा हेरिएका छन्।",
+  "overall_approval_rating": 78
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341381,
+  "candidate_name": "ललित कुमार चन्द",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "साधारण सदस्य",
+  "candidates_current_position_in_party": "पूर्व जिल्ला संयोजक, सल्यान",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341381.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सल्यान",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "ललित कुमार चन्दले सल्यान क्षेत्र नं. १ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले १,४२४ मत प्राप्त गरे।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341381",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीको सल्यान जिल्ला संयोजकमा नियुक्त",
+      "date": "२०७९-०४-१५",
+      "details": "पार्टी विस्तारको क्रममा उनलाई राष्ट्रिय स्वतन्त्र पार्टीको सल्यान जिल्ला संयोजकको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://amulya.tech/election/candidate/lalit-kumar-chand",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीसँगको आबद्धता",
+      "date": "२०७५-०५-१०",
+      "details": "रास्वपामा प्रवेश गर्नुअघि चन्द विवेकशील साझा पार्टीमा सक्रिय थिए, जसले उनको वैकल्पिक राजनीतिको यात्रालाई पुष्टि गर्दछ।",
+      "link_to_source": "https://bhugolpark.com/candidate/lalit-kumar-chand",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्माण व्यवसायीको रूपमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि उनी सल्यान जिल्लामा निर्माण व्यवसायी (ठेकेदार) का रूपमा परिचित थिए र विभिन्न पूर्वाधार आयोजनाहरूमा संलग्न थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/lalit-kumar-chand",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "ललित कुमार चन्द सल्यान जिल्लामा वैकल्पिक राजनीतिको एउटा उदीयमान अनुहार हुन्। मुख्यतया निर्माण व्यवसायीको पृष्ठभूमि भएका चन्दले विवेकशील साझा पार्टी हुँदै राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सम्मको यात्रा तय गरेका छन्। २०७९ को आम निर्वाचनमा सल्यान-१ बाट उम्मेदवारी दिएका उनले उल्लेख्य मत प्राप्त गर्न नसके पनि जिल्लामा रास्वपाको सङ्गठन निर्माणमा महत्त्वपूर्ण भूमिका खेलेका छन्। उनको व्यावसायिक पृष्ठभूमिका कारण स्थानीयस्तरमा केही प्रभाव रहे तापनि ठूला राजनीतिक दलहरूको वर्चस्व रहेको सल्यानमा उनलाई स्थापित हुन चुनौतीपूर्ण देखिन्छ। उनी कुनै ठूलो भ्रष्टाचार काण्डमा नमुछिएका भए पनि 'ठेकेदार राजनीतिज्ञ' को ट्यागले गर्दा मतदातामाझ उनको छवि तटस्थ रहेको छ।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,127 @@
+{
+  "candidate_id": 341520,
+  "candidate_name": "अजय चौरसीया",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CPN-UML_logo.svg/1200px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "कानुन, न्याय तथा संसदीय मामिला मन्त्री",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341520.jpg",
+  "election_history": [
+    {
+      "year": "२०४८",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेपाल सद्भावना पार्टी"
+    },
+    {
+      "year": "२०५६",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं २",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं ३",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं ३",
+      "result": "पराजित",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं २",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "वीरगञ्जस्थित निवासमा आक्रमण",
+      "date": "२०८२-०५-२७",
+      "details": "राजनीतिक अस्थिरता र स्थानीय असन्तुष्टिका कारण वीरगञ्जस्थित मन्त्री चौरसियाको घरमा उपद्रवीहरूले आक्रमण गरी आगजनी गरेका थिए।",
+      "link_to_source": "https://www.youtube.com/watch?v=kYJ_t8_Y2P8",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मन्त्रालयको १०० दिन सफल भएको दाबी",
+      "date": "२०८१-०६-३१",
+      "details": "कानुन मन्त्रीको रूपमा १०० दिन पूरा गरेको अवसरमा सुशासन र भ्रष्टाचार विरुद्ध शून्य सहनशीलताको नीति प्रभावकारी रूपमा कार्यान्वयन भएको दाबी गरेका थिए।",
+      "link_to_source": "https://risingnepaldaily.com/news/51034",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कानुन, न्याय तथा संसदीय मामिला मन्त्रीमा नियुक्त",
+      "date": "२०८१-०३-३१",
+      "details": "केपी शर्मा ओलीको नेतृत्वमा गठित मन्त्रिपरिषद्मा उनलाई महत्वपूर्ण कानुन मन्त्रालयको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A4%AF%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%9A%E0%A5%81%E0%A4%B0%E0%A5%8C%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजय",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा क्षेत्र नम्बर २ बाट २८,४५१ मत प्राप्त गर्दै जसपाका सुरेन्द्र कुर्मीलाई ६,००६ मतान्तरले पराजित गरी निर्वाचित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/341520",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी परिवर्तनको पृष्ठभूमि",
+      "date": "२०७९-०१-०१",
+      "details": "राजनीतिक जीवनको सुरुवातमा नेपाल सद्भावना पार्टीमा रहे पनि पछि उनी नेपाली कांग्रेसमा प्रवेश गरेका थिए र हाल स्रोत अनुसार नेपाली कम्युनिष्ट पार्टीमा आबद्ध छन्।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A4%AF%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%9A%E0%A5%81%E0%A4%B0%E0%A5%8C%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पराजय",
+      "date": "२०७४-०८-२१",
+      "details": "पर्सा २ बाट नेपाली कांग्रेसका उम्मेदवार रहेका चौरसिया संघीय समाजवादी फोरमका विमल प्रसाद श्रीवास्तवसँग पराजित भएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result/candidate/341520",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "स्थानीय विकास राज्यमन्त्रीमा नियुक्ति",
+      "date": "२०५८-०५-०१",
+      "details": "शेरबहादुर देउवाको मन्त्रिपरिषद्मा उनलाई संघीय मामिला तथा स्थानीय विकास राज्यमन्त्रीको रूपमा नियुक्त गरिएको थियो।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A4%AF%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%9A%E0%A5%81%E0%A4%B0%E0%A5%8C%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनआन्दोलन २ मा जेल जीवन",
+      "date": "२०६२-१०-०१",
+      "details": "लोकतन्त्रको पुनस्र्थापनाका लागि भएको जनआन्दोलनमा सक्रिय सहभागी हुँदा उनलाई पटक-पटक पक्राउ गरी ३ महिनाभन्दा बढी जेल चलान गरिएको थियो।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%9C%E0%A4%AF%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0_%E0%A4%9A%E0%A5%81%E0%A4%B0%E0%A5%8C%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अजय चौरसीया पर्सा जिल्लाका एक प्रभावशाली र अनुभवी राजनीतिक व्यक्तित्व हुन्। उनी हाल कानुन, न्याय तथा संसदीय मामिला मन्त्रीको रूपमा जिम्मेवारी सम्हालिरहेका छन्। उनले आफ्नो राजनीतिक जीवनको लामो समय नेपाली कांग्रेसमा व्यतित गरे पनि स्रोत अनुसार हाल उनी नेपाली कम्युनिष्ट पार्टीसँग आबद्ध छन्। २०७९ को निर्वाचनमा पर्सा २ बाट भारी मतान्तरले विजयी हुनुले उनको स्थानीय लोकप्रियता पुष्टि गर्छ। यद्यपि, उनको कार्यकालमा मधेसका केही मुद्दाहरूमा भएको ढिलासुस्ती र हालै उनको निवासमा भएको आगजनीले उनलाई केही विवादास्पद बनाएको छ। अनुभवी मन्त्रीको रूपमा उनी विकास र सुशासनका क्षेत्रमा सक्रिय देखिएका छन्, तर पार्टी परिवर्तन र क्षेत्रीय असन्तुष्टि उनका आगामी राजनीतिक चुनौतीहरू हुन्।",
+  "overall_approval_rating": 62
+}

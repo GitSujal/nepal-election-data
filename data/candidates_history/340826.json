@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340826,
+  "candidate_name": "उमेश तामाङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_the_Mongol_National_Organization.svg/1200px-Flag_of_the_Mongol_National_Organization.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340826.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "काभ्रेपलाञ्चोक",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "मंगोल नेशनल अर्गनाइजेसनको तर्फबाट काभ्रेपलाञ्चोक निर्वाचन क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/kavrepalanchok/2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "आदिवासी मंगोल समुदायको हकहित र पहिचानको मुद्दा उठाउँदै राजनीतिमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://www.onlinekhabar.com/2018/04/671049",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "उमेश तामाङ काभ्रेपलाञ्चोक जिल्लाबाट उदाउँदै गरेका युवा राजनीतिकर्मी हुन्। उनले २०७९ को प्रतिनिधिसभा निर्वाचनमा मंगोल नेशनल अर्गनाइजेसन (MNO) को तर्फबाट काभ्रे क्षेत्र नम्बर २ मा प्रतिस्पर्धा गरेका थिए। उनको मुख्य राजनीतिक एजेन्डा आदिवासी जनजाति र मंगोल समुदायको पहिचान तथा अधिकारको रक्षा गर्नु रहेको देखिन्छ। यद्यपि, मुख्य राजनीतिक दलहरूको वर्चस्व रहेको काभ्रेमा उनले उल्लेख्य मत प्राप्त गर्न सकेनन् र निर्वाचनमा पराजित भए। उनको छवि हालसम्म कुनै पनि ठूला विवाद वा भ्रष्टाचार काण्डमा जोडिएको छैन, जसले उनलाई एक स्वच्छ राजनीतिक पात्रका रूपमा प्रस्तुत गर्दछ। उनको राजनीतिक भविष्य मुख्यतया उनको दलको सांगठनिक विस्तार र स्थानीयस्तरमा पहिचानको मुद्दालाई कसरी स्थापित गर्छन् भन्नेमा निर्भर रहने देखिन्छ।",
+  "overall_approval_rating": 45
+}

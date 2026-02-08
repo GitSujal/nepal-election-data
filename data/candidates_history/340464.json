@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340464,
+  "candidate_name": "शरद सिंह यादव",
+  "candidate_party": "जन अधिकार पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_Microphone.png/200px-Election_Symbol_Microphone.png",
+  "candidates_current_position": "राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340464.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सप्तरी",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "जन अधिकार पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "जनमत पार्टीको केन्द्रीय प्रवक्तामा मनोनयन",
+      "date": "२०८०-०३-२९",
+      "details": "लोकतान्त्रिक समाजवादी पार्टी (लोसपा) परित्याग गरी जनमत पार्टीमा प्रवेश गरेका डा. शरद सिंह यादवलाई पार्टीले केन्द्रीय प्रवक्ताको महत्त्वपूर्ण जिम्मेवारी सुम्पेको थियो।",
+      "link_to_source": "https://www.ratopati.com/story/365922/2023/7/14/janamat-party-",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "सप्तरी २ बाट प्रतिनिधिसभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा सप्तरी निर्वाचन क्षेत्र नम्बर २ बाट जन अधिकार पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर उनी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340464",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "लोसपा परित्याग गरी जनमत पार्टी प्रवेश",
+      "date": "२०७९-१२-१५",
+      "details": "मधेस केन्द्रित राजनीतिमा सक्रिय रहेका यादवले लोसपामा असन्तुष्टि जनाउँदै सीके राउत नेतृत्वको जनमत पार्टीमा प्रवेश गर्ने निर्णय गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/365922/2023/7/14/janamat-party-",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "जन अधिकार पार्टीमा आबद्धता",
+      "date": "२०७९-०७-२०",
+      "details": "निर्वाचन प्रयोजनका लागि उनले जन अधिकार पार्टी रोजेका थिए, जसलाई राजनीतिक अस्थिरताको रूपमा विश्लेषण गरिएको थियो।",
+      "link_to_source": "https://election.ekantipur.com/constituency/2079/saptari-2",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "डा. शरद सिंह यादव सप्तरीको राजनीतिमा एक बौद्धिक तर अस्थिर छविका नेताका रूपमा चिनिन्छन्। उनी लोसपा, जनमत पार्टी र जन अधिकार पार्टी जस्ता विभिन्न दलहरूमा आबद्ध भइसकेका छन्, जसले गर्दा उनको राजनीतिक निष्ठामाथि मतदाताहरूले प्रश्न उठाउने गरेका छन्। २०७९ को निर्वाचनमा सप्तरी २ जस्तो हाई-प्रोफाइल क्षेत्रबाट उम्मेदवारी दिए पनि उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। जनमत पार्टीको प्रवक्ता जस्तो गरिमामय पद सम्हालेका यादवको प्राज्ञिक पृष्ठभूमि बलियो भए तापनि चुनावी प्रतिस्पर्धामा जनमत सिर्जना गर्न उनलाई हम्मे-हम्मे पर्ने देखिन्छ। सप्तरीको स्थानीय राजनीतिमा उनको प्रभाव अझै स्थापित हुन बाँकी छ र बारम्बारको पार्टी परिवर्तनले उनको आधार इलाका कमजोर बनाएको विश्लेषण गरिन्छ।",
+  "overall_approval_rating": 42
+}

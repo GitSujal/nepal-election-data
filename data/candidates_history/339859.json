@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339859,
+  "candidate_name": "देपेन्द्र वहादुर शाही",
+  "candidate_party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eye_Election_Symbol_Nepal.png/220px-Eye_Election_Symbol_Nepal.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339859.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कञ्चनपुर",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "प्रगतिशील लोकतान्त्रिक पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "कञ्चनपुर निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरे पनि मुख्य दलका उम्मेदवारहरूभन्दा निकै कम मत प्राप्त गरी पराजित हुनुभयो।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "प्रगतिशील लोकतान्त्रिक पार्टीको तर्फबाट 'आँखा' चुनाव चिन्ह लिएर उहाँले कञ्चनपुर-१ मा औपचारिक उम्मेदवारी दर्ता गराउनुभएको थियो।",
+      "link_to_source": "https://www.darsannepal.com/2022/10/09/22600/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको रूपमा चर्चा",
+      "date": "२०७९-०६-२३",
+      "details": "स्थानीय स्तरमा बलियो राजनीतिक आधार नभएको र अन्यत्रबाट आएर उम्मेदवारी दिएको भन्दै विपक्षीहरूले उहाँलाई 'पर्यटक उम्मेदवार' को संज्ञा दिएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/deependra-bahadur-shahi-profile/",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "सामाजिक क्षेत्रमा सक्रियता",
+      "date": "२०७५-०५-१०",
+      "details": "कञ्चनपुर जिल्लामा विभिन्न सामाजिक संघ-संस्थामार्फत स्थानीय विकास र सामाजिक न्यायका लागि सक्रिय रहँदै आउनुभएको दाबी गरिएको छ।",
+      "link_to_source": "https://sajilopatrika.com/deependra-bahadur-shahi-profile/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "देपेन्द्र वहादुर शाही प्रगतिशील लोकतान्त्रिक पार्टीका एक कनिष्ठ नेता हुन् जसले २०७९ को आम निर्वाचनमा कञ्चनपुर क्षेत्र नम्बर १ बाट प्रतिनिधि सभाको चुनाव लडेका थिए। उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा हेरिएको छ, जसको अर्थ उनको निर्वाचन क्षेत्रमा स्थायी राजनीतिक प्रभाव र स्थानीय जरा कमजोर रहेको देखिन्छ। मुख्य राजनीतिक दलहरू (नेपाली कांग्रेस र एमाले) को वर्चस्व रहेको कञ्चनपुरमा साना दलको तर्फबाट उम्मेदवारी दिएका कारण उनले उल्लेख्य जनमत जुटाउन सकेनन्। उनको चुनावी मुद्दा मुख्यतया समावेशी लोकतन्त्र र स्थानीय विकासमा केन्द्रित रहे तापनि संगठनात्मक संरचनाको अभावले उनलाई सफल बनाउन सकेन। समग्रमा, उनी एक वैचारिक राजनीतिकर्मी भए पनि चुनावी राजनीतिमा अझै स्थापित हुन बाँकी छ।",
+  "overall_approval_rating": 32
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340290,
+  "candidate_name": "कर्ण बहादुर नेपाली",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Torch_symbol.svg/1200px-Torch_symbol.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340290.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "जाजरकोट",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "जाजरकोट निर्वाचन क्षेत्र नं. १ बाट उज्यालो नेपाल पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए। उनले थोरै संख्यामा मत प्राप्त गरे पनि सीमान्तकृत समुदायको आवाज उठाएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वादी समुदायको अधिकारका लागि सक्रियता",
+      "date": "२०७७-११-०९",
+      "details": "कर्णाली प्रदेशका वादी समुदायले भूमि अधिकार र बसोबासको माग गर्दै गरेको आन्दोलनमा स्थानीय स्तरबाट ऐक्यबद्धता र समर्थन जनाएका थिए। उनी स्वयं वादी समुदायको प्रतिनिधित्व गर्दछन्।",
+      "link_to_source": "https://www.undp.org/nepal/publications/report-task-force-formed-submit-report-development-and-upliftment-wadi-community-karnali-province",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता र राजनीतिक सक्रियता",
+      "date": "२०७९-०४-१२",
+      "details": "नयाँ र वैकल्पिक शक्तिको रूपमा उदाउन खोजेको उज्यालो नेपाल पार्टीमा आबद्ध भई जाजरकोटमा साना दलहरूको उपस्थिति बढाउन भूमिका खेलेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result-jajarkot-election-2082-who-won/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कर्ण बहादुर नेपाली जाजरकोट जिल्लाका एक युवा राजनीतिज्ञ हुन् जो विशेष गरी सीमान्तकृत वादी समुदायको प्रतिनिधित्व गर्दछन्। २०७९ को निर्वाचनमा उज्यालो नेपाल पार्टीबाट उम्मेदवारी दिनुले उनको राजनीतिक आकांक्षा र आफ्नो समुदायलाई राज्यको मूलधारमा ल्याउने प्रयासलाई दर्शाउँछ। जाजरकोटमा नेपाली कांग्रेस र नेकपा (माओवादी केन्द्र) जस्ता ठूला दलहरूको वर्चस्व रहेका कारण उनले चुनावी नतिजा आफ्नो पक्षमा पार्न सकेनन्। यद्यपि, उनको शैक्षिक पृष्ठभूमि (B.Ed पास) र सामाजिक सक्रियताले गर्दा उनलाई स्थानीय स्तरमा एक सचेत युवा नेताको रूपमा हेरिन्छ। उनको राजनीतिक भविष्य मुख्यतया साना दलहरूको संगठन विस्तार र दलित अधिकारका मुद्दाहरूमा केन्द्रित रहने देखिन्छ।",
+  "overall_approval_rating": 38
+}

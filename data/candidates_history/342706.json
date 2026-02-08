@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342706,
+  "candidate_name": "छविलाल गुरुङ्ग",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Soil_Symbol_Nepal.png/220px-Soil_Symbol_Nepal.png",
+  "candidates_current_position": "जिल्ला अध्यक्ष, श्रम संस्कृति पार्टी",
+  "candidates_current_position_in_party": "रूपन्देही जिल्ला अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342706.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रुपन्देही",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "पार्टीभित्र समानान्तर समिति गठन र नेतृत्व विवाद",
+      "date": "२०८१-०७-२२",
+      "details": "श्रम संस्कृति पार्टी रुपन्देहीमा नेतृत्वलाई लिएर विवाद उत्पन्न भएको छ। छविलाल गुरुङ्गको नेतृत्वमा समानान्तर जिल्ला सभा गठन भएको भन्दै पार्टीभित्र आन्तरिक कलह देखिएको छ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVogfbNlhlLc7mO9tqJKnbsjQ2zCu78TRBsBkWAZG1RSiJn45zFqeBdtji3XZ8w5e7LUBZhj-4xb7ICQlnjVvnBoOOhSYc2jNHVKh0QS9Bk9FFfnIdbd13ingsQ_Kr6xviw==",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टी रुपन्देहीको अध्यक्षमा चयन",
+      "date": "२०८१-०४-२८",
+      "details": "बुटवलमा भएको भेलाले छविलाल गुरुङ्गको अध्यक्षतामा १५ सदस्यीय नयाँ जिल्ला नेतृत्व चयन गरेको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlEm9pD3YQ9OdmRKMJ8nm-_U-1XBXJH-ySh1wFQRH9dyiaLWaOkkOUVjCHIN2I3c0og1tJjFm33eR_-CB7tMfp-1EHgznMEpUKiwIdt5ULjQ0r0w86oVId2vsb6BczNu4XQgTyqRPn50UVjcjeUbGThIvfWK6R--pOyGHf2BI8WWklokbIFP5K15e_Vb8DQVtp0w5rS-cizmR1VlB2jG1__e3tg_rWOnqe8ZB1wSJdSZpzPp8=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "रूपन्देही निर्वाचन क्षेत्र नं. २ बाट श्रम संस्कृति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर भारी मतान्तरले पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=342706",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "छविलाल गुरुङ्ग रूपन्देहीका एक स्थानीय राजनीतिकर्मी हुन् जो धरानका मेयर हर्क साम्पाङले नेतृत्व गरेको 'श्रम संस्कृति पार्टी' सँग आबद्ध छन्। उनले २०७९ को आम निर्वाचनमा रूपन्देही-२ बाट प्रतिस्पर्धा गरेका थिए, जहाँ उनी वैकल्पिक राजनीतिको एजेन्डा सहित चुनावी मैदानमा उत्रिएका थिए। यद्यपि, उनको चुनावी नतिजा कमजोर रह्यो र उनले प्रभावकारी मत प्राप्त गर्न सकेनन्। हाल उनी पार्टीको जिल्ला नेतृत्वमा रहे तापनि पार्टीभित्र सुशीला पुलामी मगर र उनीबीचको नेतृत्व विवादले गर्दा समानान्तर समितिहरू गठन भएका छन्, जसले उनको संगठनात्मक पकडमा चुनौती खडा गरेको देखिन्छ। उनी मुख्यतया श्रमदान र माटोको राजनीतिको प्रवर्द्धनमा केन्द्रित छन्, तर जिल्लाको मूलधारको राजनीतिमा उनको प्रभाव अझै स्थापित हुन बाँकी छ।",
+  "overall_approval_rating": 45
+}

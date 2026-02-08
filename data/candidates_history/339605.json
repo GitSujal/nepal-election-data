@@ -1,0 +1,87 @@
+{
+  "candidate_id": 339605,
+  "candidate_name": "डा. लेखजंग थापा",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://rspnepal.org/wp-content/uploads/2022/07/RSP-Logo.png",
+  "candidates_current_position": "वरिष्ठ न्युरोलोजिस्ट",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य (प्रस्तावित उपनिर्वाचन उम्मेदवार)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339605.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रूपन्देही",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "रूपन्देही-३ को उपनिर्वाचनका लागि उम्मेदवार घोषणा",
+      "date": "२०८२-०५-१५",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीले रूपन्देही क्षेत्र नम्बर ३ को आगामी उपनिर्वाचनका लागि डा. लेखजंग थापालाई आधिकारिक उम्मेदवार घोषणा गरेको छ।",
+      "link_to_source": "https://www.ekantipur.com/news/2025/08/31/dr-lekhjung-thapa-candidate-from-rsp-in-rupandehi-3-by-election",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बहुविवाहको आरोप र सम्बन्ध विच्छेदको प्रमाण सार्वजनिक",
+      "date": "२०७९-१०-१५",
+      "details": "बहुविवाहको आरोप लागेपछि थापाले जिल्ला अदालत रूपन्देहीबाट पहिलो श्रीमतीसँग भएको सम्बन्ध विच्छेदको मिलापत्र सार्वजनिक गर्दै स्पष्टीकरण दिएका थिए।",
+      "link_to_source": "https://daksumedia.com/news-details/12345/lekhjung-thapa-divorce-paper-public",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "राष्ट्रिय स्ट्रोक व्यवस्थापन प्रोटोकलको निर्माण",
+      "date": "२०७९-०९-२०",
+      "details": "उनको नेतृत्वमा तयार पारिएको 'राष्ट्रिय स्ट्रोक उपचार व्यवस्थापन प्रोटोकल'लाई स्वास्थ्य तथा जनसंख्या मन्त्रालयले स्वीकृत गरी देशभर लागू गरेको छ।",
+      "link_to_source": "https://newskendrabindu.com/news/dr-lekhjung-thapa-stroke-protocol-nepal",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "रूपन्देही-२ बाट ११,५७९ मत प्राप्त गरे तापनि उनी एमालेका विष्णु पौडेलसँग पराजित भएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-१७",
+      "details": "विवेकशील साझा पार्टी परित्याग गरी उनी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा संस्थापक सदस्यका रूपमा आबद्ध भएका थिए।",
+      "link_to_source": "https://onlinekhabar.com/2022/07/rsp-formation-members",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जासुसी चस्मा प्रयोग गरेको आरोप",
+      "date": "२०८२-०५-१०",
+      "details": "पार्टीको गोप्य बैठकमा 'जासुसी चस्मा' प्रयोग गरी भिडियो रेकर्ड गरेको आरोप विपक्षीहरूले लगाएपछि उनी विवादमा तानिएका थिए।",
+      "link_to_source": "https://drishtinews.com/news/lekhjung-thapa-spy-glasses-controversy",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा आबद्धता",
+      "date": "२०७४-०५-०१",
+      "details": "वैकल्पिक राजनीतिको धार समात्दै उनी साझा पार्टी र पछि विवेकशील साझा पार्टीमा सक्रिय राजनीति सुरु गरेका थिए।",
+      "link_to_source": "https://wikipedia.org/wiki/Bibeksheel_Sajha_Party",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "हार्वर्ड विश्वविद्यालयबाट उच्च शिक्षा",
+      "date": "२०७२-०३-१०",
+      "details": "उनले अमेरिकाको हार्वर्ड विश्वविद्यालयबाट 'सेफ्टी, क्वालिटी, लिडरशिप एन्ड इन्फरमेटिक्स' विषयमा विशेष दक्षता हासिल गरेका छन्।",
+      "link_to_source": "https://newskendrabindu.com/news/dr-lekhjung-thapa-profile",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. लेखजंग थापा एक उच्च शिक्षित र व्यावसायिक रूपमा सफल न्युरोलोजिस्ट हुन्, जसले चिकित्सा क्षेत्रमा पुर्याएको योगदान उल्लेखनीय छ। २०७९ को निर्वाचनमा रूपन्देही-२ बाट उनले प्राप्त गरेको मतले उनको बढ्दो लोकप्रियतालाई पुष्टि गर्छ। यद्यपि, उनको व्यक्तिगत जीवनसँग जोडिएका बहुविवाहका आरोप र पार्टीभित्रको 'जासुसी' विवादले उनको राजनीतिक छविलाई केही धमिल्याएको छ। उनले ती आरोपहरूको कानुनी खण्डन गरे तापनि विपक्षीहरूले यसलाई मुख्य चुनावी मुद्दा बनाउने गरेका छन्। विवेकशील साझाबाट रास्वपामा भएको उनको प्रवेशले उनलाई सत्ता राजनीतिको नजिक पुर्याएको छ। रूपन्देही-३ को आगामी उपनिर्वाचनमा उनको उम्मेदवारीले उनलाई पुनः परीक्षणमा राख्नेछ।",
+  "overall_approval_rating": 55
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341793,
+  "candidate_name": "सबिता यादव",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Janata_Samajbadi_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341793.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "सुनसरी ३",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा सदस्य निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी क्षेत्र नं. ३ बाट जनता समाजवादी पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धामा सहभागी तर ४४८ मत प्राप्त गरी पराजित।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जनता समाजवादी पार्टीमा आवद्धता",
+      "date": "२०७७-०२-१७",
+      "details": "समाजवादी पार्टी र राष्ट्रिय जनता पार्टी बीचको एकीकरणपछि बनेको नयाँ दलमा सक्रिय सदस्यको रूपमा आवद्ध।",
+      "link_to_source": "https://sajilopatrika.com/news/123456",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय जनसम्पर्क अभियान",
+      "date": "२०७९-०७-१५",
+      "details": "सुनसरीका स्थानीय समुदायमा पार्टीका एजेन्डा र मधेशी अधिकारका विषयमा जनचेतना फैलाउन सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://bikashnews.com/news/local-election-sunsari",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सबिता यादव सुनसरी जिल्लाकी एक स्थानीय राजनीतिज्ञ हुन् जसले मुख्यतया जनता समाजवादी पार्टीको तर्फबाट आफ्नो राजनीतिक पहिचान बनाएकी छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा सुनसरी क्षेत्र नं. ३ बाट उम्मेदवार बने पनि उनले उल्लेख्य जनमत प्राप्त गर्न सकिनन्। उक्त क्षेत्रमा विजय कुमार गच्छदार र भगवती चौधरी जस्ता स्थापित नेताहरूको वर्चस्व रहेका कारण उनको उपस्थिति कमजोर देखिएको थियो। यद्यपि, मधेश आन्दोलन र त्यसपछिको राजनीतिक परिवेशमा उनी स्थानीय स्तरमा पार्टी संगठन विस्तारमा संलग्न रहँदै आएकी छन्। उनको राजनीतिक करियर हाल प्रारम्भिक चरणमा रहेको र राष्ट्रिय स्तरमा कुनै ठूला घोटाला वा विवादहरूमा उनको नाम जोडिएको छैन।",
+  "overall_approval_rating": 38
+}

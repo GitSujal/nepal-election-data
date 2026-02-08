@@ -1,0 +1,95 @@
+{
+  "candidate_id": 339924,
+  "candidate_name": "लक्ष्मी महताे काेइरी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CPN-UML_logo.png/600px-CPN-UML_logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य",
+  "candidates_current_position_in_party": "नेता, नेकपा (एमाले)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339924.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "महोत्तरी-१",
+      "result": "पराजित",
+      "party": "संघीय समाजवादी फोरम नेपाल"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "महोत्तरी",
+      "constituency": "महोत्तरी-१",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निलम्बन फुकुवा र सफाई",
+      "date": "२०८०-०९-०९",
+      "details": "महोत्तरी जिल्ला अदालतले असई थमन विक हत्या प्रकरणमा सफाई दिएपछि संघीय संसद सचिवालयले कोइरीको निलम्बन फुकुवा गरेको थियो।",
+      "link_to_source": "https://www.setopati.com/politics/319119",
+      "event_type": "COURT_CASE",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संसद पदबाट निलम्बित",
+      "date": "२०८०-०१-१९",
+      "details": "कर्तव्य ज्यान मुद्दामा फरार रहेको भन्दै सभामुख देवराज घिमिरेले कोइरीलाई प्रतिनिधि सभा सदस्य पदबाट निलम्बन गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/05/1298642",
+      "event_type": "RESIGNATION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यमा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "महोत्तरी-१ बाट माओवादी केन्द्रका प्रभावशाली नेता गिरिराजमणि पोखरेललाई १,०३० मतान्तरले पराजित गर्दै विजयी।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/166925567314781476.html",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा (एमाले) प्रवेश",
+      "date": "२०७९-०६-२३",
+      "details": "जनता समाजवादी पार्टी (जसपा) परित्याग गरी निर्वाचनको मुखमा एमाले प्रवेश गरेर टिकट प्राप्त गरेका थिए।",
+      "link_to_source": "https://www.ratopati.com/story/267027/2022/10/9/laxmi-mahato",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पक्राउ आदेश र फरार सूची",
+      "date": "२०७७-०८-१९",
+      "details": "उच्च अदालत जनकपुरले असई थमन विक हत्या मुद्दामा कोइरीलाई थुनामा राखेर मुद्दा चलाउन आदेश दिएपछि उनी फरार सूचीमा रहेका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/291666",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "थमन विक हत्या प्रकरण",
+      "date": "२०७२-०५-२५",
+      "details": "मधेश आन्दोलनका क्रममा घाइते असई थमन विकलाई एम्बुलेन्सबाट थुतेर हत्या गरेको अभियोग उनीमाथि लागेको थियो।",
+      "link_to_source": "https://nepallive.com/story/297293",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "गाविस अध्यक्षमा निर्वाचित",
+      "date": "२०५४-०४-०१",
+      "details": "नेपाली कांग्रेसबाट टिकट नपाएपछि स्वतन्त्र उम्मेदवारी दिएर महोत्तरीको निगौल गाविस अध्यक्षमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-profile/339",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राजनीतिक यात्राको सुरुवात",
+      "date": "२०४७-०५-१०",
+      "details": "नेपाल विद्यार्थी संघ (नेविसंघ) मार्फत राजनीतिमा आबद्ध भई आफ्नो राजनीतिक यात्रा सुरु गरेका थिए।",
+      "link_to_source": "https://ekantipur.com/election-2079/candidate-profile/339",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लक्ष्मी महतो कोइरी महोत्तरीको राजनीतिमा एक प्रभावशाली तर विवादित व्यक्तित्व हुन्। उनले २०७९ को निर्वाचनमा नेकपा (एमाले) बाट उठेर माओवादी केन्द्रका प्रभावशाली नेता गिरिराजमणि पोखरेललाई पराजित गर्नु उनको ठूलो चुनावी सफलता मानिन्छ। यद्यपि, २०७२ को मधेश आन्दोलनका क्रममा सशस्त्र प्रहरीका असई थमन विकको हत्या अभियोगले उनको राजनीतिक करियरमा ठूलो धक्का पुर्‍यायो। फरार सूचीमा रहेकै अवस्थामा शपथ ग्रहण गरेको विषयले राष्ट्रिय स्तरमा निकै ठूलो विवाद सिर्जना गरेको थियो। पछि उनलाई संसद पदबाट निलम्बन गरियो तर २०८० पुसमा जिल्ला अदालतबाट सफाई पाएसँगै उनको निलम्बन फुकुवा भयो। उनी पटक-पटक दल परिवर्तन गर्ने र स्थानीय स्तरमा बलियो पकड राख्ने नेताका रूपमा चिनिन्छन्। उनको चुनावी आधार क्षेत्रमा मधेशी मतदाताहरूको राम्रो समर्थन रहेको देखिन्छ।",
+  "overall_approval_rating": 48
+}

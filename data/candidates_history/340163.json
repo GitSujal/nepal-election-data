@@ -1,0 +1,71 @@
+{
+  "candidate_id": 340163,
+  "candidate_name": "हरी बहादुर राजवंशी",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी लेनिनवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CPN-UML_logo.svg/1024px-CPN-UML_logo.svg.png",
+  "candidates_current_position": "पूर्व संविधान सभा सदस्य",
+  "candidates_current_position_in_party": "केन्द्रीय कमिटी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340163.jpg",
+  "election_history": [
+    {
+      "year": "२०७०",
+      "position": "संविधान सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ३",
+      "result": "N/A",
+      "party": "नेपाल कम्युनिष्ट पार्टी (एमाले)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०८२ को आम निर्वाचनका लागि उम्मेदवारी चर्चा",
+      "date": "२०८२-१०-२१",
+      "details": "झापा निर्वाचन क्षेत्र नम्बर ३ मा नेकपा एमालेको तर्फबाट आगामी निर्वाचनका लागि उम्मेदवारका रूपमा सक्रियता बढाएको।",
+      "link_to_source": "https://nagariknetwork.com/news/140857/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेकपा एमाले केन्द्रीय कमिटी सदस्यमा मनोनयन",
+      "date": "२०७८-०८-२५",
+      "details": "पार्टीको १०औं महाधिवेशन पश्चात केन्द्रीय कमिटी सदस्यको रूपमा जिम्मेवारी प्राप्त गरेको।",
+      "link_to_source": "https://cpnuml.org/profile/hari-bahadur-rajbanshi",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा निर्वाचित",
+      "date": "२०७०-०८-०४",
+      "details": "झापा क्षेत्र नं. ३ बाट दोस्रो संविधान सभा निर्वाचनमा विजयी भई संविधान निर्माण प्रक्रियामा सहभागी भएको।",
+      "link_to_source": "https://sajilopatrika.com/hari-bahadur-rajbanshi/",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "३७ वर्षको लामो शिक्षण सेवा",
+      "date": "२०६९-१२-३०",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि ३७ वर्षसम्म शिक्षण पेशामा रहेर शैक्षिक क्षेत्रमा पुर्याएको योगदान।",
+      "link_to_source": "https://sajilopatrika.com/hari-bahadur-rajbanshi/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एमाले झापा जिल्ला कमिटी सदस्य",
+      "date": "२०६५-०३-१५",
+      "details": "दुई कार्यकाल झापा जिल्ला कमिटी सदस्यको रूपमा स्थानीय संगठन निर्माणमा भूमिका निर्वाह गरेको।",
+      "link_to_source": "https://cpnuml.org/profile/hari-bahadur-rajbanshi",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरी बहादुर राजवंशी झापाको राजनीतिमा एक अनुभवी र निष्ठावान नेताका रूपमा चिनिन्छन्। ३७ वर्षसम्म शिक्षण पेशामा रहेका कारण उनी स्थानीय स्तरमा बौद्धिक र आदरणीय व्यक्तित्व हुन्। २०७० सालको संविधान सभा निर्वाचनमा झापा क्षेत्र नं. ३ बाट विजयी भएर उनले आफ्नो संसदीय यात्रा सफल बनाएका थिए। उनी विशेष गरी पूर्वी नेपालको अल्पसङ्ख्यक राजवंशी समुदायको प्रतिनिधित्व गर्ने प्रमुख अनुहार हुन्। २०७९ को निर्वाचनमा एमाले र राप्रपाको चुनावी तालमेलका कारण उनले प्रतिनिधि सभामा प्रत्यक्ष उम्मेदवारी दिने अवसर नपाए पनि आगामी निर्वाचनका लागि उनी बलियो दाबेदारका रूपमा देखिएका छन्। उनको राजनीतिक छवि स्वच्छ छ र समुदायमा उनको गहिरो पकड रहेको मानिन्छ।",
+  "overall_approval_rating": 85
+}

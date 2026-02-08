@@ -1,0 +1,79 @@
+{
+  "candidate_id": 340191,
+  "candidate_name": "नरेन्द्र कुमार गुप्‍ता",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "पूर्व नगर प्रमुख",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340191.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "नगर प्रमुख",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "रामग्राम नगरपालिका",
+      "result": "विजयी",
+      "party": "नेपाली कांग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "constituency": "निर्वाचन क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "नवलपरासी क्षेत्र नम्बर २ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/nawalparasi-west-2",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाली कांग्रेस परित्याग गरी उनी राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा प्रवेश गरेका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1199346",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "रामग्राम नगरपालिकाको नगर प्रमुखमा विजयी",
+      "date": "२०७४-०३-१४",
+      "details": "नेपाली कांग्रेसको तर्फबाट रामग्राम नगरपालिकाको नगर प्रमुखमा निर्वाचित भई ५ वर्ष सेवा गरेका।",
+      "link_to_source": "https://result.election.gov.np/LocalElectionResult2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रामग्राम स्तूप संरक्षण र विकास पहल",
+      "date": "२०७७-१०-१५",
+      "details": "बुद्धको अस्तु धातु रहेको रामग्राम स्तूपको उत्खनन र विश्व सम्पदा सूचीमा सूचीकृत गराउन महत्वपूर्ण पहल गरेको।",
+      "link_to_source": "https://lumbinidevtrust.gov.np/en/ramgram",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "रामग्राम स्तूपको जग्गा लिज विवादमा भूमिका",
+      "date": "२०७८-०८-२०",
+      "details": "रामग्राम स्तूप क्षेत्रको ९९ रोपनी जग्गा निजी कम्पनीलाई लिजमा दिने प्रक्रियामा स्थानीय सरकारको तर्फबाट विरोध र समन्वयमा विवाद देखिएको थियो।",
+      "link_to_source": "https://www.nayapatrikadaily.com/news-details/132454/2024-01-23",
+      "event_type": "CONTROVERSIAL_STATEMENT",
+      "event_category": "BAD"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीसँगको आबद्धता",
+      "date": "२०७८-१२-१५",
+      "details": "साझा पार्टी र विवेकशील साझा पार्टीको अभियानमा केही समय सक्रिय रहेको रिपोर्टहरू।",
+      "link_to_source": "https://ekantipur.com/news/2022/10/09/166531392233983279.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "नरेन्द्र कुमार गुप्‍ता नवलपरासी पश्चिमका एक अनुभवी नेता हुन्, जसले स्थानीय तहमा रामग्राम नगरपालिकाको नगर प्रमुखको रूपमा सफल कार्यकाल बिताएका थिए। उनको राजनीतिक यात्रा नेपाली कांग्रेसबाट सुरु भए पनि २०७९ को चुनाव अघि उनी राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरेका थिए, जुन उनको राजनीतिक जीवनको ठूलो मोड मानिन्छ। उनले रामग्राम स्तूपको विकास र स्थानीय पूर्वाधार निर्माणमा राम्रो छवि बनाएका छन्। यद्यपि, निर्वाचनको मुखमा पार्टी परिवर्तन गर्दा उनलाई केही अस्थिर नेताको रूपमा पनि हेरिएको छ। २०७९ को निर्वाचनमा उनले रास्वपाबाट राम्रो मत प्राप्त गरे पनि जित हासिल गर्न सकेनन्। उनको स्थानीय प्रभाव र प्रशासनिक अनुभवले उनलाई आगामी निर्वाचनमा पनि एक बलियो दाबेदारको रूपमा उभ्याएको छ।",
+  "overall_approval_rating": 72
+}

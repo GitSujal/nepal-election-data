@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339777,
+  "candidate_name": "कोमल पौडेल",
+  "candidate_party": "आम जनता पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aam_Janata_Party_Logo.png/640px-Aam_Janata_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य / उम्मेदवार",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339777.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "५",
+      "result": "पराजित",
+      "party": "आम जनता पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "प्रभु साह नेतृत्वको आम जनता पार्टीबाट काठमाडौं क्षेत्र नम्बर ५ मा प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "आम जनता पार्टीमा आबद्धता",
+      "date": "२०७९-०५-१०",
+      "details": "प्रभु साहले नेकपा एमाले परित्याग गरी आम जनता पार्टी गठन गरेपछि सो पार्टीको संगठन निर्माणमा सक्रिय भएकी थिइन्।",
+      "link_to_source": "https://ratopati.com/story/301552/ajp-kathmandu",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पर्यटक उम्मेदवारको पहिचान",
+      "date": "२०७९-०७-१५",
+      "details": "काठमाडौं क्षेत्र नम्बर ५ मा स्थानीय आधार नभएको भन्दै निर्वाचन आयोग र सञ्चारमाध्यमले 'टुरिस्ट' उम्मेदवारको रुपमा उल्लेख गरेका थिए।",
+      "link_to_source": "https://gorkhapatraonline.com/news/51025",
+      "event_type": "OTHER",
+      "event_category": "BAD"
+    }
+  ],
+  "analysis": "कोमल पौडेल प्रभु साह नेतृत्वको आम जनता पार्टी (आजपा) को तर्फबाट काठमाडौं क्षेत्र नम्बर ५ मा प्रतिनिधि सभा सदस्यका लागि उम्मेदवार बनेकी थिइन्। उनलाई निर्वाचनमा 'पर्यटक उम्मेदवार' को रुपमा हेरिएको थियो, किनकि उनको स्थायी बसोबास र राजनीतिक आधार सो क्षेत्रमा कमजोर थियो। मधेश केन्द्रित राजनीतिबाट उदाएको आजपाले काठमाडौंमा आफ्नो उपस्थिति देखाउन उनलाई अघि सारेको विश्लेषण गरिएको छ। यद्यपि, काठमाडौं ५ जस्तो हेभीवेट उम्मेदवारहरु भएको क्षेत्रमा उनको चुनावी प्रदर्शन निकै कमजोर रह्यो। उनले सो क्षेत्रमा उल्लेख्य मत प्राप्त गर्न सकिनन् तर पार्टीको विस्तारका लागि एक महिला अनुहारको रुपमा उनको उम्मेदवारीलाई अर्थपूर्ण मानिएको थियो।",
+  "overall_approval_rating": 42
+}

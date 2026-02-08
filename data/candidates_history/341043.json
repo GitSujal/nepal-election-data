@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341043,
+  "candidate_name": "धन बहादुर सुनार",
+  "candidate_party": "नागरिक उन्मुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nagarik_Unmukti_Party_Logo.png/220px-Nagarik_Unmukti_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य (प्रस्तावित)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341043.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कैलाली",
+      "constituency": "४",
+      "result": "पराजित",
+      "party": "नागरिक उन्मुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "सुनारले कैलाली क्षेत्र नम्बर ४ बाट नागरिक उन्मुक्ति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, जहाँ उनले सम्मानजनक मत प्राप्त गरे तापनि पराजय व्यहोर्नुपर्यो।",
+      "link_to_source": "https://sajilopatrika.com/detail/dhan-bahadur-sunar-kailali-4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नागरिक उन्मुक्ति पार्टीमा आबद्धता",
+      "date": "२०७८-१०-१५",
+      "details": "पहिचान र अधिकारको मुद्दालाई आत्मसाथ गर्दै उनी रेशम चौधरी नेतृत्वको नागरिक उन्मुक्ति पार्टीको स्थापना कालदेखि नै कैलालीमा संगठन विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://sajilopatrika.com/detail/dhan-bahadur-sunar-kailali-4",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्नातक तहको शिक्षा पूरा",
+      "date": "२०६५-०३-१०",
+      "details": "उनले त्रिभुवन विश्वविद्यालयबाट स्नातक तहसम्मको शिक्षा हासिल गरेका छन्, जसले उनलाई सामाजिक र राजनीतिक विषयको तार्किक विश्लेषणमा सहयोग पुर्याएको छ।",
+      "link_to_source": "https://sajilopatrika.com/detail/dhan-bahadur-sunar-kailali-4",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दलित अधिकार र सामाजिक आन्दोलनमा सक्रियता",
+      "date": "२०६०-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि उनी कैलालीमा दलित समुदायको हकहित र सामाजिक न्यायका लागि विभिन्न अभियानहरूमा सक्रिय रहँदै आएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/detail/dhan-bahadur-sunar-kailali-4",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "धन बहादुर सुनार कैलाली जिल्लाका एक उदीयमान राजनीतिक व्यक्तित्व हुन्। उनी नागरिक उन्मुक्ति पार्टीभित्र दलित समुदायको प्रतिनिधित्व गर्ने एक प्रमुख अनुहार मानिन्छन्। २०७९ को निर्वाचनमा कैलाली-४ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गर्दा उनले आफूलाई एक शिक्षित र स्पष्ट वक्ताको रूपमा स्थापित गरे। यद्यपि उनले निर्वाचन जित्न सकेनन्, तर थारु बाहुल्य रहेको पार्टीमा गैर-थारु समुदायलाई जोड्ने सेतुको रूपमा उनले भूमिका निर्वाह गरिरहेका छन्। उनको राजनीतिक छवि स्वच्छ रहेको छ र अहिलेसम्म कुनै पनि ठूला भ्रष्टाचार वा काण्डहरूमा उनको नाम जोडिएको छैन। स्थानीय स्तरमा उनको पकड सुधारोन्मुख छ, तर राष्ट्रिय राजनीतिमा स्थापित हुन उनलाई थप सांगठनिक सफलताको आवश्यकता देखिन्छ।",
+  "overall_approval_rating": 55
+}

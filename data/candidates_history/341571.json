@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341571,
+  "candidate_name": "जलाल मिया",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "",
+  "candidates_current_position_in_party": "आवद्धता छैन (स्वतन्त्र)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341571.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुनसरी",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "सुनसरी क्षेत्र नं. ४ बाट स्वतन्त्र उम्मेदवारको रूपमा चुनाव लडेका मियाले अत्यन्तै न्यून मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्वतन्त्र उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "मंसिर ४ मा सम्पन्न प्रतिनिधि सभा निर्वाचनका लागि जलाल मियाले सुनसरी निर्वाचन क्षेत्र नं. ४ बाट स्वतन्त्र उम्मेदवारी दर्ता गराएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341571",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "जलाल मिया सुनसरी निर्वाचन क्षेत्र नं. ४ का एक स्थानीय स्वतन्त्र उम्मेदवार हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र रूपमा आफ्नो उम्मेदवारी दिएका थिए। ज्ञानेन्द्र बहादुर कार्की र जगदीश प्रसाद कुसियैत जस्ता 'हेभीवेट' नेताहरू प्रतिस्पर्धामा रहेको यस क्षेत्रमा मियाले उल्लेख्य जनमत प्राप्त गर्न सकेनन्। उनको कुनै ठोस राजनीतिक पृष्ठभूमि वा पहिलेको निर्वाचन इतिहास देखिएको छैन। उनी मुख्यतया एक सर्वसाधारण नागरिकको रूपमा चुनावी प्रक्रियामा सहभागी भएको देखिन्छ। राष्ट्रिय राजनीतिमा उनको प्रभाव र उपस्थिति नगण्य रहेको छ।",
+  "overall_approval_rating": 30
+}

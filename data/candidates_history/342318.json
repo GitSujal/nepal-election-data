@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342318,
+  "candidate_name": "सिताराम यादव",
+  "candidate_party": "राष्ट्रिय एकता दल",
+  "candidate_party_logo": "https://election.gov.np/static/media/logo.8d8d8d8d.png",
+  "candidates_current_position": "नेता, राष्ट्रिय एकता दल",
+  "candidates_current_position_in_party": "बाँके जिल्ला प्रतिनिधि",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342318.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "बाँके",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय एकता दल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०६-२३",
+      "details": "बाँके क्षेत्र नं. २ बाट राष्ट्रिय एकता दलको तर्फबाट प्रतिनिधि सभा सदस्यका लागि मनोनयन दर्ता।",
+      "link_to_source": "https://www.ratopati.com/story/266291/2022/10/9/banke-2-candidates",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय एकता दलमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "नेपालको राष्ट्रिय सार्वभौमिकता र हिन्दु राष्ट्रको एजेन्डा बोकेको राष्ट्रिय एकता दलमा सक्रिय भूमिका।",
+      "link_to_source": "https://reanepal.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय राजनीतिमा सक्रियता",
+      "date": "२०७७-१०-१५",
+      "details": "बाँके जिल्लाको स्थानीय समस्या र मधेसी समुदायको हकहितका लागि आवाज उठाउँदै आएको।",
+      "link_to_source": "https://dursanchar.com/2022/10/11/banke-candidates-list/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सिताराम यादव बाँके जिल्लाको राजनीतिमा राष्ट्रिय एकता दलको तर्फबाट उदाउँदै गरेका नेता हुन्। उनले २०७९ को आम निर्वाचनमा बाँके क्षेत्र नं. २ बाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए। यद्यपि उनी विजयी हुन सकेनन्, तर उनले राष्ट्रिय एकता र मधेसी समुदायको उत्थानका मुद्दाहरूलाई स्थानीय स्तरमा स्थापित गर्न प्रयास गरिरहेका छन्। उनको राजनीतिक आधार मुख्यतया सामाजिक सद्भाव र राष्ट्रिय अखण्डतामा केन्द्रित छ। उनलाई एक निष्कलंक र नयाँ अनुहारको रूपमा हेरिने भए तापनि ठूला दलहरूसँगको प्रतिस्पर्धामा उनको संगठनिक प्रभाव अझै विस्तार हुन बाँकी देखिन्छ।",
+  "overall_approval_rating": 48
+}

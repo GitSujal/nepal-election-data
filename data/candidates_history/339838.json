@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339838,
+  "candidate_name": "बिश्‍व राज पोखरेल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rastriya_Swatantra_Party_Logo.svg/1024px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "प्रतिनिधिसभा उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339838.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "ओखलढुंगा",
+      "constituency": "ओखलढुंगा १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को आम निर्वाचनमा ओखलढुंगा-१ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका पोखरेलले ३,३८८ मत प्राप्त गर्दै पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध",
+      "date": "२०७९-०५-१५",
+      "details": "वैकल्पिक राजनीतिको धारलाई बलियो बनाउन उनी विवेकशील साझा छाडेर रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरे।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1206140",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७४-०५-११",
+      "details": "साझा र विवेकशील पार्टीको एकीकरण पछि बनेको विवेकशील साझा पार्टीको केन्द्रीय नेतृत्व तहमा रहेर उनले काम गरे।",
+      "link_to_source": "https://ekantipur.com/news/2017/07/26/20170726135243.html",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "साझा पार्टीको स्थापना",
+      "date": "२०७३-११-१८",
+      "details": "रवीन्द्र मिश्रसँगै साझा पार्टीको स्थापनाकाल देखि नै उनी केन्द्रीय सदस्यका रूपमा वैकल्पिक राजनीतिमा होमिएका थिए।",
+      "link_to_source": "https://setopati.com/politics/60829",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "बिश्‍व राज पोखरेल नेपालको वैकल्पिक राजनीतिक आन्दोलनका एक बौद्धिक र निष्कलंक पात्र हुन्। साझा पार्टीको स्थापनादेखि नै सक्रिय रहेका उनी पछि राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) मा आबद्ध भए। २०७९ को निर्वाचनमा ओखलढुंगाबाट चुनाव लड्दा उनलाई 'टुरिस्ट उम्मेदवार'को बिल्ला लागेको थियो, किनभने उनको राजनीतिक र व्यावसायिक जीवन लामो समयदेखि काठमाडौँ केन्द्रित थियो। यद्यपि, उनले आफ्नो गृहजिल्लामा भ्रष्टाचार विरोधी एजेन्डा र सुशासनको मुद्दालाई सशक्त रूपमा उठाए। निर्वाचनमा पराजित भए पनि उनले ओखलढुंगा जस्तो परम्परागत राजनीतिक गढ भएको जिल्लामा रास्वपाको उपस्थितिलाई स्थापित गर्न महत्वपूर्ण भूमिका खेलेका छन्। उनको राजनीतिक छवि स्वच्छ छ र उनी कुनै पनि ठूला काण्डहरूमा मुछिएका छैनन्।",
+  "overall_approval_rating": 72
+}

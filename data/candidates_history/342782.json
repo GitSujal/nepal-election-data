@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342782,
+  "candidate_name": "लोकेन्द्र बहादुर शाही",
+  "candidate_party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg/1200px-Communist_Party_of_Nepal_%28Maoist_Centre%29_logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342782.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "अछाम",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "अछाम जिल्ला निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए, तर पराजित भए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW2WZMu_eUnqcHOhfGPaUeUOHj7EehWC9_1VbEYGY14limooa0PUCNA4TgtZKyMagzApgWBvBQ0vRVYakkV0CrGNIQJN-l7Pf0t6g2pFDfbgbjiR_0jXLG_u4Z1ljgckKw1ZltR5WZVxc4UA==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल कम्युनिस्ट पार्टी (माओवादी) मा आवद्धता",
+      "date": "२०७५-०३-१५",
+      "details": "लामो समयदेखि माओवादी विचारधारामा आवद्ध रही सामाजिक न्याय र स्वतन्त्रताका लागि संघर्षरत रहँदै आएका।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW2WZMu_eUnqcHOhfGPaUeUOHj7EehWC9_1VbEYGY14limooa0PUCNA4TgtZKyMagzApgWBvBQ0vRVYakkV0CrGNIQJN-l7Pf0t6g2pFDfbgbjiR_0jXLG_u4Z1ljgckKw1ZltR5WZVxc4UA==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ढकारी गाउँपालिकामा राजनीतिक सक्रियता",
+      "date": "२०७४-०२-१५",
+      "details": "आफ्नो स्थायी ठेगाना ढकारी गाउँपालिका, सावामा रहेर स्थानीय स्तरमा राजनीतिक र सामाजिक कार्यमा सक्रिय।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW2WZMu_eUnqcHOhfGPaUeUOHj7EehWC9_1VbEYGY14limooa0PUCNA4TgtZKyMagzApgWBvBQ0vRVYakkV0CrGNIQJN-l7Pf0t6g2pFDfbgbjiR_0jXLG_u4Z1ljgckKw1ZltR5WZVxc4UA==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लोकेन्द्र बहादुर शाही अछाम जिल्लाका एक निष्ठावान राजनीतिक कार्यकर्ता हुन्। उनले २०७९ को आम निर्वाचनमा प्रतिनिधि सभा सदस्यका लागि अछाम-१ बाट प्रतिस्पर्धा गरेका थिए। यद्यपि उनी मूलधारको ठूलो माओवादी दल (माओवादी केन्द्र) भन्दा फरक सानो समूह 'नेपाल कम्युनिस्ट पार्टी (माओवादी)' मा आवद्ध छन्, जसका कारण चुनावी परिणाममा उनको उपस्थिति कमजोर देखिन्छ। उनी अछामको ढकारी क्षेत्रका स्थानीय बासिन्दा हुन् र लामो समयदेखि सामाजिक न्यायको मुद्दा उठाउँदै आएका छन्। उनको राजनीतिक आधार मुख्यतया स्थानीय र वैचारिक छ, तर राष्ट्रिय राजनीतिमा प्रभाव जमाउन ठूला दलहरूसँगको प्रतिस्पर्धा चुनौतीपूर्ण रहेको देखिन्छ।",
+  "overall_approval_rating": 35
+}

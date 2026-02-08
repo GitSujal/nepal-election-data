@@ -495,7 +495,7 @@ if __name__ == "__main__":
     parser.add_argument("--candidate-id", type=int, help="Fetch details for a specific candidate ID (overrides --offset and --limit)")
     parser.add_argument("--no-skip", action="store_true", help="Do not skip candidates that already have saved profiles")
     parser.add_argument("--include-new", action="store_true", help="Include new candidates (is_new_candidate=True) who have no political history")
-    parser.add_argument("--concurrency", type=int, default=10, help="Number of concurrent API requests (default: 5)")
+    parser.add_argument("--concurrency", type=int, default=30, help="Number of concurrent API requests (default: 30)")
 
     argparser = parser.parse_args()
 

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339433,
+  "candidate_name": "लाल बहादुर सार्की (गोतामे)",
+  "candidate_party": "राष्ट्रिय जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rastriya_Janamukti_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339433.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "तनहुँ क्षेत्र नं. २ बाट राष्ट्रिय जनमुक्ति पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका थिए। सो निर्वाचनमा उनले ४१८ मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjjF_64QvAZMhW8-jNtuCCapmeNJtTF2s4Gb8C--OYXSOuJwdEdnj5N-g1UQNQrxqQ9rVTqkP50T-t9oTerc5yRhu22DE1-xtTI8P0OShSANvDBsShDj1CFEqHk29jQm_JCJ1tkSn21xRWQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "दलित अधिकार र सामाजिक न्यायको वकालत",
+      "date": "२०७५-०१-०१",
+      "details": "तनहुँको भिमाद क्षेत्रमा रहेर दलित तथा अल्पसंख्यक समुदायको उत्थान र सामाजिक न्यायका लागि स्थानीय स्तरमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJXbaYdHPZ12Iv6UaC4V7reYeSD3DD2iIMRvqQfhcJ5Xj-NA0T_vu2w48jOPGMWiJkjbac_wGD_MincWhuY7kN5MG-vlYsCMpziUVQF_2BkGIhtiWPQfsb3yZC7PpaqjbBvs4S_ndgO0aTdR81BhlPNJ3T61jUmxVnVRWx6GXXQlwxPVkWEczFMJolXg==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "राष्ट्रिय जनमुक्ति पार्टीमा आबद्धता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि पहिचान र अधिकारको राजनीति गर्ने राष्ट्रिय जनमुक्ति पार्टीमा आबद्ध भई सांगठनिक विस्तारमा योगदान पुर्‍याउँदै आएका छन्।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjjF_64QvAZMhW8-jNtuCCapmeNJtTF2s4Gb8C--OYXSOuJwdEdnj5N-g1UQNQrxqQ9rVTqkP50T-t9oTerc5yRhu22DE1-xtTI8P0OShSANvDBsShDj1CFEqHk29jQm_JCJ1tkSn21xRWQ==",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "लाल बहादुर सार्की (गोतामे) राष्ट्रिय जनमुक्ति पार्टीका एक सक्रिय युवा नेता हुन्। ३७ वर्षको उमेरमा २०७९ को प्रतिनिधि सभा निर्वाचनमा तनहुँ निर्वाचन क्षेत्र नम्बर २ बाट उम्मेदवार बनेका उनले ४१८ मत प्राप्त गरेका थिए। उनी मुख्यतया दलित र जनजाति अधिकारका सवालमा केन्द्रित राजनीतिमा सक्रिय छन्। उनको राजनीतिक यात्रामा हालसम्म कुनै ठूला भ्रष्टाचार वा काण्डहरूको रेकर्ड भेटिएको छैन, जसले गर्दा उनी एक स्वच्छ छवि भएका उम्मेदवार मानिन्छन्। तर, ठूला राजनीतिक दलहरूको प्रभाव रहेको तनहुँमा उनले निर्वाचन परिणाममा खासै ठूलो प्रभाव पार्न सकेका छैनन्। उनी भिमाद नगरपालिकाका स्थायी बासिन्दा हुन् र स्थानीय स्तरमा सामाजिक कार्यमा संलग्न रहँदै आएका छन्।",
+  "overall_approval_rating": 48
+}

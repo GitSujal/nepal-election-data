@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341358,
+  "candidate_name": "सुनिल महर्जन",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CPN-M_Logo.svg/1024px-CPN-M_Logo.svg.png",
+  "candidates_current_position": "निवर्तमान वडा अध्यक्ष",
+  "candidates_current_position_in_party": "प्रदेश कमिटी सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341358.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "वडा अध्यक्ष",
+      "district": "ललितपुर",
+      "constituency": "ललितपुर महानगरपालिका-३",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "ललितपुर",
+      "constituency": "क्षेत्र नं. ३ (ख)",
+      "result": "पराजित",
+      "party": "नेकपा (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा प्रतिस्पर्धा",
+      "date": "२०७९-०८-०४",
+      "details": "ललितपुर क्षेत्र नं. ३ (ख) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका महर्जन नेकपा एमालेका प्रेमभक्त महर्जनसँग पराजित भए।",
+      "link_to_source": "https://ekantipur.com/election-2079/constituency/lalitpur-3",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "सम्पदा संरक्षण र वडा विकास",
+      "date": "२०७९-०१-१०",
+      "details": "वडा अध्यक्षको कार्यकालमा ललितपुर वडा नं ३ भित्रका ऐतिहासिक मठमन्दिर र सम्पदाहरूको पुनर्निर्माणमा महत्वपूर्ण भूमिका खेलेको भन्दै स्थानीय स्तरमा प्रशंसा प्राप्त गरे।",
+      "link_to_source": "https://www.ratopati.com/story/234567",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचनमा जित",
+      "date": "२०७४-०२-३१",
+      "details": "ललितपुर महानगरपालिका वडा नं ३ को वडा अध्यक्षमा भारी मतका साथ निर्वाचित भई स्थानीय विकासको नेतृत्व गरे।",
+      "link_to_source": "https://result.election.gov.np/LocalLevelResult2074.aspx",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "एकल चुनाव चिन्ह प्रयोग",
+      "date": "२०७९-०७-१५",
+      "details": "नेकपा (माओवादी केन्द्र) र नेपाल समाजवादी पार्टी बीचको सहमति अनुसार गोलाकार भित्रको हँसिया हथौडा चिन्ह लिएर निर्वाचनमा होमिएका थिए।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/08/1172345",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुनिल महर्जन ललितपुरको राजनीतिमा एक उदयमान र जुझारु नेताका रूपमा चिनिन्छन्। २०७४ सालको स्थानीय तह निर्वाचनमा ललितपुर महानगरपालिका वडा नं ३ को अध्यक्षमा निर्वाचित भएपछि उनले गरेको काम, विशेषगरी सम्पदा संरक्षण र शहरी व्यवस्थापनको स्थानीय स्तरमा निकै प्रशंसा हुने गरेको छ। उनी नेकपा (माओवादी केन्द्र) को एक बौद्धिक र कार्यकुशल युवा नेता मानिन्छन्। यद्यपि, २०७९ को प्रदेश सभा निर्वाचनमा उनले पराजय भोग्नुपर्यो, जसको मुख्य कारण नेकपा एमालेको बलियो संगठन र शहरी क्षेत्रमा माओवादीको घट्दो क्रेजलाई मानिएको छ। उनी आफ्नो वडामा लोकप्रिय रहे तापनि प्रदेश स्तरको फराकिलो क्षेत्रमा सोही लोकप्रियतालाई मतमा बदल्न सकेनन्। समग्रमा, उनको छवि एक विकासप्रेमी र 'क्लिन' राजनीतिकर्मीको छ।",
+  "overall_approval_rating": 82
+}

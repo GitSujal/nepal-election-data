@@ -1,0 +1,39 @@
+{
+  "candidate_id": 340107,
+  "candidate_name": "यम बहादुर गुरुङ",
+  "candidate_party": "मंगोल नेशनल अर्गनाइजेसन",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/MNO_Nepal_Logo.png/220px-MNO_Nepal_Logo.png",
+  "candidates_current_position": "प्रतिनिधिसभा सदस्य उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340107.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "मुस्ताङ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "मंगोल नेशनल अर्गनाइजेसन"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ प्रतिनिधिसभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "मुस्ताङ निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका गुरुङले अत्यन्तै न्यून मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/Mustang",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मंगोल नेशनल अर्गनाइजेसनमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "गुरुङले मंगोल नेशनल अर्गनाइजेसनको विचारधारा र 'मंगोलवाद' को प्रवर्द्धनका लागि मुस्ताङ र वरपरका क्षेत्रमा राजनीतिक गतिविधि गर्दै आएका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340107",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "यम बहादुर गुरुङ मंगोल नेशनल अर्गनाइजेसनका तर्फबाट मुस्ताङ क्षेत्र नम्बर १ मा चुनावी प्रतिस्पर्धामा उत्रिएका उम्मेदवार हुन्। स्रोतका अनुसार उनलाई 'पर्यटक उम्मेदवार' (Tourist Candidate) को रूपमा चित्रित गरिएको छ, जसले गर्दा मुस्ताङमा उनको स्थानीय आधार र प्रभाव कमजोर देखिन्छ। शैक्षिक रूपमा उनले ८ कक्षासम्मको अध्ययन पूरा गरेका छन्। मुस्ताङमा परम्परागत रूपमा नेपाली कांग्रेस र नेकपा (एमाले) बीच मुख्य प्रतिस्पर्धा हुने गरेकोमा, गुरुङको उम्मेदवारी मुख्यतया आफ्नो दलको पहिचान र अस्तित्व देखाउनमा मात्र सीमित रह्यो। निर्वाचनमा उनको मत परिणाम अत्यन्तै कमजोर रहेको थियो, जसले उनको चुनावी पकड न्यून रहेको पुष्टि गर्दछ।",
+  "overall_approval_rating": 15
+}

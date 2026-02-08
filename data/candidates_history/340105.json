@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340105,
+  "candidate_name": "वलराम शर्मा खनाल",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rastriya_Prajatantra_Party_Logo.png/220px-Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "नेता, राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340105.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "चितवन",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "वलराम शर्मा खनालले चितवन क्षेत्र नं. १ (ख) बाट प्रदेश सभाका लागि राप्रपाको तर्फबाट उम्मेदवारी दिएका थिए। उनले ९,४३९ मत प्राप्त गरी तेस्रो स्थान हासिल गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340105",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकता प्रक्रियामा संलग्नता",
+      "date": "२०७७-०१-२४",
+      "details": "विभिन्न चिरामा विभाजित राष्ट्रिय प्रजातन्त्र पार्टीका समूहहरू (राप्रपा संयुक्त र राप्रपा) बीचको एकता प्रक्रियामा चितवन जिल्लाबाट सक्रिय समर्थन र भूमिका निर्वाह गरेका थिए।",
+      "link_to_source": "https://sajilopatrika.com/news/balaram-sharma-khanal",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०४५-०१-०१",
+      "details": "उनले चितवनको सहिद स्मृति बहुमुखी क्याम्पसबाट आई.कम. (I.Com) सम्मको अध्ययन पुरा गरेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340105",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "स्थानीय राजनीतिमा सक्रियता",
+      "date": "२०७४-०१-०१",
+      "details": "पार्टी विभाजन र टुटफुटको समयमा पनि राप्रपाको वैचारिक धारमा अडिग रहँदै चितवनको खैरहनी र राप्ती क्षेत्रमा पार्टी संगठन विस्तारमा योगदान दिएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/news/balaram-sharma-khanal",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "वलराम शर्मा खनाल राष्ट्रिय प्रजातन्त्र पार्टीका एक निष्ठावान र पुराना कार्यकर्ता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले चितवन क्षेत्र नं. १ (ख) बाट सम्मानजनक ९,४३९ मत प्राप्त गरेका थिए, जसले उक्त क्षेत्रमा राप्रपाको बलियो उपस्थितिलाई संकेत गर्दछ। यद्यपि उनी तेस्रो स्थानमा रहे र नेकपा (एकीकृत समाजवादी) का कृष्ण प्रसाद शर्मा खनालसँग पराजित भए। खनालको राजनीतिक जीवन मुख्यतया चितवन जिल्लामा केन्द्रित छ र उनी पार्टीका विभिन्न विभाजन र एकताका बाबजुद राप्रपाकै मूलधारमा सक्रिय रहँदै आएका छन्। उनको चुनावी प्रदर्शनले उनी स्थानीय स्तरमा लोकप्रिय रहेको देखाउँछ, तर ठूला दलहरूको गठबन्धनका कारण विजय हासिल गर्न कठिन भएको देखिन्छ। उनी विरुद्ध हालसम्म कुनै ठूला भ्रष्टाचार वा फौजदारी मुद्दाहरू सार्वजनिक भएका छैनन्।",
+  "overall_approval_rating": 65
+}

@@ -1,0 +1,63 @@
+{
+  "candidate_id": 339545,
+  "candidate_name": "केशव कुमार भण्डारी",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://ssparty.org.np/wp-content/uploads/2024/logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार (झापा-२)",
+  "candidates_current_position_in_party": "झापा जिल्ला अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339545.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "श्रम संस्कृति पार्टीको झापा अध्यक्षमा नियुक्त",
+      "date": "२०८०-०८-२६",
+      "details": "संगठन विस्तारको क्रममा हर्क साम्पाङ नेतृत्वको श्रम संस्कृति पार्टीले भण्डारीको अध्यक्षतामा झापा जिल्ला कमिटी गठन गरेको हो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7FUCYQEIuAT0VsCjBtqMHhbO9BuFPCC7DnCO_KWhpr2JQmZsu8jPpAw8vLmpZlskLGwuyImfxdGGcMuUUif1TkfkCz6CmA12S5oxxPYhoBaNIGieg7WnMmxUE",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "झापा क्षेत्र नं. २ बाट प्रतिनिधि सभा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "भण्डारीले 'अञ्जुलीमा माटो' चुनाव चिन्ह लिएर झापा-२ बाट प्रत्यक्षतर्फको निर्वाचनमा प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrjNKoYaBt7Tg-_O8pbN_F_52PRxQOXVzzAzziGI0z_r_GPcGR3fBHqxvfDx6ZKEaA1mbwmb6-S1JwkOqApUQK8pe6EyRCL9yLCssiZhaS9OUtKFBVjODw5nv-g==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "भ्रष्टाचार र बेथिति विरुद्ध खबरदारी",
+      "date": "२०७८-०५-१०",
+      "details": "युवा नागरिक समाज मार्फत जिल्लाका विभिन्न विकास योजनामा हुने अनियमितता र नीतिगत भ्रष्टाचार विरुद्ध आवाज उठाउन सक्रिय रहेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrjNKoYaBt7Tg-_O8pbN_F_52PRxQOXVzzAzziGI0z_r_GPcGR3fBHqxvfDx6ZKEaA1mbwmb6-S1JwkOqApUQK8pe6EyRCL9yLCssiZhaS9OUtKFBVjODw5nv-g==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "युवा नागरिक समाजको स्थापना र सामाजिक सेवा",
+      "date": "२०७५-१०-१५",
+      "details": "राजनीतिबाट केही समय अलग रहेर भण्डारीले झापामा सरसफाइ अभियान र विपद्मा परेका नागरिकको उद्धारका लागि सामाजिक संस्था स्थापना गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrjNKoYaBt7Tg-_O8pbN_F_52PRxQOXVzzAzziGI0z_r_GPcGR3fBHqxvfDx6ZKEaA1mbwmb6-S1JwkOqApUQK8pe6EyRCL9yLCssiZhaS9OUtKFBVjODw5nv-g==",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेकपा एमाले र युवा संघ परित्याग",
+      "date": "२०७४-१२-०१",
+      "details": "पार्टीभित्रको अवसरवाद र गलत निर्णयको विरोध गर्दै उनले एमाले निकट युवा संघको सक्रिय राजनीतिबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrjNKoYaBt7Tg-_O8pbN_F_52PRxQOXVzzAzziGI0z_r_GPcGR3fBHqxvfDx6ZKEaA1mbwmb6-S1JwkOqApUQK8pe6EyRCL9yLCssiZhaS9OUtKFBVjODw5nv-g==",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "केशव कुमार भण्डारी झापाका एक प्रभावशाली सामाजिक र राजनीतिक अभियन्ता हुन्। उनले आफ्नो राजनीतिक यात्रा एमाले निकट विद्यार्थी र युवा संगठनबाट सुरु गरे पनि पार्टीभित्रको कार्यशैलीप्रति असन्तुष्टि जनाउँदै लामो समय स्वतन्त्र सामाजिक सेवामा बिताए। उनले स्थापना गरेको 'युवा नागरिक समाज' मार्फत झापामा नियमित सरसफाइ र परोपकारी कार्यहरू गरी आफ्नो छुट्टै पहिचान बनाएका छन्। धरानका मेयर हर्क साम्पाङको 'श्रम संस्कृति' दर्शनबाट प्रभावित भई उनी हाल सोही पार्टीको झापा जिल्ला नेतृत्व गरिरहेका छन्। २०७९ को निर्वाचनमा उनले उल्लेख्य मत नपाए पनि स्थानीय स्तरमा उनको छवि एक स्वच्छ र विकासप्रेमी नेताको रूपमा रहेको छ। उनको चुनावी चुनौती भनेको स्थापित ठूला दलहरूका विरुद्ध संगठनलाई मजबुत बनाउनु र जनमत बटुल्नु हो।",
+  "overall_approval_rating": 62
+}

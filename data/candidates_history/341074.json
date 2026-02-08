@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341074,
+  "candidate_name": "जगरनाथ मंडल",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "स्वतन्त्र राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्वतन्त्र",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341074.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "निर्वाचन क्षेत्र नं २",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा प्रभावशाली उपस्थिति",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नम्बर २ बाट स्वतन्त्र उम्मेदवारी दिई ११,२६५ मत प्राप्त गर्दै तेस्रो स्थान हासिल गरे। उनले ठूला राजनीतिक दलका उम्मेदवारहरूलाई कडा टक्कर दिएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-dhanusha?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "धनुषा क्षेत्र नं २ मा स्वतन्त्र उम्मेदवारको रूपमा 'भुइँकटर' (Pineapple) निर्वाचन चिन्ह लिएर चुनावी मैदानमा उत्रिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय सामाजिक कार्य र वकालत",
+      "date": "२०७६-०१-१५",
+      "details": "धनुषाका ग्रामीण क्षेत्रहरूमा सामाजिक न्याय, युवा परिचालन र स्थानीय विकासका मुद्दाहरूमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://www.election.gov.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जगरनाथ मंडल धनुषा जिल्लाका एक प्रभावशाली स्वतन्त्र राजनीतिज्ञ हुन्। २०७९ को प्रतिनिधि सभा निर्वाचनमा उनले धनुषा क्षेत्र नम्बर २ बाट ११,२६५ मत प्राप्त गर्नुले उनको बलियो स्थानीय पकडलाई पुष्टि गर्दछ। कुनै ठूलो राजनीतिक दलको समर्थन बिना नै यति धेरै मत प्राप्त गर्नुलाई मधेश राजनीतिमा एक महत्त्वपूर्ण उपलब्धिका रूपमा हेरिएको छ। उनले नेपाली कांग्रेस र नेकपा एमालेका स्थापित उम्मेदवारहरू विरुद्ध वैकल्पिक शक्तिको रूपमा आफूलाई प्रस्तुत गरेका थिए। हालसम्म उनको राजनीतिक जीवनमा कुनै ठूला भ्रष्टाचार वा कानुनी विवादहरू देखिएका छैनन्। उनी स्थानीय स्तरमा स्वच्छ छवि भएका सामाजिक कार्यकर्ताका रूपमा परिचित छन्।",
+  "overall_approval_rating": 72
+}

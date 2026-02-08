@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340881,
+  "candidate_name": "सुशील कुमार कानु",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "इन्जिनियर तथा राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340881.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "विवेकशील साझा पार्टी"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "पर्सा क्षेत्र नं. २ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका तर निर्वाचित हुन सकेनन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०४-१७",
+      "details": "वैकल्पिक राजनीतिको नयाँ लहरसँगै उनी राष्ट्रिय स्वतन्त्र पार्टीमा आबद्ध भएका थिए।",
+      "link_to_source": "https://rspnepal.org/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७४ को निर्वाचनमा विवेकशील साझाबाट उम्मेदवारी",
+      "date": "२०७४-०८-२१",
+      "details": "पर्सा क्षेत्र नं. २ बाटै विवेकशील साझा पार्टीको तर्फबाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका थिए।",
+      "link_to_source": "https://result.election.gov.np/ElectionResult74.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "इन्जिनियरिङ क्षेत्रमा योगदान",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिमा आउनुअघि उनले सिभिल इन्जिनियरको रूपमा विभिन्न विकास निर्माणका परियोजनाहरूमा काम गरेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election-result-parsa-election-2082-who-won-340881",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "सुशील कुमार कानु पर्सा क्षेत्र नं. २ का एक शिक्षित र व्यावसायिक पृष्ठभूमिका उम्मेदवार हुन्। सिभिल इन्जिनियरिङमा स्नातक गरेका उनी वैकल्पिक राजनीतिको धारमा सुरुदेखि नै सक्रिय देखिएका छन्। २०७४ को निर्वाचनमा विवेकशील साझा पार्टीबाट र २०७९ मा राष्ट्रिय स्वतन्त्र पार्टीबाट चुनावी प्रतिस्पर्धामा होमिएका उनले मधेश प्रदेशमा नयाँ राजनीतिक लहर ल्याउने प्रयास गरेका थिए। उनी कुनै ठूला काण्ड वा भ्रष्टाचारमा मुछिएका छैनन्, जसले गर्दा उनको छवि स्वच्छ छ। तर, स्थापित पुराना दलहरूको वर्चस्व रहेको पर्सामा उनले सोचेजस्तो चुनावी नतिजा निकाल्न सकेनन्। उनको उम्मेदवारीले युवा र शिक्षित मतदातामाझ एउटा विकल्प प्रस्तुत गरेको देखिन्छ।",
+  "overall_approval_rating": 64
+}

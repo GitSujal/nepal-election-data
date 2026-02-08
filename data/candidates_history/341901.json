@@ -1,0 +1,39 @@
+{
+  "candidate_id": 341901,
+  "candidate_name": "अन्जु चौधरी",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "N/A",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341901.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "स्वतन्त्र"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचनमा सहभागिता र परिणाम",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ को प्रतिनिधि सभा निर्वाचनमा रौतहट क्षेत्र नं. ३ बाट स्वतन्त्र उम्मेदवारको रूपमा प्रतिस्पर्धा गर्दै ८१ मत प्राप्त गरेकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/HouseOfRepresentativeResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "रौतहट जिल्लाको निर्वाचन क्षेत्र नं. ३ बाट प्रतिनिधि सभा सदस्यका लागि उनले स्वतन्त्र रूपमा आफ्नो मनोनयन दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "अन्जु चौधरी रौतहट क्षेत्र नं. ३ बाट २०७९ को प्रतिनिधि सभा निर्वाचनमा स्वतन्त्र उम्मेदवारको रूपमा सहभागी भएकी थिइन्। उनले उक्त निर्वाचनमा मात्र ८१ मत प्राप्त गरेकी थिइन्, जसले उनको चुनावी प्रभाव निकै न्यून रहेको देखाउँछ। सो निर्वाचन क्षेत्रमा प्रभु साह जस्ता प्रभावशाली नेताहरूको प्रतिस्पर्धा रहेको थियो, जहाँ उनले एक वैकल्पिक स्थानीय आवाजको रूपमा उम्मेदवारी दिएकी थिइन्। सार्वजनिक रेकर्ड अनुसार उनको कुनै लामो राजनीतिक इतिहास वा ठूला दलहरूसँगको आबद्धता भेटिएको छैन। उनी मुख्यतया एक स्थानीय स्वतन्त्र उम्मेदवारको रूपमा चिनिन्छिन् र उनको हालसम्मको राजनीतिक प्रभाव निकै सीमित छ।",
+  "overall_approval_rating": 30
+}

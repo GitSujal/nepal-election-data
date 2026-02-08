@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339306,
+  "candidate_name": "विमला श्रेष्ठ",
+  "candidate_party": "नेपाल मजदुर किसान पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nepal_Workers_Peasants_Party_Flag.svg/1024px-Nepal_Workers_Peasants_Party_Flag.svg.png",
+  "candidates_current_position": "नेपाल मजदुर किसान पार्टीको प्रतिनिधि",
+  "candidates_current_position_in_party": "सक्रिय कार्यकर्ता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339306.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "दोलखा",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल मजदुर किसान पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "नेपाल मजदुर किसान पार्टीको तर्फबाट दोलखा निर्वाचन क्षेत्र नं. १ मा प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेकी थिइन्, जसमा उनले न्यून मत प्राप्त गरिन्।",
+      "link_to_source": "https://annapurnapost.com/story/415950/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निर्वाचनका लागि मनोनयन दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "दोलखा जिल्लाको एकमात्र निर्वाचन क्षेत्रका लागि उनले नेमकिपाको तर्फबाट औपचारिक रूपमा उम्मेदवारी दर्ता गराएकी थिइन्।",
+      "link_to_source": "https://annapurnapost.com/story/415950/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टीको संगठन विस्तार र प्रशिक्षणमा सक्रियता",
+      "date": "२०७५-०३-१५",
+      "details": "नेपाल मजदुर किसान पार्टीको विचारधारा प्रचार-प्रसार गर्न र किसान-मजदुरका मुद्दाहरूमा पार्टीले संचालन गर्ने विभिन्न अभियानहरूमा सक्रिय भूमिका निर्वाह गर्दै आएकी छन्।",
+      "link_to_source": "http://nwpp.org.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विमला श्रेष्ठ नेपाल मजदुर किसान पार्टी (नेमकिपा) की एक निष्ठावान कार्यकर्ता हुनुहुन्छ। २०७९ सालको प्रतिनिधि सभा निर्वाचनमा उनले दोलखा-१ बाट उम्मेदवारी दिएकी थिइन्। उनी मुख्यतया पार्टीको आधार इलाका (भक्तपुर) बाहिर संगठनको उपस्थिति जनाउन खटाइएको 'पर्यटक उम्मेदवार' को रूपमा परिचित छिन्। दोलखामा नेमकिपाको सांगठनिक पकड कमजोर रहेका कारण र उनी स्थानीय स्तरमा परिचित नभएकाले चुनावी परिणाम उनको पक्षमा आउन सकेन। उनको राजनीतिक छवि स्वच्छ छ र उनी पार्टीको सिद्धान्त र अनुशासनमा प्रतिबद्ध देखिन्छन्। यद्यपि, स्थानीय मतदातामाझ उनको प्रभाव र पहुँच स्थापित हुन नसकेको देखिन्छ।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341680,
+  "candidate_name": "देव सिहं ऐडी",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rastriya_Swatantra_Party_Logo.svg/1200px-Rastriya_Swatantra_Party_Logo.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341680.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "डोल्पा",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "डोल्पा क्षेत्र नं १ बाट राष्ट्रिय स्वतन्त्र पार्टीको उम्मेदवार भई ४८ मत प्राप्त गर्दै पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/SearchElectionDetail.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा आबद्धता",
+      "date": "२०७९-०४-०७",
+      "details": "नयाँ वैकल्पिक शक्तिको रूपमा उदाएको राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश गरी डोल्पा जिल्लामा पार्टी विस्तारमा संलग्न।",
+      "link_to_source": "https://rspnepal.org/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा सक्रियता",
+      "date": "२०७४-०४-११",
+      "details": "वैकल्पिक राजनीतिका लागि विवेकशील साझा पार्टी र पूर्व साझा पार्टीमा आबद्ध रही जिल्ला स्तरमा संगठन निर्माणमा सक्रिय।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%B6%E0%A5%80%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A4%BE_%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%80",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "देव सिहं ऐडी डोल्पा जिल्लाबाट वैकल्पिक राजनीतिको प्रतिनिधित्व गर्ने एक युवा अनुहार हुन्। उनले २०७९ को आम निर्वाचनमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) बाट प्रतिनिधि सभाको लागि प्रतिस्पर्धा गरेका थिए, यद्यपि उनले प्राप्त गरेको मत (४८ मत) निकै न्यून थियो। यसअघि विवेकशील साझा पार्टीमा आबद्ध रहेका ऐडी डोल्पा जस्तो परम्परागत राजनीतिक शक्तिहरूको पकड भएको विकट जिल्लामा नयाँ राजनीतिक विचार स्थापित गर्न प्रयत्नशील देखिन्छन्। उनको निर्वाचन क्षेत्र परिवर्तन नभएको र उनी स्थानीय स्तरमा संगठन निर्माणमा केन्द्रित रहेको पाइन्छ। अहिलेसम्म उनको नाममा कुनै ठूला आर्थिक अनियमितता वा भ्रष्टाचारका काण्डहरू जोडिएका छैनन्, जसले उनको व्यक्तिगत छविलाई स्वच्छ राखेको छ। तर, चुनावी नतिजाले डोल्पाका मतदाताहरूमाझ उनको प्रभाव अझै निकै कमजोर रहेको संकेत गर्दछ।",
+  "overall_approval_rating": 35
+}

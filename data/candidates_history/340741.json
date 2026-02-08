@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340741,
+  "candidate_name": "ढाल बहादुर खपाङ्गी मगर",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Shram_Sanskriti_Party_Logo.png/200px-Shram_Sanskriti_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340741.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "रामेछाप",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "रामेछाप क्षेत्र नं. १ बाट श्रम संस्कृति पार्टीको तर्फबाट प्रतिनिधिसभा सदस्यका लागि चुनावी प्रतिस्पर्धामा उत्रिएका थिए।",
+      "link_to_source": "https://result.election.gov.np/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीमा आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "हर्क साम्पाङको विचार र श्रम संस्कृतिको एजेन्डालाई आत्मसात गर्दै सोही पार्टीबाट सक्रिय राजनीति सुरु गरेका हुन्।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/340741",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय मुद्दा र श्रमदान अभियानमा सहभागिता",
+      "date": "२०८०-०२-१५",
+      "details": "रामेछापका स्थानीय स्तरमा श्रम र संस्कृतिको जगेर्नाका लागि विभिन्न सामाजिक कार्यहरूमा संलग्न रहँदै आएका छन्।",
+      "link_to_source": "https://www.election.gov.np/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "ढाल बहादुर खपाङ्गी मगर रामेछाप जिल्लाका एक उदीयमान राजनीतिकर्मी हुन् जसले २०७९ को प्रतिनिधिसभा निर्वाचनमा 'श्रम संस्कृति पार्टी' बाट उम्मेदवारी दिएका थिए। उनी धरानका मेयर हर्क साम्पाङले अघि सारेको श्रम र संस्कृतिको विचारधाराबाट प्रभावित भएर राजनीतिमा सक्रिय भएका देखिन्छन्। यद्यपि उनले निर्वाचनमा उल्लेख्य मत प्राप्त गर्न सकेनन्, तर साना र वैकल्पिक राजनीतिक शक्तिहरूको प्रतिनिधित्व गर्दै उनले आफ्नो क्षेत्रमा उपस्थिति जनाएका छन्। उनको राजनीतिक पृष्ठभूमिमा कुनै ठूला घोटाला वा विवादहरू देखिएका छैनन्, जसले गर्दा उनी एक स्वच्छ छविका उम्मेदवार मानिन्छन्। ठूला राजनीतिक दलहरूको वर्चस्व रहेको रामेछापमा उनले वैकल्पिक शक्तिको रूपमा आफ्नो आधार तयार गर्ने कोसिस गरिरहेका छन्।",
+  "overall_approval_rating": 45
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340119,
+  "candidate_name": "कन्स राज राजवंशी",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_the_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340119.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "मोरङ ३",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रतिनिधि सभा निर्वाचनमा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "कन्स राज राजवंशीले मोरङ क्षेत्र नं ३ बाट राप्रपाको उम्मेदवारका रूपमा प्रतिनिधि सभा निर्वाचनमा प्रतिस्पर्धा गरे, जहाँ उनले १,५५५ मत प्राप्त गरे।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district-morang?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपाको एकीकरण प्रक्रियामा संलग्नता",
+      "date": "२०७७-०२-०१",
+      "details": "विभिन्न चिरामा विभाजित राष्ट्रिय प्रजातन्त्र पार्टीका घटकहरू (राप्रपा र राप्रपा संयुक्त) बीचको एकता प्रक्रियामा उनले समर्थन जनाउँदै एकीकृत पार्टीमा क्रियाशील रहे।",
+      "link_to_source": "https://www.onlinekhabar.com/2020/03/843702",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राजवंशी समुदायको उत्थानका लागि सक्रियता",
+      "date": "२०७५-१०-१५",
+      "details": "मोरङ र झापा क्षेत्रका अल्पसङ्ख्यक राजवंशी समुदायको हकहित र पहिचानका लागि स्थानीय स्तरमा विभिन्न कार्यक्रमहरूमा नेतृत्वदायी भूमिका निर्वाह गर्दै आएका छन्।",
+      "link_to_source": "https://www.ratopati.com/story/274950/2022/11/21/election",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी विस्तार अभियानमा सक्रियता",
+      "date": "२०७४-१२-१०",
+      "details": "मोरङ जिल्लामा राष्ट्रिय प्रजातन्त्र पार्टीको सङ्गठन विस्तार र स्थानीय निर्वाचनका तयारीहरूमा उनी सक्रिय रूपमा सहभागी रहेका थिए।",
+      "link_to_source": "https://deshsanchar.com/election-result-2079/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कन्स राज राजवंशी मोरङका एक निष्ठावान राजनीतिकर्मी हुन् जसले लामो समयदेखि राष्ट्रिय प्रजातन्त्र पार्टीका विभिन्न घटकहरूमा रहेर काम गर्दै आएका छन्। उनी विशेष गरी मोरङको राजवंशी समुदायको प्रतिनिधित्व गर्दछन् र सोही समुदायको भोट बैंकमा उनको पकड रहेको मानिन्छ। २०७९ को आम निर्वाचनमा मोरङ क्षेत्र नं. ३ बाट उम्मेदवार बने पनि उनले भारी मतान्तरले पराजित हुनुपर्यो। उक्त क्षेत्रमा सुनिल शर्मा र भानुभक्त ढकाल जस्ता ठूला दलका हस्तीहरूको प्रभावका कारण उनले आफ्नो स्थान बनाउन सकेनन्। उनको राजनीतिक यात्रामा कुनै ठूला भ्रष्टाचार वा काण्डहरू नदेखिए पनि चुनावी नतिजाको हिसाबले उनी अझै कमजोर देखिन्छन्। आफ्नो जातीय आधार इलाका भन्दा बाहिरका मतदाताहरूलाई आकर्षित गर्न नसक्नु उनको मुख्य चुनौती देखिन्छ।",
+  "overall_approval_rating": 42
+}

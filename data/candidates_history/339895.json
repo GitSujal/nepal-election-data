@@ -1,0 +1,71 @@
+{
+  "candidate_id": 339895,
+  "candidate_name": "याम बहादुर आले",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Janamukti_Party_Flag.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "जिल्ला नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339895.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "तनहुँ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    },
+    {
+      "year": "२०८०",
+      "position": "प्रतिनिधिसभा सदस्य (उपनिर्वाचन)",
+      "district": "तनहुँ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "तनहुँ क्षेत्र नं. १ उपनिर्वाचनमा उम्मेदवारी",
+      "date": "२०८०-०१-१०",
+      "details": "राष्ट्रिय स्वतन्त्र पार्टीका स्वर्णिम वाग्ले विजयी भएको यस निर्वाचनमा आलेले नेपाल जनमुक्ति पार्टीबाट उम्मेदवारी दिएका थिए ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZjzfbYzjOCwvy37OI4I9njRA6Dco-gs1H9BKSNElzc87dMHTDJ8qLhbWRCAm8tzfDLToHVJ_05K8vyW4NPvI1H5a_WA424nvdmX8cGY6URKnAovnmvz5cbZWAMxx5mQ==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "तनहुँ क्षेत्र नं. १ बाट प्रतिनिधिसभाका लागि चुनावी मैदानमा उत्रिएका आलेले थोरै मत प्राप्त गरी पराजित भए ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1Lhxi7VINFNQT9XQyTvXOiy4KS3i9NSeCWBjxQi8ZHrh_3qXRMbWmLOrf4MoJD5HQ4KWmrnfXimyRKZHEcuLfsAE98aRs-DPzJu9JMXu2VqwUwWPzlvpyDlZ3stNBCw2CwA==",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "स्थानीय तह निर्वाचनमा शुक्लागण्डकी प्रमुखको उम्मेदवार",
+      "date": "२०७९-०१-३०",
+      "details": "राष्ट्रिय जनमुक्ति पार्टीका तर्फबाट तनहुँको शुक्लागण्डकी नगरपालिकाको प्रमुख पदमा उम्मेदवारी दिएका थिए ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7h9Muefj9s4RHr6pC8JyPsuQFwpMMyBDNVk57Pg_hYpMcGkRvW7xVSkyeiz7B_zirBD7Nuy93XaYBpGI289gVWrDRBCNmeMqlMmlVRm-fBrXjv7bHAYlhs39dZPxPMno2alj7k8_s0c94m2Rc5xRxT5_ZlFySL6Txe204eEI=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "मगर भाषा प्रशिक्षण अभियानमा सक्रियता",
+      "date": "२०८१-१०-२५",
+      "details": "व्यास नगरपालिकामा मगर भाषाको पाठ्यक्रम कार्यान्वयनका लागि शिक्षकहरूलाई प्रशिक्षण दिने टोलीको सदस्यका रूपमा कार्य गरेका ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZjzfbYzjOCwvy37OI4I9njRA6Dco-gs1H9BKSNElzc87dMHTDJ8qLhbWRCAm8tzfDLToHVJ_05K8vyW4NPvI1H5a_WA424nvdmX8cGY6URKnAovnmvz5cbZWAMxx5mQ==",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भारतीय सेनाबाट सेवा निवृत्त",
+      "date": "२०५०-०१-०१",
+      "details": "याम बहादुर आलेले २८ वर्षसम्म भारतीय सेनामा सेवा गरी निवृत्त भएका थिए, जसले उनको सामाजिक छविमा सहयोग पुर्याएको छ ।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGl6-scimNA4YOoS2OD-su4r0ElUmqllJfLPka6aDFtpENK5coN-YxQezHv95q7jLTE-jgD4BERB9BqUvz5cXBatr-uPeZ0zZqt3nJMJVqgb9NvP_VfnM5WM_kh2-HYomfJ-PFsff_Xk-QgAjUuPRiF098P6QcWdeuJCRCst8LIhaeizg=",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "याम बहादुर आले तनहुँ जिल्लाको राजनीतिमा पहिचानवादी धारको प्रतिनिधित्व गर्ने एक निष्ठावान नेता हुन्। भारतीय सेनामा २८ वर्ष लामो अनुभव सँगालेका आलेले आफ्नो अवकाशपछिको जीवन समाजसेवा र राजनीतिमा समर्पित गरेका छन्। उनी विशेष गरी मगर समुदायको भाषिक र सांस्कृतिक उत्थानका लागि सक्रिय रहँदै आएका छन्, जस अन्तर्गत उनले तनहुँका स्थानीय तहहरूमा मगर भाषाको पाठ्यक्रम निर्माण र प्रशिक्षणमा महत्वपूर्ण भूमिका निर्वाह गरेका छन्। राजनीतिक रूपमा उनी 'नेपाल जनमुक्ति पार्टी' (पहिले राष्ट्रिय जनमुक्ति पार्टी) सँग आबद्ध रहेर धेरै पटक निर्वाचनमा सहभागी भए पनि ठूला दलहरूको वर्चस्वका कारण हालसम्म विजय हासिल गर्न सकेका छैनन्। उनलाई तनहुँमा एक इमानदार र जातीय अधिकारका लागि लड्ने नेताका रूपमा चिनिन्छ, यद्यपि चुनावी नतिजाका आधारमा उनको प्रभाव क्षेत्र सीमित देखिन्छ।",
+  "overall_approval_rating": 45
+}

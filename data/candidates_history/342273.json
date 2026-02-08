@@ -1,0 +1,39 @@
+{
+  "candidate_id": 342273,
+  "candidate_name": "सुमन गिरी",
+  "candidate_party": "नेपाल जनसेवा पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogo/153.jpg",
+  "candidates_current_position": "साधारण सदस्य, नेपाल जनसेवा पार्टी",
+  "candidates_current_position_in_party": "प्रतिनिधि सभा सदस्य उम्मेदवार (२०७९)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342273.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "कपिलबस्तु",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "नेपाल जनसेवा पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "निर्वाचन परिणाम २०७९",
+      "date": "२०७९-०८-०८",
+      "details": "कपिलबस्तु क्षेत्र नं. २ बाट प्रतिनिधि सभा सदस्यमा ५९ मत प्राप्त गर्दै पराजित।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेपाल जनसेवा पार्टीको तर्फबाट कपिलबस्तु २ का लागि आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateList.aspx",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "सुमन गिरी नेपाल जनसेवा पार्टीका एक कम परिचित राजनीतिक व्यक्तित्व हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा कपिलबस्तु क्षेत्र नं. २ बाट प्रतिस्पर्धा गरेका थिए, जहाँ उनले निकै कम अर्थात् ५९ मत मात्र प्राप्त गरे। उनको राजनीतिक प्रभाव राष्ट्रिय तथा स्थानीय स्तरमा अत्यन्तै न्यून देखिएको छ। निर्वाचन आयोगको तथ्यांक अनुसार उनी रेशमराज गिरीका छोरा हुन्। हालसम्म उनको राजनीतिक जीवनमा कुनै ठूला उपलब्धि वा विवादहरू सार्वजनिक भएका छैनन्। सानो दलबाट उम्मेदवारी दिएका कारण उनी मुख्यधारका दलहरूसँगको प्रतिस्पर्धामा निकै पछाडि परेको देखिन्छ। उनको परिचय मुख्यतया एक सामान्य राजनीतिक कार्यकर्ताको रूपमा सीमित रहेको छ।",
+  "overall_approval_rating": 15
+}

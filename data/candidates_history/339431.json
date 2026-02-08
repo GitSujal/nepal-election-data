@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339431,
+  "candidate_name": "याम बहादुर लिम्बु",
+  "candidate_party": "नेपाल जनमुक्ति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/House_election_symbol_Nepal.png/200px-House_election_symbol_Nepal.png",
+  "candidates_current_position": "राजनीतिक अभियन्ता",
+  "candidates_current_position_in_party": "सक्रिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339431.jpg",
+  "election_history": [
+    {
+      "year": "२०८१",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "इलाम",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपाल जनमुक्ति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "इलाम-२ उपनिर्वाचनमा उम्मेदवारी र नतिजा",
+      "date": "२०८१-०१-१७",
+      "details": "२०८१ वैशाख १५ मा सम्पन्न इलाम क्षेत्र नं. २ को उपनिर्वाचनमा उनी नेपाल जनमुक्ति पार्टीका तर्फबाट उम्मेदवार बनेका थिए तर पराजित भए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%AE%E2%80%93%E0%A4%A1_%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%A8,_%E0%A4%A8%E0%A5%A6%E0%A5%AE%E0%A5%A7",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाल जनमुक्ति पार्टीको गठन र एकीकरण",
+      "date": "२०८०-०८-१९",
+      "details": "राष्ट्रिय जनमुक्ति पार्टी, सङ्घीय लिम्बुवान पार्टी नेपाल र लिम्बुवान राष्ट्रिय समितिबीच एकता भई 'नेपाल जनमुक्ति पार्टी' गठन भयो जसमा उनी सक्रिय रहे।",
+      "link_to_source": "https://gorkhapatraonline.com/news/101565",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचान र लिम्बुवान आन्दोलनमा सक्रियता",
+      "date": "२०७०-०१-०१",
+      "details": "लामो समयदेखि पूर्वी नेपालमा पहिचानमा आधारित राजनीति र लिम्बुवान राज्यको माग गर्दै सामाजिक र राजनीतिक अभियानमा सक्रिय रहँदै आएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/yam-bahadur-limbu/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जन्म र पारिवारिक पृष्ठभूमि",
+      "date": "२०३३-०७-१५",
+      "details": "इलाममा जन्मिएका लिम्बुले स्थानीय स्तरमा जनसम्पर्क र संगठन निर्माणमार्फत आफ्नो राजनीतिक छवि बनाएका छन्।",
+      "link_to_source": "https://sajilopatrika.com/yam-bahadur-limbu/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "याम बहादुर लिम्बु इलामका एक अनुभवी र पहिचानवादी राजनीतिज्ञ हुन्। उनी लामो समयदेखि राष्ट्रिय जनमुक्ति पार्टी (हाल नेपाल जनमुक्ति पार्टी) मार्फत लिम्बुवान र सामाजिक न्यायको मुद्दामा सक्रिय छन्। २०८१ को इलाम-२ उपनिर्वाचनमा उनी मुख्य प्रतिस्पर्धीका रूपमा देखा परे पनि ठूला दल र स्वतन्त्र उम्मेदवारहरूको प्रभावका कारण अपेक्षित मत ल्याउन सकेनन्। उनको मुख्य चुनावी आधार पहिचानवादी मत र स्थानीय लिम्बु समुदाय हो। उनी कुनै ठूलो भ्रष्टाचार वा काण्डमा नमुछिएका इमानदार छविका नेता मानिन्छन्, यद्यपि चुनावी नतिजामा उनको प्रभाव अझै कमजोर देखिन्छ।",
+  "overall_approval_rating": 50
+}

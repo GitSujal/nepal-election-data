@@ -1,0 +1,63 @@
+{
+  "candidate_id": 340327,
+  "candidate_name": "डा. देउमान सम्वाहाङफे",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hammer_and_sickle.svg/1200px-Hammer_and_sickle.svg.png",
+  "candidates_current_position": "चिकित्सक तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340327.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "६",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "मंसिर ४ मा सम्पन्न निर्वाचनका लागि मोरङ क्षेत्र नं ६ बाट नेपाली कम्युनिष्ट पार्टीको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=340327",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "चिकित्सा पेशाबाट सक्रिय राजनीतिमा प्रवेश",
+      "date": "२०७८-०१-०१",
+      "details": "लामो समय चिकित्सकका रूपमा सेवा गरेपछि पहिचान र सामाजिक न्यायको मुद्दा बोकेर सक्रिय राजनीतिमा लागेका।",
+      "link_to_source": "https://ekantipur.com/news",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "जनसमाजवादी पार्टी नेपालसँगको आबद्धता",
+      "date": "२०७४-०६-१०",
+      "details": "सुरुवाती चरणमा जनसमाजवादी पार्टी नेपाल मार्फत क्षेत्रीय राजनीति र पहिचानको आन्दोलनमा सक्रिय सहभागिता।",
+      "link_to_source": "https://ekagaj.com/article/politics/92648/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पहिचानवादी आन्दोलनमा समर्थन",
+      "date": "२०७९-०३-१५",
+      "details": "कोशी प्रदेशको नामाकरण र लिम्बुवान स्वायत्तताको पक्षमा आयोजित विभिन्न राजनीतिक कार्यक्रमहरूमा सक्रियता।",
+      "link_to_source": "https://onlinekhabar.com/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "निःशुल्क स्वास्थ्य शिविर सञ्चालन",
+      "date": "२०७६-१०-२०",
+      "details": "मोरङका ग्रामीण भेगहरूमा चिकित्सकको हैसियतले विभिन्न समयमा निःशुल्क स्वास्थ्य शिविर आयोजना गरी सामाजिक सेवा प्रदान गरेको।",
+      "link_to_source": "https://ekantipur.com/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "डा. देउमान सम्वाहाङफे मोरङ जिल्लाका एक बौद्धिक र पेशागत रूपमा स्थापित राजनीतिज्ञ हुन्। पेशाले चिकित्सक रहेका उनी राजनीतिमा पहिचान र संघीयताको मुद्दालाई मुख्य एजेन्डा बनाएर सक्रिय छन्। २०७९ को निर्वाचनमा मोरङ ६ बाट उम्मेदवार बन्दा उनले ठूला दलहरू नेपाली कांग्रेस र नेकपा (एमाले) का दिग्गज नेताहरूसँग प्रतिस्पर्धा गरेका थिए। यद्यपि उनले निर्वाचन जित्न सकेनन्, तर उनको सामाजिक छवी र निष्कलंक राजनीतिक यात्रालाई स्थानीय स्तरमा सकारात्मक रूपमा हेरिन्छ। उनी साना वामपन्थी र पहिचानवादी शक्तिहरूलाई एकीकृत गर्ने कार्यमा पनि सक्रिय देखिन्छन्। उनको राजनीतिक प्रभाव मुख्यतया बौद्धिक वर्ग र पहिचान पक्षधर समुदायमा केन्द्रित छ।",
+  "overall_approval_rating": 58
+}

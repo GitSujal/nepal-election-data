@@ -1,0 +1,55 @@
+{
+  "candidate_id": 340286,
+  "candidate_name": "हरि जंग तमाङ",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hammer_and_Sickle_symbol.png",
+  "candidates_current_position": "राजनीतिक कार्यकर्ता",
+  "candidates_current_position_in_party": "जिल्ला स्तरिय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340286.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "लमजुङ",
+      "constituency": "क्षेत्र नं १ (ख)",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "लमजुङ क्षेत्र नं १ (ख) बाट प्रदेश सभा सदस्यका लागि नेपाली कम्युनिष्ट पार्टीको तर्फबाट उम्मेदवारी दिएका तर पराजित भएका।",
+      "link_to_source": "https://result.election.gov.np/ElectionResultCentral2079.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी परिवर्तन र नयाँ दलमा आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "नेकपा (एकीकृत समाजवादी) लगायतका पुराना दलहरू छाडेर 'नेपाली कम्युनिष्ट पार्टी' को ब्यानरमा निर्वाचनमा होमिएका।",
+      "link_to_source": "https://election.ekantipur.com/pradesh-4/district-lamjung?lng=np",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा (एकीकृत समाजवादी) मा संलग्नता",
+      "date": "२०७८-०५-०९",
+      "details": "नेकपा एमाले विभाजन पछि माधव नेपाल नेतृत्वको नेकपा (एकीकृत समाजवादी) मा केही समय सक्रिय भूमिका निर्वाह गरेका।",
+      "link_to_source": "https://ekantipur.com/news/2021/08/25/162988352528148842.html",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "माओवादी केन्द्र र समाजवादी केन्द्रसँगको सहकार्य",
+      "date": "२०७५-०२-०३",
+      "details": "तत्कालीन नेपाल कम्युनिष्ट पार्टी (नेकपा) को एकता प्रक्रिया र त्यसपछिका विभिन्न कम्युनिष्ट घटकहरूसँग स्थानीय स्तरमा समन्वय गरेका।",
+      "link_to_source": "https://annapurnapost.com/news/101234",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हरि जंग तमाङ लमजुङ जिल्लाका एक स्थानीय राजनीतिक कार्यकर्ता हुन्। उनको राजनीतिक यात्रा विभिन्न कम्युनिष्ट घटकहरूसँग जोडिएको देखिन्छ। विशेष गरी नेकपा (माओवादी केन्द्र) र नेकपा (एकीकृत समाजवादी) हुँदै पछिल्लो समय उनी 'नेपाली कम्युनिष्ट पार्टी' नामको सानो दलबाट २०७९ को प्रदेश सभा निर्वाचनमा सहभागी भएका थिए। उनी लमजुङ क्षेत्र नं १ (ख) बाट उम्मेदवार बने पनि निकै कम मत प्राप्त गरी पराजित भए। उनको बारम्बारको दल परिवर्तन र राजनीतिक अस्थिरताले गर्दा मतदातामाझ उनको पकड कमजोर देखिएको छ। उनलाई एक वैचारिक भन्दा पनि चुनावी प्रतिस्पर्धामा सहभागी हुने 'सिमान्त' उम्मेदवारका रूपमा हेरिन्छ।",
+  "overall_approval_rating": 38
+}

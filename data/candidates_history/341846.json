@@ -1,0 +1,47 @@
+{
+  "candidate_id": 341846,
+  "candidate_name": "विक्रम पाण्डे क्षेत्री",
+  "candidate_party": "जय मातृभूमि पार्टी",
+  "candidate_party_logo": "https://election.gov.np/storage/uploads/political_party/1660645000_1.pdf",
+  "candidates_current_position": "राजनीतिकर्मी तथा पूर्व सैनिक",
+  "candidates_current_position_in_party": "अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341846.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "काठमाडौं",
+      "constituency": "क्षेत्र नं १० (ख)",
+      "result": "पराजित",
+      "party": "नेपाल आमा पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा उम्मेदवारी र पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "काठमाडौं निर्वाचन क्षेत्र नम्बर १० (ख) बाट बागमती प्रदेश सभाका लागि उम्मेदवारी दिएका विक्रम पाण्डे क्षेत्रीले मात्र ३४५ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://sajilopatrika.com/vikram-pandey-chhetri/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जय मातृभूमि पार्टीको नेतृत्व",
+      "date": "२०७९-०४-२५",
+      "details": "नेपाल आमा पार्टीको वरिष्ठ नेताका रूपमा सक्रिय रहेका पाण्डेले पछि जय मातृभूमि पार्टीको नेतृत्व सम्हाल्दै राष्ट्रियता र विकासको एजेन्डा अघि सारेका छन्।",
+      "link_to_source": "https://nepsebajar.com/election-result/kathmandu-10-b-vikram-pandey-chhetri/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपाली सेनामा १९ वर्षको सेवा",
+      "date": "२०६५-०१-०१",
+      "details": "राजनीतिमा प्रवेश गर्नुअघि उनले नेपाली सेनामा १९ वर्षसम्म सेवा गरेका थिए र सोही अनुभवलाई नेतृत्वमा प्रयोग गर्ने दाबी गर्छन्।",
+      "link_to_source": "https://sajilopatrika.com/vikram-pandey-chhetri/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "विक्रम पाण्डे क्षेत्री धादिङका स्थायी बासिन्दा हुन् र हाल काठमाडौंको राजनीतिमा सक्रिय छन्। उनी नेपाली सेनाका पूर्व कर्मचारी हुन् जसले १९ वर्ष सेवा गरेपछि राष्ट्र सेवाकै भावनाले राजनीतिमा प्रवेश गरेको बताउँछन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले काठमाडौं क्षेत्र नं १० (ख) बाट उम्मेदवारी दिएका थिए तर निकै कम मतका साथ पराजित भए। उनी मुख्यतया राष्ट्रवादी र स्थानीय विकासका मुद्दाहरूमा केन्द्रित छन्। यद्यपि, ठूला राजनीतिक दलहरूको प्रभाव र स्रोत-साधनको अभावका कारण उनले चुनावी राजनीतिमा ठोस प्रभाव पार्न सकेका छैनन्। उनी हाल साना र fringe दलहरूको प्रतिनिधित्व गर्ने नेताका रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 35
+}

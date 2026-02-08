@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342370,
+  "candidate_name": "उमेश कुमार मण्डल",
+  "candidate_party": "नेपालका लागि नेपाली पार्टी",
+  "candidate_party_logo": "https://result.election.gov.np/Images/PartyLogos/nepal_ka_lagi_nepali_party.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342370.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "धनुषा",
+      "constituency": "क्षेत्र नं. २",
+      "result": "पराजित",
+      "party": "नेपालका लागि नेपाली पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "धनुषा क्षेत्र नम्बर २ बाट प्रतिनिधिसभा सदस्यका लागि उम्मेदवारी दिएका मण्डलले थोरै मत प्राप्त गर्दै पराजय भोग्नुपरेको थियो। सो क्षेत्रबाट नेपाली कांग्रेसका रामकृष्ण यादव विजयी भएका थिए।",
+      "link_to_source": "https://election.gov.np/admin/public/storage/shares/nomination/Candidate_List_Dhanusha_2.pdf",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "२०७९ निर्वाचनका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "नेपालका लागि नेपाली पार्टीको तर्फबाट धनुषा निर्वाचन क्षेत्र नम्बर २ मा प्रतिनिधिसभा सदस्य पदका लागि औपचारिक रूपमा मनोनयन दर्ता गराएका थिए।",
+      "link_to_source": "https://election.gov.np/admin/public/storage/shares/nomination/Candidate_List_Dhanusha_2.pdf",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "नेपालका लागि नेपाली अभियानमा आबद्धता",
+      "date": "२०७८-०१-०१",
+      "details": "भ्रष्टाचार विरोधी अभियान र हिन्दु राष्ट्र पुनस्र्थापनाको एजेन्डा बोकेको 'नेपालका लागि नेपाली' अभियानमा सक्रिय रहँदै उनी राजनीतिमा होमिएका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/342370",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "उमेश कुमार मण्डल धनुषा जिल्लाको निर्वाचन क्षेत्र नम्बर २ बाट उदाएका एक वैकल्पिक राजनीतिक पात्र हुन्। उनले २०७९ सालको आम निर्वाचनमा 'नेपालका लागि नेपाली पार्टी' को तर्फबाट प्रतिनिधिसभामा प्रतिस्पर्धा गरेका थिए। उनको मुख्य चुनावी एजेन्डा भ्रष्टाचार नियन्त्रण र हिन्दु राष्ट्रको पुनस्र्थापना रहेको थियो। यद्यपि, धनुषामा स्थापित ठूला राजनीतिक शक्तिहरूका अगाडि उनको मत परिणाम निकै कमजोर रह्यो। उनको प्रभाव मुख्यतया हाँसपुर नगरपालिका क्षेत्रमा सीमित देखिएको छ। अहिलेसम्म उनको नाममा कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, तर ठूलो जनमत बटुल्न उनलाई अझै लामो संघर्ष गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 35
+}

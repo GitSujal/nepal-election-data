@@ -1,0 +1,87 @@
+{
+  "candidate_id": 340262,
+  "candidate_name": "हरि रोका",
+  "candidate_party": "नेपाली कम्युनिष्ट पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hammer_and_sickle.svg/1024px-Hammer_and_sickle.svg.png",
+  "candidates_current_position": "पूर्व सभासद तथा राजनीतिक विश्लेषक",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340262.jpg",
+  "election_history": [
+    {
+      "year": "२०६४",
+      "position": "संविधान सभा सदस्य (मनोनित)",
+      "district": "काठमाडौँ",
+      "constituency": "N/A",
+      "result": "विजयी",
+      "party": "नेकपा (माओवादी)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "खोटाङ",
+      "constituency": "१",
+      "result": "पराजित",
+      "party": "नेपाली कम्युनिष्ट पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "नयाँ पुस्तक 'वैकल्पिक अर्थशास्त्र' विमोचन",
+      "date": "२०८१-०५-२३",
+      "details": "काठमाडौँमा नेपालको राजनीतिक र आर्थिक अवस्थाको विश्लेषण समेटिएको पुस्तक 'वैकल्पिक अर्थशास्त्र' सार्वजनिक।",
+      "link_to_source": "https://thehimalayantimes.com/kathmandu/vaikalpik-arthatantra-by-hari-roka-launched-in-kathmandu",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "खोटाङ निर्वाचन क्षेत्र नम्बर १ बाट उम्मेदवारी दिएका रोकाले अत्यन्तै न्यून मत प्राप्त गरी पराजय व्यहोरे।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/24/1669275416.html",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाली कम्युनिष्ट पार्टीबाट उम्मेदवारी घोषणा",
+      "date": "२०७९-०७-०७",
+      "details": "एकीकृत समाजवादी र माओवादीसँगको पुरानो सम्बन्ध तोडेर साना कम्युनिष्ट घटकहरूको मोर्चाबाट निर्वाचनमा सहभागी।",
+      "link_to_source": "https://www.onlinekhabar.com/2023/01/1247963",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "वाम गठबन्धनको बौद्धिक समर्थन",
+      "date": "२०७४-०७-०८",
+      "details": "२०७४ को निर्वाचनमा एमाले र माओवादी केन्द्रको चुनावी तालमेलको वैचारिक पक्षपोषण र समर्थन।",
+      "link_to_source": "https://nagariknetwork.com/news/30282/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संविधान सभा सदस्यमा मनोनित",
+      "date": "२०६५-०४-२१",
+      "details": "बौद्धिक र विज्ञ कोटाबाट तत्कालीन नेकपा (माओवादी) ले रोकालाई संविधान सभा सदस्यमा मनोनित गरेको थियो।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hari_Roka",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "अन्तरिम संसदको सदस्य",
+      "date": "२०६३-१०-०१",
+      "details": "जनआन्दोलन पछिको अन्तरिम व्यवस्थापिका संसदमा माओवादीका तर्फबाट सदस्य नियुक्त।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hari_Roka",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पञ्चायतकालमा सात वर्ष जेल जीवन",
+      "date": "२०३५-०१-०१",
+      "details": "१३ वर्षको कलिलो उमेरमा विद्यार्थी आन्दोलनमा सहभागी हुँदा पक्राउ परी सात वर्ष लामो कारागार जीवन बिताएको।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Hari_Roka",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "हरि रोका नेपालका स्थापित राजनीतिक अर्थशास्त्री र बौद्धिक व्यक्तित्व हुन्। उनी लामो समयदेखि वामपन्थी राजनीति र विशेषगरी माओवादी आन्दोलनसँग वैचारिक रूपमा जोडिएका थिए। २०६४ को संविधान सभामा उनी मनोनित सदस्यका रूपमा नीति निर्माणमा सक्रिय रहे पनि २०७९ को आम निर्वाचनमा खोटाङबाट उनको प्रत्यक्ष चुनावी प्रदर्शन भने निकै कमजोर देखियो। उनले आफ्नो गृह जिल्ला खोटाङमा कृषि उद्यम गरेर स्थानीयसँग जोडिने प्रयास गरे पनि ठूला राजनीतिक दलको संगठन बिना चुनाव जित्न कठिन हुने यथार्थ उनको नतिजाले देखाउँछ। उनी आर्थिक नीति, नवउदारवादको विरोध र सिमान्तकृत किसानका मुद्धामा प्रखर वक्ता मानिन्छन्। चुनावी राजनीतिमा सफल हुन नसके पनि नेपाली राजनीति र अर्थतन्त्रको चिरफार गर्ने एक तटस्थ विश्लेषकका रूपमा उनको छवी उच्च छ।",
+  "overall_approval_rating": 68
+}

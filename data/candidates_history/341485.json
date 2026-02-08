@@ -1,0 +1,63 @@
+{
+  "candidate_id": 341485,
+  "candidate_name": "पारश मणि गेलाल",
+  "candidate_party": "राष्ट्रिय स्वतन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rastriya_Swatantra_Party_Logo.png/640px-Rastriya_Swatantra_Party_Logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा उम्मेदवार (२०७९)",
+  "candidates_current_position_in_party": "साधारण सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341485.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय स्वतन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागिता",
+      "date": "२०७९-०८-०४",
+      "details": "उदयपुर निर्वाचन क्षेत्र नम्बर १ बाट राष्ट्रिय स्वतन्त्र पार्टीको तर्फबाट उम्मेदवारी दिएका उनले २,७७३ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/udayapur?lng=nep",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राष्ट्रिय स्वतन्त्र पार्टीमा प्रवेश",
+      "date": "२०७९-०३-०७",
+      "details": "वैकल्पिक राजनीतिको धार समात्दै उनी रवि लामिछाने नेतृत्वको राष्ट्रिय स्वतन्त्र पार्टीमा सक्रिय राजनीति सुरु गरे।",
+      "link_to_source": "https://sajilopatrika.com/parash-mani-gelal-biography/",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "विवेकशील साझा पार्टीमा आबद्धता",
+      "date": "२०७७-०८-२४",
+      "details": "विवेकशील नेपाली दल र साझा पार्टीको पुनः एकीकरण पछि उनी वैकल्पिक शक्ति निर्माणको अभियानमा सक्रिय रहेका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/विवेकशील_साझा_पार्टी",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "साझा पार्टीको गठनमा सक्रियता",
+      "date": "२०७४-०४-११",
+      "details": "रवीन्द्र मिश्र नेतृत्वको साझा पार्टीको स्थापनाकालदेखि नै उनी वैकल्पिक राजनीतिमा सहभागी भएका थिए।",
+      "link_to_source": "https://ne.wikipedia.org/wiki/विवेकशील_साझा_पार्टी",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "शिक्षा र प्रविधि क्षेत्रमा व्यावसायिक संलग्नता",
+      "date": "२०७०-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि उनी शिक्षा, स्वास्थ्य र सूचना प्रविधि क्षेत्रमा परामर्शदाता र अभियन्ताको रूपमा कार्यरत थिए।",
+      "link_to_source": "https://sajilopatrika.com/parash-mani-gelal-biography/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "पारश मणि गेलाल राष्ट्रिय स्वतन्त्र पार्टीका एक शिक्षित र वैचारिक नेता हुन्। मूल घर सुनसरी भए तापनि उनले उदयपुर क्षेत्र नं. १ बाट निर्वाचन लडेका कारण उनलाई स्थानीय स्तरमा 'पर्यटक उम्मेदवार' को रूपमा चित्रण गरिएको छ। उनले आफ्नो राजनीतिक यात्रा साझा पार्टी र विवेकशील साझा पार्टी जस्ता वैकल्पिक राजनीतिक शक्तिहरूबाट सुरु गरेका थिए। २०७९ को निर्वाचनमा उनले उल्लेख्य मत प्राप्त नगरे तापनि पुराना दलहरूको प्रभाव रहेको क्षेत्रमा आफ्नो उपस्थिति बलियो बनाउने प्रयास गरे। उनी कुनै पनि आर्थिक वा नैतिक विवादमा नमुछिएका स्वच्छ छविका नेता मानिन्छन्। तर, निर्वाचन क्षेत्रमा उनको कमजोर स्थानीय पकड र 'पर्यटक' छविका कारण आगामी निर्वाचनमा जनताको विश्वास जित्न उनलाई थप मेहनत गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 52
+}

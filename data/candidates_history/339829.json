@@ -1,0 +1,47 @@
+{
+  "candidate_id": 339829,
+  "candidate_name": "छक्क बुढा",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rastriya_Prajatantra_Party_Logo.png",
+  "candidates_current_position": "राजनीतिकर्मी",
+  "candidates_current_position_in_party": "हुम्ला जिल्ला कार्यसमिति सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339829.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "हुम्ला",
+      "constituency": "हुम्ला १ (ख)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०४",
+      "details": "२०७९ सालको प्रदेश सभा निर्वाचनमा हुम्ला निर्वाचन क्षेत्र १ (ख) बाट राष्ट्रिय प्रजातन्त्र पार्टीको उम्मेदवारको रूपमा प्रतिस्पर्धा गरेका थिए, जहाँ उनले ७७ मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://result.election.gov.np/CandidateResult.aspx",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पार्टी एकीकरणमा सहभागिता",
+      "date": "२०७७-०२-०१",
+      "details": "राप्रपा (संयुक्त) र राप्रपा नेपालबीचको एकीकरण पछि उनी एकीकृत राष्ट्रिय प्रजातन्त्र पार्टीमा निरन्तर सक्रिय रहेका छन्।",
+      "link_to_source": "https://rpp.org.np/history",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिल्ला स्तरको संगठन विस्तार",
+      "date": "२०७५-१०-१५",
+      "details": "हुम्ला जिल्लामा राप्रपाको सांगठनिक सुदृढीकरण र स्थानीय तहमा पार्टीको एजेन्डा प्रचारप्रसारमा लामो समयदेखि संलग्न रहेका छन्।",
+      "link_to_source": "https://gorkhapatraonline.com/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "छक्क बुढा हुम्ला जिल्लाका स्थानीय राप्रपा नेता हुन्। २०७९ को प्रदेश सभा निर्वाचनमा उनले हुम्ला १ (ख) बाट उम्मेदवारी दिएका थिए, तर उनले निकै कम मत (७७ मत) प्राप्त गरे। हुम्ला जस्तो वामपन्थी र काङ्ग्रेसको वर्चस्व रहेको दुर्गम हिमाली जिल्लामा राजावादी र हिन्दु राष्ट्रको एजेन्डा बोकेको राप्रपाबाट चुनाव लड्नु उनका लागि निकै चुनौतीपूर्ण रहेको देखिन्छ। उनी 'वागुवा' वा 'पर्यटक' उम्मेदवार नभई हुम्लाकै स्थायी बासिन्दा हुन्। पार्टीका विभिन्न फुट र जुटको समयमा पनि उनी राप्रपाको मूलधारमै रहेर निष्ठावान कार्यकर्ताको रूपमा चिनिन्छन्। उनको राजनीतिक प्रभाव हाल जिल्लाको सीमित क्षेत्रमा मात्र रहेको छ।",
+  "overall_approval_rating": 32
+}

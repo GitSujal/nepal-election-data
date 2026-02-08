@@ -1,0 +1,79 @@
+{
+  "candidate_id": 339865,
+  "candidate_name": "दुर्गा प्रसाद साँवा लिम्वु",
+  "candidate_party": "स्वतन्त्र",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Independent_Candidate_Nepal_Symbol.svg/1024px-Independent_Candidate_Nepal_Symbol.svg.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य (२०७९-हाल)",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य, नेकपा एमाले (ऐतिहासिक)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339865.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "झापा",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "विजयी",
+      "party": "नेकपा एमाले"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा विजयी",
+      "date": "२०७९-०८-०८",
+      "details": "झापा निर्वाचन क्षेत्र नम्बर ४ बाट २९,३१५ मत प्राप्त गरी नेपाली कांग्रेसका उम्मेदवारलाई पराजित गर्दै दोस्रो पटक निर्वाचित।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/jhapa-4?lng=nep",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "म्यानपावर व्यवसायमा स्वार्थको द्वन्द्व विवाद",
+      "date": "२०७८-०३-१५",
+      "details": "वैदेशिक रोजगार व्यवसायी (म्यानपावर) हुनुका साथै संसदको उद्योग तथा वाणिज्य र श्रम समितिमा रहँदा श्रमिकको हित विपरित व्यवसायीको पक्षमा वकालत गरेको आरोप।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/10/1206144",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेकपा एमाले केन्द्रीय सदस्यमा मनोनित",
+      "date": "२०७८-०८-२५",
+      "details": "नेकपा एमालेको १०औं राष्ट्रिय महाधिवेशनबाट केन्द्रीय सदस्यको रूपमा निर्वाचित भई पार्टीको नीति निर्माण तहमा पहुँच।",
+      "link_to_source": "https://thehimalayantimes.com/nepal/uml-forms-80-member-politburo-nominates-central-members",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७४ मा पहिलो जीत",
+      "date": "२०७४-०८-२१",
+      "details": "झापा ४ बाट ४३,५१५ मत ल्याएर भारी मतान्तरले विजयी हुँदै पहिलो पटक संघीय संसदमा प्रवेश।",
+      "link_to_source": "https://en.wikipedia.org/wiki/Lal_Prasad_Sawa_Limbu",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पूर्वाधार विकासमा सक्रियता",
+      "date": "२०७६-०५-१०",
+      "details": "झापाको शिवसताक्षी र कन्काई क्षेत्रमा सडक कालोपत्रे र पुल निर्माणका लागि बजेट विनियोजन गराउन नेतृत्वदायी भूमिका।",
+      "link_to_source": "https://risingnepaldaily.com/news/19129",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "वैदेशिक रोजगार व्यवसायी संघको नेतृत्व",
+      "date": "२०७२-०४-०५",
+      "details": "नेपाल वैदेशिक रोजगार व्यवसायी संघ (NAFEA) को नेतृत्वदायी भूमिकामा रहेर व्यवसायीहरूको हकहितमा काम गरेको।",
+      "link_to_source": "https://ratemyneta.com/neta/lal-prasad-sanwa-limbu-784",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "दुर्गा प्रसाद साँवा लिम्वु (एलपी साँवा) झापा निर्वाचन क्षेत्र नं. ४ का प्रभावशाली नेता हुन्। उनी व्यवसायिक पृष्ठभूमि (विशेष गरी वैदेशिक रोजगारी क्षेत्र) बाट राजनीतिमा आएर लगातार दुई पटक (२०७४ र २०७९) निर्वाचित भएका छन्। यद्यपि उनी नेकपा एमालेका स्थापित नेता हुन्, हालको विवरणले उनलाई 'स्वतन्त्र' उम्मेदवारको रूपमा दर्ता गरेको देखाउँछ, जुन एउटा रणनीतिक परिवर्तन हुन सक्छ। उनी आफ्नो क्षेत्रमा भौतिक पूर्वाधार, विशेष गरी सडक र पुल निर्माणमा सक्रियता देखाउने नेताका रूपमा चिनिन्छन्। तर, म्यानपावर व्यवसायीका रूपमा उनीमाथि श्रमिकहरूको शोषण रोक्ने भन्दा व्यवसायीहरूको हित रक्षा गर्ने 'स्वार्थको द्वन्द्व' (Conflict of Interest) को गम्भीर आरोप लाग्दै आएको छ। उनको निर्वाचन शक्ति स्थानीय संगठन र उनको व्यवसायिक सञ्जालमा आधारित देखिन्छ।",
+  "overall_approval_rating": 65
+}

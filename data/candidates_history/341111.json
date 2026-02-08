@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341111,
+  "candidate_name": "उद्धव कुमार राई",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://ssparty.org.np/logo.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341111.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "ओखलढुंगा",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "आम निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "ओखलढुंगा क्षेत्र नं १ बाट प्रतिनिधि सभा सदस्यका लागि प्रतिस्पर्धा गरेका राईले कुल २३ मत प्राप्त गरी पराजित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/okhaldhunga?lng=eng",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचनका लागि उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "श्रम संस्कृति पार्टीको तर्फबाट ओखलढुंगा जिल्ला निर्वाचन क्षेत्र नं १ का लागि आधिकारिक रूपमा उम्मेदवारी दर्ता।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx?id=341111",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "ज्योतिषशास्त्रमा विद्यावारिधि (PhD) उपाधि",
+      "date": "२०७८-०३-१५",
+      "details": "उद्धव कुमार राईले ज्योतिषशास्त्र विषयमा विद्यावारिधि हासिल गरेका छन्, जसका कारण उनी बौद्धिक उम्मेदवारका रूपमा चिनिन्छन्।",
+      "link_to_source": "https://english.onlinekhabar.com/nepal-elections-phd-candidates.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "श्रम संस्कृति अभियानमा आबद्धता",
+      "date": "२०७७-१०-१०",
+      "details": "हर्क साम्पाङद्वारा प्रवद्र्धित श्रम र संस्कृतिको जगेर्ना गर्ने राजनीतिक विचारधारामा सहमत भई सक्रिय राजनीतिमा प्रवेश।",
+      "link_to_source": "https://risingnepaldaily.com/news/51523",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "उद्धव कुमार राई ओखलढुंगा जिल्लाका एक शिक्षित र बौद्धिक राजनीतिक व्यक्तित्व हुन्। उनले ज्योतिषशास्त्रमा विद्यावारिधि (PhD) गरेका छन्, जुन नेपाली राजनीतिमा बिरलै देखिने शैक्षिक योग्यता हो। २०७९ को आम निर्वाचनमा उनले हर्क साम्पाङ नेतृत्वको विचारबाट प्रभावित 'श्रम संस्कृति पार्टी' बाट उम्मेदवारी दिएका थिए। यद्यपि, चुनावी नतिजामा उनले निकै कम मत (२३ मत) प्राप्त गरे, जसले जिल्लामा उनको राजनीतिक आधार अझै कमजोर रहेको देखाउँछ। उनी कुनै ठूला काण्ड वा भ्रष्टाचारमा नमुछिएका स्वच्छ छविका उम्मेदवार हुन्। ओखलढुंगामा स्थापित दलहरूको बलियो पकडका कारण वैकल्पिक राजनीतिको मुद्दा बोकेका राईलाई आगामी दिनमा जनमत बटुल्न निकै संघर्ष गर्नुपर्ने देखिन्छ।",
+  "overall_approval_rating": 42
+}

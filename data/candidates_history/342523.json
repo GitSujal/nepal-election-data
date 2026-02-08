@@ -1,0 +1,55 @@
+{
+  "candidate_id": 342523,
+  "candidate_name": "शान्त कुमार जोशी",
+  "candidate_party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Rastriya_Prajatantra_Party.svg/1200px-Flag_of_Rastriya_Prajatantra_Party.svg.png",
+  "candidates_current_position": "समाजसेवी तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342523.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "पर्सा",
+      "constituency": "४ (क)",
+      "result": "पराजित",
+      "party": "राष्ट्रिय प्रजातन्त्र पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "२०७९ को प्रदेश सभा निर्वाचनमा पराजय",
+      "date": "२०७९-०८-०५",
+      "details": "पर्सा क्षेत्र नम्बर ४ (क) बाट प्रदेश सभा सदस्यका लागि उम्मेदवारी दिएका जोशीले ७७२ मत प्राप्त गरी पाँचौ स्थानमा रहे।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342523",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "राप्रपाको एकता महाधिवेशनमा सहभागिता",
+      "date": "२०७८-०८-१५",
+      "details": "राजेन्द्र लिङदेन अध्यक्ष निर्वाचित भएको एकता महाधिवेशनमा सक्रिय सहभागिता जनाउँदै पार्टी सुदृढीकरणमा लागेका।",
+      "link_to_source": "https://www.onlinekhabar.com/2021/12/1055745",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी विभाजन र एकीकरणको साक्षी",
+      "date": "२०७४-०४-२२",
+      "details": "राप्रपाका विभिन्न घटकहरू (राप्रपा राष्ट्रवादी, प्रजातान्त्रिक) बीच भएका विभाजन र एकीकरणका समयमा पार्टीकै वैचारिक धारमा अडिग रहेका।",
+      "link_to_source": "https://ekantipur.com/news/2022/11/15/166848419688461937.html",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शैक्षिक योग्यता हासिल",
+      "date": "२०४५-०३-१०",
+      "details": "भारतको रक्सौल, पश्चिम चम्पारणबाट IAK CTC को शैक्षिक योग्यता प्राप्त गरी समाजसेवा र राजनीतिमा प्रवेश।",
+      "link_to_source": "https://nepsebajar.com/election/candidates/342523",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "शान्त कुमार जोशी पर्सा जिल्लाका एक निष्ठावान राजनीतिज्ञ हुन् जो लामो समयदेखि राष्ट्रिय प्रजातन्त्र पार्टीको विचारधारासँग जोडिएका छन्। उनले मुख्यतया हिन्दु राष्ट्र र संवैधानिक राजतन्त्रको एजेन्डालाई स्थानीय स्तरमा प्रवद्र्धन गर्दै आएका छन्। २०७९ को निर्वाचनमा पर्सा ४ (क) बाट प्रदेश सभामा प्रतिस्पर्धा गरे पनि उनले प्रभावकारी मत प्राप्त गर्न सकेनन् (मात्र ७७२ मत), जसले उनको चुनावी पकड कमजोर रहेको संकेत गर्छ। यद्यपि, उनीमाथि कुनै पनि ठूला भ्रष्टाचार वा फौजदारी अभियोग लागेका छैनन्, जसले गर्दा उनको छवि स्वच्छ रहेको छ। उनी एक स्थानीय 'समाजसेवी' को रूपमा परिचित छन् र भारतीय सीमावर्ती क्षेत्रमा शैक्षिक र सामाजिक गतिविधिमा सक्रिय रहँदै आएका छन्। उनको मुख्य चुनौती आफ्नो पार्टीको संगठन विस्तार र युवा मतदाताहरूलाई आकर्षित गर्नु रहेको देखिन्छ।",
+  "overall_approval_rating": 45
+}

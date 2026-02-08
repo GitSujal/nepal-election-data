@@ -1,0 +1,47 @@
+{
+  "candidate_id": 342570,
+  "candidate_name": "रामकृपाल प्रसाद यादव",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "शिक्षक तथा राजनीतिज्ञ",
+  "candidates_current_position_in_party": "स्थानीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/342570.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "रौतहट",
+      "constituency": "३",
+      "result": "पराजित",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०७-२३",
+      "details": "रौतहट निर्वाचन क्षेत्र नम्बर ३ बाट प्रतिनिधि सभा सदस्यका लागि नेपाली काँग्रेसको तर्फबाट आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWgk5dSZ2RGdez5WmA53D75XlyEi0l0Khq5TTTNpzKBIS7UPsc0L5SzNv_yl_WiOw7151H0BA-lVapMbsCFTUwlwnADEstyZFIGcVaXJeoEELFYuA5mbTFvwfK8GJhzolVzP88",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "शिक्षण सेवा र सामाजिक सक्रियता",
+      "date": "२०७८-०१-०१",
+      "details": "राजनीतिमा पूर्णकालीन हुनुअघि रौतहटमा लामो समय शिक्षकको रूपमा कार्यरत रही स्थानीय शैक्षिक सुधारमा योगदान पुर्‍याएको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAgHDngvcvHCIYw7_9-5-6pL1jqr1j1m29sVV9pvNMyAaiWVhj8AEKVddUh_SSKQeWAuh-C5E6LEXh0-0WHhL0QdNJ4e9zPbUfvyAM6K06BwhaqM2N4Ci4TozsjSGzs8XTOXVV2R7DF8aHFqr4iat-Fc5leqLMU7IUn82ecCy7LqZ2wvcwqKLlRh_9E8I7j9Pr034JO4e2-BDhkaVQ4fs2bZOGPHYnZzWq1fuo831WllEE39IM",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "निर्वाचनमा न्यून मत परिणाम",
+      "date": "२०७९-०८-०४",
+      "details": "रौतहट-३ मा प्रभु साहको बलियो प्रभाव र राजनीतिक गठबन्धनको फेरबदलका कारण निर्वाचनमा अपेक्षित मत प्राप्त गर्न नसकेको।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoZwuGnJRYPa2nbVxxky1AUjsRhrVtVVez0PCJRz0qow2KzQC0e-opfiQFuOeNqbjWVLHKfRr_Lx8cBHvBhqn3uYFdjvfJWOc4s2fZ1EoMrx0-iy72vONkWDYOW6rzJJQ-C8n_ieA=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "रामकृपाल प्रसाद यादव रौतहट निर्वाचन क्षेत्र नम्बर ३ बाट नेपाली काँग्रेसका एक उदयमान राजनीतिक पात्र हुन्। पेशाले शिक्षक रहेका यादवलाई काँग्रेसले एक बौद्धिक र नयाँ अनुहारको रूपमा २०७९ को निर्वाचनमा अघि सारेको थियो। रौतहट-३ प्रभु साह जस्ता दिग्गज नेताको गढ मानिने भएकाले यादवका लागि पहिलो चुनावी अनुभव निकै चुनौतीपूर्ण रह्यो। दलीय गठबन्धन र स्थानीय राजनीतिक समीकरणका कारण उनले जित हासिल गर्न नसके पनि स्थानीय यादव समुदायमा उनको उपस्थितिलाई महत्वका साथ हेरिएको छ। उनी एक स्वच्छ छवि भएका र कुनै पनि भ्रष्टाचार वा विवादमा नमुछिएका उम्मेदवार हुन्, जसले गर्दा शिक्षित वर्गमा उनको सकारात्मक प्रभाव रहेको छ।",
+  "overall_approval_rating": 62
+}

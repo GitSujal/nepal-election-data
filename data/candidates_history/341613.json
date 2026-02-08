@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341613,
+  "candidate_name": "धनसिं सार्कि",
+  "candidate_party": "जनता समाजवादी पार्टी, नेपाल",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Janata_Samajbadi_Party%2C_Nepal.svg/1200px-Flag_of_Janata_Samajbadi_Party%2C_Nepal.svg.png",
+  "candidates_current_position": "नेता, जनता समाजवादी पार्टी, नेपाल",
+  "candidates_current_position_in_party": "जिल्ला स्तरीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341613.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "सुर्खेत",
+      "constituency": "क्षेत्र नं. १",
+      "result": "पराजित",
+      "party": "जनता समाजवादी पार्टी, नेपाल"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०८",
+      "details": "सुर्खेत निर्वाचन क्षेत्र नम्बर १ बाट प्रतिनिधि सभा सदस्यका लागि उम्मेदवारी दिएका सार्की निकै कम मत प्राप्त गरी पराजित भए।",
+      "link_to_source": "https://sajilopatrika.com/dhan-singh-sarki/",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ उम्मेदवारी दर्ता",
+      "date": "२०७९-०६-२३",
+      "details": "जनता समाजवादी पार्टी, नेपालको तर्फबाट सुर्खेत क्षेत्र नं. १ मा प्रत्यक्षतर्फ आधिकारिक उम्मेदवारी दर्ता।",
+      "link_to_source": "https://sajilopatrika.com/dhan-singh-sarki/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "कृषि क्षेत्रमा सामाजिक नेतृत्व",
+      "date": "२०७५-१०-०५",
+      "details": "विभिन्न कृषि सहकारी र संस्थाहरूमा आबद्ध भई स्थानीय किसानहरूको हकहित र कृषि विकासका लागि सक्रिय भूमिका निर्वाह।",
+      "link_to_source": "https://sajilopatrika.com/dhan-singh-sarki/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "पार्टी राजनीतिमा सक्रियता",
+      "date": "२०७४-०५-०१",
+      "details": "लामो समयदेखि सुर्खेतमा दलित र पिछडिएको वर्गको अधिकारका लागि जसपा (तत्कालीन नयाँ शक्ति/फोरम) मा सक्रिय।",
+      "link_to_source": "https://sajilopatrika.com/dhan-singh-sarki/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "धनसिं सार्की सुर्खेत जिल्लाका एक भुइँतहका राजनीतिक कार्यकर्ता हुन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा जनता समाजवादी पार्टीबाट सुर्खेत क्षेत्र नम्बर १ मा उम्मेदवारी दिएका थिए, यद्यपि उनले प्रभावशाली मत प्राप्त गर्न सकेनन्। उनको शैक्षिक योग्यता कक्षा ८ सम्म मात्र रहेकाले उनलाई नीति निर्माणभन्दा पनि स्थानीय स्तरको परिचालनमा बढी सक्रिय मानिन्छ। उनी विशेषगरी कृषि क्षेत्रका विभिन्न संघसंस्थाहरूमा आबद्ध रहेर सामाजिक काममा संलग्न रहँदै आएका छन्। सार्कीको राजनीतिक छवि तुलनात्मक रूपमा सफा छ र उनी विरुद्ध कुनै ठूला भ्रष्टाचार वा काण्डका रेकर्डहरू भेटिएका छैनन्। तथापि, ठूला दलहरूको प्रभाव रहेको सुर्खेतमा उनको चुनावी उपस्थिति भने निकै कमजोर देखिएको छ।",
+  "overall_approval_rating": 48
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": 339871,
+  "candidate_name": "जित राम लामा",
+  "candidate_party": "उज्यालो नेपाल पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ujyaalo_Nepal_Logo.png/200px-Ujyaalo_Nepal_Logo.png",
+  "candidates_current_position": "पूर्व अध्यक्ष, नेपाल टिपर तथा ट्रक व्यवसायी समिति",
+  "candidates_current_position_in_party": "केन्द्रीय नेता",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/339871.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "भक्तपुर",
+      "constituency": "२",
+      "result": "पराजित",
+      "party": "उज्यालो नेपाल पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजित",
+      "date": "२०७९-०८-०४",
+      "details": "भक्तपुर क्षेत्र नं २ बाट उज्यालो नेपाल पार्टीको तर्फबाट चुनाव लडेका लामाले भारी मतान्तरले पराजित हुनुभएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGGJ8DV5UnAUROjT_7QV1QKxMvq_qyl7oCQgSkB6DCNFX0H7k8a0UZED1crzYy5IGaEeqK6iaWGymloffiWAscMymFST4iYJLd5lVrigxe5IGdAqtXvTRHt9J-e_czmT5cNkUzBJ_4dx5JwnxbZT0UWaI=",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "उज्यालो नेपाल पार्टीमा आबद्धता",
+      "date": "२०७९-०६-२३",
+      "details": "यातायात व्यवसाय छोडेर उनी 'कुलमान घिसिङको भिजन' भन्दै प्रचार गरिएको नयाँ राजनीतिक शक्ति उज्यालो नेपाल पार्टीमा प्रवेश गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtPaB5saIT3iyQxTqVN47AlVHdlLMtOz7OD6yPzcRxh4sjZOb7Q9pUfaA02iI8p6G4JKtKUAKv_FDJ_LQPq8QIbHJwR2mV4-uZ-C0ie8tpNwfM87US9loVvTJmAlyBxnxFXaxlxe7vX0EicqDqmeMe1RUYw7k=",
+      "event_type": "PARTY_SWITCH",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "टिपर सञ्चालन प्रतिबन्ध विरुद्धको रिट खारेज",
+      "date": "२०७५-०८-०७",
+      "details": "लामा नेतृत्वको व्यवसायी समितिले सरकारले लगाएको टिपर सञ्चालन समय सीमा विरुद्ध पाटन उच्च अदालतमा हालेको रिट अदालतले खारेज गरिदिएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGupk48Ggbs5QjMZx_j_RNqm4d4-DTT6o1aXKn4LLROK3ddsFcq1-7dW74p3ZVd9VsY1pwKJ65TrbYJuSERZPHdj1JDYc0MLBY8GsY0minViJtetpNOSSWu1XbFV8Pr927guq53sdn1NH9sI8ADW1RQCPH0jgAKl8JRQG03Zmc3Vmx9Y1UgTT5uS59r",
+      "event_type": "COURT_CASE",
+      "event_category": "BAD"
+    },
+    {
+      "event": "नेपाल टिपर तथा ट्रक व्यवसायी समितिको अध्यक्ष",
+      "date": "२०७४-०१-१५",
+      "details": "यातायात क्षेत्रको शक्तिशाली संगठनको नेतृत्व गर्दै उनले लामो समय व्यवसायीहरूको पक्षमा वकालत गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGupk48Ggbs5QjMZx_j_RNqm4d4-DTT6o1aXKn4LLROK3ddsFcq1-7dW74p3ZVd9VsY1pwKJ65TrbYJuSERZPHdj1JDYc0MLBY8GsY0minViJtetpNOSSWu1XbFV8Pr927guq53sdn1NH9sI8ADW1RQCPH0jgAKl8JRQG03Zmc3Vmx9Y1UgTT5uS59r",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "जित राम लामा मुख्यतया यातायात व्यवसायी र नेपाल टिपर तथा ट्रक व्यवसायी समितिको पूर्व अध्यक्षका रूपमा चिनिन्छन्। उनले २०७९ को प्रतिनिधि सभा निर्वाचनमा भक्तपुर क्षेत्र नं २ बाट उज्यालो नेपाल पार्टीको तर्फबाट उम्मेदवारी दिएका थिए, जहाँ उनी पराजित भए। उनको राजनीतिक पहिचान भन्दा व्यवसायिक क्षेत्रको नेतृत्व बढी प्रभावशाली रहेको देखिन्छ। विशेष गरी काठमाडौँ उपत्यकामा टिपर सञ्चालनमा समय सीमा तोक्ने सरकारी निर्णय विरुद्ध उनले नेतृत्व गरेको विरोध प्रदर्शन र सिन्डिकेट जोगाउने प्रयासका कारण उनी विवादमा परेका थिए। राजनीतिमा उनको आगमनलाई यातायात क्षेत्रका मुद्दाहरूलाई राष्ट्रिय स्तरमा उठाउने प्रयासको रूपमा हेरिए पनि मतदातामाझ उनको पकड कमजोर रहेको २०७९ को चुनावी नतिजाले देखाउँछ।",
+  "overall_approval_rating": 25
+}

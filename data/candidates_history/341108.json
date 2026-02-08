@@ -1,0 +1,87 @@
+{
+  "candidate_id": 341108,
+  "candidate_name": "कृष्ण ध्वज खड्का",
+  "candidate_party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CPN-Maoist_Centre_logo.svg/1024px-CPN-Maoist_Centre_logo.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री, लुम्बिनी प्रदेश",
+  "candidates_current_position_in_party": "पोलिटब्युरो सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341108.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "प्यूठान",
+      "constituency": "निर्वाचन क्षेत्र १ (ख)",
+      "result": "विजयी",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "प्यूठान",
+      "constituency": "निर्वाचन क्षेत्र १",
+      "result": "पराजित",
+      "party": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा पराजय",
+      "date": "२०७९-०८-०७",
+      "details": "प्यूठान निर्वाचन क्षेत्र नं १ बाट प्रतिनिधि सभा सदस्यका लागि वाम-लोकतान्त्रिक गठबन्धनका साझा उम्मेदवार रहेका खड्का नेकपा एमालेका सूर्य थापासाग पराजित हुनुभयो।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/district/pyuthan?lng=np",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "BAD"
+    },
+    {
+      "event": "मन्त्री पदबाट राजीनामा",
+      "date": "२०७९-०६-२५",
+      "details": "संघीय निर्वाचनमा प्यूठानबाट उम्मेदवारी दिनका लागि उनले लुम्बिनी प्रदेशको आर्थिक मामिला तथा योजना मन्त्री पदबाट राजीनामा दिएका थिए।",
+      "link_to_source": "https://www.setopati.com/politics/284145",
+      "event_type": "RESIGNATION",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "बजेट वितरणमा विवाद",
+      "date": "२०७९-०३-०१",
+      "details": "आर्थिक वर्ष २०७९/८० को बजेट प्रस्तुत गर्दा पहुँचका आधारमा कार्यकर्ता पोस्ने गरी बजेट विनियोजन गरेको भन्दै प्रतिपक्षी दल नेकपा एमालेले सदन अवरुद्ध गरेको थियो।",
+      "link_to_source": "https://www.onlinekhabar.com/2022/06/1143890",
+      "event_type": "SCANDAL_CORRUPTION",
+      "event_category": "BAD"
+    },
+    {
+      "event": "प्रदेश राजधानी देउखुरी स्थानान्तरण",
+      "date": "२०७८-०९-२०",
+      "details": "लुम्बिनी प्रदेशको स्थायी राजधानी बुटवलबाट दाङको देउखुरी सार्ने र त्यहाँ प्रशासनिक पूर्वाधार तयार पार्ने कार्यमा अर्थमन्त्रीको रूपमा महत्त्वपूर्ण भूमिका निर्वाह गरे।",
+      "link_to_source": "https://ekantipur.com/pradesh-5/2022/12/15/167107771695648877.html",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "आर्थिक मामिला तथा योजना मन्त्रीमा नियुक्त",
+      "date": "२०७८-०४-२८",
+      "details": "कुल प्रसाद केसीको नेतृत्वमा बनेको लुम्बिनी प्रदेश सरकारमा खड्काले आर्थिक मामिला तथा योजना मन्त्रीको जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://lumbini.gov.np/archives/732",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा विजयी",
+      "date": "२०७४-०८-२१",
+      "details": "प्यूठान निर्वाचन क्षेत्र नं १ (ख) बाट २७,९१० मत प्राप्त गर्दै प्रदेश सभा सदस्यमा निर्वाचित भएका थिए।",
+      "link_to_source": "https://election.ekantipur.com/provincial-assembly-2074/district/pyuthan?lng=np",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "दश वर्षे जनयुद्धमा सहभागी",
+      "date": "२०५२-११-०१",
+      "details": "माओवादीले सुरु गरेको सशस्त्र जनयुद्धमा सुरुवाती चरणदेखि नै सहभागी भई सैन्य तथा राजनीतिक मोर्चामा नेतृत्वदायी भूमिका खेलेका थिए।",
+      "link_to_source": "https://cpnmc.org/leader/krishna-dhwoj-khadka/",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "कृष्ण ध्वज खड्का नेकपा (माओवादी केन्द्र) का एक प्रभावशाली र वैचारिक नेता मानिन्छन्। उनी पूर्व मन्त्री रेखा शर्माका पति हुन्, जसका कारण उनलाई पार्टीभित्र 'पावर कपल' को रूपमा पनि हेर्ने गरिन्छ। लुम्बिनी प्रदेशको अर्थमन्त्री रहँदा उनले प्रदेशको राजधानी देउखुरी सार्ने ऐतिहासिक निर्णय कार्यान्वयनमा महत्वपूर्ण भूमिका खेले पनि बजेट वितरणमा आफ्ना कार्यकर्तालाई मात्र प्राथमिकता दिएको आरोप उनीमाथि लाग्ने गरेको छ। २०७४ को प्रदेश सभा निर्वाचनमा भारी मतान्तरले विजयी भए पनि २०७९ को प्रतिनिधि सभा निर्वाचनमा प्यूठानबाट पराजित हुनु उनको राजनीतिक करिअरको लागि एक धक्का सावित भयो। उनको चुनावी पकड प्यूठानमा बलियो भए पनि गठबन्धनभित्रको अन्तर्घात र एमालेको बलियो संगठनका कारण उनी पराजित भएका थिए।",
+  "overall_approval_rating": 62
+}

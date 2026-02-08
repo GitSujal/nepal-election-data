@@ -1,0 +1,95 @@
+{
+  "candidate_id": 341965,
+  "candidate_name": "हिमाल कार्की",
+  "candidate_party": "नेपाली काँग्रेस",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nepali_Congress_Party_Flag.svg/1200px-Nepali_Congress_Party_Flag.svg.png",
+  "candidates_current_position": "पूर्व मन्त्री, प्रदेश सभा सदस्य",
+  "candidates_current_position_in_party": "संसदीय दलको उपनेता (कोशी प्रदेश)",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341965.jpg",
+  "election_history": [
+    {
+      "year": "२०७४",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    },
+    {
+      "year": "२०७९",
+      "position": "प्रदेश सभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं. १ (ख)",
+      "result": "विजयी",
+      "party": "नेपाली काँग्रेस"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७९ मा पुनः विजयी",
+      "date": "२०७९-०८-०५",
+      "details": "हिमाल कार्की उदयपुर क्षेत्र नं. १ (ख) बाट १४,९७९ मत प्राप्त गरी प्रदेश सभा सदस्यमा दोस्रो पटक निर्वाचित भएका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNWpR5mr4k-6EqQnYGVHNxHQEkj64AuiEoB2Xw5SwHh-P6h9DBVOh8sQni01Pm-1C-xYVJk3Wq3jWsVDv9dalAg-fcczUt0lpX7gKckNUU-xy1Cwweg0FWS09rhUkk8L8X8vNiuo_7SPBG0AcH_j78BS5ZZAzautq00A==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोशी प्रदेश संसदीय दलको उपनेतामा चयन",
+      "date": "२०७९-१०-०८",
+      "details": "दोस्रो कार्यकालका लागि प्रदेश सभामा निर्वाचित भएपछि उनलाई नेपाली काँग्रेस कोशी प्रदेश संसदीय दलको उपनेताको जिम्मेवारी दिइएको थियो।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMOX4Jv7mLQ-wPoP7pPbwf-m9G185caWOw_hf-VnDc4u3E3WYGP2a3NwouPspRGEiroTEjCRTJMXVyiIJ9tkKoy3PcXx7O9nAJPw09fqPr_LWAQJVZGsghZFzeJ31UIXQ2i5PS",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "भौतिक पूर्वाधार विकास मन्त्रीमा नियुक्त",
+      "date": "२०७८-०७-१६",
+      "details": "राजेन्द्र राई नेतृत्वको सरकारमा हिमाल कार्कीले कोशी प्रदेशको भौतिक पूर्वाधार विकास मन्त्रीको रूपमा कार्यभार सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMOX4Jv7mLQ-wPoP7pPbwf-m9G185caWOw_hf-VnDc4u3E3WYGP2a3NwouPspRGEiroTEjCRTJMXVyiIJ9tkKoy3PcXx7O9nAJPw09fqPr_LWAQJVZGsghZFzeJ31UIXQ2i5PS",
+      "event_type": "MINISTERIAL_APPT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "मन्त्रालय विभाजन र नयाँ कार्यभार",
+      "date": "२०७८-१०-२३",
+      "details": "मन्त्रालय विभाजन पछि उनले सडक पूर्वाधार तथा शहरी विकास मन्त्रीको रूपमा केही समय जिम्मेवारी सम्हालेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGijSuOdKhviVipSUaebytmS2AwQCviOe3FTZqqlK3Jnfj8AGgxMYIsaLI_2qoKZPVY_qmZ_fUdojYE5a5OozBUWdPdco4XF3Rp6UZKptR-IqZA7upGrR4jl17ppZylucXySRo2H0aZ_yMAQ0i6RHeTkCw228MAGo8DHA5QUV3Z-GpKJI8AlSQ=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रदेश सभा निर्वाचन २०७४ मा पहिलो जित",
+      "date": "२०७४-०८-२२",
+      "details": "हिमाल कार्कीले उदयपुर १ (ख) बाट वाम गठबन्धनका उम्मेदवारलाई पराजित गर्दै पहिलो पटक प्रदेश सभामा प्रवेश गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw1SZxJUlhNL3IsAN_xTA2julgZGfEcmLeomkxt7iNhGRdoAo11_tKZUkICe6CEF6FOU38RFi63lJvZGvGfuGW9T8Xe4dfCFOL94bZYmbimE-TgfML4WEu-wy0LWLH6ttBj_CUj_uK1hUz-CDjRIbX5s8K6f8oca8HLptKeaGE4w==",
+      "event_type": "ELECTION_WIN",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "नेपाली काँग्रेस उदयपुरको जिल्ला सभापति",
+      "date": "२०७२-११-२५",
+      "details": "पार्टीको १३औं महाधिवेशनका क्रममा उनी उदयपुर जिल्लाको सभापतिमा निर्वाचित भई जिल्लाको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMOX4Jv7mLQ-wPoP7pPbwf-m9G185caWOw_hf-VnDc4u3E3WYGP2a3NwouPspRGEiroTEjCRTJMXVyiIJ9tkKoy3PcXx7O9nAJPw09fqPr_LWAQJVZGsghZFzeJ31UIXQ2i5PS",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "बंशिलाघाट बेलिब्रिज सञ्चालनमा भूमिका",
+      "date": "२०८१-१०-२४",
+      "details": "मन्त्री रहँदा उनले खोटाङ र उदयपुर जोड्ने सुनकोशी नदीको बेलिब्रिज निर्माणका लागि विशेष पहल र बजेट विनियोजन गरेका थिए।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYf9MtRL2XIda8ZSAqcCwPprZ-Xr8Z1rPrsSsqSiW5WbrLo3EPYp8JAg-WAAZpiDY_-PJqQDjnSUYcUExcOTjmhmQr5uB5DZfGUHgyPcWLcaSvnK4Afo5ZHpfYT0a2LDIUW2QE9CKGnyc=",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "कोशी प्रदेशको राजनीतिक अस्थिरतामा संलग्नता",
+      "date": "२०८०-०३-१५",
+      "details": "कोशी प्रदेशमा सरकार फेरबदल र राजनीतिक दाउपेचका क्रममा पार्टीको निर्णय अनुसार पटक-पटक गठबन्धन परिवर्तनमा सहभागी।",
+      "link_to_source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-fNrn9jNEdTFDJ4kH679bhMuCUVWQK8Y4wuaIzXWSOypTd12q5yAwbd6wTEnWD8TaTLjxq925DV6wSGG5fFk-jifiY8-9-5_6Gn1bMeHyFWbCZDce6dcuosw1ajl0-2I=",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    }
+  ],
+  "analysis": "हिमाल कार्की नेपाली काँग्रेसका एक प्रभावशाली र अनुभवी नेता हुन्, जसको मुख्य राजनीतिक आधार क्षेत्र उदयपुर जिल्ला हो। यद्यपि स्रोत डेटामा जिल्लाको नाम काठमाडौं उल्लेख छ, उनको सम्पूर्ण चुनावी सफलता र राजनीतिक उचाइ उदयपुर १(ख) निर्वाचन क्षेत्रसँग जोडिएको छ। उनले २०७४ र २०७९ का दुवै प्रदेश सभा निर्वाचनमा जित हासिल गरेर आफ्नो बलियो जनमत प्रमाणित गरिसकेका छन्। कोशी प्रदेश सरकारको भौतिक पूर्वाधार मन्त्रीको रूपमा काम गर्दा उनले उदयपुर र वरपरका जिल्लाहरूमा सडक तथा पुल निर्माणमा उल्लेखनीय भूमिका खेलेका थिए। उनी पार्टी भित्र शेरबहादुर देउवा निकट मानिन्छन् र कोशी प्रदेशको संसदीय राजनीतिमा उनको बलियो पकड रहेको छ। हाल उनी संसदीय दलको उपनेताको रूपमा सक्रिय छन्।",
+  "overall_approval_rating": 78
+}

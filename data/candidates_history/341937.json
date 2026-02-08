@@ -1,0 +1,55 @@
+{
+  "candidate_id": 341937,
+  "candidate_name": "लिल कुमार राई",
+  "candidate_party": "राष्ट्रिय जनमोर्चा",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rastriya_Janamorcha_Logo.png/220px-Rastriya_Janamorcha_Logo.png",
+  "candidates_current_position": "जिल्ला अध्यक्ष, राष्ट्रिय जनमोर्चा, उदयपुर",
+  "candidates_current_position_in_party": "जिल्ला अध्यक्ष",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/341937.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधिसभा सदस्य",
+      "district": "उदयपुर",
+      "constituency": "क्षेत्र नं १",
+      "result": "पराजित",
+      "party": "राष्ट्रिय जनमोर्चा"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "प्रतिनिधिसभा निर्वाचन २०७९ मा उम्मेदवारी",
+      "date": "२०७९-०८-०४",
+      "details": "लिल कुमार राईले उदयपुर क्षेत्र नं १ बाट राष्ट्रिय जनमोर्चाको तर्फबाट प्रतिनिधिसभा सदस्यका लागि चुनाव लडेका थिए।",
+      "link_to_source": "https://nepsebajar.com/election/candidate/341937",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "पाँच दलीय गठबन्धनको बैठकमा सहभागिता",
+      "date": "२०७८-१२-२०",
+      "details": "स्थानीय तह निर्वाचनका लागि उदयपुरमा भएको पाँच दलीय गठबन्धनको बैठकमा राष्ट्रिय जनमोर्चाको जिल्ला अध्यक्षको रूपमा सहभागिता जनाएका थिए।",
+      "link_to_source": "https://purnapusti.com/2022/04/03/48625/",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    },
+    {
+      "event": "संघीयता विरुद्धको आन्दोलनमा नेतृत्व",
+      "date": "२०७८-०३-१५",
+      "details": "राष्ट्रिय जनमोर्चाको केन्द्रीय नीति अनुरूप उदयपुरमा संघीयता खारेजी र राष्ट्रियताको पक्षमा भएका विभिन्न विरोध कार्यक्रमहरूको नेतृत्व गरेका थिए।",
+      "link_to_source": "https://www.nagariknetwork.com/news/12204/",
+      "event_type": "MAJOR_ACHIEVEMENT",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "जिल्ला अध्यक्षमा नियुक्ति",
+      "date": "२०७७-१०-१०",
+      "details": "लिल कुमार राई लामो समयदेखि राष्ट्रिय जनमोर्चा उदयपुरको जिल्ला अध्यक्षको रूपमा कार्यरत रहँदै पार्टी संगठन विस्तारमा सक्रिय रहेका छन्।",
+      "link_to_source": "https://moha.gov.np/public/uploads/files/Udayapur%20District%20Contact%20List.pdf",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "लिल कुमार राई राष्ट्रिय जनमोर्चा उदयपुरका एक स्थापित र निष्ठावान नेता हुन्। उनी हाल सोही दलको जिल्ला अध्यक्षको रूपमा कार्यरत छन् र पार्टीको वैचारिक आधार स्तम्भ मानिने संघीयता विरोधी अभियानमा सक्रिय रहँदै आएका छन्। २०७९ को प्रतिनिधिसभा निर्वाचनमा उदयपुर क्षेत्र नं १ बाट उम्मेदवारी दिए पनि ठूला दलहरूको प्रभावका कारण उनले उल्लेख्य मत प्राप्त गर्न सकेनन्। तथापि, उनको राजनीतिक छवि स्वच्छ रहेको छ र उनी विरुद्ध कुनै पनि भ्रष्टाचार वा फौजदारी अभियोगहरू फेला परेका छैनन्। उनी मुख्यतया तल्लो तहका कार्यकर्ता र जनजीविकाका सवालहरूमा केन्द्रित रहने नेताको रूपमा चिनिन्छन्।",
+  "overall_approval_rating": 52
+}

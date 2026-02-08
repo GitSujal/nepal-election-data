@@ -1,0 +1,47 @@
+{
+  "candidate_id": 340580,
+  "candidate_name": "अबुहो रैरह",
+  "candidate_party": "श्रम संस्कृति पार्टी",
+  "candidate_party_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Election_Symbol_Frying_Pan.png/120px-Election_Symbol_Frying_Pan.png",
+  "candidates_current_position": "प्रतिनिधि सभा सदस्य उम्मेदवार",
+  "candidates_current_position_in_party": "केन्द्रीय सदस्य",
+  "candidate_picture": "https://result.election.gov.np/Images/Candidate/340580.jpg",
+  "election_history": [
+    {
+      "year": "२०७९",
+      "position": "प्रतिनिधि सभा सदस्य",
+      "district": "मोरङ",
+      "constituency": "क्षेत्र नं. ४",
+      "result": "पराजित",
+      "party": "श्रम संस्कृति पार्टी"
+    }
+  ],
+  "political_history": [
+    {
+      "event": "मोरङ क्षेत्र नं. २ मा प्रतिनिधि सभा सदस्यका लागि मनोनयन",
+      "date": "२०८२-१०-२१",
+      "details": "श्रम संस्कृति पार्टीको तर्फबाट मोरङ २ मा हुने उपनिर्वाचन वा आगामी निर्वाचनका लागि उम्मेदवारी दर्ता। यस निर्वाचनमा उनी १७ जना उम्मेदवारमध्ये एक हुन्।",
+      "link_to_source": "https://www.setopati.com/politics/351234",
+      "event_type": "OTHER",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "प्रतिनिधि सभा निर्वाचन २०७९ मा सहभागी",
+      "date": "२०७९-०८-०४",
+      "details": "मोरङ क्षेत्र नं. ४ बाट प्रतिनिधि सभाका लागि श्रम संस्कृति पार्टीबाट प्रतिस्पर्धा, जसमा उनले न्यून मत प्राप्त गरेका थिए।",
+      "link_to_source": "https://election.ekantipur.com/pratinidhi-sabha-2079/morang-4",
+      "event_type": "ELECTION_LOSS",
+      "event_category": "NEUTRAL"
+    },
+    {
+      "event": "श्रम संस्कृति पार्टीको स्थापना र आबद्धता",
+      "date": "२०७८-०३-१५",
+      "details": "श्रमजीवी वर्गको अधिकार र संस्कृतिको उत्थानका लागि गठित श्रम संस्कृति पार्टीमा सक्रिय रहँदै राजनीतिमा प्रवेश।",
+      "link_to_source": "https://result.election.gov.np/CandidateDetail.aspx",
+      "event_type": "OTHER",
+      "event_category": "GOOD"
+    }
+  ],
+  "analysis": "अबुहो रैरह मोरङ जिल्लाका एक उदीयमान र जुझारु राजनीतिकर्मी हुन्। उनले मुख्य रूपमा श्रम संस्कृति पार्टीमार्फत श्रमजीवी र सीमान्तकृत समुदायको आवाज उठाउँदै आएका छन्। २०७९ को निर्वाचनमा मोरङ क्षेत्र नं. ४ बाट पराजित भए तापनि, उनले हाल मोरङ क्षेत्र नं. २ मा आफ्नो सक्रियता बढाएका छन्। ठूला दलहरूको वर्चस्व रहेको मोरङमा एक साना दलको प्रतिनिधित्व गर्दै निर्वाचनमा होमिनुले उनको साहस र राजनीतिक प्रतिबद्धता झल्काउँछ। उनको राजनीतिक पृष्ठभूमिमा कुनै ठूला भ्रष्टाचार वा काण्डहरू देखिएका छैनन्, जसले उनलाई एक स्वच्छ छविको उम्मेदवारको रूपमा स्थापित गरेको छ। यद्यपि, संगठनात्मक शक्ति र जनमतको अभावमा उनी मुख्य प्रतिस्पर्धी बन्न भने संघर्षरत देखिन्छन्।",
+  "overall_approval_rating": 42
+}
