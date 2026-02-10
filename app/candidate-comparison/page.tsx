@@ -2,7 +2,7 @@
 
 import { useState, useMemo, Suspense } from "react"
 import { Users, User, Trophy, Vote, MapPin, GraduationCap, Calendar, Award, Briefcase, TrendingUp, TrendingDown, Building2, FileText, AlertTriangle, Swords, ChevronRight, Clock } from "lucide-react"
-import { CandidateComparisonSelector } from "@/components/candidate/candidate-comparison-selector"
+import { ConstituencySelector } from "@/components/candidate/candidate-comparison-selector"
 import { BadgeDisplay } from "@/components/candidate/badge-display"
 import { usePoliticalHistory, type CandidatePoliticalHistory } from "@/hooks/use-political-history"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
@@ -23,16 +23,6 @@ function CandidateComparisonPageContent() {
   const { data: history1 } = usePoliticalHistory(candidate1?.candidate_id)
   const { data: history2 } = usePoliticalHistory(candidate2?.candidate_id)
 
-  const handleCandidate1Change = (c: Candidate | null) => {
-    setCandidate1(c)
-    setUrlState({ c1: c?.candidate_id || 0 })
-  }
-
-  const handleCandidate2Change = (c: Candidate | null) => {
-    setCandidate2(c)
-    setUrlState({ c2: c?.candidate_id || 0 })
-  }
-
   const bothSelected = candidate1 && candidate2
 
   return (
@@ -45,30 +35,26 @@ function CandidateComparisonPageContent() {
         <div>
           <h1 className="text-4xl font-black tracking-tight text-foreground">उम्मेदवार तुलना</h1>
           <p className="mt-2 text-lg text-muted-foreground">
-            दुईजना उम्मेदवारहरू बीचको विस्तृत तथ्याङ्क तुलना गर्नुहोस्
+            निर्वाचन क्षेत्र छानेर दुईजना उम्मेदवारहरूको विस्तृत तुलना गर्नुहोस्
           </p>
         </div>
       </div>
 
-      {/* Candidate Selectors */}
-      <div className="grid gap-8 lg:grid-cols-2">
-        <CandidateComparisonSelector
-          label="पहिलो उम्मेदवार (क)"
-          selectedCandidateId={urlState.c1}
-          onSelect={handleCandidate1Change}
-          otherCandidateId={urlState.c2 || undefined}
-        />
-        <CandidateComparisonSelector
-          label="दोस्रो उम्मेदवार (ख)"
-          selectedCandidateId={urlState.c2}
-          onSelect={handleCandidate2Change}
-          otherCandidateId={urlState.c1 || undefined}
+      {/* Constituency-first Selector */}
+      <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
+        <ConstituencySelector
+          urlState={urlState}
+          onUrlStateChange={(updates) => setUrlState((prev) => ({ ...prev, ...updates }))}
+          candidate1={candidate1}
+          candidate2={candidate2}
+          onCandidate1Change={setCandidate1}
+          onCandidate2Change={setCandidate2}
         />
       </div>
 
       {/* Color Legend */}
       {bothSelected && (
-        <div className="mt-8 flex flex-wrap justify-center gap-8 rounded-2xl border border-border bg-card p-5 shadow-sm">
+        <div className="mt-8 flex flex-wrap justify-center gap-8 rounded-2xl border border-border bg-card p-5 shadow-sm animate-in fade-in slide-in-from-bottom-2 duration-300">
           <div className="flex items-center gap-3">
             <div className="h-4 w-12 rounded-full bg-primary" />
             <div className="flex flex-col">
@@ -177,16 +163,24 @@ function CandidateComparisonPageContent() {
           )}
         </div>
       ) : (
-        /* Empty State */
-        <div className="flex flex-col items-center justify-center py-24 text-center">
-          <div className="mb-6 h-24 w-24 rounded-full bg-secondary/30 flex items-center justify-center">
-            <Users className="h-12 w-12 text-muted-foreground/50" />
+        /* Empty State - show only when constituency is selected but not both candidates */
+        urlState.constituency > 0 && (
+          <div className="flex flex-col items-center justify-center py-16 text-center">
+            <div className="mb-6 flex h-24 w-24 items-center justify-center rounded-full bg-secondary/30">
+              <Users className="h-12 w-12 text-muted-foreground/50" />
+            </div>
+            <h3 className="text-xl font-bold text-foreground">
+              {!candidate1 && !candidate2
+                ? "माथिबाट दुईजना उम्मेदवार छान्नुहोस्"
+                : "एकजना थप उम्मेदवार छान्नुहोस्"}
+            </h3>
+            <p className="mt-2 max-w-sm text-muted-foreground">
+              {!candidate1 && !candidate2
+                ? "उम्मेदवारहरूमा क्लिक गरेर तुलनाका लागि दुईजना छान्नुहोस्।"
+                : "तुलना सुरु गर्न एकजना थप उम्मेदवार छान्नुहोस्।"}
+            </p>
           </div>
-          <h3 className="text-xl font-bold text-foreground">तुलना सुरु गर्न उम्मेदवारहरू छान्नुहोस्</h3>
-          <p className="text-muted-foreground mt-2 max-w-sm">
-            माथिको सर्च बक्सबाट दुईजना उम्मेदवार छानेर तिनीहरूको विस्तृत तथ्याङ्क तुलना गर्न सक्नुहुन्छ।
-          </p>
-        </div>
+        )
       )}
     </main>
   )
@@ -915,9 +909,10 @@ export default function CandidateComparisonPage() {
       <main className="container mx-auto px-4 py-8">
         <div className="animate-pulse space-y-6">
           <div className="h-8 w-64 mx-auto rounded bg-muted" />
-          <div className="grid gap-8 lg:grid-cols-2">
-            <div className="h-14 rounded-2xl bg-muted" />
-            <div className="h-14 rounded-2xl bg-muted" />
+          <div className="grid gap-4 sm:grid-cols-3">
+            <div className="h-12 rounded-2xl bg-muted" />
+            <div className="h-12 rounded-2xl bg-muted" />
+            <div className="h-12 rounded-2xl bg-muted" />
           </div>
         </div>
       </main>
