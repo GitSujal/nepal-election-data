@@ -3,7 +3,7 @@
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import Image from "next/image"
-import { User, MapPin, Building2, Scale } from "lucide-react"
+import { User, MapPin, Building2, Scale, Users } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { ThemeToggle } from "@/components/theme-toggle"
 
@@ -30,6 +30,11 @@ export function NavHeader() {
       href: "/party-comparison",
       label: "पार्टी तुलना",
       icon: Scale,
+    },
+    {
+      href: "/candidate-comparison",
+      label: "उम्मेदवार तुलना",
+      icon: Users,
     },
   ]
 

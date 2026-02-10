@@ -100,3 +100,20 @@ export const defaultPartyComparisonFilterState: PartyComparisonFilterState = {
   party1: 0,
   party2: 0,
 }
+
+// Candidate Comparison Page Filter State
+export interface CandidateComparisonFilterState {
+  state: number        // state_id (0 = none selected)
+  district: number     // district_id (0 = none selected)
+  constituency: number // constituency_id (0 = none selected)
+  c1: number           // candidate_id for first candidate (0 = none selected)
+  c2: number           // candidate_id for second candidate (0 = none selected)
+}
+
+export const defaultCandidateComparisonFilterState: CandidateComparisonFilterState = {
+  state: 0,
+  district: 0,
+  constituency: 0,
+  c1: 0,
+  c2: 0,
+}
