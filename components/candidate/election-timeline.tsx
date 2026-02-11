@@ -20,6 +20,14 @@ interface TimelineEntry {
   wasMember: boolean
 }
 
+function convertToDevanagari(str: string): string {
+  const arabicToDevanagari: Record<string, string> = {
+    '0': '०', '1': '१', '2': '२', '3': '३', '4': '४',
+    '5': '५', '6': '६', '7': '७', '8': '८', '9': '९'
+  }
+  return str.replace(/[0-9]/g, (match) => arabicToDevanagari[match] || match)
+}
+
 export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
   // Build timeline entries from candidate data
   const entries: TimelineEntry[] = []
@@ -132,8 +140,8 @@ export function ElectionTimeline({ candidate }: ElectionTimelineProps) {
                         : "border-primary"
                   )}
                 >
-                  <span className="text-2xl font-bold text-foreground">{entry.year}</span>
-                  <span className="text-xs text-muted-foreground">BS</span>
+                  <span className="text-2xl font-bold text-foreground">{convertToDevanagari(entry.year)}</span>
+                  <span className="text-xs text-muted-foreground">बि.सं.</span>
                 </div>
               </div>
 
