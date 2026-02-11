@@ -516,20 +516,17 @@ joined as (
         coalesce(cph.is_past_minister, false) as is_past_minister,
         coalesce(cph.minister_appointment_count, 0) as minister_appointment_count,
         
-        -- Enhanced election counts using profile history when available
-        -- Falls back to existing logic (based on 2074 and 2079) when profile is not available
-        coalesce(
-            cph.total_elections_from_profile,
-            case
-                when (pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2079) 
-                    and (pr74.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2074) then 2
-                when pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pr74.{{ adapter.quote("TotalVoteReceived") }} is not null 
-                    or pm.was_member_2079 or pm.was_member_2074 then 1
-                else 0
-            end
-        ) as total_elections_contested,
-        
-        coalesce(cph.total_wins_from_profile, 0) as total_wins_from_profile
+        -- Total elections = older elections from profile (pre-2074) + 2074 participation + 2079 participation
+        coalesce(cph.total_elections_from_profile, 0)
+            + case when pr.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2079 then 1 else 0 end
+            + case when pr74.{{ adapter.quote("TotalVoteReceived") }} is not null or pm.was_member_2074 then 1 else 0 end
+            as total_elections_contested,
+
+        -- Total wins = older wins from profile (pre-2074) + 2074 win + 2079 win
+        coalesce(cph.total_wins_from_profile, 0)
+            + case when pr.{{ adapter.quote("Remarks") }} = 'Elected' or (pm.was_member_2079 and pm.election_type_2079 = 'FPTP') then 1 else 0 end
+            + case when pr74.{{ adapter.quote("Remarks") }} = 'Elected' or (pm.was_member_2074 and pm.election_type_2074 = 'FPTP') then 1 else 0 end
+            as total_wins_from_profile
 
     from current_with_qual cc
     left join district_name_mapping dnm

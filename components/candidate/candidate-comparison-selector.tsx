@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useMemo, useCallback } from "react"
+import { useState, useMemo, useCallback, useEffect } from "react"
 import { ChevronDown, MapPin, Users, Check, ChevronRight, Search } from "lucide-react"
 import { useJsonData } from "@/hooks/use-json-data"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
@@ -71,7 +71,7 @@ export function ConstituencySelector({
   // Get candidates for the selected constituency
   const constituencyCandidates = useMemo(() => {
     if (!allCandidates || !urlState.constituency) return []
-    let filtered = allCandidates.filter((c) => c.constituency_id === urlState.constituency)
+    let filtered = allCandidates.filter((c) => c.district_id === urlState.district && c.constituency_id === urlState.constituency)
     if (searchQuery.trim()) {
       const q = searchQuery.trim().toLowerCase()
       filtered = filtered.filter(
@@ -81,7 +81,7 @@ export function ConstituencySelector({
       )
     }
     return filtered.sort((a, b) => (a.party_display_order ?? 9999) - (b.party_display_order ?? 9999))
-  }, [allCandidates, urlState.constituency, searchQuery])
+  }, [allCandidates, urlState.district, urlState.constituency, searchQuery])
 
   // Get selected district and state names for display
   const selectedStateName = states.find((s) => s.id === urlState.state)?.name || ""
@@ -141,7 +141,7 @@ export function ConstituencySelector({
   }, [urlState.c1, urlState.c2, onUrlStateChange, onCandidate1Change, onCandidate2Change])
 
   // Restore candidates from URL state on load
-  useMemo(() => {
+  useEffect(() => {
     if (!allCandidates) return
     if (urlState.c1 && !candidate1) {
       const c = allCandidates.find((x) => x.candidate_id === urlState.c1)

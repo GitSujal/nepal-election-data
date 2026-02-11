@@ -1,14 +1,14 @@
 "use client"
 
-import { useState, useMemo, Suspense } from "react"
-import { Users, User, Trophy, Vote, MapPin, GraduationCap, Calendar, Award, Briefcase, TrendingUp, TrendingDown, Building2, FileText, AlertTriangle, Swords, ChevronRight, Clock } from "lucide-react"
+import { useState, Suspense } from "react"
+import { Users, User, Trophy, Vote, MapPin, GraduationCap, Calendar, Award, Briefcase, TrendingUp, Building2, FileText, AlertTriangle, Swords, Clock } from "lucide-react"
 import { ConstituencySelector } from "@/components/candidate/candidate-comparison-selector"
 import { BadgeDisplay } from "@/components/candidate/badge-display"
 import { usePoliticalHistory, type CandidatePoliticalHistory } from "@/hooks/use-political-history"
 import { usePartySymbols } from "@/hooks/use-party-symbols"
 import { useUrlState } from "@/hooks/use-url-state"
 import { defaultCandidateComparisonFilterState } from "@/lib/filter-types"
-import { badgeDefinitions, type Candidate } from "@/lib/candidates-data"
+import { type Candidate } from "@/lib/candidates-data"
 import { cn } from "@/lib/utils"
 import { Separator } from "@/components/ui/separator"
 import Image from "next/image"
@@ -44,7 +44,7 @@ function CandidateComparisonPageContent() {
       <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
         <ConstituencySelector
           urlState={urlState}
-          onUrlStateChange={(updates) => setUrlState((prev) => ({ ...prev, ...updates }))}
+          onUrlStateChange={setUrlState}
           candidate1={candidate1}
           candidate2={candidate2}
           onCandidate1Change={setCandidate1}
@@ -57,17 +57,11 @@ function CandidateComparisonPageContent() {
         <div className="mt-8 flex flex-wrap justify-center gap-8 rounded-2xl border border-border bg-card p-5 shadow-sm animate-in fade-in slide-in-from-bottom-2 duration-300">
           <div className="flex items-center gap-3">
             <div className="h-4 w-12 rounded-full bg-primary" />
-            <div className="flex flex-col">
-              <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">उम्मेदवार क</span>
-              <span className="text-sm font-black text-foreground">{candidate1!.candidate_name}</span>
-            </div>
+            <span className="text-sm font-black text-foreground">{candidate1!.candidate_name}</span>
           </div>
           <div className="flex items-center gap-3 border-l border-border pl-8">
             <div className="h-4 w-12 rounded-full bg-compare-secondary" />
-            <div className="flex flex-col">
-              <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">उम्मेदवार ख</span>
-              <span className="text-sm font-black text-foreground">{candidate2!.candidate_name}</span>
-            </div>
+            <span className="text-sm font-black text-foreground">{candidate2!.candidate_name}</span>
           </div>
         </div>
       )}
@@ -85,44 +79,18 @@ function CandidateComparisonPageContent() {
             getSymbolUrl={getSymbolUrl}
           />
 
+          {/* Analysis Comparison */}
+          {(history1?.analysis || history2?.analysis) && (
+            <section className="space-y-6">
+              <SectionHeader title="राजनीतिक विश्लेषण" />
+              <AnalysisComparison h1={history1} h2={history2} c1={candidate1!} c2={candidate2!} />
+            </section>
+          )}
+
           {/* Key Metrics Comparison */}
           <section className="space-y-6">
             <SectionHeader title="मुख्य तथ्याङ्क तुलना" />
-            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              <MetricCard
-                title="उमेर"
-                v1={candidate1!.age}
-                v2={candidate2!.age}
-                suffix=" वर्ष"
-                type="neutral"
-              />
-              <MetricCard
-                title="चुनाव संख्या"
-                v1={candidate1!.total_elections_contested}
-                v2={candidate2!.total_elections_contested}
-              />
-              <MetricCard
-                title="विजय संख्या"
-                v1={candidate1!.total_wins_from_profile || 0}
-                v2={candidate2!.total_wins_from_profile || 0}
-              />
-              <MetricCard
-                title="स्वीकृति दर"
-                v1={history1?.overall_approval_rating || 0}
-                v2={history2?.overall_approval_rating || 0}
-                suffix="%"
-              />
-              <MetricCard
-                title="मन्त्री नियुक्ति"
-                v1={candidate1!.minister_appointment_count || 0}
-                v2={candidate2!.minister_appointment_count || 0}
-              />
-              <MetricCard
-                title="विशेषता संख्या"
-                v1={candidate1!.tags.length}
-                v2={candidate2!.tags.length}
-              />
-            </div>
+            <MetricsComparison c1={candidate1!} c2={candidate2!} h1={history1} h2={history2} />
           </section>
 
           {/* Election Results Comparison */}
@@ -154,13 +122,6 @@ function CandidateComparisonPageContent() {
             />
           </section>
 
-          {/* Analysis Comparison */}
-          {(history1?.analysis || history2?.analysis) && (
-            <section className="space-y-6">
-              <SectionHeader title="राजनीतिक विश्लेषण" />
-              <AnalysisComparison h1={history1} h2={history2} c1={candidate1!} c2={candidate2!} />
-            </section>
-          )}
         </div>
       ) : (
         /* Empty State - show only when constituency is selected but not both candidates */
@@ -374,47 +335,62 @@ function ProfileCard({
   )
 }
 
-/* ===== Metric Card ===== */
-function MetricCard({
-  title, v1, v2, suffix = "", type = "higher-is-better",
+/* ===== Metrics Comparison Table ===== */
+function MetricsComparison({
+  c1, c2, h1, h2,
 }: {
-  title: string
-  v1: number
-  v2: number
-  suffix?: string
-  type?: "higher-is-better" | "lower-is-better" | "neutral"
+  c1: Candidate
+  c2: Candidate
+  h1: CandidatePoliticalHistory | null
+  h2: CandidatePoliticalHistory | null
 }) {
-  const isV1Better = type === "neutral" ? false : type === "higher-is-better" ? v1 > v2 : v1 < v2
-  const isV2Better = type === "neutral" ? false : type === "higher-is-better" ? v2 > v1 : v2 < v1
+  const rows = [
+    { label: "उमेर", v1: c1.age, v2: c2.age, suffix: " वर्ष", type: "neutral" as const, icon: Calendar },
+    { label: "प्रतिनिधि सभा व संविधान सभा को चुनाव", v1: c1.total_elections_contested, v2: c2.total_elections_contested, suffix: "", type: "higher-is-better" as const, icon: Vote },
+    { label: "विजय संख्या", v1: c1.total_wins_from_profile || 0, v2: c2.total_wins_from_profile || 0, suffix: "", type: "higher-is-better" as const, icon: Trophy },
+    { label: "स्वीकृति दर", v1: h1?.overall_approval_rating || 0, v2: h2?.overall_approval_rating || 0, suffix: "%", type: "higher-is-better" as const, icon: TrendingUp },
+    { label: "मन्त्री नियुक्ति", v1: c1.minister_appointment_count || 0, v2: c2.minister_appointment_count || 0, suffix: "", type: "higher-is-better" as const, icon: Award },
+    { label: "विशेषता संख्या", v1: c1.tags.length, v2: c2.tags.length, suffix: "", type: "higher-is-better" as const, icon: Users },
+  ]
 
   return (
-    <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
-      <h3 className="mb-5 text-sm font-black uppercase tracking-widest text-muted-foreground/80">
-        {title}
-      </h3>
-      <div className="flex items-center justify-between gap-4">
-        <div className={cn(
-          "flex flex-1 flex-col items-center justify-center rounded-2xl p-4 transition-all duration-500",
-          isV1Better ? "bg-primary/10 ring-2 ring-primary/20 scale-105" : "bg-secondary/30"
-        )}>
-          <span className={cn(
-            "text-3xl font-black tabular-nums",
-            isV1Better ? "text-primary" : "text-foreground"
-          )}>{v1}{suffix}</span>
-          {isV1Better && <TrendingUp className="mt-1 h-5 w-5 text-primary" />}
-        </div>
-        <div className="text-xs font-black text-muted-foreground/20 italic">VS</div>
-        <div className={cn(
-          "flex flex-1 flex-col items-center justify-center rounded-2xl p-4 transition-all duration-500",
-          isV2Better ? "bg-compare-secondary/10 ring-2 ring-compare-secondary/20 scale-105" : "bg-secondary/30"
-        )}>
-          <span className={cn(
-            "text-3xl font-black tabular-nums",
-            isV2Better ? "text-compare-secondary" : "text-foreground"
-          )}>{v2}{suffix}</span>
-          {isV2Better && <TrendingUp className="mt-1 h-5 w-5 text-compare-secondary" />}
-        </div>
+    <div className="rounded-3xl border border-border bg-card shadow-sm overflow-hidden">
+      {/* Header row */}
+      <div className="grid grid-cols-[1fr_1fr_1fr] border-b border-border bg-muted/30 px-4 py-3">
+        <div className="text-xs font-bold uppercase tracking-wider text-muted-foreground">तथ्याङ्क</div>
+        <div className="text-xs font-bold uppercase tracking-wider text-primary text-center">{c1.candidate_name}</div>
+        <div className="text-xs font-bold uppercase tracking-wider text-compare-secondary text-center">{c2.candidate_name}</div>
       </div>
+      {/* Data rows */}
+      {rows.map((row, i) => {
+        const Icon = row.icon
+        const isV1Better = row.type === "neutral" ? false : row.v1 > row.v2
+        const isV2Better = row.type === "neutral" ? false : row.v2 > row.v1
+        return (
+          <div key={row.label} className={cn(
+            "grid grid-cols-[1fr_1fr_1fr] px-4 py-3 items-center",
+            i < rows.length - 1 && "border-b border-border/50",
+            row.type === "neutral" && row.v1 === row.v2 && "bg-muted/10"
+          )}>
+            <div className="flex items-center gap-2">
+              <Icon className="h-4 w-4 shrink-0 text-muted-foreground" />
+              <span className="text-sm font-medium text-foreground">{row.label}</span>
+            </div>
+            <div className={cn(
+              "text-sm text-center font-bold tabular-nums",
+              isV1Better ? "text-primary" : "text-foreground"
+            )}>
+              {row.v1}{row.suffix}
+            </div>
+            <div className={cn(
+              "text-sm text-center font-bold tabular-nums",
+              isV2Better ? "text-compare-secondary" : "text-foreground"
+            )}>
+              {row.v2}{row.suffix}
+            </div>
+          </div>
+        )
+      })}
     </div>
   )
 }
@@ -454,30 +430,6 @@ function ElectionComparison({ c1, c2 }: { c1: Candidate; c2: Candidate }) {
         )
       })}
 
-      {/* Current 2082 election */}
-      <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
-        <h3 className="mb-6 text-lg font-black text-foreground border-b border-border/50 pb-3">
-          २०८२ निर्वाचन (वर्तमान)
-        </h3>
-        <div className="grid gap-6 lg:grid-cols-2">
-          <div className="rounded-2xl border-2 border-primary/20 bg-primary/5 p-4">
-            <div className="flex items-center gap-2 mb-2">
-              <Vote className="h-4 w-4 text-primary" />
-              <span className="text-sm font-bold text-primary">उम्मेदवार</span>
-            </div>
-            <p className="text-sm text-foreground">{c1.district_name} - क्षेत्र {c1.constituency_name}</p>
-            <p className="text-xs text-muted-foreground mt-1">{c1.political_party_name}</p>
-          </div>
-          <div className="rounded-2xl border-2 border-compare-secondary/20 bg-compare-secondary/5 p-4">
-            <div className="flex items-center gap-2 mb-2">
-              <Vote className="h-4 w-4 text-compare-secondary" />
-              <span className="text-sm font-bold text-compare-secondary">उम्मेदवार</span>
-            </div>
-            <p className="text-sm text-foreground">{c2.district_name} - क्षेत्र {c2.constituency_name}</p>
-            <p className="text-xs text-muted-foreground mt-1">{c2.political_party_name}</p>
-          </div>
-        </div>
-      </div>
     </div>
   )
 }
@@ -606,91 +558,30 @@ function VoteComparisonBar({
 
 /* ===== Tags Comparison ===== */
 function TagsComparison({ c1, c2 }: { c1: Candidate; c2: Candidate }) {
-  const allTags = useMemo(() => {
-    const tagSet = new Set([...c1.tags, ...c2.tags])
-    return Array.from(tagSet)
-  }, [c1.tags, c2.tags])
-
-  const sharedTags = c1.tags.filter((t) => c2.tags.includes(t))
-  const only1 = c1.tags.filter((t) => !c2.tags.includes(t))
-  const only2 = c2.tags.filter((t) => !c1.tags.includes(t))
-
   return (
-    <div className="rounded-3xl border border-border bg-card p-6 shadow-sm">
-      {/* Shared badges */}
-      {sharedTags.length > 0 && (
-        <div className="mb-6">
-          <h4 className="mb-3 text-sm font-bold uppercase tracking-wider text-muted-foreground">
-            साझा विशेषता ({sharedTags.length})
-          </h4>
-          <BadgeDisplay tags={sharedTags} size="md" />
-        </div>
-      )}
-
-      <div className="grid gap-6 lg:grid-cols-2">
-        {/* Only candidate 1 */}
-        <div>
-          <h4 className="mb-3 text-sm font-bold uppercase tracking-wider text-primary flex items-center gap-2">
-            <span className="h-3 w-3 rounded-full bg-primary" />
-            {c1.candidate_name} मात्र ({only1.length})
-          </h4>
-          {only1.length > 0 ? (
-            <BadgeDisplay tags={only1} size="md" candidate={c1} />
-          ) : (
-            <p className="text-sm text-muted-foreground">कुनै अनन्य विशेषता छैन</p>
-          )}
-        </div>
-
-        {/* Only candidate 2 */}
-        <div>
-          <h4 className="mb-3 text-sm font-bold uppercase tracking-wider text-compare-secondary flex items-center gap-2">
-            <span className="h-3 w-3 rounded-full bg-compare-secondary" />
-            {c2.candidate_name} मात्र ({only2.length})
-          </h4>
-          {only2.length > 0 ? (
-            <BadgeDisplay tags={only2} size="md" candidate={c2} />
-          ) : (
-            <p className="text-sm text-muted-foreground">कुनै अनन्य विशेषता छैन</p>
-          )}
-        </div>
+    <div className="grid gap-6 lg:grid-cols-2">
+      <div className="rounded-3xl border-2 border-primary/20 bg-card p-6 shadow-sm">
+        <h4 className="mb-4 text-sm font-bold uppercase tracking-wider text-primary flex items-center gap-2">
+          <span className="h-3 w-3 rounded-full bg-primary" />
+          {c1.candidate_name}
+        </h4>
+        {c1.tags.length > 0 ? (
+          <BadgeDisplay tags={c1.tags} size="md" candidate={c1} />
+        ) : (
+          <p className="text-sm text-muted-foreground">कुनै विशेषता छैन</p>
+        )}
       </div>
-
-      {/* Full tag comparison table */}
-      {allTags.length > 0 && (
-        <div className="mt-6 pt-6 border-t border-border/50">
-          <h4 className="mb-4 text-sm font-bold uppercase tracking-wider text-muted-foreground">
-            विस्तृत तुलना
-          </h4>
-          <div className="space-y-2">
-            {allTags.map((tag) => {
-              const def = badgeDefinitions[tag]
-              const has1 = c1.tags.includes(tag)
-              const has2 = c2.tags.includes(tag)
-              return (
-                <div key={tag} className="flex items-center justify-between rounded-xl bg-muted/30 px-4 py-2.5">
-                  <span className="text-sm font-medium text-foreground">
-                    {def?.nameNepali || tag}
-                  </span>
-                  <div className="flex items-center gap-6">
-                    <span className={cn(
-                      "flex h-6 w-6 items-center justify-center rounded-full text-xs font-bold",
-                      has1 ? "bg-primary/15 text-primary" : "bg-secondary text-muted-foreground"
-                    )}>
-                      {has1 ? "O" : "X"}
-                    </span>
-                    <span className={cn(
-                      "flex h-6 w-6 items-center justify-center rounded-full text-xs font-bold",
-                      has2 ? "bg-compare-secondary/15 text-compare-secondary" : "bg-secondary text-muted-foreground"
-                    )}>
-                      {has2 ? "O" : "X"}
-                    </span>
-                  </div>
-                </div>
-              )
-            })}
-          </div>
-        </div>
-      )}
+      <div className="rounded-3xl border-2 border-compare-secondary/20 bg-card p-6 shadow-sm">
+        <h4 className="mb-4 text-sm font-bold uppercase tracking-wider text-compare-secondary flex items-center gap-2">
+          <span className="h-3 w-3 rounded-full bg-compare-secondary" />
+          {c2.candidate_name}
+        </h4>
+        {c2.tags.length > 0 ? (
+          <BadgeDisplay tags={c2.tags} size="md" candidate={c2} />
+        ) : (
+          <p className="text-sm text-muted-foreground">कुनै विशेषता छैन</p>
+        )}
+      </div>
     </div>
   )
 }
@@ -714,8 +605,8 @@ function PersonalDetailsComparison({ c1, c2 }: { c1: Candidate; c2: Candidate })
       {/* Header row */}
       <div className="grid grid-cols-[1fr_1fr_1fr] border-b border-border bg-muted/30 px-4 py-3">
         <div className="text-xs font-bold uppercase tracking-wider text-muted-foreground">विवरण</div>
-        <div className="text-xs font-bold uppercase tracking-wider text-primary text-center">उम्मेदवार क</div>
-        <div className="text-xs font-bold uppercase tracking-wider text-compare-secondary text-center">उम्मेदवार ख</div>
+        <div className="text-xs font-bold uppercase tracking-wider text-primary text-center">{c1.candidate_name}</div>
+        <div className="text-xs font-bold uppercase tracking-wider text-compare-secondary text-center">{c2.candidate_name}</div>
       </div>
       {/* Data rows */}
       {rows.map((row, i) => {
